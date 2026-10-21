@@ -1,0 +1,8 @@
+# ChandRush Approach1 pipeline (Python 3.10+)
+reportlab>=4.0
+pymupdf>=1.24
+pillow>=10.0
+numpy>=1.26
+pyyaml>=6.0
+# Optional, only for `python -m pipeline generate --run` (Codex image CLI / OpenAI API route):
+# openai>=1.40

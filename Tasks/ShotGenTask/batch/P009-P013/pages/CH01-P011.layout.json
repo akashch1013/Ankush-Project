@@ -1,0 +1,27 @@
+{
+  "_about": "Director layout for V07 page 11. Units: pt, origin top-left. Two cinematic tiers: the marked tickets outside the Gate, then the larger reveal inside Entry Court (empty Moon Bell stand, Tara).",
+  "page_id": "CH01-P011",
+  "theme": "gate_night",
+  "border": "mirror_diamond",
+  "hierarchy": "The reveal of the empty stand is the page's focal point, so the lower tier is taller.",
+  "panels": [
+    {
+      "panel_id": "CH01-P011-PN01",
+      "frame": [24, 24, 840, 280],
+      "art": {"focus": [0.5, 0.55], "zoom": 1.0, "standin_focus": [0.6, 0.8]},
+      "compose": "Slightly elevated medium-close view, very wide. Ahana kneeling frame-left, Vihaan crouching centre, Navya kneeling right, each holding a marked ticket face-up towards Tez, who is at right-centre with a forepaw on the edge of Navya's ticket. The open emergency door behind them at right. Upper-left 46% x 30% calm for a three-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0163", "at": [38, 38], "w": 360}
+      ]
+    },
+    {
+      "panel_id": "CH01-P011-PN02",
+      "frame": [24, 300, 840, 618],
+      "art": {"focus": [0.5, 0.5], "zoom": 1.0, "standin_focus": [0.45, 0.45]},
+      "compose": "Eye-level medium-wide reveal. Empty circular Moon Bell stand on its stepped base slightly left of centre, complete with its empty suspension ring and slack rope; Tara standing to its right with staff and open palm; the wall map's edge at frame-right. Upper-left 36% x 22% calm (night sky / court wall) for a two-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0164", "at": [38, 314], "w": 300}
+      ]
+    }
+  ]
+}

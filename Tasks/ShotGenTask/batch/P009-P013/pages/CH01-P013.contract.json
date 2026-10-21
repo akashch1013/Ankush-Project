@@ -1,0 +1,224 @@
+{
+  "schema": "approach1.page_contract.v1",
+  "page_id": "CH01-P013",
+  "page": 13,
+  "revision": "V07",
+  "book_name": "CHANDRUSH: THE MIDNIGHT MELA",
+  "chapter_identity": "BOOK OPENING / PROLOGUE",
+  "page_purpose": "The sabotage, the vanished thief and the two-part mission",
+  "manifest_file": "Scripts/CH01_V07_PANEL_MANIFEST.json",
+  "manifest_sha256": "540a87119ca4ca65ed83f8871a05568214aa6f9df7c588745914f23da5c21cb5",
+  "manuscript_file": "Scripts/CH 01 PANELIZED MANUSCRIPT V07.docx",
+  "manuscript_sha256_expected": "0aee925679c138ab6277df5e0257e954e1e735b037c657ce8f1b0485b66e5fcd",
+  "page_notes": [
+    {
+      "block_id": "V02-B0177",
+      "text": "Page purpose: The sabotage, the vanished thief and the two-part mission"
+    },
+    {
+      "block_id": "V02-B0178",
+      "text": "NON-PRINTABLE — SOURCE LOCATOR ONLY: V06 graphic-novel pages 08, 09. Do not treat this locator as a current page or panel ID."
+    }
+  ],
+  "shared_notes": [],
+  "panels": [
+    {
+      "panel_id": "CH01-P013-PN01",
+      "job_key": "V07/CH01-P013-PN01",
+      "panel_number": 1,
+      "panel_type": "STORY",
+      "focus": "Sabotage across the fair",
+      "location_references": [
+        "ENTRY COURT.png"
+      ],
+      "character_references": [
+        "TARA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "ENTRY COURT.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/ENTRY COURT.png",
+          "status": "found"
+        },
+        {
+          "literal": "TARA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0184",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Along the way, he changed number cards, mixed food labels, swapped costume parts, copied false repair reports, hid a metal weight inside a game, turned parts of the Grand Pavilion and sent power to the sealed launcher on the Moon Deck.",
+          "text_sha256": "71f9e677d115bf6e5e7c78bd4147bccd33b5cd64e0cf3d81953aa29d3dcb0b6d",
+          "source_xml_sha256": "42f6eb9febe939df6a12c3973cd84da1481f29b5279ac5f2c6c4f8596a17fd77",
+          "render_text": "Along the way, he changed number cards, mixed food labels, swapped costume parts, copied false repair reports, hid a metal weight inside a game, turned parts of the Grand Pavilion and sent power to the sealed launcher on the Moon Deck.",
+          "runs": [
+            {
+              "text": "Along the way, he changed number cards, mixed food labels, swapped costume parts, copied false repair reports, hid a metal weight inside a game, turned parts of the Grand Pavilion and sent power to the sealed launcher on the Moon Deck.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0180",
+          "text": "• Location: Entry Court beside the empty circular Moon Bell stand on its stepped base. Location reference: ENTRY COURT.png. Camera: medium view from beside the stand towards Tara and the wall map. Static visual: Tara stands between the empty Bell stand at frame-left and the fair map at frame-right. She grips her staff with her left hand and extends her right index finger towards the map’s interior routes, her expression intent and concerned. The map retains its reference design; do not add numbered equations or new route labels. This is Tara’s briefing in Entry Court, with the sabotage described in narration; show no extra locations, repair objects or culprit within the court. The circular Bell stand is empty; its hanging rope remains. The map is on the wall between the stand and the dark Lantern Street arch. No Moon Bell is present in Entry Court. Night; the map is readable under a low wall lamp. Character-sheet references (CHANDRUSH CHARACTERS): Tara — TARA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P013-PN02",
+      "job_key": "V07/CH01-P013-PN02",
+      "panel_number": 2,
+      "panel_type": "STORY",
+      "focus": "The thief and Bell are gone",
+      "location_references": [
+        "ENTRY COURT.png"
+      ],
+      "character_references": [
+        "TARA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "ENTRY COURT.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/ENTRY COURT.png",
+          "status": "found"
+        },
+        {
+          "literal": "TARA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0185",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "By the time Tara discovered the theft, the figure and the Bell were gone.",
+          "text_sha256": "60d8c230a0b2f85ddd5505cc5ee7ae85cfc09325aec911822163112435efc9e1",
+          "source_xml_sha256": "1e5d10f971bbe3fe0addcbf8a1a300c34c942aca236fb985af82573bbd1957d9",
+          "render_text": "By the time Tara discovered the theft, the figure and the Bell were gone.",
+          "runs": [
+            {
+              "text": "By the time Tara discovered the theft, the figure and the Bell were gone.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0181",
+          "text": "• Location: Entry Court beside the empty circular Moon Bell stand on its stepped base. Location reference: ENTRY COURT.png. Camera: close three-quarter view of Tara and the empty suspension point. Static visual: Tara stands left of the vacant ring, right fingertips resting on its lower edge, staff held in her left hand. Her shoulders are lowered, lips closed and eyes fixed on the empty hanging point with worry. The rope hangs slack from the mount. Show no other characters and no Bell. Night; blue stone wall and a dim amber lamp behind the empty stand. Character-sheet references (CHANDRUSH CHARACTERS): Tara — TARA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P013-PN03",
+      "job_key": "V07/CH01-P013-PN03",
+      "panel_number": 3,
+      "panel_type": "STORY",
+      "focus": "Repair and recovery are inseparable",
+      "location_references": [
+        "ENTRY COURT.png"
+      ],
+      "character_references": [
+        "TARA CHARACTER SHEET.png",
+        "AHANA CHARACTER SHEET.png",
+        "VIHAAN CHARACTER SHEET.png",
+        "NAVYA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "ENTRY COURT.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/ENTRY COURT.png",
+          "status": "found"
+        },
+        {
+          "literal": "TARA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "AHANA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "NAVYA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0186",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "The volunteers now have two jobs, and the jobs cannot be separated. A repaired fair cannot leave without the Bell. The Bell cannot safely carry a damaged fair onto the Moon Path. They must repair ChandRush and recover the Bell before moonset.",
+          "text_sha256": "0428f57c400a5d07dc17c4097bd0e1a51623aed316a642a39b6d5980134ccdae",
+          "source_xml_sha256": "87770a66bb3bfe1f23bc1872695c164874a2ce5ef9a7956e7ecf0ee62c812b56",
+          "render_text": "The volunteers now have two jobs, and the jobs cannot be separated. A repaired fair cannot leave without the Bell. The Bell cannot safely carry a damaged fair onto the Moon Path. They must repair ChandRush and recover the Bell before moonset.",
+          "runs": [
+            {
+              "text": "The volunteers now have two jobs, and the jobs cannot be separated. A repaired fair cannot leave without the Bell. The Bell cannot safely carry a damaged fair onto the Moon Path. They must repair ChandRush and recover the Bell before moonset.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0182",
+          "text": "• Location: Entry Court beside the empty circular Moon Bell stand on its stepped base. Location reference: ENTRY COURT.png. Camera: eye-level medium-wide view of the briefing group. Static visual: Tara stands right of the empty stand, left hand on her staff and right palm open towards the three volunteers. Ahana stands left, feet planted, both hands supporting an open sketchbook at chest height with its pages facing her torso and eyes on Tara. Vihaan stands centre with hands on his backpack straps, looking up with a worried but attentive face. Navya stands right, hand resting on her pouch, watching the empty mount with a firm expression. Keep the Bell stand, map and dark street arch within the court view. The circular Bell stand is empty; its hanging rope remains. The map is on the wall between the stand and the dark Lantern Street arch. No Moon Bell is present in Entry Court. Night; the Moon Path is not visible or open in this briefing scene. Character-sheet references (CHANDRUSH CHARACTERS): Tara — TARA CHARACTER SHEET.png; Ahana — AHANA CHARACTER SHEET.png; Vihaan — VIHAAN CHARACTER SHEET.png; Navya — NAVYA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    }
+  ]
+}

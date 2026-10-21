@@ -1,0 +1,53 @@
+{
+  "_about": "Literal manuscript reference filenames that are NOT in Locations/ or Charactors/ (checked 2026-10-11). `pipeline extract` uses a mapping only when 'file' is set; every candidate needs the author's confirmation before production (Rule Book A08/B01, Brief V03 §9). None of these affect batch P009-P013.",
+  "mappings": {
+    "ANTERN TIMING DRUM REPAIR KIT WORK AREA.png.png": {
+      "file": null, "candidate": "ANTERN TIMING DRUM REPAIR KIT WORK AREA.png",
+      "status": "candidate - confirm", "used_by": "P035-PN02..PN04, P043-PN01..PN02",
+      "reason": "Same literal name without the doubled extension (Brief V03 §9 lists .png.png names as literal)."
+    },
+    "LANTERN-STREET-REVERSE-VIEW-FROM-CUBE-LANTERN-BAY.png": {
+      "file": null, "candidate": "LANTERN STREET REVERSE VIEW FROM CUBE LANTERN BAY.png",
+      "status": "candidate - confirm", "used_by": "P096-PN01, P096-PN04, P097-PN04",
+      "reason": "Brief V03 LOC-EX-03 says the bank also contains a spaced-name variant."
+    },
+    "MIRROR SQUARE REPAIR AREA BEFORE 81 TILES V01.png": {
+      "file": null, "candidate": "MIRROR SQUARE REPAIR AREA.png",
+      "status": "candidate - confirm state", "used_by": "13 panels from P073 to P083",
+      "reason": "Same location; must show the BEFORE state (empty frame, loose tiles outside) - inspect before use."
+    },
+    "LANTERN LIFT STREET LEVEL 0 CLOSE UP-FAULTY-CONTROLS.png.png": {
+      "file": null, "candidate": null, "status": "missing state variant", "used_by": "P028-PN01, P028-PN02, P030-PN01",
+      "reason": "The base close-up exists but the faulty-controls state (-2, -2, +2, -2) is a teaching state; do not substitute."
+    },
+    "LANTERN LIFT STREET LEVEL 0 CLOSE UP-CORRECTED-CONTROLS.png.png": {
+      "file": null, "candidate": null, "status": "missing state variant", "used_by": "9 panels P030-P035",
+      "reason": "Corrected-controls state (four -2 controls) is a teaching state; do not substitute."
+    },
+    "LANTERN LIF SHAFT & ADJASCENT NUMBER LINE-AT-MINUS-8.png.png": {
+      "file": null, "candidate": null, "status": "missing state variant", "used_by": "P034-PN03",
+      "reason": "Lift car must be shown at -8; the base image shows a different position."
+    },
+    "ANTERN TIMING DRUM REPAIR KIT WORK AREA-RESET-CLOSE UP.png": {"file": null, "candidate": null, "status": "missing state variant", "used_by": "P047-PN01", "reason": "Timing-drum reset state."},
+    "ANTERN TIMING DRUM REPAIR KIT WORK AREA-REPAIRED-CLOSE UP.png": {"file": null, "candidate": null, "status": "missing state variant", "used_by": "P047-PN02..PN05", "reason": "Timing-drum repaired state."},
+    "ANTERN TIMING DRUM REPAIR KIT WORK AREA-EMPTY-KITS-CLOSE UP.png": {"file": null, "candidate": null, "status": "missing state variant", "used_by": "P047-PN05, P048-PN01..PN03, P050-PN01", "reason": "15 empty trays (exact count teaches HCF)."},
+    "ANTERN TIMING DRUM REPAIR KIT WORK AREA-FILLED-KITS-CLOSE UP.png": {"file": null, "candidate": null, "status": "missing state variant", "used_by": "P050-PN02..PN04, P058-PN01", "reason": "15 trays x (3 blue clips + 5 gold rings)."},
+    "CH01-FAIR-ARRIVAL-MUMBAI-V01.png": {"file": null, "candidate": null, "status": "missing approved art", "used_by": "P002-PN03", "reason": "Already covered by the Opening V04 sample art."},
+    "CH01-CHAR-AHANA-01.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P064-PN02", "reason": "Character-aside vignette; generate from the sheet when that batch is made."},
+    "CH01-CHAR-AHANA-02.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P068-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-AHANA-03.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P087-PN03", "reason": "Character-aside vignette."},
+    "CH01-CHAR-AHANA-04.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P094-PN03", "reason": "Character-aside vignette."},
+    "CH01-CHAR-NAVYA-01.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P066-PN03", "reason": "Character-aside vignette."},
+    "CH01-CHAR-NAVYA-02.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P070-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-NAVYA-03.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P090-PN03", "reason": "Character-aside vignette."},
+    "CH01-CHAR-TARA-01.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P092-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-TEZ-01.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P067-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-TEZ-02.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P071-PN03", "reason": "Character-aside vignette."},
+    "CH01-CHAR-TEZ-03.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P093-PN03", "reason": "Character-aside vignette."},
+    "CH01-CHAR-VIHAAN-01.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P065-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-VIHAAN-02.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P069-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-VIHAAN-03.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P089-PN02", "reason": "Character-aside vignette."},
+    "CH01-CHAR-VIHAAN-04.png": {"file": null, "candidate": null, "status": "missing vignette", "used_by": "P091-PN02", "reason": "Character-aside vignette."}
+  },
+  "unused_assets": ["CHANDRUSH FAIR ARIAL MASTER MAP.png", "HISTORIC CHADRUSH FAIR 04.png", "LANTERN STREET REVERSE VIEW FROM CUBE LANTERN BAY.png", "MIRROR SQUARE REPAIR AREA.png", "ANTERN TIMING DRUM REPAIR KIT WORK AREA.png"]
+}

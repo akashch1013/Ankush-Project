@@ -1,0 +1,33 @@
+{
+  "_about": "Identity cards for prompts. The character sheet image is always the authority; these short descriptions only help the image model match each sheet to a name. Descriptions were written after inspecting the sheets in Charactors/CHANDRUSH CHARACTERS and the approved Opening V04 art (2026-10-11). Leave out sheet lettering (T-shirt slogan, sketchbook cover words) - story art shows them plain.",
+  "Ahana": {
+    "sheet": "AHANA CHARACTER SHEET.png",
+    "card": "Ahana (curly dark hair, teal jacket over a coral T-shirt, charcoal cargo trousers, navy backpack)",
+    "props": "small spiral sketchbook (plain cover in story art); navy backpack with a compass charm",
+    "watch": "Big voluminous curls; warm brown skin; white-and-blue sneakers. No slogan text on the T-shirt in story art."
+  },
+  "Vihaan": {
+    "sheet": "VIHAAN CHARACTER SHEET.png",
+    "card": "Vihaan (thick tousled black hair, mustard-yellow jacket, navy T-shirt, slate-blue cargo trousers, deep-red backpack)",
+    "props": "deep-red backpack; dark wristwatch",
+    "watch": "Mustard jacket and red backpack are his strongest recognition cues."
+  },
+  "Navya": {
+    "sheet": "NAVYA CHARACTER SHEET.png",
+    "card": "Navya (two long dark braids, maroon jacket over a navy-and-white striped top, denim cargo jeans, tan crossbody pouch)",
+    "props": "tan leather crossbody satchel - the manuscript calls it her pouch / tool pouch; black wristwatch",
+    "watch": "Twin braids with a centre parting and short fringe. The literal filename NAYA INVITATION DISCOVERY.png refers to Navya."
+  },
+  "Tez": {
+    "sheet": "TEZ CHARACTER SHEET.png",
+    "card": "Tez (a small tiger cub with a navy neckerchief and a round silver button)",
+    "props": "navy neckerchief with silver trim and a round silver button",
+    "watch": "The sheet shows black stripes. From V07 p7 the story paints his stripes BLUE (approved Opening art) and the manuscript names faded pale-grey stripes per scene - copy each panel's 'Scene-specific stripe colours' sentence into its prompt."
+  },
+  "Tara": {
+    "sheet": "TARA CHARACTER SHEET.png",
+    "card": "Tara (an elderly woman with a long silver braid, deep-indigo robe with gold motifs, peacock-teal sash and a tall bronze staff)",
+    "props": "tall bronze staff with its ornamental finial exactly as on the sheet; cream kurta and trousers; navy juttis",
+    "watch": "Dignified, realistic elder. Manuscript panels usually put the staff in her own LEFT hand - always state the hand."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "batch_id": "P009-P013",
+  "pages": [9, 10, 11, 12, 13],
+  "manuscript_revision": "V07",
+  "chapter_identity": "BOOK OPENING / PROLOGUE",
+  "look": "Opening V04 PDF design (design/tokens.json)",
+  "decisions": {
+    "pages": "V07 pages 9-13: the first five pages not covered by Completed Samples (user, 2026-10-11).",
+    "look": "Copy the Opening V04 PDF look exactly (user, 2026-10-11).",
+    "speaker_prefix": "Balloons omit the exact 'SPEAKER: ' prefix; the tail identifies the speaker (user, 2026-10-11).",
+    "running_header": "None on prologue pages; page number only, as in the Opening sample."
+  }
+}

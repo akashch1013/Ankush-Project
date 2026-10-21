@@ -1,0 +1,4 @@
+time	job	model	endpoint	size	quality	seconds	input_tokens	output_tokens	est_usd	revised_prompt
+2026-10-20 18:16:30	001-A	gpt-image-2.5-sunburst	generations	2048x1152	high	43	510	1413	0.0449	
+2026-10-20 18:19:07	001-A-fix	gpt-image-2.5-sunburst	edits	2048x1152	high	39	1760	1413	0.0557	
+2026-10-20 19:46:36	001-B	gpt-image-2.5-sunburst	generations	2048x1152	high	42	850	1413	0.0466	

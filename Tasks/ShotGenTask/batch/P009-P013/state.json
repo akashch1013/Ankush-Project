@@ -1,0 +1,19 @@
+{
+  "batch": "P009-P013",
+  "panels": {
+    "CH01-P009-PN01": {
+      "status": "in_progress",
+      "versions": [],
+      "approved_version": null,
+      "audit_status": null,
+      "exceptions": [],
+      "notes": "",
+      "retries": 0
+    }
+  },
+  "current_panel": "CH01-P009-PN01",
+  "current_started_at": "2026-10-11T13:43:20+05:30",
+  "log": [
+    "2026-10-11T13:43:20+05:30  next -> CH01-P009-PN01"
+  ]
+}

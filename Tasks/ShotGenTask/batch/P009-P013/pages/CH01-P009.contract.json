@@ -1,0 +1,343 @@
+{
+  "schema": "approach1.page_contract.v1",
+  "page_id": "CH01-P009",
+  "page": 9,
+  "revision": "V07",
+  "book_name": "CHANDRUSH: THE MIDNIGHT MELA",
+  "chapter_identity": "BOOK OPENING / PROLOGUE",
+  "page_purpose": "Navya joins; Tez explains ChandRush and the Balance Rule",
+  "manifest_file": "Scripts/CH01_V07_PANEL_MANIFEST.json",
+  "manifest_sha256": "540a87119ca4ca65ed83f8871a05568214aa6f9df7c588745914f23da5c21cb5",
+  "manuscript_file": "Scripts/CH 01 PANELIZED MANUSCRIPT V07.docx",
+  "manuscript_sha256_expected": "0aee925679c138ab6277df5e0257e954e1e735b037c657ce8f1b0485b66e5fcd",
+  "page_notes": [
+    {
+      "block_id": "V02-B0121",
+      "text": "Page purpose: Navya joins; Tez explains ChandRush and the Balance Rule"
+    },
+    {
+      "block_id": "V02-B0122",
+      "text": "NON-PRINTABLE — SOURCE LOCATOR ONLY: V06 graphic-novel page 06. Do not treat this locator as a current page or panel ID."
+    },
+    {
+      "block_id": "V02-B0124",
+      "text": "OPENING SEQUENCE D — THE RULES OF CHANDRUSH"
+    },
+    {
+      "block_id": "V02-B0125",
+      "text": "MAIN LOCATION / EXACT SUBLOCATION: Old Blue Gate exterior — clear space beside the emergency opening"
+    },
+    {
+      "block_id": "V02-B0131",
+      "text": "Speech placement: keep the existing line(s) close to VIHAAN; leave faces, hands, signs, cards, controls and mathematical evidence unobstructed."
+    }
+  ],
+  "shared_notes": [],
+  "panels": [
+    {
+      "panel_id": "CH01-P009-PN01",
+      "job_key": "V07/CH01-P009-PN01",
+      "panel_number": 1,
+      "panel_type": "STORY",
+      "focus": "Navya joins",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "AHANA CHARACTER SHEET.png",
+        "VIHAAN CHARACTER SHEET.png",
+        "NAVYA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "AHANA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "NAVYA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0133",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Navya looks at Ahana and Vihaan, then steps forward too.",
+          "text_sha256": "857be6333c620bf40e9615ef057733389f0809ba57f0aff2c01f0d267a4e3c80",
+          "source_xml_sha256": "bbb28107cd3307b03d9abed9fc10a32cac177e390d0a6aec1f5d2abca9832326",
+          "render_text": "Navya looks at Ahana and Vihaan, then steps forward too.",
+          "runs": [
+            {
+              "text": "Navya looks at Ahana and Vihaan, then steps forward too.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0127",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: eye-level medium shot facing the three volunteers. Static visual: Ahana stands left, Vihaan centre and Navya right, all three now aligned one pace ahead of the waiting crowd. Navya’s feet are together on the same paving line as her friends; she looks sideways towards them with a small determined smile. Ahana looks back at her, smiling; Vihaan holds his ticket near his chest and looks relieved. Each child holds one silver invitation. The crowd behind consists only of modern urban children. Night; blue gate leaves remain closed. Character-sheet references (CHANDRUSH CHARACTERS): Ahana — AHANA CHARACTER SHEET.png; Vihaan — VIHAAN CHARACTER SHEET.png; Navya — NAVYA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P009-PN02",
+      "job_key": "V07/CH01-P009-PN02",
+      "panel_number": 2,
+      "panel_type": "STORY",
+      "focus": "Vihaan responds",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "VIHAAN CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0134",
+          "role": "dialogue",
+          "kind": "p",
+          "style": "Dialogue",
+          "text": "VIHAAN: Good. We volunteered first and received the terrifying details second.",
+          "text_sha256": "35496a222c20b190a4180e7531f305d3cceac872b2bdf61938dc403e318cb58f",
+          "source_xml_sha256": "e6e865deecd905577ff6823eeaf698c604b781f5f779b3afdc18302d97afbe35",
+          "speaker": "Vihaan",
+          "render_text": "Good. We volunteered first and received the terrifying details second.",
+          "speaker_prefix_rendered_by_tail": "VIHAAN: ",
+          "runs": [
+            {
+              "text": "VIHAAN: Good. We volunteered first and received the terrifying details second.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0128",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: eye-level medium close-up of Vihaan turned slightly towards his friends off-camera. Static visual: Vihaan holds his silver invitation in his left hand at waist height. His right hand is open palm-up, one eyebrow is raised and his mouth forms a wry half-smile. The closed blue gate and low emergency hatch are visible behind his shoulder. No repair has been completed and no repair mechanism appears. Show only Vihaan. Night; faint exterior lamps and cool moonlight. Character-sheet references (CHANDRUSH CHARACTERS): Vihaan — VIHAAN CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P009-PN03",
+      "job_key": "V07/CH01-P009-PN03",
+      "panel_number": 3,
+      "panel_type": "STORY",
+      "focus": "Tez explains the travelling fair",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "TEZ CHARACTER SHEET.png",
+        "AHANA CHARACTER SHEET.png",
+        "VIHAAN CHARACTER SHEET.png",
+        "NAVYA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "TEZ CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "AHANA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "NAVYA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0136",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Before Tez takes the volunteers inside, he explains what ChandRush is. It is a travelling full-moon mela. On selected full-moon nights, it appears in one city behind a forgotten gate. It must welcome its visitors, pack itself and leave before moonset.",
+          "text_sha256": "309121344127d608f956deba5066294ccd0263ea67647988243ece43883793ed",
+          "source_xml_sha256": "ed1695bfc45c3fd129c6f806d9e4bfbe837063a3db9653891264ced1db279c66",
+          "render_text": "Before Tez takes the volunteers inside, he explains what ChandRush is. It is a travelling full-moon mela. On selected full-moon nights, it appears in one city behind a forgotten gate. It must welcome its visitors, pack itself and leave before moonset.",
+          "runs": [
+            {
+              "text": "Before Tez takes the volunteers inside, he explains what ChandRush is. It is a travelling full-moon mela. On selected full-moon nights, it appears in one city behind a forgotten gate. It must welcome its visitors, pack itself and leave before moonset.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [
+        {
+          "block_id": "V02-B0135",
+          "role": "source_role_label",
+          "kind": "p",
+          "style": "Story Subhead",
+          "text": "Narration",
+          "text_sha256": "d90a31d7b5657632f290514d1273afed379ab8dd94a74aeddb757d91db2421d6",
+          "source_xml_sha256": "f98bc0ca4ff91819ae3b6caf7349a2512a685f56920642f1241d8deb72724c18",
+          "why_not_printed": "Source role label (manifest: NON-PRINTABLE — SOURCE ROLE LABEL)."
+        }
+      ],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0129",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: medium-wide view from the side of the emergency hatch towards the volunteers. Static visual: Tez sits at frame-left, right forepaw raised towards the three children and mouth open as he explains. Ahana stands nearest him supporting an open sketchbook with her left hand and forearm, its pages facing her torso, eyes fixed on him; Vihaan stands centre with his ticket in both hands and a curious expression; Navya stands right with her ticket in her left hand and right hand resting on her pouch, listening intently. The main gate is closed behind Tez; the waiting crowd is outside the crop. Night; the interior behind the gate is dark. Character-sheet references (CHANDRUSH CHARACTERS): Tez — TEZ CHARACTER SHEET.png; Ahana — AHANA CHARACTER SHEET.png; Vihaan — VIHAAN CHARACTER SHEET.png; Navya — NAVYA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Scene-specific stripe colours: Tez’s left-shoulder stripe and the first stripe on each flank immediately behind the foreleg are pale grey; all other stripes are blue. Apply these colours to the stripe pattern in TEZ CHARACTER SHEET.png; they override its black stripe colour for this scene. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P009-PN04",
+      "job_key": "V07/CH01-P009-PN04",
+      "panel_number": 4,
+      "panel_type": "STORY",
+      "focus": "The Balance Rule",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "TEZ CHARACTER SHEET.png",
+        "AHANA CHARACTER SHEET.png",
+        "VIHAAN CHARACTER SHEET.png",
+        "NAVYA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "TEZ CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "AHANA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "NAVYA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0137",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "ChandRush works through a simple rule called the Balance Rule. Its lanterns, food, costumes, games, buildings and travelling parts depend on correct numbers, patterns, shapes, measurements and chance.",
+          "text_sha256": "e456b2bcd3ef22df6484d9564f18ed03334fb4059257c1241904ae41167a0179",
+          "source_xml_sha256": "43704704a1f5fa1ccaf1d932e3b0b5828ff22bff791e1a51f00e3dcc6d9e6a4f",
+          "render_text": "ChandRush works through a simple rule called the Balance Rule. Its lanterns, food, costumes, games, buildings and travelling parts depend on correct numbers, patterns, shapes, measurements and chance.",
+          "runs": [
+            {
+              "text": "ChandRush works through a simple rule called the Balance Rule. Its lanterns, food, costumes, games, buildings and travelling parts depend on correct numbers, patterns, shapes, measurements and chance.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0130",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: low medium shot centred on Tez and the listeners. Static visual: Tez stands at frame-left with his right forepaw open towards the closed blue gate, ears forward and a patient, explanatory expression. Ahana stands centre-left with both hands supporting her open sketchbook, its pages facing her torso, watching him. Vihaan stands centre-right with his head slightly tilted and invitation held low. Navya stands right, arms relaxed, eyes focused on Tez. Their attention is on the explanation; no lantern, food, costume or game demonstrations appear outside the gate. Night; only exterior lane light illuminates the scene. Character-sheet references (CHANDRUSH CHARACTERS): Tez — TEZ CHARACTER SHEET.png; Ahana — AHANA CHARACTER SHEET.png; Vihaan — VIHAAN CHARACTER SHEET.png; Navya — NAVYA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Scene-specific stripe colours: Tez’s left-shoulder stripe and the first stripe on each flank immediately behind the foreleg are pale grey; all other stripes are blue. Apply these colours to the stripe pattern in TEZ CHARACTER SHEET.png; they override its black stripe colour for this scene. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    }
+  ]
+}

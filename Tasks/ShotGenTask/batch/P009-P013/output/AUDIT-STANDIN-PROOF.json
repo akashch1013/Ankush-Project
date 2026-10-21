@@ -1,0 +1,507 @@
+[
+  {
+    "page": 9,
+    "page_id": "CH01-P009",
+    "pdf": "batch/P009-P013/output/proofs/CH01-P009-STANDIN-PROOF.pdf",
+    "checks": [
+      {
+        "check": "page size 864x648 pt",
+        "result": "PASS",
+        "detail": "864.0x648.0"
+      },
+      {
+        "check": "text uses only the four Source faces",
+        "result": "PASS",
+        "detail": "SourceSans3-Regular, SourceSans3-Semibold, SourceSerif4-Regular"
+      },
+      {
+        "check": "every font used is embedded",
+        "result": "PASS",
+        "detail": "all embedded"
+      },
+      {
+        "check": "no unused fonts in the page resources",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0133 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Navya looks at Ahana and Vihaan, then steps forward too.”"
+      },
+      {
+        "check": "text V02-B0134 (dialogue) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Good. We volunteered first and received the terrifying detai…”"
+      },
+      {
+        "check": "text V02-B0134: speaker prefix 'VIHAAN:' not printed (tail identifies the speaker)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0136 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Before Tez takes the volunteers inside, he explains what Cha…”"
+      },
+      {
+        "check": "text V02-B0137 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “ChandRush works through a simple rule called the Balance Rul…”"
+      },
+      {
+        "check": "text appears in manuscript reading order",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no extra text on the page (only the page number)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no internal panel/page ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no source block ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no filename printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no production marker printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no 'Narration' role label printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "CH01-P009-PN01: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P009-PN02: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P009-PN03: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P009-PN04: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "balloon V02-B0134: has a tail",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "balloon V02-B0134: tail tip inside its panel",
+        "result": "PASS",
+        "detail": "tip [740.4250441135351, 120.84320669504629]"
+      },
+      {
+        "check": "balloon V02-B0134: tail aimed on the final art (not a layout default)",
+        "result": "PROOF",
+        "detail": "layout-default"
+      },
+      {
+        "check": "balloon V02-B0134: speaker Vihaan is drawn in this panel",
+        "result": "PASS",
+        "detail": ""
+      }
+    ],
+    "status": "PROOF (art pending)"
+  },
+  {
+    "page": 10,
+    "page_id": "CH01-P010",
+    "pdf": "batch/P009-P013/output/proofs/CH01-P010-STANDIN-PROOF.pdf",
+    "checks": [
+      {
+        "check": "page size 864x648 pt",
+        "result": "PASS",
+        "detail": "864.0x648.0"
+      },
+      {
+        "check": "text uses only the four Source faces",
+        "result": "PASS",
+        "detail": "SourceSans3-Regular, SourceSans3-Semibold, SourceSerif4-Regular, SourceSerif4-Semibold"
+      },
+      {
+        "check": "every font used is embedded",
+        "result": "PASS",
+        "detail": "all embedded"
+      },
+      {
+        "check": "no unused fonts in the page resources",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0151 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “When something is mathematically wrong, ChandRush magic copi…”"
+      },
+      {
+        "check": "text V02-B0152 (dialogue) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Magic can show us that something is wrong. It cannot do the …”"
+      },
+      {
+        "check": "text V02-B0152: speaker prefix 'TEZ:' not printed (tail identifies the speaker)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0153 (reader_interaction) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “That includes you, ChandRush Crew. If the team needs a mathe…”"
+      },
+      {
+        "check": "text appears in manuscript reading order",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no extra text on the page (only the page number)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no internal panel/page ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no source block ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no filename printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no production marker printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no 'Narration' role label printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "CH01-P010-PN01: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P010-PN02: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P010-PN03: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "balloon V02-B0152: has a tail",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "balloon V02-B0152: tail tip inside its panel",
+        "result": "PASS",
+        "detail": "tip [693.9258592899304, 170.79377155377574]"
+      },
+      {
+        "check": "balloon V02-B0152: tail aimed on the final art (not a layout default)",
+        "result": "PROOF",
+        "detail": "layout-default"
+      },
+      {
+        "check": "balloon V02-B0152: speaker Tez is drawn in this panel",
+        "result": "PASS",
+        "detail": ""
+      }
+    ],
+    "status": "PROOF (art pending)"
+  },
+  {
+    "page": 11,
+    "page_id": "CH01-P011",
+    "pdf": "batch/P009-P013/output/proofs/CH01-P011-STANDIN-PROOF.pdf",
+    "checks": [
+      {
+        "check": "page size 864x648 pt",
+        "result": "PASS",
+        "detail": "864.0x648.0"
+      },
+      {
+        "check": "text uses only the four Source faces",
+        "result": "PASS",
+        "detail": "SourceSans3-Regular, SourceSerif4-Regular"
+      },
+      {
+        "check": "every font used is embedded",
+        "result": "PASS",
+        "detail": "all embedded"
+      },
+      {
+        "check": "no unused fonts in the page resources",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0163 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Tez touches the three volunteer invitations. A blue voluntee…”"
+      },
+      {
+        "check": "text V02-B0164 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Inside Entry Court, Tara waits beside an empty stand. The Mo…”"
+      },
+      {
+        "check": "text appears in manuscript reading order",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no extra text on the page (only the page number)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no internal panel/page ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no source block ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no filename printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no production marker printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no 'Narration' role label printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "CH01-P011-PN01: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P011-PN02: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      }
+    ],
+    "status": "PROOF (art pending)"
+  },
+  {
+    "page": 12,
+    "page_id": "CH01-P012",
+    "pdf": "batch/P009-P013/output/proofs/CH01-P012-STANDIN-PROOF.pdf",
+    "checks": [
+      {
+        "check": "page size 864x648 pt",
+        "result": "PASS",
+        "detail": "864.0x648.0"
+      },
+      {
+        "check": "text uses only the four Source faces",
+        "result": "PASS",
+        "detail": "SourceSans3-Regular, SourceSerif4-Regular"
+      },
+      {
+        "check": "every font used is embedded",
+        "result": "PASS",
+        "detail": "all embedded"
+      },
+      {
+        "check": "no unused fonts in the page resources",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0173 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Tara explains that the Bell must ring twice on every ChandRu…”"
+      },
+      {
+        "check": "text V02-B0174 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Then she tells them what happened before the opening. While …”"
+      },
+      {
+        "check": "text appears in manuscript reading order",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no extra text on the page (only the page number)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no internal panel/page ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no source block ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no filename printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no production marker printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no 'Narration' role label printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "CH01-P012-PN01: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P012-PN02: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      }
+    ],
+    "status": "PROOF (art pending)"
+  },
+  {
+    "page": 13,
+    "page_id": "CH01-P013",
+    "pdf": "batch/P009-P013/output/proofs/CH01-P013-STANDIN-PROOF.pdf",
+    "checks": [
+      {
+        "check": "page size 864x648 pt",
+        "result": "PASS",
+        "detail": "864.0x648.0"
+      },
+      {
+        "check": "text uses only the four Source faces",
+        "result": "PASS",
+        "detail": "SourceSans3-Regular, SourceSerif4-Regular"
+      },
+      {
+        "check": "every font used is embedded",
+        "result": "PASS",
+        "detail": "all embedded"
+      },
+      {
+        "check": "no unused fonts in the page resources",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "text V02-B0184 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “Along the way, he changed number cards, mixed food labels, s…”"
+      },
+      {
+        "check": "text V02-B0185 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “By the time Tara discovered the theft, the figure and the Be…”"
+      },
+      {
+        "check": "text V02-B0186 (narration) printed exactly once, word-for-word",
+        "result": "PASS",
+        "detail": "found 1x: “The volunteers now have two jobs, and the jobs cannot be sep…”"
+      },
+      {
+        "check": "text appears in manuscript reading order",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no extra text on the page (only the page number)",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no internal panel/page ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no source block ID printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no filename printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no production marker printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "no 'Narration' role label printed",
+        "result": "PASS",
+        "detail": ""
+      },
+      {
+        "check": "CH01-P013-PN01: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P013-PN02: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      },
+      {
+        "check": "CH01-P013-PN03: final art present",
+        "result": "PROOF",
+        "detail": "using standin art"
+      }
+    ],
+    "status": "PROOF (art pending)"
+  }
+]

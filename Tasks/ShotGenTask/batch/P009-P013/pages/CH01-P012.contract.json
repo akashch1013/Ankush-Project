@@ -1,0 +1,165 @@
+{
+  "schema": "approach1.page_contract.v1",
+  "page_id": "CH01-P012",
+  "page": 12,
+  "revision": "V07",
+  "book_name": "CHANDRUSH: THE MIDNIGHT MELA",
+  "chapter_identity": "BOOK OPENING / PROLOGUE",
+  "page_purpose": "The Bell’s two rings and the theft",
+  "manifest_file": "Scripts/CH01_V07_PANEL_MANIFEST.json",
+  "manifest_sha256": "540a87119ca4ca65ed83f8871a05568214aa6f9df7c588745914f23da5c21cb5",
+  "manuscript_file": "Scripts/CH 01 PANELIZED MANUSCRIPT V07.docx",
+  "manuscript_sha256_expected": "0aee925679c138ab6277df5e0257e954e1e735b037c657ce8f1b0485b66e5fcd",
+  "page_notes": [
+    {
+      "block_id": "V02-B0167",
+      "text": "Page purpose: The Bell’s two rings and the theft"
+    },
+    {
+      "block_id": "V02-B0168",
+      "text": "NON-PRINTABLE — SOURCE LOCATOR ONLY: V06 graphic-novel page 08. Do not treat this locator as a current page or panel ID."
+    }
+  ],
+  "shared_notes": [],
+  "panels": [
+    {
+      "panel_id": "CH01-P012-PN01",
+      "job_key": "V07/CH01-P012-PN01",
+      "panel_number": 1,
+      "panel_type": "STORY",
+      "focus": "The two rings",
+      "location_references": [
+        "ENTRY COURT.png"
+      ],
+      "character_references": [
+        "TARA CHARACTER SHEET.png",
+        "AHANA CHARACTER SHEET.png",
+        "VIHAAN CHARACTER SHEET.png",
+        "NAVYA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "ENTRY COURT.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/ENTRY COURT.png",
+          "status": "found"
+        },
+        {
+          "literal": "TARA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "AHANA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "NAVYA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0173",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Tara explains that the Bell must ring twice on every ChandRush night. The first ring opens the fair. The second ring opens the Moon Path so ChandRush can fold into its silver wagons and leave before moonset.",
+          "text_sha256": "ddd69726f37021cae3b98f2d079056d16276ad4662b95357d6be7612aa708d97",
+          "source_xml_sha256": "b860257a945cef75a62586b9dbbdbe536697eb4dd5f2ed2db6f56b164b99a93d",
+          "render_text": "Tara explains that the Bell must ring twice on every ChandRush night. The first ring opens the fair. The second ring opens the Moon Path so ChandRush can fold into its silver wagons and leave before moonset.",
+          "runs": [
+            {
+              "text": "Tara explains that the Bell must ring twice on every ChandRush night. The first ring opens the fair. The second ring opens the Moon Path so ChandRush can fold into its silver wagons and leave before moonset.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0170",
+          "text": "• Location: Entry Court beside the empty circular Moon Bell stand on its stepped base. Location reference: ENTRY COURT.png. Camera: medium three-quarter view from the volunteers’ side towards Tara and the stand. Static visual: Tara stands beside the vacant suspension ring, holding her staff in her left hand and raising two fingers of her right hand to explain the two bell rings. Ahana is visible at frame-left in three-quarter profile, supporting her open sketchbook with both hands, pages towards her torso, and looking at Tara with concern. Vihaan stands beside Ahana with hands lowered and eyebrows raised; Navya stands closest to the stand, left hand at her pouch, watching Tara’s two raised fingers intently. The circular Bell stand is empty; its hanging rope remains. The map is on the wall between the stand and the dark Lantern Street arch. No Moon Bell is present in Entry Court. Night; the Lantern Street arch beyond remains dark. Character-sheet references (CHANDRUSH CHARACTERS): Tara — TARA CHARACTER SHEET.png; Ahana — AHANA CHARACTER SHEET.png; Vihaan — VIHAAN CHARACTER SHEET.png; Navya — NAVYA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P012-PN02",
+      "job_key": "V07/CH01-P012-PN02",
+      "panel_number": 2,
+      "panel_type": "STORY",
+      "focus": "Tara recounts the theft",
+      "location_references": [
+        "ENTRY COURT.png"
+      ],
+      "character_references": [
+        "TARA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "ENTRY COURT.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/ENTRY COURT.png",
+          "status": "found"
+        },
+        {
+          "literal": "TARA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0174",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Then she tells them what happened before the opening. While ChandRush was being prepared, a tall figure entered the hidden staff route carrying an old silver ticket and a polished walking stick. The figure stole the Moon Bell and moved through the fair.",
+          "text_sha256": "6f75142d40a8e512f1d835ed317e9bac87ecbd472b7bf376fa7115cb3dc63601",
+          "source_xml_sha256": "3af3f7931ea38be218e0bfb98baafbc22ccde6b73a0d1b83c3b811f89b983470",
+          "render_text": "Then she tells them what happened before the opening. While ChandRush was being prepared, a tall figure entered the hidden staff route carrying an old silver ticket and a polished walking stick. The figure stole the Moon Bell and moved through the fair.",
+          "runs": [
+            {
+              "text": "Then she tells them what happened before the opening. While ChandRush was being prepared, a tall figure entered the hidden staff route carrying an old silver ticket and a polished walking stick. The figure stole the Moon Bell and moved through the fair.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0171",
+          "text": "• Location: Entry Court beside the empty circular Moon Bell stand on its stepped base. Location reference: ENTRY COURT.png. Camera: medium close-up of Tara beside the vacant hanging ring. Static visual: Tara holds her staff upright with her left hand. Her right hand is extended towards the empty Bell mount; her eyes are lowered towards it and her mouth is slightly open as she recounts the theft. Her expression is grave. Show only Tara and the empty stand, not a present-day thief or an intact Moon Bell. The old ticket, walking stick and theft are described in her accompanying account. The visible part of the Bell stand contains no large Moon Bell; the rope hangs slack. Keep the framing limited to the objects specified in the static visual. Night; restrained amber highlights on the gold frame. Character-sheet references (CHANDRUSH CHARACTERS): Tara — TARA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    }
+  ]
+}

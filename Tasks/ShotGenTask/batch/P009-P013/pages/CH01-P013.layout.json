@@ -1,0 +1,36 @@
+{
+  "_about": "Director layout for V07 page 13. Units: pt, origin top-left. Tara's briefing at the map, a close beat on the empty mount, then the wide two-job briefing that closes the scene.",
+  "page_id": "CH01-P013",
+  "theme": "court_deepteal",
+  "border": "cube_chamfer",
+  "hierarchy": "Top row: explanation (wide) and a quiet emotional close-up (narrow). Bottom: the mission statement across the full width.",
+  "panels": [
+    {
+      "panel_id": "CH01-P013-PN01",
+      "frame": [24, 24, 560, 330],
+      "art": {"focus": [0.5, 0.55], "zoom": 1.0, "standin_focus": [0.55, 0.5]},
+      "compose": "Medium view from beside the stand: empty Bell stand at frame-left, Tara centre, pointing her right index finger at the wall map at frame-right (map in the middle-lower right). Upper-right 60% x 34% calm (dark wall, vines, night sky) for a five-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0184", "at": [546, 38], "w": 330, "anchor": "tr"}
+      ]
+    },
+    {
+      "panel_id": "CH01-P013-PN02",
+      "frame": [580, 24, 840, 330],
+      "art": {"focus": [0.5, 0.45], "zoom": 1.0, "standin_focus": [0.45, 0.35]},
+      "compose": "Close three-quarter view, portrait frame. The vacant ring and slack rope in the upper half; Tara left of it, fingertips on the ring's lower edge, worried eyes on the empty hanging point. Bottom 22% calm (dark robe / shadow) for a three-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0185", "at": [594, 316], "w": 232, "anchor": "bl"}
+      ]
+    },
+    {
+      "panel_id": "CH01-P013-PN03",
+      "frame": [24, 350, 840, 618],
+      "art": {"focus": [0.5, 0.55], "zoom": 1.0, "standin_focus": [0.5, 0.55]},
+      "compose": "Eye-level medium-wide briefing. Ahana left, Vihaan centre-left, Navya centre, the empty stand centre-right, Tara right of it; map and dark Lantern Street arch at frame-right. Upper-left 58% x 32% calm (night sky / court wall) for a four-line caption; heads below 36% of the frame height.",
+      "text": [
+        {"type": "caption", "block": "V02-B0186", "at": [38, 364], "w": 470}
+      ]
+    }
+  ]
+}

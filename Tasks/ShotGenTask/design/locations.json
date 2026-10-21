@@ -1,0 +1,67 @@
+{
+  "_about": "Location reference notes: what to keep, what to ignore and what the story state corrects. 'inspected' = the image was opened and checked for batch P009-P013. Exception texts are the Production Brief V03 §10 register (LOC-EX-01..14).",
+  "locations": {
+    "OLD BLUE GATE.png": {
+      "inspected": true,
+      "name": "Old Blue Gate, Mumbai lane at night",
+      "keep": "two tall riveted blue gate leaves with large gold circle inlays; stone gateposts with ivy; navy banners with gold circle emblems; the empty ring ornament above the gate; warm street lamps; parked scooters and closed shop shutter at the sides; full moon",
+      "ignore": "the white label boxes, pointer lines and the arrow (production annotations)",
+      "corrections": [
+        "From V07 p6 the coloured (violet) light seam down the gate and around its arch is OFF: the gate is dark.",
+        "From V07 p7 the small ground-level emergency hatch (lower right) stands slightly open on darkness - Tez came through it (matches approved Opening art p12).",
+        "V07 p11 PN01: after the volunteer marks, the small emergency door stands open wide enough for a child."
+      ],
+      "exceptions": ["LOC-EX-11"]
+    },
+    "ENTRY COURT.png": {
+      "inspected": true,
+      "name": "Entry Court inside the Gate",
+      "keep": "stone court with ivy-covered walls and navy banners; empty Moon Bell stand (two slender pillars, empty suspension ring, stepped round base); large ChandRush map on the wall right of the stand; archway to Lantern Street at far right; compass-star inlay in the paving; amber lamps; full moon",
+      "ignore": "the white label boxes and pointer lines (production annotations)",
+      "corrections": [
+        "The Lantern Street archway and street beyond are DARK (no lanterns lit) until the street is repaired - the reference shows them lit.",
+        "The gate back to the outside (left) shows no violet light.",
+        "A short slack rope hangs from the empty mount (manuscript: 'its hanging rope remains').",
+        "No Moon Bell anywhere in the court; do not add labels, numbers or equations to the map."
+      ],
+      "exceptions": ["LOC-EX-10"]
+    },
+    "LANTERN STREET UN REPAIRED STATE.png": {"inspected": false, "exceptions": ["LOC-EX-05"]},
+    "LANTERN STREET REPAIRED STATE.png": {"inspected": false, "exceptions": ["LOC-EX-04"]},
+    "LANTERN STREET REVERSE VIEW FROM CUBE LANTERN BAY.png": {"inspected": false, "exceptions": ["LOC-EX-03"]},
+    "LANTERN LIF SHAFT & ADJASCENT NUMBER LINE.png": {"inspected": false, "exceptions": ["LOC-EX-06"]},
+    "LANTERN LIFT STREET LEVEL 0 CLOSE UP.png": {"inspected": false, "exceptions": ["LOC-EX-07"]},
+    "ANTERN TIMING DRUM REPAIR KIT WORK AREA.png": {"inspected": false, "exceptions": ["LOC-EX-08"]},
+    "TWELVE SUPPLY SHUTTER.png": {"inspected": false, "exceptions": ["LOC-EX-09"]},
+    "MIRROR SQUARE REPAIR AREA.png": {"inspected": false, "exceptions": ["LOC-EX-01"]},
+    "CUBE LANTERN REPAIR BAY AND STREET LIGHT HANDLE.png": {"inspected": false, "exceptions": ["LOC-EX-02"]},
+    "FOOD STREET THRESHHOLD FROM LANTERN STREET.png": {"inspected": false, "exceptions": ["LOC-EX-12"]},
+    "AHANA INVITATION DISCOVERY.png": {"inspected": false, "exceptions": ["LOC-EX-13"]},
+    "VIHAAN INVITATION DISCOVERY.png": {"inspected": false, "exceptions": ["LOC-EX-13"]},
+    "NAYA INVITATION DISCOVERY.png": {"inspected": false, "exceptions": ["LOC-EX-13"]},
+    "THREE SILVER TRAIL MUMBAI LANE.png": {"inspected": false, "exceptions": ["LOC-EX-14"]},
+    "GOLDEN MOON BELL CLOSE UP.png": {"inspected": false, "exceptions": []},
+    "CHANDRUSH FAIR ARIAL MASTER MAP.png": {"inspected": true, "exceptions": [], "note": "Overview of the fair's geography (Old Blue Gate -> Entry Court -> Empty Moon Bell Stand -> Lantern Street -> Food Street -> ...). Not referenced by any V07 panel; useful for continuity of directions."},
+    "HISTORIC CHADRUSH FAIR 01.png": {"inspected": false, "exceptions": []},
+    "HISTORIC CHADRUSH FAIR 02.png": {"inspected": false, "exceptions": []},
+    "HISTORIC CHADRUSH FAIR 03.png": {"inspected": false, "exceptions": []},
+    "HISTORIC CHADRUSH FAIR 04.png": {"inspected": false, "exceptions": []},
+    "HISTORIC CHANDRUSH FAIR DESSERT TOWN.png": {"inspected": false, "exceptions": []}
+  },
+  "exception_register": {
+    "LOC-EX-01": "Mirror area: accept approximate raster seams/counts; before repair: empty frame, loose tiles outside; after repair: completed square with one continuous full-moon reflection. Printed 81 and 9x9 and any countable teaching demonstration stay exact.",
+    "LOC-EX-02": "Cube bay and handle: accept approximate lantern counts and old control details; featured 64 and 4x4x4 teaching stays exact; a completed cube reads as solid, not a flat grid.",
+    "LOC-EX-03": "Reverse street: preserve reverse viewpoint and station order; do not recount distant details; follow the panel's foreground state and lighting.",
+    "LOC-EX-04": "Repaired street: no distant counts; show lit arches, continuous moonline, completed mirror, solid cube, lowered handle, five white repair lamps when specified.",
+    "LOC-EX-05": "Unrepaired street: distant details representative; featured five repair lamps dark, arches/moonline unlit.",
+    "LOC-EX-06": "Lift shaft: in readable teaching views 0 aligns with the street/car floor, -8 with the storage floor, equal integer intervals; one car at the stated level.",
+    "LOC-EX-07": "Lift close-up: preserve cabin/console design; featured controls, cards, rollers and LIFT lamp must match the panel.",
+    "LOC-EX-08": "Timing drums and kits: holes/pegs illustrative; featured beat labels and kit maths match; completed kits read as 15 equal trays.",
+    "LOC-EX-09": "Shutters: extra/ambiguous bay acceptable; full labelled set is 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 25, 100.",
+    "LOC-EX-10": "Entry Court and street board: the court wall map is not the five-lamp repair board; keep the Moon Bell stand empty; the featured street board reads LIFT, RHYTHM, SHUTTERS, MIRROR, CUBE in that order.",
+    "LOC-EX-11": "Old Blue Gate: the overhead ring is an ornament, not the missing Moon Bell; apply the required hatch, crowd and lighting state; earlier views are dark.",
+    "LOC-EX-12": "Food Street: use architecture/counters; the panel controls shutters and displaced items.",
+    "LOC-EX-13": "Invitations: use the settings; the panel controls late-afternoon lighting, character, invitation and silver trail. NAYA = Navya.",
+    "LOC-EX-14": "Mumbai lane: use lane layout and three-way convergence; apply early-evening lighting; do not add a moon just because the reference has one."
+  }
+}

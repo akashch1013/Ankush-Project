@@ -1,0 +1,46 @@
+{
+  "_about": "Director layout for V07 page 9. Units: pt, origin top-left, page 864x648, content area x 24-840, y 24-618. Text comes from the contract by block id; this file only places it.",
+  "page_id": "CH01-P009",
+  "theme": "gate_navy",
+  "border": "lantern_brackets",
+  "hierarchy": "Two story beats per row. Top: Navya's decision (wide) and Vihaan's wry reaction (tall close-up). Bottom: Tez's two explanations side by side, each with room for its long narration.",
+  "panels": [
+    {
+      "panel_id": "CH01-P009-PN01",
+      "frame": [24, 24, 600, 274],
+      "art": {"focus": [0.5, 0.55], "zoom": 1.0, "standin_focus": [0.5, 0.78]},
+      "compose": "Eye-level medium shot. Three children in one line across the centre (Ahana left, Vihaan centre, Navya right), heads between 30% and 45% of the frame height. Waiting crowd small and soft behind them. Upper-left 50% x 22% calm (dark gate stone / night sky) for a one-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0133", "at": [38, 38], "w": 400}
+      ]
+    },
+    {
+      "panel_id": "CH01-P009-PN02",
+      "frame": [620, 24, 840, 274],
+      "art": {"focus": [0.5, 0.5], "zoom": 1.0, "standin_focus": [0.62, 0.72]},
+      "compose": "Medium close-up, portrait-shaped frame. Vihaan only, head and shoulders to waist, in the right two-thirds, face at about 60% across and 45% down. Upper-left 75% x 30% calm (gate stone and dark leaves) for a three-line speech balloon.",
+      "text": [
+        {"type": "balloon", "block": "V02-B0134", "at": [632, 36], "max_w": 200,
+         "tail_to": {"page": [744, 128]}}
+      ]
+    },
+    {
+      "panel_id": "CH01-P009-PN03",
+      "frame": [24, 294, 432, 618],
+      "art": {"focus": [0.5, 0.58], "zoom": 1.0, "standin_focus": [0.62, 0.75]},
+      "compose": "Medium-wide from beside the emergency hatch. Tez sitting at frame-left; Ahana, Vihaan, Navya standing left-to-right towards frame-right. All heads below 36% of the frame height. Top 34% calm (gate leaves in shadow) for a five-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0136", "at": [38, 308], "w": 380}
+      ]
+    },
+    {
+      "panel_id": "CH01-P009-PN04",
+      "frame": [452, 294, 840, 618],
+      "art": {"focus": [0.5, 0.6], "zoom": 1.0, "standin_focus": [0.4, 0.75]},
+      "compose": "Low medium shot. Tez at frame-left, right forepaw open towards the closed gate; Ahana centre-left, Vihaan centre-right, Navya right, all looking at Tez. Heads below 32% of the frame height. Top 30% calm for a four-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0137", "at": [466, 308], "w": 360}
+      ]
+    }
+  ]
+}

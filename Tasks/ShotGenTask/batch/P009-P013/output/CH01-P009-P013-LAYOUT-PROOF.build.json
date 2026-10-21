@@ -1,0 +1,688 @@
+[
+  {
+    "page": 9,
+    "page_id": "CH01-P009",
+    "theme": "gate_navy",
+    "border": "lantern_brackets",
+    "mode": "placeholder",
+    "panels": [
+      {
+        "panel_id": "CH01-P009-PN01",
+        "frame": [
+          24,
+          24,
+          600,
+          274
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P009-PN01.png",
+        "art_sha256": null,
+        "effective_ppi": 109.7,
+        "visible_crop_px": [
+          1.1,
+          0.0,
+          878.9,
+          381.0
+        ],
+        "image_px": [
+          880,
+          381
+        ]
+      },
+      {
+        "panel_id": "CH01-P009-PN02",
+        "frame": [
+          620,
+          24,
+          840,
+          274
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P009-PN02.png",
+        "art_sha256": null,
+        "effective_ppi": 109.7,
+        "visible_crop_px": [
+          0.4,
+          0.0,
+          335.6,
+          381.0
+        ],
+        "image_px": [
+          336,
+          381
+        ]
+      },
+      {
+        "panel_id": "CH01-P009-PN03",
+        "frame": [
+          24,
+          294,
+          432,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P009-PN03.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.1,
+          623.0,
+          494.9
+        ],
+        "image_px": [
+          623,
+          495
+        ]
+      },
+      {
+        "panel_id": "CH01-P009-PN04",
+        "frame": [
+          452,
+          294,
+          840,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P009-PN04.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.3,
+          592.0,
+          494.7
+        ],
+        "image_px": [
+          592,
+          495
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "block_id": "V02-B0133",
+        "panel_id": "CH01-P009-PN01",
+        "type": "caption",
+        "box": [
+          38,
+          38,
+          410.5,
+          68.5
+        ],
+        "lines": [
+          "Navya looks at Ahana and Vihaan, then steps forward too."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0134",
+        "panel_id": "CH01-P009-PN02",
+        "type": "balloon",
+        "box": [
+          632,
+          36,
+          793.7,
+          95.2
+        ],
+        "lines": [
+          "Good. We volunteered",
+          "first and received the",
+          "terrifying details second."
+        ],
+        "speaker": "Vihaan",
+        "tail": {
+          "edge": "bottom",
+          "pos": 727.6157692307693,
+          "base": 12,
+          "tip": [
+            740.4250441135351,
+            120.84320669504629
+          ],
+          "length": 28.664465329517718,
+          "aims_at": [
+            744,
+            128
+          ],
+          "distance_to_target": 36.7
+        },
+        "tail_source": "layout-default"
+      },
+      {
+        "block_id": "V02-B0136",
+        "panel_id": "CH01-P009-PN03",
+        "type": "caption",
+        "box": [
+          38,
+          308,
+          413.9,
+          402.9
+        ],
+        "lines": [
+          "Before Tez takes the volunteers inside, he explains what",
+          "ChandRush is. It is a travelling full-moon mela. On",
+          "selected full-moon nights, it appears in one city behind a",
+          "forgotten gate. It must welcome its visitors, pack itself and",
+          "leave before moonset."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0137",
+        "panel_id": "CH01-P009-PN04",
+        "type": "caption",
+        "box": [
+          466,
+          308,
+          823.5,
+          386.8
+        ],
+        "lines": [
+          "ChandRush works through a simple rule called the",
+          "Balance Rule. Its lanterns, food, costumes, games,",
+          "buildings and travelling parts depend on correct",
+          "numbers, patterns, shapes, measurements and chance."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      }
+    ]
+  },
+  {
+    "page": 10,
+    "page_id": "CH01-P010",
+    "theme": "gate_slate",
+    "border": "silver_moonline",
+    "mode": "placeholder",
+    "panels": [
+      {
+        "panel_id": "CH01-P010-PN01",
+        "frame": [
+          24,
+          24,
+          440,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P010-PN01.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.1,
+          635.0,
+          906.9
+        ],
+        "image_px": [
+          635,
+          907
+        ]
+      },
+      {
+        "panel_id": "CH01-P010-PN02",
+        "frame": [
+          460,
+          24,
+          840,
+          368
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P010-PN02.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.0,
+          580.0,
+          525.0
+        ],
+        "image_px": [
+          580,
+          525
+        ]
+      },
+      {
+        "panel_id": "CH01-P010-PN03",
+        "frame": [
+          676,
+          388,
+          840,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P010-PN03.png",
+        "art_sha256": null,
+        "effective_ppi": 109.8,
+        "visible_crop_px": [
+          0.0,
+          0.2,
+          250.0,
+          350.8
+        ],
+        "image_px": [
+          250,
+          351
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "block_id": "V02-B0151",
+        "panel_id": "CH01-P010-PN01",
+        "type": "caption",
+        "box": [
+          38,
+          38,
+          425.7,
+          149.0
+        ],
+        "lines": [
+          "When something is mathematically wrong, ChandRush",
+          "magic copies or exaggerates the mistake. Tez calls this",
+          "Moon Mischief. A wrong number can make lights flash at",
+          "the wrong time. A wrong fraction can make portions change",
+          "size. A wrong shape can make part of a building behave as if",
+          "the shape itself is confused."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0152",
+        "panel_id": "CH01-P010-PN02",
+        "type": "balloon",
+        "box": [
+          474,
+          38,
+          691.8,
+          113.3
+        ],
+        "lines": [
+          "Magic can show us that something",
+          "is wrong. It cannot do the maths",
+          "for us. We have to understand the",
+          "mistake and fix the real thing."
+        ],
+        "speaker": "Tez",
+        "tail": {
+          "edge": "bottom",
+          "pos": 626.8475007473842,
+          "base": 12,
+          "tip": [
+            693.9258592899304,
+            170.79377155377574
+          ],
+          "length": 88.34613716648923,
+          "aims_at": [
+            700,
+            176
+          ],
+          "distance_to_target": 96.3
+        },
+        "tail_source": "layout-default"
+      },
+      {
+        "block_id": "V02-B0153",
+        "panel_id": "CH01-P010-PN03",
+        "type": "reader",
+        "box": [
+          462,
+          396,
+          660,
+          525.6
+        ],
+        "lines": [
+          "That includes you,",
+          "ChandRush Crew. If the",
+          "team needs a",
+          "mathematical idea tonight,",
+          "learn it with them. They",
+          "will use it on the real",
+          "repair."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      }
+    ]
+  },
+  {
+    "page": 11,
+    "page_id": "CH01-P011",
+    "theme": "gate_night",
+    "border": "mirror_diamond",
+    "mode": "placeholder",
+    "panels": [
+      {
+        "panel_id": "CH01-P011-PN01",
+        "frame": [
+          24,
+          24,
+          840,
+          280
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P011-PN01.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.0,
+          1246.0,
+          391.0
+        ],
+        "image_px": [
+          1246,
+          391
+        ]
+      },
+      {
+        "panel_id": "CH01-P011-PN02",
+        "frame": [
+          24,
+          300,
+          840,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P011-PN02.png",
+        "art_sha256": null,
+        "effective_ppi": 109.8,
+        "visible_crop_px": [
+          0.7,
+          0.0,
+          1245.3,
+          485.0
+        ],
+        "image_px": [
+          1246,
+          485
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "block_id": "V02-B0163",
+        "panel_id": "CH01-P011-PN01",
+        "type": "caption",
+        "box": [
+          38,
+          38,
+          386.8,
+          100.7
+        ],
+        "lines": [
+          "Tez touches the three volunteer invitations. A blue",
+          "volunteer mark appears on each ticket, and the marks",
+          "open a small emergency door in the Gate."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0164",
+        "panel_id": "CH01-P011-PN02",
+        "type": "caption",
+        "box": [
+          38,
+          314,
+          299.4,
+          360.6
+        ],
+        "lines": [
+          "Inside Entry Court, Tara waits beside an",
+          "empty stand. The Moon Bell is gone."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      }
+    ]
+  },
+  {
+    "page": 12,
+    "page_id": "CH01-P012",
+    "theme": "court_teal",
+    "border": "gate_arch",
+    "mode": "placeholder",
+    "panels": [
+      {
+        "panel_id": "CH01-P012-PN01",
+        "frame": [
+          24,
+          24,
+          840,
+          344
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P012-PN01.png",
+        "art_sha256": null,
+        "effective_ppi": 109.8,
+        "visible_crop_px": [
+          0.8,
+          0.0,
+          1245.2,
+          488.0
+        ],
+        "image_px": [
+          1246,
+          488
+        ]
+      },
+      {
+        "panel_id": "CH01-P012-PN02",
+        "frame": [
+          24,
+          364,
+          840,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P012-PN02.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.1,
+          1246.0,
+          387.9
+        ],
+        "image_px": [
+          1246,
+          388
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "block_id": "V02-B0173",
+        "panel_id": "CH01-P012-PN01",
+        "type": "caption",
+        "box": [
+          38,
+          38,
+          377.5,
+          116.8
+        ],
+        "lines": [
+          "Tara explains that the Bell must ring twice on every",
+          "ChandRush night. The first ring opens the fair. The",
+          "second ring opens the Moon Path so ChandRush can",
+          "fold into its silver wagons and leave before moonset."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0174",
+        "panel_id": "CH01-P012-PN02",
+        "type": "caption",
+        "box": [
+          38,
+          378,
+          339.0,
+          489.0
+        ],
+        "lines": [
+          "Then she tells them what happened before",
+          "the opening. While ChandRush was being",
+          "prepared, a tall figure entered the hidden staff",
+          "route carrying an old silver ticket and a",
+          "polished walking stick. The figure stole the",
+          "Moon Bell and moved through the fair."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      }
+    ]
+  },
+  {
+    "page": 13,
+    "page_id": "CH01-P013",
+    "theme": "court_deepteal",
+    "border": "cube_chamfer",
+    "mode": "placeholder",
+    "panels": [
+      {
+        "panel_id": "CH01-P013-PN01",
+        "frame": [
+          24,
+          24,
+          560,
+          330
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P013-PN01.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.0,
+          0.0,
+          818.0,
+          467.0
+        ],
+        "image_px": [
+          818,
+          467
+        ]
+      },
+      {
+        "panel_id": "CH01-P013-PN02",
+        "frame": [
+          580,
+          24,
+          840,
+          330
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P013-PN02.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.1,
+          0.0,
+          396.9,
+          467.0
+        ],
+        "image_px": [
+          397,
+          467
+        ]
+      },
+      {
+        "panel_id": "CH01-P013-PN03",
+        "frame": [
+          24,
+          350,
+          840,
+          618
+        ],
+        "art_kind": "placeholder",
+        "art": "batch/P009-P013/.cache/placeholder-CH01-P013-PN03.png",
+        "art_sha256": null,
+        "effective_ppi": 109.9,
+        "visible_crop_px": [
+          0.3,
+          0.0,
+          1245.7,
+          409.0
+        ],
+        "image_px": [
+          1246,
+          409
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "block_id": "V02-B0184",
+        "panel_id": "CH01-P013-PN01",
+        "type": "caption",
+        "box": [
+          222.1,
+          38,
+          546.0,
+          132.9
+        ],
+        "lines": [
+          "Along the way, he changed number cards, mixed",
+          "food labels, swapped costume parts, copied false",
+          "repair reports, hid a metal weight inside a game,",
+          "turned parts of the Grand Pavilion and sent power",
+          "to the sealed launcher on the Moon Deck."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0185",
+        "panel_id": "CH01-P013-PN02",
+        "type": "caption",
+        "box": [
+          594,
+          253.3,
+          815.4,
+          316.0
+        ],
+        "lines": [
+          "By the time Tara discovered the",
+          "theft, the figure and the Bell were",
+          "gone."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      },
+      {
+        "block_id": "V02-B0186",
+        "panel_id": "CH01-P013-PN03",
+        "type": "caption",
+        "box": [
+          38,
+          364,
+          505.2,
+          442.8
+        ],
+        "lines": [
+          "The volunteers now have two jobs, and the jobs cannot be separated. A",
+          "repaired fair cannot leave without the Bell. The Bell cannot safely carry a",
+          "damaged fair onto the Moon Path. They must repair ChandRush and",
+          "recover the Bell before moonset."
+        ],
+        "speaker": null,
+        "tail": null,
+        "tail_source": null
+      }
+    ]
+  }
+]

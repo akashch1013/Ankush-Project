@@ -1,0 +1,165 @@
+{
+  "schema": "approach1.page_contract.v1",
+  "page_id": "CH01-P011",
+  "page": 11,
+  "revision": "V07",
+  "book_name": "CHANDRUSH: THE MIDNIGHT MELA",
+  "chapter_identity": "BOOK OPENING / PROLOGUE",
+  "page_purpose": "The volunteer marks open the Gate; the Moon Bell stand is empty",
+  "manifest_file": "Scripts/CH01_V07_PANEL_MANIFEST.json",
+  "manifest_sha256": "540a87119ca4ca65ed83f8871a05568214aa6f9df7c588745914f23da5c21cb5",
+  "manuscript_file": "Scripts/CH 01 PANELIZED MANUSCRIPT V07.docx",
+  "manuscript_sha256_expected": "0aee925679c138ab6277df5e0257e954e1e735b037c657ce8f1b0485b66e5fcd",
+  "page_notes": [
+    {
+      "block_id": "V02-B0157",
+      "text": "Page purpose: The volunteer marks open the Gate; the Moon Bell stand is empty"
+    },
+    {
+      "block_id": "V02-B0158",
+      "text": "NON-PRINTABLE — SOURCE LOCATOR ONLY: V06 graphic-novel pages 07, 08. Do not treat this locator as a current page or panel ID."
+    }
+  ],
+  "shared_notes": [],
+  "panels": [
+    {
+      "panel_id": "CH01-P011-PN01",
+      "job_key": "V07/CH01-P011-PN01",
+      "panel_number": 1,
+      "panel_type": "STORY",
+      "focus": "Volunteer invitations marked",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "AHANA CHARACTER SHEET.png",
+        "VIHAAN CHARACTER SHEET.png",
+        "NAVYA CHARACTER SHEET.png",
+        "TEZ CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "AHANA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "VIHAAN CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "NAVYA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+          "status": "found"
+        },
+        {
+          "literal": "TEZ CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0163",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Tez touches the three volunteer invitations. A blue volunteer mark appears on each ticket, and the marks open a small emergency door in the Gate.",
+          "text_sha256": "1fc639fa2395f255011cf687243f50a267e0a119102f5ea696439bcfa8ee12b2",
+          "source_xml_sha256": "610def57c2d0571466a4d207746efce6ce68a497ccc1a7611d5432da99241ffe",
+          "render_text": "Tez touches the three volunteer invitations. A blue volunteer mark appears on each ticket, and the marks open a small emergency door in the Gate.",
+          "runs": [
+            {
+              "text": "Tez touches the three volunteer invitations. A blue volunteer mark appears on each ticket, and the marks open a small emergency door in the Gate.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0160",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: slightly elevated medium-close view of the ticket-marking group. Static visual: Ahana kneels at frame-left, Vihaan crouches centre and Navya kneels right. Each holds one invitation face-up towards Tez. All three tickets bear one blue volunteer mark; Tez’s right forepaw rests against the edge of Navya’s card, his left forepaw on the paving. Ahana looks eager, Vihaan surprised, Navya attentive; Tez looks concentrated. The small emergency door behind them is open enough for a child to enter; the large gate leaves remain closed. Show the completed marked-ticket state, not marks appearing. Night; the scene is outside the Gate, before entry into Entry Court. Character-sheet references (CHANDRUSH CHARACTERS): Ahana — AHANA CHARACTER SHEET.png; Vihaan — VIHAAN CHARACTER SHEET.png; Navya — NAVYA CHARACTER SHEET.png; Tez — TEZ CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Scene-specific stripe colours: Tez’s left-shoulder stripe and the first stripe on each flank immediately behind the foreleg are pale grey; all other stripes are blue. Apply these colours to the stripe pattern in TEZ CHARACTER SHEET.png; they override its black stripe colour for this scene. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P011-PN02",
+      "job_key": "V07/CH01-P011-PN02",
+      "panel_number": 2,
+      "panel_type": "STORY",
+      "focus": "Entry Court and empty Moon Bell stand",
+      "location_references": [
+        "ENTRY COURT.png"
+      ],
+      "character_references": [
+        "TARA CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "ENTRY COURT.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/ENTRY COURT.png",
+          "status": "found"
+        },
+        {
+          "literal": "TARA CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0164",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "Inside Entry Court, Tara waits beside an empty stand. The Moon Bell is gone.",
+          "text_sha256": "9d07a25f41a8550cb93fcf92880e8169048959aafa6ae0fa09e208241aaf8720",
+          "source_xml_sha256": "16e36b041a22aa9920ccaad16ca6c5c86b8073bc38ff994f68940640787ae2f2",
+          "render_text": "Inside Entry Court, Tara waits beside an empty stand. The Moon Bell is gone.",
+          "runs": [
+            {
+              "text": "Inside Entry Court, Tara waits beside an empty stand. The Moon Bell is gone.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0161",
+          "text": "• Location: Entry Court beside the empty circular Moon Bell stand on its stepped base. Location reference: ENTRY COURT.png. Camera: eye-level medium-wide view facing the Bell stand. Static visual: Tara stands to the right of the empty stand with her staff upright in her left hand and her right palm open towards the vacant hanging point. Her face is gentle but troubled. Frame the complete empty suspension ring, its rope, the stepped base and Tara; the map edge is visible at frame-right. Show only Tara. The circular Bell stand is empty; its hanging rope remains. The map is on the wall between the stand and the dark Lantern Street arch. No Moon Bell is present in Entry Court. Night; cool moonlight and low amber court lamps. Character-sheet references (CHANDRUSH CHARACTERS): Tara — TARA CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    }
+  ]
+}

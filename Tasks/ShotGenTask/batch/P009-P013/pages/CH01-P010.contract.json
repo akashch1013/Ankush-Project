@@ -1,0 +1,230 @@
+{
+  "schema": "approach1.page_contract.v1",
+  "page_id": "CH01-P010",
+  "page": 10,
+  "revision": "V07",
+  "book_name": "CHANDRUSH: THE MIDNIGHT MELA",
+  "chapter_identity": "BOOK OPENING / PROLOGUE",
+  "page_purpose": "Moon Mischief and the reader’s role",
+  "manifest_file": "Scripts/CH01_V07_PANEL_MANIFEST.json",
+  "manifest_sha256": "540a87119ca4ca65ed83f8871a05568214aa6f9df7c588745914f23da5c21cb5",
+  "manuscript_file": "Scripts/CH 01 PANELIZED MANUSCRIPT V07.docx",
+  "manuscript_sha256_expected": "0aee925679c138ab6277df5e0257e954e1e735b037c657ce8f1b0485b66e5fcd",
+  "page_notes": [
+    {
+      "block_id": "V02-B0140",
+      "text": "Page purpose: Moon Mischief and the reader’s role"
+    },
+    {
+      "block_id": "V02-B0141",
+      "text": "NON-PRINTABLE — SOURCE LOCATOR ONLY: V06 graphic-novel page 07. Do not treat this locator as a current page or panel ID."
+    },
+    {
+      "block_id": "V02-B0143",
+      "text": "OPENING SEQUENCE E — THE MOON BELL THEFT AND THE MISSION"
+    },
+    {
+      "block_id": "V02-B0144",
+      "text": "MAIN LOCATION / EXACT SUBLOCATION: Old Blue Gate exterior for ticket marking; Entry Court beside the empty Moon Bell stand for the briefing"
+    },
+    {
+      "block_id": "V02-B0149",
+      "text": "Speech placement: keep the existing line(s) close to TEZ; leave faces, hands, signs, cards, controls and mathematical evidence unobstructed."
+    }
+  ],
+  "shared_notes": [],
+  "panels": [
+    {
+      "panel_id": "CH01-P010-PN01",
+      "job_key": "V07/CH01-P010-PN01",
+      "panel_number": 1,
+      "panel_type": "STORY",
+      "focus": "Moon Mischief explained",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "TEZ CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "TEZ CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0151",
+          "role": "narration",
+          "kind": "p",
+          "style": "Story Body",
+          "text": "When something is mathematically wrong, ChandRush magic copies or exaggerates the mistake. Tez calls this Moon Mischief. A wrong number can make lights flash at the wrong time. A wrong fraction can make portions change size. A wrong shape can make part of a building behave as if the shape itself is confused.",
+          "text_sha256": "7a15deed59ff56f5abf4690f498ab427c84d4645f85709fe211ecf3e610056f2",
+          "source_xml_sha256": "1330007cce0e0fcc32c513895ebce3341782e2ecb9e0c08c061eeecc7c959a73",
+          "render_text": "When something is mathematically wrong, ChandRush magic copies or exaggerates the mistake. Tez calls this Moon Mischief. A wrong number can make lights flash at the wrong time. A wrong fraction can make portions change size. A wrong shape can make part of a building behave as if the shape itself is confused.",
+          "runs": [
+            {
+              "text": "When something is mathematically wrong, ChandRush magic copies or exaggerates the mistake. Tez calls this Moon Mischief. A wrong number can make lights flash at the wrong time. A wrong fraction can make portions change size. A wrong shape can make part of a building behave as if the shape itself is confused.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0146",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: medium close-up of Tez with the blue gate base behind him. Static visual: Tez sits beside the emergency hatch with his left forepaw on the ground and his right forepaw extended towards the closed gate. His brows are drawn, ears angled outward and mouth open in a serious explanation. His visibly faded stripes reinforce the fair’s weakened condition. Show only Tez; the examples of faulty magic remain in narration rather than appearing as unrelated objects in this lane. Night; the gate is shut, with darkness through its openings. Character-sheet references (CHANDRUSH CHARACTERS): Tez — TEZ CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Scene-specific stripe colours: Tez’s left-shoulder stripe and the first stripe on each flank immediately behind the foreleg are pale grey; all other stripes are blue. Apply these colours to the stripe pattern in TEZ CHARACTER SHEET.png; they override its black stripe colour for this scene. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P010-PN02",
+      "job_key": "V07/CH01-P010-PN02",
+      "panel_number": 2,
+      "panel_type": "STORY",
+      "focus": "Magic does not do the mathematics",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "TEZ CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "TEZ CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0152",
+          "role": "dialogue",
+          "kind": "p",
+          "style": "Dialogue",
+          "text": "TEZ: Magic can show us that something is wrong. It cannot do the maths for us. We have to understand the mistake and fix the real thing.",
+          "text_sha256": "169a5e15cc41c2f35f925b1317dab1e8e512a2006cbd25e1900b402094e6b525",
+          "source_xml_sha256": "cd53cf8c855132f8cd07ac0bd655028627fc6e3f4936f9059bda786cf3d71ca2",
+          "speaker": "Tez",
+          "render_text": "Magic can show us that something is wrong. It cannot do the maths for us. We have to understand the mistake and fix the real thing.",
+          "speaker_prefix_rendered_by_tail": "TEZ: ",
+          "runs": [
+            {
+              "text": "TEZ: Magic can show us that something is wrong. It cannot do the maths for us. We have to understand the mistake and fix the real thing.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0147",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: low eye-level medium close-up facing Tez. Static visual: Tez sits upright with both forepaws firmly on the paving. He looks towards the volunteers off-camera, eyes steady, ears forward and mouth slightly open. His expression is earnest rather than triumphant. The closed gate and rectangular hatch frame are visible behind him. Show only Tez. Night; cool moonlight with faint warm exterior light. Character-sheet references (CHANDRUSH CHARACTERS): Tez — TEZ CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Scene-specific stripe colours: Tez’s left-shoulder stripe and the first stripe on each flank immediately behind the foreleg are pale grey; all other stripes are blue. Apply these colours to the stripe pattern in TEZ CHARACTER SHEET.png; they override its black stripe colour for this scene. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [],
+      "open_detail_ids": []
+    },
+    {
+      "panel_id": "CH01-P010-PN03",
+      "job_key": "V07/CH01-P010-PN03",
+      "panel_number": 3,
+      "panel_type": "READER INTERACTION",
+      "focus": "The reader joins the crew",
+      "location_references": [
+        "OLD BLUE GATE.png"
+      ],
+      "character_references": [
+        "TEZ CHARACTER SHEET.png"
+      ],
+      "resolved_references": [
+        {
+          "literal": "OLD BLUE GATE.png",
+          "kind": "location",
+          "path": "Locations/CH 01 LOCATIONS/OLD BLUE GATE.png",
+          "status": "found"
+        },
+        {
+          "literal": "TEZ CHARACTER SHEET.png",
+          "kind": "character",
+          "path": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+          "status": "found"
+        }
+      ],
+      "locked_approved_artwork": false,
+      "printable": [
+        {
+          "block_id": "V02-B0153",
+          "role": "reader_interaction",
+          "kind": "p",
+          "style": "Reader Callout",
+          "text": "That includes you, ChandRush Crew. If the team needs a mathematical idea tonight, learn it with them. They will use it on the real repair.",
+          "text_sha256": "5ecfb71c8f230a8a3d4d3c6ad228cb41712b83ff252496845fe453838c9c3197",
+          "source_xml_sha256": "6778c2a81e47e90f88d4364eae211cdc07aebcb860e247bc0012f6f287df846a",
+          "render_text": "That includes you, ChandRush Crew. If the team needs a mathematical idea tonight, learn it with them. They will use it on the real repair.",
+          "runs": [
+            {
+              "text": "That includes you, ChandRush Crew. If the team needs a mathematical idea tonight, learn it with them. They will use it on the real repair.",
+              "bold": null,
+              "italic": null,
+              "superscript": null,
+              "subscript": null,
+              "run_style": "Default Paragraph Font"
+            }
+          ]
+        }
+      ],
+      "non_printable": [
+        {
+          "block_id": "V02-B0154",
+          "role": "source_role_label",
+          "kind": "p",
+          "style": "Story Subhead",
+          "text": "Narration",
+          "text_sha256": "d90a31d7b5657632f290514d1273afed379ab8dd94a74aeddb757d91db2421d6",
+          "source_xml_sha256": "b5760e489e8e39741d858125d34f58037cf7f9d7de1b66c7a6133cf8911b68c2",
+          "why_not_printed": "Source role label (manifest: NON-PRINTABLE — SOURCE ROLE LABEL)."
+        }
+      ],
+      "visual_notes": [
+        {
+          "block_id": "V02-B0148",
+          "text": "• Location: Mumbai lane outside the closed Old Blue Gate, beside the small ground-level emergency opening. Location reference: OLD BLUE GATE.png. Camera: low medium inset with Tez facing the reader. Static visual: Tez stands beside the hatch, lifts his right forepaw towards the viewer with the pad partly visible, and looks directly at the reader with an encouraging but serious expression. The closed blue gate fills the background. Show only Tez; the reader is not represented by an additional child. Night; the gate interior is dark. Character-sheet references (CHANDRUSH CHARACTERS): Tez — TEZ CHARACTER SHEET.png. Use the sheets for appearance; use this still’s specified pose, expression and props. Scene-specific stripe colours: Tez’s left-shoulder stripe and the first stripe on each flank immediately behind the foreleg are pale grey; all other stripes are blue. Apply these colours to the stripe pattern in TEZ CHARACTER SHEET.png; they override its black stripe colour for this scene. Style: cinematic painterly graphic-novel illustration; retain the reference architecture, materials and palette. Reference callout labels and arrows are production annotations, not scene lettering."
+        }
+      ],
+      "panelisation_notes": [
+        "The trailing source label “Narration” is retained as production metadata. It is not a new caption, speech line or additional panel."
+      ],
+      "open_detail_ids": []
+    }
+  ]
+}

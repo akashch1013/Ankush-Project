@@ -1,0 +1,37 @@
+{
+  "_about": "Director layout for V07 page 10. Units: pt, origin top-left. Three Tez-only beats: a tall explanation, a close-up line of dialogue, then a small inset where Tez turns to the reader, with the reader call-out set on the page background (Opening p04 style).",
+  "page_id": "CH01-P010",
+  "theme": "gate_slate",
+  "border": "silver_moonline",
+  "hierarchy": "Tall left panel carries the longest narration; the right column steps down from dialogue to the reader call-out so the page ends by addressing the reader.",
+  "panels": [
+    {
+      "panel_id": "CH01-P010-PN01",
+      "frame": [24, 24, 440, 618],
+      "art": {"focus": [0.5, 0.6], "zoom": 1.0, "standin_focus": [0.6, 0.72]},
+      "compose": "Portrait medium close-up of Tez seated beside the emergency hatch, right forepaw extended towards the closed gate. Tez occupies the lower 62% of the frame. Top 25% calm (shadowed gate leaves) for a six-line caption.",
+      "text": [
+        {"type": "caption", "block": "V02-B0151", "at": [38, 38], "w": 388}
+      ]
+    },
+    {
+      "panel_id": "CH01-P010-PN02",
+      "frame": [460, 24, 840, 368],
+      "art": {"focus": [0.5, 0.55], "zoom": 1.0, "standin_focus": [0.62, 0.75]},
+      "compose": "Low eye-level medium close-up of Tez sitting upright, both forepaws on the paving, in the right 60% of the frame with his head at about 45% down. Upper-left 62% x 30% calm for a four-line speech balloon.",
+      "text": [
+        {"type": "balloon", "block": "V02-B0152", "at": [474, 38], "max_w": 236,
+         "tail_to": {"page": [700, 176]}}
+      ]
+    },
+    {
+      "panel_id": "CH01-P010-PN03",
+      "frame": [676, 388, 840, 618],
+      "art": {"focus": [0.5, 0.5], "zoom": 1.0, "standin_focus": [0.62, 0.75]},
+      "compose": "Small portrait inset. Tez standing beside the hatch, facing the viewer, right forepaw lifted towards the viewer with the pad partly visible, eyes on the reader. Whole body visible, centred.",
+      "text": [
+        {"type": "reader", "block": "V02-B0153", "at": [462, 396], "w": 198}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_about": "Director layout for V07 page 12. Units: pt, origin top-left. The two rings (group view) above Tara's account of the theft (close view).",
+  "page_id": "CH01-P012",
+  "theme": "court_teal",
+  "border": "gate_arch",
+  "hierarchy": "Upper tier is the explanation with the whole group; the lower, narrower tier tightens on Tara for the theft.",
+  "panels": [
+    {
+      "panel_id": "CH01-P012-PN01",
+      "frame": [24, 24, 840, 344],
+      "art": {
+        "focus": [0.5, 0.55],
+        "zoom": 1.0,
+        "standin_focus": [0.45, 0.5]
+      },
+      "compose": "Medium three-quarter view from the volunteers' side. Ahana at frame-left in three-quarter profile with her open sketchbook, Vihaan beside her, Navya closest to the stand; Tara at centre-right beside the vacant suspension ring raising two fingers of her right hand. Upper-left 46% x 30% calm (night sky / court wall) for a four-line caption; children's heads below that.",
+      "text": [
+        {
+          "type": "caption",
+          "block": "V02-B0173",
+          "at": [38, 38],
+          "w": 360
+        }
+      ]
+    },
+    {
+      "panel_id": "CH01-P012-PN02",
+      "frame": [24, 364, 840, 618],
+      "art": {
+        "focus": [0.5, 0.5],
+        "zoom": 1.0,
+        "standin_focus": [0.45, 0.42]
+      },
+      "compose": "Medium close-up, very wide frame. Left 40% is calm dark court wall for a six-line caption. Tara at centre-right, staff upright in her left hand, right hand extended towards the empty Bell mount at right, eyes lowered to it.",
+      "text": [
+        {
+          "type": "caption",
+          "block": "V02-B0174",
+          "at": [38, 378],
+          "w": 300
+        }
+      ]
+    }
+  ]
+}

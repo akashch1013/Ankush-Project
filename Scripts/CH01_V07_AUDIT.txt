@@ -1,0 +1,32 @@
+CHANDRUSH CHAPTER 01 — V07 PANELISATION AUDIT
+Source: CH 01 PAGINATION PROPOSAL V02.docx
+Guide: CHANDRUSH-PAGE-DESIGN-MANUAL-V04(1).pdf
+
+PASS — 105 original graphic-novel pages retained, consecutively numbered.
+PASS — 278 unique panel IDs; panel numbering restarts at 01 on each page.
+PASS — All 1661 original source-content blocks retained in their original order and on their original page.
+PASS — Original OOXML of those blocks is unchanged: words, punctuation, paragraph boundaries, run emphasis, mathematical grouping and numbering properties retained.
+PASS — 552 original substantive note blocks retained once with explicit page/panel/shared scope.
+PASS — 8 mathematics tables retained with identical XML, dimensions and cell content.
+PASS — 3 embedded diagram files retained with identical bytes and relationships.
+PASS — Original Word numbering definitions retained.
+
+METADATA — Six standalone “Narration” labels remain in place but are explicitly marked as non-printable source role labels, not added captions.
+METADATA — Old V06 page locators remain historical. Production uses the V07 revision-qualified panel key.
+
+SOURCE DETAILS TO CONFIRM BEFORE THE AFFECTED DIAGRAM ADDITIONS
+1. CH01-P050-PN05: numerical examples requested under the LCM/HCF branches are not fully specified.
+2. CH01-P061-PN01: a failing divisibility-by-8 example is requested but no failing value is specified.
+No new numerical examples or replacement wording have been invented.
+
+OTHER SAFEGUARDS
+CH01-P065-PN01 retains the actual three-column source table rather than adding a fourth column to follow a generic note.
+Distinct source examples and intentional caption continuations remain separate and ordered.
+No new panel dimensions, fixed layouts, mandatory character quotas or manuscript cuts have been introduced.
+
+NOT CERTIFIED BY THIS AUDIT
+Actual asset availability/current versions, finished artwork, final-size page fitting, mathematical correctness beyond source preservation, or an automated production run.
+The author will update old source images separately.
+
+MANUSCRIPT RENDER CHECK
+The final DOCX renders to 163 manuscript sheets containing exactly 105 graphic-novel page labels and 278 panel headers. All sheet contact views and detailed representative table/diagram sheets were reviewed. No text line extends beyond the PDF page bounds. These Word sheets are not extra graphic-novel pages.

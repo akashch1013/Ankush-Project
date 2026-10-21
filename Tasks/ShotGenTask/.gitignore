@@ -1,0 +1,4 @@
+# Disposable caches (rebuilt automatically)
+batch/*/.cache/
+__pycache__/
+*.pyc
