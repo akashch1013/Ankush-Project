@@ -1,0 +1,15 @@
+OK   001-ref · edits · gpt-image-2.5-sunburst · 1280x720 · quality high · prompt 6680 chars · 2 reference image(s)
+    saved out/001-ref.png in 65s; tokens in/out 3713/947; est. $0.054
+OK   002-noref · generations · gpt-image-2.5-sunburst · 1024x768 · quality high · prompt 4963 chars · text-only
+    saved out/002-noref.png in 55s; tokens in/out 1098/1204; est. $0.042
+OK   002-ref · edits · gpt-image-2.5-sunburst · 1024x768 · quality high · prompt 5724 chars · 2 reference image(s)
+    saved out/002-ref.png in 52s; tokens in/out 4191/1204; est. $0.066
+OK   008-noref · generations · gpt-image-2.5-sunburst · 1024x768 · quality high · prompt 4635 chars · text-only
+    saved out/008-noref.png in 59s; tokens in/out 999/1204; est. $0.041
+OK   008-ref · edits · gpt-image-2.5-sunburst · 1024x768 · quality high · prompt 5380 chars · 2 reference image(s)
+    saved out/008-ref.png in 71s; tokens in/out 4145/1204; est. $0.066
+OK   010-noref · generations · gpt-image-2.5-sunburst · 1024x768 · quality high · prompt 4406 chars · text-only
+    saved out/010-noref.png in 76s; tokens in/out 944/1204; est. $0.041
+OK   010-ref · edits · gpt-image-2.5-sunburst · 1024x768 · quality high · prompt 4901 chars · 2 reference image(s)
+    saved out/010-ref.png in 64s; tokens in/out 3025/1204; est. $0.057
+sheet: /home/akasdh/Desktop/Projects/ComicAgent/Tasks/BagroundGenTask/v2/out/SHEET.png

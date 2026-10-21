@@ -1,0 +1,27 @@
+Use case: location background for the illustrated graphic novel ChandRush (Chapter 01), record CH01_LOC_008 "Timing bench, held platform". It is the reference for every later timing-device moment, so the mechanism, state and labels must be exact.
+Asset type: one clean environment illustration with no characters, landscape 4:3.
+Input images: none. Build the place from this description.
+
+Camera: medium three-quarter view from the lane, slightly above bench height and looking a little down, so the bench top, the short guide, the beat strip and the labels read clearly. The whole timing device sits left of centre with useful empty bench around it; a little of the next bench section continues on the right.
+
+Place: the entrance-side end of one long, continuous pale workbench that runs along a blue-painted timber wall on Lantern Street. The bench has a smooth pale blond-timber top with a rounded front lip, edged in brass, and a brushed-brass corner strap at its left end. Behind it: blue timber wall panels with neat vertical seams and restrained gold moon-and-star ornament; one fixed warm brass work lamp on the wall lights the bench.
+
+The timing device, a small handcrafted tabletop mechanism (not a large machine):
+1. A short straight brass guide (two slim parallel rails) runs from the back of the bench near the wall forwards towards the lane and ends in a small brass end stop safely inside the bench's front edge.
+2. One small sliding platform, a flat wooden tray with brass edges, sits at the rear start mark of that guide.
+3. On the platform stands ONE small hand-carved wooden bird, upright with its head raised; its simple hinged head is a visibly separate carved piece.
+4. Two catches hold the platform at the start: a blue-enamelled catch on the LEFT and a gold catch on the RIGHT, each a compact vertical pin on a short lifting arm. Both are lowered and visibly block the platform.
+5. Beside each catch, one small lamp: blue lamp at left, gold lamp at right, both unlit.
+6. Small engraved brass plates: "4 BEATS" beside the blue catch; "6 BEATS" beside the gold catch.
+7. Between and just behind the catches, without hiding them: a narrow brass beat strip with evenly spaced plain tick marks (no numbers, none highlighted); a separate small brass card holder holding one upright card printed "6"; a small mechanical counter whose window reads "0".
+To the right, the kit area begins: the corner of a blue timber stock box with brass corners and one closed padded kit box, partly cut off by the frame edge, with no readable labels.
+
+State and light: night. Bird upright at the rear start; both catches down; start card 6; counter 0; blue and gold lamps unlit. The warm work lamp makes a soft amber pool on the bench; cool moonlight edges the wall seams. Any overhead lantern arch visible at the top is unlit.
+
+Exact labels: print these and nothing else, crisp and correctly spelled: "4 BEATS", "6 BEATS", the start card "6", and the counter "0".
+
+Art style (match this look closely): high-end fantasy environment concept art that blends photographic realism with storybook illustration, like a premium animated-feature background or game key art. Materials have near-photographic conviction: polished and cast brass with bright specular edges and a light patina; blue enamel; navy-blue painted timber with fine grain, rivets, bolt heads, edge banding and gentle wear; hand-carved wood with visible tool marks; clear lamp glass. Forms stay clean, idealised and orderly, with an illustrator's composition and colour harmony rather than gritty realism.
+Colour, light and contrast: a night palette of deep ultramarine, cobalt and navy against warm amber, honey-gold and brass, a strong warm-cool complementary contrast, saturated but natural, never neon. The work lamp glows with soft bloom and casts a golden pool; cool moonlight fills the shadows with blue. Polished brass and the bench lip catch bright highlights. Shadows are deep and rich but keep readable detail.
+Richness: dense, intricate craftsmanship on the wall panels, lamp bracket and bench edging (filigree brackets, brass trims, rivet rows, star-and-moon medallions), while the bench top and the mechanism stay open, clean and readable. Crisp focus throughout; no depth-of-field blur on the device.
+
+Avoid: people, characters, animals, hands or figures; giant drums, gear banks or large machinery; a second bird or second platform; the bird already moved forward or bowing; raised catches or lit catch lamps; any "12" or highlighted mark on the strip; arrows or motion trails; any other text or numbers; captions, callout boxes, title banners, watermarks.

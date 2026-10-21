@@ -14,6 +14,7 @@ in this folder. It is never printed or written anywhere.
   python3 api_gen.py --set full --worker API2 --dry-run                # show the request, spend nothing
 
 Sizes ("2k" is the default): 16:9 2048x1152, 4:3 2048x1536, 3:2 2160x1440.
+"1k" (cheap prompt tests): 1280x720, 1024x768, 1056x704 (exact ratios, edges in multiples of 16).
 "4k": 3840x2160, 3264x2448, 3504x2336. `done` keeps the native file and upscales to the
 Draft 02 target.
 """
@@ -33,7 +34,8 @@ import uuid
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 API = "https://api.openai.com/v1/images"
-PRESETS = {"2k": {"16:9": "2048x1152", "4:3": "2048x1536", "3:2": "2160x1440"},
+PRESETS = {"1k": {"16:9": "1280x720", "4:3": "1024x768", "3:2": "1056x704"},
+           "2k": {"16:9": "2048x1152", "4:3": "2048x1536", "3:2": "2160x1440"},
            "4k": {"16:9": "3840x2160", "4:3": "3264x2448", "3:2": "3504x2336"}}
 # USD per 1M tokens (gpt-image-2 / 2.5 published rates): text in, image in, image out
 RATES = {"text_in": 5.0, "image_in": 8.0, "image_out": 30.0}

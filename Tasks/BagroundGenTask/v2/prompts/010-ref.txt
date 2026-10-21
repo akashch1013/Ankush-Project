@@ -1,0 +1,25 @@
+Use case: location background for the illustrated graphic novel ChandRush (Chapter 01), record CH01_LOC_010 "Projector-kit bench before packing". It is the reference for the kit-packing scenes, so the stock labels and the empty state must be exact.
+Asset type: one clean environment illustration with no characters, landscape 4:3.
+Input images:
+- Image 1: a finished comic panel of this kit bench at a LATER moment, after packing. Use it only for the bench construction (navy-and-brass riveted edging, timber crates below), the stock-box design (blue timber boxes with brass corners and gold label plates) and the finish. Its fifteen filled trays and its "BLUE CLIPS" / "GOLD RINGS" labels belong to another moment: do not copy them.
+- Image 2: an earlier concept sheet of the timing and repair-kit work area. Use it for the setting and look: the kit area set in the fair's stone-and-brass architecture, the padded kit boxes with star emblems, warm lamps and night atmosphere. Ignore its drums, floor grid and clip bins, and leave out all caption boxes, leader lines and the title banner.
+
+Camera: medium view from the lane, slightly above the work surface and looking a little down, square-on to the bench. The centre section of the bench fills the frame; the timing fittings just show at the far-left edge and the edge of a brass hook rack at the far-right edge.
+
+Place: the centre of the same long, continuous pale workbench on Lantern Street's blue-painted timber wall: a smooth pale blond-timber top with a rounded brass-edged front lip and riveted brass corner straps as in Image 1; blue wall panels with neat vertical seams and gold star ornament; one fixed warm brass work lamp on the wall above.
+
+Contents, left to right:
+1. Far-left edge (partly cut off, labels unreadable): the small timing device in its completed state: two raised catches with a small blue lamp and a small gold lamp both glowing, and a small carved wooden bird bowed forward at the front end of its short brass guide. No drums.
+2. Left: the lens stock box in Image 1's design, a blue-painted timber box with brass corners and an ivory padded interior, lid open. Its front carries a large gold label plate reading exactly "45 BLUE GLASS LENSES". Inside, a few round blue glass lenses with visible thickness and polished edges show partly in the padding; do not lay out or individually display all of them.
+3. Centre: a clear working space holding ONE empty padded kit box (open, plain ivory padding, no compartments, nothing inside) and ONE blank pale removable sample board with no cut-outs or markings. The rest of the surface is clear: no trays.
+4. Right: the ring stock box, a matching blue timber box with brass corners and ivory padding, lid open. Its front plate reads exactly "75 BRASS RINGS". A few separate, complete brass rings show partly in the padding.
+5. On the wall above the centre: a short brass lantern-test rail with a plain, empty mounting bracket.
+6. Far-right edge (partly cut off, labels unreadable): a brushed-brass upright of the hook rack and the corner of a sealed ivory carton.
+
+State and light: night. Stock boxes open; one empty kit; blank board; no projector built. The work lamp makes a warm amber pool across the boxes and bench; the blue and gold timing lamps glow small at the far left; cool moonlight edges the wall.
+
+Exact labels: print these and nothing else, crisp and correctly spelled: "45 BLUE GLASS LENSES" and "75 BRASS RINGS".
+
+Art style: match the rendering, palette, contrast and detail density of Images 1 and 2. High-end fantasy environment concept art that blends photographic realism with storybook illustration. Materials have near-photographic conviction: polished and cast brass with bright specular edges and a light patina; navy-blue painted timber with rivets, bolt heads, edge banding and gentle wear; quilted ivory padding; thick blue glass with true refraction and polished rims; clear lamp glass. Forms stay clean, idealised and orderly. A night palette of deep ultramarine, cobalt and navy against warm amber, honey-gold and brass: strong warm-cool contrast, saturated but natural, never neon. The work lamp glows with soft bloom; cool moonlight fills the shadows; brass and glass catch bright highlights. Deep, rich shadows that keep readable detail. Dense craftsmanship on wall panels, lamp bracket, box corners and bench edging; the bench top stays open, clean and readable. Crisp focus throughout; both labels sharp.
+
+Avoid: people, characters, animals, hands or figures; clips of any kind (the stock is lenses and rings only); trays or kits filled with three lenses and five rings; pre-cut compartments; rows of fifteen kits or trays; an assembled projector or lantern head; all 120 pieces spread out; large drums or machinery; any other text or numbers; any caption box, label, leader line, arrow or title banner copied from the references; watermarks.

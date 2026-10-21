@@ -1,0 +1,21 @@
+{
+  "_about": "v2 rewrite (2026-10-21) of records 001, 002, 008 and 010: each record has a text-only prompt written from Draft 02 (noref) and a prompt that attaches reference images (ref). Every prompt carries the same written style study of the reference set. Refs are attached in the listed order and are called Image 1, Image 2 in the prompt. `source` says where each reference PNG came from.",
+  "jobs": [
+    {"id": "001-noref", "record": "001", "title": "Lantern Street initial master", "ratio": "16:9", "prompt": "prompts/001-noref.txt", "refs": []},
+    {"id": "001-ref", "record": "001", "title": "Lantern Street initial master", "ratio": "16:9", "prompt": "prompts/001-ref.txt", "refs": [
+      {"file": "refs/old-lantern-street-unrepaired.png", "source": "Locations/CH 01 LOCATIONS/LANTERN STREET UN REPAIRED STATE.png", "role": "world look only, not layout"},
+      {"file": "refs/sample-p47-lantern-street.png", "source": "Completed Samples/Img/ChandRush_CH01_Page_47_V02.png (character-free crop)", "role": "finished-page finish"}]},
+    {"id": "002-noref", "record": "002", "title": "Goods lift street landing", "ratio": "4:3", "prompt": "prompts/002-noref.txt", "refs": []},
+    {"id": "002-ref", "record": "002", "title": "Goods lift street landing", "ratio": "4:3", "prompt": "prompts/002-ref.txt", "refs": [
+      {"file": "refs/old-lift-street-level-0.png", "source": "Locations/CH 01 LOCATIONS/LANTERN LIFT STREET LEVEL 0 CLOSE UP.png", "role": "parent design, state changed"},
+      {"file": "refs/wa-lift-shaft-number-line.png", "source": "WhatsApp zip: WhatsApp Image 2026-10-21 at 16.48.08 (3).jpeg", "role": "numeral style, guide rails"}]},
+    {"id": "008-noref", "record": "008", "title": "Timing bench held platform", "ratio": "4:3", "prompt": "prompts/008-noref.txt", "refs": []},
+    {"id": "008-ref", "record": "008", "title": "Timing bench held platform", "ratio": "4:3", "prompt": "prompts/008-ref.txt", "refs": [
+      {"file": "refs/wa-timing-drums-closeup.png", "source": "WhatsApp zip: WhatsApp Image 2026-10-21 at 16.48.08 (1).jpeg", "role": "finish and blue/gold colour coding only"},
+      {"file": "refs/wa-timing-drums-kit-area.png", "source": "WhatsApp zip: WhatsApp Image 2026-10-21 at 16.48.08.jpeg", "role": "setting, kit area to the right"}]},
+    {"id": "010-noref", "record": "010", "title": "Projector kit bench before packing", "ratio": "4:3", "prompt": "prompts/010-noref.txt", "refs": []},
+    {"id": "010-ref", "record": "010", "title": "Projector kit bench before packing", "ratio": "4:3", "prompt": "prompts/010-ref.txt", "refs": [
+      {"file": "refs/sample-kit-bench.png", "source": "Completed Samples/Img/ChatGPT Image Sep 18, 2026, 01_12_44 PM.png (kit-bench crop)", "role": "bench and stock-box design, later state"},
+      {"file": "refs/wa-timing-drums-kit-area.png", "source": "WhatsApp zip: WhatsApp Image 2026-10-21 at 16.48.08.jpeg", "role": "setting and look"}]}
+  ]
+}

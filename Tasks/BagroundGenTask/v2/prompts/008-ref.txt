@@ -1,0 +1,27 @@
+Use case: location background for the illustrated graphic novel ChandRush (Chapter 01), record CH01_LOC_008 "Timing bench, held platform". It is the reference for every later timing-device moment, so the mechanism, state and labels must be exact.
+Asset type: one clean environment illustration with no characters, landscape 4:3.
+Input images:
+- Image 1: a close-up of the fair's earlier timing machine. Use it ONLY for finish, materials and colour coding: blue enamel paired with brass for the blue side, gold and brass for the gold side, rivets and fine engineering, the warm and blue lanterns, the engraved-plate lettering style, the stone wall and navy banner. Do NOT reproduce the giant drums, the long ladder strips, the "MEETING BEAT 12" plaque, the RESET / RHYTHM panel or any 4-8-12 or 6-12 numbering: the device in this image is a small tabletop mechanism on a bench.
+- Image 2: an earlier concept sheet of the timing and repair-kit work area. Use it for the setting and look: the fair's stone-and-brass work area, the bench joinery, the repair-kit area continuing to the right, warm lamps and night atmosphere. Ignore its drums and floor grid, and leave out all caption boxes, leader lines and the title banner.
+
+Camera: medium three-quarter view from the lane, slightly above bench height and looking a little down, so the bench top, the short guide, the beat strip and the labels read clearly. The whole timing device sits left of centre with useful empty bench around it; a little of the next bench section continues on the right.
+
+Place: the entrance-side end of one long, continuous pale workbench that runs along a blue-painted timber wall on Lantern Street. The bench has a smooth pale blond-timber top with a rounded front lip, edged in brass, and a brushed-brass corner strap at its left end. Behind it: blue timber wall panels with neat vertical seams and gold star ornament, set into the stone-and-brass architecture of the references; one fixed warm brass work lamp on the wall lights the bench.
+
+The timing device, a small handcrafted tabletop mechanism (not a large machine):
+1. A short straight brass guide (two slim parallel rails) runs from the back of the bench near the wall forwards towards the lane and ends in a small brass end stop safely inside the bench's front edge.
+2. One small sliding platform, a flat wooden tray with brass edges, sits at the rear start mark of that guide.
+3. On the platform stands ONE small hand-carved wooden bird, upright with its head raised; its simple hinged head is a visibly separate carved piece.
+4. Two catches hold the platform at the start: a blue-enamelled catch on the LEFT and a gold catch on the RIGHT (the colour pairing of Image 1), each a compact vertical pin on a short lifting arm. Both are lowered and visibly block the platform.
+5. Beside each catch, one small lamp: blue lamp at left, gold lamp at right, both unlit.
+6. Small engraved brass plates in Image 1's lettering style: "4 BEATS" beside the blue catch; "6 BEATS" beside the gold catch.
+7. Between and just behind the catches, without hiding them: a narrow brass beat strip with evenly spaced plain tick marks (no numbers, none highlighted); a separate small brass card holder holding one upright card printed "6"; a small mechanical counter whose window reads "0".
+To the right, the kit area begins: the corner of a blue timber stock box with brass corners and one closed padded kit box with a star emblem, partly cut off by the frame edge, with no readable labels.
+
+State and light: night. Bird upright at the rear start; both catches down; start card 6; counter 0; blue and gold lamps unlit. The warm work lamp makes a soft amber pool on the bench; cool moonlight edges the wall seams. Any overhead lantern arch visible at the top is unlit.
+
+Exact labels: print these and nothing else, crisp and correctly spelled: "4 BEATS", "6 BEATS", the start card "6", and the counter "0".
+
+Art style: match the rendering, palette, contrast and detail density of Images 1 and 2. High-end fantasy environment concept art that blends photographic realism with storybook illustration. Materials have near-photographic conviction: polished and cast brass with bright specular edges and a light patina; blue enamel; navy-blue painted timber with rivets, bolt heads, edge banding and gentle wear; hand-carved wood with visible tool marks; clear lamp glass. Forms stay clean, idealised and orderly. A night palette of deep ultramarine, cobalt and navy against warm amber, honey-gold and brass: strong warm-cool contrast, saturated but natural, never neon. The work lamp glows with soft bloom; cool moonlight fills the shadows; polished brass catches bright highlights. Deep, rich shadows that keep readable detail. Dense craftsmanship on wall panels, lamp bracket and bench edging; the bench top and mechanism stay open, clean and readable. Crisp focus throughout; no depth-of-field blur on the device.
+
+Avoid: people, characters, animals, hands or figures; giant drums, ladder strips, gear banks or large machinery; a second bird or second platform; the bird already moved forward or bowing; raised catches or lit catch lamps; any "12", "MEETING BEAT", "RESET" or "RHYTHM"; highlighted marks on the strip; arrows or motion trails; any other text or numbers; any caption box, label, leader line, arrow or title banner copied from the references; watermarks.

@@ -1,0 +1,25 @@
+Use case: location background for the illustrated graphic novel ChandRush (Chapter 01), record CH01_LOC_010 "Projector-kit bench before packing". It is the reference for the kit-packing scenes, so the stock labels and the empty state must be exact.
+Asset type: one clean environment illustration with no characters, landscape 4:3.
+Input images: none. Build the place from this description.
+
+Camera: medium view from the lane, slightly above the work surface and looking a little down, square-on to the bench. The centre section of the bench fills the frame; the timing fittings just show at the far-left edge and the edge of a brass hook rack at the far-right edge.
+
+Place: the centre of the same long, continuous pale workbench on Lantern Street's blue-painted timber wall: a smooth pale blond-timber top with a rounded brass-edged front lip and brass corner straps; blue wall panels with neat vertical seams and restrained gold moon-and-star ornament; one fixed warm brass work lamp on the wall above.
+
+Contents, left to right:
+1. Far-left edge (partly cut off, labels unreadable): the small timing device in its completed state: two raised catches with a small blue lamp and a small gold lamp both glowing, and a small carved wooden bird bowed forward at the front end of its short brass guide.
+2. Left: the lens stock box, a blue-painted timber box with brass corners and an ivory padded interior, lid open. Its front face carries a large brass label plate reading exactly "45 BLUE GLASS LENSES". Inside, a few round blue glass lenses with visible thickness and polished edges show partly in the padding; do not lay out or individually display all of them.
+3. Centre: a clear working space holding ONE empty padded kit box (open, plain ivory padding, no compartments, nothing inside) and ONE blank pale removable sample board with no cut-outs or markings. The rest of the surface is clear.
+4. Right: the ring stock box, a matching blue timber box with brass corners and ivory padding, lid open. Its front plate reads exactly "75 BRASS RINGS". A few separate, complete brass rings show partly in the padding.
+5. On the wall above the centre: a short brass lantern-test rail with a plain, empty mounting bracket.
+6. Far-right edge (partly cut off, labels unreadable): a brushed-brass upright of the hook rack and the corner of a sealed ivory carton.
+
+State and light: night. Stock boxes open; one empty kit; blank board; no projector built. The work lamp makes a warm amber pool across the boxes and bench; the blue and gold timing lamps glow small at the far left; cool moonlight edges the wall.
+
+Exact labels: print these and nothing else, crisp and correctly spelled: "45 BLUE GLASS LENSES" and "75 BRASS RINGS".
+
+Art style (match this look closely): high-end fantasy environment concept art that blends photographic realism with storybook illustration, like a premium animated-feature background or game key art. Materials have near-photographic conviction: polished and cast brass with bright specular edges and a light patina; navy-blue painted timber with fine grain, rivets, bolt heads, edge banding and gentle wear; quilted ivory padding; thick blue glass with true refraction and polished rims; clear lamp glass. Forms stay clean, idealised and orderly, with an illustrator's composition and colour harmony rather than gritty realism.
+Colour, light and contrast: a night palette of deep ultramarine, cobalt and navy against warm amber, honey-gold and brass, a strong warm-cool complementary contrast, saturated but natural, never neon. The work lamp glows with soft bloom and casts a golden pool; cool moonlight fills the shadows with blue. Brass and glass catch bright highlights. Shadows are deep and rich but keep readable detail.
+Richness: dense, intricate craftsmanship on the wall panels, lamp bracket, box corners and bench edging (filigree brackets, brass trims, rivet rows, star-and-moon medallions), while the bench top stays open, clean and readable. Crisp focus throughout; both labels sharp.
+
+Avoid: people, characters, animals, hands or figures; clips of any kind (the stock is lenses and rings only); trays or kits filled with three lenses and five rings; pre-cut compartments; rows of fifteen kits; an assembled projector or lantern head; all 120 pieces spread out; large drums or machinery; any other text or numbers; captions, callout boxes, arrows, title banners, watermarks.
