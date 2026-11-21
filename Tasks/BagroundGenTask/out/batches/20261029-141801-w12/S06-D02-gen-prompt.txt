@@ -1,0 +1,47 @@
+Use case: ChandRush Chapter 01 location reference plate S06-D02, a high three-quarter view of the square mirror alcove on Lantern Street with the mirror completed as one exact 9 by 9 grid of tiles reflecting one continuous full moon. Three later views reuse this exact completed mirror, so the grid must be perfectly regular and countable.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the same alcove in its earlier crooked state. Copy its place and design exactly: the blue timber alcove wall with brass trims and pilasters; the square brass frame mounted low in the alcove with a shallow ledge; the lit brass lamp on the frame's left; the padded staging tray on its low navy-and-brass support at the left; the opaque navy-and-brass crate with a moon emblem at the right; the potted plants, the banners, the canopy gap above, the pale paving and its seam. Ignore: its crooked, overlapping tiles; they are gone. Ignore its eye-level camera.
+
+Camera and framing: a high three-quarter view from the lane, camera about 2.2 m above the paving and about 3 m from the wall, slightly right of the frame's centre line, looking down at about 30 degrees. The whole square frame is in the centre of the image, large, seen with mild foreshortening so that all four corners and every tile joint are clear. Screen layout:
+- Centre (about x 0.25 to 0.75): the complete square frame and its grid.
+- Left (about x 0.06 to 0.22): the lit wall lamp above, the empty padded tray below.
+- Right (about x 0.78 to 0.95): the empty open crate.
+- Bottom: the paving seam and a band of clear paving in front of the frame.
+
+Place and construction:
+- The brass frame is a true square, unchanged in size, position and slight backward tilt towards the canopy gap.
+- The tiled surface inside it is one flat plane.
+
+State at this moment (exact):
+1. Exactly 81 (eighty-one) equal square mirror tiles fill the frame as one complete 9 by 9 grid: 9 (nine) straight horizontal rows and 9 (nine) straight vertical columns, every tile the same size, edges touching with thin even joints.
+2. All joints run as straight continuous lines from edge to edge. There are no empty cells, no gaps, no overlaps, no tilted or crooked tiles and no loose spare tile.
+3. The flat grid reflects one single full moon, round and whole, as one continuous image spanning several tiles near the grid's upper centre. The thin joint lines pass across the moon's reflection without breaking it into separate moons. The rest of the grid reflects the dark blue night sky and canopy edges.
+4. The padded tray is empty. The crate is open and empty.
+5. The lower-right inner brass rim of the frame is dim and dusty, with no mark and no letter.
+6. The wall lamp is lit warm amber; the main arch lanterns are unlit.
+
+Physical inscriptions: none. There is no lettering anywhere in the image.
+
+Keep clear and visible: all 81 cells; the whole moon reflection; the frame edge beside the grid's lower-right corner; clear paving in front of the frame.
+
+Light: the lamp gives a warm pool at the left of the frame. The grid holds cool silver moonlight and the bright full-moon reflection. At most one real moon in the sky, if the sky shows. Crisp, no haze.
+
+Do not show:
+- crooked, tilted, overlapping, missing or broken tiles;
+- more or fewer than 9 rows or 9 columns;
+- several separate moons in separate tiles;
+- tiles on the tray, in the crate or on the paving;
+- a V or any mark on the rim;
+- the cube station.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

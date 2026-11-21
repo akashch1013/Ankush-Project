@@ -1,0 +1,43 @@
+{
+ "name": "20261103-101209-w3",
+ "created": "2026-11-03 10:12:09",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S01-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "bc1bdbc9748b",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg",
+    "work/refs/plate-S02-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D01~gen~1"
+  },
+  {
+   "rid": "S01-D05",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "013a209e3e2a",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg",
+    "work/refs/plate-S02-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D05~gen~1"
+  },
+  {
+   "rid": "S02-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "22783ac83423",
+   "refs": [
+    "work/refs/plate-S02-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S02-D01~gen~1"
+  }
+ ],
+ "bytes": 1760420
+}

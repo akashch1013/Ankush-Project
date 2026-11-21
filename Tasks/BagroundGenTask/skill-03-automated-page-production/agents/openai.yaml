@@ -1,0 +1,14 @@
+interface:
+  display_name: Skill 03 Automated Page Production
+  short_description: Create and review ChandRush pages through InDesign
+  default_prompt: Use $skill-03-automated-page-production to create the requested
+    ChandRush pages from current approved sources and deliver the reviewed batch.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

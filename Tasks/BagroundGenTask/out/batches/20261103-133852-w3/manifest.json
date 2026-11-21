@@ -1,0 +1,19 @@
+{
+ "name": "20261103-133852-w3",
+ "created": "2026-11-03 13:38:52",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S07-D03",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "f5dca4dcf522",
+   "refs": [
+    "work/refs/plate-S07-D01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S07-D03~gen~1"
+  }
+ ],
+ "bytes": 347607
+}

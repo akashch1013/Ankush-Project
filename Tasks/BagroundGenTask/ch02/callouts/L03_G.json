@@ -1,0 +1,4 @@
+{"callouts":[
+{"text":"TROLLEY PUSHING POSITION","box":[0.17,0.93],"targets":[[0.45,0.52]]},
+{"text":"LOWER SHELF CHECK","box":[0.85,0.88],"targets":[[0.68,0.78]]},
+{"text":"DELIVERY ROUTE","box":[0.09,0.38],"targets":[[0.30,0.55]]}]}

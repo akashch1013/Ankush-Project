@@ -1,0 +1,41 @@
+{
+ "name": "20261103-093813-w2",
+ "created": "2026-11-03 09:38:13",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S01-D02",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "fcc84f71e806",
+   "refs": [
+    "out/plates/S01-D02.png"
+   ],
+   "instruction": "On the white position strip, remove the short graduation tick marks to the left of every numeral so each value reads with a single minus sign (−1 … −8, not '--1'); keep every numeral, the equal spacing, the brass pointer tab at 0, the −2 card, the −2 window and everything else unchanged.",
+   "custom_id": "S01-D02~fix~2"
+  },
+  {
+   "rid": "S02-B01",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "0e70cf294a51",
+   "refs": [
+    "out/plates/S02-B01.png"
+   ],
+   "instruction": "Move the painted blue-and-gold lamp picture from the front face of the top supply box onto that box's top lid; keep it the only picture, wordless; change nothing else.",
+   "custom_id": "S02-B01~fix~2"
+  },
+  {
+   "rid": "S03-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "f045caa0ee6c",
+   "refs": [
+    "work/refs/plate-S03-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S03-D01~gen~1"
+  }
+ ],
+ "bytes": 3553000
+}

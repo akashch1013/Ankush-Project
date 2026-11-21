@@ -1,0 +1,29 @@
+Use case: same-camera state change of Image 1 for ChandRush plate S03-D02, the timing mechanism on Lantern Street's right-wall bench after the bird's platform has slid along the rail to its end stop and the bird has bowed.
+Asset: one 4:3 landscape scenic image, identical camera to Image 1.
+Input images:
+- Image 1: the approved plate S03-D01. Keep its camera, framing, perspective, architecture, materials, colours, lighting and every unchanged object exactly: the cream bench and its lip, the indigo wall and the numbered beat strip, the wall lamp, the start card "12" in its holder, the blue catch with its raised arm and lit blue lamp and its "4" plate, the gold catch with its raised arm and lit gold lamp and its "6" plate, the long brass rail and base, the brass end-stop block at the right, and the counter showing "12".
+Change only:
+1. Move the one short flat brass sliding platform, with its one carved bird fixed on it, along the rail from the starting mark at the left all the way to the right end of the rail, so the platform's front edge touches the brass end-stop block. The platform keeps its size and shape and sits squarely on the rail.
+2. The bird on the platform has bowed: its head and neck tip forward and down at its visible neck hinge, beak pointing down towards the platform, body unchanged.
+3. The starting position between the two catches is now empty: bare rail and base, with no platform and no bird.
+Everything else stays exactly as in Image 1, including both catch arms raised, both catch lamps lit, the counter and the start card reading "12", the cycle plates reading 4 and 6, and the empty beat strip.
+Physical inscriptions after the change (render exactly, nothing else): the start card "12"; the counter display "12"; the blue catch's plate "4"; the gold catch's plate "6"; the beat strip's cell numbers "1" to "16" in order with empty writing spaces. All unchanged and legible.
+Keep clear and visible: the stopped platform and its contact with the end stop; the bowed bird; the empty starting position; the clear front working edge of the bench opposite the bird.
+Do not show:
+- a bird or platform still at the start;
+- two birds or two platforms;
+- the platform beyond or past the end stop;
+- a lowered catch or an unlit catch lamp;
+- any changed number: the card and counter stay exactly 12 (twelve), never 6 or 21; the plates stay 4 (four) blue and 6 (six) gold;
+- any other change to the scene.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

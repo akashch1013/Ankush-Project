@@ -1,0 +1,48 @@
+{
+ "id": "S03-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "START CARD REACH",
+   "where": "Lower-left callout to the accessible start-card slot.",
+   "box": [
+    0.14,
+    0.72
+   ],
+   "targets": [
+    [
+     0.055,
+     0.45
+    ]
+   ]
+  },
+  {
+   "text": "COUNTER WORKING POSITION",
+   "where": "Lower-centre callout to the cool front edge opposite the counter.",
+   "box": [
+    0.5,
+    0.68
+   ],
+   "targets": [
+    [
+     0.5,
+     0.555
+    ]
+   ]
+  },
+  {
+   "text": "BIRD OBSERVATION POSITION",
+   "where": "Lower-right callout to clear paving in front of the rail, outside the platform travel path.",
+   "box": [
+    0.8,
+    0.93
+   ],
+   "targets": [
+    [
+     0.6,
+     0.96
+    ]
+   ]
+  }
+ ]
+}

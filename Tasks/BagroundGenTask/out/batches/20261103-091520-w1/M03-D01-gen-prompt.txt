@@ -1,0 +1,53 @@
+Use case: ChandRush Chapter 01 location reference plate M03-D01, a closer three-quarter view from Lantern Street through the raised Food Street entrance shutters, showing the obstructing cart and the trapped brass bowl at its nearest wheel. It is the same place and state as Image 1, seen from a closer, lower camera.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Food Street master, seen from Lantern Street through the raised shutters. Copy its design and state exactly: the tall blue timber door posts with brass fittings and the raised shutter housing under the lintel; the saffron and teal canopies; the cream-topped blue counters; the pale paving; the recipe and cooking counter on the left with the oversized dosa on its small plate; the near-left packing bench with lanterns, and the Return Walk side door beyond it; the blue-and-brass sixteen-cup trolley; the round two-tray loading table in the central lane; the jugs and brass juice urn on the right drinks counter; the crooked weathered timber cart with its large spoked wheel; the brass bowls on the paving; the cloth. Ignore: its wide framing. Ignore and never reproduce any of its overlay lettering: the painted title lettering on the lintel and every white boxed label with its arrow (such as RETURN WALK SIDE DOOR, PACKING BENCH, SIXTEEN-CUP TROLLEY, RECIPE AND COOKING COUNTER, ROUND TWO-TRAY LOADING TABLE, JUGS AND JUICE URN, PARADE GROUND DIRECTION, LANTERN STREET THRESHOLD / SHUTTERS); the lintel is plain blue timber with no writing.
+
+Camera and framing: a closer, lower three-quarter view, eye height about 1.1 m, standing just outside the threshold on the Lantern Street side, turned a little to the left. The camera is about half as far from the cart as in Image 1. Screen layout:
+- Lower centre and lower right foreground: the crooked cart, large and dominant, with its nearest big spoked wheel in the lower centre.
+- Lower centre, at the foot of that wheel: the trapped intact bowl.
+- Left (about x 0.0 to 0.40): the near-left packing bench, the trolley in front of it, and behind them the cooking counter with the oversized dosa clearly visible.
+- Right edge (about x 0.82 to 1.0): a portion of the right drinks counter with jugs and the brass urn, and the right door post.
+- Centre background: the round two-tray table farther into the lane.
+- Top: the raised shutter housing and the blue lintel cross the top of the frame; the left door post frames the far left.
+- The far end of the lane and the Parade Ground opening are not in the frame: the cart, the table, the low canopies and hanging lanterns block the far view.
+
+Place and construction:
+- Looking into Food Street, cooking is on the left and drinks are on the right.
+- The packing bench is near-left, with the Return Walk side door beside it on the left. The trolley stands separately, beside the packing bench.
+- The threshold is one level doorway: Lantern Street paving outside and Food Street paving inside meet at a flush sill.
+
+State at this moment (exact):
+1. The near shutters are fully raised into the housing above the opening.
+2. The crooked timber cart stands in its obstructing position across the lane, exactly as in Image 1.
+3. Exactly one intact brass bowl lies tipped on its side against the lower-left outer edge of the nearest wheel, projecting to the wheel's left. Its round rim is continuous and unbroken. The rim touches the wheel's outer edge without passing into it. Small contact shadows show where the bowl meets the wheel and where it meets the paving.
+4. The other fallen bowls stay near their positions in Image 1 on the paving around the cart.
+5. One oversized cooked dosa lies on the left cooking counter and clearly overhangs both sides of its small plate.
+6. The trolley carries exactly 16 (sixteen) empty brass cups standing upright in a square 4 by 4 carrier on its top tray: 4 (four) rows of 4 (four) cups, every slot filled, no extra cups. Its lower snack tray is empty. If the cup grid would be too small to count, keep the trolley near enough that the 4 rows are clearly distinct.
+7. The round loading table carries two empty matching trays; the tray on the entrance side sits a little lower than the other.
+8. Food Street's warm task lamps are lit. Restored golden light from Lantern Street, behind the camera, spills warmly across the threshold paving.
+
+Physical inscriptions: none. There is no lettering anywhere in the image; the lintel above the opening is plain blue timber.
+
+Keep clear and visible: the bowl's whole rim and its contact with the wheel; the clear paving just before the cart on the threshold side, in the lower left; the raised shutter frame; the oversized dosa, with an open sightline to it from the threshold side.
+
+Light: warm Food Street task lamps and lanterns, restored golden Lantern Street light at the threshold, cool full-moon accents on the saffron and teal canopies. At most one full moon. Clean, crisp, no haze.
+
+Do not show:
+- the Parade Ground opening or the far end shutter;
+- a lowered or half-lowered shutter;
+- the bowl crushed, cut, merged with the wheel or under the wheel;
+- extra cups or missing cups on the trolley;
+- food on the loading trays;
+- any lettering or annotation.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

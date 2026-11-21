@@ -1,0 +1,5 @@
+{"callouts":[
+{"text":"SMALL ANIMAL POSITION","box":[0.82,0.93],"targets":[[0.5,0.93]]},
+{"text":"CHILD STANDING POSITION","box":[0.17,0.93],"targets":[[0.22,0.75]]},
+{"text":"COOL HAND REST","box":[0.1,0.55],"targets":[[0.12,0.45]]}
+]}

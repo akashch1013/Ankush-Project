@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "TARA STOP POSITION",
+   "box": [
+    0.84,
+    0.8
+   ],
+   "targets": [
+    [
+     0.78,
+     0.7
+    ]
+   ]
+  },
+  {
+   "text": "IRA AND KABIR SAFE POSITION",
+   "box": [
+    0.35,
+    0.93
+   ],
+   "targets": [
+    [
+     0.45,
+     0.74
+    ]
+   ]
+  },
+  {
+   "text": "AHANA GUIDING POSITION",
+   "box": [
+    0.72,
+    0.93
+   ],
+   "targets": [
+    [
+     0.64,
+     0.75
+    ]
+   ]
+  },
+  {
+   "text": "CONTINUE ALONG OUTER LANE",
+   "box": [
+    0.84,
+    0.53
+   ],
+   "targets": [
+    [
+     0.93,
+     0.61
+    ]
+   ]
+  }
+ ]
+}

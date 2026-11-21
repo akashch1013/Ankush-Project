@@ -1,0 +1,41 @@
+{
+ "id": "batch_6ae98efa97e881908f6a53ae9590342a",
+ "object": "batch",
+ "endpoint": "/v1/images/edits",
+ "model": "gpt-image-2.5-sunburst",
+ "errors": null,
+ "input_file_id": "file-87dzSAQQXKJsd5BjTHcRpG",
+ "completion_window": "24h",
+ "status": "completed",
+ "output_file_id": "file-LV4rjbRnhGoHZFg9upWoJk",
+ "error_file_id": null,
+ "created_at": 1793691386,
+ "in_progress_at": 1793691448,
+ "expires_at": 1793777786,
+ "finalizing_at": 1793693230,
+ "completed_at": 1793693232,
+ "failed_at": null,
+ "expired_at": null,
+ "cancelling_at": null,
+ "cancelled_at": null,
+ "request_counts": {
+  "total": 2,
+  "completed": 2,
+  "failed": 0
+ },
+ "usage": {
+  "input_tokens": 4451,
+  "output_tokens": 3344,
+  "total_tokens": 7795,
+  "input_tokens_details": {
+   "cached_tokens": 0
+  },
+  "output_tokens_details": {
+   "reasoning_tokens": 0
+  }
+ },
+ "metadata": {
+  "project": "chandrush-ch01-v10",
+  "batch": "20261103-130624-w2"
+ }
+}

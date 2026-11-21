@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "COVER OPENING EDGE",
+   "box": [
+    0.17,
+    0.22
+   ],
+   "targets": [
+    [
+     0.385,
+     0.38
+    ]
+   ]
+  },
+  {
+   "text": "STRIP REMOVAL POINT",
+   "box": [
+    0.7,
+    0.1
+   ],
+   "targets": [
+    [
+     0.51,
+     0.35
+    ]
+   ]
+  },
+  {
+   "text": "HOUSING STEADYING EDGE",
+   "box": [
+    0.82,
+    0.62
+   ],
+   "targets": [
+    [
+     0.58,
+     0.54
+    ]
+   ]
+  },
+  {
+   "text": "WALKING STICK REST",
+   "box": [
+    0.2,
+    0.93
+   ],
+   "targets": [
+    [
+     0.28,
+     0.8
+    ]
+   ]
+  }
+ ]
+}

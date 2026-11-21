@@ -1,0 +1,48 @@
+{
+ "id": "S02-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CART LOADING POSITION",
+   "where": "Lower-left callout to the supported cart position before the closed gate.",
+   "box": [
+    0.2,
+    0.96
+   ],
+   "targets": [
+    [
+     0.3,
+     0.79
+    ]
+   ]
+  },
+  {
+   "text": "HELPER WAITING AREA",
+   "where": "Lower-right callout to the clear landing patch beside the cart.",
+   "box": [
+    0.83,
+    0.92
+   ],
+   "targets": [
+    [
+     0.68,
+     0.75
+    ]
+   ]
+  },
+  {
+   "text": "LOWER GATE REACH",
+   "where": "Right-margin callout to the landing-side latch.",
+   "box": [
+    0.89,
+    0.5
+   ],
+   "targets": [
+    [
+     0.765,
+     0.35
+    ]
+   ]
+  }
+ ]
+}

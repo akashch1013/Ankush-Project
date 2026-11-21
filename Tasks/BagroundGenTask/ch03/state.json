@@ -1,0 +1,197 @@
+{
+ "S01-B01": {
+  "status": "approved",
+  "calls": 2,
+  "log": [
+   "2026-11-04 10:18:46 gen via sync $0.087",
+   "2026-11-04 10:20:10 fix via sync $0.073",
+   "2026-11-04 10:20:33 qc pass labels exact; brake fixed (call 2)"
+  ]
+ },
+ "S06-B01": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:18:30 gen via sync $0.057",
+   "2026-11-04 10:20:33 qc pass board 40; bench tilt visually ~20-40 deg, unverifiable from front"
+  ]
+ },
+ "M02": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:28:42 gen via sync $0.029",
+   "2026-11-04 10:29:10 qc pass clean: no title/labels/arrows; geometry as master; first door closed, ticket door+green reader; both stairs clear; casing/shelf/perch only in recess; no people"
+  ]
+ },
+ "M03": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:28:58 gen via sync $0.029",
+   "2026-11-04 10:29:10 qc pass clean no frame; board 40 only text; lever up, shelf empty; one raised bench ~40deg beside board; outer lane clear; screen entrance open; layout as master"
+  ]
+ },
+ "S02-B01": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:28:24 gen via sync $0.052",
+   "2026-11-04 10:28:35 qc pass open lid on stay, 3 spare items (outfit, hat, closed tin) counted, space above, no sleeve, 2 cushions strapped on fixed rack, 4 wheels (3 visible+1 hidden), handle, brake raised, no text"
+  ]
+ },
+ "S03-B01": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:28:23 gen via sync $0.053",
+   "2026-11-04 10:28:38 qc pass Counted 3 visible small wheels (4th hidden), chocks at each, cream temp strap over body, red final strap loose on chassis shelf, tables clear, machinery rail vs gold visitor rope, stair right with raised lever + test control, no text. Gate leaf not distinct (railed fence behind elephant); tolerated"
+  ]
+ },
+ "S04-D01": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:28:54 gen via sync $0.050",
+   "2026-11-04 10:29:10 qc pass housing closed with flat plate, no slot; solid post; clear deck; one far indigo door w/ hinge straps+handle shut; no doorway above stair; no text"
+  ]
+ },
+ "S05-B01": {
+  "status": "approved",
+  "calls": 2,
+  "log": [
+   "2026-11-04 10:28:38 gen via sync $0.064",
+   "2026-11-04 10:28:58 qc pass B01: one casing waist-height on right pier, one lit strip/window aligned under reader, no text, arch matches rear master. D05: door ajar with level threshold+lit continuation, one flat reader plate, no bolt, both stairs clear, no text",
+   "2026-11-04 10:32:23 fix via sync $0.045",
+   "2026-11-04 10:32:34 qc pass re-audit fix: shelf edge + perch added at recess mouth on return wall; casing/strip unchanged"
+  ]
+ },
+ "S05-D05": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:28:37 gen via sync $0.055",
+   "2026-11-04 10:28:59 qc pass B01: one casing waist-height on right pier, one lit strip/window aligned under reader, no text, arch matches rear master. D05: door ajar with level threshold+lit continuation, one flat reader plate, no bolt, both stairs clear, no text"
+  ]
+ },
+ "S03-D03": {
+  "status": "approved",
+  "calls": 3,
+  "log": [
+   "2026-11-04 10:30:19 gen via sync $0.089",
+   "2026-11-04 10:31:31 gen via sync $0.089",
+   "2026-11-04 10:32:34 fix via sync $0.073",
+   "2026-11-04 10:32:45 qc pass fix applied: counted 3 rows x 10 = 30 ivory ribbons single layer, none blue/gold; BLUE/GOLD trays empty; cards BLUE : GOLD 2 : 3 (wrapped over 2 lines), BLUE, GOLD; trolley closed lid, brake lowered; tape on stand"
+  ]
+ },
+ "S03-D05": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:29:45 gen via sync $0.052",
+   "2026-11-04 10:29:53 qc pass 4 larger wheels (3 clear +1 behind), locks+chocks, lever raised in housing, separate test post, gate closed with leaf, temp strap, final red strap loose, trolley braked far left, no text"
+  ]
+ },
+ "S04-D03": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:30:29 gen via sync $0.062",
+   "2026-11-04 10:30:34 qc pass door open ~90deg one adult wide, hinge straps+handle as D01, bolt withdrawn on leaf, warm passage same level, clear deck, no people/text"
+  ]
+ },
+ "S05-D01": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:30:00 gen via sync $0.062",
+   "2026-11-04 10:30:08 qc pass one casing waist height, cover open 90deg, one strip installed in channels, no spare, ground patch clear, no text"
+  ]
+ },
+ "S03-D04": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:43:08 gen via batch:fam-rb-1 $0.041",
+   "2026-11-04 10:44:20 qc pass counted BLUE 2 groups x6 (2x3) =12, GOLD 3 groups x6 =18, central box empty, total 30; cards BLUE 12 / GOLD 18; plan 3 lines exact incl arrow and x; mat clear, brush in open case; tape on stand; model small wheels"
+  ]
+ },
+ "S03-D11": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:31:12 gen via sync $0.050",
+   "2026-11-04 10:32:09 qc pass lever raised w/ face exposed, test control, gate open folded, loop empty, 4 larger wheels chocked, temp taut, final loose"
+  ]
+ },
+ "S03-D14": {
+  "status": "approved",
+  "calls": 2,
+  "log": [
+   "2026-11-04 10:31:11 gen via sync $0.057",
+   "2026-11-04 10:31:58 fix via sync $0.045",
+   "2026-11-04 10:32:09 qc pass 4 larger wheels+chocks, red final strap fastened with seated buckle, temp strap attached, gate open, model+plan on stand, no lever/trolley; alignment marks only faintly visible (minor, 2 calls)"
+  ]
+ },
+ "S03-D12": {
+  "status": "approved",
+  "calls": 3,
+  "log": [
+   "2026-11-04 10:43:08 gen via batch:fam-rb-1 $0.029",
+   "2026-11-04 10:51:46 gen via batch:fam-rb-2 $0.029",
+   "2026-11-04 10:59:18 fix via batch:fam-rb-3 $0.023",
+   "2026-11-04 10:59:39 qc pass ACCEPTED AT CALL CAP (minor): trolley design/lid closed/brake raised/4 wheels/leading pair on board verified; distant tray groups (blue 2x6, gold 3x6) too small to count exactly after fix, central box emptied; partly blue ribbon on mat and brush in case visible"
+  ]
+ },
+ "S05-D02": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:30:59 gen via sync $0.062",
+   "2026-11-04 10:31:12 qc pass casing open, 2 empty channels, no strip; one closed register + one pencil (in brass holder, not book loop - minor); empty perch; shelf at ground recess; no text"
+  ]
+ },
+ "S03-D06": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:32:53 gen via sync $0.048",
+   "2026-11-04 10:33:29 qc pass lever fully depressed, gate open, 4 wheels+chocks unchanged, temp taut, final loose, no ghosts"
+  ]
+ },
+ "S03-D07": {
+  "status": "approved",
+  "calls": 3,
+  "log": [
+   "2026-11-04 11:08:58 gen via batch:fam-rb-4 $0.029",
+   "2026-11-04 11:25:38 fix via batch:fam-rb-5 $0.023",
+   "2026-11-04 11:38:08 fix via batch:fam-rb-6 $0.023",
+   "2026-11-04 11:38:31 qc pass ACCEPTED AT CALL CAP (minor): open lid on stay, 3 spare items inside, one plain sleeve over rim covering the brake with end at board edge/paving (borderline outside wheel track), fixed handle bare, brake released, 4 wheels, background mat/ribbon/brush ok"
+  ]
+ },
+ "M01-D01": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 10:36:54 gen via batch:fam-m01d01-a $0.032",
+   "2026-11-04 10:37:30 qc pass one elephant midway round empty loop, large fitted wheels, strap on side, 4 blocks in bay outside path, gate open, lever raised, trolley braked lid open sleeve over rim clear, rope+left lane visible, no people/text"
+  ]
+ },
+ "S03-D13": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-04 11:50:49 gen via batch:fam-rb-7 $0.024",
+   "2026-11-04 11:51:16 qc pass brake lever raised/released and clear of cloth; sleeve over box rim, one sleeve, end near board edge on paving; lid open on stay, 3 items, 4 wheels, handle bare"
+  ]
+ },
+ "S03-D08": {
+  "status": "approved",
+  "calls": 2,
+  "log": [
+   "2026-11-04 11:50:49 gen via batch:fam-rb-7 $0.024",
+   "2026-11-04 12:03:24 fix via batch:fam-rb-8 $0.023",
+   "2026-11-04 12:03:34 qc pass lever lowered/engaged and exposed; one sleeve folded over box rim, cuff on level paving off the board; lid open on stay, 3 items, 4 wheels, handle bare"
+  ]
+ }
+}

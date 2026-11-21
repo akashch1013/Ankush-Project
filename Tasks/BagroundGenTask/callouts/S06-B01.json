@@ -1,0 +1,48 @@
+{
+ "id": "S06-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "MIRROR WORKING POSITION",
+   "where": "Lower-centre callout to the clear paving in front of the frame.",
+   "box": [
+    0.48,
+    0.95
+   ],
+   "targets": [
+    [
+     0.48,
+     0.86
+    ]
+   ]
+  },
+  {
+   "text": "TILE REMOVAL REACH",
+   "where": "Right-margin callout to the accessible near edge of the shallow frame.",
+   "box": [
+    0.86,
+    0.45
+   ],
+   "targets": [
+    [
+     0.655,
+     0.55
+    ]
+   ]
+  },
+  {
+   "text": "TILE STAGING POINT",
+   "where": "Left-margin callout to the empty padded tray.",
+   "box": [
+    0.1,
+    0.5
+   ],
+   "targets": [
+    [
+     0.18,
+     0.645
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "id": "S03-D02",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "END STOP INSPECTION",
+   "where": "Right-margin callout to the rail beside the stopped platform, leaving its contact with the stop clear.",
+   "box": [
+    0.86,
+    0.68
+   ],
+   "targets": [
+    [
+     0.7,
+     0.56
+    ]
+   ]
+  },
+  {
+   "text": "BIRD OBSERVATION POSITION",
+   "where": "Lower-margin callout to the clear front working edge opposite the bowed bird.",
+   "box": [
+    0.8,
+    0.95
+   ],
+   "targets": [
+    [
+     0.8,
+     0.79
+    ]
+   ]
+  }
+ ]
+}

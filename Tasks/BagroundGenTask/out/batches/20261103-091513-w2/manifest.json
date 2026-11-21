@@ -1,0 +1,74 @@
+{
+ "name": "20261103-091513-w2",
+ "created": "2026-11-03 09:15:13",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S01-D02",
+   "kind": "gen",
+   "quality": "xhigh",
+   "prompt_sha": "3902387c140c",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D02~gen~1"
+  },
+  {
+   "rid": "S01-D03",
+   "kind": "gen",
+   "quality": "xhigh",
+   "prompt_sha": "a55e359e7cdb",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D03~gen~1"
+  },
+  {
+   "rid": "S02-B01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "7e501534f8d1",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S02-B01~gen~1"
+  },
+  {
+   "rid": "S04-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "74375f111ab9",
+   "refs": [
+    "work/refs/plate-S04-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S04-D01~gen~1"
+  },
+  {
+   "rid": "S04-D02",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "dd5091ac4e25",
+   "refs": [
+    "work/refs/plate-S04-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S04-D02~gen~1"
+  },
+  {
+   "rid": "S05-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "52f5e8cb02b5",
+   "refs": [
+    "work/refs/plate-S05-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S05-D01~gen~1"
+  }
+ ],
+ "bytes": 2203618
+}

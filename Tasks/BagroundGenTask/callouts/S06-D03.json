@@ -1,0 +1,48 @@
+{
+ "id": "S06-D03",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "SMALL ANIMAL POSITION",
+   "where": "Lower-centre callout to paving directly before the low mirror rim.",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.5,
+     0.78
+    ]
+   ]
+  },
+  {
+   "text": "CHILD STANDING POSITION",
+   "where": "Lower-left callout to the adjacent floor patch, separate from the animal position.",
+   "box": [
+    0.17,
+    0.93
+   ],
+   "targets": [
+    [
+     0.24,
+     0.85
+    ]
+   ]
+  },
+  {
+   "text": "MIRROR EDGE HAND REST",
+   "where": "Right-margin callout to the reachable outer brass frame edge.",
+   "box": [
+    0.88,
+    0.12
+   ],
+   "targets": [
+    [
+     0.678,
+     0.32
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+{"callouts":[
+{"text":"DELIVERY START POINT","box":[0.16,0.93],"targets":[[0.17,0.8]]},
+{"text":"TROLLEY TRAVEL ROUTE","box":[0.3,0.7],"targets":[[0.55,0.62]]},
+{"text":"ESCORT WALKING SIDE","box":[0.82,0.82],"targets":[[0.85,0.7]]}]}

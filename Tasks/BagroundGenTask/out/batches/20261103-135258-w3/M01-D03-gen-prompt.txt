@@ -1,0 +1,48 @@
+Use case: ChandRush Chapter 01 location reference plate M01-D03, a restored wide of Lantern Street seen in reverse: from just beyond the mirror and cube station, looking back along the curved lane towards Entry Court, with the whole street repaired and lit. It reuses the street of Image 1, the completed mirror of Image 2 and the completed cube station of Image 3.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Lantern Street master, seen from Entry Court looking towards Food Street. Use from it: the street's architecture and finish (tall indigo lantern arches with hanging glass globe lanterns, deep indigo timber walls with brass trims, the continuous cream-topped bench with blue supports, the goods-lift bay with its brass gate and ornate transom near the Entry Court end, the layered canopies, the pale wet paving, the gentle curve of the lane). This plate is a TRUE REVERSE of Image 1: everything that is on Image 1's right appears on the LEFT of this image, and everything on Image 1's left appears on the RIGHT. Ignore and never reproduce any of its overlay lettering: the painted title lettering at top left and every white annotation label with its arrow (such as CUBE PLINTH, SQUARE MIRROR RECESS, TIMING BENCH, SEALED-HOOK RACK, MOONLINE, GOODS-LIFT BAY AND CONTROLLER); none of these words exist in the place. Also ignore its dark arches and dark moonline, its crooked mirror and its uneven cube towers.
+- Image 2: the approved plate of the completed mirror. Copy its design: the low true-square shallow brass frame with a slight backward tilt in a blue alcove, its flat surface a regular square grid of 9 by 9 = 81 equal flat tiles, the warm lamp on its left, the padded tray on its left and the opaque crate on its right. Ignore: its close framing and the moon reflection in it; from this angle the mirror reflects only the golden-lit street and sky behind the camera's side. Because the mirror is distant and angled, its tile grid reads as an even, regular fine grid; never paint a countable wrong grid, crooked tiles or gaps.
+- Image 3: the approved plate of the completed cube station. Copy its design: the compact cream stone plinth, narrowed to the block, carrying one solid block of 64 glowing lantern cubes, 4 by 4 by 4, enclosed by an open square brass frame lowered around it with round collars on its four corner posts; the indigo canopy above; on the blue wall beside it, the tall brass readiness panel with five round lights in one column and, separately, the large brass down-pull handle; the flat rectangular brass cover lying flush over the moonline in the paving in front of the plinth. Ignore: the panel's engraved words (here they are too far to read) and its raised handle (in this view the handle is down).
+
+Camera and framing: eye height about 1.5 m, standing in the middle of the lane just beyond the mirror-and-cube pair (on the Food Street side of them), looking back along the lane towards Entry Court. Screen layout:
+- Left foreground (about x 0.0 to 0.30): the cube station on the street's physical-right side, seen from behind and beside: plinth, solid glowing block, lowered frame, canopy; the readiness panel and the handle on the wall beyond it.
+- Right foreground (about x 0.70 to 1.0): the mirror alcove on the street's physical-left side, the completed 9 by 9 mirror seen at an angle, its lamp lit.
+- Left side, receding into the distance beyond the cube station: the cream-topped bench along the blue wall, in this order going away from the camera: the timing end, the projector-kit area, then the rack end.
+- Right side, far away near the Entry Court end: the goods-lift bay with its brass gate.
+- Centre: the open lane curving gently away towards the Entry Court arch in the distance.
+- Along the LEFT edge of the paving: the moonline.
+
+State at this moment (exact):
+1. Every lantern arch is lit with warm golden light, gilding the blue-and-brass architecture and the wet paving.
+2. The moonline glows as one continuous line of soft silver-white light along the screen-left paving edge, running unbroken across the joint cover, which now sits flat and flush.
+3. The mirror shows the regular 9 by 9 grid, reflecting only the golden-lit architecture and sky visible from this angle.
+4. The cube is one solid block under its lowered fastened frame; at this distance it reads as an even glowing cube, its individual cubes never countable as a wrong number. All five readiness lights are white. The handle is down: the lever hangs downward from its pivot, not raised as in Image 3.
+5. The bench carries only its permanent fittings: no kit boxes, no hook cartons, no cards. The timing bird, small in the distance, is bowed at its end stop.
+6. The lane is completely clear.
+
+Physical inscriptions: none readable. The panel labels and any other small marks are too far or too small to read and appear only as tiny unreadable marks. There is no other lettering.
+
+Keep clear and visible: the continuous glowing moonline; the open paving between the mirror and the cube; clear paving beside the bench wall on the left; the open lane leading back towards Entry Court; the completed mirror and cube.
+
+Light: festive restored golden arch light everywhere; warm amber task lamps; the cubes glow softly; cool moonlight on rooftops and canopies. At most one full moon in the sky. Crisp, no haze.
+
+Do not show:
+- the bench, cube or moonline on the right side of the image;
+- the mirror on the left side;
+- dark arches or a broken moonline;
+- crooked tiles or uneven cube towers;
+- the handle raised or a crooked cover;
+- hook cartons, kit boxes or cards;
+- any lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

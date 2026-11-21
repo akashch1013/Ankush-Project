@@ -1,0 +1,48 @@
+{
+ "id": "S06-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "FRAME WORKING POSITION",
+   "where": "Lower-centre callout to the clear paving in front of the empty frame.",
+   "box": [
+    0.5,
+    0.95
+   ],
+   "targets": [
+    [
+     0.5,
+     0.85
+    ]
+   ]
+  },
+  {
+   "text": "LOOSE TILE PICK-UP",
+   "where": "Left-margin callout to the accessible edge of the one tile on the padded tray.",
+   "box": [
+    0.09,
+    0.45
+   ],
+   "targets": [
+    [
+     0.135,
+     0.625
+    ]
+   ]
+  },
+  {
+   "text": "SMALL ANIMAL POSITION",
+   "where": "Lower-left callout to clear paving beside the tray support, outside its legs.",
+   "box": [
+    0.15,
+    0.94
+   ],
+   "targets": [
+    [
+     0.32,
+     0.83
+    ]
+   ]
+  }
+ ]
+}

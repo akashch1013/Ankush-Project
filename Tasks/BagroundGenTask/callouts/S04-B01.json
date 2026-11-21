@@ -1,0 +1,62 @@
+{
+ "id": "S04-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "LENS STOCK REACH",
+   "where": "Upper-left callout to the accessible rim of the lens stock box.",
+   "box": [
+    0.15,
+    0.07
+   ],
+   "targets": [
+    [
+     0.32,
+     0.355
+    ]
+   ]
+  },
+  {
+   "text": "RING STOCK REACH",
+   "where": "Upper-right callout to the accessible rim of the ring stock box.",
+   "box": [
+    0.6,
+    0.05
+   ],
+   "targets": [
+    [
+     0.62,
+     0.31
+    ]
+   ]
+  },
+  {
+   "text": "SAMPLE ASSEMBLY POSITION",
+   "where": "Lower-left callout to the clear slab beside the blank sample board.",
+   "box": [
+    0.16,
+    0.86
+   ],
+   "targets": [
+    [
+     0.1,
+     0.52
+    ]
+   ]
+  },
+  {
+   "text": "KIT PACKING POSITION",
+   "where": "Lower-right callout to the front edge beside the empty padded kit box.",
+   "box": [
+    0.82,
+    0.92
+   ],
+   "targets": [
+    [
+     0.58,
+     0.78
+    ]
+   ]
+  }
+ ]
+}

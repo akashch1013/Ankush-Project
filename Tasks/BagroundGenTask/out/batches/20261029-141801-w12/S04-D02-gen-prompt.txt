@@ -1,0 +1,51 @@
+Use case: ChandRush Chapter 01 location reference plate S04-D02, a medium-close three-quarter view of the short test rail above the centre section of Lantern Street's right-wall bench, with one assembled projector head mounted on it. It reuses the wall, rail, bench and stock box designs of Image 1. A later wide view (M01-D02) shows this same head.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the projector-kit bench. Copy exactly: the indigo timber wall with brass strips; the short horizontal brass test rail on two brass wall brackets above the worktop; the brass wall lamp on its arm; the cream marble worktop with its rounded lip; the two indigo-and-brass stock boxes with engraved brass label plates; the thick polished blue glass lens discs and complete brass rings; the padded kit box with navy velvet lining; the flat blank sample board with a thin brass edge. Ignore: its framing, the bird and timing mechanism at the left and the rack at the right; both are outside this view.
+
+Camera and framing: medium-close three-quarter view from the lane, eye height about 1.3 m, about 1.4 m from the wall, looking slightly up at the rail. Screen layout:
+- Upper centre (about x 0.15 to 0.85, y 0.10 to 0.45): the test rail across the wall, with the assembled head mounted at its centre.
+- Lower left and lower right: the upper corners of the two open stock boxes, the lens box on the left and the ring box on the right, with their label plates readable.
+- Lower centre: the clear cream worktop, the blank sample board and the empty padded kit box.
+- Bottom: the cream front edge of the bench.
+- The blue wall joint is visible above the worktop.
+
+Place and construction:
+- The projector head is a compact horizontal bar of brass, about 45 cm long. Across its front sit exactly 3 (three) equal thick blue glass discs side by side, each secured in exactly 1 (one) complete brass mounting ring: 3 (three) mounting rings in all.
+- At each end of the head, one short brass support arm runs down to the rail. Where each arm meets the rail it is clamped by exactly 1 (one) complete brass support ring, a round collar around the rail with a small fastening screw: 2 (two) support rings in all.
+- These 5 (five) rings are the head's complete ring inventory. Every ring is a complete, unbroken circle.
+
+State at this moment (exact):
+1. Exactly one assembled head rests securely on the test rail, unlit: the lenses are clear blue glass with no glow.
+2. The three lenses, the three mounting rings and the two support rings are each distinct and easy to count.
+3. The sample board is blank and the padded kit box below is empty.
+4. There is no second loose kit or loose part on the worktop.
+5. The stock boxes are open with their stock inside: blue lens discs in the left box, brass rings in the right box.
+6. The wall lamp is lit warm amber.
+
+Physical inscriptions (render exactly, nothing else):
+- On the left stock box's brass label plate: "45 BLUE GLASS LENSES" (on two lines: "45 BLUE GLASS" / "LENSES").
+- On the right stock box's brass label plate: "75 BRASS RINGS".
+Engraved dark capitals, crisp and legible; each plate is about one quarter of the frame wide.
+
+Keep clear and visible: all three lenses; all five rings; the two support-ring fasteners on the rail; the clear front bench edge below the rail.
+
+Light: the wall lamp gives warm amber light on the brass head, the rail and the worktop. Cool moonlight edges the wall. The head itself is not lit. The main arches and the moonline are out of view and unlit.
+
+Do not show:
+- a lit or glowing projector;
+- more or fewer than three lenses or five rings on the head;
+- a second head or any loose kit;
+- the bird, the timing mechanism or the hook rack;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

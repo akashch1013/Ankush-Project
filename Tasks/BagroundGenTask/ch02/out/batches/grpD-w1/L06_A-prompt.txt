@@ -1,0 +1,29 @@
+Use case: ChandRush Chapter 02 location reference plate L06_A, a directional view from just outside Food Street's Return Walk doorway, looking along the Covered Return Walk towards Entry Court, used as a delivery trolley route.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Covered Return Walk master. Use it for: the viewing direction, passage width, the outer boundary wall with bracket lamps, planters and climbing plants on screen-right, the open fair-facing colonnade of blue timber posts on screen-left, post spacing, blue starred timber roof with hanging lanterns, the arched Entry Court approach at the far end under the full moon, and the wet pale paving. Ignore and never reproduce: every white annotation label box, annotation word and arrow.
+- Image 2: the approved Food Street master. Use it for: the indigo timber, brass edging and jamb thickness of the Food Street side doorway, and the paving level. Ignore and never reproduce: its painted title, every white label box, annotation word and arrow, and all its counters, carts and objects.
+Camera and framing: standing eye height, just outside Food Street's Return Walk doorway, looking straight along the covered passage towards Entry Court as in Image 1. The open Food Street doorway jamb (indigo timber with brass edging) stands in the near screen-left foreground, with a glimpse of the lit Food Street interior through the open side door. Several roof posts recede towards the Entry Court arch at the far centre. Outer boundary wall on screen-right, open colonnade on screen-left as in Image 1.
+Place and construction:
+1. The doorway threshold is level with the passage paving, no step.
+2. The pale paved route runs clear along its full visible length.
+3. The central path is wide enough for a delivery trolley, with a continuous walking strip alongside it on the outer-wall (screen-right) side.
+State at this moment (exact):
+1. Food Street side door: open.
+2. Passage: completely empty, no trolley, crates or objects on the paving.
+3. Entry Court arch visible at the far end.
+Physical inscriptions: none. No letters, numbers or words anywhere.
+Keep clear and visible: the level paving immediately outside the doorway, the clear centre of the passage, the walking strip along the right side.
+Light: warm amber pools under the fixed bracket lamps and hanging lanterns; cool full-moon light through the open colonnade.
+Do not show: a step at the threshold; objects in the passage; any person, hand or animal; titles, label boxes, words or arrows from the references.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

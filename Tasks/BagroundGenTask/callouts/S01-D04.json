@@ -1,0 +1,46 @@
+{
+ "id": "S01-D04",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "WHEEL CHECK POSITION",
+   "where": "Right-margin callout to the accessible wheel rims, with the four \u22122 windows clear.",
+   "box": [
+    0.89,
+    0.24
+   ],
+   "targets": [
+    [
+     0.48,
+     0.31
+    ],
+    [
+     0.55,
+     0.31
+    ],
+    [
+     0.62,
+     0.31
+    ],
+    [
+     0.69,
+     0.31
+    ]
+   ]
+  },
+  {
+   "text": "COVER CLOSING POINT",
+   "where": "Lower-margin callout to the free outer edge of the open hinged cover.",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.62,
+     0.785
+    ]
+   ]
+  }
+ ]
+}

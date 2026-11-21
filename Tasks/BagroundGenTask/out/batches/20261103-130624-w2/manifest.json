@@ -1,0 +1,30 @@
+{
+ "name": "20261103-130624-w2",
+ "created": "2026-11-03 13:06:24",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S06-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "b1adc9f67cfb",
+   "refs": [
+    "work/refs/plate-S06-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S06-D01~gen~1"
+  },
+  {
+   "rid": "S06-D02",
+   "kind": "gen",
+   "quality": "xhigh",
+   "prompt_sha": "87011e7926fb",
+   "refs": [
+    "work/refs/plate-S06-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S06-D02~gen~1"
+  }
+ ],
+ "bytes": 746115
+}

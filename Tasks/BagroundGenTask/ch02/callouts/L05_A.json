@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "JUG CHECKING POSITION",
+   "box": [
+    0.2,
+    0.93
+   ],
+   "targets": [
+    [
+     0.4,
+     0.85
+    ]
+   ]
+  },
+  {
+   "text": "URN OPERATING POSITION",
+   "box": [
+    0.72,
+    0.93
+   ],
+   "targets": [
+    [
+     0.71,
+     0.84
+    ]
+   ]
+  },
+  {
+   "text": "TROLLEY FILLING BAY",
+   "box": [
+    0.88,
+    0.6
+   ],
+   "targets": [
+    [
+     0.94,
+     0.72
+    ]
+   ]
+  },
+  {
+   "text": "RESERVE BOTTLE REACH",
+   "box": [
+    0.415,
+    0.06
+   ],
+   "targets": [
+    [
+     0.415,
+     0.72
+    ]
+   ]
+  }
+ ]
+}

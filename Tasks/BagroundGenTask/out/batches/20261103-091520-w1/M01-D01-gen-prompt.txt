@@ -1,0 +1,60 @@
+Use case: ChandRush Chapter 01 location reference plate M01-D01. It is a low view just inside the Entry Court end of Lantern Street, looking along the near-left stall wall, where an empty street cart is parked against the wall in front of the goods-lift bay. It is the same street as Image 1, seen from a lower, closer viewpoint, before any repairs.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Lantern Street master, seen from Entry Court looking towards Food Street. Use from it: the street's exact architecture and finish. That means the deep indigo timber stall walls with brass trims; the goods-lift bay on the near left, with its brass-framed opening, ornate semicircular transom and celestial medallion, its ribbed brass safety gate and the lit lantern just right of it; tall indigo lantern arches with hanging glass globe lanterns; pale irregular wet-sheen paving; the gentle curve of the lane towards a far bend closed by plain blue shutters; layered canopies; and the night palette. Ignore: its wide eye-level framing. Ignore and never reproduce any of its overlay lettering: the painted title lettering along the top left, and every white annotation label with its arrow (such as GOODS-LIFT BAY AND CONTROLLER, SQUARE MIRROR RECESS, FOOD STREET SHUTTERS, CUBE PLINTH, MOONLINE, SEALED-HOOK RACK); none of these words exist in the place.
+
+Camera and framing: a low camera about 70 cm above the paving, standing just inside the Entry Court end of the street, near the left-hand wall. It looks along that left wall towards Food Street, tilted slightly upward. The left wall runs from the near-left edge of the frame into the distance towards the centre-left vanishing point. Screen layout:
+- Left and lower-left foreground: the empty street cart, parked lengthways against the left wall, its long side along the wall.
+- Mid-left, a little farther along the same wall and beyond the cart's far end: the goods-lift bay with its closed brass gate and blue wall, the lit lantern at its right, and one tall indigo lantern arch rising over the lane above it. Make sure the gate is seen beyond and above the cart, not hidden behind it.
+- Centre and right: the open lane of pale paving receding and curving gently towards the far bend, where plain closed blue shutters sit small in the distance.
+- Bottom centre: open paving.
+
+Place and construction:
+- The street cart is an ordinary empty timber street cart, distinct from any supply cart. It has an open carrying bed of weathered timber planks with low slatted side rails, a small wheelbase on four small spoked timber wheels with iron rims, and one long straight timber pull handle with a short crossbar grip at its free end.
+- The cart stands outside the circulation lane, close against the wall.
+- Its handle is at the end nearest the camera and projects diagonally out from the wall towards the lane, at child-waist height. The free end of the handle is in the lower-left foreground, reaching the edge of a warm pool of light on the paving.
+- That pool is cast by a fixed brass task lamp mounted on the stall wall just above the cart.
+- The left stall wall is deep indigo painted timber with brass trims and closed, plain stall shutters, as in Image 1.
+- Farther along the left wall, small and dim in the distance, are more wall lamps and the edge of the square mirror alcove.
+- A thin silver metal moonline track runs along the right-hand edge of the paving, where it enters the frame.
+
+State at this moment (exact):
+1. Exactly one street cart: empty, stationary, all four wheels resting on the paving, nothing in or on its bed.
+2. The handle's free end is clear in the open air, easy for a hand to reach, and touches nothing.
+3. The lift car is empty, stopped at street level behind the closed brass gate.
+4. The lane is completely clear: no objects, crates or barrels in it.
+5. The tall lantern arch is unlit: its glass lanterns are dark.
+6. The moonline is plain metallic silver and does not glow.
+7. The fixed task lamps on the walls, including the one above the cart and the lift lantern, are lit warm amber.
+
+Physical inscriptions: none. Any small markings on the distant lift controller are too far away to read and appear only as tiny unreadable marks. There is no lettering anywhere in the image.
+
+Keep clear and visible:
+- the handle's full length and free end;
+- all four wheel contacts with the paving;
+- a broad patch of open paving in the lower centre, beside the handle and outside the wheels;
+- the open lane beside the lift bay on the right side of the frame;
+- the lift's brass gate, blue wall and the tall arch behind the cart.
+
+Light: warm amber pools from the fixed wall lamps on the paving, the cart timber and the brass gate. Cool full-moon light from above edges the arch, the roof lines and the wet paving. The main arches and the moonline stay dark. The scene is moody but every form is readable. At most one full moon in a strip of night sky, if the sky shows.
+
+Do not show:
+- any boxes, sacks or load on the cart;
+- brass corner straps or a supply-cart look;
+- a second cart;
+- the cart blocking the lane or tipped over;
+- lit arches or a glowing moonline;
+- an open lift gate;
+- readable signs or labels;
+- the right-hand bench in close detail.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

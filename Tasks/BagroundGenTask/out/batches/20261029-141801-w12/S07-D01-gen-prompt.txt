@@ -1,0 +1,31 @@
+Use case: same-camera state change of Image 1 for ChandRush plate S07-D01, the cube station on Lantern Street after its 64 lantern cubes have been assembled into one solid 4 by 4 by 4 block.
+Asset: one 4:3 landscape scenic image, identical camera to Image 1.
+Input images:
+- Image 1: the approved plate S07-B01 of the cube station. Keep its camera, framing, perspective, architecture, materials, colours, lighting and every unchanged object exactly: the indigo canopy and the brass canopy post at the left, the compact cream stone plinth, the four slim brass supports at the corners of its square base, the square brass top frame on those supports, the five-light panel with its five label plates on the wall to the right, the separate large down-pull handle further right, the brass task lamp, the moonline track and the flat brass cover at the plinth's front-right corner, the paving and the planters.
+Change only:
+1. Rebuild the cubes into one solid block. Exactly 64 (sixty-four) equal glass lantern cubes in thin brass frames now stand as one solid cube on the square base: exactly 4 (four) cubes wide, 4 (four) cubes deep and 4 (four) cubes high. The block fills the base exactly from support to support, with no gaps, no missing cubes and nothing sticking out.
+2. Each visible face of the block, front, side and top, shows a regular 4 by 4 arrangement of 16 (sixteen) equal square faces with straight continuous joints. The cubes keep their soft warm inner glow.
+3. Lower the square top frame down its four supports until it rests on the top of the block, its square opening matching the block's top face exactly, and fasten it to the supports with its brass clamps.
+4. Light all five indicator lights on the panel bright white, including the bottom one beside the CUBE plate.
+Everything else stays exactly as in Image 1, including: the handle is raised at its upper starting position; the flat brass cover is still slightly crooked but closed over the joint; the moonline track is plain unlit metal; the canopy and arch lanterns are unlit; the task lamp is lit; the plinth, supports and panel do not move or change size.
+Physical inscriptions after the change (render exactly, nothing else): the five panel label plates, top to bottom: "LIFT", "RHYTHM", "SUPPLIES", "MIRROR", "CUBE", engraved bold dark capitals, crisp and legible, unchanged from Image 1.
+Keep clear and visible: the three visible 4 by 4 faces of the block; the lowered frame and its fastened clamp on the front-right support; all five white lights; the raised handle; clear paving beside the block; clear paving in front of the handle.
+Do not show:
+- uneven towers, gaps, steps or loose cubes;
+- more than four cubes along any edge;
+- the top frame still raised high, or tilted;
+- a dark bottom light;
+- the handle pulled down;
+- an open joint, exposed track ends or a glowing moonline;
+- any other change to the scene.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

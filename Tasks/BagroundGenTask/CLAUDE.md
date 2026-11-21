@@ -1,29 +1,19 @@
-# CLAUDE.md: ChandRush CH01 location images (Claude entry point)
+# CLAUDE.md: ChandRush CH01 location images (Register V10)
 
-This folder makes the **27 Chapter 01 location images** defined by `CH01-LOCATION-IMAGE-GENERATION-DRAFT-02.docx`.
+This folder makes the **32 Chapter 01 location images** defined by `Ref/CH01-LOCATION-IMAGE-REGISTER-V10.docx`. They are generated through the OpenAI Images API (`gpt-image-2.5-sunburst`, quality `high`, or `xhigh` for the hard records marked in `spec/plan.json`, 1024×768; never `max` without the user's approval) with `locgen.py`.
 
-The skill is `/chandrush-backgrounds`, registered from the ComicAgent root. Its full text is `skills/chandrush-backgrounds/SKILL.md`. Read it, and `LOCATION-BIBLE.md` with `geography-guide.png`, before generating.
-
-**Image route: the Higgsfield MCP.** Claude Code has no built-in image generator.
-- In the sample round, probe Higgsfield once and write the recipe to `HIGGSFIELD-NOTES.md`:
-  - tools and models (use **GPT Image 2**);
-  - how references are passed;
-  - aspect values 16:9, 4:3 and 3:2;
-  - the largest size;
-  - edit support;
-  - the result format.
-- Workers download each result with `curl` to the job's SAVE AS path. They open it with Read, zoom-check every label and count (`python3 bg.py zoom`), then run `python3 bg.py done`. `done` keeps the native file and upscales to the target size.
-
-**Parallel:**
-- Spawn background sub-agents (Agent tool), each with `skills/chandrush-backgrounds/WORKER-PROMPT.md`, its placeholders filled, `{ROUTE}` = `Claude + Higgsfield MCP`.
-- If sub-agents can't see the Higgsfield tools: claim 4 jobs and send their 4 generation calls in one message.
-
-**Queue:** `python3 bg.py check | claim | done | release | pick | status | sheet | zoom | import`.
+Read `FLOW.md` (the procedure) and `PROMPT-GUIDE.md` (how to write each prompt) before doing anything. Kickoff prompts:
+- `KICKOFF-1-SAMPLES.md`: sample round, immediate API.
+- `KICKOFF-2-BATCH.md`: full run, Batch API.
 
 **Hard rules:**
-- No characters or hands.
-- Print only the requested physical labels, as exact copy.
-- Never attach the old location pack.
-- One generation + at most two fixes per job.
-- Never pick candidates yourself, and never start the full run before the user approves the samples.
-- Never edit the source folders or the generated prompt files by hand.
+- The register is the authority.
+- No people, helpers, animals or hands.
+- Paint only physical inscriptions, exactly. Titles and callouts are added by `compose`, never by the model.
+- Attach only the plan's references. Never the spatial map, the old Locations pack or anything in `archive/`.
+- At most 3 API calls per record without the user's approval.
+- Samples first; never start the batch run before the user approves them.
+- Never edit `Ref/`.
+- The API key is in `.env` (`CHATGPT_API`). Never print it.
+
+`archive/` holds the retired Draft 02 (27 records) and v1 (70 plates) workflows. Don't use them.

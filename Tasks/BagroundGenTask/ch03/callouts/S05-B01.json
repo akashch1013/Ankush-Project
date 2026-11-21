@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "INVITATION PRESENTATION POINT",
+   "box": [
+    0.5,
+    0.62
+   ],
+   "targets": [
+    [
+     0.71,
+     0.58
+    ]
+   ]
+  },
+  {
+   "text": "GUEST WALKING ROUTE",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.5,
+     0.72
+    ]
+   ]
+  },
+  {
+   "text": "SEATING HELPER POSITION",
+   "box": [
+    0.2,
+    0.3
+   ],
+   "targets": [
+    [
+     0.5,
+     0.58
+    ]
+   ]
+  },
+  {
+   "text": "INSPECTION RECESS APPROACH",
+   "box": [
+    0.8,
+    0.9
+   ],
+   "targets": [
+    [
+     0.85,
+     0.66
+    ]
+   ]
+  }
+ ]
+}

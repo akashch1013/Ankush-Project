@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "BRAKE OPERATOR POSITION",
+   "box": [
+    0.2,
+    0.92
+   ],
+   "targets": [
+    [
+     0.46,
+     0.7
+    ]
+   ]
+  },
+  {
+   "text": "BRAKE HAND CONTACT",
+   "box": [
+    0.45,
+    0.2
+   ],
+   "targets": [
+    [
+     0.505,
+     0.43
+    ]
+   ]
+  },
+  {
+   "text": "PACK TRANSFER ROUTE",
+   "box": [
+    0.88,
+    0.68
+   ],
+   "targets": [
+    [
+     0.88,
+     0.55
+    ]
+   ]
+  },
+  {
+   "text": "OBSERVERS STAND HERE",
+   "box": [
+    0.68,
+    0.94
+   ],
+   "targets": [
+    [
+     0.68,
+     0.82
+    ]
+   ]
+  }
+ ]
+}

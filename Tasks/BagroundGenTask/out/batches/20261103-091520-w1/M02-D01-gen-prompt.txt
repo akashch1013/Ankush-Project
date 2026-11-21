@@ -1,0 +1,49 @@
+Use case: ChandRush Chapter 01 location reference plate M02-D01, a frontal exterior wide of the Old Blue Gate seen from the contemporary Mumbai waiting lane at night, before anyone has gone inside. It must reproduce the approved Gate exactly and add only a wider foreground lane and modest city surroundings at the sides.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Old Blue Gate exterior master, frontal night view. Copy the Gate exactly, every element, proportion and ornament: the layered indigo-and-brass entrance pavilion; the two enormous blue timber main leaves with gold star studs, a large central sun-and-ring medallion and brass hinge straps; the pale carved-stone piers; the two seated carved-stone scholar figures on the pier tops; the burgundy drapery swags with gold fringe and tassels; the hanging brass lanterns; the two tall navy banners with gold stars at the sides; the round full-moon ornament inside its brass armillary ring at the very top; the small arched service door cut into the left main leaf; the separate tall blue equipment exit with its own arch farther left beyond the left pier; the pale stone urn planter with a green plant on the left; and the blue-and-brass bench with curved brass arms on the right. Ignore: the dense trees at the sides (this view replaces them with modest city walls). Ignore and never reproduce any of its overlay lettering: the painted title lettering at top left and every dark boxed label with its arrow or pointer line (SEPARATE EQUIPMENT EXIT, PLANTER—LEFT, LEFT-LEAF SERVICE DOOR, MAIN BLUE GATE, BENCH—RIGHT, FULL-MOON ORNAMENT); these boxes are not part of the place.
+
+Camera and framing: a frontal view from the middle of the waiting lane, eye height about 1.5 m, standing farther back than Image 1 so the whole Gate fits with room around it. The Gate is centred and remains dominant: from the pier bases to the top of the moon ornament it fills about 70 percent of the frame height, and the main leaves sit in the middle third of the width. Screen layout:
+- Centre: the whole Gate pavilion, from the paving to the moon ornament, with a strip of starry night sky above.
+- Left, beyond the left pier: the equipment exit, then the planter just left of the left pier, then at the frame's left edge a modest contemporary Mumbai building: plain painted plaster wall, two small balconies with simple metal railings and a few dim windows, partly in shadow.
+- Right, beyond the right pier: the bench just right of the right pier, then at the frame's right edge a similar modest plaster building with balconies and a small potted plant.
+- Bottom 25 to 30 percent: a broad clear lane of pale paving stones with a light wet sheen, running right up to the Gate.
+
+Place and construction:
+- The Gate is exactly as in Image 1. The service door is in the LEFT main leaf, low and child-sized. The equipment exit is a separate door FARTHER LEFT, beyond the left stone pier, not in the main leaves.
+- The planter stands on the paving to the left, between the equipment exit and the left pier.
+- The bench stands on the paving to the right of the right pier. It keeps its curved brass arms and its original legs standing on the paving.
+- The city surroundings are restrained and low-key: plain plaster walls in muted cream and grey-blue, simple balconies and a few small warm windows. They stay at the sides and must not compete with the Gate.
+
+State at this moment (exact):
+1. Both main leaves are closed.
+2. The small service door in the left leaf is closed.
+3. The separate equipment exit is closed.
+4. The round full-moon ornament at the top is bright, pale gold-white, with a soft controlled halo kept close to its disc.
+5. The hanging Gate lanterns are lit warm amber and light the paving in front of the Gate.
+6. The lane in front of the Gate, the approach to the bench and the patch beside the planter are empty and clear.
+
+Physical inscriptions: none. There is no lettering anywhere in the image, including no shop signs, no house numbers and no writing on the banners.
+
+Keep clear and visible: the full-moon ornament with open sky around it; the closed main leaves and the closed service door; the separate equipment exit; a broad clear lane facing the Gate in the lower centre; clear paving beside the bench on the right; a clear floor patch in the lower left with an open view up to the moon ornament.
+
+Light: warm amber Gate lanterns light the leaves, the piers and the paving in front. The moon ornament glows pale gold. Cool blue night light falls on the plaster walls and balconies at the sides. Deep blue starry sky. The real moon, if visible at all, is at most one full moon; the ornament is the bright moon shape here.
+
+Do not show:
+- open main leaves, an open service door or an open equipment exit;
+- violet or purple light seams;
+- a Bell mounted on the arch or inside the ring;
+- tall modern towers, billboards, signs, cars or scooters;
+- dense trees replacing the city walls;
+- any lettering or annotation.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

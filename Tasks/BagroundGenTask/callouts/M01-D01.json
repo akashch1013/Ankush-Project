@@ -1,0 +1,48 @@
+{
+ "id": "M01-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CART HANDLE REACH",
+   "where": "Lower-left callout to the free end of the parked cart\u2019s handle.",
+   "box": [
+    0.13,
+    0.935
+   ],
+   "targets": [
+    [
+     0.03,
+     0.745
+    ]
+   ]
+  },
+  {
+   "text": "CHILD STANDING POSITION",
+   "where": "Lower-centre callout to clear paving beside the handle, outside the wheel footprint.",
+   "box": [
+    0.42,
+    0.93
+   ],
+   "targets": [
+    [
+     0.27,
+     0.82
+    ]
+   ]
+  },
+  {
+   "text": "GROUP WAITING AREA",
+   "where": "Right-margin callout to the clear lane beside the lift bay.",
+   "box": [
+    0.88,
+    0.8
+   ],
+   "targets": [
+    [
+     0.56,
+     0.66
+    ]
+   ]
+  }
+ ]
+}

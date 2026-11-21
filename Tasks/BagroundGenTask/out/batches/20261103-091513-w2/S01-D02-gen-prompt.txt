@@ -1,0 +1,49 @@
+Use case: ChandRush Chapter 01 location reference plate S01-D02, a close three-quarter view of the goods-lift controller on Lantern Street, while a movement is held. It reuses the exact controller designed in Image 1, seen much closer, with one card in the rail and the hold engaged.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the lift bay and its controller. Copy the controller's design exactly: a narrow upright blue cabinet with a polished brass frame, standing on the paving immediately right of the lift opening, under a brass lantern. Down the left edge of its face runs a tall white enamel position strip with dark numerals. At the top right of the face are a brass card rail with exactly 3 (three) tall narrow card slots side by side and, just right of it, a separate square last-change window in a brass bezel. A small brass pointer tab projects from the strip's right edge at the 0 graduation. Below them, three round brass push-buttons in a vertical column, each with a rectangular engraved brass label plate to its right. Below the buttons, a small flat brass card shelf projecting forward. Below a brass divider, two round red warning lamps side by side, and under them a plain flat brass hinged cover (no dials, no lettering). Also copy the blue timber bay post with brass bands and the ribbed brass safety gate at the left. Ignore: the wide framing, the far lane and anything not described here.
+
+Camera and framing: close three-quarter view, eye height about 1.2 m, about 1 m from the controller, slightly to its right, so the face is seen at about 25 degrees. The controller's face fills most of the frame from the top of the strip (just below the lantern's base) to the top of the lower cover. Screen layout:
+- Far left (about x 0.0 to 0.12): the blue bay post and a narrow sliver of the closed brass gate's ribs. The lift car is outside the crop.
+- Centre (about x 0.15 to 0.80): the controller face. The position strip runs down its left side; the card rail and window are top right; the three buttons with their plates are in the middle; the shelf is below them; the two red lamps and the top edge of the lower cover are at the bottom.
+- Right (about x 0.82 to 1.0): plain blue wall, quiet.
+
+State at this moment (exact):
+1. Exactly one movement card stands upright in the LEFT slot of the card rail. It is a cream card with a brass-edged top, and its upper edge stands clearly above the rail so it can be pulled out. Its face shows the value "−2" (minus two) in large dark print.
+2. The other two slots are empty.
+3. The last-change window shows "−2" (minus two) in a single crisp dark value on a pale backing.
+4. HOLD (the middle button of exactly 3 (three)) is engaged: the middle button is pushed fully in, sitting deeper in its bezel than the other two, with a bright worn brass face. START and CANCEL LAST CHANGE stand out normally.
+5. The small card shelf below the buttons is empty and clear, separate from the slots.
+6. The lower cover is closed.
+7. Both red warning lamps glow red (exactly two).
+8. The lantern above the controller is lit warm amber.
+
+Physical inscriptions (render exactly, nothing else):
+- On the position strip, in dark enamel numerals, one per graduation, top to bottom with equal spacing: "+2", "+1", "0", "−1", "−2", "−3", "−4", "−5", "−6", "−7", "−8". Every negative value uses a true minus sign (−). The 0 graduation has a longer, heavier brass tick.
+- On the three engraved button plates, top to bottom: "START", "HOLD", "CANCEL LAST CHANGE" (the last on two lines: "CANCEL" / "LAST CHANGE").
+- On the card in the left slot: "−2".
+- In the last-change window: "−2".
+All are crisp, large and clearly legible. Each button plate is about one fifth of the frame wide; the card and window digits are each at least one tenth of the frame tall. Exactly 11 (eleven) strip values with exactly equal spacing; the brass pointer tab points at 0. Never write a hyphen or en dash for minus, never "2", "+2" or "−3" on the card or in the window, never "9" or "−9" or "−10" on the strip, never skip or repeat a value, never "CANCEL LAST" alone or "CANCEL CHANGE".
+
+Keep clear and visible: the three buttons and their plates; the exposed top edge of the card; the empty shelf; the whole position strip including 0 and −8; the red lamps.
+
+Light: the controller lantern gives warm amber light on the brass and blue paint. Cool moonlight edges the bay post and the gate ribs. The main arches and the moonline stay unlit and out of view.
+
+Do not show:
+- a second card, or a card on the shelf;
+- any other value in the window;
+- the lower cover open or any thumbwheels;
+- more or fewer than 3 (three) buttons, 3 (three) slots or 2 (two) red lamps, extra labels;
+- the lift car;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

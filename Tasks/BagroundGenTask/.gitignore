@@ -1,0 +1,6 @@
+# rebuilt by `python3 locgen.py build` (approved plate references are re-exported from out/plates)
+work/
+# scratch crops, grids and dry-run prompts
+out/tmp/
+# batch request/response files carry every image as base64 (large); manifests and prompts stay tracked
+out/batches/*/*.jsonl

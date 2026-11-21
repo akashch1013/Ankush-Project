@@ -1,0 +1,6 @@
+{"callouts":[
+{"text":"CHILDREN STAND HERE","box":[0.5,0.93],"targets":[[0.5,0.85]]},
+{"text":"COOKING HELPER STANDS HERE","box":[0.82,0.12],"targets":[[0.86,0.38]]},
+{"text":"CUPBOARD ACCESS","box":[0.12,0.75],"targets":[[0.22,0.84]]},
+{"text":"BOX EXAMINATION POSITION","box":[0.15,0.07],"targets":[[0.19,0.44]]}
+]}

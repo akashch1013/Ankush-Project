@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "VEER CONTROL POSITION",
+   "box": [
+    0.12,
+    0.52
+   ],
+   "targets": [
+    [
+     0.45,
+     0.68
+    ]
+   ]
+  },
+  {
+   "text": "TICKET CONTACT POINT",
+   "box": [
+    0.15,
+    0.3
+   ],
+   "targets": [
+    [
+     0.37,
+     0.4
+    ]
+   ]
+  },
+  {
+   "text": "WALKING STICK REST",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.54,
+     0.6
+    ]
+   ]
+  },
+  {
+   "text": "TARA GALLERY APPROACH",
+   "box": [
+    0.66,
+    0.08
+   ],
+   "targets": [
+    [
+     0.76,
+     0.3
+    ]
+   ]
+  }
+ ]
+}

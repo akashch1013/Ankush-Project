@@ -1,0 +1,447 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1024x768",
+ "masters": {
+  "moonsq": "refs/moon-square-master.jpg",
+  "costume": "refs/costume-bench-ref.jpg",
+  "rear": "refs/rear-passage-master.jpg",
+  "parade": "refs/parade-master.jpg"
+ },
+ "records": {
+  "S01-B01": {
+   "quality": "xhigh",
+   "refs": [
+    "master:costume"
+   ],
+   "mode": "derive",
+   "wave": 0,
+   "filename": "CH03_S01_B01_Costume_bench_and_trolley_working_area.png",
+   "title": [
+    "CLOWN COSTUME BENCH",
+    "COSTUME BENCH AND TROLLEY WORKING AREA"
+   ],
+   "callouts": [
+    "AHANA WORKING POSITION",
+    "NAVYA PATTERN POSITION",
+    "CLOWN STANDING POSITION",
+    "TEZ FLOOR POSITION"
+   ]
+  },
+  "S06-B01": {
+   "quality": "high",
+   "refs": [
+    "master:moonsq"
+   ],
+   "mode": "derive",
+   "wave": 0,
+   "filename": "CH03_S06_B01_Folding_bench_stopped_beside_the_board.png",
+   "title": [
+    "MOON SQUARE BOARD AND BENCHES",
+    "FOLDING BENCH STOPPED BESIDE THE BOARD"
+   ],
+   "callouts": [
+    "TARA STOP POSITION",
+    "IRA AND KABIR SAFE POSITION",
+    "AHANA GUIDING POSITION",
+    "CONTINUE ALONG OUTER LANE"
+   ]
+  },
+  "M02": {
+   "quality": "medium",
+   "refs": [
+    "master:rear"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_M02_Rear_staff_passage_master.png",
+   "title": [
+    "REAR STAFF PASSAGE",
+    "REAR STAFF PASSAGE MASTER"
+   ],
+   "callouts": [
+    "REAR PASSAGE ROUTE",
+    "NEAR STAIR TO CASING",
+    "TARA OTHER APPROACH",
+    "SECOND DOOR APPROACH"
+   ]
+  },
+  "M03": {
+   "quality": "medium",
+   "refs": [
+    "master:moonsq"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_M03_Moon_Square_master_from_Parade_Arch.png",
+   "title": [
+    "MOON SQUARE",
+    "MOON SQUARE MASTER FROM PARADE ARCH"
+   ],
+   "callouts": [
+    "BOARD STOP POSITION",
+    "STEP BACK AREA",
+    "OUTER WALKING ROUTE",
+    "SCREEN WAITING AREA"
+   ]
+  },
+  "S02-B01": {
+   "quality": "high",
+   "refs": [
+    "plate:S01-B01"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_S02_B01_Open_costume_box_and_secured_cushions.png",
+   "title": [
+    "COSTUME TROLLEY AND BOX",
+    "OPEN COSTUME BOX AND SECURED CUSHIONS"
+   ],
+   "callouts": [
+    "CLOWN CROUCHING POSITION",
+    "SLEEVE STOWING AREA",
+    "LID CLOSING EDGE"
+   ]
+  },
+  "S03-B01": {
+   "quality": "high",
+   "refs": [
+    "master:parade"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_S03_B01_Elephant_work_bay_and_safe_tables_before_wheel_replacement.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "ELEPHANT WORK BAY AND SAFE TABLES BEFORE WHEEL REPLACEMENT"
+   ],
+   "callouts": [
+    "HELPER INSPECTION POSITION",
+    "SAFE MODEL WORKING AREA",
+    "VISITOR VIEWING AREA",
+    "GROUND STOP APPROACH"
+   ]
+  },
+  "S04-D01": {
+   "quality": "high",
+   "refs": [
+    "master:parade"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_S04_D01_Equipment_gallery_with_drive_control_and_far_door.png",
+   "title": [
+    "EQUIPMENT GALLERY",
+    "EQUIPMENT GALLERY WITH DRIVE CONTROL AND FAR DOOR"
+   ],
+   "callouts": [
+    "VEER CONTROL POSITION",
+    "TICKET CONTACT POINT",
+    "WALKING STICK REST",
+    "TARA GALLERY APPROACH"
+   ]
+  },
+  "S05-B01": {
+   "quality": "high",
+   "refs": [
+    "master:parade",
+    "master:rear"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_S05_B01_Counting_arch_with_the_strip_installed.png",
+   "title": [
+    "COUNTING ARCH AND STAFF ACCESS",
+    "COUNTING ARCH WITH THE STRIP INSTALLED"
+   ],
+   "callouts": [
+    "INVITATION PRESENTATION POINT",
+    "GUEST WALKING ROUTE",
+    "SEATING HELPER POSITION",
+    "INSPECTION RECESS APPROACH"
+   ]
+  },
+  "S05-D05": {
+   "quality": "high",
+   "refs": [
+    "master:rear"
+   ],
+   "mode": "derive",
+   "wave": 1,
+   "filename": "CH03_S05_D05_Second_staff_door_open_at_the_reader.png",
+   "title": [
+    "COUNTING ARCH AND STAFF ACCESS",
+    "SECOND STAFF DOOR OPEN AT THE READER"
+   ],
+   "callouts": [
+    "TICKET CONTACT POINT",
+    "VEER DOOR APPROACH",
+    "STAFF EXIT ROUTE"
+   ]
+  },
+  "S03-D03": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:S03-B01",
+    "plate:S01-B01"
+   ],
+   "mode": "derive",
+   "wave": 2,
+   "filename": "CH03_S03_D03_Thirty_plain_ribbons_before_sharing.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "THIRTY PLAIN RIBBONS BEFORE SHARING"
+   ],
+   "callouts": [
+    "RIBBON COUNTING POSITION",
+    "LEFT TRAY HANDLING EDGE",
+    "RIGHT TRAY HANDLING EDGE"
+   ]
+  },
+  "S03-D05": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-B01"
+   ],
+   "mode": "derive",
+   "wave": 2,
+   "filename": "CH03_S03_D05_Ground_controls_before_the_drive_starts.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "GROUND CONTROLS BEFORE THE DRIVE STARTS"
+   ],
+   "callouts": [
+    "TARA STOP POSITION",
+    "HELPER HANDOVER POSITION",
+    "GALLERY STAIR APPROACH"
+   ]
+  },
+  "S04-D03": {
+   "quality": "high",
+   "refs": [
+    "plate:S04-D01",
+    "master:rear"
+   ],
+   "mode": "derive",
+   "wave": 2,
+   "filename": "CH03_S04_D03_First_gallery_door_open_during_the_escape.png",
+   "title": [
+    "EQUIPMENT GALLERY",
+    "FIRST GALLERY DOOR OPEN DURING THE ESCAPE"
+   ],
+   "callouts": [
+    "TARA HANDLE REACH",
+    "VEER PASSAGE EXIT",
+    "TARA STAFF FOOTING"
+   ]
+  },
+  "S05-D01": {
+   "quality": "high",
+   "refs": [
+    "plate:S05-B01",
+    "master:rear"
+   ],
+   "mode": "derive",
+   "wave": 2,
+   "filename": "CH03_S05_D01_Rear_casing_open_with_the_counting_strip_installed.png",
+   "title": [
+    "COUNTING ARCH AND STAFF ACCESS",
+    "REAR CASING OPEN WITH THE COUNTING STRIP INSTALLED"
+   ],
+   "callouts": [
+    "COVER OPENING EDGE",
+    "STRIP REMOVAL POINT",
+    "HOUSING STEADYING EDGE",
+    "WALKING STICK REST"
+   ]
+  },
+  "S03-D04": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:S03-D03"
+   ],
+   "mode": "derive",
+   "wave": 3,
+   "filename": "CH03_S03_D04_Ribbon_bench_after_the_thirty_ribbons_are_shared.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "RIBBON BENCH AFTER THE THIRTY RIBBONS ARE SHARED"
+   ],
+   "callouts": [
+    "TRAY LABEL WRITING EDGE",
+    "CLOWN COLOURING POSITION",
+    "FINAL PLAN CHECK POINT"
+   ]
+  },
+  "S03-D11": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-D05"
+   ],
+   "mode": "derive",
+   "wave": 3,
+   "filename": "CH03_S03_D11_Rehearsal_gate_open_before_the_ground_stop_is_pressed.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "REHEARSAL GATE OPEN BEFORE THE GROUND STOP IS PRESSED"
+   ],
+   "callouts": [
+    "TARA STOP APPROACH",
+    "STOP PALM CONTACT",
+    "HELPER WAITING POSITION"
+   ]
+  },
+  "S03-D14": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-B01",
+    "plate:S03-D05"
+   ],
+   "mode": "derive",
+   "wave": 3,
+   "filename": "CH03_S03_D14_Secured_elephant_stationary_in_its_work_bay.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "SECURED ELEPHANT STATIONARY IN ITS WORK BAY"
+   ],
+   "callouts": [
+    "TARA BUCKLE POSITION",
+    "HELPER STRAP SUPPORT",
+    "NAVYA POINTING POSITION",
+    "PERFORMER STANDING POSITION"
+   ]
+  },
+  "S03-D12": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-D03",
+    "plate:S02-B01"
+   ],
+   "mode": "derive",
+   "wave": 3,
+   "filename": "CH03_S03_D12_Trolley_on_the_short_board_before_the_lid_opens.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "TROLLEY ON THE SHORT BOARD BEFORE THE LID OPENS"
+   ],
+   "callouts": [
+    "CLOWN PULLING POSITION",
+    "FIXED HANDLE GRIP",
+    "FRAME BRACING POINT"
+   ]
+  },
+  "S05-D02": {
+   "quality": "high",
+   "refs": [
+    "plate:S05-D01",
+    "master:rear"
+   ],
+   "mode": "derive",
+   "wave": 3,
+   "filename": "CH03_S05_D02_Arch_recess_and_writing_shelf_after_the_counting_strip_is_removed.png",
+   "title": [
+    "COUNTING ARCH AND STAFF ACCESS",
+    "ARCH RECESS AND WRITING SHELF AFTER THE COUNTING STRIP IS REMOVED"
+   ],
+   "callouts": [
+    "NAVYA CASING POSITION",
+    "TARA WRITING POSITION",
+    "PIP LANDING POINT",
+    "TRIO WAITING AREA"
+   ]
+  },
+  "S03-D06": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-D11"
+   ],
+   "mode": "derive",
+   "wave": 4,
+   "filename": "CH03_S03_D06_Drive_stopped_with_the_rehearsal_gate_open.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "DRIVE STOPPED WITH THE REHEARSAL GATE OPEN"
+   ],
+   "callouts": [
+    "STOP HOLDING POSITION",
+    "STOP PALM CONTACT",
+    "FLOAT SUPPORT CHECK"
+   ]
+  },
+  "S03-D07": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-D12",
+    "plate:S02-B01"
+   ],
+   "mode": "derive",
+   "wave": 4,
+   "filename": "CH03_S03_D07_Costume_trolley_with_the_sleeve_across_its_brake.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "COSTUME TROLLEY WITH THE SLEEVE ACROSS ITS BRAKE"
+   ],
+   "callouts": [
+    "AHANA TWO HAND GRIP",
+    "AHANA BRACING POSITION",
+    "CLOWN BRAKE POSITION",
+    "TEZ CLOTH CORNER"
+   ]
+  },
+  "M01-D01": {
+   "quality": "high",
+   "refs": [
+    "master:parade",
+    "plate:S03-D14",
+    "plate:S03-D03"
+   ],
+   "mode": "derive",
+   "wave": 4,
+   "filename": "CH03_M01_D01_Secured_elephant_during_the_supervised_loop_test.png",
+   "title": [
+    "PARADE GROUND",
+    "SECURED ELEPHANT DURING THE SUPERVISED LOOP TEST"
+   ],
+   "callouts": [
+    "PERFORMER STANDING POSITION",
+    "TEST CONTROL POSITION",
+    "VISITOR WATCHING AREA"
+   ]
+  },
+  "S03-D13": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-D07"
+   ],
+   "mode": "derive",
+   "wave": 5,
+   "filename": "CH03_S03_D13_Trolley_brake_exposed_before_engagement.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "TROLLEY BRAKE EXPOSED BEFORE ENGAGEMENT"
+   ],
+   "callouts": [
+    "AHANA TWO HAND GRIP",
+    "CLOWN BRAKE CONTACT",
+    "TEZ CLOTH CORNER"
+   ]
+  },
+  "S03-D08": {
+   "quality": "high",
+   "refs": [
+    "plate:S03-D07"
+   ],
+   "mode": "derive",
+   "wave": 5,
+   "filename": "CH03_S03_D08_Trolley_stopped_with_the_brake_clear.png",
+   "title": [
+    "ELEPHANT WORK BAY",
+    "TROLLEY STOPPED WITH THE BRAKE CLEAR"
+   ],
+   "callouts": [
+    "AHANA HOLDING POSITION",
+    "CLOWN BRAKE HAND POINT",
+    "TEZ CLOTH CORNER"
+   ]
+  }
+ }
+}

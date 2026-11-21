@@ -1,0 +1,48 @@
+{
+ "id": "S01-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "LOOK-DOWN POSITION",
+   "where": "Lower-margin callout to the protected street-side viewing position behind the upper guard.",
+   "box": [
+    0.3,
+    0.95
+   ],
+   "targets": [
+    [
+     0.5,
+     0.93
+    ]
+   ]
+  },
+  {
+   "text": "LOWER CART WAITING POINT",
+   "where": "Side callout to the supported cart position on the \u22128 landing.",
+   "box": [
+    0.74,
+    0.84
+   ],
+   "targets": [
+    [
+     0.6,
+     0.7
+    ]
+   ]
+  },
+  {
+   "text": "LOWER HELPER WAITING AREA",
+   "where": "Opposite-side callout to the clear lower landing space beside the cart.",
+   "box": [
+    0.15,
+    0.6
+   ],
+   "targets": [
+    [
+     0.42,
+     0.71
+    ]
+   ]
+  }
+ ]
+}

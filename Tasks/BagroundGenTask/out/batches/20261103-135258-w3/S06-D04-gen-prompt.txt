@@ -1,0 +1,40 @@
+Use case: ChandRush Chapter 01 location reference plate S06-D04, a close oblique view of the lower-right inner brass rim of the completed square mirror on Lantern Street, after the street's arches have been restored, revealing one small scratched V in the dust on the brass. It reuses the exact frame and tiles of Image 1.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the completed mirror. Copy exactly: the brass frame's construction (an outer moulding with corner rivets, a flat inner rim between the moulding and the tiles), the flat square mirror tiles with thin straight joints, the blue timber alcove wall, and the pale paving with its seam. Ignore: its wide framing, the tray, the crate and its moon reflection.
+
+Camera and framing: a close oblique view from low and to the right of the frame's lower-right corner, about 50 cm away, looking along the bottom rim. The lower-right corner of the frame is in the centre of the image. Screen layout:
+- Centre: the lower-right inner brass rim and the corner joint where the bottom and right rims meet.
+- Upper left: several whole tiles of the grid's lower-right corner, flat and aligned, their joints continuing straight.
+- Outside the rim: the outer brass moulding, then a strip of blue alcove wall at the right.
+- Bottom: the paving seam below the frame.
+
+State at this moment (exact):
+1. On the dusty flat inner brass rim, near the lower-right corner, there is exactly one small scratched letter "V", incised into the brass, about the size of a fingertip. Fine dust has settled in its grooves; the surrounding rim is dusty.
+2. The V is on the brass rim, not on the glass.
+3. The adjacent tiles are intact, flat and aligned; their reflections continue smoothly across the joints, showing warm golden light from the restored street.
+4. Warm golden light from the restored arches falls across the rim at a low angle, so the scratch reads clearly by its highlights and shadows. The fixed lamp on the frame's left adds a little warm light.
+
+Physical inscriptions (render exactly, nothing else): one small incised "V" on the inner brass rim near the lower-right corner. No other letters, numbers or marks.
+
+Keep clear and visible: the V and the dust in its grooves; the boundary between the brass rim and the glass; the tile joints; the outer brass moulding below the marked rim.
+
+Light: warm golden restored light raking across the brass; cool reflections in the glass; crisp micro-detail of dust, scratches and brass grain. No haze.
+
+Do not show:
+- more than one mark, or any other letter;
+- the V on the glass;
+- broken, chipped or misaligned tiles;
+- hands, tools or cloths;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

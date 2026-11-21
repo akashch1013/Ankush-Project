@@ -1,0 +1,381 @@
+{
+  "_about": "Generation plan for the 32 records of CH01-LOCATION-IMAGE-REGISTER-V10. Each record lists its reference images in attachment order (Image 1, Image 2, ...). 'master:<key>' is an approved master from Ref/; 'plate:<ID>' is this run's approved plate of another record, so that record must be approved first. A record's wave is one more than the highest wave it depends on: wave 1 needs only the masters, wave 2 needs approved wave-1 plates, wave 3 needs wave-2 plates. mode 'derive' = a new camera built from the references; mode 'state-edit' = the same camera as Image 1 with only the stated state changed (the register gives these pairs identical camera text). 'role' is guidance for the prompt writer, not prompt text. 'quality' is high for every record unless the record sets its own: xhigh only where dense exact inscriptions or exact counts make it genuinely hard. max is never used without the user's approval.",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x768",
+  "max_calls_per_record": 3,
+  "samples": [
+    "S01-B01",
+    "S04-B01",
+    "S05-B01"
+  ],
+  "masters": {
+    "lantern": {
+      "file": "Ref/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20(1).jpeg",
+      "identity": "Lantern Street master from Entry Court"
+    },
+    "gate": {
+      "file": "Ref/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20(3).jpeg",
+      "identity": "Old Blue Gate exterior master"
+    },
+    "food": {
+      "file": "Ref/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20(2).jpeg",
+      "identity": "Food Street master from Lantern Street"
+    }
+  },
+  "records": {
+    "M01-D01": {
+      "wave": 1,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The approved street: lift bay near-left, continuous cream-topped bench on the right wall, mirror recess left, cube canopy right, Food Street shutters at the far bend. Copy its architecture, lamp designs, paving and finish; the new camera is lower and closer, looking along the near-left stall wall."
+        }
+      ]
+    },
+    "M01-D02": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "Street architecture, arch design, bench and finish."
+        },
+        {
+          "ref": "plate:S04-D02",
+          "role": "The exact projector-head design (three blue lenses in three brass rings, two side support rings) that is now installed on the arch."
+        }
+      ]
+    },
+    "M01-D03": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "Street architecture seen from the opposite direction: a true reverse view, so physical-right fittings appear screen-left."
+        },
+        {
+          "ref": "plate:S06-D02",
+          "role": "Completed 9x9 mirror and alcove design (screen-right foreground in the reverse view)."
+        },
+        {
+          "ref": "plate:S07-D01",
+          "role": "Completed 4x4x4 cube station design (screen-left foreground in the reverse view)."
+        }
+      ]
+    },
+    "M01-D04": {
+      "wave": 1,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "Lane curve, arch spacing, paving and right-edge moonline leading to the shutters at the far bend."
+        },
+        {
+          "ref": "master:food",
+          "role": "Only the doorway itself: tall blue timber posts, brass edging, shutter track and threshold width. The shutters are now fully closed, so nothing of Food Street's interior, cart or bowls is visible."
+        }
+      ]
+    },
+    "S01-B01": {
+      "wave": 1,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The lift bay's design: ornate brass gate with ribs, blue timber recess, fixed wall lamp, controller to the right. The new camera is a close street-side three-quarter view of this bay."
+        }
+      ]
+    },
+    "S01-D01": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S01-B01",
+          "role": "Gate, shaft, car, controller and lamp designs; the camera now looks steeply down through the closed gate."
+        },
+        {
+          "ref": "plate:S02-B01",
+          "role": "Lower landing, lower gate, -8 plate and the supply cart design seen far below."
+        }
+      ]
+    },
+    "S01-D02": {
+      "wave": 2,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S01-B01",
+          "role": "The controller's exact design (strip, rail, buttons, window, shelf, cover, red lamps); camera moves in close."
+        }
+      ]
+    },
+    "S01-D03": {
+      "wave": 2,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S01-B01",
+          "role": "Controller housing, lower cover, red lamps and bay post design; camera moves in close on the opened lower compartment."
+        }
+      ]
+    },
+    "S01-D04": {
+      "wave": 3,
+      "quality": "xhigh",
+      "mode": "state-edit",
+      "refs": [
+        {
+          "ref": "plate:S01-D03",
+          "role": "Same camera and compartment; change only the four setting windows to -2 each."
+        }
+      ]
+    },
+    "S01-D05": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S01-B01",
+          "role": "Lift bay, gate, car floor, controller and lamp designs; lower camera from the paving."
+        },
+        {
+          "ref": "plate:S02-B01",
+          "role": "The supply cart's exact design and load (painted blue-and-gold lamp picture on the upper box lid); the cart is now inside the car at 0."
+        }
+      ]
+    },
+    "S02-B01": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S01-B01",
+          "role": "Shaft structure, brass gate ribs, car rails, lamp and material design, now seen from the lower store landing at -8."
+        }
+      ]
+    },
+    "S02-D01": {
+      "wave": 3,
+      "mode": "state-edit",
+      "refs": [
+        {
+          "ref": "plate:S02-B01",
+          "role": "Same camera; change only: car arrives flush at -8, lower gate slid fully open, cart still waiting on the landing."
+        }
+      ]
+    },
+    "S03-B01": {
+      "wave": 1,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The bench (cream top, blue supports, brass edge), the blue wall and the timing-end position near the cube canopy; the master's small bird device is too distant to copy, so build it from the text."
+        }
+      ]
+    },
+    "S03-D01": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S03-B01",
+          "role": "Exact mechanism design (bird, platform, rail, catches, lamps, plates, card slot, counter); camera closer; state: both catches raised, lamps on, counter and card 12."
+        }
+      ]
+    },
+    "S03-D02": {
+      "wave": 3,
+      "mode": "state-edit",
+      "refs": [
+        {
+          "ref": "plate:S03-D01",
+          "role": "Same camera; change only: platform slid to the right end stop and the bird bowed at its neck hinge; start position empty."
+        }
+      ]
+    },
+    "S04-B01": {
+      "wave": 1,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The centre bench section, blue stock boxes, blank sample board and test rail area, bench and wall finish."
+        }
+      ]
+    },
+    "S04-D01": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S04-B01",
+          "role": "Kit box, sample board, stock boxes and labels design; camera near-overhead on the open kit box."
+        }
+      ]
+    },
+    "S04-D02": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S04-B01",
+          "role": "Test rail, wall, stock boxes and bench design; an assembled head now sits on the test rail."
+        }
+      ]
+    },
+    "S05-B01": {
+      "wave": 1,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The rack at the bench's right end nearest Entry Court: brass rack, distinctive right brass upright, carton row, bench edge. Carton count, labels and cards come from the text."
+        }
+      ]
+    },
+    "S05-D01": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S05-B01",
+          "role": "Rack, right upright, clips, cartons and card design; close on the third (414) position with its card removed."
+        }
+      ]
+    },
+    "S06-B01": {
+      "wave": 1,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The far-left mirror alcove: low square brass frame with crooked tiles, left wall lamp, blue alcove wall, paving seam."
+        }
+      ]
+    },
+    "S06-D01": {
+      "wave": 2,
+      "mode": "state-edit",
+      "refs": [
+        {
+          "ref": "plate:S06-B01",
+          "role": "Same camera; change only: frame emptied, 80 tiles stored in the right crate, 1 tile on the left padded tray."
+        }
+      ]
+    },
+    "S06-D02": {
+      "wave": 2,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S06-B01",
+          "role": "Same alcove, frame, lamp, tray and crate design; higher camera; tiles now a perfect 9x9 grid with one continuous moon reflection."
+        }
+      ]
+    },
+    "S06-D03": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S06-D02",
+          "role": "Completed mirror and alcove design; camera drops to cub-head height, offset towards Entry Court."
+        }
+      ]
+    },
+    "S06-D04": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S06-D02",
+          "role": "Frame moulding, inner rim and tile design; close oblique on the lower-right inner rim; restored golden light."
+        }
+      ]
+    },
+    "S07-B01": {
+      "wave": 1,
+      "quality": "xhigh",
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:lantern",
+          "role": "The cube station under its indigo canopy: square plinth, brass top frame on supports, glowing lantern cubes in towers, five-indicator control and handle to its right, moonline cover in front."
+        }
+      ]
+    },
+    "S07-D01": {
+      "wave": 2,
+      "quality": "xhigh",
+      "mode": "state-edit",
+      "refs": [
+        {
+          "ref": "plate:S07-B01",
+          "role": "Same camera; change only: 64 cubes form one solid 4x4x4 block, top frame lowered and fastened, all five lights white."
+        }
+      ]
+    },
+    "S07-D02": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S07-B01",
+          "role": "Indicator panel, label plates, handle and canopy-post design; camera close on the panel and raised handle; all five lights white."
+        }
+      ]
+    },
+    "S07-D03": {
+      "wave": 3,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S07-D01",
+          "role": "Completed cube, plinth, wall control, handle and moonline cover design; low camera along the right paving edge; handle now down."
+        }
+      ]
+    },
+    "S07-D04": {
+      "wave": 2,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "plate:S07-B01",
+          "role": "Plinth corner, paving seam, moonline track and brass cover design; near-overhead close view with the cover removed and the joint open."
+        }
+      ]
+    },
+    "M02-D01": {
+      "wave": 1,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:gate",
+          "role": "The approved Gate: every element, proportion and ornament. Wider view with a clear paving foreground and modest contemporary Mumbai plaster walls and balconies at the sides."
+        }
+      ]
+    },
+    "M03-D01": {
+      "wave": 1,
+      "mode": "derive",
+      "refs": [
+        {
+          "ref": "master:food",
+          "role": "The approved threshold view: shutters raised, crooked cart, intact bowl at the nearest wheel, counters, trolley, two-tray table. The camera is closer; the far Parade opening leaves the frame."
+        }
+      ]
+    }
+  }
+}

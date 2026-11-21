@@ -1,0 +1,6 @@
+{"callouts":[
+{"text":"HANDLE OPERATING POSITION","box":[0.4,0.95],"targets":[[0.15,0.9]]},
+{"text":"SHUT-OFF REACH","box":[0.12,0.25],"targets":[[0.455,0.34]]},
+{"text":"STOP ADJUSTMENT POINT","box":[0.3,0.08],"targets":[[0.515,0.44]]},
+{"text":"PLATE HANDOVER POINT","box":[0.86,0.68],"targets":[[0.9,0.545]]}
+]}

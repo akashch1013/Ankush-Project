@@ -1,0 +1,43 @@
+{
+ "callouts": [
+  {
+   "text": "TICKET CONTACT POINT",
+   "box": [
+    0.7,
+    0.14
+   ],
+   "targets": [
+    [
+     0.9,
+     0.38
+    ]
+   ]
+  },
+  {
+   "text": "VEER DOOR APPROACH",
+   "box": [
+    0.4,
+    0.93
+   ],
+   "targets": [
+    [
+     0.6,
+     0.75
+    ]
+   ]
+  },
+  {
+   "text": "STAFF EXIT ROUTE",
+   "box": [
+    0.45,
+    0.32
+   ],
+   "targets": [
+    [
+     0.82,
+     0.5
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+Use case: ChandRush Chapter 01 location reference plate S07-D04, a near-overhead close view of the moonline joint at the front-right corner of the cube plinth on Lantern Street, with its brass cover lifted off and the two track ends exposed and disconnected. It reuses the plinth, track, paving and cover designs of Image 1.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the cube station. Copy exactly: the cream stone plinth with brass edging and its stepped base; the thin silver moonline track set into the pale paving, running along the plinth's front; the flat rectangular brass cover plate with small fixing holes, lying across the track in front of the plinth's front-right corner (in Image 1 slightly crooked; here lifted off); the pale wet-sheen paving and its seams. Ignore: its eye-level framing and everything above the plinth's base (the cubes, the panel and the handle are outside this view; if the handle's lower end enters at an edge, it is down).
+
+Camera and framing: a near-overhead close view, camera about 1.1 m above the paving, looking down at about 65 degrees at the plinth's front-right corner, slightly from the lane side. Screen layout:
+- Upper left (about x 0.0 to 0.40, y 0.0 to 0.35): the bottom corner of the cream plinth with its brass edging and stepped base.
+- Centre (about x 0.25 to 0.70, y 0.35 to 0.75): the open joint recess in the paving, with the two track ends inside it.
+- Right (about x 0.72 to 0.97): the removed brass cover lying flat on the paving.
+- The silver track enters the frame from the left edge and leaves it at the right edge, running across the frame through the recess.
+- Bottom: clear paving with a recognisable paving seam, open towards the lane.
+
+Place and construction:
+- The recess is a shallow rectangular cut in the paving, lined with dark worn metal, slightly larger than the cover.
+- Inside the recess, the two ends of the same thin silver track meet. Each end has 1 (one) flat fastening tab with 2 (two) screw holes.
+- The removed cover is the same flat rectangular brass plate seen in Image 1, its fixing holes matching the tabs' holes.
+
+State at this moment (exact):
+1. The two track ends are separated by one clear gap of about two finger-widths. Exactly one gap; the track is otherwise continuous on both sides.
+2. The track is unlit plain silver metal, with no glow.
+3. Fine black dust fills the screw holes in both tabs.
+4. The original screws sit in their tabs, loose and slightly raised, not tightened: exactly 4 (four) small brass screws in all, two per tab.
+5. The brass cover lies flat and fully supported on the clear paving to the right of the recess, top face up, its fixing holes visible.
+6. No tools, no hands and no other objects.
+
+Physical inscriptions: none. There is no lettering anywhere in the image.
+
+Keep clear and visible: the single gap; both track ends; both tabs with their loose screws and dusty holes; the free outer edge of the cover; open paving towards the lane for reaching in.
+
+Light: warm amber task-lamp light from above at one side; cool moonlight edges on the brass and the stone. Crisp detail so the dust and screws read clearly. No haze.
+
+Do not show:
+- a joined or glowing track;
+- the cover still on the recess;
+- more than one gap;
+- tools, cables, a second switch or hidden mechanism;
+- the cube block, panel or handle;
+- any lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

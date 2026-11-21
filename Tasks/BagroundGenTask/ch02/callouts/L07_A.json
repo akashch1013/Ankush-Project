@@ -1,0 +1,4 @@
+{"callouts":[
+{"text":"THRESHOLD STANDING AREA","box":[0.5,0.94],"targets":[[0.5,0.76]]},
+{"text":"PEDESTRIAN ROUTE","box":[0.15,0.82],"targets":[[0.19,0.52]]},
+{"text":"FLOAT INSPECTION POSITION","box":[0.8,0.66],"targets":[[0.66,0.55]]}]}

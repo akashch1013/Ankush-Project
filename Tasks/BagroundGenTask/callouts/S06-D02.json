@@ -1,0 +1,34 @@
+{
+ "id": "S06-D02",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "FINAL TILE SEATING REACH",
+   "where": "Right-margin callout to the accessible frame edge beside the lower-right grid corner.",
+   "box": [
+    0.86,
+    0.5
+   ],
+   "targets": [
+    [
+     0.648,
+     0.655
+    ]
+   ]
+  },
+  {
+   "text": "MIRROR CHECKING POSITION",
+   "where": "Lower-centre callout to clear paving in front of the completed frame.",
+   "box": [
+    0.5,
+    0.95
+   ],
+   "targets": [
+    [
+     0.5,
+     0.86
+    ]
+   ]
+  }
+ ]
+}

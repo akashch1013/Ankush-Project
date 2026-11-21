@@ -1,0 +1,55 @@
+Use case: ChandRush Chapter 01 location reference plate S05-D01, a close three-quarter view of the sealed-hook rack at the right end of Lantern Street's right-wall bench, centred on the third carton position (414 HOOKS) after its card has been taken down. It reuses the exact rack, carton and card designs of Image 1.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the sealed-hook rack. Copy its design exactly: the brass rack with one horizontal brass rail held on slim brass posts; the brass clips fixed on that rail, one above each carton; the large cream cards hanging below the clips with bold dark two-line print; the four cream cartons with red lids, brass corner feet, and a cream paper seal strip running down over each lid's front edge with a round brass seal disc; each carton's label in a dark-ruled panel on its front; the heavy turned brass right upright with its stepped round base; the cream marble worktop with its rounded lip; the indigo timber wall with brass strips and the brass wall lamp. Ignore: its wider framing, the kit box at its left, and the 25 WORKERS card hanging in the third clip (in this plate that card has been removed).
+
+Camera and framing: close three-quarter view from the lane, eye height about 1.2 m, about 1 m from the rack, centred on the third carton. Screen layout:
+- Left edge (about x 0.0 to 0.12): the edge of the second carton, cut by the frame, its label not visible.
+- Centre (about x 0.15 to 0.60): the third carton, 414 HOOKS, with its sealed red lid; above it on the top bar, its clip, now empty; in front of it on the worktop, the 25 WORKERS card lying flat.
+- Right (about x 0.62 to 0.85): the fourth carton, 525 HOOKS, with its 9 WORKERS card hanging in its clip.
+- Far right (about x 0.86 to 1.0): the heavy brass right upright.
+- Bottom: a narrow strip of the cream worktop and its front lip.
+
+Place and construction:
+- Each clip is a small brass spring clip on the top bar. When its card is removed, its inner metal contact pad, a small flat brass face, is exposed.
+- In front of the 414 carton, directly below its clip, is a flat dry patch of worktop.
+
+State at this moment (exact):
+1. The third clip, above the 414 carton, is empty and slightly open, showing its contact pad.
+2. A fine film of black dust lies on that contact pad.
+3. Exactly one card, 25 WORKERS, lies face-up and flat on the worktop in front of the 414 carton, fully supported, its printed face readable. A thin line of the same fine black dust lies along its top edge, the edge that sat in the clip.
+4. The fourth clip still holds its original 9 WORKERS card above the 525 carton.
+5. All cartons are sealed: the gold seal strips over the red lids are intact.
+6. No mark, letter or V is scratched into the dust or anywhere on the rack.
+7. The wall lamp is lit warm amber.
+
+Physical inscriptions (render exactly, nothing else):
+- On the third carton's front: "414 HOOKS" (on two lines: "414" / "HOOKS").
+- On the card lying on the worktop: "25 WORKERS" (on two lines: "25" / "WORKERS").
+- On the fourth carton's front: "525 HOOKS" (on two lines: "525" / "HOOKS").
+- On the card in the fourth clip: "9 WORKERS" (on two lines: "9" / "WORKERS").
+Bold dark print, crisp and clearly legible; the 414 label and the lying card are each about one fifth of the frame wide. Digits are exact: 414 (four-one-four, never 441, 141 or 444), 525 (never 552 or 255), 25 (never 52 or 5), 9 (never 6).
+
+Keep clear and visible: the dusty contact pad of the empty third clip; the whole 25 WORKERS card and its free front edge; the 414 HOOKS label; the 414 carton's seal.
+
+Light: warm amber lamp light on the cartons, cards and brass; cool moonlight on the wall. Crisp detail so the fine dust reads clearly.
+
+Do not show:
+- a card in the third clip;
+- the 25 WORKERS card standing, tilted or hanging;
+- a broken seal or an open carton;
+- a scratched V or any mark in the dust;
+- loose hooks;
+- a 5 WORKERS or 4 WORKERS card in the third clip, or a second card on the worktop;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

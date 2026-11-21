@@ -1,0 +1,43 @@
+{
+ "callouts": [
+  {
+   "text": "TARA HANDLE REACH",
+   "box": [
+    0.22,
+    0.4
+   ],
+   "targets": [
+    [
+     0.57,
+     0.34
+    ]
+   ]
+  },
+  {
+   "text": "VEER PASSAGE EXIT",
+   "box": [
+    0.78,
+    0.52
+   ],
+   "targets": [
+    [
+     0.64,
+     0.42
+    ]
+   ]
+  },
+  {
+   "text": "TARA STAFF FOOTING",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.6,
+     0.66
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "BOARD STOP POSITION",
+   "box": [
+    0.7,
+    0.9
+   ],
+   "targets": [
+    [
+     0.75,
+     0.66
+    ]
+   ]
+  },
+  {
+   "text": "STEP BACK AREA",
+   "box": [
+    0.4,
+    0.9
+   ],
+   "targets": [
+    [
+     0.5,
+     0.76
+    ]
+   ]
+  },
+  {
+   "text": "OUTER WALKING ROUTE",
+   "box": [
+    0.86,
+    0.74
+   ],
+   "targets": [
+    [
+     0.88,
+     0.6
+    ]
+   ]
+  },
+  {
+   "text": "SCREEN WAITING AREA",
+   "box": [
+    0.7,
+    0.17
+   ],
+   "targets": [
+    [
+     0.82,
+     0.43
+    ]
+   ]
+  }
+ ]
+}

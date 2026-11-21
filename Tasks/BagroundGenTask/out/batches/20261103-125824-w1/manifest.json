@@ -1,0 +1,30 @@
+{
+ "name": "20261103-125824-w1",
+ "created": "2026-11-03 12:58:24",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S06-B01",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "18c0b0ba4b5c",
+   "refs": [
+    "out/plates/S06-B01.png"
+   ],
+   "instruction": "Replace the tiles inside the brass frame with exactly 81 equal square mirror tiles, each one ninth of the frame's inner width, so they are larger and crowd the frame: piled crookedly in two or three overlapping layers like a slumped heap of square cards, edges crossing, each tilted differently, no rows or columns, only thin slivers of dark backing showing, their weight resting on the bottom ledge. No tile may show a complete moon disc: the one moon's reflection appears only as curved slivers and partial fragments spread across several tiles. Keep the frame, lamp, tray, crate, paving, camera and lighting exactly as they are.",
+   "custom_id": "S06-B01~fix~3"
+  },
+  {
+   "rid": "S07-B01",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "dfd5cb0048c7",
+   "refs": [
+    "out/plates/S07-B01.png"
+   ],
+   "instruction": "Make the stone plinth and the brass top frame compact: the plinth top exactly four lantern cubes wide and four deep plus a half-cube stone border, with the four brass supports standing at the four corners of that 4 by 4 grid, so the plinth's front-right corner stays beside the brass cover plate. Keep the cubes their current size. On it stand exactly 16 single-cube towers in a tight touching grid of 4 columns by 4 rows, 64 equal cubes in all, heights front row left to right 1, 4, 2, 5; second row 3, 6, 2, 4; third row 5, 2, 4, 4; back row 7, 5, 6, 4; each tower one cube wide, every cube resting squarely on the base or the cube below. The raised top frame matches the 4 by 4 size, stays above the tallest tower with a clamp on each support, and touches no cube. Keep the canopy, post, wall, panel, labels, lights, handle, lamp, track, cover plate, paving, camera and lighting exactly as they are.",
+   "custom_id": "S07-B01~fix~3"
+  }
+ ],
+ "bytes": 3583685
+}

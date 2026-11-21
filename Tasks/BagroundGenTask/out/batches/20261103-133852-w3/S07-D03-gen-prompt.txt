@@ -1,0 +1,44 @@
+Use case: ChandRush Chapter 01 location reference plate S07-D03, a low view along the right-hand paving edge of Lantern Street towards the front-right corner of the cube plinth, where the flat brass cover sits crooked over the moonline joint, just after the final handle has been pulled down. It reuses the exact cube station of Image 1.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the cube station with its completed cube. Copy exactly: the compact cream stone plinth with brass edging and stepped base; the completed solid block of exactly 64 (sixty-four) equal glass lantern cubes in thin brass frames: exactly 4 (four) cubes wide, 4 (four) cubes deep and 4 (four) cubes high (4 × 4 × 4 = 64). Every visible face, front, side and top, shows a regular 4 by 4 grid of exactly 16 (sixteen) equal square faces: never 5 across, never 3 across, never 4 × 5 or 5 × 5. The block fills the plinth's top square exactly inside the four corner supports, with no gaps, steps, missing or extra cubes, under its lowered, fastened square brass top frame on four slim corner supports; the deep indigo board wall with brass strips; the readiness panel: one tall rectangular brushed-brass plate with rivets, mounted on the blue wall, holding five round lights in one vertical column on its left half and five engraved brass label plates on its right half, one beside each light; the separate large down-pull handle further right: a long brass lever with a round knob grip on its own tall brass pivot bracket fixed to the wall; the brass task lamp; the thin silver moonline track set into the pale paving in front of the plinth; the flat rectangular brass cover plate with fixing holes at the plinth's front-right corner. Ignore: its eye-level framing and its raised handle (the handle is now down: lever pointing downward from its pivot).
+
+Camera and framing: a low camera about 35 cm above the paving, on the lane side of the moonline track, a few paces before the plinth on the Entry Court side, looking along the track towards the plinth's near front corner. Screen layout:
+- Bottom and centre foreground: the silver track running from the bottom edge of the frame into the picture, and the flat brass cover where the track passes under it, large and close, in the lower middle.
+- Behind the cover (upper left and centre): the plinth's stone base and its near corner, with the lower part of the glowing cube block and its corner supports above.
+- Right (about x 0.62 to 1.0): the blue wall with the readiness panel and, nearer, the handle on its pivot bracket, pulled down.
+- Lower left: a clear patch of open paving beside the cover.
+
+State at this moment (exact):
+1. The cover is slightly crooked, a few degrees out of line with the track, and not quite flush: one edge sits a little proud of the paving. It still covers the whole joint.
+2. The track goes in under one edge of the cover and comes out from under the opposite edge, one continuous route. No track ends, screws or dust are visible.
+3. The track is unlit plain silver metal, not glowing.
+4. The handle is pulled down: the lever points downward at a slant from its pivot, its turned grip at the lower end.
+5. All five readiness lights are lit white.
+6. The cube above is one solid 4 × 4 × 4 block of 64 (sixty-four) cubes filling the plinth top, under its lowered fastened frame, glowing softly; its lower rows may be cropped but every visible face is a regular grid 4 cubes across.
+7. The overhead arches are unlit; the brass task lamp is lit warm amber.
+
+Physical inscriptions: the five panel label plates, top to bottom, "LIFT", "RHYTHM", "SUPPLIES", "MIRROR", "CUBE", exactly as in Image 1, legible if large enough, otherwise small unreadable marks, never wrong. No other lettering.
+
+Keep clear and visible: the crooked cover's raised edge; the track entering and leaving under the cover; the lowered handle; the clear paving beside the cover on the lower left; the clear floor beneath the handle.
+
+Light: warm amber from the task lamp and the soft glow of the cubes on the stone and brass; cool moonlight on the wet paving and the track. The track does not glow.
+
+Do not show:
+- an open joint or exposed track ends;
+- a glowing moonline;
+- the handle raised;
+- any dark or coloured indicator light;
+- uneven cube towers;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

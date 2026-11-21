@@ -1,0 +1,48 @@
+{
+ "id": "M02-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "WAITING GROUP AREA",
+   "where": "Lower-centre callout to the broad clear lane facing the closed Gate.",
+   "box": [
+    0.5,
+    0.94
+   ],
+   "targets": [
+    [
+     0.5,
+     0.82
+    ]
+   ]
+  },
+  {
+   "text": "BENCH WAITING POSITION",
+   "where": "Right-margin callout to the clear paving beside the right bench.",
+   "box": [
+    0.87,
+    0.89
+   ],
+   "targets": [
+    [
+     0.84,
+     0.78
+    ]
+   ]
+  },
+  {
+   "text": "UPWARD VIEWING POSITION",
+   "where": "Lower-left callout to a clear floor patch with an open view of the round ornament.",
+   "box": [
+    0.15,
+    0.94
+   ],
+   "targets": [
+    [
+     0.18,
+     0.83
+    ]
+   ]
+  }
+ ]
+}

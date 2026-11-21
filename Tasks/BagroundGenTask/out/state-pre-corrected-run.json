@@ -1,0 +1,1475 @@
+{
+ "records": {
+  "M01-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:17:24",
+     "prompt_sha": "2fba67242aac",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3188,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1680
+      },
+      "output_tokens": 4815,
+      "output_tokens_details": {
+       "image_tokens": 4815,
+       "text_tokens": 0
+      },
+      "total_tokens": 8003
+     },
+     "usd": 0.1649
+    }
+   ],
+   "note": "all CHECKS met; handle rests on paving (register-compliant); controller keeps master's post form (continuity note)"
+  },
+  "M01-D02": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-143446-w3",
+     "at": "2026-10-29 14:40:01",
+     "quality": "high",
+     "prompt_sha": "7e084d846d20",
+     "refs": [
+      "work/refs/master-lantern.jpg",
+      "work/refs/plate-S04-D02.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3861,
+      "input_tokens_details": {
+       "image_tokens": 2276,
+       "text_tokens": 1585
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 5065
+     },
+     "usd": 0.0311
+    }
+   ],
+   "note": "batch w3 QC: all CHECKS met"
+  },
+  "M01-D03": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-143446-w3",
+     "at": "2026-10-29 14:40:01",
+     "quality": "high",
+     "prompt_sha": "e265178cf1b4",
+     "refs": [
+      "work/refs/master-lantern.jpg",
+      "work/refs/plate-S06-D02.jpg",
+      "work/refs/plate-S07-D01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 4835,
+      "input_tokens_details": {
+       "image_tokens": 3044,
+       "text_tokens": 1791
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 6039
+     },
+     "usd": 0.0347
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-144052-w3",
+     "at": "2026-10-29 14:43:09",
+     "quality": "high",
+     "prompt_sha": "0cc3a46c1ae5",
+     "refs": [
+      "out/plates/M01-D03.png"
+     ],
+     "instruction": "Two corrections. 1) The large brass down-pull handle on the wall beside the readiness panel, at the left of the image, is raised; it must be pulled DOWN: the lever hangs downward from its pivot at a slant, its round grip at the lower end. 2) The square mirror on the right must be a regular grid of exactly 9 equal columns and 9 equal rows of square tiles: redraw only its tile joints inside the same frame as 8 evenly spaced vertical lines and 8 evenly spaced horizontal lines. Keep everything else exactly as it is: camera, golden arches, glowing moonline, the lit cube block, five white lights, bench, paving.",
+     "usage": {
+      "input_tokens": 1324,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 556
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 2528
+     },
+     "usd": 0.0225
+    }
+   ],
+   "note": "fix: handle down; mirror regular grid (~8 cols visible at oblique edge; distant-view count exemption)"
+  },
+  "M01-D04": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "0209524787d5",
+     "refs": [
+      "work/refs/master-lantern.jpg",
+      "work/refs/master-food.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 4804,
+      "input_tokens_details": {
+       "image_tokens": 2960,
+       "text_tokens": 1844
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 6008
+     },
+     "usd": 0.0345
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S01-B01": {
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:17:24",
+     "prompt_sha": "bb21c25d6a1b",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3581,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 2073
+      },
+      "output_tokens": 4815,
+      "output_tokens_details": {
+       "image_tokens": 4815,
+       "text_tokens": 0
+      },
+      "total_tokens": 8396
+     },
+     "usd": 0.1669
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-11-03 09:06:21",
+     "quality": "xhigh",
+     "prompt_sha": "2b87893fbbb4",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3869,
+      "input_tokens_details": {
+       "image_tokens": 1450,
+       "text_tokens": 2419
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 6009
+     },
+     "usd": 0.0879
+    },
+    {
+     "n": 3,
+     "kind": "fix",
+     "via": "sync",
+     "at": "2026-11-03 09:07:34",
+     "quality": "xhigh",
+     "prompt_sha": "e69c279cb80c",
+     "refs": [
+      "out/plates/S01-B01.png"
+     ],
+     "instruction": "The engraved brass plate beside the third (lowest) round button is misspelt. Re-engrave it to read exactly CANCEL LAST CHANGE on two lines: \"CANCEL\" on the first line and \"LAST CHANGE\" on the second, in the same bold dark capitals as the START and HOLD plates, crisp and legible. Also make the HOLD plate crisp. Change nothing else, especially not the position strip numbers +2 to −8.",
+     "usage": {
+      "input_tokens": 1274,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 506
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 3414
+     },
+     "usd": 0.0729
+    }
+   ],
+   "note": ""
+  },
+  "S01-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "92c565c0f904",
+     "refs": [
+      "work/refs/plate-S01-B01.jpg",
+      "work/refs/plate-S02-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3377,
+      "input_tokens_details": {
+       "image_tokens": 1536,
+       "text_tokens": 1841
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4581
+     },
+     "usd": 0.0288
+    }
+   ],
+   "note": "batch w23 QC: all CHECKS met"
+  },
+  "S01-D02": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "xhigh",
+     "prompt_sha": "f7acd20fa1fb",
+     "refs": [
+      "work/refs/plate-S01-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2490,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1722
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 4630
+     },
+     "usd": 0.0395
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S01-D03": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "xhigh",
+     "prompt_sha": "b627ec9411b1",
+     "refs": [
+      "work/refs/plate-S01-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2354,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1586
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 4494
+     },
+     "usd": 0.0391
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S01-D04": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "xhigh",
+     "prompt_sha": "2c5f0c15b6d8",
+     "refs": [
+      "work/refs/plate-S01-D03.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 1908,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1140
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 4048
+     },
+     "usd": 0.038
+    }
+   ],
+   "note": "batch w23 QC: all CHECKS met"
+  },
+  "S01-D05": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "3afa31c5eaf5",
+     "refs": [
+      "work/refs/plate-S01-B01.jpg",
+      "work/refs/plate-S02-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3202,
+      "input_tokens_details": {
+       "image_tokens": 1536,
+       "text_tokens": 1666
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4406
+     },
+     "usd": 0.0284
+    }
+   ],
+   "note": "batch w23 QC: all CHECKS met"
+  },
+  "S02-B01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "8102d8fd962e",
+     "refs": [
+      "work/refs/plate-S01-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2480,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1712
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3684
+     },
+     "usd": 0.0254
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S02-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "ed721ea02b63",
+     "refs": [
+      "work/refs/plate-S02-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2045,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1277
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3249
+     },
+     "usd": 0.0243
+    }
+   ],
+   "note": "batch w23 QC: all CHECKS met"
+  },
+  "S03-B01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:51:06",
+     "quality": "high",
+     "prompt_sha": "f87979d22d10",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3546,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 2038
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4750
+     },
+     "usd": 0.0584
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:57:32",
+     "quality": "high",
+     "prompt_sha": "8d3f14def239",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3620,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 2112
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4824
+     },
+     "usd": 0.0587
+    }
+   ],
+   "note": "regen: paving across bottom; all mechanism CHECKS met"
+  },
+  "S03-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "124a4b7b873c",
+     "refs": [
+      "work/refs/plate-S03-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2467,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1699
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3671
+     },
+     "usd": 0.0254
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S03-D02": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "d92ded4df148",
+     "refs": [
+      "work/refs/plate-S03-D01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2008,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1240
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3212
+     },
+     "usd": 0.0242
+    }
+   ],
+   "note": "batch w23 QC: all CHECKS met"
+  },
+  "S04-B01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:51:01",
+     "quality": "high",
+     "prompt_sha": "a34b5fae31b1",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3408,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1900
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4612
+     },
+     "usd": 0.0577
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "sync",
+     "at": "2026-10-27 13:56:48",
+     "quality": "high",
+     "prompt_sha": "d7e5c7f38c11",
+     "refs": [
+      "out/plates/S04-B01.png"
+     ],
+     "instruction": "The small carved ivory-toned bird at the far left of the image faces the wrong way. Turn the bird around so that it faces RIGHT, towards the brass end-stop block beside it. Keep it bowed forward at its brass neck hinge with its beak lowered, standing on the same walnut platform resting against the end stop. Change nothing else.",
+     "usage": {
+      "input_tokens": 1254,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 486
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 2458
+     },
+     "usd": 0.0447
+    },
+    {
+     "n": 3,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-11-03 09:06:04",
+     "quality": "high",
+     "prompt_sha": "9c7f75c3c00d",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3528,
+      "input_tokens_details": {
+       "image_tokens": 1450,
+       "text_tokens": 2078
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4732
+     },
+     "usd": 0.0581
+    }
+   ],
+   "note": "corrected-refs sample: labels 45/75 exact, bird bowed at end stop, blank board, empty kit box"
+  },
+  "S04-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "6ee59df4503b",
+     "refs": [
+      "work/refs/plate-S04-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2285,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1517
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3489
+     },
+     "usd": 0.0249
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "421530b50e7f",
+     "refs": [
+      "out/plates/S04-D01.png"
+     ],
+     "instruction": "The two brass label plates on the stock boxes along the top edge of the image are blank. Engrave their labels in bold dark capitals, the same style as the stock boxes in this project: on the left box's plate \"45 BLUE GLASS LENSES\" (two lines: \"45 BLUE GLASS\" / \"LENSES\"), on the right box's plate \"75 BRASS RINGS\". Change nothing else: the kit box, the 3 lenses, the 5 rings, the board and the bench stay exactly as they are.",
+     "usage": {
+      "input_tokens": 1297,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 529
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 2501
+     },
+     "usd": 0.0225
+    }
+   ],
+   "note": "fix: stock labels engraved; 3 lenses / 5 rings (3+2) exact"
+  },
+  "S04-D02": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "ef6644b31d5e",
+     "refs": [
+      "work/refs/plate-S04-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2373,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1605
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3577
+     },
+     "usd": 0.0251
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "81c82bc2292f",
+     "refs": [
+      "out/plates/S04-D02.png"
+     ],
+     "instruction": "The two blocky square clamps where the head's two vertical supports meet the horizontal test rail must become two complete round brass rings: at each of those two points, replace the square clamp with one clearly circular brass ring collar that encircles the rail, its round ring face visible, the same polished brass as the three lens rings, each with one small fastening screw. Keep the three lenses in their three rings, the supports, the rail, its wall brackets and everything else exactly as they are.",
+     "usage": {
+      "input_tokens": 1287,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 519
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 2491
+     },
+     "usd": 0.0224
+    }
+   ],
+   "note": "fix: 2 round support rings on rail; 3 lenses in 3 rings = 5 rings"
+  },
+  "S05-B01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:51:17",
+     "quality": "xhigh",
+     "prompt_sha": "1cf4780caa83",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3320,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1812
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 5460
+     },
+     "usd": 0.0853
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-11-03 09:06:19",
+     "quality": "xhigh",
+     "prompt_sha": "e2f9712afbd8",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3429,
+      "input_tokens_details": {
+       "image_tokens": 1450,
+       "text_tokens": 1979
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 5569
+     },
+     "usd": 0.0857
+    }
+   ],
+   "note": "corrected-refs sample: all 8 inscriptions exact, wrong pairings, seals intact, no dust"
+  },
+  "S05-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "e7da744668e1",
+     "refs": [
+      "work/refs/plate-S05-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2406,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1638
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3610
+     },
+     "usd": 0.0252
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "high",
+     "prompt_sha": "5a6f7153fce7",
+     "refs": [
+      "out/plates/S05-D01.png"
+     ],
+     "instruction": "Two corrections. 1) The leftmost clip on the top bar, above the left carton, is empty; hang one original cream card in it, the same style as the 9 WORKERS card, reading \"4\" / \"WORKERS\" in bold dark print. 2) The empty middle clip above the 414 HOOKS carton must show a thin film of fine black dust on its inner flat metal contact face, clearly visible. Keep the 414 HOOKS and 525 HOOKS cartons, their seals, the 9 WORKERS card, the 25 WORKERS card lying on the worktop with its dusty top edge, the upright and everything else exactly as they are. No V or other mark.",
+     "usage": {
+      "input_tokens": 1337,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 569
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 2541
+     },
+     "usd": 0.0226
+    }
+   ],
+   "note": "fix: 4 WORKERS card restored at clip 1; dust on empty clip pad; 25 WORKERS flat on bench"
+  },
+  "S06-B01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:51:04",
+     "quality": "high",
+     "prompt_sha": "44a33bf021b7",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3350,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1842
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4554
+     },
+     "usd": 0.0574
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:57:55",
+     "quality": "xhigh",
+     "prompt_sha": "5b6514f5a17e",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3490,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1982
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 5630
+     },
+     "usd": 0.0862
+    }
+   ],
+   "note": "xhigh regen: square frame, ~70+ crooked overlapping tiles, moon broken; 2 tiles show large moon pieces (accepted)"
+  },
+  "S06-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "f531716858ef",
+     "refs": [
+      "work/refs/plate-S06-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2068,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1300
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3272
+     },
+     "usd": 0.0244
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S06-D02": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:54",
+     "quality": "xhigh",
+     "prompt_sha": "c584ae6536ab",
+     "refs": [
+      "work/refs/plate-S06-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2294,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1526
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 4434
+     },
+     "usd": 0.039
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "xhigh",
+     "prompt_sha": "9840fe296e87",
+     "refs": [
+      "out/plates/S06-D02.png"
+     ],
+     "instruction": "The mirror grid has 8 columns and 8 rows; it must have exactly 9 equal columns and 9 equal rows. Redraw only the thin tile joints inside the same square brass frame: exactly 8 straight evenly spaced vertical joint lines and exactly 8 straight evenly spaced horizontal joint lines, dividing the surface into 81 equal square tiles. Keep the single continuous full-moon reflection, the reflected sky and canopies, the frame, lamp, tray, crate, wall, paving and camera exactly as they are.",
+     "usage": {
+      "input_tokens": 1290,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 522
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 3430
+     },
+     "usd": 0.0365
+    }
+   ],
+   "note": "fix: grid now 9x9; one continuous moon reflection"
+  },
+  "S06-D03": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-143446-w3",
+     "at": "2026-10-29 14:40:01",
+     "quality": "high",
+     "prompt_sha": "205a33f3fdec",
+     "refs": [
+      "work/refs/plate-S06-D02.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2142,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1374
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3346
+     },
+     "usd": 0.0246
+    }
+   ],
+   "note": "batch w3 QC: all CHECKS met"
+  },
+  "S06-D04": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-143446-w3",
+     "at": "2026-10-29 14:40:01",
+     "quality": "high",
+     "prompt_sha": "7383937f8cd9",
+     "refs": [
+      "work/refs/plate-S06-D02.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2078,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1310
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3282
+     },
+     "usd": 0.0244
+    }
+   ],
+   "note": "batch w3 QC: all CHECKS met"
+  },
+  "S07-B01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:52:08",
+     "quality": "xhigh",
+     "prompt_sha": "c4ee022871fd",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3503,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1995
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 5643
+     },
+     "usd": 0.0862
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "sync",
+     "at": "2026-10-27 13:57:50",
+     "quality": "xhigh",
+     "prompt_sha": "54fe5f467bf8",
+     "refs": [
+      "work/refs/master-lantern.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3701,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 2193
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 5841
+     },
+     "usd": 0.0872
+    },
+    {
+     "n": 3,
+     "kind": "fix",
+     "via": "sync",
+     "at": "2026-10-27 14:00:09",
+     "quality": "xhigh",
+     "prompt_sha": "4190e36e45ec",
+     "refs": [
+      "out/plates/S07-B01.png"
+     ],
+     "instruction": "The thin silver moonline track must continue on BOTH sides of the flat brass cover plate at the plinth's front-right corner. Add the same thin silver track coming out from under the RIGHT edge of the brass cover plate and running straight along the paving to the right edge of the image, parallel to the wall and in line with the existing track on the left, unlit plain metal. Keep the cover plate, slightly crooked, covering the joint between the two track pieces. Change nothing else.",
+     "usage": {
+      "input_tokens": 1283,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 515
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 3423
+     },
+     "usd": 0.0729
+    },
+    {
+     "n": 4,
+     "kind": "fix",
+     "via": "sync",
+     "at": "2026-10-29 11:37:32",
+     "quality": "xhigh",
+     "prompt_sha": "2f19348c1fff",
+     "refs": [
+      "out/plates/S07-B01.png"
+     ],
+     "instruction": "Rebuild the cube station at the correct compact size. Currently the stone plinth top and the brass top frame are about eight cubes wide and the cubes stand loosely in the middle. Make the plinth a compact square block whose top is exactly four lantern cubes wide and four cubes deep, plus a narrow stone border about half a cube wide: shrink it towards the right so that its front-right corner stays exactly where it is now, beside the flat brass cover plate on the moonline, and its left side ends near the middle of the image, leaving clear pale paving and the blue wall between it and the canopy post. Keep the lantern cubes their current size. On the base stand exactly 16 single-cube towers in a tight grid of 4 rows by 4 columns, touching each other, uneven heights: front row left to right 1, 4, 2, 5; back row left to right 7, 5, 6, 4; middle rows between 2 and 6. Every cube rests squarely on the base or the cube below. Move the four slim brass supports in to the four corners of the 4 by 4 grid, and make the raised square brass top frame the same 4 by 4 size as the base, fastened with a visible brass clamp on each support, standing clearly above the tallest tower and touching no cube. Keep the canopy, canopy post, wall, panel and its five labels, lights, handle, lamp, moonline track, cover plate, paving, camera and lighting exactly as they are.",
+     "usage": {
+      "input_tokens": 1503,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 735
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 3643
+     },
+     "usd": 0.074
+    }
+   ],
+   "note": "4th call (user-approved fix review 2026-10-29): plinth/top frame rebuilt to 4x4 footprint, uneven towers, all supported; moonline both sides of crooked cover; panel/handle unchanged"
+  },
+  "S07-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:54",
+     "quality": "xhigh",
+     "prompt_sha": "cd181e6b71cd",
+     "refs": [
+      "work/refs/plate-S07-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2145,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1377
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 4285
+     },
+     "usd": 0.0386
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-142929-w23",
+     "at": "2026-10-29 14:33:49",
+     "quality": "xhigh",
+     "prompt_sha": "2684bc8ccfaa",
+     "refs": [
+      "out/plates/S07-D01.png"
+     ],
+     "instruction": "The lantern-cube block must be exactly 4 cubes wide, 4 cubes deep and 4 cubes high. Its front face is correctly 4 cubes wide, but the block is 5 layers high and its left side face shows only 3 cubes across. Rebuild the block as a true cube of 64 equal cubes: every visible face, front, left side and top, shows exactly 4 columns and exactly 4 rows of equal square faces. The square top frame rests directly on the block's top face and is fastened to the four corner supports. Keep the plinth, supports, panel with five white lights and labels, raised handle, cover, track, canopy, lamp and camera exactly as they are.",
+     "usage": {
+      "input_tokens": 1334,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 566
+      },
+      "output_tokens": 2140,
+      "output_tokens_details": {
+       "image_tokens": 2140,
+       "text_tokens": 0
+      },
+      "total_tokens": 3474
+     },
+     "usd": 0.0366
+    }
+   ],
+   "note": "fix: block now 4 wide x 4 deep x 4 high; frame lowered and fastened; 5 white lights"
+  },
+  "S07-D02": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:54",
+     "quality": "high",
+     "prompt_sha": "cf3598afa177",
+     "refs": [
+      "work/refs/plate-S07-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2203,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1435
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3407
+     },
+     "usd": 0.0247
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "S07-D03": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-143446-w3",
+     "at": "2026-10-29 14:40:01",
+     "quality": "high",
+     "prompt_sha": "227f156b6c2b",
+     "refs": [
+      "work/refs/plate-S07-D01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2272,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1504
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3476
+     },
+     "usd": 0.0249
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:20261029-144052-w3",
+     "at": "2026-10-29 14:43:09",
+     "quality": "high",
+     "prompt_sha": "974ea0d08eef",
+     "refs": [
+      "out/plates/S07-D03.png"
+     ],
+     "instruction": "The lantern-cube block above the plinth must be exactly 4 cubes wide, 4 deep and 4 high. Its front face is correct (4 columns by 4 rows), but its left side face shows 3 columns and 5 rows. Redraw the left side face as exactly 4 columns by 4 rows of equal square cube faces, lined up row for row with the front face, with the lowered top frame resting on the block's top. Keep the plinth, the crooked brass cover, the track, the lowered handle, the panel with five white lights and labels, the canopy, the lamp and the camera exactly as they are.",
+     "usage": {
+      "input_tokens": 1321,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 553
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 2525
+     },
+     "usd": 0.0225
+    }
+   ],
+   "note": "side face 4 rows, 4th column hidden behind corner post; cover crooked, handle down, 5 white"
+  },
+  "S07-D04": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:54",
+     "quality": "high",
+     "prompt_sha": "2c0cac2c577c",
+     "refs": [
+      "work/refs/plate-S07-B01.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 2251,
+      "input_tokens_details": {
+       "image_tokens": 768,
+       "text_tokens": 1483
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 3455
+     },
+     "usd": 0.0248
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "M02-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "2eb21026d453",
+     "refs": [
+      "work/refs/master-gate.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3265,
+      "input_tokens_details": {
+       "image_tokens": 1508,
+       "text_tokens": 1757
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4469
+     },
+     "usd": 0.0285
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  },
+  "M03-D01": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:20261029-141801-w12",
+     "at": "2026-10-29 14:25:53",
+     "quality": "high",
+     "prompt_sha": "30fcf8a4a1b5",
+     "refs": [
+      "work/refs/master-food.jpg"
+     ],
+     "instruction": null,
+     "usage": {
+      "input_tokens": 3193,
+      "input_tokens_details": {
+       "image_tokens": 1452,
+       "text_tokens": 1741
+      },
+      "output_tokens": 1204,
+      "output_tokens_details": {
+       "image_tokens": 1204,
+       "text_tokens": 0
+      },
+      "total_tokens": 4397
+     },
+     "usd": 0.0282
+    }
+   ],
+   "note": "batch w12 QC: all CHECKS met"
+  }
+ },
+ "fix_queue": {}
+}

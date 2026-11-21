@@ -1,0 +1,78 @@
+Use case: ChandRush Chapter 01 location reference plate S03-B01. It shows the timing mechanism at the left end of Lantern Street's continuous right-wall workbench, in its starting state. This plate fixes the exact design of the bird device that two later close views reuse, so every part must be clear, orderly and complete.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Lantern Street master, seen from Entry Court looking towards Food Street. The workbench runs along its right-hand wall.
+  Use from it: the bench design and its finish, namely:
+  - the thick pale cream stone worktop slab with a rounded front edge and a thin brass edge strip;
+  - the bench front of cream stone supports with deep indigo timber panels between them, carrying brass ring ornaments;
+  - the deep indigo vertical-board wall behind, with brass trims;
+  - the brass task lamps with bell shades on jointed arms;
+  - the pale paving.
+  Ignore: its painted title, every annotation word and arrow, its wide street framing, and the small simplified objects it shows on the bench. Build the mechanism from this text.
+
+Camera and framing: standing in the lane about 3 metres back from the bench, eye height about 1.35 m, looking slightly down onto the worktop. A gentle three-quarter angle: the bench runs left to right across the frame, receding slightly towards the left.
+Screen layout, as horizontal bands from top to bottom:
+1. Wall, task lamp and beat strip: from the top down to about y 0.38.
+2. Worktop with the device: about y 0.38 to 0.58.
+3. The cream front edge and the bench front (stone supports and indigo panels): about y 0.58 to 0.80.
+4. Pale stone paving in front of the bench, clear and visible across the full width of the frame from left edge to right edge: about y 0.80 to 1.0.
+Horizontally:
+- The timing device spans the worktop from about x 0.06 to x 0.82.
+- At the far right edge (about x 0.85 to 1.0), a small piece of the neighbouring projector-kit area enters: the left end of one closed indigo-and-brass stock box, cut by the frame edge so that its front lettering is outside the image.
+- A brass task lamp on the wall above the device, lit.
+
+The device (one mechanism, fixed to the worktop on a long brass base plate), from left to right:
+1. Blue catch assembly at the left end: a compact catch arm in blue enamel on a brass bracket. Beside it is one small round blue-glass catch lamp on a short brass stem. In front of it, at the front of the base plate, is a small brass cycle plate.
+2. The start position: a fine engraved start line across the rail just right of the blue catch.
+3. One straight brass rail running left to right along the bench, parallel to the front edge, about 70 cm long.
+4. On the rail at the start line: one short sliding platform, a flat walnut tray with brass edges. On it stands exactly one carved bird in pale ivory-toned wood, upright with its head raised and its beak pointing to the right. A visible brass hinge pin sits at the base of its neck.
+5. Gold catch assembly immediately right of the platform: a compact catch arm in polished gold-brass on its own bracket. Beside it is one small round gold-amber glass catch lamp on a short brass stem. In front is a small brass cycle plate.
+6. The rail continues clear to the right and ends at a fixed brass end-stop block.
+7. Behind the rail, standing along the back of the worktop against the wall: a long, low brass-framed beat strip of 16 equal cells. Each cell has its number at the top and an empty writing space below.
+8. At the front left, near the bench edge in front of the blue catch: a brass start-card slot holding one upright white card.
+9. At the front centre, near the bench edge: a small brass mechanical beat counter with one display window.
+10. Between the card slot and the front edge: a clear handling strip of bare cream worktop.
+
+State at this moment (exact):
+1. Exactly one bird, upright, on exactly one platform, resting at the start line at the left of the rail.
+2. Both catch arms are lowered and engage the platform: the blue catch hooks its left end and the gold catch blocks its right side.
+3. Both catch lamps are unlit: plain coloured glass with no glow.
+4. The start card in the slot shows "6".
+5. The counter's display window is blank: an empty dark window with no digits.
+6. Every writing space on the beat strip is empty: no marks, ticks or highlights.
+7. The rail from the gold catch to the end stop is completely clear.
+8. The wall task lamp is lit warm amber and lights the worktop.
+9. The neighbouring stock box at the right edge is closed.
+
+Physical inscriptions (render exactly, nothing else):
+- Blue catch cycle plate: "4". Gold catch cycle plate: "6". Engraved, bold, clearly legible.
+- Start card: "6", one large bold numeral filling most of the card. The card is about one twelfth of the frame wide. It reads 6 (six), never 9, 12 or 4.
+- The blue plate reads 4 (four) and the gold plate 6 (six): never swapped, never 9. Each cycle plate is about one fifteenth of the frame wide with one big numeral.
+- Beat strip cell numbers, left to right: "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16". Dark numerals on pale enamel, each cell about one twentieth of the frame width.
+All are crisp and legible.
+
+Keep clear and visible: the start-card slot and the card's top edge; the front worktop edge opposite the counter; the paving in front of the bench at lower right; the whole rail, both catches and both lamps; the cycle plates and the card numeral.
+
+Light: the wall task lamp gives a clean warm pool on the worktop and brass. Cool moonlight edges the wall boards and brass. Any part of an overhead lantern arch at the top of the frame is unlit.
+
+Do not show:
+- a second bird or platform;
+- the bird bowed, or away from the start line;
+- raised catches or lit catch lamps;
+- any marks on the beat strip;
+- digits in the counter;
+- any card other than the one start card;
+- the five-indicator panel, the cube station or the hook rack;
+- stock-box lettering;
+- drums, ladders, gear banks or large machinery.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

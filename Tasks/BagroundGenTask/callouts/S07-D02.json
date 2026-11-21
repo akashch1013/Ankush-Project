@@ -1,0 +1,48 @@
+{
+ "id": "S07-D02",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "READINESS CHECK POSITION",
+   "where": "Left-margin callout to the clear viewing position beside the five-light panel.",
+   "box": [
+    0.17,
+    0.42
+   ],
+   "targets": [
+    [
+     0.33,
+     0.45
+    ]
+   ]
+  },
+  {
+   "text": "HANDLE GRIP POINT",
+   "where": "Right-margin callout to the free grip end of the raised handle.",
+   "box": [
+    0.9,
+    0.33
+   ],
+   "targets": [
+    [
+     0.84,
+     0.17
+    ]
+   ]
+  },
+  {
+   "text": "HANDLE STANDING POSITION",
+   "where": "Lower-margin callout to the paving directly in front of the handle, outside its downward arc.",
+   "box": [
+    0.3,
+    0.94
+   ],
+   "targets": [
+    [
+     0.55,
+     0.96
+    ]
+   ]
+  }
+ ]
+}

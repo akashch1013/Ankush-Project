@@ -1,0 +1,38 @@
+{
+ "id": "S04-D02",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "PROJECTOR INSPECTION POSITION",
+   "where": "Lower-margin callout to the clear front bench edge below the rail.",
+   "box": [
+    0.45,
+    0.95
+   ],
+   "targets": [
+    [
+     0.45,
+     0.86
+    ]
+   ]
+  },
+  {
+   "text": "SUPPORT FASTENING POINTS",
+   "where": "Side callouts ending beside the two support-ring fasteners, clear of the three lenses.",
+   "box": [
+    0.46,
+    0.32
+   ],
+   "targets": [
+    [
+     0.31,
+     0.255
+    ],
+    [
+     0.615,
+     0.255
+    ]
+   ]
+  }
+ ]
+}

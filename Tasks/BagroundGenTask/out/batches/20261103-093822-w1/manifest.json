@@ -1,0 +1,30 @@
+{
+ "name": "20261103-093822-w1",
+ "created": "2026-11-03 09:38:22",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S06-B01",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "0acf0d481f8d",
+   "refs": [
+    "out/plates/S06-B01.png"
+   ],
+   "instruction": "Make the brass mirror frame a true square: reduce its height so the inner opening is exactly as tall as it is wide, keeping its left, right and bottom edges where they are. Inside it, show exactly 81 equal square mirror tiles piled crookedly in two or three overlapping layers like a slumped heap of cards, covering almost the whole backing with only thin slivers of dark backing showing. No tile may show a whole moon disc: each tile reflects only a curved sliver or a partial fragment of one moon, or dark sky, canopy fabric or a lamp glint. Keep the lamp, the empty tray, the open empty crate, the paving, the camera and the lighting exactly as they are.",
+   "custom_id": "S06-B01~fix~2"
+  },
+  {
+   "rid": "S07-B01",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "2e75b2b7c03b",
+   "refs": [
+    "out/plates/S07-B01.png"
+   ],
+   "instruction": "Rebuild the cube station at the correct compact size. Make the plinth a compact square block whose top is exactly four lantern cubes wide and four cubes deep, plus a narrow stone border about half a cube wide; shrink it towards the right so its front-right corner stays beside the flat brass cover plate on the moonline. Keep the lantern cubes their current size. On the base stand exactly 16 single-cube towers in a tight touching grid of 4 rows by 4 columns, 64 equal cubes in all, heights front row left to right 1, 4, 2, 5; second row 3, 6, 2, 4; third row 5, 2, 4, 4; back row 7, 5, 6, 4. Every cube rests squarely on the base or the cube below. Move the four slim brass supports to the four corners of the 4 by 4 grid and make the raised square brass top frame the same 4 by 4 size, with a visible brass clamp on each support, standing clearly above the tallest tower and touching no cube. Keep the canopy, canopy post, wall, panel with its five labels and lights, handle, lamp, moonline track, cover plate, paving, camera and lighting exactly as they are.",
+   "custom_id": "S07-B01~fix~2"
+  }
+ ],
+ "bytes": 3872319
+}

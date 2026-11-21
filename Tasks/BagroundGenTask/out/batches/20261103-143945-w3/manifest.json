@@ -1,0 +1,19 @@
+{
+ "name": "20261103-143945-w3",
+ "created": "2026-11-03 14:39:45",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "M01-D03",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "859733efff31",
+   "refs": [
+    "out/plates/M01-D03.png"
+   ],
+   "instruction": "On the low square brass mirror at the right wall (about x 0.84–0.98, y 0.39–0.68), redraw the tile grid as exactly 9 columns by 9 rows = 81 equal square tiles: fewer, larger tiles separated by 8 thin brass divider lines each way. Keep the same frame, position, reflections and everything else unchanged.",
+   "custom_id": "M01-D03~fix~3"
+  }
+ ],
+ "bytes": 2000310
+}

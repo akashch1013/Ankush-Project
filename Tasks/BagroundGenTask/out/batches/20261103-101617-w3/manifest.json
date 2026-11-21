@@ -1,0 +1,19 @@
+{
+ "name": "20261103-101617-w3",
+ "created": "2026-11-03 10:16:17",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S01-D01",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "8e43d32d839c",
+   "refs": [
+    "out/plates/S01-D01.png"
+   ],
+   "instruction": "On the vertical level strip on the shaft's right wall, add a true minus sign (−) before every value below 0 so it reads 0, −1, −2, −3, −4, −5, −6, −7, −8 top to bottom (the bold −5 stays emphasised at the car's level); keep the tick marks, spacing, car, gate, cart and everything else unchanged.",
+   "custom_id": "S01-D01~fix~2"
+  }
+ ],
+ "bytes": 1631684
+}

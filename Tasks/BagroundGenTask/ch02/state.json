@@ -1,0 +1,193 @@
+{
+ "L01_A": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:50:53 gen via batch:grpA-w1 $0.024",
+   "2026-11-03 10:51:17 qc pass bowl touches lower-left of wheel, intact; 16 cups"
+  ]
+ },
+ "L01_B": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 13:59:52 gen via batch:grpA-w2 $0.027",
+   "2026-11-03 14:00:17 qc pass "
+  ]
+ },
+ "L02_A": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:37:41 gen via batch:grpB-w1 $0.026",
+   "2026-11-03 10:37:58 qc pass 7 weights, 5 trays, 2 bowls, 2 dosa plates, dispenser per spec"
+  ]
+ },
+ "L02_B": {
+  "status": "approved",
+  "calls": 2
+ },
+ "L02_C": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:40:17 gen via batch:grpB-w2 $0.027",
+   "2026-11-03 10:40:47 qc pass labels 1\u00be/2\u00bd, blank mixing label, 5 trays one row; dry end shows 6 weights (not specified in C)"
+  ]
+ },
+ "L02_D": {
+  "status": "approved",
+  "calls": 2,
+  "log": [
+   "2026-11-03 10:40:17 gen via batch:grpB-w2 $0.028",
+   "2026-11-03 12:58:00 fix via batch:grpB-w2b $0.022",
+   "2026-11-03 12:58:28 qc pass drip removed; ticks unlabelled (more than 3 fine ticks); stop clip faint; heater on lit; 2 plates"
+  ]
+ },
+ "L02_E": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 13:02:57 gen via batch:grpB-w3 $0.027",
+   "2026-11-03 13:03:16 qc pass cup swung right on hinge, bowl with batter under spout, dry gap, heater off, residual batter in window"
+  ]
+ },
+ "L02_F": {
+  "status": "approved",
+  "calls": 3,
+  "log": [
+   "2026-11-03 13:02:57 gen via batch:grpB-w3 $0.041",
+   "2026-11-03 13:23:36 fix via batch:grpB-w3b $0.037",
+   "2026-11-03 13:58:31 fix via batch:grpB-w3c $0.036",
+   "2026-11-03 13:58:54 qc fail cap reached. Restored call-2 plate (6 plates correct, tag \u2159 kg soft/ambiguous). Call 3 rendered 7/6 kg (wrong), saved in scratchpad.",
+   "2026-11-03 13:59:31 qc pass ACCEPTED AT CALL CAP: cup tag \u2159 kg soft/ambiguous (call-2 plate kept; call 3 rendered 7/6 kg)"
+  ]
+ },
+ "L02_G": {
+  "status": "approved",
+  "calls": 2,
+  "log": [
+   "2026-11-03 10:40:17 gen via batch:grpB-w2 $0.027",
+   "2026-11-03 12:58:00 gen via batch:grpB-w2b $0.027",
+   "2026-11-03 12:58:29 qc pass 2 plates, oversized overhangs, tiny; handedness matches L02_A"
+  ]
+ },
+ "L03_A": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:50:53 gen via batch:grpA-w1 $0.039",
+   "2026-11-03 10:51:17 qc pass 16 cups 4x4 counted; 4.5 kg / 0.5 kg legible; 0.5 tag small"
+  ]
+ },
+ "L03_B": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 13:59:52 gen via batch:grpA-w2 $0.027",
+   "2026-11-03 14:00:17 qc pass "
+  ]
+ },
+ "L03_C": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 12:58:02 gen via batch:grpC-w1 $0.025",
+   "2026-11-03 13:01:39 qc pass "
+  ]
+ },
+ "L03_D": {
+  "status": "approved",
+  "calls": 2
+ },
+ "L03_E": {
+  "status": "approved",
+  "calls": 3,
+  "log": [
+   "2026-11-03 12:58:02 gen via batch:grpC-w1 $0.041",
+   "2026-11-03 13:17:46 fix via batch:grpC-fix1 $0.036",
+   "2026-11-03 13:54:40 fix via batch:grpC-fix2 $0.036",
+   "2026-11-03 13:54:57 qc fail far tray 15 (3x5) not 20 after 3 calls",
+   "2026-11-03 13:59:08 qc pass ACCEPTED AT CALL CAP (user rule 2026-11-03): far tray shows 15 packs (3x5) under a 20 tag; near tray correct 20 (4x5)"
+  ]
+ },
+ "L03_F": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 12:58:02 gen via batch:grpC-w1 $0.041",
+   "2026-11-03 13:01:40 qc pass "
+  ]
+ },
+ "L03_G": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 13:59:52 gen via batch:grpA-w2 $0.041",
+   "2026-11-03 14:00:17 qc pass "
+  ]
+ },
+ "L05_A": {
+  "status": "approved",
+  "calls": 3
+ },
+ "L05_B": {
+  "status": "approved",
+  "calls": 3,
+  "log": [
+   "2026-11-03 12:58:02 gen via batch:grpC-w1 $0.027",
+   "2026-11-03 13:17:46 fix via batch:grpC-fix1 $0.022",
+   "2026-11-03 13:54:40 fix via batch:grpC-fix2 $0.022",
+   "2026-11-03 13:54:57 qc fail right jug ~0.2 tick spacing below 3rd tick after 3 calls",
+   "2026-11-03 13:55:54 qc pass levels pixel-corrected to 0.75 tick"
+  ]
+ },
+ "L05_C": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 12:58:02 gen via batch:grpC-w1 $0.042",
+   "2026-11-03 13:01:41 qc pass "
+  ]
+ },
+ "L04_A": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:49:00 gen via batch:grpD-w1 $0.025",
+   "2026-11-03 10:49:15 qc pass "
+  ]
+ },
+ "L04_B": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 12:57:34 gen via batch:grpD-w2 $0.014",
+   "2026-11-03 12:58:01 qc pass "
+  ]
+ },
+ "L06_A": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:49:00 gen via batch:grpD-w1 $0.013",
+   "2026-11-03 10:49:16 qc pass "
+  ]
+ },
+ "L07_A": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 10:49:00 gen via batch:grpD-w1 $0.027",
+   "2026-11-03 10:49:16 qc pass "
+  ]
+ },
+ "L07_B": {
+  "status": "approved",
+  "calls": 1,
+  "log": [
+   "2026-11-03 12:57:34 gen via batch:grpD-w2 $0.027",
+   "2026-11-03 12:58:01 qc pass "
+  ]
+ }
+}

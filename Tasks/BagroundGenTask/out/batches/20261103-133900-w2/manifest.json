@@ -1,0 +1,19 @@
+{
+ "name": "20261103-133900-w2",
+ "created": "2026-11-03 13:39:00",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S06-D02",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "fdde07271ef2",
+   "refs": [
+    "out/plates/S06-D02.png"
+   ],
+   "instruction": "Inside the brass frame, re-tile the mirror as exactly 9 rows by 9 columns: keep the 9 columns, but make every tile slightly shorter so that 9 equal rows fill the frame's inner height (currently there are only 8 rows). All 81 tiles equal squares, joints straight and continuous edge to edge, 8 joint lines across and 8 down. Keep the one continuous full-moon reflection across tiles near the upper centre, and keep the frame, lamp, empty tray, open empty crate, paving, camera and lighting exactly as they are. No mark on the rim.",
+   "custom_id": "S06-D02~fix~2"
+  }
+ ],
+ "bytes": 1917671
+}

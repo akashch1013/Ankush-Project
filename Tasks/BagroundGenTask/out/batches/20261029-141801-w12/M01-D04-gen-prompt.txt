@@ -1,0 +1,50 @@
+Use case: ChandRush Chapter 01 location reference plate M01-D04, a street-level medium-wide view along the last stretch of Lantern Street towards the closed Food Street shutters at its far bend, after the street has been restored. It shows the restored light state: golden arches and a glowing moonline leading to a closed doorway.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Lantern Street master, seen from Entry Court looking towards Food Street. Use from it: the deep indigo timber stall walls with brass trims, the tall indigo lantern arches with hanging glass globe lanterns and their spacing, the gentle curve of the lane, the pale irregular wet-sheen paving, the layered canopies and towers beyond the roofs, the thin silver moonline track along the right-hand edge of the paving, and the closed blue shutters at the far bend. Ignore: its painted title at top left, every white annotation word and arrow, its unlit arches and dark moonline (this view is restored), and its far-away framing. The mirror alcove, the cube station and the benches are behind or beside this camera and are not shown.
+- Image 2: the approved Food Street master, seen from Lantern Street through the same doorway with its shutters raised. Use from it only the doorway itself: the tall blue timber door posts with brass edging and brass corner fittings, the heavy blue lintel beam with the shutter track and housing beneath it, and the width of the level threshold. Ignore: its painted title, every annotation word and arrow, and everything inside Food Street (counters, cart, bowls, trolley, table, canopies, the far opening). In this view the shutters are fully closed, so nothing of Food Street's interior is visible.
+
+Camera and framing: eye height about 1.4 m, standing in the middle of the lane a little beyond the mirror alcove and the cube station, looking straight along the lane towards the far bend. The closed doorway is centred slightly right of centre, about 12 to 16 metres away, filling roughly the middle third of the frame's width. Screen layout:
+- Left (about x 0.0 to 0.30): the indigo stall wall on the street's left side, receding towards the doorway, with closed stall fronts and wall lamps.
+- Centre (about x 0.32 to 0.72): the closed shutters between their two tall brass-edged blue jambs, the lintel above, and the paving running up to the threshold.
+- Right (about x 0.74 to 1.0): the indigo wall on the street's right side, receding to the right jamb.
+- Above: two or three tall indigo lantern arches spanning the lane in perspective, the nearest cut by the top of the frame.
+- Bottom 35 percent: open, level pale paving with continuous seams leading to the threshold. The moonline runs along the right-hand edge of this paving from the lower right towards the right jamb.
+
+Place and construction:
+- The doorway is the end of Lantern Street: two tall blue timber posts with brass edging, a heavy blue lintel beam, and a shutter track.
+- Two tall closed shutter leaves fill the opening from the track down to the sill. Each leaf is made of horizontal blue timber slats with brass edge strips and a brass bottom bar resting on the sill. The two leaves meet at one clear vertical join in the middle of the opening.
+- The threshold sill is level with the street paving. The paving seams continue across the sill without a step.
+- The moonline is a thin silver track set into the paving along the street's right-hand edge.
+
+State at this moment (exact):
+1. Both shutter leaves are fully closed down to the sill. No gap, no light from behind them, nothing of Food Street visible.
+2. Every tall lantern arch is lit with warm golden light: its hanging glass globe lanterns glow gold and gild the arch timber, the walls and the paving.
+3. The moonline is restored: one continuous thin line of soft silver-white light along the right-hand paving edge, unbroken all the way to the doorway, glowing only along the track itself.
+4. Fixed amber task lamps on the walls are also lit and stay distinct from the arch light.
+5. The lane is completely clear: no carts, boxes or objects on the paving.
+
+Physical inscriptions: none. There is no lettering anywhere in the image.
+
+Keep clear and visible: the vertical join between the two shutter leaves; the near brass jamb on the right side; the paving directly before the threshold; a broad open patch of paving in the lower left; a clear route up the middle of the lane to the shutters; open paving beside the right jamb.
+
+Light: restored golden arch light warms the indigo architecture and the wet paving with clean reflections. Fixed amber task lamps make small separate warm pools. Cool full-moon light edges the roofs, the canopies and the tops of the arches. At most one full moon in the sky. The scene is warm, festive and calm.
+
+Do not show:
+- open or partly raised shutters, or anything of Food Street's interior;
+- the cart, bowls, counters or awnings of Food Street;
+- dark, unlit arches or a dark moonline;
+- a broken or interrupted moonline;
+- the mirror, the cube station or the benches in close detail;
+- any sign or lettering over the doorway.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

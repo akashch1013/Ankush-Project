@@ -1,0 +1,54 @@
+Use case: ChandRush Chapter 01 location reference plate S02-B01, the lower store of the Lantern Street goods lift at level −8 (minus eight), seen from its timber landing towards the shaft, with the loaded supply cart waiting. This plate fixes the design of the lower landing, the lower gate and the supply cart that three later views reuse, so every fitting must be clear and complete.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the lift bay at street level. Copy the shaft's construction and finish: the indigo timber uprights with brass bands and rivets, the ribbed brass sliding safety gate with vertical bars and horizontal rails on a floor track, the brass guide rails inside the shaft, the brass lantern design, and the deep blue timber with visible grain. Ignore: the street, the transom, the controller, the car interior and the paving; this view is below them.
+
+Camera and framing: eye height about 1.2 m, standing on the lower store's timber landing about 4 m from the shaft, slightly right of centre, looking towards the shaft opening. Screen layout:
+- Centre (about x 0.30 to 0.72): the lower shaft opening in the far wall, closed by the lower sliding brass gate. Through the gate's ribs, the empty shaft space with its brass guide rails rising upward into darkness.
+- Right of the gate (about x 0.74 to 0.82): the gate's landing-side latch on its right edge, and above it on the right upright a fixed brass wall lamp, lit.
+- Left (about x 0.05 to 0.42), on the landing in the middle distance: the loaded supply cart, its front end pointing towards the gate, its rear handle towards the camera.
+- Right foreground (about x 0.55 to 0.90): a clear patch of timber landing beside the cart.
+- Bottom: the timber floorboards of the landing, level from the cart all the way to the gate threshold.
+- Walls: indigo timber panelling with brass bands, a low ceiling with timber beams.
+
+Place and construction:
+- The landing is a level floor of broad timber boards with brass edge strips, recessed beyond the shaft's far side.
+- The lower gate is a sliding brass gate with vertical ribs, the same design as the street gate in Image 1, running on a floor track so it slides sideways clear of the opening. Its latch is a brass lever on its right edge, at waist height, facing the landing.
+- At the gate threshold, a rectangular brass level plate is set flush into the landing's edge, the same style as the brass floor plate before the street gate in Image 1, but reading "−8".
+- The fixed brass lamp beside the gate lights the timber edge and the level plate.
+- The supply cart is a low, flat, four-wheeled timber platform with brass corner straps, four small iron-rimmed wheels and one upright rear pushing handle with a brass grip. On it sits a compact load of exactly 4 (four) closed supply boxes in 2 (two) layers, roped down, kept inside the platform's footprint. They are plain closed boxes of timber and indigo board with brass corners.
+- The lid of the top box carries a small painted picture of a blue-and-gold hanging lamp; the picture has no words.
+
+State at this moment (exact):
+1. The cart is wholly on the timber landing, all 4 (four) wheels resting on the boards.
+2. The cart's rear handle is free and easy to grasp, nearest the camera.
+3. The lower gate is closed across the opening.
+4. The shaft space beyond the gate is empty: no car at this level. The car is far above at street level, out of view.
+5. The path from the cart to the gate is clear and level.
+6. The patch of landing right of the cart is clear.
+7. The lamp beside the gate is lit warm amber and lights the level plate and the gate ribs.
+
+Physical inscriptions (render exactly, nothing else):
+- On the threshold level plate: "−8" (minus eight, with a true minus sign), large engraved dark numerals, clearly legible, the plate about one tenth of the frame wide and the numerals filling most of its height. Exactly 1 (one) level plate. Never "0", "8", "+8" or "−3", never a hyphen or en dash for the minus sign.
+
+Keep clear and visible: the level plate; the closed gate; all four supported wheels; the empty shaft opening; the cart handle; the clear patch beside the cart; the gate latch.
+
+Light: the fixed lamp gives a warm amber pool at the gate and the landing edge. Faint cool moonlight falls down the shaft from far above, edging the guide rails. The rest of the store is dim but readable.
+
+Do not show:
+- the lift car at this level;
+- an open gate;
+- the controller, the street 0 plate, a second cart, loose boxes or a load larger than the cart;
+- words on the boxes or anywhere except the plate;
+- street paving or the street gate.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

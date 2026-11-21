@@ -1,0 +1,48 @@
+{
+ "id": "S07-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CUBE INSPECTION POSITION",
+   "where": "Lower-left callout to the clear paving beside the completed block.",
+   "box": [
+    0.13,
+    0.86
+   ],
+   "targets": [
+    [
+     0.27,
+     0.7
+    ]
+   ]
+  },
+  {
+   "text": "FRAME FASTENING CHECK",
+   "where": "Upper-right callout to the fastened top-frame attachment.",
+   "box": [
+    0.62,
+    0.13
+   ],
+   "targets": [
+    [
+     0.575,
+     0.32
+    ]
+   ]
+  },
+  {
+   "text": "HANDLE OPERATING POSITION",
+   "where": "Lower-right callout to clear paving in front of the raised handle.",
+   "box": [
+    0.72,
+    0.93
+   ],
+   "targets": [
+    [
+     0.82,
+     0.75
+    ]
+   ]
+  }
+ ]
+}

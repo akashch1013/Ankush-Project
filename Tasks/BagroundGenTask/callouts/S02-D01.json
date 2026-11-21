@@ -1,0 +1,48 @@
+{
+ "id": "S02-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CART PUSHING POSITION",
+   "where": "Lower-left callout to the clear landing directly behind the cart handle.",
+   "box": [
+    0.15,
+    0.96
+   ],
+   "targets": [
+    [
+     0.03,
+     0.62
+    ]
+   ]
+  },
+  {
+   "text": "LEVEL LOADING ROUTE",
+   "where": "Lower-centre callout to the flush threshold and clear path into the car.",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.62,
+     0.6
+    ]
+   ]
+  },
+  {
+   "text": "GATE CLOSING REACH",
+   "where": "Right-margin callout to the open lower gate\u2019s accessible pull edge.",
+   "box": [
+    0.89,
+    0.62
+   ],
+   "targets": [
+    [
+     0.872,
+     0.4
+    ]
+   ]
+  }
+ ]
+}

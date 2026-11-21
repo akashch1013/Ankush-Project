@@ -1,0 +1,86 @@
+{
+ "name": "20261103-091520-w1",
+ "created": "2026-11-03 09:15:20",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "M01-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "131d97cdb6d9",
+   "refs": [
+    "work/refs/master-lantern.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "M01-D01~gen~1"
+  },
+  {
+   "rid": "M01-D04",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "019603a604e5",
+   "refs": [
+    "work/refs/master-lantern.jpg",
+    "work/refs/master-food.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "M01-D04~gen~1"
+  },
+  {
+   "rid": "S03-B01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "c1a1e37e1714",
+   "refs": [
+    "work/refs/master-lantern.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S03-B01~gen~1"
+  },
+  {
+   "rid": "S06-B01",
+   "kind": "gen",
+   "quality": "xhigh",
+   "prompt_sha": "ce05ac2b0975",
+   "refs": [
+    "work/refs/master-lantern.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S06-B01~gen~1"
+  },
+  {
+   "rid": "S07-B01",
+   "kind": "gen",
+   "quality": "xhigh",
+   "prompt_sha": "0fba891a1c8e",
+   "refs": [
+    "work/refs/master-lantern.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S07-B01~gen~1"
+  },
+  {
+   "rid": "M02-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "0981611d1eb6",
+   "refs": [
+    "work/refs/master-gate.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "M02-D01~gen~1"
+  },
+  {
+   "rid": "M03-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "c532e4901416",
+   "refs": [
+    "work/refs/master-food.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "M03-D01~gen~1"
+  }
+ ],
+ "bytes": 5249709
+}

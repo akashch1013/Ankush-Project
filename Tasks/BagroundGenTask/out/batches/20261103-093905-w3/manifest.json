@@ -1,0 +1,20 @@
+{
+ "name": "20261103-093905-w3",
+ "created": "2026-11-03 09:39:05",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "M01-D02",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "f7e900c73bfb",
+   "refs": [
+    "work/refs/master-lantern.jpg",
+    "work/refs/plate-S04-D02.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "M01-D02~gen~1"
+  }
+ ],
+ "bytes": 937820
+}

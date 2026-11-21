@@ -1,0 +1,43 @@
+{
+ "name": "20261103-135258-w3",
+ "created": "2026-11-03 13:52:58",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S06-D03",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "205a33f3fdec",
+   "refs": [
+    "work/refs/plate-S06-D02.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S06-D03~gen~1"
+  },
+  {
+   "rid": "S06-D04",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "7383937f8cd9",
+   "refs": [
+    "work/refs/plate-S06-D02.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S06-D04~gen~1"
+  },
+  {
+   "rid": "M01-D03",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "be3ff1df6121",
+   "refs": [
+    "work/refs/master-lantern.jpg",
+    "work/refs/plate-S06-D02.jpg",
+    "work/refs/plate-S07-D01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "M01-D03~gen~1"
+  }
+ ],
+ "bytes": 2076885
+}

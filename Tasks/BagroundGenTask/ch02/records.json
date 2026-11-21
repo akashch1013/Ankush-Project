@@ -1,0 +1,468 @@
+{
+ "_about": "CH02 sample records transcribed verbatim (title, filename, callouts) from Ref/Chap 2/CH02-LOCATION-IMAGE-REGISTER-V04.docx. refs: 'plate:ID' = approved CH02 plate (Image 1 when present), 'master:key' = master. wave 0 = approved samples.",
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1024x768",
+ "records": {
+  "L01_A": {
+   "quality": "high",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L01_A_Food_Street_Entrance_Obstructed.png",
+   "title": [
+    "FOOD STREET — MASTER FROM LANTERN STREET",
+    "ENTRANCE OBSTRUCTED"
+   ],
+   "callouts": [
+    "CART CLEARING POSITION",
+    "BOWL RECOVERY POINT",
+    "LAMP SET-DOWN POINT"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L01_B": {
+   "quality": "high",
+   "refs": [
+    "plate:L01_A",
+    "master:food"
+   ],
+   "filename": "CH02_L01_B_Food_Street_Entrance_Cleared.png",
+   "title": [
+    "FOOD STREET — MASTER FROM LANTERN STREET",
+    "ENTRANCE CLEARED"
+   ],
+   "callouts": [
+    "GROUP STANDING AREA",
+    "DELIVERY ROUTE",
+    "DELIVERY EXIT"
+   ],
+   "wave": 2,
+   "mode": "state-edit"
+  },
+  "L02_A": {
+   "quality": "high",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L02_A_Food_Street_Recipe_Counter_Working_View.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "RECIPE COUNTER WORKING VIEW"
+   ],
+   "callouts": [
+    "CHILDREN STAND HERE",
+    "COOKING HELPER STANDS HERE",
+    "CUPBOARD ACCESS",
+    "BOX EXAMINATION POSITION"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L02_B": {
+   "quality": "xhigh",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L02_B_Food_Street_Recipe_Weighing_Work_Surface.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "RECIPE AND WEIGHING WORK SURFACE"
+   ],
+   "callouts": [
+    "RECIPE READING POSITION",
+    "WEIGHING POSITION",
+    "STOCK CARD CHECK"
+   ],
+   "wave": 0,
+   "mode": "derive"
+  },
+  "L02_C": {
+   "quality": "high",
+   "refs": [
+    "plate:L02_A",
+    "master:food"
+   ],
+   "filename": "CH02_L02_C_Food_Street_Cool_Filling_Preparation_Area.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "COOL FILLING PREPARATION AREA"
+   ],
+   "callouts": [
+    "FILLING WORK POSITION",
+    "MIXING POSITION",
+    "PORTIONING POSITION"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  },
+  "L02_D": {
+   "quality": "high",
+   "refs": [
+    "plate:L02_A",
+    "master:food"
+   ],
+   "filename": "CH02_L02_D_Food_Street_Dispenser_Controls_Unadjusted.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "DISPENSER CONTROLS BEFORE ADJUSTMENT"
+   ],
+   "callouts": [
+    "HANDLE OPERATING POSITION",
+    "SHUT-OFF REACH",
+    "STOP ADJUSTMENT POINT",
+    "HELPER WORKING POSITION"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  },
+  "L02_E": {
+   "quality": "high",
+   "refs": [
+    "plate:L02_D",
+    "master:food"
+   ],
+   "filename": "CH02_L02_E_Food_Street_Dispenser_Cold_Test_Configuration.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "COLD TEST CONFIGURATION"
+   ],
+   "callouts": [
+    "SHUT-OFF REACH",
+    "CUP SUPPORT GRIP",
+    "TRIAL BOWL POSITION"
+   ],
+   "wave": 3,
+   "mode": "derive"
+  },
+  "L02_F": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:L02_D",
+    "master:food"
+   ],
+   "filename": "CH02_L02_F_Food_Street_Dispenser_Corrected_Serving.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "CORRECTED SERVING CONFIGURATION"
+   ],
+   "callouts": [
+    "HANDLE OPERATING POSITION",
+    "SHUT-OFF REACH",
+    "STOP ADJUSTMENT POINT",
+    "PLATE HANDOVER POINT"
+   ],
+   "wave": 3,
+   "mode": "state-edit"
+  },
+  "L02_G": {
+   "quality": "high",
+   "refs": [
+    "plate:L02_A",
+    "master:food"
+   ],
+   "filename": "CH02_L02_G_Food_Street_Low_Plate_Shelf_View.png",
+   "title": [
+    "FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER",
+    "LOW PLATE SHELF VIEW"
+   ],
+   "callouts": [
+    "SMALL ANIMAL POSITION",
+    "CHILD STANDING POSITION",
+    "COOL HAND REST"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  },
+  "L03_A": {
+   "quality": "xhigh",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L03_A_Food_Street_Packing_Bench_Empty_Trolley.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "PACKING BENCH AND EMPTY TROLLEY"
+   ],
+   "callouts": [
+    "ORDER WRITING POSITION",
+    "TROLLEY HANDLING POSITION",
+    "LOWER SHELF LOADING POSITION",
+    "DELIVERY EXIT"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L03_B": {
+   "quality": "high",
+   "refs": [
+    "plate:L03_A",
+    "master:food"
+   ],
+   "filename": "CH02_L03_B_Food_Street_Packing_Recovered_Stock_Corner.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "RECOVERED STOCK CORNER"
+   ],
+   "callouts": [
+    "TRAY ACCESS POSITION",
+    "TRAY STEADYING POINT",
+    "SMALL ANIMAL POSITION"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  },
+  "L03_C": {
+   "quality": "high",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L03_C_Food_Street_Loading_Table_Empty.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "EMPTY LOADING TABLE MECHANISM"
+   ],
+   "callouts": [
+    "BRAKE OPERATOR POSITION",
+    "BRAKE HAND CONTACT",
+    "PACK TRANSFER ROUTE",
+    "OBSERVERS STAND HERE"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L03_D": {
+   "quality": "xhigh",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L03_D_Food_Street_Loading_Table_25_15.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "UNEQUAL TRAY LOADS 25 AND 15"
+   ],
+   "callouts": [
+    "BRAKE HAND CONTACT",
+    "PACK PICK-UP SIDE",
+    "PACK RECEIVING SIDE"
+   ],
+   "wave": 0,
+   "mode": "derive"
+  },
+  "L03_E": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:L03_D",
+    "master:food"
+   ],
+   "filename": "CH02_L03_E_Food_Street_Loading_Table_20_20.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "BALANCED TRAY LOADS 20 AND 20"
+   ],
+   "callouts": [
+    "BRAKE HAND CONTACT",
+    "NEAR TRAY HANDLING POSITION",
+    "FAR TRAY HANDLING POSITION"
+   ],
+   "wave": 1,
+   "mode": "state-edit"
+  },
+  "L03_F": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:L03_D",
+    "master:food"
+   ],
+   "filename": "CH02_L03_F_Food_Street_Loading_Table_12_12.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "REMAINING TRAY LOADS 12 AND 12"
+   ],
+   "callouts": [
+    "BRAKE HAND CONTACT",
+    "NEAR PACK PICK-UP SIDE",
+    "FAR PACK PICK-UP SIDE"
+   ],
+   "wave": 1,
+   "mode": "state-edit"
+  },
+  "L03_G": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:L03_A",
+    "master:food"
+   ],
+   "filename": "CH02_L03_G_Food_Street_Packing_Trolley_Ready_For_Dispatch.png",
+   "title": [
+    "FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE",
+    "TROLLEY READY FOR DISPATCH"
+   ],
+   "callouts": [
+    "TROLLEY PUSHING POSITION",
+    "LOWER SHELF CHECK",
+    "DELIVERY ROUTE"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  },
+  "L05_A": {
+   "quality": "xhigh",
+   "refs": [
+    "master:food"
+   ],
+   "filename": "CH02_L05_A_Food_Street_Drink_Counter_Working_View.png",
+   "title": [
+    "FOOD STREET — DRINK AND WEIGHING COUNTER",
+    "DRINK COUNTER WORKING VIEW"
+   ],
+   "callouts": [
+    "JUG CHECKING POSITION",
+    "URN OPERATING POSITION",
+    "TROLLEY FILLING BAY",
+    "RESERVE BOTTLE REACH"
+   ],
+   "wave": 0,
+   "mode": "derive"
+  },
+  "L05_B": {
+   "quality": "high",
+   "refs": [
+    "plate:L05_A",
+    "master:food"
+   ],
+   "filename": "CH02_L05_B_Food_Street_Low_Drink_Counter_View.png",
+   "title": [
+    "FOOD STREET — DRINK AND WEIGHING COUNTER",
+    "LOW DRINK COUNTER VIEW"
+   ],
+   "callouts": [
+    "SMALL ANIMAL POSITION",
+    "CHILD STANDING POSITION",
+    "COOL HAND REST"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L05_C": {
+   "quality": "xhigh",
+   "refs": [
+    "plate:L05_A",
+    "master:food"
+   ],
+   "filename": "CH02_L05_C_Food_Street_Dry_Weighing_Preparation_End.png",
+   "title": [
+    "FOOD STREET — DRINK AND WEIGHING COUNTER",
+    "DRY WEIGHING AND PREPARATION END"
+   ],
+   "callouts": [
+    "WEIGHING POSITION",
+    "TARE CONTROL REACH",
+    "RECORD WRITING POSITION",
+    "MIXING JUG FILL POSITION"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L04_A": {
+   "quality": "high",
+   "refs": [
+    "master:gate"
+   ],
+   "filename": "CH02_L04_A_Old_Blue_Gate_Service_Doorway_Working_View.png",
+   "title": [
+    "OLD BLUE GATE — EXTERIOR WAITING LANE",
+    "SERVICE DOORWAY WORKING VIEW"
+   ],
+   "callouts": [
+    "SERVICE HELPER POSITION",
+    "RECIPIENT STANDING POSITION",
+    "TROLLEY STOPPING BAY",
+    "WAITING GROUP AREA"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L04_B": {
+   "quality": "medium",
+   "refs": [
+    "plate:L04_A",
+    "master:gate"
+   ],
+   "filename": "CH02_L04_B_Old_Blue_Gate_Bench_Writing_Waiting_View.png",
+   "title": [
+    "OLD BLUE GATE — EXTERIOR WAITING LANE",
+    "BENCH WRITING AND WAITING VIEW"
+   ],
+   "callouts": [
+    "NOTE WRITING POSITION",
+    "SECOND CHILD POSITION",
+    "NOTE COLLECTION POINT"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  },
+  "L06_A": {
+   "quality": "medium",
+   "refs": [
+    "master:returnwalk",
+    "master:food"
+   ],
+   "filename": "CH02_L06_A_Covered_Return_Walk_Towards_Entry_Court.png",
+   "title": [
+    "CHANDRUSH — COVERED RETURN WALK",
+    "DELIVERY ROUTE TOWARDS ENTRY COURT"
+   ],
+   "callouts": [
+    "DELIVERY START POINT",
+    "TROLLEY TRAVEL ROUTE",
+    "ESCORT WALKING SIDE"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L07_A": {
+   "quality": "high",
+   "refs": [
+    "master:parade",
+    "master:food"
+   ],
+   "filename": "CH02_L07_A_Parade_Ground_From_Food_Street_Threshold.png",
+   "title": [
+    "PARADE GROUND — REHEARSAL YARD AND VISITOR LANE",
+    "VIEW FROM FOOD STREET THRESHOLD"
+   ],
+   "callouts": [
+    "THRESHOLD STANDING AREA",
+    "PEDESTRIAN ROUTE",
+    "FLOAT INSPECTION POSITION"
+   ],
+   "wave": 1,
+   "mode": "derive"
+  },
+  "L07_B": {
+   "quality": "high",
+   "refs": [
+    "plate:L07_A",
+    "master:parade"
+   ],
+   "filename": "CH02_L07_B_Parade_Ground_Elephant_Work_Area.png",
+   "title": [
+    "PARADE GROUND — REHEARSAL YARD AND VISITOR LANE",
+    "ELEPHANT WORK AREA"
+   ],
+   "callouts": [
+    "INSPECTION GROUP POSITION",
+    "PERFORMER STANDING POSITION"
+   ],
+   "wave": 2,
+   "mode": "derive"
+  }
+ },
+ "masters": {
+  "food": "refs/food-master.jpg",
+  "gate": "refs/gate-master.jpg",
+  "returnwalk": "refs/returnwalk-master.jpg",
+  "parade": "refs/parade-master.jpg"
+ }
+}

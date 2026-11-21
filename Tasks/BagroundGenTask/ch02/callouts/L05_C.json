@@ -1,0 +1,56 @@
+{
+ "callouts": [
+  {
+   "text": "WEIGHING POSITION",
+   "box": [
+    0.14,
+    0.66
+   ],
+   "targets": [
+    [
+     0.18,
+     0.6
+    ]
+   ]
+  },
+  {
+   "text": "TARE CONTROL REACH",
+   "box": [
+    0.1,
+    0.3
+   ],
+   "targets": [
+    [
+     0.215,
+     0.5
+    ]
+   ]
+  },
+  {
+   "text": "RECORD WRITING POSITION",
+   "box": [
+    0.5,
+    0.72
+   ],
+   "targets": [
+    [
+     0.5,
+     0.6
+    ]
+   ]
+  },
+  {
+   "text": "MIXING JUG FILL POSITION",
+   "box": [
+    0.8,
+    0.72
+   ],
+   "targets": [
+    [
+     0.8,
+     0.6
+    ]
+   ]
+  }
+ ]
+}

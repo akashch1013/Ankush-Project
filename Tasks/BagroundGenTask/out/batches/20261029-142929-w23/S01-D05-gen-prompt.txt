@@ -1,0 +1,50 @@
+Use case: ChandRush Chapter 01 location reference plate S01-D05, a low three-quarter view from the Lantern Street paving outside the goods lift's closed street gate, with the lift car stopped at street level 0 and the loaded supply cart secured inside it. It reuses the exact lift and controller designs of Image 1 and the exact cart of Image 2.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the lift bay at street level. Copy exactly: the brass-framed lift opening with indigo uprights and the ornate transom, the ribbed brass safety gate with vertical bars and horizontal rails, the car (broad flat timber floor with brass edges, blue panelled back wall, small pendant lamp, two low brass wheel-restraint channels with chocks), the square brass "0" plate flush in the paving at the threshold, the narrow blue-and-brass controller immediately right of the opening under its lit lantern, with its white position strip, buttons, shelf, two red lamps and plain riveted lower cover, and the pale wet paving. Ignore: its higher eye-level framing.
+- Image 2: the approved plate of the lower store. Use only the supply cart: a low flat four-wheeled timber platform with brass corner straps, small iron wheels, a curved brass rear handle, two stacked indigo boxes with brass corners roped down, and a painted blue-and-gold lamp picture in a gold circle on the top lid. Ignore: the lower store itself.
+
+Camera and framing: a low camera about 80 cm above the paving, about 2.5 m from the gate, slightly left of the opening's centre, looking at the lift bay at about 30 degrees. Screen layout:
+- Lower foreground (bottom 30 percent): the pale paving outside the gate and the flush threshold with its "0" plate.
+- Centre (about x 0.10 to 0.70): the whole closed gate, and through its ribs the car with the complete loaded cart standing inside it.
+- Right (about x 0.74 to 0.95): the controller's face and right side, with its lantern above.
+
+Place and construction:
+- The car floor and the street paving meet at exactly the same height: no step, no gap, so the cart could roll straight out.
+- The cart stands on the car floor with its four wheels in the two brass wheel-restraint channels, held by the chocks. Its load stays inside the cart's footprint. There is clear standing room on the car floor beside the cart.
+- The cart's rear handle faces the gate and is easy to reach through the opening once the gate is opened.
+
+State at this moment (exact):
+1. Exactly one car, stopped at street level 0, floor flush with the paving.
+2. Exactly one supply cart, entirely inside the car, secured in the restraints, all boxes closed and roped, the painted lamp picture visible on the top lid.
+3. The street gate is closed; its street-side latch is on its right edge, near the controller.
+4. The controller's lower cover is closed and both red lamps glow red.
+5. The controller lantern and the car's pendant lamp are lit warm amber.
+6. The overhead arch lanterns are unlit.
+
+Physical inscriptions (render exactly, nothing else):
+- The threshold plate: "0", large engraved dark numeral, clearly legible.
+- On the controller, if readable at this distance, exactly as in Image 1: the position strip "+2", "+1", "0", "−1", "−2", "−3", "−4", "−5", "−6", "−7", "−8" (true minus signs) and the button plates "START", "HOLD", "CANCEL LAST CHANGE"; otherwise they appear as small unreadable marks, never wrong.
+
+Keep clear and visible: the level threshold and its 0 plate; the cart's wheels in their restraints; the cart's handle; the gate's street-side latch; the clear paving directly outside the gate.
+
+Light: warm amber from the controller lantern and the car's pendant lamp on the brass, the boxes and the car floor; cool moonlight on the paving and gate ribs. The main arches and the moonline stay unlit.
+
+Do not show:
+- an open gate;
+- the cart outside the car or tilted;
+- a step between car floor and paving;
+- an open lower cover or visible thumbwheels;
+- words on the boxes;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

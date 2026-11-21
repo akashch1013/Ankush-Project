@@ -1,0 +1,48 @@
+{
+ "id": "S05-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CARD CHECKING POSITION",
+   "where": "Lower-centre callout to clear paving in front of the four-card row.",
+   "box": [
+    0.4,
+    0.95
+   ],
+   "targets": [
+    [
+     0.14,
+     0.9
+    ]
+   ]
+  },
+  {
+   "text": "CARD LIFTING POINT",
+   "where": "Upper-right callout to the exposed top edge of the 25 WORKERS card above 414 HOOKS.",
+   "box": [
+    0.86,
+    0.06
+   ],
+   "targets": [
+    [
+     0.66,
+     0.25
+    ]
+   ]
+  },
+  {
+   "text": "CARTON HANDOVER EDGE",
+   "where": "Lower-right callout to the accessible front bench edge, clear of the sealed cartons.",
+   "box": [
+    0.85,
+    0.86
+   ],
+   "targets": [
+    [
+     0.78,
+     0.67
+    ]
+   ]
+  }
+ ]
+}

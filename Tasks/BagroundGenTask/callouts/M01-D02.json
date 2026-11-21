@@ -1,0 +1,48 @@
+{
+ "id": "M01-D02",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "FITTING INSPECTION POSITION",
+   "where": "Lower-centre callout to clear paving beneath and beside the installed arch fitting.",
+   "box": [
+    0.4,
+    0.94
+   ],
+   "targets": [
+    [
+     0.44,
+     0.84
+    ]
+   ]
+  },
+  {
+   "text": "BENCH HANDOVER POINT",
+   "where": "Right-margin callout to the clear front bench edge below the arch.",
+   "box": [
+    0.88,
+    0.36
+   ],
+   "targets": [
+    [
+     0.66,
+     0.84
+    ]
+   ]
+  },
+  {
+   "text": "SUPPORT CHECK POINT",
+   "where": "Upper-margin callout ending beside the secured arch bracket and fastening surface.",
+   "box": [
+    0.8,
+    0.03
+   ],
+   "targets": [
+    [
+     0.58,
+     0.07
+    ]
+   ]
+  }
+ ]
+}

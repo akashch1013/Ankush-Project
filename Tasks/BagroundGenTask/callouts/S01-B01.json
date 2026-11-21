@@ -1,0 +1,48 @@
+{
+ "id": "S01-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CONTROLLER OPERATING POSITION",
+   "where": "Lower-right callout to safe paving immediately in front of the controller.",
+   "box": [
+    0.84,
+    0.92
+   ],
+   "targets": [
+    [
+     0.645,
+     0.85
+    ]
+   ]
+  },
+  {
+   "text": "GATE WAITING AREA",
+   "where": "Lower-left callout to the paving outside the closed safety gate.",
+   "box": [
+    0.13,
+    0.955
+   ],
+   "targets": [
+    [
+     0.24,
+     0.9
+    ]
+   ]
+  },
+  {
+   "text": "CARD PLACEMENT POINT",
+   "where": "Right-margin callout to the controller’s small reachable shelf.",
+   "box": [
+    0.87,
+    0.54
+   ],
+   "targets": [
+    [
+     0.68,
+     0.535
+    ]
+   ]
+  }
+ ]
+}

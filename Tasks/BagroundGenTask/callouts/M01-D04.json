@@ -1,0 +1,48 @@
+{
+ "id": "M01-D04",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "SHUTTER APPROACH",
+   "where": "Lower-centre callout to the clear route towards the closed threshold.",
+   "box": [
+    0.55,
+    0.93
+   ],
+   "targets": [
+    [
+     0.57,
+     0.7
+    ]
+   ]
+  },
+  {
+   "text": "GROUP STANDING AREA",
+   "where": "Lower-left callout to the open paving a short distance before the shutters.",
+   "box": [
+    0.15,
+    0.9
+   ],
+   "targets": [
+    [
+     0.25,
+     0.76
+    ]
+   ]
+  },
+  {
+   "text": "THRESHOLD LISTENING POSITION",
+   "where": "Right-margin callout to the paving beside the near shutter jamb.",
+   "box": [
+    0.88,
+    0.4
+   ],
+   "targets": [
+    [
+     0.71,
+     0.62
+    ]
+   ]
+  }
+ ]
+}

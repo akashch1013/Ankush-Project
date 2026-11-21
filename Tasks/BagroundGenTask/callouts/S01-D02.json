@@ -1,0 +1,48 @@
+{
+ "id": "S01-D02",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CONTROL HAND POSITION",
+   "where": "Lower-margin callout to the reachable START, HOLD and CANCEL LAST CHANGE control area.",
+   "box": [
+    0.84,
+    0.86
+   ],
+   "targets": [
+    [
+     0.53,
+     0.56
+    ]
+   ]
+  },
+  {
+   "text": "CARD REMOVAL POINT",
+   "where": "Upper-right callout to the exposed top edge of the \u22122 card.",
+   "box": [
+    0.83,
+    0.05
+   ],
+   "targets": [
+    [
+     0.49,
+     0.13
+    ]
+   ]
+  },
+  {
+   "text": "REMOVED CARD REST",
+   "where": "Right-margin callout to the empty shelf patch separate from the card slots.",
+   "box": [
+    0.89,
+    0.66
+   ],
+   "targets": [
+    [
+     0.62,
+     0.665
+    ]
+   ]
+  }
+ ]
+}

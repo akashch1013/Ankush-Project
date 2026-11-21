@@ -1,0 +1,49 @@
+Use case: ChandRush Chapter 01 location reference plate S04-D01, a near-overhead view of one open padded sample-kit box on the centre section of Lantern Street's right-wall bench, holding the exact sample kit: three lenses and five rings. It reuses the bench, kit box and stock box designs of Image 1.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate of the projector-kit bench. Copy exactly: the cream marble worktop with its rounded front lip; the indigo-and-brass stock boxes with brass corner guards and engraved brass label plates; the thick polished blue glass lens discs and complete brass rings they hold; the padded kit box (indigo timber with brass corners and catches, deep navy velvet lining, lid hinged at the back); the flat blank sample board with a thin brass edge. Ignore: its eye-level framing, the bird, the rack, the test rail and the wall lamp.
+
+Camera and framing: a near-overhead view looking almost straight down at the bench, tilted slightly towards the wall, from about 70 cm above the worktop. Screen layout:
+- Top strip (about y 0.0 to 0.16): the lower front edges of the two stock boxes against the wall, with the lower corners of their brass label plates: the lens box on the left, the ring box on the right.
+- Centre (about x 0.18 to 0.78, y 0.20 to 0.85): the open padded kit box seen from above, its whole interior visible, with its open lid lying back behind it towards the wall.
+- Right (about x 0.80 to 1.0): the blank sample board lying flat beside the box.
+- Bottom strip: the cream bench edge with its rounded lip.
+
+Place and construction:
+- The sample box has a shallow navy velvet padded interior with separate shaped recesses.
+- On the LEFT side of the interior: exactly 3 (three) round lens recesses in one row from top to bottom of that side.
+- On the RIGHT side of the interior: exactly 5 (five) round ring recesses, arranged as 3 (three) in an upper row and 2 (two) in a lower row.
+- The lid is hinged at the back and lies open, clear of the contents.
+
+State at this moment (exact):
+1. Exactly 3 (three) equal thick polished blue glass lenses rest in the three lens recesses, one in each.
+2. Exactly 5 (five) equal complete brass rings rest in the five ring recesses, one in each, flat, with their round openings visible.
+3. No part overlaps another. The lenses are not mounted in rings; every ring is separate.
+4. The sample board beside the box is blank and empty.
+5. No loose lenses or rings anywhere on the worktop; the remaining stock is inside the stock boxes at the top.
+
+Physical inscriptions (render exactly, nothing else):
+- Only the lower parts of the two label plates show at the top edge, and their words are cut off by the frame edge so that no full or partial words are readable. No other lettering.
+
+Keep clear and visible: all three lenses; all five ring openings; the whole outline of the kit box; the padded rim beside the lenses on the left; the padded rim beside the rings on the right.
+
+Light: warm amber task-lamp light from above the bench, clean soft shadows of the parts in their recesses, bright specular highlights on brass and blue glass. Crisp, no haze.
+
+Do not show:
+- more or fewer than three lenses or five rings in the box;
+- a lens inside a ring, or an assembled projector head;
+- a second kit box or a second sample;
+- loose parts on the worktop;
+- marks or drawings on the sample board;
+- readable words.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

@@ -1,0 +1,19 @@
+{
+ "name": "20261103-143742-w3",
+ "created": "2026-11-03 14:37:42",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "M01-D03",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "770387c8f883",
+   "refs": [
+    "out/plates/M01-D03.png"
+   ],
+   "instruction": "On the right wall, the brass-framed mirror at about x 0.85–0.98, y 0.26–0.63 is a tall portrait rectangle with about 9 columns and 12 rows of tiles. Replace it with a true-square shallow brass frame mounted low on the wall, its bottom edge just above the paving and with a slight backward tilt, holding an even square grid of exactly 9 by 9 = 81 equal flat tiles. Keep its reflections of the golden-lit lanterns, keep the same blue alcove, padded seat and plant to its left, and change nothing else in the image.",
+   "custom_id": "M01-D03~fix~2"
+  }
+ ],
+ "bytes": 2162203
+}

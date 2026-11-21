@@ -1,0 +1,34 @@
+{
+ "id": "S04-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "SAMPLE PART PICK-UP",
+   "where": "Left-margin callout to the accessible padded-box rim beside the three lenses.",
+   "box": [
+    0.11,
+    0.55
+   ],
+   "targets": [
+    [
+     0.245,
+     0.55
+    ]
+   ]
+  },
+  {
+   "text": "RING HANDLING POINT",
+   "where": "Right-margin callout to the box rim beside the five ring recesses.",
+   "box": [
+    0.86,
+    0.8
+   ],
+   "targets": [
+    [
+     0.665,
+     0.55
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "S07-D04",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "TRACK ALIGNMENT POINT",
+   "where": "Left-margin callout with short leaders ending beside the two original track ends.",
+   "box": [
+    0.13,
+    0.8
+   ],
+   "targets": [
+    [
+     0.4,
+     0.635
+    ],
+    [
+     0.57,
+     0.71
+    ]
+   ]
+  },
+  {
+   "text": "SCREW FASTENING REACH",
+   "where": "Upper-margin callout to the original tab-and-screw area, clear of the dust.",
+   "box": [
+    0.6,
+    0.4
+   ],
+   "targets": [
+    [
+     0.465,
+     0.56
+    ]
+   ]
+  },
+  {
+   "text": "COVER REPLACEMENT EDGE",
+   "where": "Right-margin callout to the free outer edge of the supported brass cover.",
+   "box": [
+    0.86,
+    0.78
+   ],
+   "targets": [
+    [
+     0.94,
+     0.52
+    ]
+   ]
+  }
+ ]
+}

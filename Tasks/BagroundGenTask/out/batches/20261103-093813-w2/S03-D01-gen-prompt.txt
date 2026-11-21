@@ -1,0 +1,52 @@
+Use case: ChandRush Chapter 01 location reference plate S03-D01, a close three-quarter view of the timing mechanism at the left end of Lantern Street's right-wall bench, at the moment both catches are open together at beat 12. It reuses the exact mechanism designed in Image 1, seen closer, in a new state. A later plate (S03-D02) continues from this one.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate S03-B01 of the timing mechanism at its start. Copy its design exactly: the cream marble worktop with its rounded front lip, and the bench front of cream stone pillars with indigo timber panels carrying brass ring pulls; the indigo vertical-board wall with brass strips; the brass wall lamp with a bell shade on a jointed arm, upper left; the long brass-framed beat strip on the wall of 16 (sixteen) equal pale cells numbered 1 to 16; the one long brass base plate on the worktop carrying the straight brass rail left to right, ending at the right in a brass end-stop block; the one carved pale ivory bird (a dove shape, beak pointing right) on one short flat brass sliding platform; the blue catch at the left end of the base: a blue-enamel block housing topped by a round blue glass globe lamp on a short brass stem, with a round cream disc plate on its front engraved "4"; the gold catch immediately right of the platform: a brass bracket housing topped by a round amber glass globe lamp, with a round cream disc plate on its front engraved "6"; the small upright white start card in a low brass stand at the worktop's front-left; the small brass beat counter box with one dark rectangular window, on the worktop near the front edge at centre; the closed indigo-and-brass stock box cut by the right frame edge. Ignore: its wider framing, its lowered catches, its unlit globe lamps, its "6" start card and its blank counter window; those are the earlier state.
+
+Camera and framing: close three-quarter view from the lane, eye height about 1.1 m, about 1.3 m from the bench, looking slightly down at the mechanism. Screen layout:
+- Left (about x 0.04 to 0.18): the start card in its holder at the bench's front-left corner.
+- Centre-left (about x 0.18 to 0.50): the blue catch, the bird on its platform at the starting mark, and the gold catch.
+- Centre-right and right (about x 0.50 to 0.92): the clear rail running to the end-stop block.
+- Front centre: the brass beat counter box on the worktop near the front edge, its window facing the camera and about one eighth of the frame wide.
+- Top: the lower part of the numbered beat strip on the wall and the wall joint above the bench. The cream bench lip crosses the bottom of the frame.
+
+State at this moment (exact):
+1. Both catches are raised. Each catch housing has one short brass latch arm hinged at its top; in Image 1 these arms lay down against the platform's ends. Now each arm is swung upward to stand nearly vertical, its tip pointing up, clear of the platform.
+2. Both catch lamps are lit: the blue glass lamp on the left glows clear blue, the amber glass lamp on the right glows warm gold. Each glow stays tight around its own glass.
+3. The beat counter display reads "12" in bright clear numerals.
+4. The start card in its holder reads "12".
+5. Exactly one bird on exactly one platform, upright, still at the starting mark on the left.
+6. The cycle plates still read 4 at the blue catch and 6 at the gold catch.
+7. The rail from the platform to the end stop is clear.
+8. The wall task lamp is lit.
+
+Physical inscriptions (render exactly, nothing else):
+- On the start card, large dark print: "12".
+- On the beat counter display, bright numerals: "12".
+- On the brass cycle plate below the blue catch: "4".
+- On the brass cycle plate below the gold catch: "6".
+- On the beat strip, if visible, the small cell numbers "1" to "16" in order, with every writing space empty.
+All are crisp and clearly legible. The card is about one tenth of the frame wide. Both 12 readings are exactly 12 (twelve): never 6, 21, 2, 10 or 24. The blue plate reads 4 (four) and the gold plate 6 (six), never swapped.
+
+Keep clear and visible: the card's accessible edge; both raised catch tips with open space above them; both lit lamps; the counter; the bird at the start; the clear front bench edge in front of the rail.
+
+Light: the wall lamp gives warm amber light on the cream bench and brass. The two catch lamps add small blue and gold glows. Cool moonlight edges the wall. The main arches and the moonline are unlit and out of view.
+
+Do not show:
+- a lowered catch or an unlit catch lamp;
+- the card or the counter showing 6, a blank or any other value;
+- the bird moved along the rail, bowed or at the end stop;
+- a second bird or platform;
+- marks written in the beat strip;
+- any other lettering.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

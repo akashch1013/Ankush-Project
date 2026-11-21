@@ -1,0 +1,43 @@
+{
+ "callouts": [
+  {
+   "text": "RECIPE READING POSITION",
+   "box": [
+    0.17,
+    0.93
+   ],
+   "targets": [
+    [
+     0.2,
+     0.7
+    ]
+   ]
+  },
+  {
+   "text": "WEIGHING POSITION",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.5,
+     0.73
+    ]
+   ]
+  },
+  {
+   "text": "STOCK CARD CHECK",
+   "box": [
+    0.86,
+    0.37
+   ],
+   "targets": [
+    [
+     0.89,
+     0.555
+    ]
+   ]
+  }
+ ]
+}

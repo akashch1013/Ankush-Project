@@ -1,0 +1,46 @@
+{
+ "id": "S01-D03",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "WHEEL ADJUSTMENT POINT",
+   "where": "Right-margin callout with short leaders beside the four accessible thumbwheel rims.",
+   "box": [
+    0.89,
+    0.24
+   ],
+   "targets": [
+    [
+     0.48,
+     0.31
+    ],
+    [
+     0.55,
+     0.31
+    ],
+    [
+     0.62,
+     0.31
+    ],
+    [
+     0.69,
+     0.31
+    ]
+   ]
+  },
+  {
+   "text": "COVER SUPPORT EDGE",
+   "where": "Lower-margin callout to the outside edge of the open hinged cover.",
+   "box": [
+    0.5,
+    0.93
+   ],
+   "targets": [
+    [
+     0.62,
+     0.785
+    ]
+   ]
+  }
+ ]
+}

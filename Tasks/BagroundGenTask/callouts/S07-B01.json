@@ -1,0 +1,48 @@
+{
+ "id": "S07-B01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "CUBE ASSEMBLY POSITION",
+   "where": "Lower-left callout to clear paving in front of the square plinth.",
+   "box": [
+    0.22,
+    0.94
+   ],
+   "targets": [
+    [
+     0.4,
+     0.78
+    ]
+   ]
+  },
+  {
+   "text": "TOP FRAME FASTENING REACH",
+   "where": "Upper-right callout to the accessible frame fastener on its fixed support.",
+   "box": [
+    0.7,
+    0.06
+   ],
+   "targets": [
+    [
+     0.572,
+     0.255
+    ]
+   ]
+  },
+  {
+   "text": "HANDLE OPERATING POSITION",
+   "where": "Lower-right callout to clear paving in front of the separate down-pull handle.",
+   "box": [
+    0.82,
+    0.955
+   ],
+   "targets": [
+    [
+     0.8,
+     0.8
+    ]
+   ]
+  }
+ ]
+}

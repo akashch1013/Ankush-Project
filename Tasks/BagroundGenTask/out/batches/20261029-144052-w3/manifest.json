@@ -1,0 +1,30 @@
+{
+ "name": "20261029-144052-w3",
+ "created": "2026-10-29 14:40:52",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "M01-D03",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "0cc3a46c1ae5",
+   "refs": [
+    "out/plates/M01-D03.png"
+   ],
+   "instruction": "Two corrections. 1) The large brass down-pull handle on the wall beside the readiness panel, at the left of the image, is raised; it must be pulled DOWN: the lever hangs downward from its pivot at a slant, its round grip at the lower end. 2) The square mirror on the right must be a regular grid of exactly 9 equal columns and 9 equal rows of square tiles: redraw only its tile joints inside the same frame as 8 evenly spaced vertical lines and 8 evenly spaced horizontal lines. Keep everything else exactly as it is: camera, golden arches, glowing moonline, the lit cube block, five white lights, bench, paving.",
+   "custom_id": "M01-D03~fix~2"
+  },
+  {
+   "rid": "S07-D03",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "974ea0d08eef",
+   "refs": [
+    "out/plates/S07-D03.png"
+   ],
+   "instruction": "The lantern-cube block above the plinth must be exactly 4 cubes wide, 4 deep and 4 high. Its front face is correct (4 columns by 4 rows), but its left side face shows 3 columns and 5 rows. Redraw the left side face as exactly 4 columns by 4 rows of equal square cube faces, lined up row for row with the front face, with the lowered top frame resting on the block's top. Keep the plinth, the crooked brass cover, the track, the lowered handle, the panel with five white lights and labels, the canopy, the lamp and the camera exactly as they are.",
+   "custom_id": "S07-D03~fix~2"
+  }
+ ],
+ "bytes": 4111667
+}

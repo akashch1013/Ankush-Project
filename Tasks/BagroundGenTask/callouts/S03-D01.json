@@ -1,0 +1,52 @@
+{
+ "id": "S03-D01",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "START CARD CHECK",
+   "where": "Lower-left callout to the accessible edge of the 12 start card.",
+   "box": [
+    0.13,
+    0.7
+   ],
+   "targets": [
+    [
+     0.09,
+     0.47
+    ]
+   ]
+  },
+  {
+   "text": "SHARED OPENING CHECK",
+   "where": "Upper-margin callout with short leaders beside the two raised catch tips.",
+   "box": [
+    0.3,
+    0.21
+   ],
+   "targets": [
+    [
+     0.25,
+     0.345
+    ],
+    [
+     0.345,
+     0.355
+    ]
+   ]
+  },
+  {
+   "text": "BIRD OBSERVATION POSITION",
+   "where": "Lower-right callout to the clear front working edge outside the rail path.",
+   "box": [
+    0.84,
+    0.95
+   ],
+   "targets": [
+    [
+     0.82,
+     0.79
+    ]
+   ]
+  }
+ ]
+}

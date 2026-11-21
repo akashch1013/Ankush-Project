@@ -1,0 +1,27 @@
+Use case: ChandRush Chapter 02 location reference plate L04_B, an oblique medium view of the blue-and-brass bench on the right of the Old Blue Gate, used as a writing and waiting spot.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved plate L04_A, the Old Blue Gate seen frontally from the waiting lane. Use it for: the exact design of the bench on screen-right (slatted blue seat and back, brass edging, brass emblem on the back, curved brass arms, original legs on the paving beside the right pier), the right carved-stone pier, the blue main leaf with brass stars, lanterns, wet pale paving and lighting. The service door is in the LEFT main leaf and stays out of this view.
+- Image 2: the approved Old Blue Gate master. Use it for: materials and finish only. Ignore and never reproduce: its painted title and every white annotation label box, annotation word and arrow.
+Camera and framing: new camera, oblique medium view towards the bench, camera slightly above seat height so the flat seat surface and the floor beside it are visible. The near seat corner and its curved brass arm are in the lower-left to centre foreground; the bench recedes to the right. Behind it: the right stone pier and a section of the closed blue main leaf at screen-left/background. Open paving fills the bottom of the frame.
+State at this moment (exact):
+1. Visible main gate leaf: closed.
+2. Bench seat: completely clear and dry, with a flat patch at the near corner large enough for a sheet of paper.
+3. Paving directly in front of the near seat corner: open and clear.
+4. A second clear patch of paving beside the near bench arm, separate from the approach in front of the corner.
+5. Bench legs rest on the stone paving with grounded shadows.
+Physical inscriptions: none. No letters, numbers or words anywhere.
+Keep clear and visible: the near seat corner, the outer seat edge, the floor in front of the corner, the patch beside the arm.
+Light: the nearby lantern casts warm amber light across the seat; cool blue moon rim light on the brass and stone.
+Do not show: paper, bags or objects on the bench; any person, hand or animal; titles, label boxes, words or arrows.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

@@ -1,0 +1,19 @@
+{
+ "name": "20261103-150306-w3",
+ "created": "2026-11-03 15:03:06",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S06-D03",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "34531bc5c3a3",
+   "refs": [
+    "out/plates/S06-D03.png"
+   ],
+   "instruction": "The tile grid's horizontal joints are unevenly spaced: rows one to eight are too tall and the bottom row is a thin sliver. Redraw only the horizontal joints so they are evenly spaced: 8 straight horizontal joints divide the inner opening into 9 bands of exactly equal height, the bottom band as tall as the top band, matching the 9 equal columns so every tile is the same size. Keep the reflection (no moon), the vertical joints, frame, lamp, tray, crate, paving, camera and lighting exactly as they are. No mark on the rim.",
+   "custom_id": "S06-D03~fix~3"
+  }
+ ],
+ "bytes": 1754154
+}

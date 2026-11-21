@@ -1,0 +1,48 @@
+{
+ "id": "S01-D05",
+ "note": "box = centre of the label box; targets = leader end points; all as fractions of the plate (x across, y down). Fill every targets list from the grid image.",
+ "callouts": [
+  {
+   "text": "UNLOADING RECEIVING AREA",
+   "where": "Lower-left callout to the clear paving directly outside the closed gate.",
+   "box": [
+    0.17,
+    0.9
+   ],
+   "targets": [
+    [
+     0.3,
+     0.8
+    ]
+   ]
+  },
+  {
+   "text": "GATE RELEASE REACH",
+   "where": "Right-margin callout to the street-side safety-gate latch.",
+   "box": [
+    0.66,
+    0.72
+   ],
+   "targets": [
+    [
+     0.465,
+     0.42
+    ]
+   ]
+  },
+  {
+   "text": "CART HANDLE REACH",
+   "where": "Side callout to the cart\u2019s pushing handle inside the car, leaving its restraints visible.",
+   "box": [
+    0.12,
+    0.25
+   ],
+   "targets": [
+    [
+     0.165,
+     0.49
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+{"callouts":[
+ {"text":"ORDER WRITING POSITION","box":[0.16,0.1],"targets":[[0.12,0.42]]},
+ {"text":"TROLLEY HANDLING POSITION","box":[0.3,0.95],"targets":[[0.385,0.6]]},
+ {"text":"LOWER SHELF LOADING POSITION","box":[0.82,0.88],"targets":[[0.74,0.76]]},
+ {"text":"DELIVERY EXIT","box":[0.09,0.4],"targets":[[0.3,0.47]]}
+]}

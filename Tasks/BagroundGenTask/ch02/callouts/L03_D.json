@@ -1,0 +1,43 @@
+{
+ "callouts": [
+  {
+   "text": "BRAKE HAND CONTACT",
+   "box": [
+    0.11,
+    0.6
+   ],
+   "targets": [
+    [
+     0.265,
+     0.475
+    ]
+   ]
+  },
+  {
+   "text": "PACK PICK-UP SIDE",
+   "box": [
+    0.6,
+    0.95
+   ],
+   "targets": [
+    [
+     0.6,
+     0.85
+    ]
+   ]
+  },
+  {
+   "text": "PACK RECEIVING SIDE",
+   "box": [
+    0.84,
+    0.07
+   ],
+   "targets": [
+    [
+     0.69,
+     0.06
+    ]
+   ]
+  }
+ ]
+}

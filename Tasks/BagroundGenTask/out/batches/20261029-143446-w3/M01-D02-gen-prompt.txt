@@ -1,0 +1,43 @@
+Use case: ChandRush Chapter 01 location reference plate M01-D02, a medium-wide view from beside Lantern Street's right-wall bench, looking diagonally up at the nearest tall lantern arch, where the assembled projector head has now been installed. The arch is not yet lit. It reuses the street of Image 1 and the exact projector head of Image 2.
+Asset: one 4:3 landscape scenic image of an empty location, no characters.
+Input images:
+- Image 1: the approved Lantern Street master, seen from Entry Court looking towards Food Street. Use from it: the tall indigo lantern arches with their hanging glass globe lanterns, the deep indigo timber walls with brass trims, the continuous cream-topped bench with blue panelled supports along the right-hand wall, the brass wall lamps, the layered canopies and towers beyond the roofs, the pale wet paving and the thin silver moonline along the right-hand paving edge. Ignore: its painted title, every white annotation word and arrow, and its distant eye-level framing.
+- Image 2: the approved close plate of the assembled projector head on the test rail. Copy the head exactly: a compact horizontal brass bar holding exactly 3 (three) blue glass discs side by side, each in its own complete brass mounting ring, and two short brass supports at its ends, each held by exactly 1 (one) complete round brass support ring. Ignore: the test rail, the stock boxes and the bench items in it; the head has moved to the arch.
+
+Camera and framing: standing in the lane right beside the front edge of the bench's centre section, eye height about 1.4 m, looking towards Food Street and diagonally up at about 30 degrees towards the arch that spans the lane just ahead. Screen layout:
+- Right and lower right foreground (about x 0.60 to 1.0, y 0.55 to 1.0): the cream bench top and front edge running away along the right-hand blue wall.
+- Upper half: the tall indigo arch spanning the lane from the right-hand wall across to the left, large and close.
+- Upper right (about x 0.50 to 0.80, y 0.10 to 0.35): the installed projector head on the arch, large enough to count its three lenses and five rings, fixed under the arch timber by its two support rings on short brass brackets screwed into the timber.
+- Left: the open lane and the left-hand wall receding; the far end of the street is small and soft in the distance.
+- Bottom centre: clear pale paving beneath the arch fitting.
+
+State at this moment (exact):
+1. The projector head is installed on the arch, unlit, its three lenses clear blue with no glow, all its supports secured with visible fasteners.
+2. The arch and its hanging lanterns are unlit.
+3. On the bench in view: the open stock boxes are empty housings, the bare permanent test rail is on the wall, and the brass rack clips at the bench's far right end are empty. There are no kit boxes, no hook cartons and no cards anywhere.
+4. Distant fittings along the street (the timing bird, the mirror, the cube station, the readiness panel) are too small and far to show detail; they are only suggested, never clearly wrong.
+5. The fixed amber wall lamps are lit. The moonline is plain unlit silver.
+
+Physical inscriptions: none readable. Any distant labels appear only as tiny unreadable marks. There is no lettering anywhere in the image.
+
+Keep clear and visible: the three lens mounts and two support rings of the head; the arch bracket and its fastening surface; the clear paving beneath and beside the arch fitting; the clear front edge of the bench below the arch.
+
+Light: warm amber wall lamps on the bench and walls; cool full-moon light edging the arch timber and the brass head. The arches and the moonline stay dark.
+
+Do not show:
+- a lit projector or lit arches;
+- kit boxes, hook cartons or cards on the bench;
+- a second projector head;
+- readable lettering;
+- the head resting on the bench or on the test rail.
+
+Look and finish (same for every ChandRush location plate): premium semi-realistic painterly 2.5D graphic-novel illustration that matches the supplied ChandRush masters, a blend of illustration and reality. It is painterly in finish but crisp and precise in drawing. Materials and light have near-photographic conviction while forms stay clean, idealised and orderly, like a high-end storybook. ChandRush is an ancient travelling fair with grand, mystic, magical scale and real architectural detailing: dimensional deep-indigo and ultramarine painted timber with visible grain, joinery, rivets and edge banding; warm polished and cast brass with bright specular edges and a light patina; pale cream stone worktops and pale irregular stone paving with a light wet sheen and crisp reflections; layered fabric canopies; restrained circular celestial ornament (full-moon discs, rings, small eight-point stars) in gold and brass. Palette: ultramarine, cobalt, indigo and navy against amber, honey-gold and brass, with strong warm-cool contrast, saturated but natural, never neon. Light: fixed amber task lamps cast clean, well-defined warm pools, their glow held tight around the lamp glass with no spreading halo; cool full-moon light edges roofs, canopy gaps, stone and brass; deep, rich shadows that keep readable detail. Clarity: clear, dry night air with no haze, fog, mist, smoke or airborne dust. Crisp edges and high micro-contrast. Sharp, clean textures in wood grain, brass and stone, as in a high-resolution photograph. True deep darks and clean colours, never a milky, washed-out or glowing veil over the image, never soft focus. The background stays crisp and only slightly darker with distance. Ornament is dense above eye level and on frames; floors, worktops and mechanisms stay open, clean and readable.
+
+Production rules (apply to every plate):
+- Frame: one 4:3 landscape scenic image filling the whole canvas edge to edge. No border, title band, panel frame, vignette box or blank margin.
+- Lettering: the only lettering allowed is the physical inscriptions listed above, rendered exactly as written, letter for letter, with each minus sign as a true minus sign. No other words, numbers or symbols anywhere. No title, caption, callout, label box, leader line, arrow, legend, watermark or signature: titles and callouts are added later by the production team.
+- Reference images: their titles, annotation words, label boxes and arrows only identify places for you. Reproduce none of them.
+- Empty location: no people, children, helpers, wooden figures, animals, hands, shadows of figures or silhouettes. The place waits, ready for characters to be added later.
+- Counts and states are exact as stated. Add no extra copies of any counted object and no extra devices, cards, lamps or tiles.
+- Unlit means unlit: clear or smoky glass with no flame, no inner glow and no bloom. Lit lamps glow only at their own glass.
+- Avoid: haze, fog, mist, bloom halos, soft focus, a low-contrast or milky wash, modern signage, plastic, neon, sci-fi screens, crowds, text on fabric or banners, mirrored or garbled lettering, duplicated objects, warped or melted geometry, a second moon in the sky, a crescent moon.

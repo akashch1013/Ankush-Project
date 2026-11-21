@@ -1,0 +1,120 @@
+{
+ "name": "20261029-142929-w23",
+ "created": "2026-10-29 14:29:29",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "S04-D01",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "421530b50e7f",
+   "refs": [
+    "out/plates/S04-D01.png"
+   ],
+   "instruction": "The two brass label plates on the stock boxes along the top edge of the image are blank. Engrave their labels in bold dark capitals, the same style as the stock boxes in this project: on the left box's plate \"45 BLUE GLASS LENSES\" (two lines: \"45 BLUE GLASS\" / \"LENSES\"), on the right box's plate \"75 BRASS RINGS\". Change nothing else: the kit box, the 3 lenses, the 5 rings, the board and the bench stay exactly as they are.",
+   "custom_id": "S04-D01~fix~2"
+  },
+  {
+   "rid": "S04-D02",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "81c82bc2292f",
+   "refs": [
+    "out/plates/S04-D02.png"
+   ],
+   "instruction": "The two blocky square clamps where the head's two vertical supports meet the horizontal test rail must become two complete round brass rings: at each of those two points, replace the square clamp with one clearly circular brass ring collar that encircles the rail, its round ring face visible, the same polished brass as the three lens rings, each with one small fastening screw. Keep the three lenses in their three rings, the supports, the rail, its wall brackets and everything else exactly as they are.",
+   "custom_id": "S04-D02~fix~2"
+  },
+  {
+   "rid": "S05-D01",
+   "kind": "fix",
+   "quality": "high",
+   "prompt_sha": "5a6f7153fce7",
+   "refs": [
+    "out/plates/S05-D01.png"
+   ],
+   "instruction": "Two corrections. 1) The leftmost clip on the top bar, above the left carton, is empty; hang one original cream card in it, the same style as the 9 WORKERS card, reading \"4\" / \"WORKERS\" in bold dark print. 2) The empty middle clip above the 414 HOOKS carton must show a thin film of fine black dust on its inner flat metal contact face, clearly visible. Keep the 414 HOOKS and 525 HOOKS cartons, their seals, the 9 WORKERS card, the 25 WORKERS card lying on the worktop with its dusty top edge, the upright and everything else exactly as they are. No V or other mark.",
+   "custom_id": "S05-D01~fix~2"
+  },
+  {
+   "rid": "S06-D02",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "9840fe296e87",
+   "refs": [
+    "out/plates/S06-D02.png"
+   ],
+   "instruction": "The mirror grid has 8 columns and 8 rows; it must have exactly 9 equal columns and 9 equal rows. Redraw only the thin tile joints inside the same square brass frame: exactly 8 straight evenly spaced vertical joint lines and exactly 8 straight evenly spaced horizontal joint lines, dividing the surface into 81 equal square tiles. Keep the single continuous full-moon reflection, the reflected sky and canopies, the frame, lamp, tray, crate, wall, paving and camera exactly as they are.",
+   "custom_id": "S06-D02~fix~2"
+  },
+  {
+   "rid": "S07-D01",
+   "kind": "fix",
+   "quality": "xhigh",
+   "prompt_sha": "2684bc8ccfaa",
+   "refs": [
+    "out/plates/S07-D01.png"
+   ],
+   "instruction": "The lantern-cube block must be exactly 4 cubes wide, 4 cubes deep and 4 cubes high. Its front face is correctly 4 cubes wide, but the block is 5 layers high and its left side face shows only 3 cubes across. Rebuild the block as a true cube of 64 equal cubes: every visible face, front, left side and top, shows exactly 4 columns and exactly 4 rows of equal square faces. The square top frame rests directly on the block's top face and is fastened to the four corner supports. Keep the plinth, supports, panel with five white lights and labels, raised handle, cover, track, canopy, lamp and camera exactly as they are.",
+   "custom_id": "S07-D01~fix~2"
+  },
+  {
+   "rid": "S01-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "92c565c0f904",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg",
+    "work/refs/plate-S02-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D01~gen~1"
+  },
+  {
+   "rid": "S01-D04",
+   "kind": "gen",
+   "quality": "xhigh",
+   "prompt_sha": "2c5f0c15b6d8",
+   "refs": [
+    "work/refs/plate-S01-D03.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D04~gen~1"
+  },
+  {
+   "rid": "S01-D05",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "3afa31c5eaf5",
+   "refs": [
+    "work/refs/plate-S01-B01.jpg",
+    "work/refs/plate-S02-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S01-D05~gen~1"
+  },
+  {
+   "rid": "S02-D01",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "ed721ea02b63",
+   "refs": [
+    "work/refs/plate-S02-B01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S02-D01~gen~1"
+  },
+  {
+   "rid": "S03-D02",
+   "kind": "gen",
+   "quality": "high",
+   "prompt_sha": "d92ded4df148",
+   "refs": [
+    "work/refs/plate-S03-D01.jpg"
+   ],
+   "instruction": null,
+   "custom_id": "S03-D02~gen~1"
+  }
+ ],
+ "bytes": 11649121
+}
