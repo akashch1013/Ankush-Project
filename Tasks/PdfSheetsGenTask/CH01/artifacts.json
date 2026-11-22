@@ -2,17 +2,17 @@
  "P005": {
   "url": "https://claude.ai/artifact/58DKypPxPLNDExB9NwQrYM",
   "file_path": "PdfSheetsGenTask/CH01/P005/artifact.html",
-  "math": "PASS 2026-11-22",
+  "math": "PASS 2026-11-22 (A3 restyle)",
   "pdf": "Output/CH01/CH01-P005.pdf",
-  "design": "A1",
-  "version": "1795351192-f795"
+  "design": "A3",
+  "version": "1795354277-d57c"
  },
  "P039": {
   "url": "https://claude.ai/artifact/RANxAwg86Cz84unNnTdgce",
   "file_path": "PdfSheetsGenTask/CH01/P039/artifact.html",
-  "math": "PASS 2026-11-22 (A1 art-direction rebuild)",
+  "math": "PASS 2026-11-22 (A3 restyle)",
   "pdf": "Output/CH01/CH01-P039.pdf",
-  "design": "A1",
-  "version": "1795351231-4c10"
+  "design": "A3",
+  "version": "1795354286-7922"
  }
 }

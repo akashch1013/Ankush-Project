@@ -8,6 +8,9 @@
   numberline --from -8 --to 8 [--step 1] [--width 380] [--jump 3:7:+4] [--jump 7:1:-6] [--dot 1] [--vertical]
                                          print an exact SVG number line (paste it into the page). Jumps are drawn
                                          as labelled arcs from:to:label, above (+) or below (-) the line.
+  backdrop PAGE_DIR PLATE [--blur 9] [--dark .62]
+                                         the page's own location plate, softened (blurred, darkened) into
+                                         assets/img/BACKDROP.jpg for <img class="backdrop"> on a .stage-backdrop page (free)
   check PAGE_DIR                         mathcheck + local-assets check (no network fonts/images, no absolute paths)
   render PAGE_DIR                        check, then print Output/CHxx/CHxx-Pxxx.pdf and PAGE_DIR/preview.png
   artifact PAGE_DIR                      build PAGE_DIR/artifact.html (CSS + fonts inlined, no html/head/body wrapper)
@@ -68,6 +71,19 @@ def cmd_img(a):
     else:
         out = os.path.join(out_dir, a.name + ".jpg")
         im.convert("RGB").save(out, "JPEG", quality=88, optimize=True)
+    print(f"{os.path.relpath(out, a.page_dir)}  {im.size[0]}x{im.size[1]}  {os.path.getsize(out) // 1024} KB")
+
+
+def cmd_backdrop(a):
+    from PIL import Image, ImageEnhance, ImageFilter
+    im = Image.open(a.plate).convert("RGB")
+    im.thumbnail((1400, 1400))
+    im = im.filter(ImageFilter.GaussianBlur(a.blur * im.size[0] / 1024))
+    im = ImageEnhance.Brightness(im).enhance(a.dark)
+    im = ImageEnhance.Color(im).enhance(1.08)
+    out = os.path.join(a.page_dir, "assets", "img", "BACKDROP.jpg")
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    im.save(out, "JPEG", quality=80, optimize=True)
     print(f"{os.path.relpath(out, a.page_dir)}  {im.size[0]}x{im.size[1]}  {os.path.getsize(out) // 1024} KB")
 
 
@@ -200,11 +216,13 @@ def main():
     s.add_argument("--step", type=float, default=1); s.add_argument("--width", type=int, default=380)
     s.add_argument("--labels-every", type=int, default=1); s.add_argument("--jump", action="append", default=[])
     s.add_argument("--dot", action="append", default=[]); s.add_argument("--vertical", action="store_true")
+    s = sub.add_parser("backdrop"); s.add_argument("page_dir"); s.add_argument("plate")
+    s.add_argument("--blur", type=float, default=9); s.add_argument("--dark", type=float, default=.62);
     s = sub.add_parser("check"); s.add_argument("page_dir")
     s = sub.add_parser("render"); s.add_argument("page_dir"); s.add_argument("--dpi", type=int, default=110)
     s = sub.add_parser("artifact"); s.add_argument("page_dir")
     a = ap.parse_args()
-    {"new": cmd_new, "img": cmd_img, "numberline": cmd_numberline, "check": cmd_check, "render": cmd_render,
+    {"new": cmd_new, "img": cmd_img, "numberline": cmd_numberline, "backdrop": cmd_backdrop, "check": cmd_check, "render": cmd_render,
      "artifact": cmd_artifact}[a.cmd](a)
 
 

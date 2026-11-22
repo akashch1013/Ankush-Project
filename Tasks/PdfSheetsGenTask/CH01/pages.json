@@ -11,7 +11,7 @@
   {
    "page": "P005",
    "pattern": "free composition (art-directed); nearest grid T1",
-   "theme": "stage-night",
+   "theme": "stage-cinema",
    "title": "Numbers below zero",
    "purpose": "teaching: Teaching block T1.1A opening: friendly narrator welcome + chapter intro, then 'Numbers below zero' (Sam 12°C vs Sarah −12°C) with Pause and think and Check your thinking",
    "beats": [
@@ -86,34 +86,35 @@
    ],
    "notes": "Reading order: welcome caption → intro paragraphs → 'Numbers below zero' → Sam/Sarah question → Pause and think → Check your thinking (answer, equation, closing line). The two question blocks come before the answer flap. Question figure (thermometer diorama) shows ONLY 12°C and −12°C; the −2°C result and the +10 rise appear only inside/after the Check your thinking flap. 'Why is −12°C colder than 12°C?' is part of intro1 (a rhetorical question): print it as prose. Only equation: −12 + 10 = −2 (data-math). No added words: figure labels may only be 12°C, −12°C, 0 (and −2°C, 10 inside the answer flap).",
    "art": {
-    "idea": "Welcome to the crew — two towns, one thermometer. The chapter's first lesson greets the reader at the fair's entrance with a marigold welcome garland; then Sam's warm town and Sarah's freezing town become a tiny illustrated diorama hanging off one giant thermometer.",
-    "stage": "stage-night (stars + a low .skyline along the bottom-left, behind the folio)",
-    "garland": ".marigold full width along the very top (a welcome garland, as at an Indian doorway)",
-    "hero": "the thermometer diorama (exact SVG, right half, ~300 × 330 pt): a tall glass thermometer scaled −15…15 °C with 0 marked; a marigold pointer tab at 12 with Sam's warm town (glowing windows, a sun-warm sky patch) branching off to the right, an icy-blue pointer tab at −12 with Sarah's snowy town (snow roofs, icicles) branching off to the left. Labels only '12°C', '−12°C', '0'. No mercury level (two readings, not one).",
+    "idea": "Mission briefing: two cities, one precision gauge. The chapter's first lesson opens as the crew's wax-sealed briefing letter; Sam's warm city and Sarah's frozen city are read off one brass precision thermometer, like an instrument in an engineer's lab.",
+    "stage": "stage-cinema (moonlight top-right, ember haze bottom-left) + .skyline low behind the folio",
+    "ornament": ".deco-frame around the page + .lightstring (warm bokeh) along the top edge (replaces the marigold garland)",
+    "hero": "the precision gauge (keep the verified geometry: −15…15 at 7.6 pt/°C, 0 line, 12 and −12 tabs at their exact ticks): glass tube with brass collar fittings and fine engraved ticks; readout tags '12°C' / '−12°C' as small brass-edged plates with thin leader lines; on the warm side a sleek lamp-gold-lit CITY SKYLINE (Lantern Street style) silhouette (towers, lit windows, heat shimmer lines above); on the cold side an moonlit blue-white frozen city silhouette (snow-capped rooftops, frost, fine snow particles). No cute houses, no chai cup, no coat, no cartoon snowflakes.",
     "objects": {
-     "caption": ".scroll (top-left welcome, serif 14/18)",
-     "intro": ".sheet butter, held by a .tape (two paragraphs, sans 14/18)",
-     "section title": ".h-title 'Numbers below zero' in gold on the night stage",
-     "question": ".ticket (butter) for 'Sam’s town is at 12°C…' with .stub i-thermo",
-     "pause": ".ticket.pink for 'Pause and think…' with .stub i-moon",
-     "answers": ".flap (mint, --under = stage colour behind it) with .pull i-eye, h-chip 'Check your thinking', the answer prose, the equation as .eq, then a mini lantern-string number line"
+     "caption": ".letter + .mounts + .wax (the briefing letter)",
+     "intro": ".sheet (ivory, brass inner line)",
+     "section title": ".h-title: 'Numbers' brass + .alt 'below zero' ice",
+     "question": ".ticket (VIP pass) with .stub ico i-thermo",
+     "pause": ".ticket.teal with .stub ico i-moon",
+     "answers": ".flap with .seal (ico i-eye ink), .label.royal 'Check your thinking', answer prose, .eq, then the number line as an illuminated rail"
     },
-    "illustrate": "(1) question figure = the thermometer diorama above (12 and −12 only). (2) INSIDE the flap, after the answer prose: an exact horizontal number line from −12 to 12 (pagekit numberline --from -12 --to 12, dressed as a lantern string): Sarah's jump drawn as an arc from −12 to −2 labelled +10 in teal (.mt), a teal dot at −2, a marigold/terracotta dot at 12 (Sam) — shows −2 is still left of 12.",
-    "companion": "Ahana cut-out (library C-AHANA-LEAN-01) as .pop stepping out from behind the lower-right corner of the intro sheet, ~150 pt tall, her sketchbook-and-pencil echoing 'Keep a pencil nearby'. Silent.",
-    "colour": "night indigo stage; accent 1 marigold/gold = warm, Sam (garland, warm town, 12 tab); accent 2 ice sky-blue = cold, Sarah (snow town, −12 tab); maths: teal .mt tracks Sarah's temperature in the answer (−12 → −2), terracotta .mr for Sam's 12.",
+    "illustrate": "(1) the gauge (question data only: 12, −12, 0), painterly brass-and-glass on a royal lacquer panel. (2) inside the flap: the exact −12…12 number line as a brass rail with lamp-gold and moonlight markers: hollow royal ring at −12, solid royal at −2, copper at 12, a royal arc '+10'.",
+    "companion": "Ahana cut-out .pop over the intro sheet's lower-right corner (keep). Silent.",
+    "colour": "A3 plate family: royal night + brass; lamp gold = warm (Sam, 12), moonlight #a6c6f5 = cold (Sarah, −12); royal .mt (#1f4f9a) tracks Sarah's temperature in the answer; copper .mr for Sam's 12.",
     "delights": [
-     "a small glass of chai with a curl of steam in a lit window of Sam's warm town",
-     "a red coat on a peg outside a snowy house in Sarah's town (the 'warmer coat!')",
-     "snowflakes fall only on Sarah's side of the thermometer; fairy-light glow only on Sam's side"
+     "heat-shimmer strokes rising over the warm skyline",
+     "frost crystals creeping up the cold half of the gauge's backboard",
+     "a brass drafting pencil (not a cartoon pencil) lying across the letter and sheet: 'Keep a pencil nearby'"
     ],
-    "folio": "moonclock --t 0.047 (5/107: the moon has just risen) bottom-left over the skyline",
-    "varies": "first lesson page: night stage + marigold welcome; next sample (P039) is a paper stage with a teal stall awning and a jharokha companion"
+    "folio": "moonclock --t 0.047 bottom-left",
+    "varies": "cinema stage + deco-frame + lightstring; P039 is a jali stage with a jali-band and a nameplate",
+    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (M01-D01, S03-B01)."
    }
   },
   {
    "page": "P039",
    "pattern": "free composition (art-directed); nearest grid T3",
-   "theme": "stage-paper",
+   "theme": "stage-jali",
    "purpose": "teaching: Teaching block T1.2B, Example 11 (HCF word problem, worked) then Now you try with Check your method; Tez companion inset Q04 at the completed boundary",
    "beats": [
     "Teaching block T1.2B Example 11",
@@ -235,28 +236,29 @@
    ],
    "notes": "Question before working: each question in its own card, its working after it; Check your method is a separable block read after the Now you try question. Print every line of src/P039.txt in order, including the three factor equations (171 = …, 27 = …, 63 = …) that the previous build omitted. Factor lists in Check your method are lists, not equations. No added text or diagrams.\ndesign (V09): reader goal = follow one complete HCF word problem, then attempt a twin. Hardest fit = Example 11 (question + 6 equation lines + 3 prose blocks) at 14/18 pt. Chosen rough: Example 11 across the top two-thirds (question card, then 'Let's work it through' in two columns: reasons + factor equations | sharing equations + conclusion, = signs aligned); bottom band: Now you try question → Check your method block → Tez grounded at bottom-right on the bench with the empty kit box, aside after the completed unit. Challenger rejected: Tez in a full-height right column (old build) — steals ~270 pt width and forces the Example into cramped columns. Gutter: midnight indigo #122A45 sliver (blue timber wall of the bench). Edge motif: brass corner cap of the padded kit box → one brass corner joint (0.9 pt) where the reader enters Example 11, short return at the end of Check your method. Colour key: deep teal traces the HCF (9 in Example 11, 7 in Check your method) through factor lines and divisions; operators and = in dark ink.\nART (A1, 2026-11-22): rebuild from the art brief above; the V09 brief above is superseded where they differ (stage, garland, companion entry).",
    "art": {
-    "idea": "Salim's gift-pack stall. Example 11 becomes a mela gift stall: a striped teal awning, the stall's signboard 'Example 11', the question on a gift tag tied to the sign, the working in the crew notebook, and the answer laid out as 9 identical gift packs on the stall shelf. Josephine's twin problem is a ticket; its method hides under a flap; Tez peeks from a carved window by the counter.",
-    "stage": "stage-paper (warm cream, grain)",
-    "garland": ".awning.teal full width across the top (the stall canopy, ~36 pt)",
-    "hero": "the stall front: awning + hanging .sign 'Example 11' + the shelf of 9 gift packs (right column)",
+    "idea": "The gift-pack stock room, logged in a mission file. Salim's problem hangs as a cargo tag from an etched brass 'Example 11' nameplate; the working is in the crew's field notebook; the answer, 9 identical packages, sits in a brass-and-glass display rack lit like a museum case; Josephine's twin problem is a VIP pass; its method sits under a sealed answer panel; Tez watches from a carved jharokha.",
+    "stage": "stage-planks (alias stage-jali): the royal-blue lacquered stall wall of S04-B01",
+    "ornament": ".trim-band (banner moon + star) across the top; brass corner caps (.hud) on the display rack",
+    "hero": "the display rack: royal lacquer and brass shelving, lamp-lit, holding EXACTLY 9 identical kit boxes drawn like the plate's own (royal-blue lacquered boxes with brass corner caps and a cream band), brass corner caps locked onto it",
     "objects": {
-     "title": ".sign (teal or indigo) hanging from the awning, text 'Example 11'",
-     "question": ".tag.pink (gift tag) for Salim's question, its string drawn (SVG curve) to the sign",
-     "working": ".ledger with h-chip i-pencil 'Let’s work it through': reason prose, the three factor lines (= aligned, 9 in teal .mt), the 'common factors' prose, the three sharing lines (Pencils/Erasers/Pens per pack, 9 in teal), the closing prose with inline 9 × 19 = 171",
-     "now you try": ".ticket (butter) with .stub i-ticket, heading 'Now you try' as h-chip",
-     "answers": ".flap (mint, --under:#fbf3e0-ish paper) with .pull i-key, h-chip 'Check your method', factor lists (plain text, not equations), HCF prose, the three ÷ 7 lines with units, 7 in teal",
-     "aside": ".say.aside above Tez’s window"
+     "title": ".nameplate 'Example 11' (top-left)",
+     "question": ".tag (cargo tag) for Salim's question, brass-wire/twine line from its eyelet to the nameplate",
+     "working": ".ledger field notebook (+ .bookmark) with .label + ico i-pencil ink 'Let’s work it through'; keep the two-column = alignment and royal-blue 9s",
+     "now you try": ".ticket (VIP pass) with .stub ico i-ticket, heading as .label.ember 'Now you try'",
+     "answers": ".flap with .seal (ico i-key ink), .label.royal 'Check your method', the factor lists, HCF prose, ÷ 7 lines, then EXACTLY 7 identical goodie bags drawn as deep-blue or maroon velvet pouches with gold cords, painterly",
+     "aside": ".say.aside (Caveat) above Tez's window"
     },
-    "illustrate": "(1) AFTER the working's 'so Salim can make 9 packs': a brass shelf (or two) holding exactly 9 identical gift packs (rani box, gold ribbon, same size: 'every pack has that same mixture'). (2) INSIDE the Check-your-method flap, after the ÷ 7 lines: exactly 7 identical teal goodie bags in a row. Both counts are the true answers and sit after their questions. No numbers drawn on them.",
-    "companion": "Tez (V-TEZ-P039, sits beside an EMPTY padded kit box: 'nothing left over') in a .jharokha at the bottom-right with .sill; aside bubble 'I like “nothing left over”. Especially at dinner.' above-left of the window, tail to his mouth. A .paws trail walks along the bottom margin from the flap to his window.",
-    "colour": "warm paper; accent 1 peacock teal (awning, sign, and the tracked HCF: 9 / 7 as .mt); accent 2 rani pink (gift tag, gift packs); small marigold/gold (ticket, ribbons, sill). Operators and = stay ink.",
+    "illustrate": "9 packages in the rack (after Salim's question); 7 pouches inside the flap after the ÷ 7 lines. Exact counts, no numbers on them.",
+    "companion": "Tez in the .jharokha bottom-right (keep), aside bubble tail to his mouth. Remove the paw trail.",
+    "colour": "A3 plate family: royal planks + brass; lamp-gold glow on the rack; copper/maroon accent on 'Now you try'; royal .mt (#1f4f9a) tracks the HCF (9, then 7).",
     "delights": [
-     "the 9 gift packs on the stall shelf are the answer, made visible",
-     "7 goodie bags peek out at the bottom of the answer flap",
-     "Tez's paw prints lead to his window; his kit box is empty: nothing left over"
+     "brass corner caps lock onto the rack of 9 boxes: answer found",
+     "a pool of warm lamp light falls across the rack",
+     "Tez's kit box stays empty: nothing left over"
     ],
-    "folio": "moonclock.light --t 0.364 (39/107) bottom-centre",
-    "varies": "P005 is a night stage with a marigold welcome and Ahana popping out; P039 is a daylight-paper stall with an awning and Tez in a carved window"
+    "folio": "moonclock --t 0.364 bottom-centre",
+    "varies": "jali stage + jali-band + nameplate, vs P005's cinema stage + deco-frame + lightstring",
+    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (S04-B01, S03-B01)."
    }
   }
  ]

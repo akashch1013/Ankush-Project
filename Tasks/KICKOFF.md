@@ -12,9 +12,9 @@ and the end of Tasks/FEEDBACK.md, and load the comic-master skill. Follow them e
 
 - Pages follow the manuscript's own page ids (page 69 = CH01-PAGE069 → P069). One PDF per page in
   Tasks/Output/<CHxx>/, plus a private Claude Artifact that contains only the page.
-- Design: every page is a creative children's picture-book page, art-directed by
+- Design: every page is creative and aspirational for 11-year-olds (never kiddish), art-directed by
   PdfSheetsGenTask/design/ART-DIRECTION.md and built with the creative kit (design/kit.css, kit-1.png, kit-2.png):
-  a stage, a garland, text on objects (ticket/notebook/flap/plaque), the maths drawn, a companion, 2–3 delights,
+  a cinematic stage, an ornament system, text on objects (VIP pass/notebook/sealed answer/brass plate), the maths drawn, a companion, 2–3 delights,
   the moonclock folio. The art-director agent writes each page's brief; the page must score ≥ 8/10.
 - Text is copied word for word from the manuscript (textcheck must pass). Production notes never print.
   Questions come before answers.

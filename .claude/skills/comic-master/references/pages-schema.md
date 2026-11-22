@@ -57,7 +57,7 @@
       "asides": [{"speaker": "Tez", "text": "Exact side quote", "art": "library:V-TEZ-02"}],
       "spot_art": [{"item": "V-TEZ-02", "kind": "vignette", "desc": "Tez sitting, paws together, sly grin, Lantern Street fragment"}],
       "notes": "anything the builder must know (continuity, what must not be shown yet)",
-      "art": {"idea": "…", "stage": "…", "garland": "…", "hero": "…", "objects": {}, "illustrate": "…",
+      "art": {"idea": "…", "stage": "…", "ornament": "…", "hero": "…", "objects": {}, "illustrate": "…",
               "companion": "…", "colour": "…", "delights": ["…"], "folio": "moonclock --t 0.364", "varies": "…"}
     }
   ]

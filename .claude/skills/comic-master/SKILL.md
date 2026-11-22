@@ -33,10 +33,10 @@ Do steps 1–3 and 8 yourself. Steps 4, 6 and 7 are subagents.
    - Optionally note a starting grid from `design/patterns.md` (story S1–S6, story+maths M1–M4, teaching T1–T7). It is a grid, not the look.
    - Teaching-only pages still get life: a companion, using an existing `asides` line on the page or a library cut-out (`FInalChangesTask/library/README.md`). Never invent dialogue to fill space. If the page has no aside text, the companion is silent.
    - Figures named by `Production note Vnn` are built as HTML/SVG diagrams (grids, bars, tables, number lines), not images. Copy their constraints into `teaching[].diagrams` and `notes`.
-2b. **Art direction (the page must be a picture-book page, not a worksheet).** Read `PdfSheetsGenTask/design/ART-DIRECTION.md` and view `design/kit-1.png` and `kit-2.png`. For 1–2 pages, write each page's `"art"` brief yourself (§10). For 3+ pages or a chapter run, spawn **art-director** (mode `brief`) with the page range. Each brief needs:
+2b. **Art direction (a cool, aspirational graphic-novel page for 11-year-olds: not a worksheet, not kiddish).** Read `PdfSheetsGenTask/design/ART-DIRECTION.md` and view `design/kit-1.png` and `kit-2.png`. For 1–2 pages, write each page's `"art"` brief yourself (§10). For 3+ pages or a chapter run, spawn **art-director** (mode `brief`) with the page range. Each brief needs:
    - a content-born idea (the page as a place or object at the Midnight Mela);
    - a hero and a stage;
-   - one garland;
+   - one ornament system;
    - objects per text role;
    - the maths drawn as an exact picture;
    - the companion's entrance;
@@ -121,7 +121,7 @@ Notes:     anything accepted-at-cap, any judgement call made
 
 ## Stage 2.5: art direction (art-director)
 Before any page is built, every page gets an `"art"` brief (`ART-DIRECTION.md` §10).
-- Spawn **art-director** (mode `brief`) per 10–20 pages. It reads the neighbours' briefs, so the book varies: stage, garland, companion entry and colour story rotate.
+- Spawn **art-director** (mode `brief`) per 10–20 pages. It reads the neighbours' briefs, so the book varies: stage, ornament, companion entry and colour story rotate.
 - 1–2 pages: write the brief yourself.
 
 ## Stage 3: pages (page-builder + math-checker)

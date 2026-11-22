@@ -1,6 +1,6 @@
 ---
 name: comic-page-builder
-description: Stage 3 of the ChandRush comic pipeline. Builds a creative, precise, editable 12x9 in children's-book page as self-contained HTML from the page's art-direction brief, using the creative kit (kit.css: stages, garlands, tickets, notebooks, flaps, plaques, jharokha windows, pop-out characters, moonset folio) and exact SVG maths illustrations, with HTML bubbles/captions and exact teaching text tagged data-math, then renders it to Tasks/Output/CHxx/CHxx-Pxxx.pdf with pipeline/pagekit.py. Use when the master or user asks to build, lay out, render, re-render or edit comic page sheets.
+description: Stage 3 of the ChandRush comic pipeline. Builds a creative, aspirational (age 11, never kiddish), precise, editable 12x9 in graphic-novel page as self-contained HTML from the page's art-direction brief, using the creative kit (kit.css A3, matched to the location plates: royal lacquer planks, brass, marble, lamp light, VIP passes, field notebook, sealed answers, jharokha windows, pop-out characters, moonset dial) and exact SVG maths illustrations, with HTML bubbles/captions and exact teaching text tagged data-math, then renders it to Tasks/Output/CHxx/CHxx-Pxxx.pdf with pipeline/pagekit.py. Use when the master or user asks to build, lay out, render, re-render or edit comic page sheets.
 ---
 
 # Stage 3: page sheets (creative build)
@@ -18,7 +18,7 @@ Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read these first:
 
 ## Per page
 1. `python3 pipeline/pagekit.py new <CHxx> <Pxxx> --theme <stage-class>`. It copies base.css, kit.css and the fonts
-   (Source Sans 3, Source Serif 4, Baloo 2, Kalam). Put the stage class on `.page`, e.g. `class="page stage-paper"`.
+   (Source Sans 3, Source Serif 4, Cinzel, Rajdhani, Caveat). Put the stage class on `.page`, e.g. `class="page stage-cinema"`.
 2. Add images:
    - panel art: `pagekit.py img <page_dir> FInalChangesTask/<CHxx>/out/<ID>.png <ID>`;
    - library cut-outs: `pagekit.py img <page_dir> FInalChangesTask/library/C-AHANA-LEAN-01.png AHANA --png --max 1200`;
@@ -29,21 +29,27 @@ Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read these first:
    - Body 14/18 pt minimum. The hardest fit decides the layout.
 4. **Then make it a picture book** (the brief, then your own ideas):
    - the stage on `.page`;
-   - one garland/edge;
+   - one ornament system (deco-frame / jali-band / lightstring / hud / watermark);
    - the hero (art or drawn maths);
    - the companion's entrance (`.jharokha`, `.pop`, `.snap`, or a ledge);
    - the delights;
    - the `.moonclock` folio (`--t` = page / last page; CH01 last page = 107);
-   - depth: tape, overlaps, a sign hanging over a sheet.
-5. **Maths illustrations** are hand-written SVG with exact values (thermometers, lift shafts, gift boxes, lantern
-   number lines, tiles as fair tokens). Number lines can start from `pagekit.py numberline` output and be dressed up.
+   - depth: overlaps, glow, a pop-out, brass mounts;
+   - the A3 tests: nothing on the ART-DIRECTION §1 banned (kiddish or off-world) list, and the same family as the page's location plate. Use `pagekit.py backdrop <page_dir> <plate>` for a `.stage-backdrop` page.
+5. **Maths illustrations** are hand-written SVG with exact values, drawn as in-world objects in the plates' painterly
+   style (ART-DIRECTION §7):
+   - brass-and-glass gauges, cut-away lift shafts;
+   - the plates' blue lacquered kit boxes with brass corners, velvet pouches;
+   - lamp-lit vs moonlit cities, brass number rails.
+
+   Use gradients, a warm key light, a cool moon rim, specular brass and soft shadows. Never flat or cartoon. Number lines can start from `pagekit.py numberline` output and be dressed up.
    - A question's figure shows only the question's data.
    - Every printed equation or numeric statement carries `data-math` (see the `pipeline/mathcheck.py` header). Questions
      print without answers and without `data-math` on the unknown. A deliberately wrong example gets `data-math-expect="false"`.
 6. Balloons:
    - `.say` with the curved `svg.tail` from kit-gallery-2, the tail pointing at the mouth (`--tx`, `--tr`);
-   - asides `.say.aside` (Kalam);
-   - narration `.capnote` or `.scroll`.
+   - asides `.say.aside` (Caveat);
+   - narration `.capnote` or `.letter`.
 7. Run `python3 pipeline/pagekit.py render <page_dir>`. It runs mathcheck + the asset check, prints the PDF and writes `preview.png`.
 8. Run `python3 pipeline/textcheck.py page <page_dir> PdfSheetsGenTask/<CHxx>/pages.json` and fix until "page text OK".
 9. **Look at the render** (`preview.png`) and check:
@@ -68,6 +74,7 @@ Practical notes:
 - `.flap` needs `--under:` set to the colour behind it (for the folded corner).
 - `.jharokha` needs the `<svg class="defs">` clipPath block once per page (kit-gallery-2).
 - Base classes (`.eq`, `.h-sub`) take dark ink automatically inside kit objects. On dark stages they take cream.
+- Small SVG shapes with gradient fills (box corners, bands, pouches) print washed-out in poppler-based viewers (`pdftoppm`, Evince, Okular) although MuPDF is fine. Use solid fills for small shapes, keep gradients for large ones, and always judge the render from `preview.png`.
 
 The artifact is published by the master from the same `index.html` (`pagekit.py artifact` inlines base.css + kit.css
 + fonts). Keep the page self-contained: only `assets/…` references, no network fonts, and nothing outside the `.page`

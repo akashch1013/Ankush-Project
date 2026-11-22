@@ -29,7 +29,7 @@ Tools are in `pipeline/` (each has `--help`):
 - `render_pdf.py`: Firefox headless → 12×9 in PDF.
 
 ## Hard rules
-0. **Every page is a children's picture-book page, art-directed.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (the look: stage, garland, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
+0. **Every page is art-directed: creative and aspirational for 11-year-olds, never kiddish.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (A3 "Lantern Street", matched to the location plates' palette, materials and painterly style: stage, ornament, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
 1. **Maths must be exactly right.** Every equation is tagged `data-math` and passes `mathcheck.py`. The `math-checker` agent must return PASS before a page ships. Minor art flaws are acceptable; maths errors never are.
 2. **Manuscript words are exact.** Bubble, caption and teaching text are copied verbatim (`textcheck.py plan` / `page`). Production notes, speaker names and field labels never print. A question comes before its solution, and question figures never leak answers.
 3. **Images:**
