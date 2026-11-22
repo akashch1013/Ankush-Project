@@ -56,6 +56,15 @@ A single page or a sample request has no gate before the art: it is the sample. 
 3. **First finished page PDF** → **wait for approval.** After that, run the rest of the chapter unattended.
 4. At the end, report: pages done, artifact links, `Output/` paths, the cost (`pipeline/usage-all.tsv`) and the accepted-at-cap list.
 
+### Running in ChandRush Studio
+When the `mcp__studio__*` tools are present you are driven by ChandRush Studio (`../studio/`, a desktop UI over this harness). Then:
+- there are no Artifacts: skip publishing; the author reviews pages in Studio;
+- call `mcp__studio__request_review` at every gate above (and for finished pages), then end your turn;
+- report page stages with `mcp__studio__report_stage`;
+- in a run chunk, call `mcp__studio__chunk_done` when it is finished.
+
+Review verdicts live in `PdfSheetsGenTask/<CHxx>/review.json`.
+
 ## Feedback
 When the user gives feedback (in chat or as artifact comments):
 1. Append it to `FEEDBACK.md` (date, chapter/page, stage, their words).

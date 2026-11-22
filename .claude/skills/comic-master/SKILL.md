@@ -152,9 +152,17 @@ Token cost is mostly cold-start reads per spawn, Opus on mechanical work and pre
 ## feedback "<text>"
 Append it to `FEEDBACK.md`, add a rule to `LESSONS.md` under the right stage, and apply it to the current page if it concerns it. If it changes how future work is done, also edit the relevant skill/guide or `design/base.css`. Workflow preferences also go to memory.
 
+## Under ChandRush Studio
+If the `mcp__studio__*` tools exist, the session is driven by the Studio app, and its system prompt has the details. In short:
+- skip every Artifact step;
+- gates go through `mcp__studio__request_review` (then end the turn);
+- page stages go through `mcp__studio__report_stage`;
+- a finished run chunk calls `mcp__studio__chunk_done`;
+- the author's verdicts come back as messages and are stored in `PdfSheetsGenTask/<CHxx>/review.json`.
+
 ## status <CHxx>
 Report:
-- pages planned / art approved / pages rendered / math PASS / published (from `pages.json`, each `imggen.py status`, `Output/`, `artifacts.json`);
+- pages planned / art approved / pages rendered / math PASS / published / author-approved (from `pages.json`, each `imggen.py status`, `Output/`, `artifacts.json`, `review.json`);
 - cost so far (`pipeline/usage-all.tsv`);
 - anything waiting on the user.
 
