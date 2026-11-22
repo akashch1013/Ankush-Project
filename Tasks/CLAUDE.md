@@ -27,6 +27,7 @@ Tools are in `pipeline/` (each has `--help`):
 - `mathcheck.py`: exact equation check.
 - `textcheck.py`: manuscript text verbatim.
 - `render_pdf.py`: Firefox headless → 12×9 in PDF.
+- `contact.py`: low-res contact sheets of rendered previews (12 per sheet), for cheap review of many pages.
 
 ## Hard rules
 0. **Every page is art-directed: creative and aspirational for 11-year-olds, never kiddish.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (A3 "Lantern Street", matched to the location plates' palette, materials and painterly style: stage, ornament, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
