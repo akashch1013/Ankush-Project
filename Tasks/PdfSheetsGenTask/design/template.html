@@ -5,6 +5,7 @@
 <title>ChandRush {{CHAPTER}} {{PAGE}}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
 <style>
   /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
 </style>
@@ -12,7 +13,8 @@
 <body>
 <div class="page {{THEME}}" id="page" data-chapter="{{CHAPTER}}" data-page="{{PAGE}}">
 
-  <!-- Build the page here from a pattern in design/patterns.md and its snippet in design/components.html.
+  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
+       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
        Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
        Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
 

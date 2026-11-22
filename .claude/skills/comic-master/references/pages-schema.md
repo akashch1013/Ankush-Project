@@ -15,8 +15,8 @@
   "pages": [
     {
       "page": "P001",
-      "pattern": "M1",
-      "theme": "theme-teal",
+      "pattern": "M1 (optional starting grid from patterns.md)",
+      "theme": "stage-night (the kit stage class on .page)",
       "title": "Exact heading if the page has one (teaching heading or story title from the manuscript)",
       "purpose": "story: … / teaching: … (one line, for the builder)",
       "beats": ["CH02 01A A", "CH02 01A B"],
@@ -56,14 +56,17 @@
       ],
       "asides": [{"speaker": "Tez", "text": "Exact side quote", "art": "library:V-TEZ-02"}],
       "spot_art": [{"item": "V-TEZ-02", "kind": "vignette", "desc": "Tez sitting, paws together, sly grin, Lantern Street fragment"}],
-      "notes": "anything the builder must know (continuity, what must not be shown yet)"
+      "notes": "anything the builder must know (continuity, what must not be shown yet)",
+      "art": {"idea": "…", "stage": "…", "ornament": "…", "hero": "…", "objects": {}, "illustrate": "…",
+              "companion": "…", "colour": "…", "delights": ["…"], "folio": "moonclock --t 0.364", "varies": "…"}
     }
   ]
 }
 ```
 
 Rules:
-- `art.kind`:
+- `art` (top level of a page, not `panels[].art`) is the art-direction brief: see `PdfSheetsGenTask/design/ART-DIRECTION.md` §10. The art-director (or the master for 1–2 pages) writes it before the build.
+- `panels[].art.kind`:
   - `new`: panel-artist makes item `art.item` in `FInalChangesTask/<CHxx>/`.
   - `zoom`: a crop of another panel's art, made with CSS (free).
   - `reuse`: an existing image.

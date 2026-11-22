@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush kit A2 (1): stages, ornament, type, folio, icons</title>
+<link rel="stylesheet" href="gallery-assets/base.css">
+<link rel="stylesheet" href="gallery-assets/kit.css">
+<style>
+  /* gallery only: labels name the class to use. Never print labels like these on a book page. */
+  .lbl { position: absolute; font: 600 8pt/1 var(--sans); color: #9fb0d0; letter-spacing: .03em; }
+  .sw { position: absolute; width: 150pt; height: 84pt; border-radius: 3pt; overflow: hidden; box-shadow: 0 0 0 .8pt rgba(201,160,70,.5); }
+</style>
+</head>
+<body>
+<div class="page stage-cinema" id="page">
+  <div class="deco-frame"></div>
+  <div class="lbl" style="left:30pt; top:26pt">.page.stage-cinema + .deco-frame</div>
+
+  <div class="lbl" style="left:30pt; top:44pt">1 · STAGES</div>
+  <div class="sw stage-cinema" style="left:30pt; top:56pt"></div><div class="lbl" style="left:32pt; top:146pt">stage-cinema</div>
+  <div class="sw stage-planks" style="left:192pt; top:56pt"></div><div class="lbl" style="left:194pt; top:146pt">stage-planks</div>
+  <div class="sw stage-blueprint" style="left:354pt; top:56pt"></div><div class="lbl" style="left:356pt; top:146pt">stage-blueprint</div>
+  <div class="sw stage-parchment" style="left:516pt; top:56pt"></div><div class="lbl" style="left:518pt; top:146pt">stage-parchment</div>
+  <div class="emblem" style="left:700pt; top:50pt; width:90pt; height:90pt"></div><div class="lbl" style="left:700pt; top:146pt">.emblem (banner moon + star)</div>
+
+  <div class="lbl" style="left:30pt; top:170pt">2 · ORNAMENT (wordless)</div>
+  <div class="lightstring" style="left:30pt; top:182pt; width:400pt"></div><div class="lbl" style="left:440pt; top:192pt">.lightstring</div>
+  <div class="trim-band" style="left:30pt; top:224pt; width:400pt; height:24pt"></div><div class="lbl" style="left:440pt; top:233pt">.trim-band</div>
+  <div class="abs" style="left:30pt; top:258pt; width:400pt"><i class="rule-orn"></i></div><div class="lbl" style="left:440pt; top:266pt">.rule-orn</div>
+  <div class="abs" style="left:40pt; top:292pt; width:180pt; height:50pt; background:rgba(255,255,255,.04)"><i class="hud"></i></div>
+  <div class="abs" style="left:240pt; top:292pt; width:180pt; height:50pt; background:rgba(255,255,255,.04)"><i class="hud moon"></i></div>
+  <div class="lbl" style="left:440pt; top:314pt">.hud / .hud.moon / .hud.ember (child)</div>
+
+  <div class="lbl" style="left:30pt; top:362pt">3 · TYPE</div>
+  <div class="abs" style="left:30pt; top:376pt"><h1 class="h-title">Numbers <span class="alt">below zero</span></h1></div>
+  <div class="lbl" style="left:30pt; top:422pt">.h-title (Cinzel 700, 28–40 pt) + .alt</div>
+  <div class="abs" style="left:30pt; top:440pt"><div class="label on-dark"><i class="ico i-compass"></i>Let’s work it through</div></div>
+  <div class="lbl" style="left:30pt; top:468pt">.label (Rajdhani 700 caps, tracked) + .ico</div>
+  <div class="nameplate" style="left:30pt; top:488pt">Example 11</div><div class="lbl" style="left:30pt; top:532pt">.nameplate (etched brass)</div>
+  <div class="abs hand" style="left:220pt; top:494pt; color:#f3d58a">nothing left over</div><div class="lbl" style="left:220pt; top:532pt">.hand (Caveat, asides only)</div>
+
+  <div class="lbl" style="left:520pt; top:362pt">4 · FOLIO .moonclock (--t = page / last page)</div>
+  <div class="moonclock" style="left:520pt; top:378pt; --t:.05"><i class="arc"></i><i class="arm"><b>5</b></i></div>
+  <div class="moonclock" style="left:650pt; top:378pt; --t:.36"><i class="arc"></i><i class="arm"><b>39</b></i></div>
+
+  <div class="lbl" style="left:520pt; top:440pt">5 · ICONS .ico.i-* (+ .ro .cu .cy .em .iv .ink)</div>
+  <div class="abs" style="left:520pt; top:456pt; font-size:22pt; word-spacing:6pt">
+    <i class="ico i-thermo"></i> <i class="ico i-eye"></i> <i class="ico i-key"></i> <i class="ico i-pencil"></i> <i class="ico i-magnifier"></i> <i class="ico i-compass"></i> <i class="ico i-gear"></i> <i class="ico i-crate"></i><br>
+    <i class="ico i-moon cy"></i> <i class="ico i-spark cy"></i> <i class="ico i-city em"></i> <i class="ico i-snow cy"></i> <i class="ico i-sun em"></i> <i class="ico i-ticket"></i> <i class="ico i-lantern em"></i> <i class="ico i-target cy"></i>
+  </div>
+  <div class="skyline" style="left:13pt; right:13pt; bottom:13pt; height:56pt"></div>
+</div>
+</body>
+</html>

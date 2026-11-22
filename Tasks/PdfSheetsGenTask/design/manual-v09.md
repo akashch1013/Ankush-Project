@@ -1,5 +1,7 @@
 # ChandRush Page Design Manual V09: rules for page builders
 
+> **Since 2026-11-22, `ART-DIRECTION.md` governs look, colour, decoration and creativity.** V09 below still governs type sizes, maths layout, balloon/caption discipline and the proof list. Where V09 says to cut decoration or keep colour to a sliver, ART-DIRECTION.md wins.
+
 Source: `PdfSheetsGenTask/CHANDRUSH-PAGE-DESIGN-MANUAL-V09.pdf` (32 pp). Renders of its key study pages: `manual-v09/mNN.jpg` (NN = manual page). **This digest overrides `patterns.md` wherever they disagree** (adopted 2026-11-22). The pattern layouts (S/M/T ids) remain the starting grid; V09 decides type, colour, edges, companions and proof.
 
 ## 0. Order of work (manual p2, p28–29)

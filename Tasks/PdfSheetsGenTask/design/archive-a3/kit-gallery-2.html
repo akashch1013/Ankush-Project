@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush kit A2 (2): reading objects, balloons, art holders</title>
+<link rel="stylesheet" href="gallery-assets/base.css">
+<link rel="stylesheet" href="gallery-assets/kit.css">
+<style>
+  /* gallery only: labels name the class to use. Never print labels like these on a book page. */
+  .lbl { position: absolute; font: 600 8pt/1 var(--sans); color: #9fb0d0; letter-spacing: .03em; }
+</style>
+</head>
+<body>
+<div class="page stage-planks" id="page">
+
+  <!-- ONCE PER PAGE when you use .jharokha: the window shape -->
+  <svg class="defs" width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+    <clipPath id="jharokha" clipPathUnits="objectBoundingBox"><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z"/></clipPath>
+  </defs></svg>
+
+  <!-- column 1 -->
+  <div class="lbl" style="left:24pt; top:14pt">.mcard (mission file: question / brief)</div>
+  <div class="mcard" style="left:24pt; top:26pt; width:300pt">Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs.</div>
+  <div class="lbl" style="left:24pt; top:96pt">.ticket (VIP pass: Try) + .stub .ico</div>
+  <div class="ticket" style="left:24pt; top:108pt; width:300pt"><i class="stub"><i class="ico i-ticket"></i></i>Sam’s town is at 12°C. Sarah’s town is at −12°C.</div>
+  <div class="lbl" style="left:24pt; top:178pt">.tag (cargo tag)</div>
+  <div class="tag" style="left:24pt; top:190pt; width:300pt">Josephine has 28 candies, 49 stickers and 35 magnets.</div>
+  <div class="lbl" style="left:24pt; top:262pt">.ledger (field notebook) + .bookmark</div>
+  <div class="ledger" style="left:30pt; top:276pt; width:294pt; height:112pt"><i class="bookmark"></i>
+    <div class="label"><i class="ico i-pencil ink"></i>Let’s work it through</div>
+    <div class="eq">27 = 1 × 27 = 3 × <span class="mt">9</span></div>
+    <div class="eq" style="margin:0">63 = 1 × 63 = 3 × 21 = 7 × <span class="mt">9</span></div></div>
+  <div class="lbl" style="left:24pt; top:418pt">.flap (sealed answer) + .seal .ico</div>
+  <div class="flap" style="left:24pt; top:446pt; width:300pt; --under:#101a3c"><i class="seal"><i class="ico i-eye ink"></i></i>
+    <div class="label cyan">Check your thinking</div>
+    <div class="eq" style="margin:0">−12 + 10 = −2</div></div>
+
+  <!-- column 2 -->
+  <div class="lbl" style="left:356pt; top:14pt">.plaque (one key result)</div>
+  <div class="plaque" style="left:356pt; top:28pt"><span class="eq" style="margin:0">9 × 19 = 171</span></div>
+  <div class="lbl" style="left:356pt; top:92pt">.slate (royal lacquer: short rule)</div>
+  <div class="slate" style="left:356pt; top:104pt; width:200pt">Nothing left over.<i class="hud moon"></i></div>
+  <div class="lbl" style="left:356pt; top:166pt">.letter + .mounts + .wax (narrator opening)</div>
+  <div class="letter" style="left:356pt; top:180pt; width:200pt"><i class="mounts"></i><i class="wax"></i>You’re part of the crew too, and you can take your time.</div>
+  <div class="lbl" style="left:356pt; top:282pt">.sheet / .sheet.glass (lacquer)</div>
+  <div class="sheet" style="left:356pt; top:294pt; width:200pt">An ivory reading sheet.</div>
+  <div class="sheet glass" style="left:356pt; top:348pt; width:200pt">A royal lacquer panel.</div>
+  <div class="lbl" style="left:356pt; top:410pt">.capnote (story narration)</div>
+  <div class="capnote" style="left:356pt; top:422pt; width:200pt">Tez walks into a parked cart handle.</div>
+
+  <!-- column 3 -->
+  <div class="lbl" style="left:590pt; top:14pt">.say + svg.tail · .say.aside (Caveat)</div>
+  <div class="say" style="left:590pt; top:28pt; width:140pt; --tx:28%; --tr:8deg">I knew that was there.
+    <svg class="tail" viewBox="0 0 24 26"><path d="M3 0 C6 10 5 18 1 26 C10 20 17 11 20 0"/></svg></div>
+  <div class="say aside" style="left:740pt; top:30pt; width:108pt; padding:9pt 12pt; --tx:55%; --tr:-14deg">Especially at dinner.
+    <svg class="tail" viewBox="0 0 24 26"><path d="M3 0 C6 10 5 18 1 26 C10 20 17 11 20 0"/></svg></div>
+
+  <div class="lbl" style="left:590pt; top:124pt">.jharokha + rim + .sill</div>
+  <div class="jharokha" style="left:604pt; top:138pt; width:110pt; height:150pt; --fy:40%">
+    <img src="gallery-assets/img/tez.jpg" alt="">
+    <svg class="rim" viewBox="0 0 1 1" preserveAspectRatio="none"><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z" style="stroke:#c9a046; stroke-width:4"/><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z" transform="translate(.05 .035) scale(.9 .965)" style="stroke:#f3d58a; stroke-width:.8; opacity:.7"/></svg>
+    <i class="sill"></i></div>
+  <div class="lbl" style="left:740pt; top:124pt">.snap</div>
+  <div class="snap" style="left:742pt; top:140pt; width:96pt; height:114pt; --r:3deg"><img src="gallery-assets/img/tez.jpg" alt=""></div>
+
+  <div class="lbl" style="left:590pt; top:322pt">.frame-panel + .pop (steps out of the frame)</div>
+  <div class="frame-panel" style="left:590pt; top:336pt; width:200pt; height:150pt"><img src="gallery-assets/img/street.jpg" alt=""></div>
+  <div class="pop" style="left:720pt; top:344pt; width:130pt; height:200pt"><img src="gallery-assets/img/ahana.png" alt=""></div>
+
+  <div class="moonclock" style="left:740pt; top:594pt; --t:.36"><i class="arc"></i><i class="arm"><b>39</b></i></div>
+</div>
+</body>
+</html>
