@@ -1,5 +1,7 @@
 # ChandRush page patterns (from the four approved sample PDFs)
 
+> **Art direction A1 governs the look (2026-11-22).** Read `ART-DIRECTION.md` first: these grids are optional starting points only; the stage, objects, colours, garlands, companions and delights come from ART-DIRECTION.md and the kit.
+
 > **Design Manual V09 governs (2026-11-22).** Read `manual-v09.md` first. Use the layouts below as starting grids only; where they disagree with V09 (type sizes, captions/bubbles 14/18 pt, gutter colours, edges, companions, maths colour), V09 wins.
 
 The sheet is 864 × 648 pt (12 × 9 in, landscape). Coordinates are in pt: `left, top, width, height`. `samples/*.jpg` are renders of the approved pages. **Open the sample named for a pattern before building a page with it**, and copy its proportions, spacing and hierarchy. Snippets for each pattern are in `components.html`.

@@ -18,19 +18,24 @@ Every agent reads its own section before working. The master adds a dated rule h
 - 2026-11-22 · Bubbles and captions are HTML overlays. Never paint them; reserve calm empty areas for them.
 - Author correction in the CH01 manuscript: all human characters have fair skin.
 
+## Art direction (stage 2.5 + 3), newest: governs the look
+- 2026-11-22 · "It is a page of a child's book! It should be creative: colours, some art, some unique things." Every page is art-directed by `PdfSheetsGenTask/design/ART-DIRECTION.md` (Moonlit block-print: an indigo night/dabu stage, cream paper objects, mela brights, a garland, drawn maths, a companion with a new entrance, 2–3 page-specific delights, the moonclock folio) and built with `design/kit.css`. It must pass the creativity scorecard (≥ 8/10 + musts). This **overrides** V09's restraint on decoration and colour ("cut decoration", "only a sliver of gutter colour", "no oval… ") and the "follow the sample PDF patterns exactly" rule. V09 still governs type sizes, maths layout and proof.
+- 2026-11-22 · The user wants **new creativity, not copies** of the old samples. Find each page's idea in its content (temperatures → two towns and a thermometer; sharing → a gift stall), never in generic decoration.
+- 2026-11-22 · Same text role, same object, all book long: ticket/tag = question, ledger = worked steps, flap = answers, plaque = the key result, scroll/capnote = narration, `.say.aside` in Kalam = a companion remark. No speaker names printed. No maths painted in art.
+
 ## Layout (stage 3)
-- 2026-11-22 · Follow the patterns of the four sample PDFs (`PdfSheetsGenTask/design/patterns.md`). Colours may vary by page content; the user will ask for colour changes when needed.
+- 2026-11-22 · (superseded by Art direction above) Follow the patterns of the four sample PDFs (`PdfSheetsGenTask/design/patterns.md`). Colours may vary by page content; the user will ask for colour changes when needed.
 - 2026-11-22 · The artifact must show only the page, with no extra information.
 
 ## Layout (stage 3), Design Manual V09
 - 2026-11-22 · `PdfSheetsGenTask/CHANDRUSH-PAGE-DESIGN-MANUAL-V09.pdf` is the design authority (digest: `design/manual-v09.md`); it overrides patterns.md where they differ. Captions, speech and asides 14/18 pt; subheads Source Sans 3 Semibold 16–19 pt; running line 10–12 pt; gutter colours indigo/teal/aubergine/slate as a sliver on lesson pages; borders derived from a material in the scene, 0.5–1.1 pt; maths colour only with a job (teal tracked, terracotta second role).
-- 2026-11-22 · Teaching companions sit on a support from their scene (bench, ledge) with the scenery fading irregularly into the paper; no oval vignettes. Supersedes the 2026-11-22 "vignettes fill their column" rule where they conflict.
+- 2026-11-22 · Teaching companions sit on a support from their scene (bench, ledge) with the scenery fading irregularly into the paper; no oval vignettes. (Still true: other entrances such as jharokha/pop/snap are now also allowed by ART-DIRECTION.md.) Supersedes the 2026-11-22 "vignettes fill their column" rule where they conflict.
 
 ## Maths
 - 2026-11-22 · Mathematical correctness is mandatory. Minor non-maths mistakes are acceptable.
 
 ## Layout (stage 3), learned on the first sample page
-- 2026-11-22 · Vignettes must fill their column: use a tall box with `object-fit: cover` and place the bubble over the vignette's calm top edge with a short tail to the mouth, not a small figure under an empty column. (CH01 P039)
+- 2026-11-22 · (V09-era) Vignettes must fill their column: use a tall box with `object-fit: cover` and place the bubble over the vignette's calm top edge with a short tail to the mouth, not a small figure under an empty column. (CH01 P039)
 
 ## Stage 0 (planning)
 - 2026-11-22 · Manuscript equations are Word objects (powers, fractions, roots). Always use `textcheck.py dump/pages` (it converts them to `2²`, `7/4`, `√49`). If you see blanks such as `(i)  −  (ii)`, the source files are stale: re-run `pages`.

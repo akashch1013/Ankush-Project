@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush creative kit 2: reading objects, balloons, art holders</title>
+<link rel="stylesheet" href="gallery-assets/base.css">
+<link rel="stylesheet" href="gallery-assets/kit.css">
+<style>
+  /* gallery only: labels name the class to use. Never print labels like these on a book page. */
+  .lbl { position: absolute; font: 600 8pt/1 var(--sans); color: #8a5a12; letter-spacing: .02em; }
+</style>
+</head>
+<body>
+<div class="page stage-paper" id="page">
+
+  <!-- ONCE PER PAGE when you use .jharokha: the window shape -->
+  <svg class="defs" width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+    <clipPath id="jharokha" clipPathUnits="objectBoundingBox"><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z"/></clipPath>
+  </defs></svg>
+
+  <!-- column 1: questions and working -->
+  <div class="lbl" style="left:24pt; top:14pt">.ticket (question / Try) + .stub .ico.i-ticket</div>
+  <div class="ticket" style="left:24pt; top:26pt; width:300pt"><i class="stub"><i class="ico i-ticket"></i></i>
+    Sam’s town is at 12°C. Sarah’s town is at −12°C.</div>
+  <div class="lbl" style="left:24pt; top:96pt">.tag (gift tag; .pink .mint)</div>
+  <div class="shadowed abs" style="left:24pt; top:108pt; width:300pt"><div class="tag pink" style="position:relative">
+    Josephine has 28 candies, 49 stickers and 35 magnets.</div></div>
+  <div class="lbl" style="left:24pt; top:196pt">.ledger (crew notebook: worked steps)</div>
+  <div class="ledger" style="left:30pt; top:208pt; width:294pt; height:120pt">
+    <div class="h-chip"><i class="ico i-pencil"></i>Let’s work it through</div>
+    <div class="eq">27 = 1 × 27 = 3 × <span class="mt">9</span></div>
+    <div class="eq">63 = 1 × 63 = 3 × 21 = 7 × <span class="mt">9</span></div>
+  </div>
+  <div class="lbl" style="left:24pt; top:348pt">.flap (answers: lift after you try) + .pull .ico</div>
+  <div class="flap" style="left:24pt; top:376pt; width:300pt; --under:#fbf3e0"><i class="pull"><i class="ico i-eye"></i></i>
+    <div class="h-chip" style="--chip-c:#0f6d6c">Check your thinking</div>
+    <div class="eq">−12 + 10 = −2</div></div>
+  <div class="flap butter" style="left:24pt; top:494pt; width:300pt; height:60pt; --under:#fbf3e0"><i class="pull"><i class="ico i-key"></i></i>.flap.butter</div>
+
+  <!-- column 2: results, notes, captions -->
+  <div class="lbl" style="left:356pt; top:14pt">.plaque (one key result)</div>
+  <div class="plaque" style="left:356pt; top:28pt"><span class="eq" style="margin:0">9 × 19 = 171</span></div>
+  <div class="lbl" style="left:356pt; top:88pt">.slate (short items)</div>
+  <div class="slate" style="left:356pt; top:100pt; width:200pt"><span class="hand">nothing left over</span></div>
+  <div class="lbl" style="left:356pt; top:168pt">.scroll (narrator opening)</div>
+  <div class="scroll" style="left:368pt; top:184pt; width:186pt">You’re part of the crew too, and you can take your time.</div>
+  <div class="lbl" style="left:356pt; top:270pt">.sheet .torn-b + .tape</div>
+  <div class="shadowed abs" style="left:356pt; top:290pt; width:200pt; height:96pt"><div class="sheet butter torn-b" style="position:relative; height:96pt; box-shadow:none">
+    A sheet of handmade paper with a torn edge.</div></div>
+  <div class="tape" style="left:420pt; top:280pt; --r:-4deg"></div>
+  <div class="lbl" style="left:356pt; top:404pt">.capnote (story narration)</div>
+  <div class="capnote" style="left:356pt; top:418pt; width:200pt">Tez walks into a parked cart handle.</div>
+  <div class="lbl" style="left:356pt; top:490pt">.tape .teal .gold .green</div>
+  <div class="tape teal" style="left:356pt; top:506pt; --r:3deg"></div>
+  <div class="tape gold" style="left:430pt; top:506pt; --r:-6deg"></div>
+  <div class="tape green" style="left:504pt; top:506pt; --r:4deg"></div>
+
+  <!-- column 3: balloons and art -->
+  <div class="lbl" style="left:590pt; top:14pt">.say + svg.tail (--tx, --tr)</div>
+  <div class="say" style="left:590pt; top:28pt; width:150pt; --tx:28%; --tr:8deg">I knew that was there.
+    <svg class="tail" viewBox="0 0 24 26"><path d="M3 0 C6 10 5 18 1 26 C10 20 17 11 20 0"/></svg></div>
+  <div class="lbl" style="left:750pt; top:14pt">.say.aside (Kalam)</div>
+  <div class="say aside" style="left:744pt; top:30pt; width:104pt; padding:9pt 12pt; --tx:55%; --tr:-14deg">Especially at dinner.
+    <svg class="tail" viewBox="0 0 24 26"><path d="M3 0 C6 10 5 18 1 26 C10 20 17 11 20 0"/></svg></div>
+
+  <div class="lbl" style="left:590pt; top:118pt">.jharokha + rim + .sill</div>
+  <div class="jharokha" style="left:604pt; top:132pt; width:110pt; height:150pt; --fy:40%">
+    <img src="gallery-assets/img/tez.jpg" alt="">
+    <svg class="rim" viewBox="0 0 1 1" preserveAspectRatio="none"><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z" style="stroke:#c9962e; stroke-width:5"/><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z" style="stroke:#fff1c4; stroke-width:1.4; stroke-dasharray:1.5 4"/></svg>
+    <i class="sill"></i></div>
+  <div class="lbl" style="left:740pt; top:118pt">.snap (taped photo)</div>
+  <div class="snap" style="left:742pt; top:136pt; width:100pt; height:118pt; --r:4deg"><img src="gallery-assets/img/tez.jpg" alt=""></div>
+  <div class="tape gold" style="left:764pt; top:126pt; width:50pt; --r:-8deg"></div>
+
+  <div class="lbl" style="left:590pt; top:318pt">.frame-panel + .pop (character steps out)</div>
+  <div class="frame-panel" style="left:590pt; top:332pt; width:200pt; height:150pt"><img src="gallery-assets/img/street.jpg" alt=""></div>
+  <div class="pop" style="left:720pt; top:340pt; width:130pt; height:200pt"><img src="gallery-assets/img/ahana.png" alt=""></div>
+
+  <div class="paws" style="left:590pt; top:560pt; width:250pt"></div>
+  <div class="moonclock light" style="left:740pt; top:590pt; --t:.36"><i class="arc"></i><i class="arm"><b>39</b></i></div>
+</div>
+</body>
+</html>

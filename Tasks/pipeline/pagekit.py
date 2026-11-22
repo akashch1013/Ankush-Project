@@ -2,7 +2,7 @@
 """pagekit.py: build, check and print ChandRush pages (stage 3). Run from anywhere.
 
   new CH02 P003 [--theme theme-navy]     PdfSheetsGenTask/CH02/P003/index.html from the template, plus
-                                         assets/base.css and assets/fonts (the page is self-contained)
+                                         assets/base.css, assets/kit.css (creative kit) and assets/fonts
   img PAGE_DIR SRC NAME [--max 2400]     copy an image into PAGE_DIR/assets/img/NAME.jpg (JPEG q88, long edge <= max)
                                          keeps the artifact small; use .png only if transparency is needed (--png)
   numberline --from -8 --to 8 [--step 1] [--width 380] [--jump 3:7:+4] [--jump 7:1:-6] [--dot 1] [--vertical]
@@ -43,6 +43,7 @@ def cmd_new(a):
         sys.exit(f"{d}/index.html exists (use --force to overwrite)")
     os.makedirs(os.path.join(d, "assets", "img"), exist_ok=True)
     shutil.copy(os.path.join(DESIGN, "base.css"), os.path.join(d, "assets", "base.css"))
+    shutil.copy(os.path.join(DESIGN, "kit.css"), os.path.join(d, "assets", "kit.css"))   # creative kit (ART-DIRECTION.md)
     fd = os.path.join(d, "assets", "fonts")
     os.makedirs(fd, exist_ok=True)
     for f in os.listdir(os.path.join(PIPE, "fonts")):
@@ -157,6 +158,9 @@ def cmd_artifact(a):
     ch, pg = page_ids(page_dir)
     src = open(os.path.join(page_dir, "index.html"), encoding="utf-8").read()
     css = open(os.path.join(page_dir, "assets", "base.css"), encoding="utf-8").read()
+    kit = os.path.join(page_dir, "assets", "kit.css")
+    if os.path.exists(kit):
+        css += "\n" + open(kit, encoding="utf-8").read()
 
     def font(m):
         path = os.path.join(page_dir, "assets", m.group(1))

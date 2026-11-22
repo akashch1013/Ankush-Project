@@ -5,124 +5,182 @@
 <title>ChandRush CH01 P039</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* P039 (V09 T3): cool paper field, midnight-indigo gutter sliver, brass corner joint from the kit box's corner cap */
-  .page.p039 { --bg: #E9EEF0; --ink: #1b2330; --head: #1f2c47; --brass: #A9843C; --card-q: #F7F9FA; --rule: #A7B6C0; }
-  .gutter { position: absolute; left: 0; top: 0; bottom: 0; width: 11pt; background: var(--g-indigo); }
-  .runline { left: 40pt; right: 36pt; top: 19pt; display: flex; justify-content: space-between; color: #4b5468; font-size: 10.5pt; }
-  .joint { position: absolute; border-color: var(--brass); border-style: solid; border-width: 0; pointer-events: none; }
+  /* P039: Salim's gift-pack stall. Stage paper; accents peacock teal (awning, sign, the tracked HCF) + rani pink
+     (gift tag, gift packs); marigold/gold in small touches (ticket, ribbons, sill, tape). */
+  /* no ligatures: the Firefox PDF path drops ft/fi ligatures from the text layer (gift -> gi) */
+  .page, .page * { font-variant-ligatures: none !important; }
+  .txt { font: 400 14pt/18pt var(--sans); color: var(--inkc); }
+  .txt p { margin: 0 0 7pt; }
+  .txt p:last-child { margin-bottom: 0; }
 
-  .t { font: 400 14pt/18pt var(--sans); color: var(--ink); }
-  .t p { margin: 0 0 9pt; }
-  .t p:last-child { margin-bottom: 0; }
-  .sub { font: 600 19pt/22pt var(--sans); color: var(--head); margin: 0; }
-  .sub2 { font: 600 17pt/20pt var(--sans); color: var(--head); margin: 0 0 6pt; }
-  .qcard { background: var(--card-q); border: .6pt solid var(--rule); border-radius: 5pt; padding: 7pt 12pt 8pt; }
+  /* display maths: '=' aligned on a grid (label | lhs | = | rhs | unit) */
+  .eqg { display: grid; column-gap: 6pt; row-gap: 3pt; align-items: baseline; white-space: nowrap;
+    font: 600 20pt/24pt var(--sans); color: var(--inkc); }
+  .eqg .r { display: contents; }
+  .eqg .lhs { text-align: right; }
+  .eqg .lab, .eqg .unit { font: 400 14pt/18pt var(--sans); }
+  .eqg .lab { padding-right: 4pt; }
+  .eqg .unit { padding-left: 3pt; }
+  .fac { grid-template-columns: max-content max-content max-content; row-gap: 9pt; margin: 8pt 0 0; }
+  .share { grid-template-columns: max-content max-content max-content max-content; margin: 0 0 8pt; }
+  .chk { grid-template-columns: max-content max-content max-content max-content; }
+  .m { white-space: nowrap; font-weight: 600; }
 
-  /* display maths: = signs aligned on a grid (lhs | = | rhs) */
-  .eqgrid { display: grid; column-gap: 7pt; row-gap: 5pt; align-items: baseline; font: 600 20pt/25pt var(--sans); color: var(--ink); white-space: nowrap; margin: 2pt 0 11pt; }
-  .eqgrid .r { display: contents; }
-  .eqgrid .lhs { text-align: right; }
-  .eqgrid .lab { font: 400 14pt/18pt var(--sans); color: var(--ink); }
-  .eqgrid .unit { font: 400 14pt/18pt var(--sans); }
-  .fac { grid-template-columns: max-content max-content max-content; row-gap: 10pt; margin-top: 6pt; }
-  .share { grid-template-columns: max-content max-content max-content max-content; }
-  .chk { grid-template-columns: max-content max-content max-content max-content; font-size: 20pt; line-height: 24pt; row-gap: 2pt; margin: 4pt 0 0; }
-  .mt { color: var(--m-teal); font-weight: 700; }
-  .m { white-space: nowrap; }
+  /* the notebook's two columns */
+  .lg-grid { display: grid; grid-template-columns: 262pt 1fr; column-gap: 18pt; }
+  .fl-grid { display: grid; grid-template-columns: 1fr max-content; column-gap: 16pt; align-items: start; }
 
-  .check { background: rgba(255,255,255,.38); border-top: .8pt solid var(--rule); padding: 8pt 12pt 10pt; }
-  .check p { margin: 0 0 4pt; }
+  /* crisp shadow under masked paper shapes (no filter on long text) */
+  .under { position: absolute; background: rgba(60,24,44,.20); }
+  .tag-under { clip-path: polygon(26pt 0, 100% 0, 100% 100%, 26pt 100%, 0 calc(50% + 22pt), 0 calc(50% - 22pt)); border-radius: 0 8pt 8pt 0;
+    -webkit-mask: radial-gradient(circle 5.5pt at 19pt 50%, transparent 96%, #000); mask: radial-gradient(circle 5.5pt at 19pt 50%, transparent 96%, #000); }
+  .tk-under { border-radius: 7pt; background: rgba(120,80,20,.22);
+    -webkit-mask: radial-gradient(circle 8pt at 0 50%, transparent 97%, #000) left / 51% 100% no-repeat, radial-gradient(circle 8pt at 100% 50%, transparent 97%, #000) right / 51% 100% no-repeat;
+            mask: radial-gradient(circle 8pt at 0 50%, transparent 97%, #000) left / 51% 100% no-repeat, radial-gradient(circle 8pt at 100% 50%, transparent 97%, #000) right / 51% 100% no-repeat; }
 
-  /* grounded companion: scenery fades irregularly into the exact paper colour, figure opaque */
-  .tez { position: absolute; display: block; z-index: 1;
-    -webkit-mask-image:
-      radial-gradient(ellipse 22% 36% at 34% 50%, #000 78%, transparent 100%),
-      radial-gradient(ellipse 27% 25% at 75% 62%, #000 74%, transparent 100%),
-      radial-gradient(ellipse 15% 22% at 84% 26%, #000 25%, transparent 100%),
-      radial-gradient(ellipse 30% 26% at 56% 34%, #000 30%, transparent 100%),
-      radial-gradient(ellipse 46% 11% at 56% 86%, #000 72%, transparent 100%),
-      radial-gradient(ellipse 14% 11% at 20% 73%, #000 82%, transparent 100%),
-      radial-gradient(ellipse 18% 9% at 90% 90%, #000 30%, transparent 100%),
-      radial-gradient(ellipse 12% 9% at 12% 66%, #000 20%, transparent 100%);
-    mask-image:
-      radial-gradient(ellipse 22% 36% at 34% 50%, #000 78%, transparent 100%),
-      radial-gradient(ellipse 27% 25% at 75% 62%, #000 74%, transparent 100%),
-      radial-gradient(ellipse 15% 22% at 84% 26%, #000 25%, transparent 100%),
-      radial-gradient(ellipse 30% 26% at 56% 34%, #000 30%, transparent 100%),
-      radial-gradient(ellipse 46% 11% at 56% 86%, #000 72%, transparent 100%),
-      radial-gradient(ellipse 14% 11% at 20% 73%, #000 82%, transparent 100%),
-      radial-gradient(ellipse 18% 9% at 90% 90%, #000 30%, transparent 100%),
-      radial-gradient(ellipse 12% 9% at 12% 66%, #000 20%, transparent 100%); }
+  .sign { z-index: 4; }
+  .awning { z-index: 6; }
+  .string { position: absolute; overflow: visible; z-index: 5; pointer-events: none; }
+  .ribbon.marigold { position: absolute; z-index: 4; }
 
-  /* quiet aside: soft oval, near-white cool tint, fine outline, short tail */
-  .qaside { position: absolute; z-index: 3; background: #F5F8FA; border: .7pt solid #4f5d6b; border-radius: 50%;
-    padding: 12pt 20pt; text-align: center; font: 400 14pt/18pt var(--serif); color: var(--ink); }
-  .qtail { position: absolute; z-index: 4; overflow: visible; }
+  .say.aside { z-index: 7; }
+  /* base.css (V09) forces .aside to serif with !important; ART-DIRECTION sets companion asides in Kalam */
+  .page .say.aside { font-family: var(--hand) !important; }
+  .nw { white-space: nowrap; }
+  /* the stall's two striped posts hold up the canopy */
+  .post { position: absolute; top: 20pt; bottom: 0; width: 9pt; z-index: 5; border-radius: 2pt 2pt 0 0;
+    background: repeating-linear-gradient(-50deg, #f28c28 0 5pt, #fff3d6 5pt 10pt); box-shadow: 1.5pt 0 2pt rgba(0,0,0,.18); }
+  .post::after { content: ""; position: absolute; left: -2pt; right: -2pt; bottom: 0; height: 10pt; border-radius: 2pt;
+    background: linear-gradient(#f6d27a, #c9962e 60%, #9a6f1f); }
+  /* ribbon bookmark hanging out of the crew notebook */
+  .bookmark { position: absolute; width: 12pt; height: 34pt; background: var(--rani);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 78%, 0 100%); }
+  .jharokha { z-index: 3; }
 </style>
 </head>
 <body>
-<div class="page theme-mist p039" id="page" data-chapter="CH01" data-page="P039">
-  <div class="gutter"></div>
-  <div class="runline"><span>ChandRush: The Midnight Mela · Chapter 1 · Numbers</span><span>39</span></div>
+<div class="page stage-paper" id="page" data-chapter="CH01" data-page="P039">
 
-  <!-- brass corner joint where the reader enters Example 11 -->
-  <div class="joint" style="left:28pt; top:44pt; width:34pt; height:30pt; border-top-width:.9pt; border-left-width:.9pt;"></div>
+  <svg class="defs" width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+    <clipPath id="jharokha" clipPathUnits="objectBoundingBox"><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z"/></clipPath>
+    <!-- one gift pack (all 9 are this same symbol: every pack has the same mixture) -->
+    <symbol id="pack" viewBox="0 0 44 42">
+      <ellipse cx="15" cy="7.5" rx="7.5" ry="4.2" transform="rotate(-22 15 7.5)" fill="#f7c531" stroke="#a8781f" stroke-width=".9"/>
+      <ellipse cx="29" cy="7.5" rx="7.5" ry="4.2" transform="rotate(22 29 7.5)" fill="#f7c531" stroke="#a8781f" stroke-width=".9"/>
+      <ellipse cx="15" cy="7.6" rx="3.4" ry="1.5" transform="rotate(-22 15 7.6)" fill="#c9962e"/>
+      <ellipse cx="29" cy="7.6" rx="3.4" ry="1.5" transform="rotate(22 29 7.6)" fill="#c9962e"/>
+      <rect x="5" y="19" width="34" height="22" rx="1.5" fill="#d63f7a"/>
+      <rect x="3" y="12" width="38" height="8.5" rx="1.6" fill="#e8649a"/>
+      <rect x="5" y="20.5" width="34" height="2.2" fill="#9e2a58" opacity=".45"/>
+      <rect x="19.6" y="12" width="4.8" height="29" fill="#f7c531"/>
+      <rect x="20.6" y="12" width="1.2" height="29" fill="#fff3c4" opacity=".7"/>
+      <circle cx="22" cy="11.6" r="3" fill="#f2b441" stroke="#a8781f" stroke-width=".8"/>
+      <path d="M9 25 V37" stroke="#fff" stroke-opacity=".3" stroke-width="2" stroke-linecap="round"/>
+    </symbol>
+    <!-- one goodie bag (all 7 are this same symbol) -->
+    <symbol id="bag" viewBox="0 0 30 34">
+      <path d="M9 12 C9 3 21 3 21 12" fill="none" stroke="#c9962e" stroke-width="2.2" stroke-linecap="round"/>
+      <path d="M4 11 H26 L28 33 H2 Z" fill="#12807f"/>
+      <path d="M4 11 H26 L26.4 15 H3.6 Z" fill="#0d6564"/>
+      <path d="M15 19 l1.6 3.3 3.6.4-2.7 2.4.8 3.6-3.3-1.9-3.3 1.9.8-3.6-2.7-2.4 3.6-.4 Z" fill="#f7c531"/>
+    </symbol>
+  </defs></svg>
 
-  <!-- ============ Example 11 ============ -->
-  <div class="abs t" style="left:40pt; top:50pt; width:784pt;">
-    <h2 class="sub">Example 11</h2>
-    <div class="qcard" style="margin-top:6pt;"><p>Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack.</p></div>
+  <!-- ===== the stall canopy and the stalls signboard ===== -->
+  <i class="post" style="left:2pt"></i><i class="post" style="right:2pt"></i>
+  <div class="awning teal" style="left:0; top:0; width:864pt"></div>
+  <div class="sign" data-k="sign" style="left:30pt; top:56pt">Example 11</div>
+
+  <!-- Salim question: a gift tag tied to the sign -->
+  <div class="abs" style="left:0; top:0; width:864pt; height:0; transform:rotate(-0.5deg); transform-origin:220pt 84pt">
+  <div class="under tag-under" style="left:225pt; top:47pt; width:622pt; height:78pt"></div>
+  <div class="tag pink txt" data-k="tag" style="left:222pt; top:44pt; width:622pt; padding:12pt 18pt 12pt 46pt">Salim wants to pack 171&nbsp;pencils, 27&nbsp;erasers and 63&nbsp;pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack.</div>
+  <svg class="string" style="left:190pt; top:70pt; width:60pt; height:40pt" viewBox="0 0 60 40"><path d="M2 26 C14 36 22 10 41 17" fill="none" stroke="#c9962e" stroke-width="1.6" stroke-linecap="round"/><circle cx="2" cy="26" r="2.2" fill="#c9962e"/></svg>
   </div>
 
-  <div class="abs t" style="left:40pt; top:155pt; width:784pt;">
-    <h3 class="sub2">Let’s work it through</h3>
+  <!-- ===== the crew notebook: work it through ===== -->
+  <i class="bookmark" style="left:228pt; top:380pt"></i>
+  <div class="ledger txt" data-k="ledger" style="left:34pt; top:134pt; width:618pt; padding:11pt 16pt 11pt 46pt">
+    <div class="lg-grid">
+      <div>
+        <div class="h-chip"><i class="ico i-pencil"></i>Let’s work it through</div>
+        <p>Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.</p>
+        <div class="eqg fac">
+          <div class="r" data-math="171 = 1 × 171 = 3 × 57 = 9 × 19"><span class="lhs">171</span><span>=</span><span>1 × 171 = 3 × 57 = <span class="mt">9</span> × 19</span></div>
+          <div class="r" data-math="27 = 1 × 27 = 3 × 9"><span class="lhs">27</span><span>=</span><span>1 × 27 = 3 × <span class="mt">9</span></span></div>
+          <div class="r" data-math="63 = 1 × 63 = 3 × 21 = 7 × 9"><span class="lhs">63</span><span>=</span><span>1 × 63 = 3 × 21 = 7 × <span class="mt">9</span></span></div>
+        </div>
+      </div>
+      <div>
+        <p>The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9&nbsp;packs. Now share each kind of item among those 9&nbsp;packs:</p>
+        <div class="eqg share">
+          <div class="r"><span class="lab">Pencils per pack:</span><span class="r" data-math="171 ÷ 9 = 19"><span class="lhs">171 ÷ <span class="mt">9</span></span><span>=</span><span>19</span></span></div>
+          <div class="r"><span class="lab">Erasers per pack:</span><span class="r" data-math="27 ÷ 9 = 3"><span class="lhs">27 ÷ <span class="mt">9</span></span><span>=</span><span>3</span></span></div>
+          <div class="r"><span class="lab">Pens per pack:</span><span class="r" data-math="63 ÷ 9 = 7"><span class="lhs">63 ÷ <span class="mt">9</span></span><span>=</span><span>7</span></span></div>
+        </div>
+        <p>Each pack contains 19&nbsp;pencils, 3&nbsp;erasers and 7&nbsp;pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: <span class="m" data-math="9 × 19 = 171"><span class="mt">9</span> × 19 = 171.</span></p>
+      </div>
+    </div>
   </div>
+  <div class="tape gold" style="left:614pt; top:128pt; --r:38deg; width:50pt"></div>
 
-  <div class="abs t" style="left:40pt; top:182pt; width:364pt;">
-    <p>Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.</p>
-    <div class="eqgrid fac">
-      <div class="r" data-math="171 = 1 × 171 = 3 × 57 = 9 × 19"><span class="lhs">171</span><span>=</span><span>1 × 171 = 3 × 57 = <span class="mt">9</span> × 19</span></div>
-      <div class="r" data-math="27 = 1 × 27 = 3 × 9"><span class="lhs">27</span><span>=</span><span>1 × 27 = 3 × <span class="mt">9</span></span></div>
-      <div class="r" data-math="63 = 1 × 63 = 3 × 21 = 7 × 9"><span class="lhs">63</span><span>=</span><span>1 × 63 = 3 × 21 = 7 × <span class="mt">9</span></span></div>
+  <!-- ===== the stalls display cabinet: the answer, 9 identical gift packs ===== -->
+  <div class="glow" style="left:640pt; top:104pt; width:240pt; height:240pt; opacity:.6"></div>
+  <svg class="abs" style="left:745pt; top:121pt; width:20pt; height:16pt; z-index:2" viewBox="0 0 20 16" aria-hidden="true"><path d="M12.5 1 A6.5 6.5 0 1 0 17 11.5 A5.2 5.2 0 1 1 12.5 1 Z" fill="#f2b441" stroke="#a8781f" stroke-width=".7"/><rect x="8" y="13" width="4" height="3" fill="#c9962e"/></svg>
+  <svg class="abs" data-k="cabinet" style="left:664pt; top:134pt; width:182pt; height:182pt" viewBox="0 0 182 182" aria-hidden="true">
+    <path d="M4 182 V26 Q4 4 26 4 H156 Q178 4 178 26 V182 Z" fill="#1d2f6b"/>
+    <path d="M10 182 V28 Q10 10 28 10 H154 Q172 10 172 28 V182" fill="none" stroke="#f2b441" stroke-width="1" stroke-dasharray="1.5 3.5" opacity=".75"/>
+    <g fill="#c9962e"><rect x="7" y="63" width="168" height="5.5" rx="2"/><rect x="7" y="118" width="168" height="5.5" rx="2"/><rect x="7" y="173" width="168" height="5.5" rx="2"/></g>
+    <g fill="#f6d27a"><rect x="7" y="63" width="168" height="1.8"/><rect x="7" y="118" width="168" height="1.8"/><rect x="7" y="173" width="168" height="1.8"/></g>
+    <use href="#pack" x="13" y="20" width="50" height="46"/><use href="#pack" x="66" y="20" width="50" height="46"/><use href="#pack" x="119" y="20" width="50" height="46"/>
+    <use href="#pack" x="13" y="75" width="50" height="46"/><use href="#pack" x="66" y="75" width="50" height="46"/><use href="#pack" x="119" y="75" width="50" height="46"/>
+    <use href="#pack" x="13" y="130" width="50" height="46"/><use href="#pack" x="66" y="130" width="50" height="46"/><use href="#pack" x="119" y="130" width="50" height="46"/>
+  </svg>
+
+  <!-- ===== Now you try: Josephines ticket ===== -->
+  <div class="abs" style="left:0; top:0; width:864pt; height:0; transform:rotate(-1.1deg); transform-origin:132pt 508pt">
+  <div class="under tk-under" style="left:27pt; top:424pt; width:216pt; height:178pt"></div>
+  <div class="ticket txt" data-k="ticket" style="left:24pt; top:420pt; width:216pt; padding:22pt 12pt 12pt 48pt">Josephine has 28&nbsp;candies, 49&nbsp;stickers and 35&nbsp;magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag.<i class="stub"><i class="ico i-ticket"></i></i></div>
+  </div>
+  <div class="ribbon marigold" data-k="ribbon" style="left:38pt; top:405pt">Now you try</div>
+
+  <!-- ===== Check your method: lift the flap after you try ===== -->
+  <div class="flap txt" data-k="flap" style="left:254pt; top:420pt; width:412pt; --under:#f8ecd6"><i class="pull"><i class="ico i-key"></i></i>
+    <div class="h-chip" style="--chip-c:#0f6d6c">Check your method</div>
+    <div class="fl-grid">
+      <div>
+        <p style="margin-bottom:4pt" class="nw">Factors of 28: 1, 2, 4, 7, 14, 28.</p>
+        <p style="margin-bottom:4pt"><span class="nw">Factors of 49: 1, 7, 49.</span> <span class="nw">Factors of 35: 1, 5, 7, 35.</span></p>
+        <p>The common factors are 1 and 7, so the HCF is 7. She can make 7&nbsp;bags:</p>
+      </div>
+      <div>
+        <div class="eqg chk">
+          <div class="r"><span class="r" data-math="28 ÷ 7 = 4"><span class="lhs">28 ÷ <span class="mt">7</span></span><span>=</span><span>4</span></span><span class="unit">candies per bag</span></div>
+          <div class="r"><span class="r" data-math="49 ÷ 7 = 7"><span class="lhs">49 ÷ <span class="mt">7</span></span><span>=</span><span>7</span></span><span class="unit">stickers per bag</span></div>
+          <div class="r"><span class="r" data-math="35 ÷ 7 = 5"><span class="lhs">35 ÷ <span class="mt">7</span></span><span>=</span><span>5</span></span><span class="unit">magnets per bag</span></div>
+        </div>
+        <svg data-k="bags" style="display:block; width:186pt; height:30pt; margin-top:6pt" viewBox="0 0 186 30" aria-hidden="true">
+          <use href="#bag" x="2" y="0" width="25" height="29"/><use href="#bag" x="28.5" y="0" width="25" height="29"/><use href="#bag" x="55" y="0" width="25" height="29"/><use href="#bag" x="81.5" y="0" width="25" height="29"/><use href="#bag" x="108" y="0" width="25" height="29"/><use href="#bag" x="134.5" y="0" width="25" height="29"/><use href="#bag" x="161" y="0" width="25" height="29"/>
+        </svg>
+      </div>
     </div>
   </div>
 
-  <div class="abs t" style="left:432pt; top:182pt; width:392pt;">
-    <p>The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:</p>
-    <div class="eqgrid share">
-      <div class="r"><span class="lab">Pencils per pack:</span><span class="r" data-math="171 ÷ 9 = 19"><span class="lhs">171 ÷ <span class="mt">9</span></span><span>=</span><span>19</span></span></div>
-      <div class="r"><span class="lab">Erasers per pack:</span><span class="r" data-math="27 ÷ 9 = 3"><span class="lhs">27 ÷ <span class="mt">9</span></span><span>=</span><span>3</span></span></div>
-      <div class="r"><span class="lab">Pens per pack:</span><span class="r" data-math="63 ÷ 9 = 7"><span class="lhs">63 ÷ <span class="mt">9</span></span><span>=</span><span>7</span></span></div>
-    </div>
-    <p>Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: <span class="m" style="font-weight:600" data-math="9 × 19 = 171">9 × 19 = 171.</span></p>
-  </div>
+  <!-- ===== Tez in a carved window by the counter ===== -->
+  <div class="say aside" data-k="aside" style="left:671pt; top:316pt; width:178pt; padding:17pt 16pt; --tx:47%; --tr:4deg">I like<br>“nothing left over”.<br>Especially at dinner.
+    <svg class="tail" viewBox="0 0 24 26" preserveAspectRatio="none" style="height:30pt"><path d="M3 0 C6 10 5 18 1 26 C10 20 17 11 20 0"/></svg></div>
+  <div class="jharokha" data-k="tez" style="left:680pt; top:412pt; width:164pt; height:190pt; --fx:56%">
+    <img src="assets/img/V-TEZ-P039.jpg" alt="">
+    <svg class="rim" viewBox="0 0 1 1" preserveAspectRatio="none"><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z" style="stroke:#c9962e; stroke-width:5"/><path d="M0,1 L0,0.36 C0,0.22 0.18,0.16 0.32,0.1 C0.42,0.06 0.47,0.03 0.5,0 C0.53,0.03 0.58,0.06 0.68,0.1 C0.82,0.16 1,0.22 1,0.36 L1,1 Z" style="stroke:#fff1c4; stroke-width:1.4; stroke-dasharray:1.5 4"/></svg>
+    <i class="sill"></i></div>
 
-  <!-- ============ Now you try (question first) ============ -->
-  <div class="abs t" style="left:40pt; top:402pt; width:236pt;">
-    <h2 class="sub">Now you try</h2>
-    <div class="qcard" style="margin-top:6pt;"><p>Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag.</p></div>
-  </div>
+  <!-- Tez paw trail from the flap to his window -->
+  <div class="paws" style="left:500pt; top:618pt; width:170pt"></div>
 
-  <!-- ============ Check your method (separable block) ============ -->
-  <div class="abs t check" id="check" style="left:292pt; top:402pt; width:340pt;">
-    <h3 class="sub2">Check your method</h3>
-    <p>Factors of 28: 1, 2, 4, 7, 14, 28.</p>
-    <p>Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.</p>
-    <p>The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:</p>
-    <div class="eqgrid chk">
-      <div class="r"><span class="r" data-math="28 ÷ 7 = 4"><span class="lhs">28 ÷ <span class="mt">7</span></span><span>=</span><span>4</span></span><span class="unit">candies per bag</span></div>
-      <div class="r"><span class="r" data-math="49 ÷ 7 = 7"><span class="lhs">49 ÷ <span class="mt">7</span></span><span>=</span><span>7</span></span><span class="unit">stickers per bag</span></div>
-      <div class="r"><span class="r" data-math="35 ÷ 7 = 5"><span class="lhs">35 ÷ <span class="mt">7</span></span><span>=</span><span>5</span></span><span class="unit">magnets per bag</span></div>
-    </div>
-  </div>
-  <!-- short brass return closing Check your method -->
-  <div class="joint" id="ret" style="left:612pt; top:589pt; width:26pt; height:24pt; border-right-width:.9pt; border-bottom-width:.9pt;"></div>
-
-  <!-- ============ Tez, grounded on the bench at the lower right ============ -->
-  <img class="tez" src="assets/img/V-TEZ-P039.jpg" alt="" style="left:640pt; top:424pt; width:232pt; height:232pt;">
-  <div class="qaside" style="left:640pt; top:388pt; width:210pt; height:60pt;">I like “nothing left over”. Especially at dinner.</div>
-  <svg class="qtail" style="left:737pt; top:440pt; width:22pt; height:26pt;" viewBox="0 0 22 26"><path d="M3 0 L17 0 L11 22 Z" fill="#F5F8FA"/><path d="M4.2 7.4 L11 22 L14.6 7.4" fill="none" stroke="#4f5d6b" stroke-width=".7" stroke-linejoin="round"/></svg>
+  <!-- folio: the moonset clock -->
+  <div class="moonclock light" style="left:380pt; top:606pt; --t:.364"><i class="arc"></i><i class="arm"><b>39</b></i></div>
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */

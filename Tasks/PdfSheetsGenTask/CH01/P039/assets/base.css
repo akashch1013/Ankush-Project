@@ -189,7 +189,9 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
         --paper-warm: #F7F1E3; --paper-cool: #E9EEF0; --m-teal: #1F6F6B; --m-terra: #B5603A; }
 .cap { line-height: var(--lead); padding: 5pt 7pt; }
 .bubble { line-height: var(--lead); }
-.aside { font-family: var(--serif) !important; font-weight: 400 !important; }   /* detached companion remark */
+.aside:not(.say) { font-family: var(--serif) !important; font-weight: 400 !important; }   /* V09 detached remark; kit .say.aside uses Kalam */
+/* PDF text layer: ligatures (ft, fi) drop letters when text is copied or searched from the PDF */
+.page, .page * { font-variant-ligatures: none !important; }
 .runline { position: absolute; font: 600 10.5pt/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; }
 .mt { color: var(--m-teal); font-weight: 700; }   /* tracked quantity */
 .mr { color: var(--m-terra); font-weight: 700; }  /* second role */

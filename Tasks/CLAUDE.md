@@ -10,7 +10,7 @@ Full procedure: skill **`comic-master`** (`/comic-master`). Read it before any c
 3. Find where things stand: `PdfSheetsGenTask/*/artifacts.json` lists the published pages, and `Output/` holds the PDFs.
 4. Say in one line how you read the request, then work to the end without asking, except at the gates below or on a manuscript maths error.
 
-Work from `Tasks/` (all paths here are relative to it). Use the subagents for stages 2–3 (`panel-artist`, `page-builder`, `math-checker`). Do the planning, the final visual review and the artifact publishing yourself.
+Work from `Tasks/` (all paths here are relative to it). Use the subagents for stages 2–3 (`panel-artist`, `art-director`, `page-builder`, `math-checker`). Do the planning, the final visual review and the artifact publishing yourself.
 
 ## The pipeline
 | Stage | Folder | Worker (fixed agent prompt in `../.claude/agents/`) | Output |
@@ -18,6 +18,7 @@ Work from `Tasks/` (all paths here are relative to it). Use the subagents for st
 | 0 Page plan | `PdfSheetsGenTask/<CHxx>/pages.json` | you | the contract for all stages |
 | 1 Backgrounds | `BagroundGenTask/` (CH01 `locgen.py`, `ch02/`, `ch03/`; new chapters `ch0N/` with `pipeline/imggen.py`) | `bg-artist` | empty location plates |
 | 2 Final panel art | `FInalChangesTask/<CHxx>/`, `FInalChangesTask/library/` | `panel-artist` | letter-free panels, vignettes, props |
+| 2.5 Art direction | `pages.json` → `"art"` brief per page | `art-director` (you, for 1–2 pages) | idea, stage, hero, objects, drawn maths, companion, colours, delights |
 | 3 Page sheets | `PdfSheetsGenTask/<CHxx>/Pxxx/index.html` | `page-builder` + `math-checker` | HTML page → artifact + `Output/<CHxx>/<CHxx>-Pxxx.pdf` |
 
 Tools are in `pipeline/` (each has `--help`):
@@ -28,6 +29,7 @@ Tools are in `pipeline/` (each has `--help`):
 - `render_pdf.py`: Firefox headless → 12×9 in PDF.
 
 ## Hard rules
+0. **Every page is a children's picture-book page, art-directed.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (the look: stage, garland, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
 1. **Maths must be exactly right.** Every equation is tagged `data-math` and passes `mathcheck.py`. The `math-checker` agent must return PASS before a page ships. Minor art flaws are acceptable; maths errors never are.
 2. **Manuscript words are exact.** Bubble, caption and teaching text are copied verbatim (`textcheck.py plan` / `page`). Production notes, speaker names and field labels never print. A question comes before its solution, and question figures never leak answers.
 3. **Images:**

@@ -161,7 +161,11 @@ def cmd_plan(path):
     sys.exit(1 if bad else 0)
 
 
+TAG = r"""<(?:[^>"']|"[^"]*"|'[^']*')*>"""   # an HTML tag; '>' inside quoted attributes does not end it
+
+
 def visible_text(h):
+    h = re.sub(r"<!--.*?-->", " ", h, flags=re.S)
     h = re.sub(r"<(style|script)\b.*?</\1>", " ", h, flags=re.S)
     h = re.sub(r"<br\s*/?>", " ", h)
     # stacked fractions read as a/b, superscripts join their base (2<sup>2</sup> -> 22, like 2² -> 22)
@@ -171,7 +175,7 @@ def visible_text(h):
     # inline colour/emphasis spans (.mt/.mr, b, i, em, strong) don't break words: <span class="mt">7</span>, -> 7,
     h = re.sub(r'<span class="(?:mt|mr)"[^>]*>([^<]*)</span>', r"\1", h)
     h = re.sub(r"</?(b|i|em|strong)\b[^>]*>", "", h)
-    return norm(re.sub(r"<[^>]+>", " ", h))
+    return norm(re.sub(TAG, " ", h))
 
 
 def cmd_page(page_dir, path):
@@ -180,7 +184,7 @@ def cmd_page(page_dir, path):
     pg = next((p for p in plan["pages"] if p["page"] == pid), None)
     if not pg:
         sys.exit(f"{pid} not in {path}")
-    h = open(os.path.join(page_dir, "index.html"), encoding="utf-8").read()
+    h = re.sub(r"<!--.*?-->", " ", open(os.path.join(page_dir, "index.html"), encoding="utf-8").read(), flags=re.S)
     vis = visible_text(h)
     bad = 0
     for kind, s in strings(pg):
@@ -188,8 +192,9 @@ def cmd_page(page_dir, path):
             bad += 1
             print(f"MISSING/CHANGED  {kind}: {s[:120]}")
     planned = {norm(s) for _, s in strings(pg)}
-    for m in re.finditer(r'class="(?:bubble|cap)[^"]*"[^>]*>(.*?)</div>', h, flags=re.S):
-        t = norm(re.sub(r"<[^>]+>", " ", m.group(1)))
+    # balloons and captions: base classes (.bubble, .cap…) and creative-kit classes (.say, .scroll, .capnote)
+    for m in re.finditer(r'class="(?:bubble|cap|say|scroll)[^"]*"[^>]*>(.*?)</div>', h, flags=re.S):
+        t = norm(re.sub(TAG, " ", m.group(1)))
         if t and not any(t in p or p in t for p in planned):
             bad += 1
             print(f"NOT IN PLAN  {t[:120]}")
