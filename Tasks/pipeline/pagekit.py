@@ -11,6 +11,13 @@
   backdrop PAGE_DIR PLATE [--blur 9] [--dark .62]
                                          the page's own location plate, softened (blurred, darkened) into
                                          assets/img/BACKDROP.jpg for <img class="backdrop"> on a .stage-backdrop page (free)
+  scene PAGE_DIR PLATE [--mirror] [--crop x0,y0,x1,y1] [--blank x0,y0,x1,y1 ...] [--blur 10]
+                                         A4: the location plate as the full-bleed world (assets/img/SCENE.jpg, 1728x1296)
+                                         plus GLASS.jpg (the same picture blurred, 864x648) for <img class="under"> in
+                                         every .glass pane. --blank wipes painted words/numbers (plate px, before mirror)
+  cutout PAGE_DIR SRC NAME --poly "x,y x,y ..." [--feather 2]
+                                         cut a character or prop out of existing art along a traced outline (SRC px)
+                                         into assets/img/NAME.png, so it can stand in the scene (free)
   check PAGE_DIR                         mathcheck + local-assets check (no network fonts/images, no absolute paths)
   render PAGE_DIR                        check, then print Output/CHxx/CHxx-Pxxx.pdf and PAGE_DIR/preview.png
   artifact PAGE_DIR                      build PAGE_DIR/artifact.html (CSS + fonts inlined, no html/head/body wrapper)
@@ -85,6 +92,51 @@ def cmd_backdrop(a):
     os.makedirs(os.path.dirname(out), exist_ok=True)
     im.save(out, "JPEG", quality=80, optimize=True)
     print(f"{os.path.relpath(out, a.page_dir)}  {im.size[0]}x{im.size[1]}  {os.path.getsize(out) // 1024} KB")
+
+
+def _box(v):
+    return tuple(int(float(t)) for t in v.split(","))
+
+
+def cmd_scene(a):
+    from PIL import Image, ImageDraw, ImageFilter
+    im = Image.open(a.plate).convert("RGB")
+    for b in a.blank or []:                     # blank a painted label: soft blur + its own lightest colour
+        b = _box(b)
+        reg = im.crop(b)
+        px = sorted(reg.getdata(), key=lambda p: -sum(p))[: max(1, len(reg.getdata()) // 3)]
+        avg = tuple(sum(c[i] for c in px) // len(px) for i in range(3))
+        fill = Image.blend(reg.filter(ImageFilter.GaussianBlur(18)), Image.new("RGB", reg.size, avg), 0.55)
+        m = Image.new("L", reg.size, 0)
+        ImageDraw.Draw(m).rounded_rectangle((4, 4, reg.size[0] - 5, reg.size[1] - 5), 6, fill=255)
+        im.paste(fill, b[:2], m.filter(ImageFilter.GaussianBlur(2.5)))
+    if a.crop:
+        im = im.crop(_box(a.crop))
+    if a.mirror:
+        im = im.transpose(Image.FLIP_LEFT_RIGHT)
+    big = im.resize((1728, 1296), Image.LANCZOS).filter(ImageFilter.UnsharpMask(2, 60, 2))
+    d = os.path.join(a.page_dir, "assets", "img")
+    os.makedirs(d, exist_ok=True)
+    big.save(os.path.join(d, "SCENE.jpg"), "JPEG", quality=88)
+    big.resize((864, 648), Image.LANCZOS).filter(ImageFilter.GaussianBlur(a.blur)).save(os.path.join(d, "GLASS.jpg"), "JPEG", quality=85)
+    print("assets/img/SCENE.jpg 1728x1296, assets/img/GLASS.jpg 864x648")
+
+
+def cmd_cutout(a):
+    from PIL import Image, ImageDraw, ImageFilter
+    im = Image.open(a.src).convert("RGB")
+    W, H, k = im.size[0], im.size[1], 3
+    poly = [tuple(float(t) for t in p.split(",")) for p in a.poly.split()]
+    m = Image.new("L", (W * k, H * k), 0)
+    ImageDraw.Draw(m).polygon([(x * k, y * k) for x, y in poly], fill=255)
+    m = m.resize((W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(a.feather))
+    out = im.convert("RGBA"); out.putalpha(m)
+    xs, ys = [p[0] for p in poly], [p[1] for p in poly]
+    out = out.crop((max(0, int(min(xs)) - 6), max(0, int(min(ys)) - 6), min(W, int(max(xs)) + 6), min(H, int(max(ys)) + 6)))
+    dst = os.path.join(a.page_dir, "assets", "img", a.name + ".png")
+    os.makedirs(os.path.dirname(dst), exist_ok=True)
+    out.save(dst)
+    print(f"{os.path.relpath(dst, a.page_dir)}  {out.size[0]}x{out.size[1]}")
 
 
 def fmt(v):
@@ -218,11 +270,15 @@ def main():
     s.add_argument("--dot", action="append", default=[]); s.add_argument("--vertical", action="store_true")
     s = sub.add_parser("backdrop"); s.add_argument("page_dir"); s.add_argument("plate")
     s.add_argument("--blur", type=float, default=9); s.add_argument("--dark", type=float, default=.62);
+    s = sub.add_parser("scene"); s.add_argument("page_dir"); s.add_argument("plate"); s.add_argument("--mirror", action="store_true")
+    s.add_argument("--crop"); s.add_argument("--blank", action="append"); s.add_argument("--blur", type=float, default=10)
+    s = sub.add_parser("cutout"); s.add_argument("page_dir"); s.add_argument("src"); s.add_argument("name")
+    s.add_argument("--poly", required=True); s.add_argument("--feather", type=float, default=2.0)
     s = sub.add_parser("check"); s.add_argument("page_dir")
     s = sub.add_parser("render"); s.add_argument("page_dir"); s.add_argument("--dpi", type=int, default=110)
     s = sub.add_parser("artifact"); s.add_argument("page_dir")
     a = ap.parse_args()
-    {"new": cmd_new, "img": cmd_img, "numberline": cmd_numberline, "backdrop": cmd_backdrop, "check": cmd_check, "render": cmd_render,
+    {"new": cmd_new, "img": cmd_img, "numberline": cmd_numberline, "backdrop": cmd_backdrop, "scene": cmd_scene, "cutout": cmd_cutout, "check": cmd_check, "render": cmd_render,
      "artifact": cmd_artifact}[a.cmd](a)
 
 

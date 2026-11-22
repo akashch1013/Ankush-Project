@@ -1,223 +1,117 @@
-# ChandRush art direction (A3 "Lantern Street", adopted 2026-11-22)
+# ChandRush art direction: A4 "Step Inside" (2026-11-22)
 
-**Readers are 11 years old. Every page must feel cool and aspirational for that age, never kiddish**, and still
-creative: colour, art, and one or two surprises that belong to that page only.
-The user's words:
-- *"it is a page of a child's book! this should be creative!! … colours, some art, some unique things!!"*
-- *"the layout have become interesting but the graphics have become kiddish for a 11 years old … he should find
-  the book cool and aspirational for his age."*
-- *"the graphics and colors of the pages should be in same family as the graphics and colors of the location images.
-  the illustration style should also match."*
+This file governs how a page **looks**. `manual-v09.md` still governs type sizes, maths tagging and proofing.
+Kit: `design/kit.css`. Reference pages: `CH01/P005` (teaching opener) and `CH01/P039` (worked example plus "Now you try").
+Copy markup from their `index.html`. Archived looks: `design/archive-a3/` (A3 "Lantern Street": paper objects on a dark stage).
 
-Precedence:
-- **This file governs look, colour, devices and creativity.**
-- `manual-v09.md` still governs reading comfort: type sizes, contrast, maths glyphs, question-before-answer, proof.
-- `patterns.md` grids are optional starting points.
+## The user's needs (verbatim, in order)
+1. "It is a page of a child's book! It should be creative: colours, some art, some unique things."
+2. "The graphics have become kiddish for an 11-year-old. We need graphics that are aspirational for an 11-year-old. He should find the book cool and aspirational for his age."
+3. "The graphics and colours of the pages should be in the same family as the graphics and colours of the location images. The illustration style should also match."
+4. "Try a completely different design! According to my needs."
 
-Tools: `kit.css` (built by `kitgen.py`). See every piece in `kit-1.png` and `kit-2.png`, and copy markup from
-`kit-gallery-1.html` and `kit-gallery-2.html`. Free art is in `FInalChangesTask/library/README.md`.
+## 1. The idea: the page IS the place
+A3 put paper cards on a flat dark stage, and the location paintings appeared only as small cut-outs. A4 turns that around.
+- **World:** the page's own location plate fills the whole sheet, crisp and full-bleed, like a still from a film.
+  It is graded for the story, and characters stand inside it.
+- **Glass:** every block of reading sits on a pane of glass cut from that same picture. The pane shows the scene behind it, blurred and tinted. It has no paper, frame, corner ornaments or icons. A lamp-gold hairline runs along its top edge.
+- **Light:** maths figures are drawn as brass and lamplight on top of the world: gauges, number lines, and counted objects cut from the art itself.
+- **Type:** film-poster titles (Big Shoulders Display 800, caps, 52–60 pt) with lamp glow. Section cues are tracked caps with a brass dash.
 
----
+Why this works for an 11-year-old: it looks like a film poster or a premium game screen, never a worksheet, and it is literally the location art.
 
-## 1. The look: "Lantern Street", the page lives inside the location paintings
-The crew are young engineers on a secret mission: repair a magical night fair before moonset. The pages look like
-**a graphic novel crossed with the crew's mission files**, made from the **same world as the location images**
-(`BagroundGenTask/out/plates/`). Open two or three plates before designing a page: the page must feel cut from them.
-- **Materials from the plates:**
-  - royal-blue painted planks with gold pinstripe trim (the stall walls);
-  - brass fittings with warm specular highlights (lamps, rails, box corners);
-  - cream marble (counters);
-  - warm sandstone, wet stone paving that reflects gold;
-  - deep-blue banners carrying a gold full moon and a four-point star;
-  - maroon velvet and cushions;
-  - ivy.
-- **Light from the plates:** warm lamp-gold key light and pools of glow, against cool moonlight from the sky. Colour comes
-  from light and metal, not candy fills.
-- **Stages:**
-  - `stage-planks`: the stall wall;
-  - `stage-cinema`: the night lane with lamp glow and moonlight;
-  - `stage-blueprint`: engraved gold linework on royal blue;
-  - `stage-parchment`: cream marble paper;
-  - `stage-backdrop`: the page's **own plate**, softened (`pagekit.py backdrop <page_dir> <plate>`). The strongest match.
-- **Objects, valuable and in-world:**
-  - mission file cards and VIP passes (marble cream, royal stub, brass foil edge);
-  - the field notebook (royal leather cover);
-  - sealed answer panels with a brass seal;
-  - etched brass plates and nameplates;
-  - royal lacquer panels with gold pinstripe;
-  - a wax-sealed letter, a cargo tag.
-- **Illustration style = the plates' style:** painterly, semi-realistic vector:
-  - gradients with a warm key light and a cool moon rim;
-  - specular highlights on brass, soft cast shadows, glow halos around lights;
-  - reflections on wet or polished surfaces;
-  - the plates' materials, never flat monoline as the hero (small icons may be monoline brass, like engraving).
-- **Indian grandeur, grown-up:** jharokha windows, arches, banners, brass, Art-Deco/Indo-Saracenic trim.
-
-**Banned:**
-- *kiddish:* party bunting/toran flags, cartoon garlands, striped awnings, pastel fills, washi tape, rounded "bubble"
-  fonts, cartoon icons with bows, stars, smiles or smoke puffs, paw trails, cute houses;
-- *off-world:* neon/cyan HUD glow, holographic foil, sci-fi interfaces, flat corporate infographics, colours that
-  appear in no plate.
-
-**Tests:**
-- Put the page next to its location plate: same family?
-- Would an 11-year-old find it cool, not babyish?
-
-## 2. What went wrong before (don't repeat)
-1. The old pipeline made worksheets: flat colour, stacks of plain boxes, no drawn maths (P039 V09, P089–P091 samples).
-2. Speaker names were printed in balloons; balloons were rectangles. Painted maths appeared in the art.
-3. A1 (earlier today) fixed the creativity but looked **kiddish**: bunting, an awning, pastel tickets, washi tape, a
-   rounded font and cartoon gift boxes.
-4. A2 fixed the kiddishness but used **off-world** colours (cyan HUD glow, ember haze, holographic foil) and flat
-   line-art that did not match the painted locations.
-5. Keep A1's *layout ideas* (objects per role, drawn maths, companions, delights) and A2's *grown-up objects*. Take
-   colours, materials and light from the plates (A3).
-
-## 3. Colour (sampled from the plates)
-Kit variables:
-
-| Role | Variable | Value |
-|---|---|---|
-| Royal-blue planks | `--royal` | `#234d95` |
-| Lacquer gradient | `--lacquer` | `#2a519a` → `#132b62` |
-| Navy shadow | `--night` | `#0c1933` |
-| Lamp gold | `--brasshi` | `#f7d9a0` (highlight); plate lamp glow `#f7c684` |
-| Brass trim | `--brass` | `#d0a050` |
-| Copper-brass | `--copper` | `#b3722f` |
-| Brass metal | `--metal` | gradient |
-| Moonlight | `--ice` | `#a6c6f5` |
-| Cream marble | `--ivory` | `#efe4d0` |
-| Warm stone | `--stone` | `#87634c` |
-| Maroon / wax | `--crimson` | `#9b2230`; warning red `#bd2d1b` sparingly |
-| Ink | `--inkc` | `#121a33` |
-
-- Each page's **colour story** is royal + brass, plus lamp gold and/or moonlight carrying the idea (e.g. warm
-  lamp-lit city vs moonlit frozen city).
-- Reading text: dark ink on cream objects. Ivory on royal/navy is for titles and one-line captions only.
-- **Maths colour keeps its job** (V09), in the plate family:
-  - royal blue `.mt` (`#1f4f9a`, moonlight `#cfe0fa` on dark panels) = the tracked quantity;
-  - copper `.mr` (`#a3561c`) = a second role;
-  - operators and `=` stay ink.
-
-## 4. Type
-| Role | Face | Size |
-|---|---|---|
-| Page title | **Cinzel** 700 (`.h-title`, `.nameplate`) | 26–40 pt (`.alt` span for a second colour) |
-| Sub-heads ("Example 11", "Now you try", "Check your method") | **Rajdhani** 700 caps, tracked (`.label` + a monoline icon) | 17–20 pt |
-| Teaching prose, figure labels | Source Sans 3 | 14/18 pt |
-| Narration / captions | Source Serif 4 (`.capnote`, `.letter`) | 14/18 pt |
-| Story speech | Source Sans 3 Semibold (`.say`) | 14/18 pt |
-| Companion aside to the reader | **Caveat** handwriting (`.say.aside`) | 19/21 pt |
-| Display maths | Source Sans 3 Semibold (`.eq`) | 20–28 pt |
-| Folio digits, figure readouts | Rajdhani 700 | 10–19 pt |
-
-Never shrink essential text below 14 pt (body) to fit art. Shrink or move the decoration instead.
-
-## 5. One object per text role (consistent all book long)
-| Manuscript role | Object (kit class) | Notes |
-|---|---|---|
-| Question, "Try", "Now you try", "Pause and think" | `.ticket` (VIP pass, icon in `.stub`), `.mcard` (mission file) or `.tag` (cargo/shop problems) | sits **before** its working |
-| Worked example / "Let's work it through" | `.ledger` (field notebook) or `.sheet` | `=` aligned in a grid when it carries meaning |
-| "Check your method / thinking", answers | `.flap` with a `.seal` (eye/key icon) | after the attempt; separable |
-| The one key result or rule | `.plaque` (brass) or `.slate` (glass HUD) | max one per page |
-| Narrator opening / reader address | `.letter` (+ `.mounts`, `.wax`) | |
-| Story caption | `.capnote` | |
-| Speech | `.say` + curved `svg.tail` to the mouth | no speaker names, ever |
-| Companion remark to the reader | `.say.aside` (Caveat) | only if the manuscript gives the line |
-| Title / heading | `.h-title`, `.nameplate`, `.label` | |
-| Folio | `.moonclock` (`--t = page / last page`; CH01: 107) | every page |
-
-## 6. Book furniture (recurring signatures)
-1. **The moonset dial** folio on every page: a precision brass dial, with the moon sinking towards the ember moonset mark.
-2. **One ornament system per page** (all taken from the plates' trim, banners and lamps), rotated between neighbours:
-   - `.deco-frame` (Art-Deco page frame);
-   - `.trim-band` (banner moon + star);
-   - `.lightstring` (warm bokeh lights);
-   - `.rule-orn` dividers;
-   - `.hud` corner brackets on the hero;
-   - `.emblem` / `.watermark.compass`;
-   - `.skyline`.
-3. **A companion on most pages**, entering differently each time:
-   - `.jharokha` (carved window);
-   - `.pop` (steps out of a frame);
-   - `.snap` (a photo);
-   - leaning on a library ledge.
-
-   Silent unless the manuscript gives an aside.
-
-## 7. Draw the maths, as in-world illustration (painterly, like the plates)
-When the content has a picture in it, draw it as an **exact SVG illustration of a thing that could stand in the
-plates**, rendered in their style:
-- precision gauges in brass and glass on a royal lacquer panel;
-- lift shafts in cut-away with brass rails;
-- the plates' own blue lacquered kit boxes with brass corner caps;
-- velvet pouches with gold cords;
-- lamp-lit city silhouettes vs moonlit snowy roofs;
-- number lines as brass rails with glowing lamp or moonlight markers.
-
-How to render it:
-- `linearGradient`/`radialGradient` fills (light from the lamp side);
-- a 1–2 pt specular highlight on brass edges;
-- a soft shadow below;
-- a glow halo on lights.
-
-Exactness rules (unchanged):
-- Every count, length and label is true. Labels use only numbers and words from the manuscript.
-- A question's figure shows only the question's data. Anything that reveals the answer sits in or after the working/answer object.
-- A countable picture (9 packages) only when the count is the true answer and it sits after the question. The math-checker checks it.
-- Decoration never looks countable beside a calculation.
-- Production notes (`Production note Vnn`) bind; style them with the kit.
-
-## 8. Story pages
-- Cinematic panels (`.frame-panel`, thin brass edge) on a royal/navy stage (or the scene's own softened plate). Vary the shapes:
-  - a wide hero;
-  - a round inset (`.frame-panel.round`) for a reaction;
-  - a `.jharokha` peek;
-  - a jagged or angled cut for action.
-- On most story pages, a character or prop **breaks a frame** (`.pop`).
-- Captions are `.capnote`, away from faces. Speech is `.say`, in speaking order, tails to mouths.
-
-## 9. Creativity is free; keep it that way
-The kit, the fonts and the SVG illustrations cost nothing. Art: reuse first (library cut-outs, plates, zoom
-crops). A new image only for a specific story moment (panel-artist, Batch API).
-
-## 10. The page brief (`pages.json` → `"art"`), written before building
-```json
-"art": {
-  "idea": "one sentence: the page as a mission moment, object or place at the Midnight Mela",
-  "stage": "stage-planks | stage-cinema | stage-backdrop (plate S04-B01)", "ornament": "deco-frame + trim-band along the top",
-  "hero": "what the eye lands on first at thumbnail size",
-  "objects": {"question": "ticket", "working": "ledger", "answers": "flap", "result": "plaque"},
-  "illustrate": "the exact technical illustration, and where it sits",
-  "companion": "who, how they enter (jharokha / pop / snap / ledge), where, aside text if any",
-  "colour": "royal + brass + lamp gold and/or moonlight; maths royal tracks …",
-  "delights": ["2–3 small wordless surprises tied to THIS page, cool not cute"],
-  "folio": "moonclock --t 0.364",
-  "varies": "how it differs from the previous page"
-}
+## 2. Make the world (free: no image calls)
 ```
+python3 pipeline/pagekit.py scene  PdfSheetsGenTask/CH01/P039 BagroundGenTask/out/plates/S04-B01.png --mirror --blank 246,272,392,340 --blank 524,302,698,383
+python3 pipeline/pagekit.py cutout PdfSheetsGenTask/CH01/P039 BagroundGenTask/out/plates/S04-B01.png PACK --poly "772,288 969,318 ..."
+```
+- `scene` makes `SCENE.jpg` (the world) and `GLASS.jpg` (the same picture blurred, for the panes).
+  - `--blank` wipes painted words and numbers (in plate pixels), so no stray numbers or answers show.
+  - `--mirror` flips the plate so its busy part sits under the reading panes and its open, light part stays visible.
+  - `--crop` zooms in.
+- `cutout` lifts a character or prop out of existing art along a traced outline. To trace, view a gridded zoom of the source. Use it:
+  - to stand a character in the scene at a believable scale;
+  - to repeat a painted object as a counted set (P039's nine packs are one box from S04-B01, nine times).
+- **Story grades are allowed and encouraged.** P005 turns one street half frozen (cold grade, frost, snow) and half lamp-warm (script: `design/a4-tools/p005_scene.py`; page generators for both samples are in `design/a4-tools/`). Keep the plate's palette: the grade shifts warmth, never hue family.
+- The art stays painterly. Never place flat vector scenery, cartoon icons or clip-art over it.
 
-## 11. Scorecard (builder self-check; master review). Ship at ≥ 8/10 with all musts.
-**Musts (any miss = fix):**
-- text verbatim, no invented words;
-- maths exact and tagged;
-- question before answer;
-- body text ≥ 14 pt, dark-on-light;
-- nothing clipped or over a face;
-- no speaker names;
-- **nothing kiddish or off-world (§1 banned list)**;
-- **same family as the location plates**.
+## 3. Page anatomy (864 × 648 pt)
+| Layer | Markup | Rule |
+|---|---|---|
+| world | `<div class="scene"><img src="assets/img/SCENE.jpg"> <i class="shade-top"> <i class="vignette"> (<i class="shade-bottom">)</div>` | always full-bleed |
+| light | `<i class="bloom">` / `.bloom.moon` over lamps and the moon | 1–2 per page |
+| title | `<h1 class="marquee">` (+ `<span class="ice">`) | top-left over the shade, 52–60 pt |
+| folio | `<div class="folio">` + moon-phase SVG + 2-digit page number, top-right | the moon waxes as the chapter goes on: lit fraction = page / last page (CH01 last = 108) |
+| reading | `.glass` panes (below) | 4–6 panes, gutters 10–14 pt, edges 20–26 pt from the trim |
+| people | `.actor` (cut-out PNG) standing in the scene, cropped by the trim or on a surface | at least one character per teaching page |
+| speech | `.say` (Caveat) with the curved `svg.tail` | only manuscript bubbles and asides |
 
-**Score 1 point each:**
-1. A clear **hero** at thumbnail size.
-2. A cinematic **stage**.
-3. A **colour story** from the plates' light and metal (royal, brass, lamp gold, moonlight), not candy or neon fills.
-4. Text sits on **valuable objects** (pass, file, notebook, seal), not plain boxes.
-5. The **maths is drawn** as an in-world painterly illustration.
-6. A **character** with presence (or, on story pages, a frame-break).
-7. **Depth**: overlaps, glow, a pop-out.
-8. **2+ delights** specific to this page.
-9. **Book furniture**: the moonclock and one ornament system.
-10. It **differs from its neighbour**, with no dead hole larger than about 1/8 of the page.
+## 4. Glass by role (same role, same glass, all book long)
+| Text role | Glass | Notes |
+|---|---|---|
+| narrator welcome / bridge caption | `.glass.frost` or default, `p.voice` (Source Serif 4 italic) | a `.rule-brass` separates it from teaching prose in the same pane |
+| teaching prose | default dark glass (or `.frost` on a cold scene) | Source Sans 3 14/18 |
+| question, example question, "Now you try" | `.glass.marble` (light, ink text) | the reader's task is always the light pane |
+| "Pause and think" | default glass with an inline `.cue.run` | |
+| worked steps, "Check your …" answers | default dark glass, `.lift` for the main one | the answer pane always comes after (below or right of) its question |
+| figures inside answers | inline SVG in the pane | answer-only labels live here only |
 
-**Would an 11-year-old show this page to a friend?**
+Every pane needs `--x`/`--y` equal to its `left`/`top`, so the blurred world lines up:
+`<div class="glass marble" style="left:262pt; top:20pt; width:512pt; height:110pt; --x:262pt; --y:20pt"><img class="under" src="assets/img/GLASS.jpg" alt="">…</div>`
+
+## 5. Colour (sampled from the plates)
+| Use | Colour |
+|---|---|
+| night / dark glass | #0a1428, rgba(14,28,62,.8) |
+| royal lacquer | #234d95 |
+| brass, highlight | #d6a64e, #f6dca0 |
+| lamp gold (warm, tracked quantity on dark glass `.mt`) | #f7c684 / #f5c86a |
+| moonlight (cold, second role on dark glass `.mr`) | #cfe0fa |
+| marble glass | #f3ebdc |
+| ice | #d7e7fb |
+| ink on light glass | #121a33; `.mt` #1f4f9a and `.mr` #a3561c on light glass |
+
+A page may re-map `.mt`/`.mr` when the story has a natural pair (P005: Sarah's cold temperatures are moonlight, Sam's warm ones are lamp gold). Operators stay in the text colour.
+
+## 6. Maths drawn in the world
+- Draw figures as exact SVG: brass lines, glass, lamp and moon colours, solid fills for small shapes.
+- Better still, use counted cut-outs from the art. Counts must be exact and countable at a glance: rows of 3, no hidden items.
+- Question figures show only the question's data. Results appear only in answer panes.
+- Examples: P005's brass gauge, −15…15, with tags at 12°C and −12°C. P039's nine packs on the marble counter, plus one pack's exact contents (19 pencils, 3 erasers, 7 pens) and seven velvet pouches.
+
+## 7. Banned
+- **Kiddish:** bunting, marigolds, striped awnings, pastel blocks, washi tape, rounded "fun" fonts, emoji-style icons, cartoon suns and snowflakes, stickers.
+- **Off-world:** neon cyan, HUD grids, sci-fi glow lines.
+- **Worksheet:** flat cards on a flat colour, the same template page after page, empty slabs.
+- **A3 leftovers:** paper tickets, tags, ledgers, flaps, ornament frames, jharokha windows, light strings.
+
+## 8. Unique things (2–3 per page, from that page's story)
+Examples:
+- P005: the street freezes from right to left, snow falls only on Sarah's side, and rime creeps in at the corner of the frost glass.
+- P039: the nine packs stand on the bench under the lamp, the bench's own white bird watches them, and Tez sits on the counter edge.
+- Never repeat the same delight on neighbouring pages.
+
+## 9. The brief (pages.json `"art"`)
+Write the brief as JSON with these fields:
+`{"idea", "scene": {"plate", "grade", "mirror", "blank": [...], "crop"}, "panes": {role: glass}, "hero", "illustrate", "cast", "colour", "delights": [...], "folio", "varies"}`
+
+## 10. Scorecard (ship at 8/10 or better, and every must)
+**Musts:**
+- the world is the page's own plate, full-bleed;
+- nothing on the §7 list;
+- maths PASS;
+- text verbatim;
+- questions before answers;
+- no painted numbers that conflict with the maths.
+
+**Scored (1 point each):**
+1. The first glance reads as a film still or game screen, not a worksheet.
+2. The world stays visible on at least 35% of the page.
+3. A character is in the scene at a believable scale.
+4. The maths is drawn, not only written.
+5. The title has impact.
+6. The glass roles are consistent.
+7. There are 2–3 page-specific delights.
+8. The colour story is clear (warm against cold, or tracked against second).
+9. Nothing is cramped (≥ 10 pt gutters, no text within 20 pt of the trim).
+10. It differs from its neighbours.
