@@ -1,0 +1,103 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 033
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — teaching copy and figures | Applies to: Teaching block T1.2A
+[ProductionContextSource] Carried forward from Reading this manuscript — question and solution order | Applies to: Teaching block T1.2A
+[ProductionContextSource] Carried forward from Lantern Street Timing Bench, Left End — location instructions | Applies to: Assigned beats of Scene CH01 05D
+[ProductionContextCopy] A pale workbench stands against the right-hand blue wall beneath a warm lamp. A carved bird is fixed to one short sliding platform. A blue catch and lamp stand on the left, a gold catch and lamp on the right; a beat strip sits between them.
+[ProductionContextCopy] The catches independently rise every four and six beats. Both must be open before the bird platform moves. The wrong start is 6; the corrected first common start is 12. The neighbouring kit cartons remain farther right on this same bench. In an exact insert the time strip must show the shared twelfth beat, not suggest that the two cycles themselves change.
+[ProductionContextCopy] Required views. Medium of the two catches holding the bird; separate exact timing strips; still with counter 12 and both catches raised; bird at its end stop.
+[ProductionContextSource] Carried forward from Teaching block T1.2A — shared production instructions | Applies to: Teaching block T1.2A
+[ProductionContextCopy] Production scope. Includes the section opening, multiples and common multiples, LCM, Example 8, the product explanation and the following Try. End immediately before Factors. Do not bring Example 10 forward.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE033-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2A | Think about the product
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2A | APPLIES TO: CH01-PAGE033-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Think about the product
+Why is the product of two positive integers always a common multiple of those integers?
+[AnswerLead] Check your thinking
+Take 4 and 6. Their product is 4 × 6 = 24. Since 24 ÷ 4 = 6 and 24 ÷ 6 = 4, it is a multiple of both. The same reasoning works for any two positive integers: divide their product by one factor and you get the other factor, with no remainder.
+That product need not be the least common multiple. For 4 and 6, 12 is already a common multiple, and 12 is smaller than 24.
+[PanelBoundary] END PANEL CH01-PAGE033-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE033-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.2A | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2A | APPLIES TO: CH01-PAGE033-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Find the LCM of 4, 6 and 9.
+[AnswerLead] Check your method
+[Equation] Multiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36
+[Equation] Multiples of 6: 6, 12, 18, 24, 30, 36
+[Equation] Multiples of 9: 9, 18, 27, 36
+The first number in all three lists is 36, so LCM(4, 6, 9) = 36.
+[PanelBoundary] END PANEL CH01-PAGE033-PANEL02
+[SourceLocator] End of teaching block T1.2A  •  Story resumes below
+## Scene CH01 05D The first shared beat
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[SceneInstruction] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
+[SceneInstruction] Props and state progression. Exact lists: blue 4, 8, 12; gold 6, 12. Start card now 12. Platform at its initial mark; catch periods still 4 and 6.
+[SceneInstruction] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
+[PanelIdentifier] PANEL CH01-PAGE033-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 05D A Both lists contain twelve
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE033-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL03; CH01 05D A
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
+[PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
+[PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL03; beat lists, initial platform and unchanged catch periods
+[PanelContextCopy] Exact lists: blue 4, 8, 12; gold 6, 12. Platform at its initial mark; catch periods still 4 and 6.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05D A Both lists contain twelve
+[SceneInstruction] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Vihaan writes the blue opening beats: 4, 8, 12. Navya writes the gold ones: 6, 12.
+[PanelBoundary] END PANEL CH01-PAGE033-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE033-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 05D B Navya identifies the shared number
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE033-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL04; CH01 05D B
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
+[PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
+[PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL04; beat lists, initial platform and unchanged catch periods
+[PanelContextCopy] Exact lists: blue 4, 8, 12; gold 6, 12. Platform at its initial mark; catch periods still 4 and 6.
+[PanelMetadata] SOURCE: Visual beat CH01 05D A Both lists contain twelve | APPLIES TO: CH01-PAGE033-PANEL04; Tara and Ahana locations; unchanged start card
+[PanelContextCopy] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05D B Navya identifies the shared number
+[SceneInstruction] Moment and staging. Medium at the bench specified under Setting in Scene CH01 05D: Navya places her finger beside 12 in each row, looks at the record and speaks. Vihaan watches the shared entries; Tara and Ahana retain the locations specified in Visual beat CH01 05D A.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: she says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Twelve is on both lists.
+[PanelBoundary] END PANEL CH01-PAGE033-PANEL04
+[PanelIdentifier] PANEL CH01-PAGE033-PANEL05
+[PanelMetadata] SOURCE: Visual beat CH01 05D C Navya explains why it is first
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE033-PANEL05; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL05; CH01 05D C
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
+[PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
+[PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL05; beat lists, initial platform and unchanged catch periods
+[PanelContextCopy] Exact lists: blue 4, 8, 12; gold 6, 12. Platform at its initial mark; catch periods still 4 and 6.
+[PanelMetadata] SOURCE: Visual beat CH01 05D B Navya identifies the shared number | APPLIES TO: CH01-PAGE033-PANEL05; framing and Navya and Vihaan locations
+[PanelContextCopy] Moment and staging. Medium at the bench specified under Setting in Scene CH01 05D: Navya places her finger beside 12 in each row, looks at the record and speaks. Vihaan watches the shared entries; Tara and Ahana retain the locations specified in Visual beat CH01 05D A.
+[PanelMetadata] SOURCE: Visual beat CH01 05D A Both lists contain twelve | APPLIES TO: CH01-PAGE033-PANEL05; Tara and Ahana locations; unchanged start card
+[PanelContextCopy] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05D C Navya explains why it is first
+[SceneInstruction] Moment and staging. Separate panel retaining the framing and Navya’s and Vihaan’s locations specified in Visual beat CH01 05D B, and Tara’s and Ahana’s locations specified in Visual beat CH01 05D A. Navya moves her free hand from pointing at the entries to a small open palm towards the two catches and raises her gaze to the group. Her other hand keeps the strip steady. The bird and start card have not yet moved.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That is the first time they open together.
+[PanelBoundary] END PANEL CH01-PAGE033-PANEL05

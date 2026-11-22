@@ -1,0 +1,137 @@
+{
+ "chapter": "CH01",
+ "book": "ChandRush: The Midnight Mela",
+ "chapter_label": "Chapter 1 · Numbers",
+ "sources": {
+  "manuscript": "Reference/Chap1 Corrected/CH01-PANELIZED-MANUSCRIPT-V02.docx",
+  "register": "Reference/Chap1 Corrected/CH01-LOCATION-IMAGE-REGISTER-V10.docx",
+  "plates": "BagroundGenTask/out/plates/"
+ },
+ "pages": [
+  {
+   "page": "P039",
+   "pattern": "T3 (V09 teaching page with grounded companion)",
+   "theme": "paper-cool #E9EEF0 + indigo #122A45 gutter sliver",
+   "purpose": "teaching: Teaching block T1.2B, Example 11 (HCF word problem, worked) then Now you try with Check your method; Tez companion inset Q04 at the completed boundary",
+   "beats": [
+    "Teaching block T1.2B Example 11",
+    "Teaching block T1.2B Now you try",
+    "Companion inset Q04"
+   ],
+   "panels": [
+    {
+     "id": "P039-3",
+     "beat": "Companion inset Q04",
+     "box": "builder decides; bottom-right, grounded, scenery entering lower/right margin",
+     "art": {
+      "kind": "reuse",
+      "item": "V-TEZ-P039",
+      "src": "FInalChangesTask/CH01/out/V-TEZ-P039.png",
+      "style": "scenic companion, irregular feathered fade into paper (V09 p19-20); show Tez AND the empty padded kit box and bench edge; no oval mask"
+     },
+     "background": {
+      "record": "S04-B01",
+      "plate": "BagroundGenTask/out/plates/S04-B01.png",
+      "camera": "closer and lower, on the bench top beside the open padded kit box"
+     },
+     "characters": [
+      {
+       "name": "Tez",
+       "position": "centre of the square, sitting on the pale bench top beside the open empty padded kit box",
+       "action": "sits on four-pawed haunches, head tilted towards the reader",
+       "gaze": "the reader",
+       "expression": "playful, pleased",
+       "holding": "nothing (no tool, no food)"
+      }
+     ],
+     "props_state": [
+      "one open padded kit box beside him: completely empty",
+      "the two stock boxes behind stay unsolved (lenses and rings inside, uncountable)",
+      "the sample board is blank: no three-lens/five-ring sample"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper area",
+       "w": 0.9,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tez",
+       "text": "I like “nothing left over”. Especially at dinner.",
+       "where": "above Tez",
+       "tail_to": "Tez's mouth",
+       "role": "detached companion remark to the reader: Source Serif 4 Regular 14/18, quiet-aside balloon (soft oval, pale cool tint), short tail ending before Tez's mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.2B",
+     "heading": "Example 11",
+     "questions": [
+      "Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack."
+     ],
+     "text": [
+      "Let’s work it through",
+      "Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.",
+      "171 = 1 × 171 = 3 × 57 = 9 × 19",
+      "27 = 1 × 27 = 3 × 9",
+      "63 = 1 × 63 = 3 × 21 = 7 × 9",
+      "The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:",
+      "Pencils per pack: 171 ÷ 9 = 19",
+      "Erasers per pack: 27 ÷ 9 = 3",
+      "Pens per pack: 63 ÷ 9 = 7",
+      "Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: 9 × 19 = 171."
+     ],
+     "equations": [
+      "171 = 1 × 171 = 3 × 57 = 9 × 19",
+      "27 = 1 × 27 = 3 × 9",
+      "63 = 1 × 63 = 3 × 21 = 7 × 9",
+      "171 ÷ 9 = 19",
+      "27 ÷ 9 = 3",
+      "63 ÷ 9 = 7",
+      "9 × 19 = 171"
+     ],
+     "answers_on_page": true
+    },
+    {
+     "block": "T1.2B",
+     "heading": "Now you try",
+     "questions": [
+      "Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag."
+     ],
+     "text": [
+      "Check your method",
+      "Factors of 28: 1, 2, 4, 7, 14, 28.",
+      "Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.",
+      "The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:",
+      "28 ÷ 7 = 4 candies per bag",
+      "49 ÷ 7 = 7 stickers per bag",
+      "35 ÷ 7 = 5 magnets per bag"
+     ],
+     "equations": [
+      "28 ÷ 7 = 4",
+      "49 ÷ 7 = 7",
+      "35 ÷ 7 = 5"
+     ],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [
+    {
+     "item": "V-TEZ-P039",
+     "kind": "vignette",
+     "desc": "Tez sitting on haunches beside the empty padded kit box on the Lantern Street projector-kit bench (S04-B01), head tilted to the reader"
+    }
+   ],
+   "notes": "Question before working: each question in its own card, its working after it; Check your method is a separable block read after the Now you try question. Print every line of src/P039.txt in order, including the three factor equations (171 = …, 27 = …, 63 = …) that the previous build omitted. Factor lists in Check your method are lists, not equations. No added text or diagrams.\ndesign (V09): reader goal = follow one complete HCF word problem, then attempt a twin. Hardest fit = Example 11 (question + 6 equation lines + 3 prose blocks) at 14/18 pt. Chosen rough: Example 11 across the top two-thirds (question card, then 'Let's work it through' in two columns: reasons + factor equations | sharing equations + conclusion, = signs aligned); bottom band: Now you try question → Check your method block → Tez grounded at bottom-right on the bench with the empty kit box, aside after the completed unit. Challenger rejected: Tez in a full-height right column (old build) — steals ~270 pt width and forces the Example into cramped columns. Gutter: midnight indigo #122A45 sliver (blue timber wall of the bench). Edge motif: brass corner cap of the padded kit box → one brass corner joint (0.9 pt) where the reader enters Example 11, short return at the end of Check your method. Colour key: deep teal traces the HCF (9 in Example 11, 7 in Check your method) through factor lines and divisions; operators and = in dark ink."
+  }
+ ]
+}

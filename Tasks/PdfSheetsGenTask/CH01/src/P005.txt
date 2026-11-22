@@ -1,0 +1,32 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 005
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block T1.1A
+[SourceLocator] Integer meaning and addition
+[SceneInstruction] Production scope. Includes the opening temperature discussion, integer positions and order, the paired addition/subtraction introduction, Examples 1–3 and every associated Try. The source introduces some subtraction here; its sequence is retained. The next existing heading is Taking away a negative amount.
+[PanelIdentifier] PANEL CH01-PAGE005-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1A
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE005-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Added caption bridge — friendly teacher narrator
+[CaptionCopy] Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe.
+[PrintLabel] Exact teaching text begins
+Why is −12°C colder than 12°C? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.
+We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number.
+[PanelBoundary] END PANEL CH01-PAGE005-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE005-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1A | Numbers below zero
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE005-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Numbers below zero
+Sam’s town is at 12°C. Sarah’s town is at −12°C. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?
+Pause and think. Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?
+[AnswerLead] Check your thinking
+12°C is 12 degrees above zero; −12°C is 12 degrees below zero. Sam’s town is warmer. From −12°C, a rise of 10°C takes Sarah’s town to −2°C:
+[Equation] −12 + 10 = −2
+−2°C is still colder than Sam’s 12°C. Sarah’s town has warmed up, but it has not caught up with Sam’s.
+[PanelBoundary] END PANEL CH01-PAGE005-PANEL02

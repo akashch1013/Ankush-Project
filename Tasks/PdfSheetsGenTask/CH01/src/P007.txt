@@ -1,0 +1,47 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 007
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE007-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1A | Adding and subtracting on a number line
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE007-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Adding and subtracting on a number line
+For 6 + 9, start at 6. Adding positive 9 means moving nine equal intervals to the right. You reach 15. For 6 − 9, start at 6 again, but subtracting positive 9 means moving nine intervals to the left. You reach −3.
+[SmallCaption] Start at 6 in both calculations
+[Production] Production note V02. Use two separate uniform number lines. The upper arrow runs from 6 to 15 and is labelled add 9. The lower arrow runs from 6 to −3 and is labelled subtract 9. Show zero and all integer ticks between the endpoints. Arrow length must represent nine intervals in both cases. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[Equation] 6 + 9 = 15
+[Equation] 6 − 9 = −3
+Count the spaces between ticks when you move. Counting the starting tick as the first step would give you an extra step you never took!
+[PanelBoundary] END PANEL CH01-PAGE007-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE007-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1A | Example 1
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE007-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 1
+Evaluate without a calculator. You may use a calculator afterwards to check.
+(a) −7 + 3  (b) −7 − 9
+[AnswerLead] Let’s work it through
+(a) Start at −7. Adding 3 takes us three intervals right: −7 → −6 → −5 → −4.
+[Equation] −7 + 3 = −4
+(b) Start at −7 again. Subtracting 9 takes us nine intervals left, farther below zero. We are already 7 intervals below zero, and go another 9: 7 + 9 = 16 intervals below zero.
+[Equation] −7 − 9 = −16
+[SmallCaption] Starting below zero
+[Production] Production note V03. Two lines: −7 to −4 labelled add 3, and −7 to −16 labelled subtract 9. All intervals are uniform within and across the two lines. Mark the starting and finishing numbers. Show all intervening ticks, including zero where the line extends to it. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Check the second answer by undoing the move: −16 + 9 = −7. We are back at the starting number.
+[PanelBoundary] END PANEL CH01-PAGE007-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE007-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.1A | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE007-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate without a calculator: (a) −2 + 3 and (b) −2 − 3. You may use a calculator afterwards to check.
+[AnswerLead] Check your method
+(a) −2 → −1 → 0 → 1, so −2 + 3 = 1.
+(b) Moving three intervals left from −2 gives −3, −4, −5, so −2 − 3 = −5.
+[PanelBoundary] END PANEL CH01-PAGE007-PANEL03

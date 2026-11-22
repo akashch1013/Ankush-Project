@@ -1,0 +1,21 @@
+{
+ "name": "CH01-P039-w1",
+ "created": "2026-11-22T08:22:11",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "V-TEZ-P039",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "b53325b49ae1",
+   "refs": [
+    "BagroundGenTask/out/plates/S04-B01.png",
+    "../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "V-TEZ-P039~gen~1"
+  }
+ ],
+ "bytes": 816663
+}

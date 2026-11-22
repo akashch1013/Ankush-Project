@@ -1,0 +1,47 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 056
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE056-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | Practice 1C | 1 Use divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE056-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Practice 1C
+Keep the tests beside you. When several tests use the digit sum, calculate that sum once and reuse it.
+[MathExample] 1 Use divisibility tests
+Check whether (a) 12349 is divisible by 9, (b) 14565 is divisible by 5 and (c) 448 is divisible by 7.
+[AnswerLead] Check your method
+(a) 1 + 2 + 3 + 4 + 9 = 19. Since 19 is not divisible by 9, no.
+(b) 14565 ends in 5, so yes.
+(c) 44 − (8 × 2) = 44 − 16 = 28. Since 28 = 7 × 4, yes.
+[PanelBoundary] END PANEL CH01-PAGE056-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE056-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | 2 Check all eleven divisors
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE056-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 2 Check all eleven divisors
+For each number, check divisibility by 2, 3, 4, 5, 6, 7, 8, 9, 10, 25 and 100.
+(a) 28350  (b) 15876  (c) 7654320
+[AnswerLead] Check your method
+First gather the few facts you will reuse:
+(a) 28350 has digit sum 2 + 8 + 3 + 5 + 0 = 18, last two digits 50 and last three digits 350. For 7:
+[Equation] 2835 − 2 × 0 = 2835
+[Equation] 283 − 2 × 5 = 273
+[Equation] 27 − 2 × 3 = 21
+Since 21 is divisible by 7, 28350 passes that test.
+(b) 15876 has digit sum 1 + 5 + 8 + 7 + 6 = 27, ending 76 and final three digits 876. For 7:
+[Equation] 1587 − 2 × 6 = 1575
+[Equation] 157 − 2 × 5 = 147
+[Equation] 14 − 2 × 7 = 0
+0 is divisible by 7, so 15876 passes.
+(c) 7654320 has digit sum 7 + 6 + 5 + 4 + 3 + 2 + 0 = 27, ending 20 and final three digits 320. For 7:
+[Equation] 765432 − 2 × 0 = 765432
+[Equation] 76543 − 2 × 2 = 76539
+[Equation] 7653 − 2 × 9 = 7635
+[Equation] 763 − 2 × 5 = 753
+[Equation] 75 − 2 × 3 = 69
+69 is not divisible by 7, so 7654320 fails that test.
+[PanelBoundary] END PANEL CH01-PAGE056-PANEL02

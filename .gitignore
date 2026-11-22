@@ -4,3 +4,8 @@
 # python caches
 __pycache__/
 *.pyc
+
+# image pipeline bulk (regenerable)
+**/refcache/
+**/batches/*/requests.jsonl
+**/batches/*/output.jsonl

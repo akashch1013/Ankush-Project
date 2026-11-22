@@ -1,0 +1,16 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 088
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE088-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 3 Fire alarms
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE088-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 3 Fire alarms
+Three fire alarms go off every 3 minutes, 5 minutes and 8 minutes. They first go off together at 10 a.m. When will all three next go off together?
+[AnswerLead] Check your method
+We need the first shared wait, so use an LCM. Multiples of both 3 and 5 are 15, 30, 45, 60, 75, 90, 105, 120, … . The first of these also divisible by 8 is 120:
+[Equation] 120 ÷ 3 = 40;   120 ÷ 5 = 24;   120 ÷ 8 = 15
+None of the earlier times in that list divides by 8 exactly. So we wait 120 ÷ 60 = 2 hours. 10 a.m. + 2 hours = 12 p.m., or noon.
+[PanelBoundary] END PANEL CH01-PAGE088-PANEL01

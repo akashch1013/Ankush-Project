@@ -1,0 +1,115 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 060
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Sealed-Hook Rack, Right End — location instructions | Applies to: Assigned beats of Scene CH01 07C; Assigned beats of Scene CH01 07D
+[ProductionContextSource] Carried forward from Scene CH01 07B — referenced production instructions | Applies to: Reference in Scene CH01 07C Dust under a clip; Reference in Visual beat CH01 07C A Ahana finds the dust
+[ProductionContextCopy] Props and state progression. Exact solution: 348 → 4 workers → 87 hooks each; 355 → 5 → 71; 414 → 9 → 46; 525 → 25 → 21. Each team appears once. No carton is opened. LIFT and RHYTHM white; SUPPLIES still dark.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 07C Dust under a clip
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Close of Ahana lifting the formerly misplaced team card by its clean edge, with the brass clip, right rack upright and pale bench edge in view.
+[SceneInstruction] Cast and staging across the scene. Ahana uses her left hand to lift the card and holds the lamp in her right. Her expression changes from satisfaction to recognition as she calls Tara. Navya and Vihaan look towards the clip; Tara steps close. The helper pauses dispatch. Tez remains on clear paving.
+[SceneInstruction] Props and state progression. The same four cards are being moved to their checked positions. Choose the 25 WORKERS card, originally above 414, as the dusty card. Show the correct four-way matching in the record specified under Props and state progression in Scene CH01 07B; do not invent a fifth card. Fine black dust is beneath the clip and on the card’s contact edge. The carton quantity seals are untouched.
+[SceneInstruction] Planning requirements. Freeze the discovery during the repositioning, not as a new unrelated label. The card has been in a wrong place; its printed team number itself is genuine. No readable V is present here.
+[PanelIdentifier] PANEL CH01-PAGE060-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 07C A Ahana finds the dust
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE060-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07C Dust under a clip | APPLIES TO: CH01-PAGE060-PANEL01; CH01 07C A
+[PanelContextCopy] View. Close of Ahana lifting the formerly misplaced team card by its clean edge, with the brass clip, right rack upright and pale bench edge in view.
+[PanelContextCopy] Cast and staging across the scene. Ahana uses her left hand to lift the card and holds the lamp in her right. Her expression changes from satisfaction to recognition as she calls Tara. Navya and Vihaan look towards the clip; Tara steps close. The helper pauses dispatch. Tez remains on clear paving.
+[PanelContextCopy] Props and state progression. The same four cards are being moved to their checked positions. Choose the 25 WORKERS card, originally above 414, as the dusty card. Show the correct four-way matching in the record specified under Props and state progression in Scene CH01 07B; do not invent a fifth card. Fine black dust is beneath the clip and on the card’s contact edge. The carton quantity seals are untouched.
+[PanelContextCopy] Planning requirements. Freeze the discovery during the repositioning, not as a new unrelated label. The card has been in a wrong place; its printed team number itself is genuine. No readable V is present here.
+[PanelMetadata] SOURCE: Scene CH01 07B One carton for each team | APPLIES TO: CH01-PAGE060-PANEL01; verified four-way matching
+[PanelContextCopy] Props and state progression. Exact solution: 348 → 4 workers → 87 hooks each; 355 → 5 → 71; 414 → 9 → 46; 525 → 25 → 21. Each team appears once. No carton is opened. LIFT and RHYTHM white; SUPPLIES still dark.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07C A Ahana finds the dust
+[SceneInstruction] Moment and staging. Close on Ahana’s left hand lifting the original 25 WORKERS card by its clean edge. Her right hand holds the lamp; the rack support and bench edge fix the place. Fine black dust is exposed beneath the clip. The other three cards can now be at the checked positions specified by the matching under Props and state progression in Scene CH01 07B.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] They put each team card above its matching carton. As Ahana lifts one wrong card, she notices black dust beneath its clip.
+[PanelBoundary] END PANEL CH01-PAGE060-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE060-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 07C B Ahana recognises and calls
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE060-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07C Dust under a clip | APPLIES TO: CH01-PAGE060-PANEL02; CH01 07C B
+[PanelContextCopy] View. Close of Ahana lifting the formerly misplaced team card by its clean edge, with the brass clip, right rack upright and pale bench edge in view.
+[PanelContextCopy] Cast and staging across the scene. Ahana uses her left hand to lift the card and holds the lamp in her right. Her expression changes from satisfaction to recognition as she calls Tara. Navya and Vihaan look towards the clip; Tara steps close. The helper pauses dispatch. Tez remains on clear paving.
+[PanelContextCopy] Props and state progression. The same four cards are being moved to their checked positions. Choose the 25 WORKERS card, originally above 414, as the dusty card. Show the correct four-way matching in the record specified under Props and state progression in Scene CH01 07B; do not invent a fifth card. Fine black dust is beneath the clip and on the card’s contact edge. The carton quantity seals are untouched.
+[PanelContextCopy] Planning requirements. Freeze the discovery during the repositioning, not as a new unrelated label. The card has been in a wrong place; its printed team number itself is genuine. No readable V is present here.
+[PanelMetadata] SOURCE: Visual beat CH01 07C A Ahana finds the dust | APPLIES TO: CH01-PAGE060-PANEL02; camera direction, card position, lamp and dust
+[PanelContextCopy] Moment and staging. Close on Ahana’s left hand lifting the original 25 WORKERS card by its clean edge. Her right hand holds the lamp; the rack support and bench edge fix the place. Fine black dust is exposed beneath the clip. The other three cards can now be at the checked positions specified by the matching under Props and state progression in Scene CH01 07B.
+[PanelMetadata] SOURCE: Scene CH01 07B One carton for each team | APPLIES TO: CH01-PAGE060-PANEL02; verified four-way matching
+[PanelContextCopy] Props and state progression. Exact solution: 348 → 4 workers → 87 hooks each; 355 → 5 → 71; 414 → 9 → 46; 525 → 25 → 21. Each team appears once. No carton is opened. LIFT and RHYTHM white; SUPPLIES still dark.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07C B Ahana recognises and calls
+[SceneInstruction] Moment and staging. Keep the camera direction and card position specified in Visual beat CH01 07C A, widen enough to include Ahana’s face. She stops moving the card, eyes widening as recognition settles, then looks towards Tara and speaks. Tara turns towards her; Navya and Vihaan pause. The recognition caption is attached to this reaction, without a new Bell flashback.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She has seen that dust once already—inside the cloth that covered the stolen Bell.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Tara, look.
+[PanelBoundary] END PANEL CH01-PAGE060-PANEL02
+## Scene CH01 07D Keeping the evidence
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium close across the bench specified under Setting in Scene CH01 07D, with the rack behind Tara and Ahana’s backpack open on a clear corner.
+[SceneInstruction] Cast and staging across the scene. Tara has leaned her staff against the blue wall and slips the dusty card into a plain paper sleeve by its clean edges. Ahana sets the lamp on the bench and holds her backpack open. Vihaan and Navya watch without brushing the dust. Tez sits beside Ahana’s shoe. The helper waits with the cartons.
+[SceneInstruction] Props and state progression. One dusty original team card, one paper sleeve, one backpack. The corrected dispatch associations remain on the record from 07B; the original evidence card will travel in Ahana’s bag. Do not erase, wash or duplicate its dust.
+[SceneInstruction] Planning requirements. Tara speaks to Ahana and the group. Preserve her serious reaction without naming Veer or explaining the powder’s origin. The physical card is not available on the rack after this handover.
+[PanelIdentifier] PANEL CH01-PAGE060-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 07D A Tara preserves the evidence
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE060-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07D Keeping the evidence | APPLIES TO: CH01-PAGE060-PANEL03; CH01 07D A
+[PanelContextCopy] View. Medium close across the bench specified under Setting in Scene CH01 07D, with the rack behind Tara and Ahana’s backpack open on a clear corner.
+[PanelContextCopy] Cast and staging across the scene. Tara has leaned her staff against the blue wall and slips the dusty card into a plain paper sleeve by its clean edges. Ahana sets the lamp on the bench and holds her backpack open. Vihaan and Navya watch without brushing the dust. Tez sits beside Ahana’s shoe. The helper waits with the cartons.
+[PanelContextCopy] Props and state progression. One dusty original team card, one paper sleeve, one backpack. The corrected dispatch associations remain on the record from 07B; the original evidence card will travel in Ahana’s bag. Do not erase, wash or duplicate its dust.
+[PanelContextCopy] Planning requirements. Tara speaks to Ahana and the group. Preserve her serious reaction without naming Veer or explaining the powder’s origin. The physical card is not available on the rack after this handover.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07D A Tara preserves the evidence
+[SceneInstruction] Moment and staging. At the bench specified under Setting in Scene CH01 07D, Tara’s staff is leaned against the wall. Freeze the completed protection and handover: the dusty card is inside one paper sleeve and Tara offers the sleeve by its clean edge to Ahana, whose backpack is open on the bench. The lamp rests beside it. The serious examination and sleeving are recounted by the caption leading to this handover pose.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara examines it. Her face becomes serious. She slips the label into a paper sleeve and gives it to Ahana to keep in her backpack.
+[PanelBoundary] END PANEL CH01-PAGE060-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE060-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 07D B Tara warns against brushing it
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE060-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07D Keeping the evidence | APPLIES TO: CH01-PAGE060-PANEL04; CH01 07D B
+[PanelContextCopy] View. Medium close across the bench specified under Setting in Scene CH01 07D, with the rack behind Tara and Ahana’s backpack open on a clear corner.
+[PanelContextCopy] Cast and staging across the scene. Tara has leaned her staff against the blue wall and slips the dusty card into a plain paper sleeve by its clean edges. Ahana sets the lamp on the bench and holds her backpack open. Vihaan and Navya watch without brushing the dust. Tez sits beside Ahana’s shoe. The helper waits with the cartons.
+[PanelContextCopy] Props and state progression. One dusty original team card, one paper sleeve, one backpack. The corrected dispatch associations remain on the record from 07B; the original evidence card will travel in Ahana’s bag. Do not erase, wash or duplicate its dust.
+[PanelContextCopy] Planning requirements. Tara speaks to Ahana and the group. Preserve her serious reaction without naming Veer or explaining the powder’s origin. The physical card is not available on the rack after this handover.
+[PanelMetadata] SOURCE: Visual beat CH01 07D A Tara preserves the evidence | APPLIES TO: CH01-PAGE060-PANEL04; background, prop placements and protected sleeve
+[PanelContextCopy] Moment and staging. At the bench specified under Setting in Scene CH01 07D, Tara’s staff is leaned against the wall. Freeze the completed protection and handover: the dusty card is inside one paper sleeve and Tara offers the sleeve by its clean edge to Ahana, whose backpack is open on the bench. The lamp rests beside it. The serious examination and sleeving are recounted by the caption leading to this handover pose.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07D B Tara warns against brushing it
+[SceneInstruction] Moment and staging. Retain the camera specified under View in Scene CH01 07D, the character locations specified under Cast and staging in Scene CH01 07D, and the background and prop placements specified in Visual beat CH01 07D A. Ahana now holds the sleeved card at the open backpack. Tara raises her free palm in a gentle stop gesture, face serious, and gives the short warning. Her other hand is withdrawn from the sleeve. The dust stays protected.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: she says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Don’t brush it off.
+[PanelBoundary] END PANEL CH01-PAGE060-PANEL04
+[PanelIdentifier] PANEL CH01-PAGE060-PANEL05
+[PanelMetadata] SOURCE: Visual beat CH01 07D C Tara connects the two clues
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE060-PANEL05; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07D Keeping the evidence | APPLIES TO: CH01-PAGE060-PANEL05; CH01 07D C
+[PanelContextCopy] View. Medium close across the bench specified under Setting in Scene CH01 07D, with the rack behind Tara and Ahana’s backpack open on a clear corner.
+[PanelContextCopy] Cast and staging across the scene. Tara has leaned her staff against the blue wall and slips the dusty card into a plain paper sleeve by its clean edges. Ahana sets the lamp on the bench and holds her backpack open. Vihaan and Navya watch without brushing the dust. Tez sits beside Ahana’s shoe. The helper waits with the cartons.
+[PanelContextCopy] Props and state progression. One dusty original team card, one paper sleeve, one backpack. The corrected dispatch associations remain on the record from 07B; the original evidence card will travel in Ahana’s bag. Do not erase, wash or duplicate its dust.
+[PanelContextCopy] Planning requirements. Tara speaks to Ahana and the group. Preserve her serious reaction without naming Veer or explaining the powder’s origin. The physical card is not available on the rack after this handover.
+[PanelMetadata] SOURCE: Visual beat CH01 07D B Tara warns against brushing it | APPLIES TO: CH01-PAGE060-PANEL05; Tara withdrawn hand, Ahana sleeve-holding pose and backpack
+[PanelContextCopy] Moment and staging. Retain the camera specified under View in Scene CH01 07D, the character locations specified under Cast and staging in Scene CH01 07D, and the background and prop placements specified in Visual beat CH01 07D A. Ahana now holds the sleeved card at the open backpack. Tara raises her free palm in a gentle stop gesture, face serious, and gives the short warning. Her other hand is withdrawn from the sleeve. The dust stays protected.
+[PanelMetadata] SOURCE: Visual beat CH01 07D A Tara preserves the evidence | APPLIES TO: CH01-PAGE060-PANEL05; background, lamp and staff placements
+[PanelContextCopy] Moment and staging. At the bench specified under Setting in Scene CH01 07D, Tara’s staff is leaned against the wall. Freeze the completed protection and handover: the dusty card is inside one paper sleeve and Tara offers the sleeve by its clean edge to Ahana, whose backpack is open on the bench. The lamp rests beside it. The serious examination and sleeving are recounted by the caption leading to this handover pose.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07D C Tara connects the two clues
+[SceneInstruction] Moment and staging. Separate panel retaining the framing specified under View in Scene CH01 07D and the character locations specified under Cast and staging in Scene CH01 07D. Tara lowers her raised palm to indicate the sleeve with one finger and looks from it to Ahana. Her expression is thoughtful; she does not name a culprit. Ahana holds the sleeve steady, with the backpack still open; retain Tara’s withdrawn-hand pose and Ahana’s sleeve-holding pose specified in Visual beat CH01 07D B, and Vihaan’s, Navya’s, Tez’s and the helper’s poses specified under Cast and staging in Scene CH01 07D.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] It connects this wrong label with the Bell’s cover.
+[PanelBoundary] END PANEL CH01-PAGE060-PANEL05

@@ -1,0 +1,52 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 039
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q04
+[ProductionContextSource] Carried forward from Lantern Street Projector-Kit Bench, Centre — location instructions | Applies to: Companion inset Q04
+[ProductionContextCopy] The centre of the pale right-wall bench holds two labelled supply boxes, padded empty kit boxes and one sample board. The blue/gold timing lamps are farther left, and the sealed hook rack is to the right. A short lantern-test rail is fixed above.
+[ProductionContextCopy] Labels read 45 BLUE GLASS LENSES and 75 BRASS RINGS. Establish the greatest possible number of identical kits before teaching. A completed three-lens/five-ring head and exact sample kit belong only after T1.2B. Three rings mount the lenses and two secure the supports. The full stock need not be individually laid out; one sample and closed kit boxes are enough. Do not show an already-solved three-and-five recipe in the setup.
+[ProductionContextCopy] Required views. Stock-label close-up; overhead sample-kit view; medium handover to wooden crews. These are parts of the Lantern Street bench, not a new workshop.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE039-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | Example 11
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE039-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 11
+Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack.
+[AnswerLead] Let’s work it through
+Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.
+[Equation] 171 = 1 × 171 = 3 × 57 = 9 × 19
+[Equation] 27 = 1 × 27 = 3 × 9
+[Equation] 63 = 1 × 63 = 3 × 21 = 7 × 9
+The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:
+[Equation] Pencils per pack: 171 ÷ 9 = 19
+[Equation] Erasers per pack: 27 ÷ 9 = 3
+[Equation] Pens per pack: 63 ÷ 9 = 7
+Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: 9 × 19 = 171.
+[PanelBoundary] END PANEL CH01-PAGE039-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE039-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.2B | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE039-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag.
+[AnswerLead] Check your method
+Factors of 28: 1, 2, 4, 7, 14, 28.
+Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.
+The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:
+[Equation] 28 ÷ 7 = 4 candies per bag
+[Equation] 49 ÷ 7 = 7 stickers per bag
+[Equation] 35 ÷ 7 = 5 magnets per bag
+[PanelBoundary] END PANEL CH01-PAGE039-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE039-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q04
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q04
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 11 in Teaching block T1.2B. Tez sits on four-pawed haunches beside an empty padded kit box, head tilted towards the reader. He holds no tool or food. Pale centre bench, blue wall and warm lamp; only empty kit boxes and the unsolved stock boxes appear. Avoid a three-lens/five-ring sample.
+[SceneInstruction] DO NOT PRINT — Speaker: Tez to the reader | Tail target: Tez’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I like “nothing left over”. Especially at dinner.
+[PanelBoundary] END PANEL CH01-PAGE039-PANEL03

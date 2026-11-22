@@ -1,0 +1,83 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 103
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Assigned beats of Scene CH01 11A; Assigned beats of Scene CH01 11B
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 11 The signature and the next street
+[SourceLocator] Production sequence reference CH01-11. The following location descriptions are retained from V16.
+### Lantern Street Square Mirror Recess
+[SceneInstruction] A shallow square brass frame stands just above the paving in an alcove on the far-left wall. A blue rear wall, a warm lamp on the left and an open canopy gap identify it. A padded tray and opaque tile crate sit outside the walking lane.
+[SceneInstruction] The inventory is 81 equal, unbroken square mirror tiles. The helper empties the mislaid arrangement before the mathematical layout. The exact result is one flat 9 × 9 grid, reflecting one continuous full moon. The inner brass rim carries a V hidden in dust until the arches light. Keep that rim, lamp, crate and paving seam consistent. A diagram supplies the count; a wide image need not reveal every tile.
+[SceneInstruction] Required views. Medium empty-frame setup; high three-quarter exact grid after teaching; separate Tez reflection view; later rim-and-V close-up from the same frame.
+### Old Blue Gate Exterior Waiting Lane
+[SceneInstruction] Two enormous weathered blue timber doors stand between pale-stone piers. Brass ribs and moon-shaped openings decorate the doors. A round full-moon ornament hangs above. Seen from outside, a small service door is cut into the left door leaf. A bench is on the right and a planter on the left.
+[SceneInstruction] The separate equipment exit is farther left beyond the stone pier. It is not the child-height door in the large leaf. Children aged eight to thirteen wait in contemporary urban casual clothing. Use a few foreground groups and a suggested crowd; do not render three hundred individually countable people. Ira, Kabir and the girl in green remain identifiable. Tara does not meet the trio outside. The Bell is never mounted on the Gate arch.
+[SceneInstruction] Required views. Arrival wide from the lane; bench/planter medium; invitation close-up; low Tez doorway view. Gate ornaments and invitations have bright, fading and restored-light states without changing their shapes.
+### Food Street Master from Lantern Street
+[SceneInstruction] A covered lane beneath saffron and teal awnings opens beyond Lantern Street’s shutters. The recipe and cooking counter is on the left; jugs and the juice urn are on the right. The near packing bench has a side door to Return Walk. A round two-tray loading table sits in the central clear lane.
+[SceneInstruction] The far opening leads to the Parade Ground. The initial obstruction is one crooked cart with a bowl under its wheel. The food helper wears a saffron apron and ivory cap; two smaller assistants deliver food. The main cooking surface is behind the counter, beyond the children’s hands. The sixteen-cup trolley waits at the packing end. No human cooks or hidden extra kitchen are introduced.
+[SceneInstruction] Required views. Threshold wide; separate recipe, drinks and packing counter views; central loading-table medium. The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
+## Scene CH01 11A A mark in the mirror rim
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street square-mirror recess. A shallow square brass frame sits just above paving in the far-left wall alcove, opposite the cube plinth. The rear wall is blue, the warm lamp is on the left, and a canopy gap admits moonlight. The padded tray and opaque crate stay outside the walking lane. The inner rim and paving seam remain fixed across views. Same full-moon night after the joint repair. Golden arch light fills Lantern Street; the moonline is continuous. Warm work lamps remain, with cool moonlight on roofs and the mirror. This repair does not restore Tez’s stripes or ring the Moon Bell.
+[SceneInstruction] View. Close on the inner brass mirror rim specified under Setting in Scene CH01 11A, now caught by restored golden arch light. Keep the left lamp and a corner of the exact tile grid as anchors.
+[SceneInstruction] Cast and staging across the scene. Ahana bends close without wiping the rim, then calls Tara and brings the paper sleeve from her backpack. Tez stays beside her. Vihaan and Navya approach from the plinth side. Tara places the lamp on stable paving beside the mirror and comes to inspect; the helper remains near the plinth.
+[SceneInstruction] Props and state progression. First readable V scratched in the dusty inner brass rim. Mirror still 9 × 9 with unbroken tiles. The original dusty card remains inside its one paper sleeve; it is not a new clue card.
+[SceneInstruction] Planning requirements. Show the V only now. Golden arch light reveals the existing mark; no fresh scratching action or culprit silhouette is added.
+[PanelIdentifier] PANEL CH01-PAGE103-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 11A A The mark appears
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE103-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE103-PANEL01; CH01 11A A
+[PanelContextCopy] View. Close on the inner brass mirror rim specified under Setting in Scene CH01 11A, now caught by restored golden arch light. Keep the left lamp and a corner of the exact tile grid as anchors.
+[PanelContextCopy] Planning requirements. Show the V only now. Golden arch light reveals the existing mark; no fresh scratching action or culprit silhouette is added.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE103-PANEL01; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE103-PANEL01; Tez, Vihaan, Navya and helper
+[PanelContextCopy] Tez stays beside her. Vihaan and Navya approach from the plinth side. Tara places the lamp on stable paving beside the mirror and comes to inspect; the helper remains near the plinth.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11A A The mark appears
+[SceneInstruction] Moment and staging. Use the close view of the inner brass mirror rim and golden arch light specified under View in Scene CH01 11A. Ahana bends closer without wiping it; her eyes follow the newly readable V. The frame and tiles remain intact. Tara is still a step away, with the lamp.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Then the new light catches a scratch in the mirror’s rim.
+[CaptionCopy] Ahana bends closer. Beneath the dust is a letter V.
+[PanelBoundary] END PANEL CH01-PAGE103-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE103-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 11A B The earlier evidence returns
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE103-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE103-PANEL02; CH01 11A B
+[PanelContextCopy] View. Close on the inner brass mirror rim specified under Setting in Scene CH01 11A, now caught by restored golden arch light. Keep the left lamp and a corner of the exact tile grid as anchors.
+[PanelContextCopy] Cast and staging across the scene. Ahana bends close without wiping the rim, then calls Tara and brings the paper sleeve from her backpack. Tez stays beside her. Vihaan and Navya approach from the plinth side. Tara places the lamp on stable paving beside the mirror and comes to inspect; the helper remains near the plinth.
+[PanelContextCopy] Planning requirements. Show the V only now. Golden arch light reveals the existing mark; no fresh scratching action or culprit silhouette is added.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE103-PANEL02; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11A B The earlier evidence returns
+[SceneInstruction] Moment and staging. Widen at the alcove specified under Setting in Scene CH01 11A. Ahana has opened her backpack and holds out the protected sleeve as she calls Tara; Tara sets the lamp on stable paving and approaches. Vihaan and Navya come from the plinth side; Tez remains beside Ahana. There is one original sleeve, not a new clue card.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She calls Tara and brings out the label they kept.
+[PanelBoundary] END PANEL CH01-PAGE103-PANEL02
+## Scene CH01 11B Tara recognises the signature
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street square-mirror recess. A shallow square brass frame sits just above paving in the far-left wall alcove, opposite the cube plinth. The rear wall is blue, the warm lamp is on the left, and a canopy gap admits moonlight. The padded tray and opaque crate stay outside the walking lane. The inner rim and paving seam remain fixed across views. Same full-moon night after the joint repair. Golden arch light fills Lantern Street; the moonline is continuous. Warm work lamps remain, with cool moonlight on roofs and the mirror. This repair does not restore Tez’s stripes or ring the Moon Bell.
+[SceneInstruction] View. Medium close of Tara between the rim and Ahana’s evidence sleeve. A sliver of restored street behind gives depth without revealing another location.
+[SceneInstruction] Cast and staging across the scene. Ahana holds the sleeve by its clean edges for comparison. Tara studies the dust, then the V, and speaks the name with recognition. Navya asks whether Tara knows him. Ahana asks about the deliberate message. Vihaan listens beside Navya. Tez stays close to Ahana, alert. The helper is outside this crop.
+[SceneInstruction] Props and state progression. V on the inner rim specified under Props and state progression in Scene CH01 11A; no mark is added to the tile surfaces. One evidence sleeve in Ahana’s hands. Lamp on stable paving. Tara’s staff still safely rests at the cube wall across the lane until she retrieves it before departure.
+[SceneInstruction] Planning requirements. Tara names Veer for the first time here. Do not show his face, childhood, workshop or motivation. Her line expresses an inference about his intent, not confirmed knowledge of his current location.
+[PanelIdentifier] PANEL CH01-PAGE103-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE103-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11B Tara recognises the signature | APPLIES TO: CH01-PAGE103-PANEL03; CH01 11B A
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE103-PANEL03; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE103-PANEL03; V on inner rim and single evidence sleeve
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11B A Tara recognises the mark
+[SceneInstruction] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara looks from its dust to the mark on the mirror.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: she says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Veer.
+[PanelBoundary] END PANEL CH01-PAGE103-PANEL03

@@ -1,0 +1,73 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 071
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Assigned beats of Scene CH01 08D; Assigned beats of Scene CH01 08E
+[ProductionContextSource] Carried forward from Scene CH01 08A — referenced production instructions | Applies to: Reference in Scene CH01 08E The last tile settles
+[ProductionContextCopy] Setting. Lantern Street square-mirror recess. A shallow square brass frame sits just above paving in the far-left wall alcove, opposite the cube plinth. The rear wall is blue, the warm lamp is on the left, and a canopy gap admits moonlight. The padded tray and opaque crate stay outside the walking lane. The inner rim and paving seam remain fixed across views. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[ProductionContextCopy] View. Cross-lane medium towards the far-left mirror alcove. Retain the blue rear wall, left warm lamp, open canopy gap, shallow brass frame and paving seam. A separate preliminary still shows crooked tiles; the main working still shows the helper clearing them.
+[ProductionContextCopy] Props and state progression. All 81 tiles are unbroken and belong to this one frame. The opaque crate and padded tray stand clear of the lane. The frame is fixed at a shallow tilt towards the canopy opening; that mounting does not change in later views. The V remains concealed in dust.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 08D Planning the square
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Close of Ahana’s cream sketchbook at the mirror alcove, keeping the brass rim and padded tray edge visible behind the page.
+[SceneInstruction] Cast and staging across the scene. Ahana has taken the sketchbook and its ordinary pencil from her backpack. She sits or crouches on stable paving, supporting the open book on her raised knee while drawing with her right hand. Tez sits beside her. Navya and Vihaan look at the proposed grid. Tara and the helper wait for the plan; the work lamp remains safely on the paving.
+[SceneInstruction] Props and state progression. Exact drawing: nine rows and nine columns, 81 equal square cells. This ordinary pencil is not the Starline gift received at the ending. The frame itself remains empty until the helper begins.
+[SceneInstruction] Planning requirements. Show only after T1.4. The diagram explains the count; do not require the distant view to count every tile. V still concealed on inner rim.
+[PanelIdentifier] PANEL CH01-PAGE071-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 08D A The square is planned
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE071-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08D Planning the square | APPLIES TO: CH01-PAGE071-PANEL01; CH01 08D A
+[PanelContextCopy] View. Close of Ahana’s cream sketchbook at the mirror alcove, keeping the brass rim and padded tray edge visible behind the page.
+[PanelContextCopy] Cast and staging across the scene. Ahana has taken the sketchbook and its ordinary pencil from her backpack. She sits or crouches on stable paving, supporting the open book on her raised knee while drawing with her right hand. Tez sits beside her. Navya and Vihaan look at the proposed grid. Tara and the helper wait for the plan; the work lamp remains safely on the paving.
+[PanelContextCopy] Props and state progression. Exact drawing: nine rows and nine columns, 81 equal square cells. This ordinary pencil is not the Starline gift received at the ending. The frame itself remains empty until the helper begins.
+[PanelContextCopy] Planning requirements. Show only after T1.4. The diagram explains the count; do not require the distant view to count every tile. V still concealed on inner rim.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE071-PANEL01; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08D A The square is planned
+[SceneInstruction] Moment and staging. Use one close view of Ahana’s ordinary pencil drawing the final 9 × 9 grid in her cream sketchbook. She supports it on a raised knee; Navya and Vihaan look at the plan and Tez sits beside her. The fixed frame behind is still empty. Both narration paragraphs belong to this planning image; the helper waits to build from it.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Nine multiplied by nine is eighty-one. That gives them nine rows, each with nine tiles. Nine is the square root of eighty-one.
+[CaptionCopy] Ahana sketches the arrangement before the helper begins placing the tiles.
+[PanelBoundary] END PANEL CH01-PAGE071-PANEL01
+## Scene CH01 08E The last tile settles
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. High three-quarter view of the fixed frame from the lane, retaining the left-lamp, crate and paving-seam locations specified under Setting in Scene CH01 08A. Use a separate flat exact diagram for the grid if perspective obscures counts.
+[SceneInstruction] Cast and staging across the scene. The helper places the last tile. Ahana checks the row ends against her sketch; Vihaan follows the total; Navya checks that the tiles sit flat without pressing unsupported glass. Tara watches with staff in hand. Tez waits beside Ahana, looking towards the finished reflection.
+[SceneInstruction] Props and state progression. One flat grid of exactly 9 × 9 tiles, not overlapping stacks. All 81 tiles have been used. A single continuous full moon appears across the completed reflective surface. Retain the frame mounting specified under Props and state progression in Scene CH01 08A.
+[SceneInstruction] Planning requirements. Keep tile boundaries fine enough for one continuous reflection. Do not split or multiply the moon. The V remains obscured until the street arches later illuminate the rim.
+[PanelIdentifier] PANEL CH01-PAGE071-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 08E A The last row is checked
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE071-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08E The last tile settles | APPLIES TO: CH01-PAGE071-PANEL02; CH01 08E A
+[PanelContextCopy] View. High three-quarter view of the fixed frame from the lane, retaining the left-lamp, crate and paving-seam locations specified under Setting in Scene CH01 08A. Use a separate flat exact diagram for the grid if perspective obscures counts.
+[PanelContextCopy] Cast and staging across the scene. The helper places the last tile. Ahana checks the row ends against her sketch; Vihaan follows the total; Navya checks that the tiles sit flat without pressing unsupported glass. Tara watches with staff in hand. Tez waits beside Ahana, looking towards the finished reflection.
+[PanelContextCopy] Planning requirements. Keep tile boundaries fine enough for one continuous reflection. Do not split or multiply the moon. The V remains obscured until the street arches later illuminate the rim.
+[PanelMetadata] SOURCE: Scene CH01 08E The last tile settles | APPLIES TO: CH01-PAGE071-PANEL02; grid geometry; assigned almost-complete stage
+[PanelContextCopy] One flat grid of exactly 9 × 9 tiles, not overlapping stacks.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE071-PANEL02; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08E A The last row is checked
+[SceneInstruction] Moment and staging. Show the grid almost complete, with the last position still open. Ahana checks row ends against her sketch, Vihaan follows the count, Navya checks the fitted tiles without pressing unsupported glass. The helper supports the last tile just outside the gap. Reflections are not yet one completed moon.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She checks the row ends while Vihaan follows the total and Navya makes sure each tile sits flat.
+[PanelBoundary] END PANEL CH01-PAGE071-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE071-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 08E B The full moon joins
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE071-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08E The last tile settles | APPLIES TO: CH01-PAGE071-PANEL03; CH01 08E B
+[PanelContextCopy] View. High three-quarter view of the fixed frame from the lane, retaining the left-lamp, crate and paving-seam locations specified under Setting in Scene CH01 08A. Use a separate flat exact diagram for the grid if perspective obscures counts.
+[PanelContextCopy] Cast and staging across the scene. The helper places the last tile. Ahana checks the row ends against her sketch; Vihaan follows the total; Navya checks that the tiles sit flat without pressing unsupported glass. Tara watches with staff in hand. Tez waits beside Ahana, looking towards the finished reflection.
+[PanelContextCopy] Props and state progression. One flat grid of exactly 9 × 9 tiles, not overlapping stacks. All 81 tiles have been used. A single continuous full moon appears across the completed reflective surface. Retain the frame mounting specified under Props and state progression in Scene CH01 08A.
+[PanelContextCopy] Planning requirements. Keep tile boundaries fine enough for one continuous reflection. Do not split or multiply the moon. The V remains obscured until the street arches later illuminate the rim.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE071-PANEL03; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08E B The full moon joins
+[SceneInstruction] Moment and staging. Separate result image retaining the frame viewing angle specified under View in Scene CH01 08E: the final tile is seated and all 81 form the flat 9 × 9 grid. The helper’s hands are withdrawn. One continuous full moon appears; the children look at the joined reflection. Keep the V concealed on the rim.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] When the last tile settles, the scattered reflections join into one full moon.
+[PanelBoundary] END PANEL CH01-PAGE071-PANEL03

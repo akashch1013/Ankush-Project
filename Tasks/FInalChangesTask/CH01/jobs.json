@@ -1,0 +1,16 @@
+{
+ "project": "chandrush-ch01-panels",
+ "model": "gpt-image-2.5-sunburst",
+ "quality": "high",
+ "size": "1024x1024",
+ "max_calls": 3,
+ "items": {
+  "V-TEZ-P039": {
+   "prompt": "prompts/V-TEZ-P039.md",
+   "refs": ["BagroundGenTask/out/plates/S04-B01.png",
+            "../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"],
+   "size": "1024x1024",
+   "quality": "high"
+  }
+ }
+}

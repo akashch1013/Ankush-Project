@@ -1,0 +1,104 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 011
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Assigned beats of Scene CH01 02B; Assigned beats of Scene CH01 02C
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 02B Choosing the two movements
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium over Navya’s shoulder towards the controller shelf, keeping the shaft and 0 landing beside it.
+[SceneInstruction] Cast and staging across the scene. Navya spreads the cards flat and separates −5 and −3. Ahana faces the selection and speaks with growing confidence; her lamp is in her right hand. Vihaan looks at the two values. Tara checks the guarded shaft before authorising START; Tez waits well back.
+[SceneInstruction] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
+[SceneInstruction] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
+[PanelIdentifier] PANEL CH01-PAGE011-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 02B A The chosen cards
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE011-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02B Choosing the two movements | APPLIES TO: CH01-PAGE011-PANEL01; CH01 02B A
+[PanelContextCopy] View. Medium over Navya’s shoulder towards the controller shelf, keeping the shaft and 0 landing beside it.
+[PanelContextCopy] Cast and staging across the scene. Navya spreads the cards flat and separates −5 and −3. Ahana faces the selection and speaks with growing confidence; her lamp is in her right hand. Vihaan looks at the two values. Tara checks the guarded shaft before authorising START; Tez waits well back.
+[PanelContextCopy] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
+[PanelContextCopy] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02B A The chosen cards
+[SceneInstruction] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Navya spreads the movement cards on the control box. She finds −5 and −3. Together, they will take the car from 0 down five marks, then down three more.
+[PanelBoundary] END PANEL CH01-PAGE011-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE011-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 02B B Ahana totals the movement
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE011-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02B Choosing the two movements | APPLIES TO: CH01-PAGE011-PANEL02; CH01 02B B
+[PanelContextCopy] View. Medium over Navya’s shoulder towards the controller shelf, keeping the shaft and 0 landing beside it.
+[PanelContextCopy] Cast and staging across the scene. Navya spreads the cards flat and separates −5 and −3. Ahana faces the selection and speaks with growing confidence; her lamp is in her right hand. Vihaan looks at the two values. Tara checks the guarded shaft before authorising START; Tez waits well back.
+[PanelContextCopy] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
+[PanelContextCopy] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
+[PanelMetadata] SOURCE: Visual beat CH01 02B A The chosen cards | APPLIES TO: CH01-PAGE011-PANEL02; controller shelf and card placements
+[PanelContextCopy] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02B B Ahana totals the movement
+[SceneInstruction] Moment and staging. Use a medium including Ahana and the controller shelf specified in Visual beat CH01 02B A. Ahana looks at the two cards and says the total, with her left index finger beside them and the lamp in her right. Nobody inserts a card.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Minus eight.
+[PanelBoundary] END PANEL CH01-PAGE011-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE011-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 02B C Ahana connects it to the store
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE011-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02B Choosing the two movements | APPLIES TO: CH01-PAGE011-PANEL03; CH01 02B C
+[PanelContextCopy] View. Medium over Navya’s shoulder towards the controller shelf, keeping the shaft and 0 landing beside it.
+[PanelContextCopy] Cast and staging across the scene. Navya spreads the cards flat and separates −5 and −3. Ahana faces the selection and speaks with growing confidence; her lamp is in her right hand. Vihaan looks at the two values. Tara checks the guarded shaft before authorising START; Tez waits well back.
+[PanelContextCopy] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
+[PanelContextCopy] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
+[PanelMetadata] SOURCE: Visual beat CH01 02B B Ahana totals the movement | APPLIES TO: CH01-PAGE011-PANEL03; camera
+[PanelContextCopy] Moment and staging. Use a medium including Ahana and the controller shelf specified in Visual beat CH01 02B A. Ahana looks at the two cards and says the total, with her left index finger beside them and the lamp in her right. Nobody inserts a card.
+[PanelMetadata] SOURCE: Visual beat CH01 02B A The chosen cards | APPLIES TO: CH01-PAGE011-PANEL03; character locations and card placements
+[PanelContextCopy] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02B C Ahana connects it to the store
+[SceneInstruction] Moment and staging. Separate panel retaining the camera specified in Visual beat CH01 02B B, the background specified under Setting in Scene CH01 02B and the character locations specified under Cast and staging in Scene CH01 02B and Visual beat CH01 02B A; keep their feet in place. Ahana changes only her free-hand gesture and gaze: her left palm now indicates the −8 strip mark and she looks to Navya, with a small assured smile. Her right hand keeps the lamp steady; the selected cards remain flat.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That brings it level with the store.
+[PanelBoundary] END PANEL CH01-PAGE011-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE011-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 02B D The shaft is checked
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE011-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02B Choosing the two movements | APPLIES TO: CH01-PAGE011-PANEL04; CH01 02B D
+[PanelContextCopy] View. Medium over Navya’s shoulder towards the controller shelf, keeping the shaft and 0 landing beside it.
+[PanelContextCopy] Cast and staging across the scene. Navya spreads the cards flat and separates −5 and −3. Ahana faces the selection and speaks with growing confidence; her lamp is in her right hand. Vihaan looks at the two values. Tara checks the guarded shaft before authorising START; Tez waits well back.
+[PanelContextCopy] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
+[PanelContextCopy] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02B D The shaft is checked
+[SceneInstruction] Moment and staging. A short action image shows Tara looking through the guard to check that the shaft is clear. Her right hand holds the staff; her left hand rests outside the barrier. Navya waits at the selected cards. The car has not yet moved.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara checks that the shaft is clear.
+[PanelBoundary] END PANEL CH01-PAGE011-PANEL04
+## Scene CH01 02C The first stop
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Street-side view down the shaft specified under Setting in Scene CH01 02C, with controller and fixed lamp in the near edge of the frame. Freeze the car stopped at −5.
+[SceneInstruction] Cast and staging across the scene. Navya has one hand near START after inserting the −5 card. Tara watches the car from behind the guard. Ahana angles the lamp towards the controller; Vihaan follows the position strip. Tez remains on clear paving. The helper waits on the lower landing, below the car.
+[SceneInstruction] Props and state progression. One empty car at −5; supply cart remains on the −8 landing. The −3 card is still available for the next move.
+[SceneInstruction] Planning requirements. A still shows only this one position. If an explanatory route diagram is used, keep it distinct from the physical shaft.
+[PanelIdentifier] PANEL CH01-PAGE011-PANEL05
+[PanelMetadata] SOURCE: Visual beat CH01 02C A The first movement is complete
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE011-PANEL05; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02C The first stop | APPLIES TO: CH01-PAGE011-PANEL05; CH01 02C A
+[PanelContextCopy] View. Street-side view down the shaft specified under Setting in Scene CH01 02C, with controller and fixed lamp in the near edge of the frame. Freeze the car stopped at −5.
+[PanelContextCopy] Cast and staging across the scene. Navya has one hand near START after inserting the −5 card. Tara watches the car from behind the guard. Ahana angles the lamp towards the controller; Vihaan follows the position strip. Tez remains on clear paving. The helper waits on the lower landing, below the car.
+[PanelContextCopy] Props and state progression. One empty car at −5; supply cart remains on the −8 landing. The −3 card is still available for the next move.
+[PanelContextCopy] Planning requirements. A still shows only this one position. If an explanatory route diagram is used, keep it distinct from the physical shaft.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02C A The first movement is complete
+[SceneInstruction] Moment and staging. Use the stopped-result camera and framing specified under View in Scene CH01 02C: one empty car at −5. Navya’s hand is withdrawn just above START after using the first card; Tara observes through the guard. The caption narrates the immediately preceding start and this result. Do not depict a second car at its old position.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Navya puts in the first card and starts the lift. The car stops at −5.
+[PanelBoundary] END PANEL CH01-PAGE011-PANEL05

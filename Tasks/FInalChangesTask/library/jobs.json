@@ -1,0 +1,8 @@
+{
+ "project": "chandrush-library",
+ "model": "gpt-image-2.5-sunburst",
+ "quality": "high",
+ "size": "1024x1024",
+ "max_calls": 3,
+ "items": {}
+}

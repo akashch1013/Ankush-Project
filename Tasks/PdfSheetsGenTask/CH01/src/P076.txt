@@ -1,0 +1,44 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 076
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q08
+[ProductionContextSource] Carried forward from Lantern Street Cube Plinth, Handle and Moonline Joint — location instructions | Applies to: Companion inset Q08
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE076-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | Example 16
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE076-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 16
+Evaluate (a) ∛8 + 2³, (b) ∛125 − 5³ and (c) ∛64 × 5 − 3³.
+[AnswerLead] Let’s work it through
+(a) The root and the cube are different instructions. ∛8 = 2, while 2³ = 8:
+[Equation] ∛8 + 2³ = 2 + 8 = 10
+(b) Here ∛125 = 5, while 5³ = 125. Subtracting the bigger amount gives a negative answer:
+[Equation] ∛125 − 5³ = 5 − 125 = −120
+(c) Find the root and the cube first. Then multiply before subtracting:
+[Equation] ∛64 × 5 − 3³ = 4 × 5 − 27 = 20 − 27 = −7
+The root bar covers 64 only. The × 5 stays outside it.
+[PanelBoundary] END PANEL CH01-PAGE076-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE076-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.5 | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE076-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) ∛64 × 5, (b) ∛216 × 3 − 5³ and (c) 5 × ∛343.
+[AnswerLead] Check your method
+[Equation] (a) ∛64 × 5 = 4 × 5 = 20
+[Equation] (b) ∛216 × 3 − 5³ = 6 × 3 − 125 = 18 − 125 = −107
+[Equation] (c) 5 × ∛343 = 5 × 7 = 35
+[PanelBoundary] END PANEL CH01-PAGE076-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE076-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q08
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q08
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 16 in Teaching block T1.5. Vihaan points with one finger towards a completed teaching layer plan, smiling mildly. His other hand rests at his side. One indigo canopy post and plinth edge; crop out the unsolved towers. Do not show the completed story lantern yet.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan to the reader | Tail target: Vihaan’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The cubes at the back are still on the team.
+[PanelBoundary] END PANEL CH01-PAGE076-PANEL03

@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P039</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<style>
+  /* P039 (V09 T3): cool paper field, midnight-indigo gutter sliver, brass corner joint from the kit box's corner cap */
+  .page.p039 { --bg: #E9EEF0; --ink: #1b2330; --head: #1f2c47; --brass: #A9843C; --card-q: #F7F9FA; --rule: #A7B6C0; }
+  .gutter { position: absolute; left: 0; top: 0; bottom: 0; width: 11pt; background: var(--g-indigo); }
+  .runline { left: 40pt; right: 36pt; top: 19pt; display: flex; justify-content: space-between; color: #4b5468; font-size: 10.5pt; }
+  .joint { position: absolute; border-color: var(--brass); border-style: solid; border-width: 0; pointer-events: none; }
+
+  .t { font: 400 14pt/18pt var(--sans); color: var(--ink); }
+  .t p { margin: 0 0 9pt; }
+  .t p:last-child { margin-bottom: 0; }
+  .sub { font: 600 19pt/22pt var(--sans); color: var(--head); margin: 0; }
+  .sub2 { font: 600 17pt/20pt var(--sans); color: var(--head); margin: 0 0 6pt; }
+  .qcard { background: var(--card-q); border: .6pt solid var(--rule); border-radius: 5pt; padding: 7pt 12pt 8pt; }
+
+  /* display maths: = signs aligned on a grid (lhs | = | rhs) */
+  .eqgrid { display: grid; column-gap: 7pt; row-gap: 5pt; align-items: baseline; font: 600 20pt/25pt var(--sans); color: var(--ink); white-space: nowrap; margin: 2pt 0 11pt; }
+  .eqgrid .r { display: contents; }
+  .eqgrid .lhs { text-align: right; }
+  .eqgrid .lab { font: 400 14pt/18pt var(--sans); color: var(--ink); }
+  .eqgrid .unit { font: 400 14pt/18pt var(--sans); }
+  .fac { grid-template-columns: max-content max-content max-content; row-gap: 10pt; margin-top: 6pt; }
+  .share { grid-template-columns: max-content max-content max-content max-content; }
+  .chk { grid-template-columns: max-content max-content max-content max-content; font-size: 20pt; line-height: 24pt; row-gap: 2pt; margin: 4pt 0 0; }
+  .mt { color: var(--m-teal); font-weight: 700; }
+  .m { white-space: nowrap; }
+
+  .check { background: rgba(255,255,255,.38); border-top: .8pt solid var(--rule); padding: 8pt 12pt 10pt; }
+  .check p { margin: 0 0 4pt; }
+
+  /* grounded companion: scenery fades irregularly into the exact paper colour, figure opaque */
+  .tez { position: absolute; display: block; z-index: 1;
+    -webkit-mask-image:
+      radial-gradient(ellipse 22% 36% at 34% 50%, #000 78%, transparent 100%),
+      radial-gradient(ellipse 27% 25% at 75% 62%, #000 74%, transparent 100%),
+      radial-gradient(ellipse 15% 22% at 84% 26%, #000 25%, transparent 100%),
+      radial-gradient(ellipse 30% 26% at 56% 34%, #000 30%, transparent 100%),
+      radial-gradient(ellipse 46% 11% at 56% 86%, #000 72%, transparent 100%),
+      radial-gradient(ellipse 14% 11% at 20% 73%, #000 82%, transparent 100%),
+      radial-gradient(ellipse 18% 9% at 90% 90%, #000 30%, transparent 100%),
+      radial-gradient(ellipse 12% 9% at 12% 66%, #000 20%, transparent 100%);
+    mask-image:
+      radial-gradient(ellipse 22% 36% at 34% 50%, #000 78%, transparent 100%),
+      radial-gradient(ellipse 27% 25% at 75% 62%, #000 74%, transparent 100%),
+      radial-gradient(ellipse 15% 22% at 84% 26%, #000 25%, transparent 100%),
+      radial-gradient(ellipse 30% 26% at 56% 34%, #000 30%, transparent 100%),
+      radial-gradient(ellipse 46% 11% at 56% 86%, #000 72%, transparent 100%),
+      radial-gradient(ellipse 14% 11% at 20% 73%, #000 82%, transparent 100%),
+      radial-gradient(ellipse 18% 9% at 90% 90%, #000 30%, transparent 100%),
+      radial-gradient(ellipse 12% 9% at 12% 66%, #000 20%, transparent 100%); }
+
+  /* quiet aside: soft oval, near-white cool tint, fine outline, short tail */
+  .qaside { position: absolute; z-index: 3; background: #F5F8FA; border: .7pt solid #4f5d6b; border-radius: 50%;
+    padding: 12pt 20pt; text-align: center; font: 400 14pt/18pt var(--serif); color: var(--ink); }
+  .qtail { position: absolute; z-index: 4; overflow: visible; }
+</style>
+</head>
+<body>
+<div class="page theme-mist p039" id="page" data-chapter="CH01" data-page="P039">
+  <div class="gutter"></div>
+  <div class="runline"><span>ChandRush: The Midnight Mela · Chapter 1 · Numbers</span><span>39</span></div>
+
+  <!-- brass corner joint where the reader enters Example 11 -->
+  <div class="joint" style="left:28pt; top:44pt; width:34pt; height:30pt; border-top-width:.9pt; border-left-width:.9pt;"></div>
+
+  <!-- ============ Example 11 ============ -->
+  <div class="abs t" style="left:40pt; top:50pt; width:784pt;">
+    <h2 class="sub">Example 11</h2>
+    <div class="qcard" style="margin-top:6pt;"><p>Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack.</p></div>
+  </div>
+
+  <div class="abs t" style="left:40pt; top:155pt; width:784pt;">
+    <h3 class="sub2">Let’s work it through</h3>
+  </div>
+
+  <div class="abs t" style="left:40pt; top:182pt; width:364pt;">
+    <p>Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.</p>
+    <div class="eqgrid fac">
+      <div class="r" data-math="171 = 1 × 171 = 3 × 57 = 9 × 19"><span class="lhs">171</span><span>=</span><span>1 × 171 = 3 × 57 = <span class="mt">9</span> × 19</span></div>
+      <div class="r" data-math="27 = 1 × 27 = 3 × 9"><span class="lhs">27</span><span>=</span><span>1 × 27 = 3 × <span class="mt">9</span></span></div>
+      <div class="r" data-math="63 = 1 × 63 = 3 × 21 = 7 × 9"><span class="lhs">63</span><span>=</span><span>1 × 63 = 3 × 21 = 7 × <span class="mt">9</span></span></div>
+    </div>
+  </div>
+
+  <div class="abs t" style="left:432pt; top:182pt; width:392pt;">
+    <p>The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:</p>
+    <div class="eqgrid share">
+      <div class="r"><span class="lab">Pencils per pack:</span><span class="r" data-math="171 ÷ 9 = 19"><span class="lhs">171 ÷ <span class="mt">9</span></span><span>=</span><span>19</span></span></div>
+      <div class="r"><span class="lab">Erasers per pack:</span><span class="r" data-math="27 ÷ 9 = 3"><span class="lhs">27 ÷ <span class="mt">9</span></span><span>=</span><span>3</span></span></div>
+      <div class="r"><span class="lab">Pens per pack:</span><span class="r" data-math="63 ÷ 9 = 7"><span class="lhs">63 ÷ <span class="mt">9</span></span><span>=</span><span>7</span></span></div>
+    </div>
+    <p>Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: <span class="m" style="font-weight:600" data-math="9 × 19 = 171">9 × 19 = 171.</span></p>
+  </div>
+
+  <!-- ============ Now you try (question first) ============ -->
+  <div class="abs t" style="left:40pt; top:402pt; width:236pt;">
+    <h2 class="sub">Now you try</h2>
+    <div class="qcard" style="margin-top:6pt;"><p>Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag.</p></div>
+  </div>
+
+  <!-- ============ Check your method (separable block) ============ -->
+  <div class="abs t check" id="check" style="left:292pt; top:402pt; width:340pt;">
+    <h3 class="sub2">Check your method</h3>
+    <p>Factors of 28: 1, 2, 4, 7, 14, 28.</p>
+    <p>Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.</p>
+    <p>The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:</p>
+    <div class="eqgrid chk">
+      <div class="r"><span class="r" data-math="28 ÷ 7 = 4"><span class="lhs">28 ÷ <span class="mt">7</span></span><span>=</span><span>4</span></span><span class="unit">candies per bag</span></div>
+      <div class="r"><span class="r" data-math="49 ÷ 7 = 7"><span class="lhs">49 ÷ <span class="mt">7</span></span><span>=</span><span>7</span></span><span class="unit">stickers per bag</span></div>
+      <div class="r"><span class="r" data-math="35 ÷ 7 = 5"><span class="lhs">35 ÷ <span class="mt">7</span></span><span>=</span><span>5</span></span><span class="unit">magnets per bag</span></div>
+    </div>
+  </div>
+  <!-- short brass return closing Check your method -->
+  <div class="joint" id="ret" style="left:612pt; top:589pt; width:26pt; height:24pt; border-right-width:.9pt; border-bottom-width:.9pt;"></div>
+
+  <!-- ============ Tez, grounded on the bench at the lower right ============ -->
+  <img class="tez" src="assets/img/V-TEZ-P039.jpg" alt="" style="left:640pt; top:424pt; width:232pt; height:232pt;">
+  <div class="qaside" style="left:640pt; top:388pt; width:210pt; height:60pt;">I like “nothing left over”. Especially at dinner.</div>
+  <svg class="qtail" style="left:737pt; top:440pt; width:22pt; height:26pt;" viewBox="0 0 22 26"><path d="M3 0 L17 0 L11 22 Z" fill="#F5F8FA"/><path d="M4.2 7.4 L11 22 L14.6 7.4" fill="none" stroke="#4f5d6b" stroke-width=".7" stroke-linejoin="round"/></svg>
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 096
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE096-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | A final check of your understanding
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE096-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] A final check of your understanding
+Here are four extra questions. This time, tell me why your method works as well as finding the answer. Try them before reading the responses.
+A. Explain a sign. A friend says −4 − (−7) = −11. What has your friend misunderstood? Give the correct working.
+B. Choose a method. Two lights flash every 6 and 10 seconds. Do you use HCF or LCM to find their next shared flash after starting together? Why?
+C. Apply an idea. A square has area 81 cm² and a cube has volume 125 cm³. Find one side of each. Write the units.
+D. Check a claim. A friend says 3² + 4² = 7². Check both sides and explain the mistake.
+[PanelBoundary] END PANEL CH01-PAGE096-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE096-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | A final check of your understanding
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE096-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your understanding
+A. The second minus sign belongs to −7. Subtracting −7 means adding 7, not subtracting 7: −4 − (−7) = −4 + 7 = 3. Check: 3 + (−7) = −4.
+B. Use the LCM, because the waiting time must be a whole number of both 6-second and 10-second intervals. Multiples of 6 are 6, 12, 18, 24, 30; multiples of 10 are 10, 20, 30. The first shared flash is 30 seconds later.
+C. Square side: √81 = 9 cm, since 9 × 9 = 81. Cube side: ∛125 = 5 cm, since 5 × 5 × 5 = 125. Both answers are lengths, so both use cm.
+D. 3² + 4² = 9 + 16 = 25, but 7² = 49. The friend added 3 + 4 before squaring, even though the original calculation asks for two separate squares.
+If one response was difficult, revisit that method and try the question again with the answer covered. You are ready to move on when you can explain the choice, show the working and make a sensible check without copying the solution.
+[PanelBoundary] END PANEL CH01-PAGE096-PANEL02
+[SourceLocator] End of teaching block R01  •  Story resumes below

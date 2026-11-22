@@ -1,0 +1,101 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 004
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Assigned beats of Scene CH01 01E; Assigned beats of Scene CH01 02A
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 01E A job the crew can see
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium across the controller towards the closed street gate, with the single empty car visible at 0.
+[SceneInstruction] Cast and staging across the scene. Navya stands beside the card slots, hands away from START. Vihaan looks from the slots to the numbered strip. Ahana holds the lamp so their hands and the controller are readable. Tara stands behind the children, supervising with her staff; Tez waits on the paving beside Ahana.
+[SceneInstruction] Props and state progression. Movement cards are loose on the controller shelf. The top controls read START, HOLD and CANCEL LAST CHANGE. The last-change window is a small display, not a second lift car. The lower correction panel is still closed.
+[SceneInstruction] Planning requirements. Make the card-to-movement relationship clear. Do not expose the hidden −2 return card or the lower wheels yet. Both narration paragraphs are assigned below to one visual beat and one caption group. A caption-box split is not a second visual.
+[PanelIdentifier] PANEL CH01-PAGE004-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 01E A The crew sees the whole job
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE004-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 01E A job the crew can see | APPLIES TO: CH01-PAGE004-PANEL01; CH01 01E A
+[PanelContextCopy] View. Medium across the controller towards the closed street gate, with the single empty car visible at 0.
+[PanelContextCopy] Cast and staging across the scene. Navya stands beside the card slots, hands away from START. Vihaan looks from the slots to the numbered strip. Ahana holds the lamp so their hands and the controller are readable. Tara stands behind the children, supervising with her staff; Tez waits on the paving beside Ahana.
+[PanelContextCopy] Props and state progression. Movement cards are loose on the controller shelf. The top controls read START, HOLD and CANCEL LAST CHANGE. The last-change window is a small display, not a second lift car. The lower correction panel is still closed.
+[PanelContextCopy] Planning requirements. Make the card-to-movement relationship clear. Do not expose the hidden −2 return card or the lower wheels yet. Both narration paragraphs are assigned below to one visual beat and one caption group. A caption-box split is not a second visual.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 01E A The crew sees the whole job
+[SceneInstruction] Moment and staging. One medium image contains the closed street gate, empty car at 0, numbered-card shelf and slots, with the children in the positions specified under Cast and staging in Scene CH01 01E. Navya studies the cards without touching START, Vihaan follows their relationship to the car, and Tara supervises. Both narration paragraphs below belong to this same visual. Treat them as one caption group; if they need two caption boxes, both remain on this visual. The paragraph break does not request a second panel.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] A small lift car stands behind a brass safety gate at street level. Next to it is a control box with a row of slots. Numbered cards fit into those slots. Each card tells the lift how far to move and in which direction.
+[CaptionCopy] The children can now see their first job. They must send the empty car down to the helper, let it load the supplies and bring it back.
+[PanelBoundary] END PANEL CH01-PAGE004-PANEL01
+# Sequence 02 Reaching the store
+[SourceLocator] Production sequence reference CH01-02. The following location descriptions are retained from V16.
+### Lantern Street Goods-Lift Bay and Controller
+[SceneInstruction] One guarded lift shaft is recessed into the near-left blue wall. Pale street paving is marked 0; the lower store is at −8. A brass safety gate separates the children from the shaft. A blue-and-brass controller stands to the right, lit by one warm wall lamp.
+[SceneInstruction] The top rail takes movement cards and has START, HOLD and CANCEL LAST CHANGE. The last-change window displays an instruction, not another car. The lower hinged panel has four equal gate-catch correction wheels and two red warnings. Their units are not floor levels. The initial row is +2, 0, −1, +3; the fixed specification says total correction −8, shared equally. Reveal the corrected row of four −2 settings only after T1.1C. The lower store has a guarded landing and lamp. There is one car and one supply cart.
+[SceneInstruction] Required views. Street-side medium; separate steep downward view into the same shaft; exact number-strip insert; card slot and cancel window; lower correction-panel close-up. Show one stopped car position per still.
+## Scene CH01 02A Reading the position strip
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Close three-quarter view of the controller and the vertical position strip, anchored by the brass gate and the warm wall lamp. Include the street 0 mark and lower −8 store mark in a separate exact strip insert if the scale cannot be read in this view.
+[SceneInstruction] Cast and staging across the scene. Vihaan traces down the outside of the numbered strip with his index finger. Tara watches his hand and answers him. Ahana holds the lamp at chest height and asks the group how to choose the movements. Navya faces the cards, thinking, with both hands free. Tez sits behind their feet on clear paving.
+[SceneInstruction] Props and state progression. Car empty and stopped at 0; helper and supply cart still below at −8. The strip has equal intervals, positive labels above 0 and negative labels below. The lower wheel panel remains closed.
+[SceneInstruction] Planning requirements. Do not put −5 and −3 into the slots in the question view. No solved route arrow. This scene leads directly into T1.1A.
+[PanelIdentifier] PANEL CH01-PAGE004-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 02A A Vihaan reads the strip
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE004-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02A Reading the position strip | APPLIES TO: CH01-PAGE004-PANEL02; CH01 02A A
+[PanelContextCopy] View. Close three-quarter view of the controller and the vertical position strip, anchored by the brass gate and the warm wall lamp. Include the street 0 mark and lower −8 store mark in a separate exact strip insert if the scale cannot be read in this view.
+[PanelContextCopy] Cast and staging across the scene. Vihaan traces down the outside of the numbered strip with his index finger. Tara watches his hand and answers him. Ahana holds the lamp at chest height and asks the group how to choose the movements. Navya faces the cards, thinking, with both hands free. Tez sits behind their feet on clear paving.
+[PanelContextCopy] Props and state progression. Car empty and stopped at 0; helper and supply cart still below at −8. The strip has equal intervals, positive labels above 0 and negative labels below. The lower wheel panel remains closed.
+[PanelContextCopy] Planning requirements. Do not put −5 and −3 into the slots in the question view. No solved route arrow. This scene leads directly into T1.1A.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02A A Vihaan reads the strip
+[SceneInstruction] Moment and staging. Use the strip-side camera and framing specified under View in Scene CH01 02A. Vihaan’s finger rests at −8 while he speaks to Tara; retain the 0 street mark and negative ticks. Tara looks at his hand, Ahana lights the strip, and Navya stands at the cards. Tez waits behind them. The caption and Vihaan’s line share this visual.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Beside the shaft, a numbered strip shows the lift’s position. Street level is marked 0. Positive numbers are above it. Negative numbers are below. The store is at −8.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth | Source speech attribution: Vihaan says,
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Eight marks below the street.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Vihaan follows the strip with his finger.
+[PanelBoundary] END PANEL CH01-PAGE004-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE004-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 02A B Tara confirms the reference point
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE004-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02A Reading the position strip | APPLIES TO: CH01-PAGE004-PANEL03; CH01 02A B
+[PanelContextCopy] View. Close three-quarter view of the controller and the vertical position strip, anchored by the brass gate and the warm wall lamp. Include the street 0 mark and lower −8 store mark in a separate exact strip insert if the scale cannot be read in this view.
+[PanelContextCopy] Cast and staging across the scene. Vihaan traces down the outside of the numbered strip with his index finger. Tara watches his hand and answers him. Ahana holds the lamp at chest height and asks the group how to choose the movements. Navya faces the cards, thinking, with both hands free. Tez sits behind their feet on clear paving.
+[PanelContextCopy] Props and state progression. Car empty and stopped at 0; helper and supply cart still below at −8. The strip has equal intervals, positive labels above 0 and negative labels below. The lower wheel panel remains closed.
+[PanelContextCopy] Planning requirements. Do not put −5 and −3 into the slots in the question view. No solved route arrow. This scene leads directly into T1.1A.
+[PanelMetadata] SOURCE: Visual beat CH01 02A A Vihaan reads the strip | APPLIES TO: CH01-PAGE004-PANEL03; character positions
+[PanelContextCopy] Moment and staging. Use the strip-side camera and framing specified under View in Scene CH01 02A. Vihaan’s finger rests at −8 while he speaks to Tara; retain the 0 street mark and negative ticks. Tara looks at his hand, Ahana lights the strip, and Navya stands at the cards. Tez waits behind them. The caption and Vihaan’s line share this visual.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02A B Tara confirms the reference point
+[SceneInstruction] Moment and staging. Keep the character positions specified in Visual beat CH01 02A A and the camera and framing specified under View in Scene CH01 02A. Tara turns her eyes from Vihaan’s finger to the street’s 0 mark and opens her free hand towards the paving; her staff remains in her right hand. Her short “Yes” and following explanation are one continuous speaking beat. Keep both speech-bubble text fields in their supplied reading order within this beat. “Tara replies.” is non-printing speaker metadata; it requires no caption, pose change or extra panel.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara replies.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Yes.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The numbers tell us where the lift is compared with this landing.
+[PanelBoundary] END PANEL CH01-PAGE004-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE004-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 02A C Ahana asks how
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE004-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02A Reading the position strip | APPLIES TO: CH01-PAGE004-PANEL04; CH01 02A C
+[PanelContextCopy] View. Close three-quarter view of the controller and the vertical position strip, anchored by the brass gate and the warm wall lamp. Include the street 0 mark and lower −8 store mark in a separate exact strip insert if the scale cannot be read in this view.
+[PanelContextCopy] Cast and staging across the scene. Vihaan traces down the outside of the numbered strip with his index finger. Tara watches his hand and answers him. Ahana holds the lamp at chest height and asks the group how to choose the movements. Navya faces the cards, thinking, with both hands free. Tez sits behind their feet on clear paving.
+[PanelContextCopy] Props and state progression. Car empty and stopped at 0; helper and supply cart still below at −8. The strip has equal intervals, positive labels above 0 and negative labels below. The lower wheel panel remains closed.
+[PanelContextCopy] Planning requirements. Do not put −5 and −3 into the slots in the question view. No solved route arrow. This scene leads directly into T1.1A.
+[PanelMetadata] SOURCE: Visual beat CH01 02A A Vihaan reads the strip | APPLIES TO: CH01-PAGE004-PANEL04; character positions
+[PanelContextCopy] Moment and staging. Use the strip-side camera and framing specified under View in Scene CH01 02A. Vihaan’s finger rests at −8 while he speaks to Tara; retain the 0 street mark and negative ticks. Tara looks at his hand, Ahana lights the strip, and Navya stands at the cards. Tez waits behind them. The caption and Vihaan’s line share this visual.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02A C Ahana asks how
+[SceneInstruction] Moment and staging. Keep the camera specified under View in Scene CH01 02A and the group positions specified in Visual beat CH01 02A A; Ahana turns her face towards the others and opens her free left hand towards the unselected cards, with the lamp steady in her right. Vihaan lowers his pointing hand; Tara and Navya listen. Give Ahana’s question its own speaking image before teaching.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] How can we choose movements that will reach the store?
+[PanelBoundary] END PANEL CH01-PAGE004-PANEL04

@@ -1,0 +1,43 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 047
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 07 The sealed hook cartons
+[SourceLocator] Production sequence reference CH01-07. The following location descriptions are retained from V16.
+### Lantern Street Sealed-Hook Rack, Right End
+[SceneInstruction] A brass rack rises above the right end of the pale workbench against its blue wall. Four sealed cartons sit below movable team cards. The rack’s right brass support and a strip of bench edge remain visible in close-ups.
+[SceneInstruction] The verified carton labels are 348, 355, 414 and 525 HOOKS. The removable cards name teams of 4, 5, 9 and 25 workers; each is used once. Final assignments are 348→4, 355→5, 414→9 and 525→25. The seals remain intact. A dusty card is kept in a paper sleeve as evidence. The first readable V is on the mirror rim, not this rack.
+[SceneInstruction] Required views. Four-carton medium without loose hook counts; close-up of one intact quantity seal and movable card; exact assignment diagram after the lesson; dust under clip insert.
+## Scene CH01 07A Four sealed cartons
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium facing the brass rack at the right end of the bench specified under Setting in Scene CH01 07A, followed by a close seal view. The right brass upright and bench edge anchor both views.
+[SceneInstruction] Cast and staging across the scene. The helper indicates the four cartons. Navya studies the movable team cards and addresses Tara and the others. Tara points to an intact quantity seal. Ahana has picked up the work lamp and holds it so the label and clip can be seen. Vihaan compares the four team sizes. Tez waits beside Ahana; distant crews continue fitting heads.
+[SceneInstruction] Props and state progression. Exactly four sealed cartons labelled 348 HOOKS, 355 HOOKS, 414 HOOKS and 525 HOOKS. Exactly four removable team cards: 4 WORKERS, 5 WORKERS, 9 WORKERS, 25 WORKERS. For this drawable wrong setup, arrange 5 above 348, 4 above 355, 25 above 414 and 9 above 525. All four initial pairings are wrong. The seals stay intact.
+[SceneInstruction] Planning requirements. This initial wrong permutation completes the staging without changing the source quantities. Do not show the final matching, expose loose hooks or reveal a V. The question leads to T1.3; all eleven divisibility tests remain in that teaching block.
+[PanelIdentifier] PANEL CH01-PAGE047-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 07A A The cartons and the wrong cards
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE047-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE047-PANEL01; CH01 07A A
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07A A The cartons and the wrong cards
+[SceneInstruction] Moment and staging. Show the four sealed cartons beneath the four wrongly paired movable cards in the exact initial arrangement specified under Props and state progression in Scene CH01 07A. The helper points to them; Navya studies the card row, Vihaan the quantities. Ahana lights the labels, Tara watches, and Tez stays near Ahana.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper points to four sealed hook cartons at the right end of the bench. The projector heads are ready, but the crews still need hooks to fasten their supports to the arches.
+[CaptionCopy] The carton labels read 348, 355, 414 and 525 HOOKS. Four movable cards name teams of 4, 5, 9 and 25 workers. Each team must receive one whole carton and share its hooks equally. Each team card is to be used once, but someone has moved all four.
+[PanelBoundary] END PANEL CH01-PAGE047-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE047-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 07A B Navya spots the interference
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE047-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE047-PANEL02; CH01 07A B
+[PanelMetadata] SOURCE: Visual beat CH01 07A A The cartons and the wrong cards | APPLIES TO: CH01-PAGE047-PANEL02; character positions and wrong card arrangement
+[PanelContextCopy] Moment and staging. Show the four sealed cartons beneath the four wrongly paired movable cards in the exact initial arrangement specified under Props and state progression in Scene CH01 07A. The helper points to them; Navya studies the card row, Vihaan the quantities. Ahana lights the labels, Tara watches, and Tez stays near Ahana.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07A B Navya spots the interference
+[SceneInstruction] Moment and staging. Retain the rack background specified under Setting in Scene CH01 07A and the character positions specified in Visual beat CH01 07A A. Navya touches only the clean edge of one misplaced card and turns to Tara, brows drawn. She does not swap it yet. The seals and hidden dust remain undisturbed.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Someone has moved these too.
+[PanelBoundary] END PANEL CH01-PAGE047-PANEL02

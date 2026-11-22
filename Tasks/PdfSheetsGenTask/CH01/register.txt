@@ -1,0 +1,553 @@
+[Title] ChandRush Chapter 01
+Location Image Register
+[Subtitle] V10  Location reference images  26 October 2026
+Thirty-two location image descriptions, with camera views, visible equipment states, image titles, filenames and individually specified labels.
+## Master references
+| Reference name | Image identity |
+| Lantern Street master from Entry Court | The approved view from Entry Court, with the near-left goods lift, continuous right-wall bench, left mirror opposite the cube station and distant Food Street shutters. |
+| Old Blue Gate exterior master | The approved exterior pavilion with the full-moon ornament, left-leaf service door, separate equipment exit, left planter and right bench. |
+| Food Street master from Lantern Street | The approved Food Street entrance view with the crooked cart and intact brass bowl beside its nearest wheel. |
+## Spatial layout
+The spatial reference is the existing ChandRush fair map used for Chapter 01. Left and right within Lantern Street are defined from Entry Court looking towards Food Street. The lift is near-left; the continuous bench is right. Facing the bench, timing is left, projector kits centre and the hook rack right. Farther along, the left mirror faces the right cube station; the moonline follows the right paving edge.
+Street level 0 and lower store −8 belong to one lift shaft. Food Street joins Lantern Street through one shared shuttered threshold. At Old Blue Gate, left and right are defined from the Mumbai waiting lane facing the main leaves.
+## Image appearance
+Premium semi-realistic painterly 2.5D graphic-novel illustration matching the supplied masters. ChandRush retains the grandeur of an ancient travelling fair: dimensional indigo timber, warm brass, pale stone, layered canopies and restrained circular celestial ornament. Fixed amber task lamps contrast with cool full-moon light. Restored golden arch light illuminates the existing architecture without changing its materials or proportions.
+# Image index
+| ID | Location and view | Master reference |
+| M01-D01 | Low entrance cart view | Lantern Street |
+| M01-D02 | Bench and secured arch fittings | Lantern Street |
+| M01-D03 | Restored reverse wide | Lantern Street |
+| M01-D04 | Restored approach to closed Food shutters | Lantern Street / Food Street |
+| S01-B01 | Street level lift bay | Lantern Street |
+| S01-D01 | Guarded downward shaft view | Lantern Street |
+| S01-D02 | Controller operating close view | Lantern Street |
+| S01-D03 | Open unequal correction wheels | Lantern Street |
+| S01-D04 | Four equal correction settings | Lantern Street |
+| S01-D05 | Loaded car at street landing | Lantern Street |
+| S02-B01 | Lower landing with waiting cart | Lantern Street |
+| S02-D01 | Open lower loading threshold | Lantern Street |
+| S03-B01 | Timing mechanism at start | Lantern Street |
+| S03-D01 | Shared opening at twelve | Lantern Street |
+| S03-D02 | Bird at the end stop | Lantern Street |
+| S04-B01 | Projector kit preparation bench | Lantern Street |
+| S04-D01 | Exact sample kit overhead | Lantern Street |
+| S04-D02 | Assembled projector on test rail | Lantern Street |
+| S05-B01 | Sealed cartons with mismatched cards | Lantern Street |
+| S05-D01 | Exposed dust at the original card clip | Lantern Street |
+| S06-B01 | Crooked mirror tiles | Lantern Street |
+| S06-D01 | Empty mirror frame and staged tiles | Lantern Street |
+| S06-D02 | Completed nine by nine mirror | Lantern Street |
+| S06-D03 | Low completed mirror viewpoint | Lantern Street |
+| S06-D04 | Illuminated inner rim mark | Lantern Street |
+| S07-B01 | Uneven cube towers | Lantern Street |
+| S07-D01 | Completed four by four by four cube | Lantern Street |
+| S07-D02 | Five readiness lights and raised handle | Lantern Street |
+| S07-D03 | Low moonline and closed crooked cover | Lantern Street |
+| S07-D04 | Open disconnected moonline joint | Lantern Street |
+| M02-D01 | Mumbai waiting lane wide | Old Blue Gate |
+| M03-D01 | Closer obstructed Food Street threshold | Food Street / Lantern Street |
+# 01  Low entrance cart view
+Location M01-D01  |  Lantern Street Master from Entry Court
+Filename CH01_M01_D01_Lantern_Street_Master_from_Entry_Court_Low_entrance_cart_view.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET MASTER FROM ENTRY COURT
+LOW ENTRANCE CART VIEW
+Camera and framing 4:3 landscape low three-quarter view just inside the Entry Court end of Lantern Street, looking along the near-left stall wall. The empty cart and its projecting handle occupy the foreground; the lift’s brass gate, blue wall and one tall arch remain visible behind.
+Location and construction Looking from Entry Court towards Food Street, the goods lift is near-left and one continuous cream-topped bench follows the right blue timber wall. Along that wall from Entry Court to Food Street are the hook rack, projector-kit area and timing apparatus. Farther along, the low square mirror is on the left wall opposite the right-side cube plinth. A silver moonline follows the right paving edge. Tall indigo arches, brass fittings, layered canopies, pale irregular paving and the street’s curve retain the Lantern Street master’s design. An ordinary empty timber street cart is parked lengthways against the near-left stall wall beside the lift bay, outside the circulation lane. Its handle extends towards the edge of a fixed task-lamp pool. The cart has its own small wheelbase and open carrying bed.
+Visible arrangement The cart is empty and stationary, with all wheels on the paving. Its handle is clear for a hand to reach. The lift car is empty at street level 0 behind the closed upper gate. The lane beyond is clear; the main arch is unlit and the visible moonline is metallic rather than glowing.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The handle, wheel contacts and clear standing patches remain visible.
+| Exact label | Callout position and leader target |
+| CART HANDLE REACH | Lower-left callout to the free end of the parked cart’s handle. |
+| CHILD STANDING POSITION | Lower-centre callout to clear paving beside the handle, outside the wheel footprint. |
+| GROUP WAITING AREA | Right-margin callout to the clear lane beside the lift bay. |
+# 02  Bench and secured arch fittings
+Location M01-D02  |  Lantern Street Master from Entry Court
+Filename CH01_M01_D02_Lantern_Street_Master_from_Entry_Court_Bench_and_secured_arch_fittings.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET MASTER FROM ENTRY COURT
+BENCH AND SECURED ARCH FITTINGS
+Camera and framing 4:3 landscape medium-wide view diagonally from the right-wall bench towards its nearest overhead lantern arch. The bench edge and blue wall anchor the foreground; one complete projector head and its attachment points are large enough to read on the arch above.
+Location and construction Looking from Entry Court towards Food Street, the goods lift is near-left and one continuous cream-topped bench follows the right blue timber wall. Along that wall from Entry Court to Food Street are the hook rack, projector-kit area and timing apparatus. Farther along, the low square mirror is on the left wall opposite the right-side cube plinth. A silver moonline follows the right paving edge. Tall indigo arches, brass fittings, layered canopies, pale irregular paving and the street’s curve retain the Lantern Street master’s design. This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. The installed projector head has three blue glass discs in three brass mounting rings, arranged as a compact horizontal head. Two additional complete brass support rings secure its side supports to the arch brackets. Its fixed fasteners and support hooks meet the arch timber directly.
+Visible arrangement The head and arch remain unlit, with all supports secured. The bench’s kit boxes and four hook cartons are absent. Empty stock-box housings, the permanent test rail and rack clips remain; the dusty evidence card is absent. The timing bird is at its rail’s end stop with its head bowed and start card 12. The mirror remains crooked and the cube remains in uneven towers. Any visible readiness panel has LIFT, RHYTHM and SUPPLIES white, with MIRROR and CUBE dark.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The three lens mounts and two support rings remain unobscured.
+| Exact label | Callout position and leader target |
+| FITTING INSPECTION POSITION | Lower-centre callout to clear paving beneath and beside the installed arch fitting. |
+| BENCH HANDOVER POINT | Right-margin callout to the clear front bench edge below the arch. |
+| SUPPORT CHECK POINT | Upper-margin callout ending beside the secured arch bracket and fastening surface. |
+# 03  Restored reverse wide
+Location M01-D03  |  Lantern Street Master from Entry Court
+Filename CH01_M01_D03_Lantern_Street_Master_from_Entry_Court_Restored_reverse_wide.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET MASTER FROM ENTRY COURT
+RESTORED REVERSE WIDE
+Camera and framing 4:3 landscape wide view from just beyond the mirror-and-cube pair towards Entry Court. The physical-right wall bench and cube station appear screen-left; the mirror side appears screen-right. The camera is a genuine reverse view along the master’s curved lane, with the Entry Court connection in the distance.
+Location and construction Looking from Entry Court towards Food Street, the goods lift is near-left and one continuous cream-topped bench follows the right blue timber wall. Along that wall from Entry Court to Food Street are the hook rack, projector-kit area and timing apparatus. Farther along, the low square mirror is on the left wall opposite the right-side cube plinth. A silver moonline follows the right paving edge. Tall indigo arches, brass fittings, layered canopies, pale irregular paving and the street’s curve retain the Lantern Street master’s design. The square mirror and cube plinth occupy opposite foreground sides. The bench continues along screen-left in the order timing, projector-kit area, hook rack towards the distant entrance. The single lift bay lies on the opposite wall near that entrance. The moonline follows the screen-left paving edge in this reverse view.
+Visible arrangement Golden arch light illuminates the existing blue-and-brass architecture. The moonline glows continuously across its closed, flush joint cover. The mirror is complete with 9×9 flat square tiles, reflecting only the scenery and sky visible from this reverse angle. The cube is a solid 4×4×4 block beneath its lowered fastened frame. All five readiness lights are white and the handle is down. The timing bird is bowed at the end stop. Completed kit boxes, all four hook cartons and the evidence card are absent; permanent bench fittings remain.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Golden arch light and the illuminated moonline warm the existing street, while fixed task lamps and cool full-moon edges remain distinct.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. Callouts leave the continuous moonline, open lane and completed mirror and cube visible.
+| Exact label | Callout position and leader target |
+| GROUP STANDING AREA | Lower-centre callout to the open paving between the mirror and cube. |
+| WALL CONVERSATION POSITION | Left-margin callout to clear paving beside the blue bench wall. |
+| RETURN WALKING ROUTE | Right-margin callout to the lane leading back towards Entry Court. |
+# 04  Restored approach to closed Food shutters
+Location M01-D04  |  Lantern Street Master from Entry Court
+Filename CH01_M01_D04_Lantern_Street_Master_from_Entry_Court_Restored_approach_to_closed_Food_shutters.png
+Master reference Lantern Street master from Entry Court; Food Street master from Lantern Street
+Image title LANTERN STREET MASTER FROM ENTRY COURT
+RESTORED APPROACH TO CLOSED FOOD SHUTTERS
+Camera and framing 4:3 landscape street-level medium-wide view from the mirror-and-cube area towards Food Street’s terminal shutters. The bend, closing shutter leaves, brass-edged jambs and paving before the threshold fill the view. The mirror and cube themselves remain behind the camera.
+Location and construction The Lantern Street master supplies the lane curve, indigo architecture, arch spacing, pale paving and right-edge moonline. The Food Street master supplies the matching inner face of this same doorway: its tall blue timber posts, brass edging, shutter track and threshold width. The joining paving is level, with continuous seams across the sill.
+Visible arrangement The Food Street shutters are fully closed across the opening. Their blue-and-brass construction fits the existing track and jambs. Golden Lantern Street arches and the continuous illuminated moonline lead towards the closed threshold. A broad clear paving patch remains before the shutters, with space beside the jamb for a closer conversation view.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Golden arch light and the illuminated moonline warm the existing street, while fixed task lamps and cool full-moon edges remain distinct.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The shutter join, brass jamb and threshold paving remain clear of annotations.
+| Exact label | Callout position and leader target |
+| SHUTTER APPROACH | Lower-centre callout to the clear route towards the closed threshold. |
+| GROUP STANDING AREA | Lower-left callout to the open paving a short distance before the shutters. |
+| THRESHOLD LISTENING POSITION | Right-margin callout to the paving beside the near shutter jamb. |
+# 05  Street level lift bay
+Location S01-B01  |  Lantern Street Goods Lift Bay and Controller
+Filename CH01_S01_B01_Lantern_Street_Goods_Lift_Bay_and_Controller_Street_level_lift_bay.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET GOODS LIFT BAY AND CONTROLLER
+STREET LEVEL LIFT BAY
+Camera and framing 4:3 landscape street-side three-quarter view of the near-left lift bay. The full street gate, car floor, right-hand controller and fixed lamp are visible. A clear foreground strip shows the paving outside the gate; the car and shaft are seen through its brass ribs.
+Location and construction The goods lift occupies the near-left recess of the Lantern Street master, with one guarded vertical shaft and one broad flat car. The car fits one supply cart with space beside it for a broad helper, and its floor aligns flush at street level 0 or lower-store level −8. A brass street gate protects the upper opening. The lower store is a timber landing recessed beyond the shaft’s far side at −8, with its own sliding brass safety gate and fixed warm lamp. The indigo timber uprights, brass gate ribs, car rails and level spacing form one continuous structure. The narrow blue-and-brass controller is immediately right of the upper shaft opening beneath the master’s fixed warm lamp. Its vertical position strip has equal unit spacing, 0 at street floor, negative values down to −8 and positive values continuing above 0. The upper face has a movement-card rail, distinct card slots, START, HOLD and CANCEL LAST CHANGE controls, a one-value last-change window and a small card shelf. A lower hinged cover conceals four small correction thumbwheels in one horizontal row. Two separate red warning lamps sit immediately above this cover. The upper safety gate slides laterally clear of the car opening when open. The controller shelf is reachable from the street side without entering the shaft.
+Visible arrangement One empty car is stopped flush at street level 0 behind the closed safety gate. Its floor and paving meet at the same height. The lower catch cover is closed, concealing all four wheels. Both warning lamps are red. The movement-card rail and shelf are clear and the last-change window is blank. The car’s wheel restraints are visible on its floor. The controller strip’s 0 aligns with the street threshold.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The flush 0 threshold, closed gate and controls remain visible.
+| Exact label | Callout position and leader target |
+| CONTROLLER OPERATING POSITION | Lower-right callout to safe paving immediately in front of the controller. |
+| GATE WAITING AREA | Lower-left callout to the paving outside the closed safety gate. |
+| CARD PLACEMENT POINT | Right-margin callout to the controller’s small reachable shelf. |
+# 06  Guarded downward shaft view
+Location S01-D01  |  Lantern Street Goods Lift Bay and Controller
+Filename CH01_S01_D01_Lantern_Street_Goods_Lift_Bay_and_Controller_Guarded_downward_shaft_view.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET GOODS LIFT BAY AND CONTROLLER
+GUARDED DOWNWARD SHAFT VIEW
+Camera and framing 4:3 landscape steep oblique downward view from the street side, behind the closed upper safety gate. Brass guard ribs cross the foreground and a narrow controller edge is visible at right. The angle reveals the single car at −5 and the recessed far-side landing at −8 beyond it.
+Location and construction The goods lift occupies the near-left recess of the Lantern Street master, with one guarded vertical shaft and one broad flat car. The car fits one supply cart with space beside it for a broad helper, and its floor aligns flush at street level 0 or lower-store level −8. A brass street gate protects the upper opening. The lower store is a timber landing recessed beyond the shaft’s far side at −8, with its own sliding brass safety gate and fixed warm lamp. The indigo timber uprights, brass gate ribs, car rails and level spacing form one continuous structure. The controller is fixed immediately right of the upper shaft opening beneath the upper wall lamp. The supply cart is a low four-wheeled timber platform with brass corner straps, a rear pushing handle and a compact secured load of closed supply boxes. One upper box lid bears a painted blue-and-gold lamp picture. The load stays inside the cart footprint; wheel restraints on the lift car secure it without blocking the standing space beside it. The lower landing extends beyond the shaft’s far face, leaving its waiting-cart space visible past the car’s far edge. Equal-spaced level marks on the shaft upright show the separation between street 0, car level −5 and lower landing −8.
+Visible arrangement The one car is empty and stopped at −5. The loaded supply cart waits entirely on the −8 landing outside its closed lower gate. Its wheels rest on timber, with the waiting space beside it clear. The upper street gate is also closed. The lower lamp lights the −8 marking and landing edge; the shaft contains no other car.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The −5 and −8 marks, single car outline and lower cart’s landing contact remain unobscured.
+| Exact label | Callout position and leader target |
+| LOOK-DOWN POSITION | Lower-margin callout to the protected street-side viewing position behind the upper guard. |
+| LOWER CART WAITING POINT | Side callout to the supported cart position on the −8 landing. |
+| LOWER HELPER WAITING AREA | Opposite-side callout to the clear lower landing space beside the cart. |
+# 07  Controller operating close view
+Location S01-D02  |  Lantern Street Goods Lift Bay and Controller
+Filename CH01_S01_D02_Lantern_Street_Goods_Lift_Bay_and_Controller_Controller_operating_close_view.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET GOODS LIFT BAY AND CONTROLLER
+CONTROLLER OPERATING CLOSE VIEW
+Camera and framing 4:3 landscape three-quarter close view of the controller immediately right of the lift shaft. The equal-spaced position strip, upper card rail, controls, small shelf and closed lower cover fill the view. The blue bay post and a sliver of the closed street guard remain at left; the car lies outside the crop.
+Location and construction The controller belongs to the guarded goods-lift recess in the master’s near-left street wall. The narrow blue-and-brass controller is immediately right of the upper shaft opening beneath the master’s fixed warm lamp. Its vertical position strip has equal unit spacing, 0 at street floor, negative values down to −8 and positive values continuing above 0. The upper face has a movement-card rail, distinct card slots, START, HOLD and CANCEL LAST CHANGE controls, a one-value last-change window and a small card shelf. A lower hinged cover conceals four small correction thumbwheels in one horizontal row. Two separate red warning lamps sit immediately above this cover. The rail and its slots occupy the upper face above the three separate operating controls. The last-change window sits beside the rail. A narrow shelf below the operating controls has room for one isolated loose card, clear of all slots.
+Visible arrangement One card reading −2 is exposed in its rail slot, with its upper edge accessible for removal. The last-change window reads −2 and HOLD is engaged. The small shelf is empty. The lower catch cover remains closed and both red warning lamps remain on. The position strip is legible, including the street 0 and lower −8 values, with positive unit intervals extending upward.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The minus signs, card face, last-change window and each control inscription remain clear.
+| Exact label | Callout position and leader target |
+| CONTROL HAND POSITION | Lower-margin callout to the reachable START, HOLD and CANCEL LAST CHANGE control area. |
+| CARD REMOVAL POINT | Upper-right callout to the exposed top edge of the −2 card. |
+| REMOVED CARD REST | Right-margin callout to the empty shelf patch separate from the card slots. |
+# 08  Open unequal correction wheels
+Location S01-D03  |  Lantern Street Goods Lift Bay and Controller
+Filename CH01_S01_D03_Lantern_Street_Goods_Lift_Bay_and_Controller_Open_unequal_correction_wheels.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET GOODS LIFT BAY AND CONTROLLER
+OPEN UNEQUAL CORRECTION WHEELS
+Camera and framing 4:3 landscape close three-quarter view of the controller’s lower catch compartment. The open hinged cover, all four thumbwheels, fixed specification plate and two warning lamps fit inside the frame. The blue bay post and a small brass street-gate edge anchor the left side. The upper card rail and last-change window lie outside this crop.
+Location and construction The blue-and-brass controller is fixed immediately right of the guarded lift recess in the near-left street wall, beneath a fixed warm lamp. Its original narrow housing, lower compartment and brass edges retain the master’s appearance. The lower cover swings outward and down on its original hinges. Four equal small thumbwheels sit side by side inside the compartment, with one readable setting window on each. The fixed brass specification plate below them reads on two lines: TOTAL CORRECTION −8 / FOUR EQUAL SETTINGS. The two warning lamps stay above the open cover.
+Visible arrangement The cover is fully open on its attached hinges. The four setting windows read, left to right, +2, 0, −1, +3. Both warning lamps glow red. The plate remains fixed and readable. The street gate is closed; the single loaded car remains at street 0 beyond the cropped gate edge. The wheel rims and the cover’s outer edge are reachable from the street-side paving.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. All four signed values, both red lamps and the two-line specification plate remain visible.
+| Exact label | Callout position and leader target |
+| WHEEL ADJUSTMENT POINT | Right-margin callout with short leaders beside the four accessible thumbwheel rims. |
+| COVER SUPPORT EDGE | Lower-margin callout to the outside edge of the open hinged cover. |
+# 09  Four equal correction settings
+Location S01-D04  |  Lantern Street Goods Lift Bay and Controller
+Filename CH01_S01_D04_Lantern_Street_Goods_Lift_Bay_and_Controller_Four_equal_correction_settings.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET GOODS LIFT BAY AND CONTROLLER
+FOUR EQUAL CORRECTION SETTINGS
+Camera and framing 4:3 landscape close three-quarter view of the controller’s lower catch compartment. The open hinged cover, all four thumbwheels, fixed specification plate and two warning lamps fit inside the frame. The blue bay post and a small brass street-gate edge anchor the left side. The upper card rail and last-change window lie outside this crop.
+Location and construction The blue-and-brass controller is fixed immediately right of the guarded lift recess in the near-left street wall, beneath a fixed warm lamp. Its original narrow housing, lower compartment and brass edges retain the master’s appearance. The lower cover swings outward and down on its original hinges. Four equal small thumbwheels sit side by side inside the compartment, with one readable setting window on each. The fixed brass specification plate below them reads on two lines: TOTAL CORRECTION −8 / FOUR EQUAL SETTINGS. The two warning lamps stay above the open cover.
+Visible arrangement The cover is fully open on its attached hinges. All four setting windows read −2, in one left-to-right row. Both warning lamps still glow red. The fixed plate reads TOTAL CORRECTION −8 / FOUR EQUAL SETTINGS. The street gate remains closed and the single loaded car remains at street 0 beyond the cropped gate edge. The control housing and all wheel positions retain the proportions of the master’s controller.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. The four −2 settings, red lamps, hinges and specification plate remain unobscured.
+| Exact label | Callout position and leader target |
+| WHEEL CHECK POSITION | Right-margin callout to the accessible wheel rims, with the four −2 windows clear. |
+| COVER CLOSING POINT | Lower-margin callout to the free outer edge of the open hinged cover. |
+# 10  Loaded car at street landing
+Location S01-D05  |  Lantern Street Goods Lift Bay and Controller
+Filename CH01_S01_D05_Lantern_Street_Goods_Lift_Bay_and_Controller_Loaded_car_at_street_landing.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET GOODS LIFT BAY AND CONTROLLER
+LOADED CAR AT STREET LANDING
+Camera and framing 4:3 landscape low three-quarter view from the paving outside the street safety gate. The car floor and street threshold dominate the lower frame; the complete loaded cart fits behind the closed gate. The right controller side and readable 0 mark remain visible.
+Location and construction The goods lift occupies the near-left recess of the Lantern Street master, with one guarded vertical shaft and one broad flat car. The car fits one supply cart with space beside it for a broad helper, and its floor aligns flush at street level 0 or lower-store level −8. A brass street gate protects the upper opening. The lower store is a timber landing recessed beyond the shaft’s far side at −8, with its own sliding brass safety gate and fixed warm lamp. The indigo timber uprights, brass gate ribs, car rails and level spacing form one continuous structure. The supply cart is a low four-wheeled timber platform with brass corner straps, a rear pushing handle and a compact secured load of closed supply boxes. One upper box lid bears a painted blue-and-gold lamp picture. The load stays inside the cart footprint; wheel restraints on the lift car secure it without blocking the standing space beside it. The blue-and-brass controller is immediately right of the shaft, beneath a fixed warm lamp, with a vertical position strip, a lower hinged catch cover and two red warning lamps above that cover. The upper opening has enough clearance for the complete cart to roll out without lifting a wheel over a step. A clear paved receiving area extends from the gate into Lantern Street.
+Visible arrangement The single car is stopped exactly at 0 with its floor flush to the paving. The supply cart is entirely inside the car, secured by its wheel restraints, with clear standing room beside the load. The street safety gate is closed. The controller’s lower catch cover is closed and both warning lamps are red. The painted lamp picture remains on the upper supply-box lid; all boxes are closed and secured.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The level threshold, 0 mark, cart wheel restraints and gate latch remain unobscured.
+| Exact label | Callout position and leader target |
+| UNLOADING RECEIVING AREA | Lower-left callout to the clear paving directly outside the closed gate. |
+| GATE RELEASE REACH | Right-margin callout to the street-side safety-gate latch. |
+| CART HANDLE REACH | Side callout to the cart’s pushing handle inside the car, leaving its restraints visible. |
+# 11  Lower landing with waiting cart
+Location S02-B01  |  Lower Store of the Lantern Street Goods Lift
+Filename CH01_S02_B01_Lower_Store_of_the_Lantern_Street_Goods_Lift_Lower_landing_with_waiting_cart.png
+Master reference Lantern Street master from Entry Court
+Image title LOWER STORE OF THE LANTERN STREET GOODS LIFT
+LOWER LANDING WITH WAITING CART
+Camera and framing 4:3 landscape medium three-quarter view from the lower store’s timber landing towards the shaft. The lower gate, −8 plate, fixed lamp, waiting cart and entire level rolling path fit inside the frame. The camera shows the landing edge and the shaft opening beyond it.
+Location and construction The goods lift occupies the near-left recess of the Lantern Street master, with one guarded vertical shaft and one broad flat car. The car fits one supply cart with space beside it for a broad helper, and its floor aligns flush at street level 0 or lower-store level −8. A brass street gate protects the upper opening. The lower store is a timber landing recessed beyond the shaft’s far side at −8, with its own sliding brass safety gate and fixed warm lamp. The indigo timber uprights, brass gate ribs, car rails and level spacing form one continuous structure. The supply cart is a low four-wheeled timber platform with brass corner straps, a rear pushing handle and a compact secured load of closed supply boxes. One upper box lid bears a painted blue-and-gold lamp picture. The load stays inside the cart footprint; wheel restraints on the lift car secure it without blocking the standing space beside it. Viewed from the lower landing towards the shaft, the waiting cart stands on the left and a clear helper position lies on the right. The lower gate slides clear of the car opening; its latch is reachable from the landing. A fixed warm lamp beside the gate lights the timber edge and the −8 plate. The upper street opening is above and outside this lower camera framing.
+Visible arrangement The loaded cart is wholly on the timber landing, with every wheel supported and its handle accessible. The lower gate is closed. The car remains at street 0 above, outside this image; the shaft space at −8 beyond the lower guard is empty. The helper’s waiting patch and the path from cart to gate are clear. The lamp illuminates the −8 plate and brass gate ribs.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. The fixed lower-store task lamp gives a warm readable pool on blue timber, brass and the landing; the guarded shaft retains darker depth.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The −8 plate, closed guard, supported wheels and empty shaft opening remain clear.
+| Exact label | Callout position and leader target |
+| CART LOADING POSITION | Lower-left callout to the supported cart position before the closed gate. |
+| HELPER WAITING AREA | Lower-right callout to the clear landing patch beside the cart. |
+| LOWER GATE REACH | Right-margin callout to the landing-side latch. |
+# 12  Open lower loading threshold
+Location S02-D01  |  Lower Store of the Lantern Street Goods Lift
+Filename CH01_S02_D01_Lower_Store_of_the_Lantern_Street_Goods_Lift_Open_lower_loading_threshold.png
+Master reference Lantern Street master from Entry Court
+Image title LOWER STORE OF THE LANTERN STREET GOODS LIFT
+OPEN LOWER LOADING THRESHOLD
+Camera and framing 4:3 landscape medium three-quarter view from the lower store’s timber landing towards the shaft. The lower gate, −8 plate, fixed lamp, waiting cart and entire level rolling path fit inside the frame. The camera shows the landing edge and the shaft opening beyond it.
+Location and construction The goods lift occupies the near-left recess of the Lantern Street master, with one guarded vertical shaft and one broad flat car. The car fits one supply cart with space beside it for a broad helper, and its floor aligns flush at street level 0 or lower-store level −8. A brass street gate protects the upper opening. The lower store is a timber landing recessed beyond the shaft’s far side at −8, with its own sliding brass safety gate and fixed warm lamp. The indigo timber uprights, brass gate ribs, car rails and level spacing form one continuous structure. The supply cart is a low four-wheeled timber platform with brass corner straps, a rear pushing handle and a compact secured load of closed supply boxes. One upper box lid bears a painted blue-and-gold lamp picture. The load stays inside the cart footprint; wheel restraints on the lift car secure it without blocking the standing space beside it. Viewed from the lower landing towards the shaft, the waiting cart stands on the left and a clear helper position lies on the right. The lower gate slides clear of the car opening; its latch is reachable from the landing. A fixed warm lamp beside the gate lights the timber edge and the −8 plate. The upper street opening is above and outside this lower camera framing.
+Visible arrangement The single empty car is stopped at −8, with its floor exactly level with the timber landing. The lower gate is slid fully open and the loaded cart still waits wholly on the landing to the left. Its wheels have not crossed the threshold. A clear straight rolling path leads into the car, whose restraints are ready for the cart. Space beside the cart and inside the car remains accessible.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. The fixed lower-store task lamp gives a warm readable pool on blue timber, brass and the landing; the guarded shaft retains darker depth.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The flush −8 threshold, open gate and full cart footprint on the landing remain visible.
+| Exact label | Callout position and leader target |
+| CART PUSHING POSITION | Lower-left callout to the clear landing directly behind the cart handle. |
+| LEVEL LOADING ROUTE | Lower-centre callout to the flush threshold and clear path into the car. |
+| GATE CLOSING REACH | Right-margin callout to the open lower gate’s accessible pull edge. |
+# 13  Timing mechanism at start
+Location S03-B01  |  Lantern Street Timing Bench Left End
+Filename CH01_S03_B01_Lantern_Street_Timing_Bench_Left_End_Timing_mechanism_at_start.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET TIMING BENCH LEFT END
+TIMING MECHANISM AT START
+Camera and framing 4:3 landscape front three-quarter view from the lane onto the timing end of the right-wall bench. The whole bird rail, both catches and lamps, beat strip, card slot and counter are visible. The cream bench edge crosses the foreground and a small portion of the adjoining projector-kit area continues at right.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. One carved bird is fixed to one short sliding platform on a straight rail. The rail runs left to right along the bench, from a marked start to a fixed end stop. The bird has a visible hinged neck joint for its bow. A blue catch and its lamp are on the device’s left; a gold catch and its lamp are on the right. Either lowered catch can hold the same platform at the start. A numbered beat strip, start-card slot and beat counter belong to this single mechanism. Physical cycle plates read 4 at the blue catch and 6 at the gold catch. The rail and catch brackets are fixed to the worktop. A clear handling strip lies in front of the card slot; the platform’s complete travel path stays free.
+Visible arrangement One bird stands upright on the platform at the starting mark. Both catches are down and both catch lamps are off. The start card reads 6. The cycle plates read blue 4 and gold 6; the counter is at rest with a blank display. The beat strip has unfilled writing spaces. The adjoining kit stock boxes remain closed and the nearby arch stays dark.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The bird, both lowered catches, cycle values and 6 card remain unobscured.
+| Exact label | Callout position and leader target |
+| START CARD REACH | Lower-left callout to the accessible start-card slot. |
+| COUNTER WORKING POSITION | Lower-centre callout to the cool front edge opposite the counter. |
+| BIRD OBSERVATION POSITION | Lower-right callout to clear paving in front of the rail, outside the platform travel path. |
+# 14  Shared opening at twelve
+Location S03-D01  |  Lantern Street Timing Bench Left End
+Filename CH01_S03_D01_Lantern_Street_Timing_Bench_Left_End_Shared_opening_at_twelve.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET TIMING BENCH LEFT END
+SHARED OPENING AT TWELVE
+Camera and framing 4:3 landscape close three-quarter view from the lane, facing the timing end of the right-wall bench. The complete short rail from start to end stop, one bird platform, both catches and lamps, start-card slot and beat counter fit in the frame. The cream bench lip and indigo wall joint remain visible.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. One carved bird is fixed to one short sliding platform on a straight rail. The rail runs left to right along the bench, from a marked start to a fixed end stop. The bird has a visible hinged neck joint for its bow. A blue catch and its lamp are on the device’s left; a gold catch and its lamp are on the right. Either lowered catch can hold the same platform at the start. A numbered beat strip, start-card slot and beat counter belong to this single mechanism. Physical cycle plates read 4 at the blue catch and 6 at the gold catch.
+Visible arrangement The beat counter reads 12 and the start card reads 12. Both catches are raised clear of the platform and both catch lamps are on. The single platform and its upright bird are still at the starting mark. The physical cycle plates retain 4 at the blue catch and 6 at the gold catch. The full rail to the end stop is clear, with the fixed catch brackets unchanged.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. Both raised catches, their lamps, the two 12 displays and the bird at the start remain visible.
+| Exact label | Callout position and leader target |
+| START CARD CHECK | Lower-left callout to the accessible edge of the 12 start card. |
+| SHARED OPENING CHECK | Upper-margin callout with short leaders beside the two raised catch tips. |
+| BIRD OBSERVATION POSITION | Lower-right callout to the clear front working edge outside the rail path. |
+# 15  Bird at the end stop
+Location S03-D02  |  Lantern Street Timing Bench Left End
+Filename CH01_S03_D02_Lantern_Street_Timing_Bench_Left_End_Bird_at_the_end_stop.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET TIMING BENCH LEFT END
+BIRD AT THE END STOP
+Camera and framing 4:3 landscape close three-quarter view from the lane, facing the timing end of the right-wall bench. The complete short rail from start to end stop, one bird platform, both catches and lamps, start-card slot and beat counter fit in the frame. The cream bench lip and indigo wall joint remain visible.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. One carved bird is fixed to one short sliding platform on a straight rail. The rail runs left to right along the bench, from a marked start to a fixed end stop. The bird has a visible hinged neck joint for its bow. A blue catch and its lamp are on the device’s left; a gold catch and its lamp are on the right. Either lowered catch can hold the same platform at the start. A numbered beat strip, start-card slot and beat counter belong to this single mechanism. Physical cycle plates read 4 at the blue catch and 6 at the gold catch.
+Visible arrangement The single platform rests at the fixed end stop on the right of the rail. Its one carved bird has bowed forward at the visible neck hinge. The starting position is empty. Both catches remain raised, both catch lamps are on, and the counter and start card read 12. The cycle plates retain blue 4 and gold 6. The rail length, start mark and end-stop bracket match the permanent construction.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. The single bird and platform, empty start position and end-stop contact remain unobscured.
+| Exact label | Callout position and leader target |
+| END STOP INSPECTION | Right-margin callout to the rail beside the stopped platform, leaving its contact with the stop clear. |
+| BIRD OBSERVATION POSITION | Lower-margin callout to the clear front working edge opposite the bowed bird. |
+# 16  Projector kit preparation bench
+Location S04-B01  |  Lantern Street Projector Kit Bench Centre
+Filename CH01_S04_B01_Lantern_Street_Projector_Kit_Bench_Centre_Projector_kit_preparation_bench.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET PROJECTOR KIT BENCH CENTRE
+PROJECTOR KIT PREPARATION BENCH
+Camera and framing 4:3 landscape medium front three-quarter view of the centre of the continuous right-wall bench. Both stock boxes, the blank sample board, one open padded kit box and short wall-mounted test rail are visible. The timing-end fittings continue at frame-left and the hook rack begins at frame-right.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. Two openable indigo-and-brass stock boxes stand against the wall: 45 BLUE GLASS LENSES on the bench-facing left and 75 BRASS RINGS on the right. The lenses are equal thick polished blue glass discs; the rings are complete brass circles. A removable flat sample board and one padded kit box fit in the clear front working area. A short test rail is fixed to the blue wall above the worktop. The stock boxes sit at the rear of the slab and open without blocking the test rail. The sample board rests flat at the front-left and the open padded kit box at the front-right, leaving a clear strip for hands along the near edge.
+Visible arrangement Both stock boxes are open, with their supplies retained inside. Their front inscriptions read 45 BLUE GLASS LENSES and 75 BRASS RINGS. The sample board is blank, the front kit box is empty and the test rail carries no assembled head. The adjacent timing bird is bowed at its end stop with start card 12. Any visible hook cartons remain sealed with their original wrong worker-card pairings; the hook work area remains separate.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 4 callouts below, with small dark-indigo text on ivory and fine short leader lines. Both stock inscriptions, the empty box and blank sample board remain visible.
+| Exact label | Callout position and leader target |
+| LENS STOCK REACH | Upper-left callout to the accessible rim of the lens stock box. |
+| RING STOCK REACH | Upper-right callout to the accessible rim of the ring stock box. |
+| SAMPLE ASSEMBLY POSITION | Lower-left callout to the clear slab beside the blank sample board. |
+| KIT PACKING POSITION | Lower-right callout to the front edge beside the empty padded kit box. |
+# 17  Exact sample kit overhead
+Location S04-D01  |  Lantern Street Projector Kit Bench Centre
+Filename CH01_S04_D01_Lantern_Street_Projector_Kit_Bench_Centre_Exact_sample_kit_overhead.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET PROJECTOR KIT BENCH CENTRE
+EXACT SAMPLE KIT OVERHEAD
+Camera and framing 4:3 landscape near-overhead view of one open padded sample-kit box on the centre bench. Its whole interior and all eight loose parts are visible. A strip of cream bench edge and the lower corners of the two stock-box labels anchor the top and bottom of the view.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. At the rear of this centre section, the left stock box reads 45 BLUE GLASS LENSES and the right box reads 75 BRASS RINGS; their lower label corners enter the crop. A removable sample board lies beside the single open padded kit box at the front. The sample box has a shallow padded interior with separate recesses for glass and brass. Three lens recesses form a row at the left; five ring recesses occupy the right, arranged as three above and two below. The lid is hinged behind the box and lies open, clear of the contents.
+Visible arrangement Exactly three equal blue glass lenses and exactly five complete brass rings rest in their respective padded recesses. None overlaps another part. The lenses are unmounted; all five rings are separate from them. The sample board beside the box is blank. Other stock remains inside the rear stock boxes rather than forming an additional loose sample on the slab.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. All three lenses, five ring openings and the single kit-box outline remain fully visible.
+| Exact label | Callout position and leader target |
+| SAMPLE PART PICK-UP | Left-margin callout to the accessible padded-box rim beside the three lenses. |
+| RING HANDLING POINT | Right-margin callout to the box rim beside the five ring recesses. |
+# 18  Assembled projector on test rail
+Location S04-D02  |  Lantern Street Projector Kit Bench Centre
+Filename CH01_S04_D02_Lantern_Street_Projector_Kit_Bench_Centre_Assembled_projector_on_test_rail.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET PROJECTOR KIT BENCH CENTRE
+ASSEMBLED PROJECTOR ON TEST RAIL
+Camera and framing 4:3 landscape medium-close three-quarter view of the short test rail above the centre bench. One assembled projector head and all five functional rings are visible. The blue wall joint, cream worktop edge and labelled stock-box corners remain as anchors.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. Two openable indigo-and-brass stock boxes stand against the wall: 45 BLUE GLASS LENSES on the bench-facing left and 75 BRASS RINGS on the right. The lenses are equal thick polished blue glass discs; the rings are complete brass circles. A removable flat sample board and one padded kit box fit in the clear front working area. A short test rail is fixed to the blue wall above the worktop. The projector is a compact horizontal head with three blue glass discs side by side, each secured in one complete brass mounting ring. Two additional complete brass support rings form the side collars attaching the head’s supports to the short test rail. These five rings are the complete ring inventory of this head.
+Visible arrangement One assembled head rests securely on the test rail, unlit. Its three mounted lenses, three front mounting rings and two side support rings are distinguishable. The sample board and sample box beneath are empty; there is no second loose kit beside the assembled head. Stock remains in the two rear boxes. The adjoining timing apparatus, where it reaches the frame, has its bird bowed at the end stop and start card 12.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. The three lenses, five complete rings and rail attachment contacts remain readable.
+| Exact label | Callout position and leader target |
+| PROJECTOR INSPECTION POSITION | Lower-margin callout to the clear front bench edge below the rail. |
+| SUPPORT FASTENING POINTS | Side callouts ending beside the two support-ring fasteners, clear of the three lenses. |
+# 19  Sealed cartons with mismatched cards
+Location S05-B01  |  Lantern Street Sealed Hook Rack Right End
+Filename CH01_S05_B01_Lantern_Street_Sealed_Hook_Rack_Right_End_Sealed_cartons_with_mismatched_cards.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SEALED HOOK RACK RIGHT END
+SEALED CARTONS WITH MISMATCHED CARDS
+Camera and framing 4:3 landscape front three-quarter view from the lane onto the right end of the continuous bench. The whole four-carton row, four card clips and distinctive right brass upright are visible. The cleared projector-kit area continues at frame-left.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. A compact brass rack rises from the cream bench, with the master’s distinctive right upright. Four sealed cartons stand in one row, left to right when facing the bench: 348 HOOKS, 355 HOOKS, 414 HOOKS, 525 HOOKS. One removable-card clip is fixed directly above each carton. Each clip has an exposed metal contact pad when its card is removed. A clear strip of cream worktop runs in front of the cartons. The clips are low enough to reach from the lane side without disturbing the carton seals. Their contact pads are covered by the inserted worker cards.
+Visible arrangement All four cartons remain sealed. From left to right, the visible pairs are 348 HOOKS with 5 WORKERS; 355 HOOKS with 4 WORKERS; 414 HOOKS with 25 WORKERS; and 525 HOOKS with 9 WORKERS. Exactly four original worker cards occupy the four clips. Dust is concealed beneath the 25 WORKERS card. The adjoining kit area is clear of completed boxes and loose kit parts; its empty stock-box housings and bare test rail remain.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. All eight carton-and-card inscriptions, four seals and four clips remain unobscured.
+| Exact label | Callout position and leader target |
+| CARD CHECKING POSITION | Lower-centre callout to clear paving in front of the four-card row. |
+| CARD LIFTING POINT | Upper-right callout to the exposed top edge of the 25 WORKERS card above 414 HOOKS. |
+| CARTON HANDOVER EDGE | Lower-right callout to the accessible front bench edge, clear of the sealed cartons. |
+# 20  Exposed dust at the original card clip
+Location S05-D01  |  Lantern Street Sealed Hook Rack Right End
+Filename CH01_S05_D01_Lantern_Street_Sealed_Hook_Rack_Right_End_Exposed_dust_at_the_original_card_clip.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SEALED HOOK RACK RIGHT END
+EXPOSED DUST AT THE ORIGINAL CARD CLIP
+Camera and framing 4:3 landscape close three-quarter view of the third carton position, 414 HOOKS, with the distinctive right rack upright and a narrow cream bench strip retained. The camera sees the empty clip contact pad and the original 25 WORKERS card resting below it.
+Location and construction This is the continuous cream-topped bench against Lantern Street’s physical-right indigo wall. Facing it from the lane, timing occupies the left end towards Food Street, projector kits the centre, and the sealed-hook rack the right end towards Entry Court. The master’s slab depth, front edge, blue supports, wall joints and fixed warm task lamps remain continuous. A compact brass rack rises from the cream bench, with the master’s distinctive right upright. Four sealed cartons stand in one row, left to right when facing the bench: 348 HOOKS, 355 HOOKS, 414 HOOKS, 525 HOOKS. One removable-card clip is fixed directly above each carton. Each clip has an exposed metal contact pad when its card is removed. The third clip is fixed above the sealed 414 HOOKS carton. A flat dry patch of worktop lies immediately below the clip, in front of the carton, supporting the removed card face-up. The rack’s brass surfaces and all carton seals retain their master materials.
+Visible arrangement The 414-position clip is empty. Fine black dust is visible on its contact pad and along the contact edge of the single face-up 25 WORKERS card on the bench. The card is flat and supported. The other three original cards remain in their untouched pairings: 5 above 348, 4 above 355 and 9 above 525; they lie outside or at the edges of this close crop. The 414 carton stays sealed. The exposed surfaces carry dust, without a scratched V.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. The dust on both contact surfaces, 25 WORKERS text, 414 HOOKS inscription and carton seal remain clear.
+| Exact label | Callout position and leader target |
+| CARD PICK-UP POINT | Lower-margin callout to the free edge of the supported 25 WORKERS card. |
+| CLIP CONTACT INSPECTION | Upper-margin callout ending beside the dusty metal pad of the empty third clip. |
+# 21  Crooked mirror tiles
+Location S06-B01  |  Lantern Street Square Mirror Recess
+Filename CH01_S06_B01_Lantern_Street_Square_Mirror_Recess_Crooked_mirror_tiles.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SQUARE MIRROR RECESS
+CROOKED MIRROR TILES
+Camera and framing 4:3 landscape medium three-quarter view from the lane onto the far-left mirror alcove. The complete low square frame, its left lamp, left padded tray and right opaque crate fit in the frame. The pale paving seam and a clear standing strip fill the foreground.
+Location and construction The mirror occupies the far-left blue-wall alcove opposite the cube station. Its shallow brass frame is a true square, mounted low enough for a child to reach, with a fixed slight backward tilt towards the open canopy gap. A fixed warm lamp is left of the frame when facing it from the lane. A padded staging tray rests on a low support to the frame’s left; an opaque tile crate stands to its right, both outside the walking route. The frame’s lower brass rim and the paving seam beneath it match the Lantern Street master.
+Visible arrangement Exactly 81 intact equal square mirror tiles occupy the shallow frame in crooked, overlapping and tilted positions, with their weight supported by its ledge and backing. They do not form a completed regular grid. Different tile angles fragment the reflection of one real full moon. The padded tray and crate are empty. The lower-right inner brass rim is dim and dusty, with no readable V. The opposite cube, if glimpsed in the fragmented reflection, remains uneven beneath a raised top frame.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The whole square frame, intact tile edges, support ledge and fragmented moon reflection remain visible.
+| Exact label | Callout position and leader target |
+| MIRROR WORKING POSITION | Lower-centre callout to the clear paving in front of the frame. |
+| TILE REMOVAL REACH | Right-margin callout to the accessible near edge of the shallow frame. |
+| TILE STAGING POINT | Left-margin callout to the empty padded tray. |
+# 22  Empty mirror frame and staged tiles
+Location S06-D01  |  Lantern Street Square Mirror Recess
+Filename CH01_S06_D01_Lantern_Street_Square_Mirror_Recess_Empty_mirror_frame_and_staged_tiles.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SQUARE MIRROR RECESS
+EMPTY MIRROR FRAME AND STAGED TILES
+Camera and framing 4:3 landscape medium three-quarter view from the lane onto the far-left mirror alcove. The complete low square frame, its left lamp, left padded tray and right opaque crate fit in the frame. The pale paving seam and a clear standing strip fill the foreground.
+Location and construction The mirror occupies the far-left blue-wall alcove opposite the cube station. Its shallow brass frame is a true square, mounted low enough for a child to reach, with a fixed slight backward tilt towards the open canopy gap. A fixed warm lamp is left of the frame when facing it from the lane. A padded staging tray rests on a low support to the frame’s left; an opaque tile crate stands to its right, both outside the walking route. The frame’s lower brass rim and the paving seam beneath it match the Lantern Street master.
+Visible arrangement The brass frame is empty, with its backing, shallow ledge and fixed mounting visible. Eighty intact equal square mirror tiles are securely stored in the opaque crate at right, with padded separation. One additional tile rests on the left padded tray, supported at a slight angle against its low padded back lip. This gives 81 tiles in total. The accessible tile reflects a small portion of the opposite architecture according to its angle. The lower-right inner rim remains dim and dusty, without a readable V.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The empty frame, supported loose tile, tray edge and clear floor patch remain visible.
+| Exact label | Callout position and leader target |
+| FRAME WORKING POSITION | Lower-centre callout to the clear paving in front of the empty frame. |
+| LOOSE TILE PICK-UP | Left-margin callout to the accessible edge of the one tile on the padded tray. |
+| SMALL ANIMAL POSITION | Lower-left callout to clear paving beside the tray support, outside its legs. |
+# 23  Completed nine by nine mirror
+Location S06-D02  |  Lantern Street Square Mirror Recess
+Filename CH01_S06_D02_Lantern_Street_Square_Mirror_Recess_Completed_nine_by_nine_mirror.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SQUARE MIRROR RECESS
+COMPLETED NINE BY NINE MIRROR
+Camera and framing 4:3 landscape high three-quarter view from the lane onto the complete square mirror. The camera looks down enough to see all four frame corners and every tile boundary without severe foreshortening. The left wall lamp, lower paving seam, padded tray and right crate remain visible around the frame.
+Location and construction The mirror occupies the far-left blue-wall alcove opposite the cube station. Its shallow brass frame is a true square, mounted low enough for a child to reach, with a fixed slight backward tilt towards the open canopy gap. A fixed warm lamp is left of the frame when facing it from the lane. A padded staging tray rests on a low support to the frame’s left; an opaque tile crate stands to its right, both outside the walking route. The frame’s lower brass rim and the paving seam beneath it match the Lantern Street master. The tiled surface is one flat plane inside the unchanged shallow brass frame. Its fixed backward tilt faces the canopy opening. All tile joints align as nine straight horizontal rows and nine straight vertical columns.
+Visible arrangement Exactly 81 equal intact tiles form a complete 9×9 grid. There are no empty cells or loose spare tiles. One full-moon reflection continues across the joined surface rather than appearing as separate moons on individual tiles. The staging tray and crate are empty. The lower-right inner brass rim is still dim and dusty, without a readable V. The opposite cube remains in uneven towers beneath its raised frame.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. All 81 cells and the continuous full-moon reflection remain unobscured.
+| Exact label | Callout position and leader target |
+| FINAL TILE SEATING REACH | Right-margin callout to the accessible frame edge beside the lower-right grid corner. |
+| MIRROR CHECKING POSITION | Lower-centre callout to clear paving in front of the completed frame. |
+# 24  Low completed mirror viewpoint
+Location S06-D03  |  Lantern Street Square Mirror Recess
+Filename CH01_S06_D03_Lantern_Street_Square_Mirror_Recess_Low_completed_mirror_viewpoint.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SQUARE MIRROR RECESS
+LOW COMPLETED MIRROR VIEWPOINT
+Camera and framing 4:3 landscape low three-quarter view from cub-head height in the lane, offset slightly towards the Entry Court side of the mirror. The frame’s bottom rim and foreground paving are prominent, while the full completed square frame remains recognisable. The left lamp and indigo alcove retain their positions.
+Location and construction The mirror occupies the far-left blue-wall alcove opposite the cube station. Its shallow brass frame is a true square, mounted low enough for a child to reach, with a fixed slight backward tilt towards the open canopy gap. A fixed warm lamp is left of the frame when facing it from the lane. A padded staging tray rests on a low support to the frame’s left; an opaque tile crate stands to its right, both outside the walking route. The frame’s lower brass rim and the paving seam beneath it match the Lantern Street master. The mirror is a single flat 9×9 tiled plane with its fixed backward tilt. The low camera changes the reflected field without changing the frame angle, grid or wall mounting. The left tray and right crate remain in their established alcove positions.
+Visible arrangement The mirror contains exactly nine rows and nine columns of intact tiles. The reflection shows the opposite indigo architecture and canopy from this low position; the full-moon disc lies outside this reflected field. The left staging tray and right crate are empty. The lower-right inner brass rim remains too dim for a readable V. The foreground provides separate clear floor patches beside the tray for a small animal and a standing child.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The floor positions, fixed frame tilt and continuous tile plane remain visible.
+| Exact label | Callout position and leader target |
+| SMALL ANIMAL POSITION | Lower-centre callout to paving directly before the low mirror rim. |
+| CHILD STANDING POSITION | Lower-left callout to the adjacent floor patch, separate from the animal position. |
+| MIRROR EDGE HAND REST | Right-margin callout to the reachable outer brass frame edge. |
+# 25  Illuminated inner rim mark
+Location S06-D04  |  Lantern Street Square Mirror Recess
+Filename CH01_S06_D04_Lantern_Street_Square_Mirror_Recess_Illuminated_inner_rim_mark.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET SQUARE MIRROR RECESS
+ILLUMINATED INNER RIM MARK
+Camera and framing 4:3 landscape close oblique view of the lower-right inner brass rim, as identified while facing the mirror from the lane. Include the rim joint, several adjacent tiles from the completed grid, a little blue alcove wall and the paving seam below. Warm light falls across the scratch at a readable angle.
+Location and construction The low square brass mirror is fixed in the far-left indigo alcove opposite the cube station. It retains the master’s slight backward tilt, left wall lamp and lower paving seam. The close view belongs to the completed 9×9 mirror. Its lower-right inner rim is solid brass between the tiled plane and outer moulding; the mark is on this brass surface, not on the glass. The frame mounting and slight backward tilt remain fixed.
+Visible arrangement One small scratched V is readable on the dusty lower-right inner brass rim in restored golden light. The adjacent glass tiles are intact, flat and aligned; their reflections continue across the joints. The scratch is a single incised mark with fine dust settled in its grooves. The left task lamp remains fixed, while the restored street contributes warm reflected light.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Golden arch light and the illuminated moonline warm the existing street, while fixed task lamps and cool full-moon edges remain distinct.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 2 callouts below, with small dark-indigo text on ivory and fine short leader lines. The single V, dusty grooves, brass-to-glass boundary and tile joints remain unobscured.
+| Exact label | Callout position and leader target |
+| RIM INSPECTION POINT | Right-margin callout ending beside the scratched V, leaving the mark and dust exposed. |
+| FRAME STEADYING EDGE | Lower-margin callout to the outer brass moulding below the marked inner rim. |
+# 26  Uneven cube towers
+Location S07-B01  |  Lantern Street Cube Plinth Handle and Moonline Joint
+Filename CH01_S07_B01_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Uneven_cube_towers.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET CUBE PLINTH HANDLE AND MOONLINE JOINT
+UNEVEN CUBE TOWERS
+Camera and framing 4:3 landscape front three-quarter view from the lane onto the right-side cube station. The whole square plinth, cube arrangement, travelling top frame, right-hand indicator panel, separate handle and near moonline cover are visible. The indigo canopy post and pale paving seam anchor the composition. The opposite mirror lies behind the camera.
+Location and construction The cube station occupies the physical-right side opposite the mirror, beneath the master’s indigo canopy. A low square plinth carries a square base sized for four equal lantern cubes along each edge. Its separate square top frame travels vertically on fixed supports and fastens to them. Facing the plinth from the lane, the five-indicator panel is on the blue wall to its right, with a separate large down-pull handle beside it. The five indicator labels read top to bottom, LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. A flat brass cover overlies the silver moonline joint at the plinth’s front-right corner. The track follows the physical-right paving edge; the cover, handle and indicator panel are distinct fittings.
+Visible arrangement Exactly 64 equal flat-faced lantern cubes are stacked in narrow uneven towers on the square base. Every cube rests on the base or another cube; the raised top frame stands above the tallest tower on its attached supports. The top four indicator lights are white under LIFT, RHYTHM, SUPPLIES and MIRROR; the bottom CUBE light is dark. The handle is raised. The flat brass cover is slightly crooked but still completely covers the moonline joint. The silver track and main arches are unlit.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The raised supported frame, uneven cubes, four-white one-dark panel and closed cover remain visible.
+| Exact label | Callout position and leader target |
+| CUBE ASSEMBLY POSITION | Lower-left callout to clear paving in front of the square plinth. |
+| TOP FRAME FASTENING REACH | Upper-right callout to the accessible frame fastener on its fixed support. |
+| HANDLE OPERATING POSITION | Lower-right callout to clear paving in front of the separate down-pull handle. |
+# 27  Completed four by four by four cube
+Location S07-D01  |  Lantern Street Cube Plinth Handle and Moonline Joint
+Filename CH01_S07_D01_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Completed_four_by_four_by_four_cube.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET CUBE PLINTH HANDLE AND MOONLINE JOINT
+COMPLETED FOUR BY FOUR BY FOUR CUBE
+Camera and framing 4:3 landscape front three-quarter view from the lane onto the right-side cube station. The whole square plinth, cube arrangement, travelling top frame, right-hand indicator panel, separate handle and near moonline cover are visible. The indigo canopy post and pale paving seam anchor the composition. The opposite mirror lies behind the camera.
+Location and construction The cube station occupies the physical-right side opposite the mirror, beneath the master’s indigo canopy. A low square plinth carries a square base sized for four equal lantern cubes along each edge. Its separate square top frame travels vertically on fixed supports and fastens to them. Facing the plinth from the lane, the five-indicator panel is on the blue wall to its right, with a separate large down-pull handle beside it. The five indicator labels read top to bottom, LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. A flat brass cover overlies the silver moonline joint at the plinth’s front-right corner. The track follows the physical-right paving edge; the cover, handle and indicator panel are distinct fittings.
+Visible arrangement Exactly 64 equal cubes form one solid block: four wide, four deep and four high. The front, side and top faces each show a regular 4×4 arrangement of equal square faces. The square top frame is lowered onto the block and fastened to its original supports. All five indicator lights are white. The separate handle is raised. The brass joint cover remains closed and slightly crooked; the moonline and main arches remain unlit.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The three visible 4×4 cube faces, lowered frame, five white lights and raised handle remain clear.
+| Exact label | Callout position and leader target |
+| CUBE INSPECTION POSITION | Lower-left callout to the clear paving beside the completed block. |
+| FRAME FASTENING CHECK | Upper-right callout to the fastened top-frame attachment. |
+| HANDLE OPERATING POSITION | Lower-right callout to clear paving in front of the raised handle. |
+# 28  Five readiness lights and raised handle
+Location S07-D02  |  Lantern Street Cube Plinth Handle and Moonline Joint
+Filename CH01_S07_D02_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Five_readiness_lights_and_raised_handle.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET CUBE PLINTH HANDLE AND MOONLINE JOINT
+FIVE READINESS LIGHTS AND RAISED HANDLE
+Camera and framing 4:3 landscape close three-quarter view of the indicator panel and separate down-pull handle on the cube station’s blue wall. The panel’s whole vertical row and every label are readable. The canopy-post edge and a narrow cream plinth edge remain visible; the cube body and floor joint are outside this tight crop.
+Location and construction The control stands on the master’s physical-right blue wall, to the right of the cube plinth when viewed from the lane. A fixed indigo canopy post anchors this wall. The five-light panel and down-pull handle are separate fittings with individual brass mountings. The indicator housings form one vertical column in the proportions of the master. Their labels read top to bottom: LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. The large handle has its own pivot bracket and clear downward travel arc beside the panel.
+Visible arrangement All five indicator lights are white. The separate handle is raised at its upper starting position. Its grip and pivot are unobstructed, with clear floor beneath its downward travel. The panel’s white task lights do not illuminate the main arches or the moonline, which remain unlit outside this close framing.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. All five labels, five white lights, handle pivot and grip remain unobscured.
+| Exact label | Callout position and leader target |
+| READINESS CHECK POSITION | Left-margin callout to the clear viewing position beside the five-light panel. |
+| HANDLE GRIP POINT | Right-margin callout to the free grip end of the raised handle. |
+| HANDLE STANDING POSITION | Lower-margin callout to the paving directly in front of the handle, outside its downward arc. |
+# 29  Low moonline and closed crooked cover
+Location S07-D03  |  Lantern Street Cube Plinth Handle and Moonline Joint
+Filename CH01_S07_D03_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Low_moonline_and_closed_crooked_cover.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET CUBE PLINTH HANDLE AND MOONLINE JOINT
+LOW MOONLINE AND CLOSED CROOKED COVER
+Camera and framing 4:3 landscape low three-quarter view along the physical-right paving edge towards the cube plinth’s front-right corner. The silver track and brass cover dominate the foreground; the plinth base, blue control wall and lowered handle remain visible above them.
+Location and construction The cube station occupies the physical-right side opposite the mirror, beneath the master’s indigo canopy. A low square plinth carries a square base sized for four equal lantern cubes along each edge. Its separate square top frame travels vertically on fixed supports and fastens to them. Facing the plinth from the lane, the five-indicator panel is on the blue wall to its right, with a separate large down-pull handle beside it. The five indicator labels read top to bottom, LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. A flat brass cover overlies the silver moonline joint at the plinth’s front-right corner. The track follows the physical-right paving edge; the cover, handle and indicator panel are distinct fittings. The flat brass cover fits over a shallow joint recess in the paving. Its surface is a thin rigid plate with original fixing holes. The track approaches and leaves beneath opposite edges of this cover, following one continuous route beside the plinth.
+Visible arrangement The cover is slightly crooked and not yet flush, but still hides the whole joint. No disconnected track ends are exposed. The handle is down. All five readiness lights are white; the cube above is a completed solid 4×4×4 block under its fastened top frame. The silver moonline and main arches are dark. A clear kneeling patch lies beside the cover, away from the handle’s operating area.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The crooked cover seating, uninterrupted covered route and lowered handle remain visible.
+| Exact label | Callout position and leader target |
+| JOINT INSPECTION POSITION | Lower-left callout to the clear paving beside the cover. |
+| COVER LIFTING EDGE | Right-margin callout to the accessible brass edge, leaving its uneven seating visible. |
+| HANDLE OPERATING POSITION | Upper-right callout to the separate clear floor beneath the lowered handle. |
+# 30  Open disconnected moonline joint
+Location S07-D04  |  Lantern Street Cube Plinth Handle and Moonline Joint
+Filename CH01_S07_D04_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Open_disconnected_moonline_joint.png
+Master reference Lantern Street master from Entry Court
+Image title LANTERN STREET CUBE PLINTH HANDLE AND MOONLINE JOINT
+OPEN DISCONNECTED MOONLINE JOINT
+Camera and framing 4:3 landscape near-overhead close three-quarter view of the joint at the cube plinth’s front-right corner. The recess, both track ends, original fasteners and removed cover fit in the frame, with the plinth edge and recognisable paving seam retained.
+Location and construction The moonline follows Lantern Street’s physical-right paving edge and reaches a shallow joint recess at the cube plinth’s front-right corner. The low square plinth, indigo canopy-post base and pale paving seam match the Lantern Street master. Inside the shallow recess are the two ends of the same silver track, each with its original fastening tab and screw holes. The removed original cover rests flat on clear paving beside the recess. Its fixing holes correspond to the existing seat. The tools and hands needed to reach the fasteners have clear access from the lane side.
+Visible arrangement The two track ends are separated by one visible gap and are unlit. Fine black dust sits in the original screw holes. The original screws remain with their tabs, visibly loose and ready for alignment. The brass cover lies fully supported beside the opening. The control handle, if its lower end enters the frame, is down; the completed cube above lies outside the close crop.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Lantern Street master from Entry Court. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Fixed amber task lamps and cool full-moon light keep the scene readable; the main Lantern Street arches and silver moonline remain unlit.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The single gap, both original ends, dusty screw holes and supported cover remain unobscured.
+| Exact label | Callout position and leader target |
+| TRACK ALIGNMENT POINT | Left-margin callout with short leaders ending beside the two original track ends. |
+| SCREW FASTENING REACH | Upper-margin callout to the original tab-and-screw area, clear of the dust. |
+| COVER REPLACEMENT EDGE | Right-margin callout to the free outer edge of the supported brass cover. |
+# 31  Mumbai waiting lane wide
+Location M02-D01  |  Old Blue Gate Exterior Waiting Lane
+Filename CH01_M02_D01_Old_Blue_Gate_Exterior_Waiting_Lane_Mumbai_waiting_lane_wide.png
+Master reference Old Blue Gate exterior master
+Image title OLD BLUE GATE EXTERIOR WAITING LANE
+MUMBAI WAITING LANE WIDE
+Camera and framing 4:3 landscape frontal exterior wide view of Old Blue Gate from the contemporary Mumbai waiting lane. The whole monumental entrance remains dominant. A wider clear paving foreground and restrained peripheral plaster walls and balconies establish the exterior city setting.
+Location and construction The supplied Gate master fixes the layered indigo-and-brass entrance pavilion, enormous blue main leaves, pale carved-stone piers, burgundy drapery, existing sculptural figures and one round full-moon ornament above. Seen from outside, the small service door is in the left main leaf, the separate equipment exit farther left beyond the pier, the planter left and the blue-and-brass bench right. The bench retains its curved brass arms and original legs on the paving.
+Visible arrangement Both main leaves, the small service door and the separate equipment exit are closed. The round full-moon ornament is bright, with a controlled halo. The foreground waiting lane, bench approach and planter-side patch are clear. Warm Gate lanterns light the paving while cool night light reaches the modest Mumbai walls and balconies at the sides.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Old Blue Gate exterior master. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Warm Gate lanterns and the bright full-moon ornament contrast with cool blue night and restrained contemporary Mumbai surroundings.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The full-moon ornament, closed doors, separate equipment exit and exterior lane remain readable.
+| Exact label | Callout position and leader target |
+| WAITING GROUP AREA | Lower-centre callout to the broad clear lane facing the closed Gate. |
+| BENCH WAITING POSITION | Right-margin callout to the clear paving beside the right bench. |
+| UPWARD VIEWING POSITION | Lower-left callout to a clear floor patch with an open view of the round ornament. |
+# 32  Closer obstructed Food Street threshold
+Location M03-D01  |  Food Street Master from Lantern Street
+Filename CH01_M03_D01_Food_Street_Master_from_Lantern_Street_Closer_obstructed_Food_Street_threshold.png
+Master reference Food Street master from Lantern Street; Lantern Street master from Entry Court
+Image title FOOD STREET MASTER FROM LANTERN STREET
+CLOSER OBSTRUCTED FOOD STREET THRESHOLD
+Camera and framing 4:3 landscape closer three-quarter view through the raised Food Street entrance shutters from Lantern Street. The obstructing cart and nearest wheel dominate the lower foreground. The left cooking counter with its oversized dosa, near-left packing area and a portion of the right drinks counter remain visible. The far Parade opening is outside this closer framing.
+Location and construction The Food Street master fixes the tall indigo posts, brass brackets, saffron and teal canopies, cream counters and pale paving. Looking into Food Street, cooking is left and drinks right. The packing bench and Return Walk door are near-left, beside a separate blue-and-brass sixteen-cup trolley. A round two-tray loading table sits farther into the lane. The Lantern Street master fixes the outer shutter jambs and joining paving; the threshold is the same level doorway viewed from its two sides.
+Visible arrangement The near shutters are fully raised. The crooked timber cart remains in its obstructing position. One intact brass bowl is tipped on its side against the lower-left outer edge of the nearest wheel, projecting to the wheel’s left; its continuous rim touches the wheel without intersection, with small contact shadows at wheel and paving. Other fallen bowls retain their nearby positions. One oversized cooked dosa overhangs its small plate at the left counter. The separate trolley has sixteen empty cups in a 4×4 carrier and an empty lower snack tray. The central table has two empty matching trays, the entrance-side one shallowly lower. Warm Food Street task light meets restored golden light behind the threshold.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master from Lantern Street. Dimensional materials, architectural proportions, ornament density and texture scale retain the master’s finish. Warm Food Street task lamps meet restored golden Lantern Street light, with cool full-moon accents among the saffron and teal canopies.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The image carries the 3 callouts below, with small dark-indigo text on ivory and fine short leader lines. The bowl rim, wheel contact, raised shutter frame and oversized dosa remain visible.
+| Exact label | Callout position and leader target |
+| THRESHOLD STANDING AREA | Lower-left callout to clear paving just before the obstructing cart. |
+| BOWL RECOVERY POINT | Lower-centre callout beside the trapped bowl’s rim, leaving its wheel contact visible. |
+| COUNTER OBSERVATION POSITION | Left-margin callout to the clear threshold-side sightline towards the oversized dosa. |

@@ -1,0 +1,20 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 092
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE092-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 6 Find the smallest shared multiple
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE092-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 6 Find the smallest shared multiple
+Write down the smallest number divisible by 2, 3, 4, 5, 6, 7, 8, 9, 10, 25 and 100.
+[AnswerLead] Check your method
+Here “smallest” means the smallest positive number, as in our LCM work. This looks like eleven separate jobs, but some are already covered by others.
+Start with 100: 100 ÷ 2 = 50, 100 ÷ 4 = 25, 100 ÷ 5 = 20, 100 ÷ 10 = 10 and 100 ÷ 25 = 4. So every multiple of 100 already fits those five divisors.
+A multiple of 9 also divides by 3, because 9 = 3 × 3. If it is also even, it passes the 6-test. That leaves us looking for the first shared multiple of 100, 8, 9 and 7.
+First fit 100 and 8. Try 100, then 200:
+[Equation] 100 = 8 × 12 + 4
+[Equation] 200 = 8 × 25
+100 leaves 4 over; 200 divides exactly. So the LCM of 100 and 8 is 200. Their shared multiples are 200, 400, 600, ….
+[PanelBoundary] END PANEL CH01-PAGE092-PANEL01

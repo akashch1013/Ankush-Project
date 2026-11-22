@@ -1,0 +1,50 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 085
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE085-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | Order of operations
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE085-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Order of operations
+When several operations share an expression, use this order:
+1. Work inside brackets first, starting with the innermost brackets. Follow these same rules inside them.
+2. Find powers and roots.
+3. Multiply and divide from left to right.
+4. Add and subtract from left to right.
+Multiplication and division share a place in the queue. Do whichever comes first from the left:
+[Equation] 12 ÷ 3 × 2 = 4 × 2 = 8
+Division comes first in that example. Addition and subtraction also share a place:
+[Equation] 10 − 7 + 2 = 3 + 2 = 5
+[PanelBoundary] END PANEL CH01-PAGE085-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE085-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | Order of operations
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE085-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+Now put the rules together. First work out the bracket, 7 + 8 = 15:
+[Equation] 3 + 8 ÷ 2² + (7 + 8) − 9 × 2
+[Equation] = 3 + 8 ÷ 2² + 15 − 9 × 2
+[Equation] = 3 + 8 ÷ 4 + 15 − 9 × 2
+[Equation] = 3 + 2 + 15 − 18
+[Equation] = 5 + 15 − 18
+[Equation] = 20 − 18 = 2
+After the bracket, find 2² = 4. Then 8 ÷ 4 = 2 and 9 × 2 = 18. Finally, add and subtract from the left.
+[PanelBoundary] END PANEL CH01-PAGE085-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE085-PANEL03
+[PanelMetadata] SOURCE: Teaching block R01 | Squares and square roots | Cubes and cube roots
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE085-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Squares and square roots
+Squaring multiplies a number by itself. A square root reverses that operation; the √ sign gives the root that is positive or zero:
+[Equation] 4² = 4 × 4 = 16
+[Equation] √144 = √(12 × 12) = 12
+[MathSubsection] Cubes and cube roots
+Cubing uses three equal factors. A cube root finds the repeated factor:
+[Equation] 8³ = 8 × 8 × 8 = 512
+[Equation] ∛729 = ∛(9 × 9 × 9) = 9
+[PanelBoundary] END PANEL CH01-PAGE085-PANEL03

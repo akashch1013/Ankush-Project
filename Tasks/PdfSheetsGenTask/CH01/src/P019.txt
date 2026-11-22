@@ -1,0 +1,21 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 019
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block T1.1C
+[SourceLocator] Multiplication division and Practice 1A
+[SceneInstruction] Production scope. Includes both multiplication patterns, sign rules, division investigations, Examples 6–7, inverse checks and all eight Practice 1A questions. Bracket grouping appears in Practice 1A Question 5. Draft 10 places its full mixed-operation consolidation in Chapter 01 Key Ideas; retain it there at R01.
+[PanelIdentifier] PANEL CH01-PAGE019-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Multiplication
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE019-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Exact teaching text begins
+[MathSubsection] Multiplication
+Let’s count some small lanterns. On the left, 2 groups of 3 give 3 + 3 = 6 lanterns. On the right, 3 groups of 2 give 2 + 2 + 2 = 6. The groups change, but the total stays 6:
+[Equation] 2 × 3 = 6;   3 × 2 = 6
+[SmallCaption] Six lanterns in each arrangement
+[Production] Production note V05. Left: two outlined rows containing exactly three small lanterns each. Right: three outlined columns containing exactly two lanterns each. Each side contains six lanterns, not twelve in one arrangement. Label 2 groups of 3 and 3 groups of 2, with the corresponding sums. Use simple whole lantern silhouettes as ChandRush counting objects, all the same size; handles and frames are parts of each lantern. Keep the outlines that show the groups; add no extra lanterns or countable decoration. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+The numbers we multiply are called factors; the answer is their product. We can also add the same negative change several times. For example, 3 × (−2) means three changes of −2:
+[Equation] 3 × (−2) = (−2) + (−2) + (−2) = −6
+[PanelBoundary] END PANEL CH01-PAGE019-PANEL01

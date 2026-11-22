@@ -1,0 +1,58 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 066
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q07
+[ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Companion inset Q07
+[ProductionContextSource] Carried forward from Visual beat CH01 08B A — referenced staging | Applies to: Reference in Companion inset Q07
+[ProductionContextCopy] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE066-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | Example 14
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE066-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 14
+Evaluate (a) √289 and (b) √625.
+[AnswerLead] Let’s work it through
+We’re looking for a number that multiplies by itself to give 289, and another that does the same for 625. You can use the square-root key to find them, then check:
+[Equation] (a) √289 = 17; check: 17 × 17 = 289
+[Equation] (b) √625 = 25; check: 25 × 25 = 625
+[PanelBoundary] END PANEL CH01-PAGE066-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE066-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.4 | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE066-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) √256 and (b) √441.
+[AnswerLead] Check your method
+[Equation] (a) √256 = 16, because 16 × 16 = 256
+[Equation] (b) √441 = 21, because 21 × 21 = 441
+[PanelBoundary] END PANEL CH01-PAGE066-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE066-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q07
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Scene CH01 01B Tez meets the cart handle | APPLIES TO: CH01-PAGE066-PANEL03; Tez pale shoulder state
+[PanelMetadata] SOURCE: Visual beat CH01 08B A Tez turns away | APPLIES TO: CH01-PAGE066-PANEL03; Tez pale shoulder state
+[PanelContextCopy] Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q07
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 14 in Teaching block T1.4. Ahana crouches beside Tez at the empty frame, one hand gently resting near him and her gaze directed to the teaching diagram. Do not introduce her story sketch before the solution. Blue alcove wall, left lamp, padded tray edge and empty brass frame. Retain Tez’s pale shoulder state shown in Visual beat CH01 08B A; the V is concealed.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana to the reader | Tail target: Ahana’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Draw what you know. Leave room for what you haven’t found yet.
+[PanelBoundary] END PANEL CH01-PAGE066-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE066-PANEL04
+[PanelMetadata] SOURCE: Teaching block T1.4 | What happens with a negative number
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE066-PANEL04; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] What happens with a negative number
+Use a calculator to try √(−4). What happens? Can you explain why?
+[AnswerLead] Check your thinking
+The calculator usually reports an error. Why? No number on our number line has square −4. A positive number squared is positive; a negative number squared is also positive; and zero squared is zero.
+For example, (−2) × (−2) = 4, not −4. So √(−4) has no real-number answer. The calculator is flagging the mathematical problem, not asking for fresh batteries.
+[PanelBoundary] END PANEL CH01-PAGE066-PANEL04

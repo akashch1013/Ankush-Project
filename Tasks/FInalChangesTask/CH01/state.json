@@ -1,0 +1,33 @@
+{
+ "items": {
+  "V-TEZ-P039": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P039-w1",
+     "at": "2026-11-22T08:24:20",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "b53325b49ae1",
+     "refs": [
+      "BagroundGenTask/out/plates/S04-B01.png",
+      "../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0378
+    }
+   ],
+   "note": "identity vs sheet OK (amber eyes, stripes, cream muzzle/cheek tufts, black-ringed tail); navy scarf silver trim + crescent-moon silver clasp; 1 character; 4 cub paws, sitting on haunches, holding nothing; head tilted to reader, pleased smile; kit box open and empty; no lenses/rings/sample; no lettering; edges fade to pale mist; top ~18% calm (left ear tip reaches ~18%, lamp top-right 8-25%)",
+   "qc": [
+    {
+     "at": "2026-11-22T08:24:41",
+     "verdict": "pass",
+     "note": "identity vs sheet OK (amber eyes, stripes, cream muzzle/cheek tufts, black-ringed tail); navy scarf silver trim + crescent-moon silver clasp; 1 character; 4 cub paws, sitting on haunches, holding nothing; head tilted to reader, pleased smile; kit box open and empty; no lenses/rings/sample; no lettering; edges fade to pale mist; top ~18% calm (left ear tip reaches ~18%, lamp top-right 8-25%)"
+    }
+   ]
+  }
+ },
+ "fix_queue": {}
+}

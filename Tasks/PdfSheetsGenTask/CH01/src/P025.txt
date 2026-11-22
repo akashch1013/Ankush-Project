@@ -1,0 +1,39 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 025
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE025-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Practice 1A | 1 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE025-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Practice 1A
+Try each question before uncovering the working. Use the number line if a negative sign makes you hesitate.
+[MathExample] 1 Evaluate
+(a) 7 + (−3) (b) −2 + (−3) (c) 17 − (−2)
+(d) −2 − (−5) (e) −5 − (−7) (f) 0 − (−9)
+[AnswerLead] Check your method
+[Equation] (a) 7 + (−3) = 7 − 3 = 4
+[Equation] (b) −2 + (−3) = −2 − 3 = −5
+[Equation] (c) 17 − (−2) = 17 + 2 = 19
+[Equation] (d) −2 − (−5) = −2 + 5 = 3
+[Equation] (e) −5 − (−7) = −5 + 7 = 2
+[Equation] (f) 0 − (−9) = 0 + 9 = 9
+In (d), only −(−5) changes to +5. The starting number stays −2.
+[PanelBoundary] END PANEL CH01-PAGE025-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE025-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | 2 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE025-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 2 Evaluate
+(a) 4 + 9 − 6 (b) 17 − 7 − 8
+(c) 4 − 5 + 6 − 7 (d) 6 − 8 − 9 + 2
+[AnswerLead] Check your method
+Follow addition and subtraction from left to right:
+[Equation] (a) 4 + 9 − 6 = 13 − 6 = 7
+[Equation] (b) 17 − 7 − 8 = 10 − 8 = 2
+[Equation] (c) 4 − 5 + 6 − 7 = −1 + 6 − 7 = 5 − 7 = −2
+[Equation] (d) 6 − 8 − 9 + 2 = −2 − 9 + 2 = −11 + 2 = −9
+[PanelBoundary] END PANEL CH01-PAGE025-PANEL02

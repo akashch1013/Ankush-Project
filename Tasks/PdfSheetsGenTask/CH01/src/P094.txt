@@ -1,0 +1,38 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 094
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE094-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 7 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE094-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 7 Evaluate
+(a) √81 + 23 (b) 55 ÷ √121
+(c) 42 × ∛125 − 3³ (d) 72 × ∛1000 − √100
+[AnswerLead] Check your method
+[Equation] (a) √81 + 23 = 9 + 23 = 32
+[Equation] (b) 55 ÷ √121 = 55 ÷ 11 = 5
+[Equation] (c) 42 × ∛125 − 3³ = 42 × 5 − 27 = 210 − 27 = 183
+[Equation] (d) 72 × ∛1000 − √100 = 72 × 10 − 10 = 720 − 10 = 710
+[PanelBoundary] END PANEL CH01-PAGE094-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE094-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | 8 Compare the roots
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE094-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 8 Compare the roots
+Fill each blank with < or >. What do you notice?
+(a) √64 □ ∛64 (b) √729 □ ∛729
+(c) √70 □ ∛70 (d) ∛65 □ √65
+[AnswerLead] Check your method
+(a) √64 = 8 and ∛64 = 4. Since 8 > 4, √64 > ∛64.
+(b) √729 = 27 because 27² = 729; ∛729 = 9 because 9³ = 729. Since 27 > 9, √729 > ∛729.
+(c) 70 is not a perfect square or cube. Let’s trap each root between numbers we know.
+For √70, 8 × 8 = 64 is too small and 9 × 9 = 81 is too large. So √70 lies between 8 and 9.
+For ∛70, 4³ = 64 is too small and 5³ = 125 is too large. So ∛70 lies between 4 and 5.
+Anything between 8 and 9 is greater than anything between 4 and 5. Therefore √70 > ∛70.
+(d) Use the same nearby powers for 65: 4³ = 64 < 65 < 125 = 5³, while 8² = 64 < 65 < 81 = 9². So ∛65 is between 4 and 5, and √65 is between 8 and 9. The cube root comes first here, so ∛65 < √65.
+In all four examples, the square root is greater than the cube root. This comparison holds for numbers greater than 1. It is not a rule for every number: at 1 the two roots are equal, for example.
+[PanelBoundary] END PANEL CH01-PAGE094-PANEL02

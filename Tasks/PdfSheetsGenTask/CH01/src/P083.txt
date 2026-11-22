@@ -1,0 +1,95 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 083
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Cube Plinth, Handle and Moonline Joint — location instructions | Applies to: Assigned beats of Scene CH01 09C; Assigned beats of Scene CH01 10A
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 09C The frame closes
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium close of the complete cube between its square base and top frame, with the control board on its right.
+[SceneInstruction] Cast and staging across the scene. Ahana has placed the lamp on stable paving clear of the plinth and uses both hands to steady the top frame at a comfortable height. Navya aligns its corners; Vihaan checks the final layer. Tara has leaned her staff against the blue wall and fastens the frame. The helper supports the structure as needed. Tez stays clear of their feet.
+[SceneInstruction] Props and state progression. Complete solid 4 × 4 × 4 cube, top frame fastened. CUBE becomes white, so all five readiness indicators shine. Main arches remain dark. Floor cover remains closed, and handle is raised.
+[SceneInstruction] Planning requirements. All hands have a plausible grip and support. Do not show the whole street lit just because the fifth indicator is on. The cube is complete before the review.
+[PanelIdentifier] PANEL CH01-PAGE083-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 09C A The frame is secured
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE083-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 09C The frame closes | APPLIES TO: CH01-PAGE083-PANEL01; CH01 09C A
+[PanelContextCopy] View. Medium close of the complete cube between its square base and top frame, with the control board on its right.
+[PanelContextCopy] Cast and staging across the scene. Ahana has placed the lamp on stable paving clear of the plinth and uses both hands to steady the top frame at a comfortable height. Navya aligns its corners; Vihaan checks the final layer. Tara has leaned her staff against the blue wall and fastens the frame. The helper supports the structure as needed. Tez stays clear of their feet.
+[PanelContextCopy] Planning requirements. All hands have a plausible grip and support. Do not show the whole street lit just because the fifth indicator is on. The cube is complete before the review.
+[PanelMetadata] SOURCE: Scene CH01 09C The frame closes | APPLIES TO: CH01-PAGE083-PANEL01; arches, cover and raised handle
+[PanelContextCopy] Main arches remain dark. Floor cover remains closed, and handle is raised.
+[PanelMetadata] SOURCE: Scene CH01 09A A lantern that cannot close | APPLIES TO: CH01-PAGE083-PANEL01; readiness indicators before CUBE changes
+[PanelContextCopy] First four indicators white, CUBE dark.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 09C A The frame is secured
+[SceneInstruction] Moment and staging. Ahana has set the lamp safely on the paving and steadies the top frame with both hands. Navya aligns its corners, Vihaan checks the last layer, and Tara fastens the frame with her staff still safely against the wall. The helper supports the structure. Freeze before the CUBE lamp changes.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana steadies the top frame while Navya lines up its corners. Vihaan checks the final layer, and Tara fastens the frame.
+[PanelBoundary] END PANEL CH01-PAGE083-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE083-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 09C B All five checks are white
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE083-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 09C The frame closes | APPLIES TO: CH01-PAGE083-PANEL02; CH01 09C B
+[PanelContextCopy] View. Medium close of the complete cube between its square base and top frame, with the control board on its right.
+[PanelContextCopy] Cast and staging across the scene. Ahana has placed the lamp on stable paving clear of the plinth and uses both hands to steady the top frame at a comfortable height. Navya aligns its corners; Vihaan checks the final layer. Tara has leaned her staff against the blue wall and fastens the frame. The helper supports the structure as needed. Tez stays clear of their feet.
+[PanelContextCopy] Props and state progression. Complete solid 4 × 4 × 4 cube, top frame fastened. CUBE becomes white, so all five readiness indicators shine. Main arches remain dark. Floor cover remains closed, and handle is raised.
+[PanelContextCopy] Planning requirements. All hands have a plausible grip and support. Do not show the whole street lit just because the fifth indicator is on. The cube is complete before the review.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 09C B All five checks are white
+[SceneInstruction] Moment and staging. Separate result showing the fastened 4 × 4 × 4 block and all five white readiness lights. Everyone’s hands are now clear of the top frame. The main arches remain dark, handle raised and joint cover closed.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] CUBE comes on. All five lights are shining.
+[PanelBoundary] END PANEL CH01-PAGE083-PANEL02
+# Sequence 10 The street light and the broken connection
+[SourceLocator] Production sequence reference CH01-10. The following location descriptions are retained from V16.
+### Lantern Street Cube Plinth, Handle and Moonline Joint
+[SceneInstruction] A low square plinth under an indigo canopy stands opposite the mirror. The five-indicator wall control and large down-pull handle are on its right. One flat brass cover lies in the paving at the plinth’s front-right corner, over the moonline joint.
+[SceneInstruction] Sixty-four small lantern cubes form one solid 4 × 4 × 4 block between the square base and top frame. The failed state is uneven narrow towers. An exact layer diagram shows sixteen cubes, then four layers. The final handle stays separate from the floor cover. Under that cover are two disconnected track ends, screws and black dust; there is no hidden second switch. The joint repair, not another calculation, makes the final light flow.
+[SceneInstruction] Required views. Medium plinth; exact single layer and complete cube inserts; hand-on-handle still; low disconnected/connected joint views; result wide belongs to Lantern Street.
+### Lantern Street Master from Entry Court
+[SceneInstruction] A broad pale-paved lane curves between blue-painted stall walls beneath tall indigo lantern arches. The lift bay is near-left; a pale timing and supply bench runs along the right wall. Farther on, a square mirror recess is on the left, opposite a cube-lantern plinth and final control. Food Street shutters close the far bend.
+[SceneInstruction] The narrow silver moonline follows the paving’s right edge to a flat joining plate near the cube plinth. Five indicators beside the final handle read LIFT, RHYTHM, SUPPLIES, MIRROR and CUBE. Work lamps light the tasks before the main arches are restored. Intermediate lights do not mean the entire street is lit. The last state has golden arches and a continuous moonline. The repaired street remains repaired in every later return.
+[SceneInstruction] Required views. Initial wide from Entry Court; separate reverse from the cube end; final restored wide. Fine mirror/cube counts are not required in distant views.
+## Scene CH01 10A Five checks ready
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium beside the completed plinth, with all five labelled indicators visible and the unpulled handle at the side.
+[SceneInstruction] Cast and staging across the scene. Navya faces the group with the checked working record. Ahana stands beside the lamp on the paving, hands free. Vihaan leans in to look at the record. Tara stays beside the control, staff still safely resting against the wall after fastening the frame. Tez settles near Ahana; the helper stands clear of the control.
+[SceneInstruction] Props and state progression. Labels in order: LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. All white. Mirror repaired across the lane; timing, kits and hooks complete. Arches dark, moonline not continuous, handle raised.
+[SceneInstruction] Planning requirements. Navya addresses the crew. Insert the entire R01 consolidation here before the first pull. This is a pause for review, not a new equipment fault or a ticking test for the reader.
+[PanelIdentifier] PANEL CH01-PAGE083-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 10A A Navya counts the ready checks
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE083-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10A Five checks ready | APPLIES TO: CH01-PAGE083-PANEL03; CH01 10A A
+[PanelContextCopy] View. Medium beside the completed plinth, with all five labelled indicators visible and the unpulled handle at the side.
+[PanelContextCopy] Cast and staging across the scene. Navya faces the group with the checked working record. Ahana stands beside the lamp on the paving, hands free. Vihaan leans in to look at the record. Tara stays beside the control, staff still safely resting against the wall after fastening the frame. Tez settles near Ahana; the helper stands clear of the control.
+[PanelContextCopy] Props and state progression. Labels in order: LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. All white. Mirror repaired across the lane; timing, kits and hooks complete. Arches dark, moonline not continuous, handle raised.
+[PanelContextCopy] Planning requirements. Navya addresses the crew. Insert the entire R01 consolidation here before the first pull. This is a pause for review, not a new equipment fault or a ticking test for the reader.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10A A Navya counts the ready checks
+[SceneInstruction] Moment and staging. At the completed plinth, Navya holds the checked record in one hand and points towards the five white indicators with the other. She looks at the board as she speaks. Ahana’s lamp stays on the paving; Tara’s staff stays against the wall.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Five checks ready.
+[PanelBoundary] END PANEL CH01-PAGE083-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE083-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 10A B Navya invites the review
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE083-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10A Five checks ready | APPLIES TO: CH01-PAGE083-PANEL04; CH01 10A B
+[PanelContextCopy] View. Medium beside the completed plinth, with all five labelled indicators visible and the unpulled handle at the side.
+[PanelContextCopy] Cast and staging across the scene. Navya faces the group with the checked working record. Ahana stands beside the lamp on the paving, hands free. Vihaan leans in to look at the record. Tara stays beside the control, staff still safely resting against the wall after fastening the frame. Tez settles near Ahana; the helper stands clear of the control.
+[PanelContextCopy] Props and state progression. Labels in order: LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE. All white. Mirror repaired across the lane; timing, kits and hooks complete. Arches dark, moonline not continuous, handle raised.
+[PanelContextCopy] Planning requirements. Navya addresses the crew. Insert the entire R01 consolidation here before the first pull. This is a pause for review, not a new equipment fault or a ticking test for the reader.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10A B Navya invites the review
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, background and character locations specified under View, Setting and Cast and staging in Scene CH01 10A. Navya lowers her pointing hand to open the record towards the group and turns her face to Vihaan and Ahana. Her expression is calm and purposeful. Everyone remains clear of the raised handle; the whole R01 teaching block follows.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Let’s look over what we used before we try the whole street.
+[PanelBoundary] END PANEL CH01-PAGE083-PANEL04
