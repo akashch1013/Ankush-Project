@@ -1,0 +1,41 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 070
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE070-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | 6 Check Susan’s claim
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE070-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 6 Check Susan’s claim
+Susan claims that √32 + √25 = √(32 + 25) = √57. Is she correct? Explain.
+[AnswerLead] Check your thinking
+No. In √32 + √25, we need two separate roots and then their sum. Let’s compare that with Susan’s √57:
+Use a calculator to compare the two results. √32 is about 5.66; the symbol ≈ means “is approximately equal to”. So:
+[Equation] √32 + √25 ≈ 5.66 + 5 = 10.66
+[Equation] √(32 + 25) = √57 ≈ 7.55
+About 10.66 is quite different from about 7.55. Susan’s first equals sign is the mistake: adding two roots is not the same as adding first and taking one root.
+[PanelBoundary] END PANEL CH01-PAGE070-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE070-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.4 | 7 Find the missing length
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE070-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 7 Find the missing length
+In this triangle, c = √(5² + 12²). Find c in its simplest form.
+[SmallCaption] The triangle for Question 7
+[Production] Production note V10. Preserve a right triangle with vertical left leg labelled 5, horizontal base labelled 12, sloping side labelled c, and a right-angle square at bottom left. Do not label c with its answer and do not invent a unit. The root bar in the accompanying formula must cover the full sum 5² + 12². Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE070-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE070-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.4 | 7 Find the missing length
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE070-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+The bar of √ covers the whole sum 5² + 12². Work out that sum before taking its root:
+[Equation] c = √(5² + 12²) = √(25 + 144) = √169 = 13
+So c = 13. Check: 13² = 169 and 5² + 12² = 169. The sloping side is longer than both 5 and 12, as the triangle suggests.
+[PanelBoundary] END PANEL CH01-PAGE070-PANEL03
+[SourceLocator] End of teaching block T1.4  •  Story resumes below

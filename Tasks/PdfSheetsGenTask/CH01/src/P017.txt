@@ -20,7 +20,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03E A The predicted correction
-[SceneInstruction] Moment and staging. Before either control is used, frame the −2 last-change window and the held car at −5. Navya studies the record, Tara is poised to release HOLD. The caption states the prediction; do not show its physical result yet.
+[SceneInstruction] Moment and staging. Before either control is used, frame the −2 last-change window and the held car at −5. Navya studies the record, Tara is poised to release HOLD. The caption states the prediction; do not show its physical result yet. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The last movement was down two. Undoing it will take the car up two, back from −5 to −3.
 [PanelBoundary] END PANEL CH01-PAGE017-PANEL01
@@ -34,9 +34,10 @@
 [PanelMetadata] SOURCE: Scene CH01 03B The unplanned drop | APPLIES TO: CH01-PAGE017-PANEL02; Tara staff hand
 [PanelContextCopy] Tara presses HOLD with her left hand, staff in her right.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara has disengaged latched HOLD. Navya presses CANCEL LAST CHANGE.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03E B The controls are used
-[SceneInstruction] Moment and staging. Close on the controller specified under Setting in Scene CH01 03E. Tara’s left hand is now clear of HOLD after releasing it; Navya presses CANCEL LAST CHANGE. Keep the −2 recorded change readable. Ahana lights their hands; Vihaan watches. There is only one corrective command.
+[SceneInstruction] Moment and staging. Close on the controller specified under Setting in Scene CH01 03E. Tara’s left hand is now clear of HOLD after releasing it; Navya presses CANCEL LAST CHANGE. Keep the −2 recorded change readable. Ahana lights their hands; Vihaan watches. There is only one corrective command. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara releases HOLD for the correction. Navya presses the button.
 [PanelBoundary] END PANEL CH01-PAGE017-PANEL02
@@ -50,7 +51,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03E C The predicted position is reached
-[SceneInstruction] Moment and staging. Cut to the stopped car at −3 with helper and fastened cart inside. Use the shaft and fixed-lamp background anchors specified under Setting in Scene CH01 03E. The remaining caption belongs to this result, without repeating the prediction caption assigned to Visual beat CH01 03E A.
+[SceneInstruction] Moment and staging. Cut to the stopped car at −3 with helper and fastened cart inside. Use the shaft and fixed-lamp background anchors specified under Setting in Scene CH01 03E. The remaining caption belongs to this result, without repeating the prediction caption assigned to Visual beat CH01 03E A. Background and fixed landmarks. Camera on the street side of the guard, looking down the single shaft. Near edge: the fixed brass guard. Beyond it: the car at the assigned mark. If the street controls enter frame they remain on the adjacent right jamb at camera level. Do not put them on the car or lower landing.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The car rises to the position they expected.
 [PanelBoundary] END PANEL CH01-PAGE017-PANEL03
@@ -72,7 +73,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03F A The extra card is removed
-[SceneInstruction] Moment and staging. Freeze Navya holding the removed −2 card just above a separate patch of controller shelf. Her other hand checks the next slot without activating it. Tara supervises and Ahana lights the hands. This silent visual is followed by narration in 03G; print that narration only there.
+[SceneInstruction] Moment and staging. Freeze Navya holding the removed −2 card just above a separate patch of controller shelf. Her other hand checks the next slot without activating it. Tara supervises and Ahana lights the hands. This silent visual is followed by narration in 03G; print that narration only there. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SourceLocator] No printable text in this beat.
 [PanelBoundary] END PANEL CH01-PAGE017-PANEL04
 ## Scene CH01 03G At zero with a shut gate
@@ -93,9 +94,9 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03G A The floor is level with the street
-[SceneInstruction] Moment and staging. Use one result image at 0: Ahana crouches outside the still-closed safety gate, lamp held clear, comparing the car floor with the paving. Navya stands at the controller after using +3; the removed −2 card lies separately on the shelf. The helper and cart stay inside. All three caption paragraphs share this visual; they do not request three panels.
+[SceneInstruction] Moment and staging. Use one result image at 0: Ahana crouches outside the still-closed safety gate, lamp held clear, comparing the car floor with the paving. Navya stands at the controller after using +3; the removed −2 card lies separately on the shelf. The helper and cart stay inside. All three caption paragraphs share this visual; they do not request three panels. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] She removes the hidden card, checks the next slot and uses +3 to bring the helper to 0.
+[CaptionCopy] Navya removes the hidden card, checks the next slot and uses +3 to bring the helper to 0.
 [CaptionCopy] Ahana crouches beside the gate. The car floor is level with the paving.
 [CaptionCopy] The gate, however, will not open.
 [PanelBoundary] END PANEL CH01-PAGE017-PANEL05

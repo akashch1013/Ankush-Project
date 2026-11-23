@@ -42,7 +42,7 @@ Use the same distinction for the other pairs:
 [PanelMetadata] SOURCE: Companion inset Q09
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q09
-[SceneInstruction] Production instruction. After the completed Practice 1E Question 6, Cube a sum or add two cubes, in Teaching block T1.5. Navya looks from a written answer to its unit, pencil hovering beside it without adding a new answer. Her posture is relaxed but attentive. Blue control wall and a small patch of paving; CUBE remains dark and no solved story block appears.
+[SceneInstruction] Production instruction. After the completed Practice 1E Question 6, Cube a sum or add two cubes, in Teaching block T1.5. Navya looks from a written answer to its unit, pencil hovering beside it without adding a new answer. Her posture is relaxed but attentive. Blue control wall and a small patch of paving; CUBE remains dark and no solved story block appears. Background for this inset. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya to the reader | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] The number is right. What about the unit?

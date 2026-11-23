@@ -1,0 +1,72 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 035
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 06 Identical projector kits
+[SourceLocator] Production sequence reference CH01-06. The following location descriptions are retained from V16.
+### Lantern Street Projector-Kit Bench, Centre
+[SceneInstruction] The centre of the pale right-wall bench holds two labelled supply boxes, padded empty kit boxes and one sample board. The blue/gold timing lamps are farther left, and the sealed hook rack is to the right. A short lantern-test rail is fixed above.
+[SceneInstruction] Labels read 45 BLUE GLASS LENSES and 75 BRASS RINGS. Establish the greatest possible number of identical kits before teaching. A completed three-lens/five-ring head and exact sample kit belong only after T1.2B. Three rings mount the lenses and two secure the supports. The full stock need not be individually laid out; one sample and closed kit boxes are enough. Do not show an already-solved three-and-five recipe in the setup.
+[SceneInstruction] Required views. Stock-label close-up; overhead sample-kit view; medium handover to wooden crews. These are parts of the Lantern Street bench, not a new workshop.
+## Scene CH01 06A The stock for the lantern heads
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street projector-kit bench. The centre of the continuous right-wall pale bench holds two stock boxes, padded kit boxes and a sample board. Timing lamps remain farther left, the sealed-hook rack farther right. The short lantern-test rail is fixed above against the blue wall, under warm task light. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Medium at the centre of the right-wall bench specified under Setting in Scene CH01 06A. The blue and gold timing fittings remain farther left, the sealed-hook rack farther right, and a short test rail above.
+[SceneInstruction] Cast and staging across the scene. The broad helper opens the two supply boxes. Ahana places an empty padded kit box between them with her left hand; she holds the work lamp clear with her right. Navya stands to the right with a blank packing sheet; Vihaan studies the two stock labels. Tara explains the identical-kit requirement, staff supported against the wall so she can indicate both stocks. Tez waits under the clear edge of the bench, outside the work area.
+[SceneInstruction] Props and state progression. Box labels: 45 BLUE GLASS LENSES and 75 BRASS RINGS. Empty padded kit boxes and a blank sample board are available. Do not individually scatter all 120 items. LIFT and RHYTHM white; remaining three indicators dark.
+[SceneInstruction] Planning requirements. The empty kit and stock labels must be visible. Do not show a completed projector head, a three-and-five recipe or fifteen prepared kits before T1.2B. The maximum number of identical kits is the stated question.
+[PanelIdentifier] PANEL CH01-PAGE035-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 06A A The available stock
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE035-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06A The stock for the lantern heads | APPLIES TO: CH01-PAGE035-PANEL01; CH01 06A A
+[PanelContextCopy] View. Medium at the centre of the right-wall bench specified under Setting in Scene CH01 06A. The blue and gold timing fittings remain farther left, the sealed-hook rack farther right, and a short test rail above.
+[PanelContextCopy] Cast and staging across the scene. The broad helper opens the two supply boxes. Ahana places an empty padded kit box between them with her left hand; she holds the work lamp clear with her right. Navya stands to the right with a blank packing sheet; Vihaan studies the two stock labels. Tara explains the identical-kit requirement, staff supported against the wall so she can indicate both stocks. Tez waits under the clear edge of the bench, outside the work area.
+[PanelContextCopy] Props and state progression. Box labels: 45 BLUE GLASS LENSES and 75 BRASS RINGS. Empty padded kit boxes and a blank sample board are available. Do not individually scatter all 120 items. LIFT and RHYTHM white; remaining three indicators dark.
+[PanelContextCopy] Planning requirements. The empty kit and stock labels must be visible. Do not show a completed projector head, a three-and-five recipe or fifteen prepared kits before T1.2B. The maximum number of identical kits is the stated question.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06A A The available stock
+[SceneInstruction] Moment and staging. The helper opens the two boxes on the centre bench. Ahana lights the 45-lens and 75-ring labels; Navya holds a blank packing sheet, Vihaan examines the stocks, Tara stands beside them with her staff leaned securely against the wall. Tez waits below the clear bench edge. No finished sample is visible.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper opens the next two boxes. One holds small blue glass lenses. The other holds brass rings that shine gold in the lamplight. Together they make the light-projecting heads for the lantern arches. A complete head uses lenses to shape the light and rings to hold the head and its supports together. Tara wants identical kits so several wooden crews can work at once.
+[PanelBoundary] END PANEL CH01-PAGE035-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE035-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 06A B Tara asks for the most crews
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE035-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06A The stock for the lantern heads | APPLIES TO: CH01-PAGE035-PANEL02; CH01 06A B
+[PanelContextCopy] View. Medium at the centre of the right-wall bench specified under Setting in Scene CH01 06A. The blue and gold timing fittings remain farther left, the sealed-hook rack farther right, and a short test rail above.
+[PanelContextCopy] Cast and staging across the scene. The broad helper opens the two supply boxes. Ahana places an empty padded kit box between them with her left hand; she holds the work lamp clear with her right. Navya stands to the right with a blank packing sheet; Vihaan studies the two stock labels. Tara explains the identical-kit requirement, staff supported against the wall so she can indicate both stocks. Tez waits under the clear edge of the bench, outside the work area.
+[PanelContextCopy] Props and state progression. Box labels: 45 BLUE GLASS LENSES and 75 BRASS RINGS. Empty padded kit boxes and a blank sample board are available. Do not individually scatter all 120 items. LIFT and RHYTHM white; remaining three indicators dark.
+[PanelContextCopy] Planning requirements. The empty kit and stock labels must be visible. Do not show a completed projector head, a three-and-five recipe or fifteen prepared kits before T1.2B. The maximum number of identical kits is the stated question.
+[PanelMetadata] SOURCE: Visual beat CH01 06A A The available stock | APPLIES TO: CH01-PAGE035-PANEL02; character locations, prop placements and unsolved stock state
+[PanelContextCopy] Moment and staging. The helper opens the two boxes on the centre bench. Ahana lights the 45-lens and 75-ring labels; Navya holds a blank packing sheet, Vihaan examines the stocks, Tara stands beside them with her staff leaned securely against the wall. Tez waits below the clear bench edge. No finished sample is visible.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06A B Tara asks for the most crews
+[SceneInstruction] Moment and staging. Retain the camera and background specified under View and Setting in Scene CH01 06A, and the character locations, prop placements and unsolved stock state specified in Visual beat CH01 06A A. Tara’s free hands indicate the two stocks together, then one palm opens towards the waiting work crews as she speaks. The boxes retain all stock; no solved kit counts are shown.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] There are 45 blue lenses and 75 brass rings. They must use every piece and give every crew the same number of lenses and the same number of rings.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We want as many crews working at once as possible.
+[PanelBoundary] END PANEL CH01-PAGE035-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE035-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 06A C Ahana frames the kit question
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE035-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06A The stock for the lantern heads | APPLIES TO: CH01-PAGE035-PANEL03; CH01 06A C
+[PanelContextCopy] View. Medium at the centre of the right-wall bench specified under Setting in Scene CH01 06A. The blue and gold timing fittings remain farther left, the sealed-hook rack farther right, and a short test rail above.
+[PanelContextCopy] Cast and staging across the scene. The broad helper opens the two supply boxes. Ahana places an empty padded kit box between them with her left hand; she holds the work lamp clear with her right. Navya stands to the right with a blank packing sheet; Vihaan studies the two stock labels. Tara explains the identical-kit requirement, staff supported against the wall so she can indicate both stocks. Tez waits under the clear edge of the bench, outside the work area.
+[PanelContextCopy] Props and state progression. Box labels: 45 BLUE GLASS LENSES and 75 BRASS RINGS. Empty padded kit boxes and a blank sample board are available. Do not individually scatter all 120 items. LIFT and RHYTHM white; remaining three indicators dark.
+[PanelContextCopy] Planning requirements. The empty kit and stock labels must be visible. Do not show a completed projector head, a three-and-five recipe or fifteen prepared kits before T1.2B. The maximum number of identical kits is the stated question.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06A C Ahana frames the kit question
+[SceneInstruction] Moment and staging. Ahana places the empty padded kit box between the two stocks with her left hand, portable lamp held clear in her right. Freeze with her left palm beside the empty box as she addresses the group. Tara lowers her hands; Vihaan and Navya look at the empty box.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana places an empty padded kit box between the stocks.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] What is the greatest number of identical kits we can make, with nothing left over? And what goes into each one?
+[PanelBoundary] END PANEL CH01-PAGE035-PANEL03

@@ -1,0 +1,77 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 072
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Assigned beats of Scene CH01 08F
+[ProductionContextSource] Carried forward from Visual beat CH01 08B A — referenced staging | Applies to: Reference in Scene CH01 08F Still you; Reference in Visual beat CH01 08F A Ahana reassures Tez; Reference in Visual beat CH01 08F B Tez chooses to stay
+[ProductionContextCopy] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 08F Still you
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Separate low reflection view from Tez’s side of the frame specified under Setting in Scene CH01 08F. Retain the inner brass rim and blue wall as anchors. The main focus is Tez’s recognisable face and Ahana beside him.
+[SceneInstruction] Cast and staging across the scene. Tez stands on four paws beside Ahana, looking at his clear reflection. His ears lift slightly as he replies. Ahana crouches close, gaze gentle, sketchbook closed beside her and lamp on the paving. Navya and Vihaan stand behind; Tara remains nearby. The helper has finished and keeps the tray out of the lane.
+[SceneInstruction] Props and state progression. Mirror repaired; MIRROR joins the first three white indicators. Only CUBE remains dark. Tez retains the pale shoulder stripes shown in Visual beat CH01 08B A. The full moon has not become a crescent; this lower reflection angle may show Tez rather than the whole moon.
+[SceneInstruction] Planning requirements. Ahana addresses Tez; his reply is affectionate dignity, not dismissal. Preserve the words “Still you” for their Chapter 10 return. He does not regain his blue stripes here.
+[PanelIdentifier] PANEL CH01-PAGE072-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 08F A Ahana reassures Tez
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE072-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08F Still you | APPLIES TO: CH01-PAGE072-PANEL01; CH01 08F A
+[PanelContextCopy] View. Separate low reflection view from Tez’s side of the frame specified under Setting in Scene CH01 08F. Retain the inner brass rim and blue wall as anchors. The main focus is Tez’s recognisable face and Ahana beside him.
+[PanelContextCopy] Cast and staging across the scene. Tez stands on four paws beside Ahana, looking at his clear reflection. His ears lift slightly as he replies. Ahana crouches close, gaze gentle, sketchbook closed beside her and lamp on the paving. Navya and Vihaan stand behind; Tara remains nearby. The helper has finished and keeps the tray out of the lane.
+[PanelContextCopy] Planning requirements. Ahana addresses Tez; his reply is affectionate dignity, not dismissal. Preserve the words “Still you” for their Chapter 10 return. He does not regain his blue stripes here.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE072-PANEL01; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 01B Tez meets the cart handle | APPLIES TO: CH01-PAGE072-PANEL01; Tez pale shoulder patches
+[PanelMetadata] SOURCE: Visual beat CH01 08B A Tez turns away | APPLIES TO: CH01-PAGE072-PANEL01; Tez pale shoulder state
+[PanelContextCopy] Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered.
+[PanelMetadata] SOURCE: Scene CH01 08F Still you | APPLIES TO: CH01-PAGE072-PANEL01; Tez and reflection state
+[PanelContextCopy] Tez retains the pale shoulder stripes shown in Visual beat CH01 08B A. The full moon has not become a crescent; this lower reflection angle may show Tez rather than the whole moon.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08F A Ahana reassures Tez
+[SceneInstruction] Moment and staging. Low reflection view: Tez looks at his clear face in the mirror; Ahana crouches beside him, gaze soft, and speaks. Her closed sketchbook and lamp rest beside her. His shoulder stripes remain pale as shown in Visual beat CH01 08B A; he has not yet replied.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tez looks again. His stripes are pale, but his face is clear in the mirror.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Still you.
+[PanelBoundary] END PANEL CH01-PAGE072-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE072-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 08F B Tez chooses to stay
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE072-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08F Still you | APPLIES TO: CH01-PAGE072-PANEL02; CH01 08F B
+[PanelContextCopy] View. Separate low reflection view from Tez’s side of the frame specified under Setting in Scene CH01 08F. Retain the inner brass rim and blue wall as anchors. The main focus is Tez’s recognisable face and Ahana beside him.
+[PanelContextCopy] Cast and staging across the scene. Tez stands on four paws beside Ahana, looking at his clear reflection. His ears lift slightly as he replies. Ahana crouches close, gaze gentle, sketchbook closed beside her and lamp on the paving. Navya and Vihaan stand behind; Tara remains nearby. The helper has finished and keeps the tray out of the lane.
+[PanelContextCopy] Planning requirements. Ahana addresses Tez; his reply is affectionate dignity, not dismissal. Preserve the words “Still you” for their Chapter 10 return. He does not regain his blue stripes here.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE072-PANEL02; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 01B Tez meets the cart handle | APPLIES TO: CH01-PAGE072-PANEL02; Tez pale shoulder patches
+[PanelMetadata] SOURCE: Visual beat CH01 08B A Tez turns away | APPLIES TO: CH01-PAGE072-PANEL02; Tez pale shoulder state
+[PanelContextCopy] Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered.
+[PanelMetadata] SOURCE: Scene CH01 08F Still you | APPLIES TO: CH01-PAGE072-PANEL02; Tez and reflection state
+[PanelContextCopy] Tez retains the pale shoulder stripes shown in Visual beat CH01 08B A. The full moon has not become a crescent; this lower reflection angle may show Tez rather than the whole moon.
+[PanelMetadata] SOURCE: Visual beat CH01 08F A Ahana reassures Tez | APPLIES TO: CH01-PAGE072-PANEL02; framing, character positions, lamp and sketchbook placements
+[PanelContextCopy] Moment and staging. Low reflection view: Tez looks at his clear face in the mirror; Ahana crouches beside him, gaze soft, and speaks. Her closed sketchbook and lamp rest beside her. His shoulder stripes remain pale as shown in Visual beat CH01 08B A; he has not yet replied.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08F B Tez chooses to stay
+[SceneInstruction] Moment and staging. Separate panel retaining the framing and Ahana’s and Tez’s positions specified in Visual beat CH01 08F A, and the other character locations specified under Cast and staging in Scene CH01 08F. Tez lifts his chin and ears slightly for his dignified reply, then holds his place beside Ahana. Ahana’s mouth relaxes into a small smile; she does not pull him towards her. Retain the repaired-mirror state specified under Props and state progression in Scene CH01 08F, the pale shoulder state shown in Visual beat CH01 08B A, and the sketchbook and lamp placements specified in Visual beat CH01 08F A.
+[SceneInstruction] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Obviously.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] He stays beside her instead of turning away.
+[PanelBoundary] END PANEL CH01-PAGE072-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE072-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 08F C The fourth readiness light
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE072-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Lantern Street Master from Entry Court | APPLIES TO: CH01-PAGE072-PANEL03; moonline and labelled board location
+[PanelContextCopy] The narrow silver moonline follows the paving’s right edge to a flat joining plate near the cube plinth. Five indicators beside the final handle read LIFT, RHYTHM, SUPPLIES, MIRROR and CUBE.
+[PanelMetadata] SOURCE: Lantern Street Cube Plinth, Handle and Moonline Joint | APPLIES TO: CH01-PAGE072-PANEL03; board wall and handle location
+[PanelContextCopy] A low square plinth under an indigo canopy stands opposite the mirror. The five-indicator wall control and large down-pull handle are on its right. One flat brass cover lies in the paving at the plinth’s front-right corner, over the moonline joint.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08F C The fourth readiness light
+[SceneInstruction] Moment and staging. Board insert shows MIRROR newly white with LIFT, RHYTHM and SUPPLIES; only CUBE stays dark. This status follows the completed mirror and the emotional exchange.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] MIRROR lights up. Only CUBE remains dark.
+[PanelBoundary] END PANEL CH01-PAGE072-PANEL03

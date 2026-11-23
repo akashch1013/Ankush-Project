@@ -19,11 +19,12 @@
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE047-PANEL01; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE047-PANEL01; CH01 07A A
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Crews have begun fitting projector heads. Four sealed hook cartons supply four worker teams.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 07A A The cartons and the wrong cards
-[SceneInstruction] Moment and staging. Show the four sealed cartons beneath the four wrongly paired movable cards in the exact initial arrangement specified under Props and state progression in Scene CH01 07A. The helper points to them; Navya studies the card row, Vihaan the quantities. Ahana lights the labels, Tara watches, and Tez stays near Ahana.
+[SceneInstruction] Moment and staging. Show the four sealed cartons beneath the four wrongly paired movable cards in the exact initial arrangement specified under Props and state progression in Scene CH01 07A. The helper points to them; Navya studies the card row, Vihaan the quantities. Ahana lights the labels, Tara watches, and Tez stays near Ahana. Background and fixed landmarks. At the right end of the same bench, view the rack from the aisle. Work surface in front, sealed cartons at its rear, the team cards clipped directly above their respective carton positions. Keep rack order fixed when moving closer to a hand or face.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] The helper points to four sealed hook cartons at the right end of the bench. The projector heads are ready, but the crews still need hooks to fasten their supports to the arches.
+[CaptionCopy] The helper points to four sealed hook cartons at the right end of the bench. The crews have their projector kits. They still need hooks to fasten the supports to the arches.
 [CaptionCopy] The carton labels read 348, 355, 414 and 525 HOOKS. Four movable cards name teams of 4, 5, 9 and 25 workers. Each team must receive one whole carton and share its hooks equally. Each team card is to be used once, but someone has moved all four.
 [PanelBoundary] END PANEL CH01-PAGE047-PANEL01
 [PanelIdentifier] PANEL CH01-PAGE047-PANEL02
@@ -32,12 +33,12 @@
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE047-PANEL02; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE047-PANEL02; CH01 07A B
 [PanelMetadata] SOURCE: Visual beat CH01 07A A The cartons and the wrong cards | APPLIES TO: CH01-PAGE047-PANEL02; character positions and wrong card arrangement
-[PanelContextCopy] Moment and staging. Show the four sealed cartons beneath the four wrongly paired movable cards in the exact initial arrangement specified under Props and state progression in Scene CH01 07A. The helper points to them; Navya studies the card row, Vihaan the quantities. Ahana lights the labels, Tara watches, and Tez stays near Ahana.
+[PanelContextCopy] Referenced beat for continuity only. Show the four sealed cartons beneath the four wrongly paired movable cards in the exact initial arrangement specified under Props and state progression in Scene CH01 07A. The helper points to them; Navya studies the card row, Vihaan the quantities. Ahana lights the labels, Tara watches, and Tez stays near Ahana.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 07A B Navya spots the interference
-[SceneInstruction] Moment and staging. Retain the rack background specified under Setting in Scene CH01 07A and the character positions specified in Visual beat CH01 07A A. Navya touches only the clean edge of one misplaced card and turns to Tara, brows drawn. She does not swap it yet. The seals and hidden dust remain undisturbed.
+[SceneInstruction] Moment and staging. Retain the rack background specified under Setting in Scene CH01 07A and the character positions specified in Visual beat CH01 07A A. Navya touches only the clean edge of one misplaced card and turns to Tara, brows drawn. She does not swap it yet. The seals and hidden dust remain undisturbed. Background and fixed landmarks. At the right end of the same bench, view the rack from the aisle. Work surface in front, sealed cartons at its rear, the team cards clipped directly above their respective carton positions. Keep rack order fixed when moving closer to a hand or face.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
-[DialogueCopy] Someone has moved these too.
+[DialogueCopy] Someone has moved the team cards too.
 [PanelBoundary] END PANEL CH01-PAGE047-PANEL02

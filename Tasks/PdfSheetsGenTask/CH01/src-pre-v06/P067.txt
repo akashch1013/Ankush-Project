@@ -1,0 +1,35 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 067
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE067-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | Practice 1D | 1 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE067-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Practice 1D
+Watch which number the raised 2 or root sign belongs to. Some questions ask for several separate calculations.
+[MathExample] 1 Evaluate
+(a) 3² (b) 7² (c) 5² + 6² (d) 8 × 9² − 5²
+[AnswerLead] Check your method
+[Equation] (a) 3² = 3 × 3 = 9
+[Equation] (b) 7² = 7 × 7 = 49
+[Equation] (c) 5² + 6² = 25 + 36 = 61
+(d) This time we have squares, multiplication and subtraction together. Work out 9² and 5² first, then multiply by 8, then subtract:
+[Equation] 8 × 9² − 5² = 8 × 81 − 25 = 648 − 25 = 623
+The raised 2 belongs to 9, so square 9 before multiplying by 8. Squaring 8 × 9 would answer a different question.
+[PanelBoundary] END PANEL CH01-PAGE067-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE067-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.4 | 2 Use a calculator
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE067-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 2 Use a calculator
+Evaluate (a) 52², (b) 67², (c) 35² + 17² and (d) 7 × 19² − 14².
+[AnswerLead] Check your method
+[Equation] (a) 52² = 52 × 52 = 2704
+[Equation] (b) 67² = 67 × 67 = 4489
+[Equation] (c) 35² + 17² = 1225 + 289 = 1514
+[Equation] (d) 7 × 19² − 14² = 7 × 361 − 196 = 2527 − 196 = 2331
+[PanelBoundary] END PANEL CH01-PAGE067-PANEL02

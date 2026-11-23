@@ -1,0 +1,30 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 052
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE052-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE052-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+By 7: Separate the last digit, double it, and subtract that doubled amount from the number made by the other digits. If the result is divisible by 7, the original number is too. Repeat the process if the new number is still large.
+For 126, the last digit is 6 and the remaining number is 12. Double 6 to get 12, then subtract:
+[Equation] 12 − (6 × 2) = 12 − 12 = 0
+0 is divisible by 7 because 0 = 7 × 0. So 126 passes the 7-test. Here are three more applications:
+[Equation] 231: 23 − (1 × 2) = 21 = 7 × 3 → yes
+[Equation] 155: 15 − (5 × 2) = 5 → no
+[Equation] 244: 24 − (4 × 2) = 16 → no
+For 231, keep the 23 together. This test uses the remaining number, not the sum 2 + 3.
+[PanelBoundary] END PANEL CH01-PAGE052-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE052-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE052-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+By 8: Check the number formed by the last three digits. This is like the 4-test, using thousands: 1000 = 8 × 125. In 7656 = 7000 + 656, the 7000 already divides by 8. We only need to check 656:
+[Equation] 7656: 656 ÷ 8 = 82 → yes
+[Equation] 14824: 824 ÷ 8 = 103 → yes
+[Equation] 1273: 273 ÷ 8 leaves a remainder of 1 → no
+[Equation] 4825: 825 ÷ 8 leaves a remainder of 1 → no
+[PanelBoundary] END PANEL CH01-PAGE052-PANEL02

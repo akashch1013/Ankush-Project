@@ -1,0 +1,46 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 023
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE023-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Continue the investigation
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE023-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Continue the investigation
+(c) Without a calculator, work out (−100) ÷ 4, (−42) ÷ 7, (−25) ÷ 5 and (−18) ÷ 3. What do you notice?
+[AnswerLead] Check your method
+[Equation] (−100) ÷ 4 = −25, because (−25) × 4 = −100
+[Equation] (−42) ÷ 7 = −6, because (−6) × 7 = −42
+[Equation] (−25) ÷ 5 = −5, because (−5) × 5 = −25
+[Equation] (−18) ÷ 3 = −6, because (−6) × 3 = −18
+A negative number divided by a positive number gives a negative quotient.
+[PanelBoundary] END PANEL CH01-PAGE023-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE023-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | Continue the investigation
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE023-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+(d) Use a calculator for 100 ÷ (−4), 42 ÷ (−7), 25 ÷ (−5) and 18 ÷ (−3). What do you notice now?
+[AnswerLead] Check your method
+[Equation] 100 ÷ (−4) = −25, because (−25) × (−4) = 100
+[Equation] 42 ÷ (−7) = −6, because (−6) × (−7) = 42
+[Equation] 25 ÷ (−5) = −5, because (−5) × (−5) = 25
+[Equation] 18 ÷ (−3) = −6, because (−6) × (−3) = 18
+A positive number divided by a negative number also gives a negative quotient. For instance, −25 is the missing factor in (−25) × (−4) = 100.
+[PanelBoundary] END PANEL CH01-PAGE023-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE023-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.1C | Continue the investigation
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE023-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+(e) Use these pairs to check your observations from (c) and (d):
+Set A: 45 ÷ (−9) and (−45) ÷ 9.
+Set B: 81 ÷ (−27) and (−81) ÷ 27.
+[AnswerLead] Check your method
+[Equation] 45 ÷ (−9) = −5;   (−45) ÷ 9 = −5
+[Equation] 81 ÷ (−27) = −3;   (−81) ÷ 27 = −3
+In Set A, 45 ÷ 9 = 5; in Set B, 81 ÷ 27 = 3. The signs differ in all four divisions, so the answers are −5 or −3. Both pairs agree with our observations.
+[PanelBoundary] END PANEL CH01-PAGE023-PANEL03

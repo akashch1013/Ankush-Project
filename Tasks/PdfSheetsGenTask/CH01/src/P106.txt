@@ -20,9 +20,10 @@
 [PanelMetadata] SOURCE: Scene CH01 11D The question interrupted | APPLIES TO: CH01-PAGE106-PANEL01; helper and cart
 [PanelContextCopy] The helper waits behind with the cart.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. On level paving, standing upright, Ahana, Navya and Vihaan are equally tall. Their crowns reach just below Tara’s chest. Establish these proportions before applying pose or perspective. Ahana has retrieved her lamp from beside the mirror and carries it in her right hand. The protected sleeve stays in her left. Tara has retrieved her staff.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11D A Ahana asks who Veer is
-[SceneInstruction] Moment and staging. Return inside Lantern Street, looking towards the still-closed far shutters. Ahana faces Tara with a direct questioning look. Tara is about to answer, with her retrieved staff in her right hand; Vihaan and Navya listen, Tez stands near Ahana. The sleeve remains with Ahana.
+[SceneInstruction] Moment and staging. Return inside Lantern Street, looking towards the still-closed far shutters. Ahana faces Tara with a direct questioning look. Tara is about to answer, with her retrieved staff in her right hand; Vihaan and Navya listen, Tez stands near Ahana. The sleeve remains with Ahana. Background and fixed landmarks. Inside restored Lantern Street facing its far exit. The group stands on Lantern Street paving; the closed Food Street shutters lie ahead along their sightline. The crash originates on the far side.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] In Lantern Street…
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks,
@@ -39,11 +40,12 @@
 [PanelContextCopy] Props and state progression. Ahana still holds the evidence sleeve. Before this movement she retrieves the work lamp; Tara retrieves her staff from its supported position at the cube wall. Lantern Street remains repaired, handle down. Shutters have not yet risen in this still.
 [PanelContextCopy] Planning requirements. The spoken question precedes the crash. Do not add Tara’s Chapter 02 explanation here. No visible villain causes the sound.
 [PanelMetadata] SOURCE: Visual beat CH01 11D A Ahana asks who Veer is | APPLIES TO: CH01-PAGE106-PANEL02; camera, background and character positions
-[PanelContextCopy] Moment and staging. Return inside Lantern Street, looking towards the still-closed far shutters. Ahana faces Tara with a direct questioning look. Tara is about to answer, with her retrieved staff in her right hand; Vihaan and Navya listen, Tez stands near Ahana. The sleeve remains with Ahana.
+[PanelContextCopy] Referenced beat for continuity only. Return inside Lantern Street, looking towards the still-closed far shutters. Ahana faces Tara with a direct questioning look. Tara is about to answer, with her retrieved staff in her right hand; Vihaan and Navya listen, Tez stands near Ahana. The sleeve remains with Ahana.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Crash from beyond the closed shutters at the far exit to Food Street.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11D B The crash interrupts
-[SceneInstruction] Moment and staging. Separate panel retaining the camera, background and character positions specified in Visual beat CH01 11D A. Everyone turns their head towards the closed shutters; Tara’s answer is arrested, mouth closed. Keep the shutters shut in this beat. The crash is narrated by the supplied caption; do not add a new sound-effect word.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, background and character positions specified in Visual beat CH01 11D A. Everyone turns their head towards the closed shutters; Tara’s answer is arrested, mouth closed. Keep the shutters shut in this beat. The crash is narrated by the supplied caption; do not add a new sound-effect word. Background and fixed landmarks. Inside restored Lantern Street facing its far exit. The group stands on Lantern Street paving; the closed Food Street shutters lie ahead along their sightline. The crash originates on the far side.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] A crash comes from beyond the far shutters.
 [PanelBoundary] END PANEL CH01-PAGE106-PANEL02

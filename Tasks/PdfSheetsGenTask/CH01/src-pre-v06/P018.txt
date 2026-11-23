@@ -1,0 +1,66 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 018
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Assigned beats of Scene CH01 04A
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 04 Releasing the safety gate
+[SourceLocator] Production sequence reference CH01-04. The following location descriptions are retained from V16.
+### Lantern Street Goods-Lift Bay and Controller
+[SceneInstruction] One guarded lift shaft is recessed into the near-left blue wall. Pale street paving is marked 0; the lower store is at −8. A brass safety gate separates the children from the shaft. A blue-and-brass controller stands to the right, lit by one warm wall lamp.
+[SceneInstruction] The top rail takes movement cards and has START, HOLD and CANCEL LAST CHANGE. The last-change window displays an instruction, not another car. The lower hinged panel has four equal gate-catch correction wheels and two red warnings. Their units are not floor levels. The initial row is +2, 0, −1, +3; the fixed specification says total correction −8, shared equally. Reveal the corrected row of four −2 settings only after T1.1C. The lower store has a guarded landing and lamp. There is one car and one supply cart.
+[SceneInstruction] Required views. Street-side medium; separate steep downward view into the same shaft; exact number-strip insert; card slot and cancel window; lower correction-panel close-up. Show one stopped car position per still.
+## Scene CH01 04A Four settings and one total
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Street-side close three-quarter of the opened lower controller panel. Retain a visible strip of gate and level paving behind it.
+[SceneInstruction] Cast and staging across the scene. Tara has set her staff against the blue wall beside the fixed lamp. She holds the hinged panel open with one hand and indicates the fixed specification with the other. Navya crouches in front of the wheels without turning them. Ahana lights the panel; Vihaan studies the row. Tez stays behind the children. The helper waits with the cart behind the gate.
+[SceneInstruction] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
+[SceneInstruction] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
+[PanelIdentifier] PANEL CH01-PAGE018-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 04A A The catch panel is exposed
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE018-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04A Four settings and one total | APPLIES TO: CH01-PAGE018-PANEL01; CH01 04A A
+[PanelContextCopy] Cast and staging across the scene. Tara has set her staff against the blue wall beside the fixed lamp. She holds the hinged panel open with one hand and indicates the fixed specification with the other. Navya crouches in front of the wheels without turning them. Ahana lights the panel; Vihaan studies the row. Tez stays behind the children. The helper waits with the cart behind the gate.
+[PanelContextCopy] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
+[PanelContextCopy] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04A A The catch panel is exposed
+[SceneInstruction] Moment and staging. Close on the opened lower controller panel with Tara’s left hand supporting its cover and her staff resting against the blue wall. Show both red warnings, the fixed maintenance plate and the four original wheel settings. The car stays at street 0 behind the shut gate.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Two red warning lights shine on the control box. Tara keeps the lift stopped and opens the little panel below them.
+[CaptionCopy] Inside are four numbered setting wheels for the safety gate’s catches. Each catch needs the same small correction before it can release. A fixed maintenance plate says TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. The wheels have been left at +2, 0, −1 and +3.
+[PanelBoundary] END PANEL CH01-PAGE018-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE018-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 04A B Tara distinguishes catches from floors
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE018-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04A Four settings and one total | APPLIES TO: CH01-PAGE018-PANEL02; CH01 04A B
+[PanelContextCopy] Cast and staging across the scene. Tara has set her staff against the blue wall beside the fixed lamp. She holds the hinged panel open with one hand and indicates the fixed specification with the other. Navya crouches in front of the wheels without turning them. Ahana lights the panel; Vihaan studies the row. Tez stays behind the children. The helper waits with the cart behind the gate.
+[PanelContextCopy] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
+[PanelContextCopy] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04A B Tara distinguishes catches from floors
+[SceneInstruction] Moment and staging. Use a medium of Tara beside the open panel. Her left hand steadies the cover; her free right index finger indicates the catch wheels. Her staff stays against the wall. She looks towards Vihaan for the first line. Everyone remains on the street side.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] These numbers adjust the catches, not the lift’s floor.
+[PanelBoundary] END PANEL CH01-PAGE018-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE018-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 04A C Tara sets the question
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE018-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04A Four settings and one total | APPLIES TO: CH01-PAGE018-PANEL03; CH01 04A C
+[PanelContextCopy] Cast and staging across the scene. Tara has set her staff against the blue wall beside the fixed lamp. She holds the hinged panel open with one hand and indicates the fixed specification with the other. Navya crouches in front of the wheels without turning them. Ahana lights the panel; Vihaan studies the row. Tez stays behind the children. The helper waits with the cart behind the gate.
+[PanelContextCopy] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
+[PanelContextCopy] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
+[PanelMetadata] SOURCE: Visual beat CH01 04A B Tara distinguishes catches from floors | APPLIES TO: CH01-PAGE018-PANEL03; camera, Tara position, cover hand and staff
+[PanelContextCopy] Moment and staging. Use a medium of Tara beside the open panel. Her left hand steadies the cover; her free right index finger indicates the catch wheels. Her staff stays against the wall. She looks towards Vihaan for the first line. Everyone remains on the street side.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04A C Tara sets the question
+[SceneInstruction] Moment and staging. Separate panel retaining the camera and positions specified in Visual beat CH01 04A B. Tara changes her right hand to a small open sweep across all four wheels, then looks towards the group as she asks for the equal setting. Her left hand keeps the cover steady; staff, feet and body position stay fixed. Show the unsolved settings only; do not reveal −2 as the answer before teaching.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The car stays here. What equal setting belongs on each wheel so that all four give a total of minus eight?
+[PanelBoundary] END PANEL CH01-PAGE018-PANEL03

@@ -1,7 +1,7 @@
 [GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 063
 [ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
 [ProductionContextSource] Carried forward from Scene CH01 01B — referenced production instructions | Applies to: Reference in Scene CH01 08B Tez looks away
-[ProductionContextCopy] Props and state progression. The empty cart rests against the stall wall outside the route, its handle projecting into the lamp’s circle. Keep Tez’s navy scarf and moon clasp; several of his blue stripes, especially the established shoulder patches, are pale grey.
+[ProductionContextCopy] Props and state progression. The empty cart rests against the stall wall outside the route, the tip of its existing sloping handle at the edge of the lamp pool. Keep Tez’s navy scarf and moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey.
 [ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Assigned beats of Scene CH01 08B; Assigned beats of Scene CH01 08C
 [ProductionContextSource] Carried forward from Scene CH01 08A — referenced production instructions | Applies to: Reference in Scene CH01 08B Tez looks away
 [ProductionContextCopy] Setting. Lantern Street square-mirror recess. A shallow square brass frame sits just above paving in the far-left wall alcove, opposite the cube plinth. The rear wall is blue, the warm lamp is on the left, and a canopy gap admits moonlight. The padded tray and opaque crate stay outside the walking lane. The inner rim and paving seam remain fixed across views. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
@@ -26,9 +26,10 @@
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE063-PANEL01; frame mounting
 [PanelMetadata] SOURCE: Scene CH01 01B Tez meets the cart handle | APPLIES TO: CH01-PAGE063-PANEL01; Tez pale shoulder patches
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D01. Frame empty. Eighty tiles in the opaque crate on the right. One tilted tile on the left tray reflects Tez’s shoulder.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08B A Tez turns away
-[SceneInstruction] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
+[SceneInstruction] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] There are 81 matching square tiles altogether, counted before they were packed for travel. None is broken.
 [CaptionCopy] Tez catches his reflection in a loose tile. He turns his pale shoulder away.
@@ -45,13 +46,14 @@
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE063-PANEL02; frame mounting
 [PanelMetadata] SOURCE: Scene CH01 01B Tez meets the cart handle | APPLIES TO: CH01-PAGE063-PANEL02; Tez pale shoulder patches
 [PanelMetadata] SOURCE: Visual beat CH01 08B A Tez turns away | APPLIES TO: CH01-PAGE063-PANEL02; low camera, character positions and pale shoulder state
-[PanelContextCopy] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
+[PanelContextCopy] Referenced beat for continuity only. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D01. Frame empty. Eighty tiles in the opaque crate on the right. Ahana’s hand rests on the tile she has laid flat on the left tray.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08B B Ahana stays with him
-[SceneInstruction] Moment and staging. Retain the low camera and character positions specified in Visual beat CH01 08B A. Ahana now lays the loose tile flat with one hand so it no longer reflects Tez’s shoulder, and settles beside him. Tez remains facing away, retaining the pale shoulder stripes shown in Visual beat CH01 08B A. Navya continues studying the frame; the lamp stays on the paving.
+[SceneInstruction] Moment and staging. Retain the low camera and character positions specified in Visual beat CH01 08B A. Ahana now lays the loose tile flat with one hand so it no longer reflects Tez’s shoulder, and settles beside him. Tez remains facing away, retaining the pale shoulder stripes shown in Visual beat CH01 08B A. Navya continues studying the frame; the lamp stays on the paving. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] Ahana notices. She puts the tile flat and stays beside him while Navya studies the frame.
+[CaptionCopy] Ahana sees Tez turn away. She lays the tile flat and stays beside him while Navya studies the frame.
 [PanelBoundary] END PANEL CH01-PAGE063-PANEL02
 ## Scene CH01 08C All eighty one in a square
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -70,9 +72,10 @@
 [PanelContextCopy] Planning requirements. No nine-by-nine grid in the setup. Lead directly into T1.4. The teaching’s 5-by-5 square and other diagrams retain their own numbers and are not this story mirror.
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE063-PANEL03; frame mounting
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D01. Frame empty. Eighty tiles in the opaque crate on the right. The single loose tile stays flat on the tray.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08C A Navya asks for equal sides
-[SceneInstruction] Moment and staging. Medium at the empty frame: Navya indicates its vertical edge with one hand and horizontal edge with the other, looking along the square. Ahana stays beside Tez, lamp still on the paving. Vihaan, Tara and the helper retain the positions specified under Cast and staging in Scene CH01 08C.
+[SceneInstruction] Moment and staging. Medium at the empty frame: Navya indicates its vertical edge with one hand and horizontal edge with the other, looking along the square. Ahana stays beside Tez, lamp still on the paving. Vihaan, Tara and the helper retain the positions specified under Cast and staging in Scene CH01 08C. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] We need the same number of tiles along both sides.
@@ -88,11 +91,12 @@
 [PanelContextCopy] Planning requirements. No nine-by-nine grid in the setup. Lead directly into T1.4. The teaching’s 5-by-5 square and other diagrams retain their own numbers and are not this story mirror.
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE063-PANEL04; frame mounting
 [PanelMetadata] SOURCE: Visual beat CH01 08C A Navya asks for equal sides | APPLIES TO: CH01-PAGE063-PANEL04; camera and character positions
-[PanelContextCopy] Moment and staging. Medium at the empty frame: Navya indicates its vertical edge with one hand and horizontal edge with the other, looking along the square. Ahana stays beside Tez, lamp still on the paving. Vihaan, Tara and the helper retain the positions specified under Cast and staging in Scene CH01 08C.
+[PanelContextCopy] Referenced beat for continuity only. Medium at the empty frame: Navya indicates its vertical edge with one hand and horizontal edge with the other, looking along the square. Ahana stays beside Tez, lamp still on the paving. Vihaan, Tara and the helper retain the positions specified under Cast and staging in Scene CH01 08C.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D01. Frame empty. Eighty tiles in the opaque crate on the right. The single loose tile stays flat on the tray.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08C B Navya includes every tile
-[SceneInstruction] Moment and staging. Separate panel retaining the camera, Navya’s position and Ahana’s and Tez’s positions specified in Visual beat CH01 08C A, and Vihaan’s, Tara’s and the helper’s locations specified under Cast and staging in Scene CH01 08C. Navya lowers one hand towards the opaque tile crate and turns her gaze to the group; her other hand remains beside the frame edge. Keep the frame empty and the count unsolved.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, Navya’s position and Ahana’s and Tez’s positions specified in Visual beat CH01 08C A, and Vihaan’s, Tara’s and the helper’s locations specified under Cast and staging in Scene CH01 08C. Navya lowers one hand towards the opaque tile crate and turns her gaze to the group; her other hand remains beside the frame edge. Keep the frame empty and the count unsolved. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] And we must use all eighty-one.
@@ -110,7 +114,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08C C Ahana asks for the side length
-[SceneInstruction] Moment and staging. New speaking image at the location specified under Setting in Scene CH01 08C: Ahana turns towards Navya from beside Tez, one open palm directed towards a single side of the empty frame. Her lamp remains on the paving, leaving that hand free. Navya looks back at her and lowers her gesture. No nine-by-nine answer appears before teaching.
+[SceneInstruction] Moment and staging. New speaking image at the location specified under Setting in Scene CH01 08C: Ahana turns towards Navya from beside Tez, one open palm directed towards a single side of the empty frame. Her lamp remains on the paving, leaving that hand free. Navya looks back at her and lowers her gesture. No nine-by-nine answer appears before teaching. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] How can we find the number along one side from the total?

@@ -1,0 +1,40 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 054
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE054-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | Example 12
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE054-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 12
+Check whether 3840 is divisible by 2, 3, 4, 5, 6, 7, 8, 9, 10, 25 or 100.
+[AnswerLead] Let’s work it through
+Keep 3840 in sight while you use each test. Its digit sum is 3 + 8 + 4 + 0 = 15. In the table, divisor means the number we are dividing by: 2, 3, 4 and so on.
+| Divisor | Working for 3840 | Divisible |
+| 2 | Last digit 0 is even. | Yes |
+| 3 | Digit sum 15 = 3 × 5. | Yes |
+| 4 | Last two digits: 40 ÷ 4 = 10. | Yes |
+| 5 | Last digit is 0. | Yes |
+| 6 | Both the 2-test and the 3-test pass. | Yes |
+| 7 | 384 − 2 × 0 = 384; then 38 − 2 × 4 = 30. 30 is not a multiple of 7. | No |
+| 8 | Last three digits: 840 ÷ 8 = 105. | Yes |
+| 9 | Digit sum 15 is not a multiple of 9. | No |
+| 10 | Last digit is 0. | Yes |
+| 25 | Ending 40 is not 00, 25, 50 or 75. | No |
+| 100 | Ending 40 is not 00. | No |
+[Production] Production note T03. Use eleven rows in the stated divisor order. Keep every reason aligned with its yes or no result. In the 7-row preserve both subtraction stages; do not merge the 3-test and 9-test despite their shared digit sum. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+So 3840 is divisible by 2, 3, 4, 5, 6, 8 and 10 from the given list.
+[PanelBoundary] END PANEL CH01-PAGE054-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE054-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | Think about 15
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE054-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Think about 15
+How could you test whether a number is divisible by 15?
+[AnswerLead] Check your thinking
+15 = 3 × 5. Check that the number is divisible by both 3 and 5: its digit sum must be divisible by 3, and its last digit must be 0 or 5.
+To see why both matter, list multiples of 5: 5, 10, 15, 20, 25, 30, … . Every third one is divisible by 3, giving exactly the multiples of 15: 15, 30, 45, … .
+[PanelBoundary] END PANEL CH01-PAGE054-PANEL02

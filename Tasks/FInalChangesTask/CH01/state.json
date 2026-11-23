@@ -27,6 +27,154 @@
      "note": "identity vs sheet OK (amber eyes, stripes, cream muzzle/cheek tufts, black-ringed tail); navy scarf silver trim + crescent-moon silver clasp; 1 character; 4 cub paws, sitting on haunches, holding nothing; head tilted to reader, pleased smile; kit box open and empty; no lenses/rings/sample; no lettering; edges fade to pale mist; top ~18% calm (left ear tip reaches ~18%, lamp top-right 8-25%)"
     }
    ]
+  },
+  "P107-1": {
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P107-w1",
+     "at": "2026-11-23T18:39:25",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "9549a105a163",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0469
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P107-r2",
+     "at": "2026-11-23T18:55:35",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "cbb74f7f5f4f",
+     "refs": [
+      "item:P107-1"
+     ],
+     "instruction": "Ahana (the curly-haired girl with the navy backpack, left of centre, seen from behind) has the cream paper sleeve on her right side next to the brass lamp. Move the sleeve to her LEFT hand: her left arm hangs down at the left side of her body as we see her back (the side towards Tara), and her left hand holds the flat, plain cream paper sleeve against her left thigh, clearly visible above the bottom edge of the picture. Her right hand keeps only the brass lamp, exactly as it is now; no paper on her right side.",
+     "usd": 0.0273
+    }
+   ],
+   "note": "",
+   "qc": [
+    {
+     "at": "2026-11-23T18:50:34",
+     "verdict": "fail",
+     "note": "attempt 1: identity (back views), staff in Tara's RIGHT, lamp in Ahana's RIGHT, Vihaan hand at neck, Navya arms folded, tipped intact bowl at the wheel's lower-left outer edge in the central gap, other bowls, oversized dosa, 3 wooden helpers behind the left counter, plain lintel, no lettering: all OK. DEFECT: the paper sleeve is on Ahana's RIGHT side beside the lamp instead of in her LEFT hand -> local fix queued. NOTE: helpers (x .29-.43, y .20-.30) and dosa top sit in the planned caption band x .22-.70; upper-right x .44-.92 is calm (caption placement flag for master)"
+    }
+   ]
+  },
+  "P107-2": {
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P107-w1",
+     "at": "2026-11-23T18:39:25",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "f9ab97bac3f7",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0458
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "batch:CH01-P107-r2",
+     "at": "2026-11-23T18:55:35",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "d402d057fd22",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0462
+    }
+   ],
+   "note": "",
+   "qc": [
+    {
+     "at": "2026-11-23T18:50:34",
+     "verdict": "fail",
+     "note": "attempt 1: Tez identity/expression excellent (indigo-blue stripes), but (a) the 3 children's faces fill the top lettering band (y .14-.36), (b) Tara holds the staff in her LEFT hand, (c) no pale-grey shoulder stripes, (d) geography: the brass sill runs in front of Tez (y .84-.91) so Tez, bowls and children are inside Food Street, the children even past the cart wheel. Prompt v2: explicit depth order, small low group, Tara 3/4 back view with staff in RIGHT hand on her outer side, faded stripes named"
+    }
+   ]
+  },
+  "P107-3": {
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P107-w1",
+     "at": "2026-11-23T18:39:25",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "cbca5e2a09ea",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.046
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "batch:CH01-P107-r2",
+     "at": "2026-11-23T18:55:35",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "d9e575d067ab",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0463
+    }
+   ],
+   "note": "",
+   "qc": [
+    {
+     "at": "2026-11-23T18:50:34",
+     "verdict": "fail",
+     "note": "attempt 1: identities, Tez, Ahana's hands (lamp RIGHT, sleeve LEFT) and background good, but (a) Tara's hands mirrored: staff in her LEFT hand, sleeve taken with her RIGHT (violates the custody rule P107-4/5 inherit), (b) Tara's head y .08-.27 and staff top fill the P107-4/5 bubble band, (c) group spans x .08-.89 (Vihaan outside the P107-3 crop .19-.89), (d) tipped bowl on the wheel's lower-right, (e) children slightly too tall vs Tara, no pale-grey stripes. Prompt v2: over-the-shoulder 3/4 back view of Tara (near LEFT hand takes the sleeve, staff in far RIGHT hand on her outer side), head top 28 %, group 20-87 %"
+    }
+   ]
+  },
+  "P107-4": {
+   "status": "todo",
+   "attempts": [],
+   "note": ""
+  },
+  "P107-5": {
+   "status": "todo",
+   "attempts": [],
+   "note": ""
   }
  },
  "fix_queue": {}

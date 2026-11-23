@@ -4,7 +4,7 @@
 [ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
 ## Scene CH01 03D Can the change be undone
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
-[SceneInstruction] View. Medium close of both children’s hands and the last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
+[SceneInstruction] View. Medium close of the assigned speaker’s mouth beside the controller and its last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
 [SceneInstruction] Cast and staging across the scene. Vihaan reaches towards a loose +2 card but does not insert it. Ahana indicates the cancel button with her free left hand while holding the lamp in her right. Navya keeps her hand away from the button. Tara points to −2 in the window and asks the group for the resulting position. Tez sits behind them.
 [SceneInstruction] Props and state progression. HOLD remains engaged; car remains at −5. The hidden card remains in the slot. The cancel function will reverse the recorded movement only when released and pressed.
 [SceneInstruction] Planning requirements. No +2 movement or −3 result is drawn yet. Tara addresses the children; Vihaan’s final question opens T1.1B.
@@ -13,14 +13,15 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE014-PANEL01; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 03D Can the change be undone | APPLIES TO: CH01-PAGE014-PANEL01; CH01 03D A
-[PanelContextCopy] View. Medium close of both children’s hands and the last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
+[PanelContextCopy] View. Medium close of the assigned speaker’s mouth beside the controller and its last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
 [PanelContextCopy] Cast and staging across the scene. Vihaan reaches towards a loose +2 card but does not insert it. Ahana indicates the cancel button with her free left hand while holding the lamp in her right. Navya keeps her hand away from the button. Tara points to −2 in the window and asks the group for the resulting position. Tez sits behind them.
 [PanelContextCopy] Props and state progression. HOLD remains engaged; car remains at −5. The hidden card remains in the slot. The cancel function will reverse the recorded movement only when released and pressed.
 [PanelContextCopy] Planning requirements. No +2 movement or −3 result is drawn yet. Tara addresses the children; Vihaan’s final question opens T1.1B.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Loaded car held at −5. The HOLD control latches. Tara can lift her finger and point at −2 in the last-change window. Include the speaking mouth and controller to the right of the gate. Vihaan and both girls stay upstairs.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03D A Ahana sees another option
-[SceneInstruction] Moment and staging. Vihaan reaches towards the loose +2 card, without inserting it. Ahana indicates CANCEL LAST CHANGE with her free left index finger and asks the group her question; the lamp remains in her right. Navya keeps both hands clear. The car remains held at −5.
+[SceneInstruction] Moment and staging. Vihaan reaches towards the loose +2 card, without inserting it. Ahana indicates CANCEL LAST CHANGE with her free left index finger and asks the group her question; the lamp remains in her right. Navya keeps both hands clear. The car remains held at −5. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Vihaan reaches for a +2 card. Ahana notices a button beside the record window: CANCEL LAST CHANGE.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: she asks.
@@ -32,14 +33,15 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE014-PANEL02; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 03D Can the change be undone | APPLIES TO: CH01-PAGE014-PANEL02; CH01 03D B
-[PanelContextCopy] View. Medium close of both children’s hands and the last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
+[PanelContextCopy] View. Medium close of the assigned speaker’s mouth beside the controller and its last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
 [PanelContextCopy] Cast and staging across the scene. Vihaan reaches towards a loose +2 card but does not insert it. Ahana indicates the cancel button with her free left hand while holding the lamp in her right. Navya keeps her hand away from the button. Tara points to −2 in the window and asks the group for the resulting position. Tez sits behind them.
 [PanelContextCopy] Props and state progression. HOLD remains engaged; car remains at −5. The hidden card remains in the slot. The cancel function will reverse the recorded movement only when released and pressed.
 [PanelContextCopy] Planning requirements. No +2 movement or −3 result is drawn yet. Tara addresses the children; Vihaan’s final question opens T1.1B.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Loaded car held at −5. The HOLD control latches. Tara can lift her finger and point at −2 in the last-change window. Include the speaking mouth and controller to the right of the gate. Vihaan and both girls stay upstairs.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03D B Tara points to what will be reversed
-[SceneInstruction] Moment and staging. Retain the controller-side camera and character locations specified under View and Cast and staging in Scene CH01 03D. Tara now points with her free left finger to the −2 last-change window while holding her staff in her right. She looks at the children and speaks. Ahana lowers her pointing hand but keeps the lamp fixed; no button is pressed.
+[SceneInstruction] Moment and staging. Retain the controller-side camera and character locations specified under View and Cast and staging in Scene CH01 03D. Tara now points with her free left finger to the −2 last-change window while holding her staff in her right. She looks at the children and speaks. Ahana lowers her pointing hand but keeps the lamp fixed; no button is pressed. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara points to the window, which still shows −2.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
@@ -51,38 +53,40 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE014-PANEL03; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 03D Can the change be undone | APPLIES TO: CH01-PAGE014-PANEL03; CH01 03D C
-[PanelContextCopy] View. Medium close of both children’s hands and the last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
+[PanelContextCopy] View. Medium close of the assigned speaker’s mouth beside the controller and its last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
 [PanelContextCopy] Cast and staging across the scene. Vihaan reaches towards a loose +2 card but does not insert it. Ahana indicates the cancel button with her free left hand while holding the lamp in her right. Navya keeps her hand away from the button. Tara points to −2 in the window and asks the group for the resulting position. Tez sits behind them.
 [PanelContextCopy] Props and state progression. HOLD remains engaged; car remains at −5. The hidden card remains in the slot. The cancel function will reverse the recorded movement only when released and pressed.
 [PanelContextCopy] Planning requirements. No +2 movement or −3 result is drawn yet. Tara addresses the children; Vihaan’s final question opens T1.1B.
 [PanelMetadata] SOURCE: Visual beat CH01 03D B Tara points to what will be reversed | APPLIES TO: CH01-PAGE014-PANEL03; Ahana lamp and lowered pointing hand
 [PanelContextCopy] Ahana lowers her pointing hand but keeps the lamp fixed; no button is pressed.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Loaded car held at −5. The HOLD control latches. Tara can lift her finger and point at −2 in the last-change window. Include the speaking mouth and controller to the right of the gate. Vihaan and both girls stay upstairs.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03D C Vihaan restates the instruction
-[SceneInstruction] Moment and staging. Retain the camera and character locations specified under View and Cast and staging in Scene CH01 03D. Vihaan withdraws his reaching hand from the +2 card and looks thoughtfully at the −2 window, palm turned slightly up. He says the first short line; the card stays on the shelf.
+[SceneInstruction] Moment and staging. Retain the camera and character locations specified under View and Cast and staging in Scene CH01 03D. Vihaan withdraws his reaching hand from the +2 card and looks thoughtfully at the −2 window, palm turned slightly up. He says the first short line; the card stays on the shelf. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth | Source speech attribution: Vihaan says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
-[DialogueCopy] Undo down two.
+[DialogueCopy] We need to undo that last drop.
 [PanelBoundary] END PANEL CH01-PAGE014-PANEL03
 [PanelIdentifier] PANEL CH01-PAGE014-PANEL04
 [PanelMetadata] SOURCE: Visual beat CH01 03D D Vihaan asks the direction
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE014-PANEL04; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 03D Can the change be undone | APPLIES TO: CH01-PAGE014-PANEL04; CH01 03D D
-[PanelContextCopy] View. Medium close of both children’s hands and the last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
+[PanelContextCopy] View. Medium close of the assigned speaker’s mouth beside the controller and its last-change window. Frame the CANCEL LAST CHANGE button clearly without covering its label.
 [PanelContextCopy] Cast and staging across the scene. Vihaan reaches towards a loose +2 card but does not insert it. Ahana indicates the cancel button with her free left hand while holding the lamp in her right. Navya keeps her hand away from the button. Tara points to −2 in the window and asks the group for the resulting position. Tez sits behind them.
 [PanelContextCopy] Props and state progression. HOLD remains engaged; car remains at −5. The hidden card remains in the slot. The cancel function will reverse the recorded movement only when released and pressed.
 [PanelContextCopy] Planning requirements. No +2 movement or −3 result is drawn yet. Tara addresses the children; Vihaan’s final question opens T1.1B.
 [PanelMetadata] SOURCE: Visual beat CH01 03D C Vihaan restates the instruction | APPLIES TO: CH01-PAGE014-PANEL04; Vihaan open palm and withdrawn card hand
-[PanelContextCopy] Moment and staging. Retain the camera and character locations specified under View and Cast and staging in Scene CH01 03D. Vihaan withdraws his reaching hand from the +2 card and looks thoughtfully at the −2 window, palm turned slightly up. He says the first short line; the card stays on the shelf.
+[PanelContextCopy] Referenced beat for continuity only. Retain the camera and character locations specified under View and Cast and staging in Scene CH01 03D. Vihaan withdraws his reaching hand from the +2 card and looks thoughtfully at the −2 window, palm turned slightly up. He says the first short line; the card stays on the shelf.
 [PanelMetadata] SOURCE: Visual beat CH01 03D B Tara points to what will be reversed | APPLIES TO: CH01-PAGE014-PANEL04; Ahana lamp and lowered pointing hand
 [PanelContextCopy] Ahana lowers her pointing hand but keeps the lamp fixed; no button is pressed.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Loaded car held at −5. The HOLD control latches. Tara can lift her finger and point at −2 in the last-change window. Include the speaking mouth and controller to the right of the gate. Vihaan and both girls stay upstairs.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03D D Vihaan asks the direction
-[SceneInstruction] Moment and staging. Separate panel retaining the background and character locations specified under Setting and Cast and staging in Scene CH01 03D; keep their feet in place. Vihaan changes his gaze from the window to Tara and raises the open palm specified in Visual beat CH01 03D C a little, eyebrows lifted. Keep his hand clear of controls. Tara listens without pointing out the solved destination. This new pose and second dialogue lead into the teaching.
+[SceneInstruction] Moment and staging. Separate panel retaining the background and character locations specified under Setting and Cast and staging in Scene CH01 03D; keep their feet in place. Vihaan changes his gaze from the window to Tara and raises the open palm specified in Visual beat CH01 03D C a little, eyebrows lifted. Keep his hand clear of controls. Tara listens without pointing out the solved destination. This new pose and second dialogue lead into the teaching. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
-[DialogueCopy] Which direction will that send us?
+[DialogueCopy] Which way will the car move?
 [PanelBoundary] END PANEL CH01-PAGE014-PANEL04

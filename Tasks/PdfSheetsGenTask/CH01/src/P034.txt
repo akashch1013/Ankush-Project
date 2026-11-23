@@ -7,7 +7,7 @@
 [ProductionContextSource] Carried forward from Scene CH01 05D — shared production instructions | Applies to: Assigned beats of Scene CH01 05D; Reference in Visual beat CH01 05D D The corrected start is set
 [ProductionContextCopy] Setting. Lantern Street timing bench. The left end of the continuous pale bench stands against the street’s right-hand blue wall under a warm lamp. One carved bird sits on one short sliding platform. Blue catch and lamp are physically left, gold catch and lamp right; the beat strip lies between. The kit area continues farther right. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
 [ProductionContextSource] Carried forward from Scene CH01 05D — shared production instructions | Applies to: Assigned beats of Scene CH01 05D
-[ProductionContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[ProductionContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the stationary platform at its original mark.
 [ProductionContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
 [ProductionContextCopy] Props and state progression. Exact lists: blue 4, 8, 12; gold 6, 12. Start card now 12. Platform at its initial mark; catch periods still 4 and 6.
 [ProductionContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
@@ -17,16 +17,17 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE034-PANEL01; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE034-PANEL01; CH01 05D D
-[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the stationary platform at its original mark.
 [PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
 [PanelContextCopy] Props and state progression. Exact lists: blue 4, 8, 12; gold 6, 12. Start card now 12. Platform at its initial mark; catch periods still 4 and 6.
 [PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Card now 12. Tara restarts the counter while the bird remains at its original mark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05D D The corrected start is set
-[SceneInstruction] Moment and staging. The children place the start card at 12 and the bird is back at its starting mark. Freeze Tara’s free hand starting the counter, with both catches down at the beginning of the run. Preserve the bench geometry specified under Setting in Scene CH01 05D.
+[SceneInstruction] Moment and staging. The children place the start card at 12 and the bird remains at its starting mark. Freeze Tara’s free hand starting the counter, with both catches down at the beginning of the run. Preserve the bench geometry specified under Setting in Scene CH01 05D. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] They put the start card at twelve and return the bird to its starting mark. Tara starts the counter.
+[CaptionCopy] They set the start card to twelve. The bird is still at its mark. Tara starts the counter.
 [PanelBoundary] END PANEL CH01-PAGE034-PANEL01
 ## Scene CH01 05E The bird can move
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -43,9 +44,10 @@
 [PanelMetadata] SOURCE: Scene CH01 05E The bird can move | APPLIES TO: CH01-PAGE034-PANEL02; bird, platform and shared opening
 [PanelContextCopy] One bird, one platform, two clear catches at beat 12.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S03-D01. Both catches lift on 12. Platform still at its mark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05E A The shared opening
-[SceneInstruction] Moment and staging. Close on the timing device at beat 12. Both catches are raised together and the platform is just ready to leave its starting mark. This is the first simultaneous clear state.
+[SceneInstruction] Moment and staging. Close on the timing device at beat 12. Both catches are raised together and the platform is just ready to leave its starting mark. This is the first simultaneous clear state. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] At beat twelve, both catches rise.
 [PanelBoundary] END PANEL CH01-PAGE034-PANEL02
@@ -58,11 +60,12 @@
 [PanelMetadata] SOURCE: Scene CH01 05E The bird can move | APPLIES TO: CH01-PAGE034-PANEL03; platform end stop
 [PanelContextCopy] The platform stops at its end mark.
 [PanelMetadata] SOURCE: Visual beat CH01 05E A The shared opening | APPLIES TO: CH01-PAGE034-PANEL03; device camera and framing
-[PanelContextCopy] Moment and staging. Close on the timing device at beat 12. Both catches are raised together and the platform is just ready to leave its starting mark. This is the first simultaneous clear state.
+[PanelContextCopy] Referenced beat for continuity only. Close on the timing device at beat 12. Both catches are raised together and the platform is just ready to leave its starting mark. This is the first simultaneous clear state.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S03-D02. Platform at end stop following its first slide, bird bowing.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05E B The bird completes its movement
-[SceneInstruction] Moment and staging. Retain the device camera and framing specified in Visual beat CH01 05E A after the slide: the platform has stopped forward and the carved bird is in its bow. Do not draw a motion duplicate at the start. The children watch from the safe side.
+[SceneInstruction] Moment and staging. Retain the device camera and framing specified in Visual beat CH01 05E A after the slide: the platform has stopped forward and the carved bird is in its bow. Do not draw a motion duplicate at the start. The children watch from the safe side. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The bird’s little platform slides forward and stops. The bird bows.
 [PanelBoundary] END PANEL CH01-PAGE034-PANEL03
@@ -78,7 +81,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05E C Tez answers the bow
-[SceneInstruction] Moment and staging. Low medium of Tez bowing towards the stopped bird, forelegs flexed and head lowered. The others smile; the corrected start card stays at 12. This reaction follows the bird’s bow.
+[SceneInstruction] Moment and staging. Low medium of Tez bowing towards the stopped bird, forelegs flexed and head lowered. The others smile; the corrected start card stays at 12. This reaction follows the bird’s bow. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tez bows back.
 [PanelBoundary] END PANEL CH01-PAGE034-PANEL04
@@ -91,9 +94,10 @@
 [PanelMetadata] SOURCE: Lantern Street Cube Plinth, Handle and Moonline Joint | APPLIES TO: CH01-PAGE034-PANEL05; board wall and handle location
 [PanelContextCopy] A low square plinth under an indigo canopy stands opposite the mirror. The five-indicator wall control and large down-pull handle are on its right. One flat brass cover lies in the paving at the plinth’s front-right corner, over the moonline joint.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Right-wall board at cube end: LIFT and RHYTHM white. Remaining indicators dark. Arches dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05E D The rhythm light joins lift
-[SceneInstruction] Moment and staging. Small board insert on the real control wall: LIFT and RHYTHM white; SUPPLIES, MIRROR and CUBE dark. The main arches remain unlit.
+[SceneInstruction] Moment and staging. Small board insert on the real control wall: LIFT and RHYTHM white; SUPPLIES, MIRROR and CUBE dark. The main arches remain unlit. Background and fixed landmarks. Insert at the cube-end right wall. The indicator row is attached beside the plinth and handle. Keep a narrow rim of the blue wall around the board. The group’s previous workstation is elsewhere along the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] RHYTHM lights up beside LIFT.
 [PanelBoundary] END PANEL CH01-PAGE034-PANEL05

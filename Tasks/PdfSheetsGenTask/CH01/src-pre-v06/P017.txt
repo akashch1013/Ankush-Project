@@ -1,0 +1,101 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 017
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Assigned beats of Scene CH01 03E; Assigned beats of Scene CH01 03F; Assigned beats of Scene CH01 03G
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 03E Undoing the recorded drop
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Close controller view paired with a separate stopped-car view at −3. Keep the brass guard and warm lamp as shared anchors.
+[SceneInstruction] Cast and staging across the scene. For the controller still, Tara releases HOLD and Navya presses CANCEL LAST CHANGE; freeze with Tara’s hand clear before Navya’s press. Ahana lights the window and Vihaan watches. For the result still, the helper and fastened cart remain inside the car at −3. Tez stays on the paving.
+[SceneInstruction] Props and state progression. The recorded −2 movement is reversed once. The car goes from −5 back to −3. Do not also insert Vihaan’s +2 card.
+[SceneInstruction] Planning requirements. Use separate stills for button action and stopped result; place the first sentence of the caption with the prediction and the remaining action caption across the action/result sequence without repeating it.
+[PanelIdentifier] PANEL CH01-PAGE017-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 03E A The predicted correction
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE017-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 03E Undoing the recorded drop | APPLIES TO: CH01-PAGE017-PANEL01; CH01 03E A
+[PanelMetadata] SOURCE: Scene CH01 03E Undoing the recorded drop | APPLIES TO: CH01-PAGE017-PANEL01; Ahana, Vihaan and Tez
+[PanelContextCopy] Ahana lights the window and Vihaan watches. Tez stays on the paving.
+[PanelMetadata] SOURCE: Scene CH01 03B The unplanned drop | APPLIES TO: CH01-PAGE017-PANEL01; Tara staff hand
+[PanelContextCopy] Tara presses HOLD with her left hand, staff in her right.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 03E A The predicted correction
+[SceneInstruction] Moment and staging. Before either control is used, frame the −2 last-change window and the held car at −5. Navya studies the record, Tara is poised to release HOLD. The caption states the prediction; do not show its physical result yet.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The last movement was down two. Undoing it will take the car up two, back from −5 to −3.
+[PanelBoundary] END PANEL CH01-PAGE017-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE017-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 03E B The controls are used
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE017-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 03E Undoing the recorded drop | APPLIES TO: CH01-PAGE017-PANEL02; CH01 03E B
+[PanelMetadata] SOURCE: Scene CH01 03E Undoing the recorded drop | APPLIES TO: CH01-PAGE017-PANEL02; Ahana, Vihaan and Tez
+[PanelContextCopy] Ahana lights the window and Vihaan watches. Tez stays on the paving.
+[PanelMetadata] SOURCE: Scene CH01 03B The unplanned drop | APPLIES TO: CH01-PAGE017-PANEL02; Tara staff hand
+[PanelContextCopy] Tara presses HOLD with her left hand, staff in her right.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 03E B The controls are used
+[SceneInstruction] Moment and staging. Close on the controller specified under Setting in Scene CH01 03E. Tara’s left hand is now clear of HOLD after releasing it; Navya presses CANCEL LAST CHANGE. Keep the −2 recorded change readable. Ahana lights their hands; Vihaan watches. There is only one corrective command.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara releases HOLD for the correction. Navya presses the button.
+[PanelBoundary] END PANEL CH01-PAGE017-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE017-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 03E C The predicted position is reached
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE017-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 03E Undoing the recorded drop | APPLIES TO: CH01-PAGE017-PANEL03; CH01 03E C
+[PanelMetadata] SOURCE: Scene CH01 03E Undoing the recorded drop | APPLIES TO: CH01-PAGE017-PANEL03; helper and secured cart in result
+[PanelContextCopy] For the result still, the helper and fastened cart remain inside the car at −3.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 03E C The predicted position is reached
+[SceneInstruction] Moment and staging. Cut to the stopped car at −3 with helper and fastened cart inside. Use the shaft and fixed-lamp background anchors specified under Setting in Scene CH01 03E. The remaining caption belongs to this result, without repeating the prediction caption assigned to Visual beat CH01 03E A.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The car rises to the position they expected.
+[PanelBoundary] END PANEL CH01-PAGE017-PANEL03
+## Scene CH01 03F Removing the extra card
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Silent close-up of the card slot and controller shelf.
+[SceneInstruction] Cast and staging across the scene. Navya removes the thin −2 card and lays it apart on the controller shelf, then checks the next slot. Ahana holds the lamp to the right of Navya’s hands. Tara watches from behind the guard; Vihaan is beside the strip. Tez is out of the close crop.
+[SceneInstruction] Props and state progression. Car held at −3 during this preparation. The hidden card is now separated from the usable movement cards. The +3 card is ready.
+[SceneInstruction] Planning requirements. This is the preparatory moment contained in the following source sentence, which is printed once in 03G. Do not duplicate that caption or add dialogue.
+[PanelIdentifier] PANEL CH01-PAGE017-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 03F A The extra card is removed
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE017-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 03F Removing the extra card | APPLIES TO: CH01-PAGE017-PANEL04; CH01 03F A
+[PanelContextCopy] View. Silent close-up of the card slot and controller shelf.
+[PanelContextCopy] Cast and staging across the scene. Navya removes the thin −2 card and lays it apart on the controller shelf, then checks the next slot. Ahana holds the lamp to the right of Navya’s hands. Tara watches from behind the guard; Vihaan is beside the strip. Tez is out of the close crop.
+[PanelContextCopy] Props and state progression. Car held at −3 during this preparation. The hidden card is now separated from the usable movement cards. The +3 card is ready.
+[PanelContextCopy] Planning requirements. This is the preparatory moment contained in the following source sentence, which is printed once in 03G. Do not duplicate that caption or add dialogue.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 03F A The extra card is removed
+[SceneInstruction] Moment and staging. Freeze Navya holding the removed −2 card just above a separate patch of controller shelf. Her other hand checks the next slot without activating it. Tara supervises and Ahana lights the hands. This silent visual is followed by narration in 03G; print that narration only there.
+[SourceLocator] No printable text in this beat.
+[PanelBoundary] END PANEL CH01-PAGE017-PANEL04
+## Scene CH01 03G At zero with a shut gate
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Low street-side view across the paving to the level car floor and closed gate; the 0 tick is the main anchor.
+[SceneInstruction] Cast and staging across the scene. Ahana crouches outside the gate to check the floor alignment, lamp held clear of the opening. Navya has used the checked +3 card. Vihaan stands beside her. Tara supervises; Tez waits behind Ahana. The helper and secured supply cart remain inside the single car.
+[SceneInstruction] Props and state progression. Car at 0. The hidden −2 card rests separately on the controller shelf. The safety gate is still shut; no supplies have left the car.
+[SceneInstruction] Planning requirements. Keep the floor flush with the street. This is a new gate-catch fault, not another change in lift position.
+[PanelIdentifier] PANEL CH01-PAGE017-PANEL05
+[PanelMetadata] SOURCE: Visual beat CH01 03G A The floor is level with the street
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE017-PANEL05; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 03G At zero with a shut gate | APPLIES TO: CH01-PAGE017-PANEL05; CH01 03G A
+[PanelContextCopy] View. Low street-side view across the paving to the level car floor and closed gate; the 0 tick is the main anchor.
+[PanelContextCopy] Cast and staging across the scene. Ahana crouches outside the gate to check the floor alignment, lamp held clear of the opening. Navya has used the checked +3 card. Vihaan stands beside her. Tara supervises; Tez waits behind Ahana. The helper and secured supply cart remain inside the single car.
+[PanelContextCopy] Props and state progression. Car at 0. The hidden −2 card rests separately on the controller shelf. The safety gate is still shut; no supplies have left the car.
+[PanelContextCopy] Planning requirements. Keep the floor flush with the street. This is a new gate-catch fault, not another change in lift position.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 03G A The floor is level with the street
+[SceneInstruction] Moment and staging. Use one result image at 0: Ahana crouches outside the still-closed safety gate, lamp held clear, comparing the car floor with the paving. Navya stands at the controller after using +3; the removed −2 card lies separately on the shelf. The helper and cart stay inside. All three caption paragraphs share this visual; they do not request three panels.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She removes the hidden card, checks the next slot and uses +3 to bring the helper to 0.
+[CaptionCopy] Ahana crouches beside the gate. The car floor is level with the paving.
+[CaptionCopy] The gate, however, will not open.
+[PanelBoundary] END PANEL CH01-PAGE017-PANEL05

@@ -1,0 +1,23 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 091
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE091-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 5 Use divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE091-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+| Divisor | 504 | 12345678 |
+| 2 | Yes: final digit 4 is even. | Yes: final digit 8 is even. |
+| 3 | Yes: digit sum 9. | Yes: digit sum 36. |
+| 4 | Yes: ending 04 is 4. | No: 78 is not a multiple of 4. |
+| 5 | No: ends in 4. | No: ends in 8. |
+| 6 | Yes: passes both 2 and 3. | Yes: passes both 2 and 3. |
+| 7 | Yes: test gives 42. | No: repeated test gives 9. |
+| 8 | Yes: 504 ÷ 8 = 63. | No: 678 = 8 × 84 + 6. |
+| 9 | Yes: digit sum 9. | Yes: digit sum 36. |
+| 10 | No: does not end in 0. | No: does not end in 0. |
+| 25 | No: 04 is not 00, 25, 50 or 75. | No: 78 is not 00, 25, 50 or 75. |
+| 100 | No: does not end in 00. | No: does not end in 00. |
+[Production] Production note T06. Keep both original numbers, eleven test rows and the reason for each result. An ending of 04 denotes the number 4; do not change the given 504 to 500 or 540. Repeat column headers after any page break. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE091-PANEL01

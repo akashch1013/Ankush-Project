@@ -20,11 +20,12 @@
 [PanelContextCopy] Props and state progression. One joint is restored, using the original ends and screws. Navya puts her tool away and replaces the brass cover in the next scene’s silent closing beat; the reset follows only after the cover is flush. All five indicators remain white.
 [PanelContextCopy] Planning requirements. Keep both hands and tool physically workable. No child touches an exposed real-world mains wire; this is the source’s fictional moonline connector. Do not add a new printed safety lecture.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Lamp in Tara’s hand above the exposed joint. Navya rejoins the connection.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10G A Navya repairs the joint
-[SceneInstruction] Moment and staging. Use the low working camera and framing specified under View in Scene CH01 10G. Tara now holds the portable lamp to illuminate Navya’s hands; her staff stays against the wall. Navya kneels and uses her tool to join the original ends. Ahana stands beside the control, Vihaan keeps the loose cover clear and Tez waits back. The caption is printed here once; the quiet closure and reset occur in Visual beats CH01 10H A and CH01 10H B respectively.
+[SceneInstruction] Moment and staging. Use the low working camera and framing specified under View in Scene CH01 10G. Tara now holds the portable lamp to illuminate Navya’s hands; her staff stays against the wall. Navya kneels and uses her tool to join the original ends. Ahana stands beside the control, Vihaan keeps the loose cover clear and Tez waits back. The caption is printed here once; the quiet closure and reset occur in Visual beats CH01 10H A and CH01 10H B respectively. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] She holds the lamp while Navya rejoins the connection.
+[CaptionCopy] Tara takes the lamp from Ahana and lights the gap while Navya rejoins the connection.
 [PanelBoundary] END PANEL CH01-PAGE100-PANEL01
 ## Scene CH01 10H Ready to try again
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -44,9 +45,10 @@
 [PanelMetadata] SOURCE: Scene CH01 10B Everyone clear | APPLIES TO: CH01-PAGE100-PANEL02; completed cube, mirror and five white indicators
 [PanelContextCopy] All five white indicators, completed cube and mirror.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Silent. Tool stowed. Original brass cover flush. Hands withdrawing.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10H A The opening is closed
-[SceneInstruction] Moment and staging. Silent close result: the original track ends are secure; Navya puts her tool away and lowers the original brass cover flush with the paving. Tara holds the lamp; Vihaan has let go of the cover and keeps the route clear. No caption or dialogue is added.
+[SceneInstruction] Moment and staging. Silent close result: the original track ends are secure; Navya’s tool is stowed, the original brass cover sits flush with the paving and her hands withdraw. Tara holds the lamp; Vihaan has let go of the cover and keeps the route clear. No caption or dialogue is added. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SourceLocator] No printable text in this beat.
 [PanelBoundary] END PANEL CH01-PAGE100-PANEL02
 [PanelIdentifier] PANEL CH01-PAGE100-PANEL03
@@ -61,9 +63,10 @@
 [PanelMetadata] SOURCE: Scene CH01 10B Everyone clear | APPLIES TO: CH01-PAGE100-PANEL03; completed cube, mirror and five white indicators
 [PanelContextCopy] All five white indicators, completed cube and mirror.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Silent. Ahana raises the same handle. Cover closed.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10H B The handle is reset
-[SceneInstruction] Moment and staging. Separate silent medium at the control. The cover is already flush. Ahana returns the same handle to its raised starting position; Navya, Vihaan, Tez and the helper stand clear. Tara retains the lamp and watches. This preparation makes the second down-pull possible; do not print new words.
+[SceneInstruction] Moment and staging. Separate silent medium at the control. The cover is already flush. Ahana returns the same handle to its raised starting position; Navya, Vihaan, Tez and the helper stand clear. Tara retains the lamp and watches. This preparation makes the second down-pull possible; do not print new words. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SourceLocator] No printable text in this beat.
 [PanelBoundary] END PANEL CH01-PAGE100-PANEL03
 ## Scene CH01 10I Light crosses the joint
@@ -82,9 +85,10 @@
 [PanelContextCopy] Props and state progression. Handle down; repaired moonline now continuous through the joint. All five readiness lights white; cube and mirror complete.
 [PanelContextCopy] Planning requirements. Place the source’s “This time” caption here. The illuminated street wide follows as a distinct view, not a second location behind the handle.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Ahana pulls the same handle down again. Light runs along both visible sides of the flush cover.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10I A The second pull works
-[SceneInstruction] Moment and staging. Freeze Ahana’s second down-pull with the moonline now shining continuously across the repaired joint. Tara holds the work lamp and the other children follow the light. The restored street wide is the next beat in 10J; do not place two different street states in this image.
+[SceneInstruction] Moment and staging. Freeze Ahana’s second down-pull with the moonline now shining continuously across the repaired joint. Tara holds the work lamp and the other children follow the light. The restored street wide is the next beat in 10J; do not place two different street states in this image. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] This time, when Ahana pulls the handle, light runs along the moonline.
 [PanelBoundary] END PANEL CH01-PAGE100-PANEL04

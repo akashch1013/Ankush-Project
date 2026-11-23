@@ -1,0 +1,49 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 106
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Master from Entry Court — location instructions | Applies to: Assigned beats of Scene CH01 11D
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 11D The question interrupted
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street. Broad pale paving curves between blue-painted stall walls under tall indigo arches. From Entry Court, the lift is near-left and the timing/supply bench follows the right wall. Farther on the left is the mirror alcove, opposite the right-side cube plinth and final control. Food Street shutters close the far bend. The narrow moonline follows the paving’s physical right edge. Same full-moon night after the joint repair. Golden arch light fills Lantern Street; the moonline is continuous. Warm work lamps remain, with cool moonlight on roofs and the mirror. This repair does not restore Tez’s stripes or ring the Moon Bell.
+[SceneInstruction] View. Return inside to a medium looking along restored Lantern Street towards the still-closed shutters at the far bend.
+[SceneInstruction] Cast and staging across the scene. Ahana turns to Tara and asks who Veer is. Tara is beside her, about to respond. Vihaan and Navya turn towards the sudden crash. Tez’s head swivels towards the shutters. The helper waits behind with the cart.
+[SceneInstruction] Props and state progression. Ahana still holds the evidence sleeve. Before this movement she retrieves the work lamp; Tara retrieves her staff from its supported position at the cube wall. Lantern Street remains repaired, handle down. Shutters have not yet risen in this still.
+[SceneInstruction] Planning requirements. The spoken question precedes the crash. Do not add Tara’s Chapter 02 explanation here. No visible villain causes the sound.
+[PanelIdentifier] PANEL CH01-PAGE106-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 11D A Ahana asks who Veer is
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE106-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11D The question interrupted | APPLIES TO: CH01-PAGE106-PANEL01; CH01 11D A
+[PanelContextCopy] View. Return inside to a medium looking along restored Lantern Street towards the still-closed shutters at the far bend.
+[PanelContextCopy] Props and state progression. Ahana still holds the evidence sleeve. Before this movement she retrieves the work lamp; Tara retrieves her staff from its supported position at the cube wall. Lantern Street remains repaired, handle down. Shutters have not yet risen in this still.
+[PanelContextCopy] Planning requirements. The spoken question precedes the crash. Do not add Tara’s Chapter 02 explanation here. No visible villain causes the sound.
+[PanelMetadata] SOURCE: Scene CH01 11D The question interrupted | APPLIES TO: CH01-PAGE106-PANEL01; helper and cart
+[PanelContextCopy] The helper waits behind with the cart.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11D A Ahana asks who Veer is
+[SceneInstruction] Moment and staging. Return inside Lantern Street, looking towards the still-closed far shutters. Ahana faces Tara with a direct questioning look. Tara is about to answer, with her retrieved staff in her right hand; Vihaan and Navya listen, Tez stands near Ahana. The sleeve remains with Ahana.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] In Lantern Street…
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks,
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Who is Veer?
+[PanelBoundary] END PANEL CH01-PAGE106-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE106-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 11D B The crash interrupts
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE106-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11D The question interrupted | APPLIES TO: CH01-PAGE106-PANEL02; CH01 11D B
+[PanelContextCopy] View. Return inside to a medium looking along restored Lantern Street towards the still-closed shutters at the far bend.
+[PanelContextCopy] Cast and staging across the scene. Ahana turns to Tara and asks who Veer is. Tara is beside her, about to respond. Vihaan and Navya turn towards the sudden crash. Tez’s head swivels towards the shutters. The helper waits behind with the cart.
+[PanelContextCopy] Props and state progression. Ahana still holds the evidence sleeve. Before this movement she retrieves the work lamp; Tara retrieves her staff from its supported position at the cube wall. Lantern Street remains repaired, handle down. Shutters have not yet risen in this still.
+[PanelContextCopy] Planning requirements. The spoken question precedes the crash. Do not add Tara’s Chapter 02 explanation here. No visible villain causes the sound.
+[PanelMetadata] SOURCE: Visual beat CH01 11D A Ahana asks who Veer is | APPLIES TO: CH01-PAGE106-PANEL02; camera, background and character positions
+[PanelContextCopy] Moment and staging. Return inside Lantern Street, looking towards the still-closed far shutters. Ahana faces Tara with a direct questioning look. Tara is about to answer, with her retrieved staff in her right hand; Vihaan and Navya listen, Tez stands near Ahana. The sleeve remains with Ahana.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11D B The crash interrupts
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, background and character positions specified in Visual beat CH01 11D A. Everyone turns their head towards the closed shutters; Tara’s answer is arrested, mouth closed. Keep the shutters shut in this beat. The crash is narrated by the supplied caption; do not add a new sound-effect word.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] A crash comes from beyond the far shutters.
+[PanelBoundary] END PANEL CH01-PAGE106-PANEL02

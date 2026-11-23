@@ -3,7 +3,7 @@
 [ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q07
 [ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Companion inset Q07
 [ProductionContextSource] Carried forward from Visual beat CH01 08B A — referenced staging | Applies to: Reference in Companion inset Q07
-[ProductionContextCopy] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
+[ProductionContextCopy] Referenced beat for continuity only. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
 [ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
 [PanelIdentifier] PANEL CH01-PAGE066-PANEL01
 [PanelMetadata] SOURCE: Teaching block T1.4 | Example 14
@@ -39,7 +39,7 @@ Evaluate (a) √256 and (b) √441.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q07
-[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 14 in Teaching block T1.4. Ahana crouches beside Tez at the empty frame, one hand gently resting near him and her gaze directed to the teaching diagram. Do not introduce her story sketch before the solution. Blue alcove wall, left lamp, padded tray edge and empty brass frame. Retain Tez’s pale shoulder state shown in Visual beat CH01 08B A; the V is concealed.
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 14 in Teaching block T1.4. Ahana crouches beside Tez at the empty frame, one hand gently resting near him and her gaze directed to the teaching diagram. Do not introduce her story sketch before the solution. Blue alcove wall, left lamp, padded tray edge and empty brass frame. Retain Tez’s pale shoulder state shown in Visual beat CH01 08B A; the V is concealed. Background for this inset. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana to the reader | Tail target: Ahana’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Draw what you know. Leave room for what you haven’t found yet.

@@ -1,0 +1,42 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 101
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Master from Entry Court — location instructions | Applies to: Assigned beats of Scene CH01 10J
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 10J The street works
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street. Broad pale paving curves between blue-painted stall walls under tall indigo arches. From Entry Court, the lift is near-left and the timing/supply bench follows the right wall. Farther on the left is the mirror alcove, opposite the right-side cube plinth and final control. Food Street shutters close the far bend. The narrow moonline follows the paving’s physical right edge. Same full-moon night after the joint repair. Golden arch light fills Lantern Street; the moonline is continuous. Warm work lamps remain, with cool moonlight on roofs and the mirror. This repair does not restore Tez’s stripes or ring the Moon Bell.
+[SceneInstruction] View. Restored wide looking from the cube end back towards Entry Court, followed by a medium of the group against a blue stall wall. In this reverse direction the physical right-wall bench appears screen-left and the mirror side appears screen-right.
+[SceneInstruction] Cast and staging across the scene. Tez presses against the children’s lower legs in delight. Vihaan raises both hands to form a bird shadow on the wall. Tara holds the work lamp at a position that casts that shadow, watching the lit arches with relief. Ahana laughs; Navya relaxes and looks up rather than searching for another fault. The helper stands with its cart out of the lane; distant wooden crews admire their secured work.
+[SceneInstruction] Props and state progression. Main arches now golden; moonline continuous; five indicators white; handle down; cube 4 × 4 × 4 and mirror 9 × 9 remain complete. Tez’s faded stripes have not recovered. Ahana’s evidence sleeve is still in her backpack.
+[SceneInstruction] Planning requirements. Do not swap architecture in the reverse. The source bird shadow is made by Vihaan’s hands; it need not imply that the welcome ring has happened. No public attraction opens. Keep the success intact in all later chapters.
+[PanelIdentifier] PANEL CH01-PAGE101-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 10J A The restored street
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE101-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10J The street works | APPLIES TO: CH01-PAGE101-PANEL01; CH01 10J A
+[PanelMetadata] SOURCE: Scene CH01 10I Light crosses the joint | APPLIES TO: CH01-PAGE101-PANEL01; Tara lamp custody
+[PanelContextCopy] Tara holds the work lamp, looking along the track.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10J A The restored street
+[SceneInstruction] Moment and staging. Use the reverse wide specified under View in Scene CH01 10J: arches glowing gold, continuous moonline, finished mirror and cube, all five lights white. Keep bench and mirror on their correct physical sides. The group is near the cube end; this is the first full success reveal.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The tall arches glow gold above the street.
+[PanelBoundary] END PANEL CH01-PAGE101-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE101-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 10J B Tez celebrates
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE101-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10J The street works | APPLIES TO: CH01-PAGE101-PANEL02; CH01 10J B
+[PanelMetadata] SOURCE: Scene CH01 10J The street works | APPLIES TO: CH01-PAGE101-PANEL02; helper, cart and background crews
+[PanelContextCopy] The helper stands with its cart out of the lane; distant wooden crews admire their secured work.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10J B Tez celebrates
+[SceneInstruction] Moment and staging. Medium low at the group’s legs: Tez presses against them, chin lifted and ears up, speaking joyfully to the crew. Tara holds the lamp; the children look down at him. His selected pale stripes remain faded.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tez pushes against their legs.
+[SceneInstruction] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We fixed a street!
+[PanelBoundary] END PANEL CH01-PAGE101-PANEL02

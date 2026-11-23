@@ -22,9 +22,10 @@
 [PanelContextCopy] Planning requirements. This follows all T1.5 teaching and Practice 1E. Include hidden cubes in the total. Do not label the 2-by-2-by-2 or 3-by-3-by-3 teaching models as the story lantern.
 [PanelMetadata] SOURCE: Scene CH01 09A A lantern that cannot close | APPLIES TO: CH01-PAGE082-PANEL01; unsolved physical cube arrangement and control states
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. One 4 × 4 layer diagram beside the same stock of 64 cubes. Top frame stays on guides.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09B A Vihaan explains one layer
-[SceneInstruction] Moment and staging. Medium with an exact single-layer plan beside the plinth: Vihaan indicates four rows of four and speaks. Navya looks at the same plan; Ahana lights it, Tara supervises and the helper waits. The plan represents the same 64 cubes, not extra stock.
+[SceneInstruction] Moment and staging. Medium with an exact single-layer plan beside the plinth: Vihaan indicates four rows of four and speaks. Navya looks at the same plan; Ahana lights it, Tara supervises and the helper waits. The plan represents the same 64 cubes, not extra stock. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth | Source speech attribution: Vihaan says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Four by four makes sixteen in a layer.
@@ -39,12 +40,13 @@
 [PanelContextCopy] Props and state progression. One layer has exactly 4 rows × 4 columns = 16 cubes. Four equal layers form one solid 4 × 4 × 4 cube = 64. Layer plans represent the same blocks, not spare stock.
 [PanelContextCopy] Planning requirements. This follows all T1.5 teaching and Practice 1E. Include hidden cubes in the total. Do not label the 2-by-2-by-2 or 3-by-3-by-3 teaching models as the story lantern.
 [PanelMetadata] SOURCE: Visual beat CH01 09B A Vihaan explains one layer | APPLIES TO: CH01-PAGE082-PANEL02; camera, character locations, background and layer-plan placement
-[PanelContextCopy] Moment and staging. Medium with an exact single-layer plan beside the plinth: Vihaan indicates four rows of four and speaks. Navya looks at the same plan; Ahana lights it, Tara supervises and the helper waits. The plan represents the same 64 cubes, not extra stock.
+[PanelContextCopy] Referenced beat for continuity only. Medium with an exact single-layer plan beside the plinth: Vihaan indicates four rows of four and speaks. Navya looks at the same plan; Ahana lights it, Tara supervises and the helper waits. The plan represents the same 64 cubes, not extra stock.
 [PanelMetadata] SOURCE: Scene CH01 09A A lantern that cannot close | APPLIES TO: CH01-PAGE082-PANEL02; unsolved physical cube arrangement and control states
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. One 4 × 4 layer diagram beside the same stock of 64 cubes. Top frame stays on guides.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09B B Navya explains the four layers
-[SceneInstruction] Moment and staging. Separate speaking image retaining the camera, character locations, background and layer-plan placement specified in Visual beat CH01 09B A. Navya raises four fingers beside the layer plan and turns to the group for her line; Vihaan lowers his pointing hand. Retain the plinth geometry specified under Setting in Scene CH01 09B and the unsolved cube arrangement specified under Props and state progression in Scene CH01 09A until the construction in Visual beat CH01 09B C.
+[SceneInstruction] Moment and staging. Separate speaking image retaining the camera, character locations, background and layer-plan placement specified in Visual beat CH01 09B A. Navya raises four fingers beside the layer plan and turns to the group for her line; Vihaan lowers his pointing hand. Retain the plinth geometry specified under Setting in Scene CH01 09B and the unsolved cube arrangement specified under Props and state progression in Scene CH01 09A until the construction in Visual beat CH01 09B C. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya adds.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] And four layers make sixty-four.
@@ -59,9 +61,10 @@
 [PanelContextCopy] Props and state progression. One layer has exactly 4 rows × 4 columns = 16 cubes. Four equal layers form one solid 4 × 4 × 4 cube = 64. Layer plans represent the same blocks, not spare stock.
 [PanelContextCopy] Planning requirements. This follows all T1.5 teaching and Practice 1E. Include hidden cubes in the total. Do not label the 2-by-2-by-2 or 3-by-3-by-3 teaching models as the story lantern.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Helper places a block on layer four, using the existing stock.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09B C The helper builds the cube
-[SceneInstruction] Moment and staging. Show the helper laying a block on the fourth layer, the first three layers solid beneath it. The completed-edge caption explains four by four by four. Ahana lights the work, the children remain clear of stacking hands and Tara supervises. Keep a precise layer diagram if perspective hides cubes.
+[SceneInstruction] Moment and staging. Show the helper laying a block on the fourth layer, the first three layers solid beneath it. The completed-edge caption explains four by four by four. Ahana lights the work, the children remain clear of stacking hands and Tara supervises. Keep a precise layer diagram if perspective hides cubes. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Each edge therefore needs four blocks. The cube root of sixty-four is four.
 [CaptionCopy] The helper builds the layers.

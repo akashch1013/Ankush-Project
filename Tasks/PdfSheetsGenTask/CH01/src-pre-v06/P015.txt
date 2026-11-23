@@ -1,0 +1,56 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 015
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — teaching copy and figures | Applies to: Teaching block T1.1B
+[ProductionContextSource] Carried forward from Reading this manuscript — question and solution order | Applies to: Teaching block T1.1B
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block T1.1B
+[SourceLocator] Taking away a negative amount
+[SceneInstruction] Production scope. Includes the already-applied penalty model, Examples 4–5 and both Try sets. Keep the recorded downward change distinct from the lift’s current position. All examples finish before the story’s cancel action.
+[PanelIdentifier] PANEL CH01-PAGE015-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1B | Taking away a negative amount
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1B | APPLIES TO: CH01-PAGE015-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Added caption bridge — friendly teacher narrator
+[CaptionCopy] The lift is at −5, but the change recorded in its window is −2. Undoing that recorded change is the job now. Let’s see how taking away a negative amount works.
+[PrintLabel] Exact teaching text begins
+[MathSubsection] Taking away a negative amount
+Suppose your displayed score is 4. A five-point penalty has already been taken from your score. Now that penalty is cancelled. The five points return, so your score becomes 9.
+[Equation] 4 − (−5) = 4 + 5 = 9
+Removing the −5 penalty gives the 5 points back. That is why subtracting a negative number has the same effect as adding its positive partner.
+[SmallCaption] An applied penalty is removed
+[Production] Production note V04. Show a before state with displayed score 4 and a record labelled −5 penalty already applied. Show an after state with that record cancelled and displayed score 9. Join the states with restore 5 points. Do not imply that cancelling an unapplied penalty adds points. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+On a number line, subtracting −5 undoes a move of five intervals left. Undoing that move takes us five intervals right.
+[PanelBoundary] END PANEL CH01-PAGE015-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE015-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1B | Example 4
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1B | APPLIES TO: CH01-PAGE015-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 4
+Evaluate (a) 0 − (−4), (b) 5 − (−2) and (c) −3 − (−5).
+[AnswerLead] Let’s work it through
+(a) Subtracting −4 restores 4:
+[Equation] 0 − (−4) = 0 + 4 = 4
+(b) Subtracting −2 restores 2:
+[Equation] 5 − (−2) = 5 + 2 = 7
+(c) Start at −3 and move five intervals right. Three steps reach 0; two more reach 2.
+[Equation] −3 − (−5) = −3 + 5 = 2
+We can check (c) by adding the removed number back: 2 + (−5) = −3. That rebuilds the starting value.
+[PanelBoundary] END PANEL CH01-PAGE015-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE015-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.1B | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1B | APPLIES TO: CH01-PAGE015-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) 0 − (−5), (b) 7 − (−8) and (c) −2 − (−1).
+[AnswerLead] Check your method
+[Equation] (a) 0 − (−5) = 0 + 5 = 5
+[Equation] (b) 7 − (−8) = 7 + 8 = 15
+[Equation] (c) −2 − (−1) = −2 + 1 = −1
+The answer in (c) is still negative. Subtracting a negative makes the value greater; it does not promise a positive answer.
+[PanelBoundary] END PANEL CH01-PAGE015-PANEL03

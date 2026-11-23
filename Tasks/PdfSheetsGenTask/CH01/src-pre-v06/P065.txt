@@ -1,0 +1,46 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 065
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE065-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | Finding the side from the square
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE065-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Finding the side from the square
+Now reverse the question. If a square has 25 little tiles in all, how many go along one side? We want a number that multiplies by itself to give 25. Since 5 × 5 = 25, the side has 5 tiles.
+That reverse operation is a square root. The symbol √ means “square root”.
+[Equation] √25 = 5 because 5² = 25
+[Equation] √4 = 2 because 2² = 4
+[Equation] √100 = 10 because 10² = 100
+[Equation] √169 = 13 because 13² = 169
+For a square of area 25 cm², the side length is √25 = 5 cm. Notice how the answer returns to a length in centimetres.
+There is one sign detail to watch. Both 2 × 2 and (−2) × (−2) equal 4, but √4 asks for the positive answer, 2. The √ symbol gives the root that is positive or zero; it does not give −2 here.
+On a calculator: find the √ key and enter the number under the root. For √121, the display should give 11. Check it by squaring: 11 × 11 = 121.
+[PanelBoundary] END PANEL CH01-PAGE065-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE065-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.4 | Example 13
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE065-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 13
+Evaluate (a) 5² + 7² and (b) 9² − 35.
+[AnswerLead] Let’s work it through
+Calculate each square before adding or subtracting.
+[Equation] (a) 5² + 7² = 5 × 5 + 7 × 7 = 25 + 49 = 74
+[Equation] (b) 9² − 35 = 9 × 9 − 35 = 81 − 35 = 46
+In (a), 5² + 7² means two separate squares. Adding 5 + 7 first would change the calculation.
+[PanelBoundary] END PANEL CH01-PAGE065-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE065-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.4 | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE065-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) 4² + 6² and (b) 8² − 55.
+[AnswerLead] Check your method
+[Equation] (a) 4² + 6² = 16 + 36 = 52
+[Equation] (b) 8² − 55 = 64 − 55 = 9
+[PanelBoundary] END PANEL CH01-PAGE065-PANEL03

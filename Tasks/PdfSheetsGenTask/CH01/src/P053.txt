@@ -30,7 +30,7 @@ By 100: Complete hundreds end in 00: 6800 = 68 × 100. So 6800 and 451200 pass; 
 [PanelMetadata] SOURCE: Companion inset Q05
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q05
-[SceneInstruction] Production instruction. After the completed By 100 explanation at the end of More divisibility tests in Teaching block T1.3. Navya stands beside the rack with a pencil resting on a blank working sheet, looking thoughtfully towards the completed divisibility rules. Brass rack upright and pale bench edge. Crop the team cards out so the story matching stays unanswered; no dust or V is revealed.
+[SceneInstruction] Production instruction. After the completed By 100 explanation at the end of More divisibility tests in Teaching block T1.3. Navya stands beside the rack with a pencil resting on a blank working sheet, looking thoughtfully towards the completed divisibility rules. Brass rack upright and pale bench edge. Crop the team cards out so the story matching stays unanswered; no dust or V is revealed. Background for this inset. At the right end of the same bench, view the rack from the aisle. Work surface in front, sealed cartons at its rear, the team cards clipped directly above their respective carton positions. Keep rack order fixed when moving closer to a hand or face. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya to the reader | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] A quick check still needs a reason.

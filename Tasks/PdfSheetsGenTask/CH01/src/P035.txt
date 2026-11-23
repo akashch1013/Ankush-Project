@@ -26,9 +26,9 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 06A A The available stock
-[SceneInstruction] Moment and staging. The helper opens the two boxes on the centre bench. Ahana lights the 45-lens and 75-ring labels; Navya holds a blank packing sheet, Vihaan examines the stocks, Tara stands beside them with her staff leaned securely against the wall. Tez waits below the clear bench edge. No finished sample is visible.
+[SceneInstruction] Moment and staging. The helper opens the two boxes on the centre bench. Ahana lights the 45-lens and 75-ring labels; Navya holds a blank packing sheet, Vihaan examines the stocks, Tara stands beside them with her staff leaned securely against the wall. Tez waits below the clear bench edge. No finished sample is visible. Background and fixed landmarks. Use the centre section of that same right-wall bench. Near edge: work surface for the assigned board or padded kit. Stock boxes sit farther back against the blue wall. In a top view the near edge stays on the aisle side. Keep people working from that edge.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] The helper opens the next two boxes. One holds small blue glass lenses. The other holds brass rings that shine gold in the lamplight. Together they make the light-projecting heads for the lantern arches. A complete head uses lenses to shape the light and rings to hold the head and its supports together. Tara wants identical kits so several wooden crews can work at once.
+[CaptionCopy] The helper opens two boxes. One holds blue glass lenses, the other brass rings. The crews need both to build the projector heads for the arches. Tara wants each crew to have an identical kit.
 [PanelBoundary] END PANEL CH01-PAGE035-PANEL01
 [PanelIdentifier] PANEL CH01-PAGE035-PANEL02
 [PanelMetadata] SOURCE: Visual beat CH01 06A B Tara asks for the most crews
@@ -40,11 +40,11 @@
 [PanelContextCopy] Props and state progression. Box labels: 45 BLUE GLASS LENSES and 75 BRASS RINGS. Empty padded kit boxes and a blank sample board are available. Do not individually scatter all 120 items. LIFT and RHYTHM white; remaining three indicators dark.
 [PanelContextCopy] Planning requirements. The empty kit and stock labels must be visible. Do not show a completed projector head, a three-and-five recipe or fifteen prepared kits before T1.2B. The maximum number of identical kits is the stated question.
 [PanelMetadata] SOURCE: Visual beat CH01 06A A The available stock | APPLIES TO: CH01-PAGE035-PANEL02; character locations, prop placements and unsolved stock state
-[PanelContextCopy] Moment and staging. The helper opens the two boxes on the centre bench. Ahana lights the 45-lens and 75-ring labels; Navya holds a blank packing sheet, Vihaan examines the stocks, Tara stands beside them with her staff leaned securely against the wall. Tez waits below the clear bench edge. No finished sample is visible.
+[PanelContextCopy] Referenced beat for continuity only. The helper opens the two boxes on the centre bench. Ahana lights the 45-lens and 75-ring labels; Navya holds a blank packing sheet, Vihaan examines the stocks, Tara stands beside them with her staff leaned securely against the wall. Tez waits below the clear bench edge. No finished sample is visible.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 06A B Tara asks for the most crews
-[SceneInstruction] Moment and staging. Retain the camera and background specified under View and Setting in Scene CH01 06A, and the character locations, prop placements and unsolved stock state specified in Visual beat CH01 06A A. Tara’s free hands indicate the two stocks together, then one palm opens towards the waiting work crews as she speaks. The boxes retain all stock; no solved kit counts are shown.
+[SceneInstruction] Moment and staging. Retain the camera and background specified under View and Setting in Scene CH01 06A, and the character locations, prop placements and unsolved stock state specified in Visual beat CH01 06A A. Tara’s free hands indicate the two stocks together, then one palm opens towards the waiting work crews as she speaks. The boxes retain all stock; no solved kit counts are shown. Background and fixed landmarks. Use the centre section of that same right-wall bench. Near edge: work surface for the assigned board or padded kit. Stock boxes sit farther back against the blue wall. In a top view the near edge stays on the aisle side. Keep people working from that edge.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] There are 45 blue lenses and 75 brass rings. They must use every piece and give every crew the same number of lenses and the same number of rings.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
@@ -63,7 +63,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 06A C Ahana frames the kit question
-[SceneInstruction] Moment and staging. Ahana places the empty padded kit box between the two stocks with her left hand, portable lamp held clear in her right. Freeze with her left palm beside the empty box as she addresses the group. Tara lowers her hands; Vihaan and Navya look at the empty box.
+[SceneInstruction] Moment and staging. Ahana places the empty padded kit box between the two stocks with her left hand, portable lamp held clear in her right. Freeze with her left palm beside the empty box as she addresses the group. Tara lowers her hands; Vihaan and Navya look at the empty box. Background and fixed landmarks. Use the centre section of that same right-wall bench. Near edge: work surface for the assigned board or padded kit. Stock boxes sit farther back against the blue wall. In a top view the near edge stays on the aisle side. Keep people working from that edge.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Ahana places an empty padded kit box between the stocks.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth

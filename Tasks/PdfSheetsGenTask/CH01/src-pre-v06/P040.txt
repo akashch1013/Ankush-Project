@@ -1,0 +1,28 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 040
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE040-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | Practice 1B | 1 List multiples and find the LCM
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE040-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Practice 1B
+Before calculating, decide whether you need a shared multiple or a shared factor. “First together” and “equal groups” ask different questions.
+[MathExample] 1 List multiples and find the LCM
+Write the first 10 multiples of each number in each pair. Then find the LCM.
+(a) 3 and 7 (b) 9 and 12 (c) 8 and 64 (d) 35 and 14
+[AnswerLead] Check your method
+(a) Multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30.
+Multiples of 7: 7, 14, 21, 28, 35, 42, 49, 56, 63, 70.
+For 3 and 7, the first common multiple is 21.
+(b) Multiples of 9: 9, 18, 27, 36, 45, 54, 63, 72, 81, 90.
+Multiples of 12: 12, 24, 36, 48, 60, 72, 84, 96, 108, 120.
+For 9 and 12, the first common multiple is 36.
+(c) Multiples of 8: 8, 16, 24, 32, 40, 48, 56, 64, 72, 80.
+Multiples of 64: 64, 128, 192, 256, 320, 384, 448, 512, 576, 640.
+The first common multiple is 64: 64 = 8 × 8, so it is already in both lists.
+(d) Multiples of 35: 35, 70, 105, 140, 175, 210, 245, 280, 315, 350.
+Multiples of 14: 14, 28, 42, 56, 70, 84, 98, 112, 126, 140.
+For 35 and 14, the first common multiple is 70.
+[PanelBoundary] END PANEL CH01-PAGE040-PANEL01

@@ -1,0 +1,36 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 001
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 01 The dark street
+[SourceLocator] Production sequence reference CH01-01. The following location descriptions are retained from V16.
+### Lantern Street Master from Entry Court
+[SceneInstruction] A broad pale-paved lane curves between blue-painted stall walls beneath tall indigo lantern arches. The lift bay is near-left; a pale timing and supply bench runs along the right wall. Farther on, a square mirror recess is on the left, opposite a cube-lantern plinth and final control. Food Street shutters close the far bend.
+[SceneInstruction] The narrow silver moonline follows the paving’s right edge to a flat joining plate near the cube plinth. Five indicators beside the final handle read LIFT, RHYTHM, SUPPLIES, MIRROR and CUBE. Work lamps light the tasks before the main arches are restored. Intermediate lights do not mean the entire street is lit. The last state has golden arches and a continuous moonline. The repaired street remains repaired in every later return.
+[SceneInstruction] Required views. Initial wide from Entry Court; separate reverse from the cube end; final restored wide. Fine mirror/cube counts are not required in distant views.
+### Lantern Street Goods-Lift Bay and Controller
+[SceneInstruction] One guarded lift shaft is recessed into the near-left blue wall. Pale street paving is marked 0; the lower store is at −8. A brass safety gate separates the children from the shaft. A blue-and-brass controller stands to the right, lit by one warm wall lamp.
+[SceneInstruction] The top rail takes movement cards and has START, HOLD and CANCEL LAST CHANGE. The last-change window displays an instruction, not another car. The lower hinged panel has four equal gate-catch correction wheels and two red warnings. Their units are not floor levels. The initial row is +2, 0, −1, +3; the fixed specification says total correction −8, shared equally. Reveal the corrected row of four −2 settings only after T1.1C. The lower store has a guarded landing and lamp. There is one car and one supply cart.
+[SceneInstruction] Required views. Street-side medium; separate steep downward view into the same shaft; exact number-strip insert; card slot and cancel window; lower correction-panel close-up. Show one stopped car position per still.
+## Scene CH01 01A Into the dark street
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street. Broad pale paving curves between blue-painted stall walls under tall indigo arches. From Entry Court, the lift is near-left and the timing/supply bench follows the right wall. Farther on the left is the mirror alcove, opposite the right-side cube plinth and final control. Food Street shutters close the far bend. The narrow moonline follows the paving’s physical right edge. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Wide from the Entry Court arch looking down the curve. Hold the lift recess on the near-left, the continuous workbench on the right and closed Food Street shutters at the far bend. The first emotion is wonder limited by darkness.
+[SceneInstruction] Cast and staging across the scene. Ahana leads just inside the arch with the brass work lamp in her right hand. Tez is one pace ahead and below her knee height. Vihaan follows slightly left; Navya follows slightly right; Tara is behind them with her staff in her right hand. Everyone is on the pale paving, looking into the lane. The lower-store helper is not visible from this view.
+[SceneInstruction] Props and state progression. Ahana wears her navy backpack; the cream sketchbook is inside it. Vihaan keeps his invitation in a secure pocket. Navya has her satchel closed. The parked empty street cart is distinct from the supply cart below. All five indicators are dark; the main arches are dark; the moonline is unlit.
+[SceneInstruction] Planning requirements. Keep equipment details too distant to reveal solutions. The broad street must retain depth and scale; do not reduce it to a small room. No Bell appears in this street. The fair has not opened.
+[PanelIdentifier] PANEL CH01-PAGE001-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 01A A The dark lane
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE001-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 01A Into the dark street | APPLIES TO: CH01-PAGE001-PANEL01; CH01 01A A
+[PanelContextCopy] View. Wide from the Entry Court arch looking down the curve. Hold the lift recess on the near-left, the continuous workbench on the right and closed Food Street shutters at the far bend. The first emotion is wonder limited by darkness.
+[PanelContextCopy] Cast and staging across the scene. Ahana leads just inside the arch with the brass work lamp in her right hand. Tez is one pace ahead and below her knee height. Vihaan follows slightly left; Navya follows slightly right; Tara is behind them with her staff in her right hand. Everyone is on the pale paving, looking into the lane. The lower-store helper is not visible from this view.
+[PanelContextCopy] Props and state progression. Ahana wears her navy backpack; the cream sketchbook is inside it. Vihaan keeps his invitation in a secure pocket. Navya has her satchel closed. The parked empty street cart is distinct from the supply cart below. All five indicators are dark; the main arches are dark; the moonline is unlit.
+[PanelContextCopy] Planning requirements. Keep equipment details too distant to reveal solutions. The broad street must retain depth and scale; do not reduce it to a small room. No Bell appears in this street. The fair has not opened.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 01A A The dark lane
+[SceneInstruction] Moment and staging. Use the wide view and character positions specified under View and Cast and staging in Scene CH01 01A. Ahana holds the lamp low enough to light their first steps; everyone looks into the dark street. This is one establishing image.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The work lamp lights only a small circle of Lantern Street. Tall arches stretch across the lane, but their lanterns are dark. On either side stand blue-painted stalls with closed shutters.
+[PanelBoundary] END PANEL CH01-PAGE001-PANEL01

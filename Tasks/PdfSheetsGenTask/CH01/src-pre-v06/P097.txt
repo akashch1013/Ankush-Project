@@ -1,0 +1,86 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 097
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Cube Plinth, Handle and Moonline Joint — location instructions | Applies to: Assigned beats of Scene CH01 10B; Assigned beats of Scene CH01 10C
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 10B Everyone clear
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium from the mirror side towards the right-side control and separate floor cover.
+[SceneInstruction] Cast and staging across the scene. Ahana steps to the large down-pull handle. Tara asks the others to move clear with an open-hand gesture; her staff remains leaned safely against the wall. Vihaan and Navya step onto clear paving behind Ahana. Tez and the helper are outside the handle’s movement area.
+[SceneInstruction] Props and state progression. Handle still raised. All five white indicators, completed cube and mirror. Work lamp stands where Ahana left it, outside the walking line. Floor cover closed.
+[SceneInstruction] Planning requirements. This precedes the first handle action. Nobody stands under a loose part; the fittings themselves have been secured.
+[PanelIdentifier] PANEL CH01-PAGE097-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 10B A The handle area is cleared
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE097-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10B Everyone clear | APPLIES TO: CH01-PAGE097-PANEL01; CH01 10B A
+[PanelContextCopy] View. Medium from the mirror side towards the right-side control and separate floor cover.
+[PanelContextCopy] Cast and staging across the scene. Ahana steps to the large down-pull handle. Tara asks the others to move clear with an open-hand gesture; her staff remains leaned safely against the wall. Vihaan and Navya step onto clear paving behind Ahana. Tez and the helper are outside the handle’s movement area.
+[PanelContextCopy] Props and state progression. Handle still raised. All five white indicators, completed cube and mirror. Work lamp stands where Ahana left it, outside the walking line. Floor cover closed.
+[PanelContextCopy] Planning requirements. This precedes the first handle action. Nobody stands under a loose part; the fittings themselves have been secured.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10B A The handle area is cleared
+[SceneInstruction] Moment and staging. One preparation image: Ahana stands at the still-raised handle while Tara, staff safely against the wall, holds an open palm towards the clear waiting area. Vihaan, Navya, Tez and the helper are now outside the handle’s swing. The caption records Tara’s request; do not invent an extra spoken warning.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana walks to the large street-light handle beside the lantern. Tara asks everyone to move clear.
+[PanelBoundary] END PANEL CH01-PAGE097-PANEL01
+## Scene CH01 10C The arches stay dark
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium on Ahana’s lowered hand and the dark arch beyond; then the quiet group reaction in Visual beat CH01 10C B retains this medium camera position specified in Scene CH01 10C.
+[SceneInstruction] Cast and staging across the scene. Ahana has pulled the handle fully down and looks up, expecting light. Vihaan looks between the indicators and the arches and asks his question. Navya holds the record. Tara observes the street rather than blaming a child. Tez stands close to Ahana, and the helper waits behind them.
+[SceneInstruction] Props and state progression. Handle down after failed attempt. All five readiness lights remain white; arches remain dark; the moonline’s broken section has not been repaired.
+[SceneInstruction] Planning requirements. Leave a clear quiet beat before Vihaan’s line. No false flare, exploding bulb or magical failure effect is needed.
+[PanelIdentifier] PANEL CH01-PAGE097-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 10C A The first pull fails
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE097-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10C The arches stay dark | APPLIES TO: CH01-PAGE097-PANEL02; CH01 10C A
+[PanelContextCopy] View. Medium on Ahana’s lowered hand and the dark arch beyond; then the quiet group reaction in Visual beat CH01 10C B retains this medium camera position specified in Scene CH01 10C.
+[PanelContextCopy] Cast and staging across the scene. Ahana has pulled the handle fully down and looks up, expecting light. Vihaan looks between the indicators and the arches and asks his question. Navya holds the record. Tara observes the street rather than blaming a child. Tez stands close to Ahana, and the helper waits behind them.
+[PanelContextCopy] Props and state progression. Handle down after failed attempt. All five readiness lights remain white; arches remain dark; the moonline’s broken section has not been repaired.
+[PanelContextCopy] Planning requirements. Leave a clear quiet beat before Vihaan’s line. No false flare, exploding bulb or magical failure effect is needed.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10C A The first pull fails
+[SceneInstruction] Moment and staging. Ahana has pulled the handle fully down; one hand remains on it and she looks up expectantly. Show the still-dark arch beyond and five white readiness lights. Everyone else waits clear. The two short captions belong to this pull-and-result image.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana pulls the handle down.
+[CaptionCopy] The arches stay dark.
+[PanelBoundary] END PANEL CH01-PAGE097-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE097-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 10C B The silent pause
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE097-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10C The arches stay dark | APPLIES TO: CH01-PAGE097-PANEL03; CH01 10C B
+[PanelContextCopy] View. Medium on Ahana’s lowered hand and the dark arch beyond; then the quiet group reaction in Visual beat CH01 10C B retains this medium camera position specified in Scene CH01 10C.
+[PanelContextCopy] Cast and staging across the scene. Ahana has pulled the handle fully down and looks up, expecting light. Vihaan looks between the indicators and the arches and asks his question. Navya holds the record. Tara observes the street rather than blaming a child. Tez stands close to Ahana, and the helper waits behind them.
+[PanelContextCopy] Props and state progression. Handle down after failed attempt. All five readiness lights remain white; arches remain dark; the moonline’s broken section has not been repaired.
+[PanelContextCopy] Planning requirements. Leave a clear quiet beat before Vihaan’s line. No false flare, exploding bulb or magical failure effect is needed.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10C B The silent pause
+[SceneInstruction] Moment and staging. Separate image retaining the camera and framing specified under View in Scene CH01 10C. The handle stays down. Ahana’s hand loosens on it; Vihaan and Navya look between the board and the dark arches, Tara watches, Tez is still. No dialogue balloon belongs in this pause.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] For a moment, nobody speaks.
+[PanelBoundary] END PANEL CH01-PAGE097-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE097-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 10C C Vihaan doubts the answer
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE097-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10C The arches stay dark | APPLIES TO: CH01-PAGE097-PANEL04; CH01 10C C
+[PanelContextCopy] View. Medium on Ahana’s lowered hand and the dark arch beyond; then the quiet group reaction in Visual beat CH01 10C B retains this medium camera position specified in Scene CH01 10C.
+[PanelContextCopy] Cast and staging across the scene. Ahana has pulled the handle fully down and looks up, expecting light. Vihaan looks between the indicators and the arches and asks his question. Navya holds the record. Tara observes the street rather than blaming a child. Tez stands close to Ahana, and the helper waits behind them.
+[PanelContextCopy] Props and state progression. Handle down after failed attempt. All five readiness lights remain white; arches remain dark; the moonline’s broken section has not been repaired.
+[PanelContextCopy] Planning requirements. Leave a clear quiet beat before Vihaan’s line. No false flare, exploding bulb or magical failure effect is needed.
+[PanelMetadata] SOURCE: Visual beat CH01 10C A The first pull fails | APPLIES TO: CH01-PAGE097-PANEL04; character locations and lowered handle
+[PanelContextCopy] Moment and staging. Ahana has pulled the handle fully down; one hand remains on it and she looks up expectantly. Show the still-dark arch beyond and five white readiness lights. Everyone else waits clear. The two short captions belong to this pull-and-result image.
+[PanelMetadata] SOURCE: Visual beat CH01 10C B The silent pause | APPLIES TO: CH01-PAGE097-PANEL04; Ahana loosened handle hand
+[PanelContextCopy] Ahana’s hand loosens on it; Vihaan and Navya look between the board and the dark arches, Tara watches, Tez is still.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10C C Vihaan doubts the answer
+[SceneInstruction] Moment and staging. For the new speaking beat, keep the framing specified under View in Scene CH01 10C and the character locations specified under Cast and staging in Scene CH01 10C and Visual beat CH01 10C A. Vihaan turns towards Navya’s record with one open questioning hand and worried brows. The others shift only their gaze towards him; Ahana remains at the lowered handle. Do not erase the silent pause in Visual beat CH01 10C B.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth | Source speech attribution: Vihaan asks.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Which answer did we get wrong?
+[PanelBoundary] END PANEL CH01-PAGE097-PANEL04

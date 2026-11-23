@@ -1,0 +1,44 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 008
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q01
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Companion inset Q01
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE008-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1A | Example 2
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE008-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 2
+Evaluate without a calculator: (a) 2 + 3 − 4 and (b) 10 − 7 − 6. You may use a calculator afterwards to check.
+[AnswerLead] Let’s work it through
+With only addition and subtraction, work from left to right. The answer from the first step becomes the starting number for the next.
+(a) First 2 + 3 = 5. Now subtract 4 from that 5:
+[Equation] 2 + 3 − 4 = 5 − 4 = 1
+(b) First 10 − 7 = 3. Now subtract 6 from that 3:
+[Equation] 10 − 7 − 6 = 3 − 6 = −3
+For the last step, 3 − 3 gets us to zero; the remaining 3 steps take us to −3.
+[PanelBoundary] END PANEL CH01-PAGE008-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE008-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1A | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE008-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate without a calculator: (a) 6 + 3 − 5, (b) 7 − 4 − 5 and (c) −3 − 4 + 5. You may use a calculator afterwards to check.
+[AnswerLead] Check your method
+[Equation] (a) 6 + 3 − 5 = 9 − 5 = 4
+[Equation] (b) 7 − 4 − 5 = 3 − 5 = −2
+[Equation] (c) −3 − 4 + 5 = −7 + 5 = −2
+In (c), the first move takes −3 down to −7. Adding 5 then brings −7 back up to −2.
+[PanelBoundary] END PANEL CH01-PAGE008-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE008-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q01
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q01
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 2 in Teaching block T1.1A. Vihaan stands on the safe paving, tracing equal intervals with one finger on a small teaching number line. His other hand rests on the controller shelf; he smiles at the reader. A partial blue lift-bay wall, warm lamp and brass guard. The car is still at 0; do not show a solved movement route.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan to the reader | Tail target: Vihaan’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I count the spaces. The ticks can look after themselves.
+[PanelBoundary] END PANEL CH01-PAGE008-PANEL03

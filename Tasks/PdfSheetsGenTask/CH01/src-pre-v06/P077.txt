@@ -1,0 +1,65 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 077
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE077-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | Practice 1E | 1 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE077-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Practice 1E
+Here the questions mix squares, cubes and their roots. Look closely at the signs before you start: 4³ asks for a cube, while ∛64 asks for a cube root.
+[MathExample] 1 Evaluate
+(a) 8³ (b) 12³ (c) 4³ (d) 5³
+[AnswerLead] Check your method
+[Equation] (a) 8³ = 8 × 8 × 8 = 64 × 8 = 512
+[Equation] (b) 12³ = 12 × 12 × 12 = 144 × 12 = 1728
+[Equation] (c) 4³ = 4 × 4 × 4 = 16 × 4 = 64
+[Equation] (d) 5³ = 5 × 5 × 5 = 25 × 5 = 125
+[PanelBoundary] END PANEL CH01-PAGE077-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE077-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.5 | 2 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE077-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 2 Evaluate
+(a) ∛343 (b) ∛27 (c) ∛64 (d) ∛729
+[AnswerLead] Check your method
+[Equation] (a) ∛343 = 7 because 7 × 7 × 7 = 343
+[Equation] (b) ∛27 = 3 because 3 × 3 × 3 = 27
+[Equation] (c) ∛64 = 4 because 4 × 4 × 4 = 64
+[Equation] (d) ∛729 = 9 because 9 × 9 × 9 = 729
+[PanelBoundary] END PANEL CH01-PAGE077-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE077-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.5 | 3 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE077-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 3 Evaluate
+(a) 8² + ∛27 (b) ∛729 − √25
+(c) ∛125 − ∛8 + 3³ (d) 2² + 4³ × ∛8
+[AnswerLead] Check your method
+[Equation] (a) 8² + ∛27 = 64 + 3 = 67
+[Equation] (b) ∛729 − √25 = 9 − 5 = 4
+[Equation] (c) ∛125 − ∛8 + 3³ = 5 − 2 + 27 = 3 + 27 = 30
+[Equation] (d) 2² + 4³ × ∛8 = 4 + 64 × 2 = 4 + 128 = 132
+In (d), multiply 64 × 2 first; then add the waiting 4.
+[PanelBoundary] END PANEL CH01-PAGE077-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE077-PANEL04
+[PanelMetadata] SOURCE: Teaching block T1.5 | 4 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE077-PANEL04; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 4 Evaluate
+(a) 7³ − ∛8 (b) √64 − ∛64
+(c) 2² × 4³ − ∛512 (d) 2³ − ∛343 − ∛27
+[AnswerLead] Check your method
+[Equation] (a) 7³ − ∛8 = 343 − 2 = 341
+[Equation] (b) √64 − ∛64 = 8 − 4 = 4
+[Equation] (c) 2² × 4³ − ∛512 = 4 × 64 − 8 = 256 − 8 = 248
+[Equation] (d) 2³ − ∛343 − ∛27 = 8 − 7 − 3 = 1 − 3 = −2
+In (b), both roots contain 64, but their instructions differ: 8 × 8 = 64, whereas 4 × 4 × 4 = 64.
+[PanelBoundary] END PANEL CH01-PAGE077-PANEL04

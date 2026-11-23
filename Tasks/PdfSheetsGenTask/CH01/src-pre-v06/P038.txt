@@ -1,0 +1,34 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 038
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE038-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | Example 10
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE038-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 10
+Three alarm clocks ring every 12 minutes, 15 minutes and 18 minutes. They first ring together at 1 p.m. When will they next ring together?
+[AnswerLead] Let’s work it through
+All three clocks ring at 1 p.m. After that, the first rings every 12 minutes, the second every 15 and the third every 18. We need the first waiting time that fits all three patterns: their LCM.
+Follow each row in the picture. Every dot is a ring. The numbers tell us how many minutes have passed since 1 p.m.; the top row goes 12, 24, 36, … because we add 12 each time.
+[SmallCaption] When all three clocks ring together again
+[Production] Production note V20. Draw three aligned horizontal timelines with one shared linear scale from 0 to 180 minutes after 1 p.m. Show and label every multiple of 12, 15 and 18 in its own row, including zero. Label the rows by their ringing intervals. Use three small alarm-clock icons at the left as row identifiers, with faces showing the starting time 1 o’clock. Mark 0 as the shared start and 180 as the first shared return with vertical guides, using words as well as colour. Include no omitted intervals, compressed scale or false alignment. The learner should see that some pairs match earlier but all three first match again at 180. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+At 60 minutes, the 12-minute and 15-minute clocks line up, but the 18-minute clock does not. Follow all three rows: their first match after 0 is 180 minutes. Now turn that wait into a clock time:
+[Equation] 180 ÷ 60 = 3 hours
+[Equation] 1 p.m. + 3 hours = 4 p.m.
+They next ring together at 4 p.m. The picture gives us the wait; adding it to 1 p.m. gives us the time.
+[PanelBoundary] END PANEL CH01-PAGE038-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE038-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.2B | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE038-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Two lighthouses flash every 12 minutes and 18 minutes. Both first flash together at 9 p.m. When will they next flash together?
+[AnswerLead] Check your method
+[Equation] Multiples of 12: 12, 24, 36
+[Equation] Multiples of 18: 18, 36
+The first shared wait is 36 minutes. So 9 p.m. + 36 minutes = 9:36 p.m. The answer is a time of day, not merely “36”.
+[PanelBoundary] END PANEL CH01-PAGE038-PANEL02

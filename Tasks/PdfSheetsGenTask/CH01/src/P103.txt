@@ -14,7 +14,7 @@
 [SceneInstruction] Required views. Arrival wide from the lane; bench/planter medium; invitation close-up; low Tez doorway view. Gate ornaments and invitations have bright, fading and restored-light states without changing their shapes.
 ### Food Street Master from Lantern Street
 [SceneInstruction] A covered lane beneath saffron and teal awnings opens beyond Lantern Street’s shutters. The recipe and cooking counter is on the left; jugs and the juice urn are on the right. The near packing bench has a side door to Return Walk. A round two-tray loading table sits in the central clear lane.
-[SceneInstruction] The far opening leads to the Parade Ground. The initial obstruction is one crooked cart with a bowl under its wheel. The food helper wears a saffron apron and ivory cap; two smaller assistants deliver food. The main cooking surface is behind the counter, beyond the children’s hands. The sixteen-cup trolley waits at the packing end. No human cooks or hidden extra kitchen are introduced.
+[SceneInstruction] The far opening leads to the Parade Ground. The initial obstruction is one crooked cart with an intact tipped bowl touching the lower-left outer edge of its nearest wheel. The food helper wears a saffron apron and ivory cap; two smaller assistants deliver food. The main cooking surface is behind the counter, beyond the children’s hands. The sixteen-cup trolley waits at the packing end. No human cooks or hidden extra kitchen are introduced.
 [SceneInstruction] Required views. Threshold wide; separate recipe, drinks and packing counter views; central loading-table medium. The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
 ## Scene CH01 11A A mark in the mirror rim
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -34,9 +34,10 @@
 [PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE103-PANEL01; Tez, Vihaan, Navya and helper
 [PanelContextCopy] Tez stays beside her. Vihaan and Navya approach from the plinth side. Tara places the lamp on stable paving beside the mirror and comes to inspect; the helper remains near the plinth.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D04. First readable scratched V on the lower-right inner brass rim.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11A A The mark appears
-[SceneInstruction] Moment and staging. Use the close view of the inner brass mirror rim and golden arch light specified under View in Scene CH01 11A. Ahana bends closer without wiping it; her eyes follow the newly readable V. The frame and tiles remain intact. Tara is still a step away, with the lamp.
+[SceneInstruction] Moment and staging. Use the close view of the inner brass mirror rim and golden arch light specified under View in Scene CH01 11A. Ahana bends closer without wiping it; her eyes follow the newly readable V. The frame and tiles remain intact. Tara is still a step away, with the lamp. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Then the new light catches a scratch in the mirror’s rim.
 [CaptionCopy] Ahana bends closer. Beneath the dust is a letter V.
@@ -53,9 +54,9 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11A B The earlier evidence returns
-[SceneInstruction] Moment and staging. Widen at the alcove specified under Setting in Scene CH01 11A. Ahana has opened her backpack and holds out the protected sleeve as she calls Tara; Tara sets the lamp on stable paving and approaches. Vihaan and Navya come from the plinth side; Tez remains beside Ahana. There is one original sleeve, not a new clue card.
+[SceneInstruction] Moment and staging. Widen at the alcove specified under Setting in Scene CH01 11A. Ahana has opened her backpack and holds out the protected sleeve as she calls Tara; the lamp rests on stable paving beside the alcove, and Tara stands close enough to inspect the sleeve. Vihaan and Navya come from the plinth side; Tez remains beside Ahana. There is one original sleeve, not a new clue card. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] She calls Tara and brings out the label they kept.
+[CaptionCopy] Ahana calls Tara and takes the evidence sleeve out of her backpack.
 [PanelBoundary] END PANEL CH01-PAGE103-PANEL02
 ## Scene CH01 11B Tara recognises the signature
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -74,9 +75,9 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11B A Tara recognises the mark
-[SceneInstruction] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[SceneInstruction] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] Tara looks from its dust to the mark on the mirror.
+[CaptionCopy] Tara looks from the sleeve to the V scratched in the mirror’s rim.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: she says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Veer.

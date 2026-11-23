@@ -1,0 +1,23 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 036
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block T1.2B
+[SourceLocator] Factors and the remaining multiples work
+[SceneInstruction] Production scope. Includes Factors, common factors and HCF, Example 9, then Example 10 on LCM, Example 11 on HCF, all Try work and all seven Practice 1B questions in that order. The alarm clocks, lighthouses and cars are teaching examples, not new incidents inside ChandRush.
+[PanelIdentifier] PANEL CH01-PAGE036-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | Factors
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE036-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Exact teaching text begins
+[MathSubsection] Factors
+We have been making multiples, such as 4 × 9 = 36. Now ask the question backwards: “Which positive whole numbers divide 36 exactly?” Those numbers are its factors. For example, 36 ÷ 4 = 9, with no remainder, so 4 is a factor of 36.
+We can find factors in pairs. For 36, start with 1 and try the next whole numbers in order:
+[Equation] 36 = 1 × 36 = 2 × 18 = 3 × 12 = 4 × 9 = 6 × 6
+5 does not divide 36 exactly, so it gives no factor pair. At 6 × 6 the two factors meet; continuing would repeat the pairs in reverse. The complete list is 1, 2, 3, 4, 6, 9, 12, 18, 36.
+Now do the same for 24:
+[Equation] 24 = 1 × 24 = 2 × 12 = 3 × 8 = 4 × 6
+5 does not work, and 6 × 4 repeats 4 × 6. The factors of 24 are 1, 2, 3, 4, 6, 8, 12, 24.
+Now compare the two factor lists. Both contain 1, 2, 3, 4, 6 and 12. These are their common factors. Choose the greatest, 12: their highest common factor, or HCF, is 12.
+[PanelBoundary] END PANEL CH01-PAGE036-PANEL01

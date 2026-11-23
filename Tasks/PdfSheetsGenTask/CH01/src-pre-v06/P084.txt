@@ -1,0 +1,36 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 084
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block R01
+[SourceLocator] Chapter consolidation and complete revision
+[SceneInstruction] Production scope. Includes Chapter 01 Key Ideas, operation order, all nine Revision questions with working, the 27-part Self check and all four final understanding checks with responses. Keep every source investigation in its existing position; the supplied draft has no separately titled Performance Task to invent.
+[PanelIdentifier] PANEL CH01-PAGE084-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | Chapter 01 Key Ideas | Four operations on integers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE084-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Exact teaching text begins
+[MathSection] Chapter 01 Key Ideas
+Here are the ideas you will need for the revision. Use these reminders, then try choosing the methods yourself.
+[MathSubsection] Four operations on integers
+On a number line, adding a positive amount moves right; subtracting a positive amount moves left:
+[Equation] 6 + 4 = 10;   8 − 5 = 3
+Adding a negative moves left; subtracting a negative moves right:
+[Equation] 2 + (−3) = 2 − 3 = −1
+[Equation] 2 − (−3) = 2 + 3 = 5
+[PanelBoundary] END PANEL CH01-PAGE084-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE084-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | Four operations on integers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE084-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+For multiplication and division of non-zero numbers, different signs give a negative answer; same signs give a positive answer:
+[Equation] 3 × (−2) = −(3 × 2) = −6
+[Equation] −3 × 2 = −(3 × 2) = −6
+[Equation] 64 ÷ (−4) = −(64 ÷ 4) = −16
+[Equation] (−64) ÷ 4 = −(64 ÷ 4) = −16
+For matching signs: (−3) × (−2) = 6 and (−12) ÷ (−3) = 4.
+Check a division by multiplying the answer by the divisor. For example, (−16) × (−4) = 64 checks 64 ÷ (−4) = −16.
+[PanelBoundary] END PANEL CH01-PAGE084-PANEL02

@@ -1,0 +1,29 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 058
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE058-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | 3 Find the missing digit
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE058-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 3 Find the missing digit
+The five-digit number 2345□ is divisible by 3 but not by 9. What could the missing digit be?
+[AnswerLead] Check your method
+Add the known digits first: 2 + 3 + 4 + 5 = 14. The missing digit can be 0 to 9, so the full digit sum can be 14 to 23.
+The multiples of 3 in that range are 15, 18 and 21. They give these possibilities:
+[Equation] 14 + 1 = 15;   14 + 4 = 18;   14 + 7 = 21
+But 18 is divisible by 9, so the digit 4 is not allowed. The possible digits are 1 or 7. They give 23451 and 23457, with digit sums 15 and 21: divisible by 3, but not by 9.
+[PanelBoundary] END PANEL CH01-PAGE058-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE058-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | 4 Check Mary’s rule
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE058-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 4 Check Mary’s rule
+Mary checks whether a number is divisible by 4 by checking whether its digit sum is divisible by 4. How would you convince her that this rule is incorrect?
+[AnswerLead] Check your thinking
+Give Mary a number for which her test fails. For example, 12 ÷ 4 = 3, so 12 is divisible by 4. But its digit sum is 1 + 2 = 3, which is not divisible by 4.
+Mary’s rule was meant to work every time. The number 12 shows that it does not. For the correct 4-test, check the last two digits.
+[PanelBoundary] END PANEL CH01-PAGE058-PANEL02

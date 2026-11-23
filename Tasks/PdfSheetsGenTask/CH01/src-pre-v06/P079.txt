@@ -1,0 +1,49 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 079
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q09
+[ProductionContextSource] Carried forward from Lantern Street Cube Plinth, Handle and Moonline Joint — location instructions | Applies to: Companion inset Q09
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE079-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | 6 Cube a sum or add two cubes
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE079-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 6 Cube a sum or add two cubes
+(a) Use a calculator to evaluate each pair:
+(i) (1 + 2)³ and 1³ + 2³
+(ii) (2 + 3)³ and 2³ + 3³
+(iii) (3 + 5)³ and 3³ + 5³
+(iv) (4 + 6)³ and 4³ + 6³
+(b) What do you notice about the results?
+(c) Which statements are true?
+(i) (3 + 5)³ > 3³ + 5³
+(ii) (3 + 5)³ ≠ 3³ + 5³
+(iii) (3 + 5)³ < 3³ + 5³
+[PanelBoundary] END PANEL CH01-PAGE079-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE079-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.5 | 6 Cube a sum or add two cubes
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE079-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+(a)(i) Brackets make us add 1 + 2 first in the first expression. In the second expression, cube 1 and 2 separately:
+[Equation] (1 + 2)³ = 3³ = 27
+[Equation] 1³ + 2³ = 1 + 8 = 9
+Use the same distinction for the other pairs:
+[Equation] (ii) (2 + 3)³ = 5³ = 125;   2³ + 3³ = 8 + 27 = 35
+[Equation] (iii) (3 + 5)³ = 8³ = 512;   3³ + 5³ = 27 + 125 = 152
+[Equation] (iv) (4 + 6)³ = 10³ = 1000;   4³ + 6³ = 64 + 216 = 280
+(b) In every pair here, cubing the sum gives a greater result than adding the separate cubes. These are different calculations, so we must not swap one for the other.
+(c) We found 512 and 152. Since 512 > 152 and 512 ≠ 152, statements (i) and (ii) are true. Statement (iii) is false.
+[PanelBoundary] END PANEL CH01-PAGE079-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE079-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q09
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q09
+[SceneInstruction] Production instruction. After the completed Practice 1E Question 6, Cube a sum or add two cubes, in Teaching block T1.5. Navya looks from a written answer to its unit, pencil hovering beside it without adding a new answer. Her posture is relaxed but attentive. Blue control wall and a small patch of paving; CUBE remains dark and no solved story block appears.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya to the reader | Tail target: Navya’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The number is right. What about the unit?
+[PanelBoundary] END PANEL CH01-PAGE079-PANEL03

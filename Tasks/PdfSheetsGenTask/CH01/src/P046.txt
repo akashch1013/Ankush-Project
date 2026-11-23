@@ -22,9 +22,10 @@
 [PanelContextCopy] Props and state progression. Exact sample count 3 lenses and 5 rings. Printable packing instruction on Navya’s sheet: 15 KITS; 3 LENSES AND 5 RINGS PER KIT. Checks on the sheet: 15 × 3 = 45 and 15 × 5 = 75. The work lamp stays on the cleared bench surface.
 [PanelContextCopy] Planning requirements. The added layout of the written instruction only displays the quantities already stated in this source passage. Keep the single open sample distinguishable from closed kits.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S04-D01. Same sample in padded box, board empty. Navya’s sheet reads “3 blue lenses + 5 brass rings per kit”, “15 × 3 = 45”, “15 × 5 = 75”. Count this sample among the fifteen.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 06C A The sample is checked
-[SceneInstruction] Moment and staging. One overhead working image: the helper finishes the sample box, Ahana checks its three lenses and five rings, Vihaan points to the two inventory checks and Navya writes the final packing instruction. Tara watches from the edge; Tez stays below the bench. The lamp rests securely on its cleared surface. These compatible actions can share one image.
+[SceneInstruction] Moment and staging. One overhead working image: the helper finishes the sample box, Ahana checks its three lenses and five rings, Vihaan points to the two inventory checks and Navya writes the final packing instruction. Tara watches from the edge; Tez stays below the bench. The lamp rests securely on its cleared surface. These compatible actions can share one image. Background and fixed landmarks. Use the centre section of that same right-wall bench. Near edge: work surface for the assigned board or padded kit. Stock boxes sit farther back against the blue wall. In a top view the near edge stays on the aisle side. Keep people working from that edge.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The helper makes one padded sample kit. Ahana checks its three lenses and five rings. Vihaan checks that fifteen kits use all 45 lenses and all 75 rings. Navya writes the packing instruction.
 [PanelBoundary] END PANEL CH01-PAGE046-PANEL01
@@ -45,10 +46,11 @@
 [PanelContextCopy] Props and state progression. The checked sample is closed for dispatch after its inspection. Fifteen kits exist in total; do not imply the open sample is a sixteenth kit. The source does not require fifteen crews individually visible. SUPPLIES remains dark; LIFT and RHYTHM stay white.
 [PanelContextCopy] Planning requirements. The crews can fit the projector heads while the next task proceeds, but the supports still need hooks. No fully lit arches yet.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Crews have begun fitting projector heads. Four sealed hook cartons supply four worker teams.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 06D A Work starts but supplies are not ready
-[SceneInstruction] Moment and staging. One medium along the bench shows closed kit boxes being handed to the wooden crews, with a crew beginning a projector-head fitting behind. Keep the dark SUPPLIES indicator visible only in a small separate wall-board detail if the wide cannot show it clearly. The second caption describes this same ongoing state, not a new fault or a mandatory second scene.
+[SceneInstruction] Moment and staging. One medium along the bench shows closed kit boxes being handed to the wooden crews, with a crew beginning a projector-head fitting behind. Keep the dark SUPPLIES indicator visible only in a small separate wall-board detail if the wide cannot show it clearly. The second caption describes this same ongoing state, not a new fault or a mandatory second scene. Background and fixed landmarks. Crews carry packed boxes away from the centre bench and work beneath the arch fittings. Keep open paving between the right-wall bench and the arches.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] The other kits leave in closed boxes, and the crews begin fitting the projector heads.
+[CaptionCopy] The other fourteen kits leave in closed boxes, and the crews begin fitting the projector heads.
 [CaptionCopy] The SUPPLIES light remains dark.
 [PanelBoundary] END PANEL CH01-PAGE046-PANEL02

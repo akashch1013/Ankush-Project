@@ -1,0 +1,19 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 022
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE022-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Division | Find the missing numbers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE022-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Division
+Division can be checked by multiplication. For example, 6 ÷ 2 = 3 because 3 × 2 = 6. Similarly, 12 ÷ 3 = 4 because 4 × 3 = 12. We say division and multiplication are inverse operations: one undoes the other.
+The answer to a division is called the quotient. To find −6 ÷ 2, ask, “What number multiplied by 2 gives −6?”
+[MathExample] Find the missing numbers
+(a) (−6) ÷ 2 = □ is the same as −6 = □ × 2. What does □ stand for?
+(b) (−12) ÷ 4 = ○ is the same as −12 = ○ × 4. What does ○ stand for?
+[AnswerLead] Check your method
+(a) (−3) × 2 = −6, so □ = −3 and (−6) ÷ 2 = −3.
+(b) (−3) × 4 = −12, so ○ = −3 and (−12) ÷ 4 = −3.
+[PanelBoundary] END PANEL CH01-PAGE022-PANEL01

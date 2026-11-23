@@ -7,9 +7,68 @@
  "items": {
   "V-TEZ-P039": {
    "prompt": "prompts/V-TEZ-P039.md",
-   "refs": ["BagroundGenTask/out/plates/S04-B01.png",
-            "../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"],
+   "refs": [
+    "BagroundGenTask/out/plates/S04-B01.png",
+    "../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
    "size": "1024x1024",
+   "quality": "high"
+  },
+  "P107-1": {
+   "prompt": "prompts/P107-1.md",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+   ],
+   "size": "1536x1024",
+   "quality": "high"
+  },
+  "P107-2": {
+   "prompt": "prompts/P107-2.md",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+   ],
+   "size": "1024x1536",
+   "quality": "high"
+  },
+  "P107-3": {
+   "prompt": "prompts/P107-3.md",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
+   "size": "1536x1024",
+   "quality": "high"
+  },
+  "P107-4": {
+   "prompt": "prompts/P107-4.md",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+    "item:P107-3"
+   ],
+   "size": "1536x1024",
+   "quality": "high"
+  },
+  "P107-5": {
+   "prompt": "prompts/P107-5.md",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+    "item:P107-3"
+   ],
+   "size": "1536x1024",
    "quality": "high"
   }
  }

@@ -19,7 +19,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10J A The restored street
-[SceneInstruction] Moment and staging. Use the reverse wide specified under View in Scene CH01 10J: arches glowing gold, continuous moonline, finished mirror and cube, all five lights white. Keep bench and mirror on their correct physical sides. The group is near the cube end; this is the first full success reveal.
+[SceneInstruction] Moment and staging. Use the reverse wide specified under View in Scene CH01 10J: arches glowing gold, continuous moonline, finished mirror and cube, all five lights white. Keep bench and mirror on their correct physical sides. The group is near the cube end; this is the first full success reveal. Background and fixed landmarks. From the cube end looking back towards Entry Court, the physical-right bench now reads screen-left and the mirror side screen-right. Restored arches recede above the same pale paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The tall arches glow gold above the street.
 [PanelBoundary] END PANEL CH01-PAGE101-PANEL01
@@ -33,7 +33,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10J B Tez celebrates
-[SceneInstruction] Moment and staging. Medium low at the group’s legs: Tez presses against them, chin lifted and ears up, speaking joyfully to the crew. Tara holds the lamp; the children look down at him. His selected pale stripes remain faded.
+[SceneInstruction] Moment and staging. Medium low at the group’s legs: Tez presses against them, chin lifted and ears up, speaking joyfully to the crew. Tara holds the lamp; the children look down at him. His selected pale stripes remain faded. Background and fixed landmarks. Low crop near the cube end: Tez and the children’s shoes on the same paving, settled gold light behind them. Use the established cub-to-knee proportions. The preceding wide view establishes the street; keep this frame close enough to read Tez’s face.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tez pushes against their legs.
 [SceneInstruction] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s mouth

@@ -1,0 +1,31 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 043
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE043-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | 6 Cutting the largest squares
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE043-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 6 Cutting the largest squares
+A rectangular piece of cardboard is 64 cm long and 28 cm wide. Cut it into equal squares with no cardboard left over. What is the greatest possible side length of each square? How many squares will there be? Explain your answer.
+[SmallCaption] Cardboard before cutting
+[Production] Production note V06. Draw one rectangle with length 64 cm and width 28 cm, with a clear not-to-scale notice. Do not draw a solution grid or label the square side before the child attempts the question. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE043-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE043-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.2B | 6 Cutting the largest squares
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE043-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+The side of a square must fit exactly along both 64 cm and 28 cm. We need the greatest common factor:
+Factors of 28: 1, 2, 4, 7, 14, 28. Of these, 1, 2 and 4 also divide 64. So HCF(64, 28) = 4: each square has side 4 cm.
+Now count squares in each direction:
+[Equation] Along the length: 64 ÷ 4 = 16
+[Equation] Along the width: 28 ÷ 4 = 7
+[Equation] Total: 16 × 7 = 112 squares
+[SmallCaption] Counting rows and columns
+[Production] Production note V07. Show a 64 cm by 28 cm rectangle partitioned into exactly 16 columns and 7 rows of equal squares. Label a single square side 4 cm, the 16 columns and the 7 rows. Keep all 112 cells visible and the overall proportions 16 to 7. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+The picture shows why we multiply 16 × 7: there are 7 rows of 16 squares.
+[PanelBoundary] END PANEL CH01-PAGE043-PANEL02

@@ -24,9 +24,10 @@
 [PanelContextCopy] Props and state progression. The first upward movement is +5, from −8 to −3. There is one loaded car, with gate closed. The next intended movement is +3.
 [PanelContextCopy] Planning requirements. Do not show the hidden card before the unexpected movement.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Loaded car stopped at −3 after rising from the store. Show helper and cart aboard.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03A A Three marks remain
-[SceneInstruction] Moment and staging. One loaded car is stopped at −3. Navya and Vihaan follow the strip from the safe street side; Tara is within reach of HOLD. Use the caption for the completed +5 move and the remaining distance. Do not show the hidden card.
+[SceneInstruction] Moment and staging. One loaded car is stopped at −3. Navya and Vihaan follow the strip from the safe street side; Tara is within reach of HOLD. Use the caption for the completed +5 move and the remaining distance. Do not show the hidden card. Background and fixed landmarks. Camera on the street side of the guard, looking down the single shaft. Near edge: the fixed brass guard. Beyond it: the car at the assigned mark. If the street controls enter frame they remain on the adjacent right jamb at camera level. Do not put them on the car or lower landing.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The first upward card takes the car from −8 to −3. It needs only three more marks to reach the street.
 [PanelBoundary] END PANEL CH01-PAGE013-PANEL01
@@ -46,11 +47,12 @@
 [PanelContextCopy] Props and state progression. The car is stopped at −5 after a downward change of −2. The last-change window now reads −2. Gate and cart restraints remain closed and secure.
 [PanelContextCopy] Planning requirements. Show a controlled stopped result, not a falling person or spilling cart. The position −5 and recorded change −2 must not be confused.
 [PanelMetadata] SOURCE: Scene CH01 03A Three marks left to rise | APPLIES TO: CH01-PAGE013-PANEL02; shaft viewing direction and controller placement
-[PanelContextCopy] View. Street-side downward view through the guard, showing the loaded car stopped at −3 and the controller on the right.
+[PanelContextCopy] View. Street-side downward view through the guard, showing the loaded car stopped at −5 and the controller on the right.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Match 013.01 shaft angle. Loaded car has descended two marks from −3 to −5. Helper and secured cart aboard. Tara engages HOLD upstairs.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03B A Tara stops the unexpected descent
-[SceneInstruction] Moment and staging. Freeze immediately after Tara presses HOLD: left fingertip on HOLD, staff in her right, car stopped at −5 below. The helper grips its fastened cart and looks up. Navya and Vihaan turn sharply towards the shaft; Ahana steadies her lamp. Both narration paragraphs describe this intervention and stopped result; they may share this one image.
+[SceneInstruction] Moment and staging. Freeze immediately after Tara presses HOLD: left fingertip on HOLD, staff in her right, car stopped at −5 below. The helper grips its fastened cart and looks up. Navya and Vihaan turn sharply towards the shaft; Ahana steadies her lamp. Both narration paragraphs describe this intervention and stopped result; they may share this one image. Background and fixed landmarks. Camera on the street side of the guard, looking down the single shaft. Near edge: the fixed brass guard. Beyond it: the car at the assigned mark. If the street controls enter frame they remain on the adjacent right jamb at camera level. Do not put them on the car or lower landing.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] But the controller clicks again. Instead of coming up, the lift drops two marks to −5.
 [CaptionCopy] Tara presses HOLD. The car stops. The helper grips its cart and looks up at them.
@@ -71,9 +73,10 @@
 [PanelContextCopy] Props and state progression. The display retains −2. The loaded car is held at −5. The hidden card is visible in the slot; it has not been discarded or used as a new command.
 [PanelContextCopy] Planning requirements. Show one additional card, not an extra controller or a second car. Keep the lower catch panel closed.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S01-D02. Navya identifies the hidden −2 card. The −2 window records movement, while the separate floor strip places the loaded car at −5. Include the speaking face.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 03C A Navya finds the extra card
-[SceneInstruction] Moment and staging. Close on Navya’s exposed −2 card with her face included beside the slot if needed for speech. She leaves the card in place, looks towards Tara with tightened brows and speaks. The car remains held at −5; Ahana lights the slot, and Tara monitors HOLD behind Navya.
+[SceneInstruction] Moment and staging. Close on Navya’s exposed −2 card with her face included beside the slot if needed for speech. She leaves the card in place, looks towards Tara with tightened brows and speaks. The car remains held at −5; Ahana lights the slot, and Tara monitors HOLD behind Navya. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Navya opens the card slot and finds a thin card hidden behind the return instruction. It reads −2. The machine has obeyed the extra card.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: she says.

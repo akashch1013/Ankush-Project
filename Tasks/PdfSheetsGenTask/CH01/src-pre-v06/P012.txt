@@ -1,0 +1,72 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 012
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Assigned beats of Scene CH01 02D; Assigned beats of Scene CH01 02E
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 02D The store landing
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lower store of the Lantern Street goods lift. The guarded landing is at −8 below the same street shaft, with a warm lamp and timber store edge. The single lift car arrives level with this landing. The upper street remains 0; the blue controller and the children stay above. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Lower-landing medium facing the arrived car. Use the store lamp, −8 mark and timber wall as anchors.
+[SceneInstruction] Cast and staging across the scene. The helper slides the lower gate open and begins wheeling the supply cart into the car. Freeze with the cart’s front wheels over the level threshold and the helper still on the landing. The children and Tara remain at street level, off-frame.
+[SceneInstruction] Props and state progression. Single car stopped flush with the −8 landing. The lower gate is open for loading; the upper street guard remains closed. Supply boxes are on one cart, not carried by a second helper.
+[SceneInstruction] Planning requirements. Keep the cart and helper fully supported. Loading does not imply the lift is moving.
+[PanelIdentifier] PANEL CH01-PAGE012-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 02D A The car reaches the store
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE012-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02D The store landing | APPLIES TO: CH01-PAGE012-PANEL01; CH01 02D A
+[PanelContextCopy] Setting. Lower store of the Lantern Street goods lift. The guarded landing is at −8 below the same street shaft, with a warm lamp and timber store edge. The single lift car arrives level with this landing. The upper street remains 0; the blue controller and the children stay above. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[PanelContextCopy] View. Lower-landing medium facing the arrived car. Use the store lamp, −8 mark and timber wall as anchors.
+[PanelContextCopy] Planning requirements. Keep the cart and helper fully supported. Loading does not imply the lift is moving.
+[PanelMetadata] SOURCE: Scene CH01 02D The store landing | APPLIES TO: CH01-PAGE012-PANEL01; off-frame upper-street characters
+[PanelContextCopy] The children and Tara remain at street level, off-frame.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02D A The car reaches the store
+[SceneInstruction] Moment and staging. At the lower landing, show the empty car stopped flush with −8 and the lower gate still closed. The helper and its loaded cart wait outside it. No child is at this landing.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The next card brings it to −8.
+[PanelBoundary] END PANEL CH01-PAGE012-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE012-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 02D B The helper loads the car
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE012-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02D The store landing | APPLIES TO: CH01-PAGE012-PANEL02; CH01 02D B
+[PanelContextCopy] Setting. Lower store of the Lantern Street goods lift. The guarded landing is at −8 below the same street shaft, with a warm lamp and timber store edge. The single lift car arrives level with this landing. The upper street remains 0; the blue controller and the children stay above. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[PanelContextCopy] View. Lower-landing medium facing the arrived car. Use the store lamp, −8 mark and timber wall as anchors.
+[PanelContextCopy] Cast and staging across the scene. The helper slides the lower gate open and begins wheeling the supply cart into the car. Freeze with the cart’s front wheels over the level threshold and the helper still on the landing. The children and Tara remain at street level, off-frame.
+[PanelContextCopy] Props and state progression. Single car stopped flush with the −8 landing. The lower gate is open for loading; the upper street guard remains closed. Supply boxes are on one cart, not carried by a second helper.
+[PanelContextCopy] Planning requirements. Keep the cart and helper fully supported. Loading does not imply the lift is moving.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02D B The helper loads the car
+[SceneInstruction] Moment and staging. Keep the lower-landing camera and store-lamp anchor specified under View in Scene CH01 02D. The gate is now slid open; the helper leans forward with both carved hands on the cart handle, front wheels just over the level threshold. Freeze the car at −8. The cart moves into it; the lift does not move while loading.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper slides open the lower gate and wheels its supply cart aboard.
+[PanelBoundary] END PANEL CH01-PAGE012-PANEL02
+## Scene CH01 02E Ready for the return
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lower store of the Lantern Street goods lift. The guarded landing is at −8 below the same street shaft, with a warm lamp and timber store edge. The single lift car arrives level with this landing. The upper street remains 0; the blue controller and the children stay above. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Medium from the lower landing towards the loaded car, with the closed lower gate and −8 mark visible.
+[SceneInstruction] Cast and staging across the scene. The helper stands inside the car beside the fastened cart, one wooden thumb raised towards the street. Ahana’s call comes from above, off-frame. Nobody else is in the car.
+[SceneInstruction] Props and state progression. Cart wheels are secured; gate is closed. The car remains at −8 until the next scene. Supplies and helper share the single car.
+[SceneInstruction] Planning requirements. Ahana’s off-frame balloon tail points upwards towards the street landing. Her line follows the helper’s readiness gesture.
+[PanelIdentifier] PANEL CH01-PAGE012-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 02E A Ready below and a call from above
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE012-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 02E Ready for the return | APPLIES TO: CH01-PAGE012-PANEL03; CH01 02E A
+[PanelContextCopy] Setting. Lower store of the Lantern Street goods lift. The guarded landing is at −8 below the same street shaft, with a warm lamp and timber store edge. The single lift car arrives level with this landing. The upper street remains 0; the blue controller and the children stay above. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[PanelContextCopy] View. Medium from the lower landing towards the loaded car, with the closed lower gate and −8 mark visible.
+[PanelContextCopy] Cast and staging across the scene. The helper stands inside the car beside the fastened cart, one wooden thumb raised towards the street. Ahana’s call comes from above, off-frame. Nobody else is in the car.
+[PanelContextCopy] Props and state progression. Cart wheels are secured; gate is closed. The car remains at −8 until the next scene. Supplies and helper share the single car.
+[PanelContextCopy] Planning requirements. Ahana’s off-frame balloon tail points upwards towards the street landing. Her line follows the helper’s readiness gesture.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 02E A Ready below and a call from above
+[SceneInstruction] Moment and staging. Show the finished readiness pose: the helper is wholly inside the stopped car beside its secured cart, lower gate shut, one wooden thumb raised. The narration recounts the preparation leading to that pose. Ahana remains at street level off-frame; her balloon tail exits upwards towards the street. Her call does not require inventing a visible Ahana at the store.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] It steps in beside the cart, fastens the wheels and closes the gate. Then it raises a wooden thumb.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: off-frame towards the upper street landing | Source speech attribution: Ahana calls.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Now we bring you back.
+[PanelBoundary] END PANEL CH01-PAGE012-PANEL03

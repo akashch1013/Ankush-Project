@@ -20,7 +20,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 02B A The chosen cards
-[SceneInstruction] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
+[SceneInstruction] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Navya spreads the movement cards on the control box. She finds −5 and −3. Together, they will take the car from 0 down five marks, then down three more.
 [PanelBoundary] END PANEL CH01-PAGE011-PANEL01
@@ -34,11 +34,11 @@
 [PanelContextCopy] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
 [PanelContextCopy] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
 [PanelMetadata] SOURCE: Visual beat CH01 02B A The chosen cards | APPLIES TO: CH01-PAGE011-PANEL02; controller shelf and card placements
-[PanelContextCopy] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
+[PanelContextCopy] Referenced beat for continuity only. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 02B B Ahana totals the movement
-[SceneInstruction] Moment and staging. Use a medium including Ahana and the controller shelf specified in Visual beat CH01 02B A. Ahana looks at the two cards and says the total, with her left index finger beside them and the lamp in her right. Nobody inserts a card.
+[SceneInstruction] Moment and staging. Use a medium including Ahana and the controller shelf specified in Visual beat CH01 02B A. Ahana looks at the two cards and says the total, with her left index finger beside them and the lamp in her right. Nobody inserts a card. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Minus eight.
@@ -53,13 +53,13 @@
 [PanelContextCopy] Props and state progression. The chosen cards read −5 and −3, in that order. The car is still empty at 0. No result has physically happened yet.
 [PanelContextCopy] Planning requirements. Show this only after the complete T1.1A block. The sum is a proposed route here; the following stills show its execution.
 [PanelMetadata] SOURCE: Visual beat CH01 02B B Ahana totals the movement | APPLIES TO: CH01-PAGE011-PANEL03; camera
-[PanelContextCopy] Moment and staging. Use a medium including Ahana and the controller shelf specified in Visual beat CH01 02B A. Ahana looks at the two cards and says the total, with her left index finger beside them and the lamp in her right. Nobody inserts a card.
+[PanelContextCopy] Referenced beat for continuity only. Use a medium including Ahana and the controller shelf specified in Visual beat CH01 02B A. Ahana looks at the two cards and says the total, with her left index finger beside them and the lamp in her right. Nobody inserts a card.
 [PanelMetadata] SOURCE: Visual beat CH01 02B A The chosen cards | APPLIES TO: CH01-PAGE011-PANEL03; character locations and card placements
-[PanelContextCopy] Moment and staging. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
+[PanelContextCopy] Referenced beat for continuity only. Over Navya’s shoulder, freeze her fingertips beside −5 and −3 laid in order on the shelf. All other cards stay unselected; the car is at 0. Ahana holds the lamp to the right of the cards. Vihaan and Tara look at the selection.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 02B C Ahana connects it to the store
-[SceneInstruction] Moment and staging. Separate panel retaining the camera specified in Visual beat CH01 02B B, the background specified under Setting in Scene CH01 02B and the character locations specified under Cast and staging in Scene CH01 02B and Visual beat CH01 02B A; keep their feet in place. Ahana changes only her free-hand gesture and gaze: her left palm now indicates the −8 strip mark and she looks to Navya, with a small assured smile. Her right hand keeps the lamp steady; the selected cards remain flat.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera specified in Visual beat CH01 02B B, the background specified under Setting in Scene CH01 02B and the character locations specified under Cast and staging in Scene CH01 02B and Visual beat CH01 02B A; keep their feet in place. Ahana changes only her free-hand gesture and gaze: her left palm now indicates the −8 strip mark and she looks to Navya, with a small assured smile. Her right hand keeps the lamp steady; the selected cards remain flat. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] That brings it level with the store.
@@ -76,7 +76,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 02B D The shaft is checked
-[SceneInstruction] Moment and staging. A short action image shows Tara looking through the guard to check that the shaft is clear. Her right hand holds the staff; her left hand rests outside the barrier. Navya waits at the selected cards. The car has not yet moved.
+[SceneInstruction] Moment and staging. A short action image shows Tara looking through the guard to check that the shaft is clear. Her right hand holds the staff; her left hand rests outside the barrier. Navya waits at the selected cards. The car has not yet moved. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara checks that the shaft is clear.
 [PanelBoundary] END PANEL CH01-PAGE011-PANEL04
@@ -96,9 +96,10 @@
 [PanelContextCopy] Props and state progression. One empty car at −5; supply cart remains on the −8 landing. The −3 card is still available for the next move.
 [PanelContextCopy] Planning requirements. A still shows only this one position. If an explanatory route diagram is used, keep it distinct from the physical shaft.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S01-D01. Empty car stopped at −5 after the first downward move.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 02C A The first movement is complete
-[SceneInstruction] Moment and staging. Use the stopped-result camera and framing specified under View in Scene CH01 02C: one empty car at −5. Navya’s hand is withdrawn just above START after using the first card; Tara observes through the guard. The caption narrates the immediately preceding start and this result. Do not depict a second car at its old position.
+[SceneInstruction] Moment and staging. Use the stopped-result camera and framing specified under View in Scene CH01 02C: one empty car at −5. Navya’s hand is withdrawn just above START after using the first card; Tara observes through the guard. The caption narrates the immediately preceding start and this result. Do not depict a second car at its old position. Background and fixed landmarks. Camera on the street side of the guard, looking down the single shaft. Near edge: the fixed brass guard. Beyond it: the car at the assigned mark. If the street controls enter frame they remain on the adjacent right jamb at camera level. Do not put them on the car or lower landing.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Navya puts in the first card and starts the lift. The car stops at −5.
 [PanelBoundary] END PANEL CH01-PAGE011-PANEL05

@@ -1,0 +1,20 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 080
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE080-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | 7 Put in the brackets
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE080-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 7 Put in the brackets
+Insert brackets to make this calculation correct:
+[Equation] 6³ − 16 ÷ 2² + 6 = 56
+[AnswerLead] Check your method
+We must keep the numbers and signs in their original order. First find the powers: 6³ = 216 and 2² = 4. We want to group part of 216 − 16 ÷ 4 + 6 so that the result is 56.
+Let’s try working backwards from 56. If the last step is +6, we need 56 − 6 = 50 before it. To get 50 by dividing by 4, we need 50 × 4 = 200. Can the earlier numbers make 200? Yes: 216 − 16 = 200.
+So put brackets around 6³ − 16:
+[Equation] (6³ − 16) ÷ 2² + 6 = (216 − 16) ÷ 4 + 6
+[Equation] = 200 ÷ 4 + 6 = 50 + 6 = 56
+The brackets make 216 − 16 happen before the division by 4. Our final 56 confirms that they are in the right place.
+[PanelBoundary] END PANEL CH01-PAGE080-PANEL01

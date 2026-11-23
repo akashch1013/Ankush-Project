@@ -1,0 +1,42 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 024
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q02
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Companion inset Q02
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE024-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Example 7
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE024-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 7
+Evaluate (a) −45 ÷ 9 and (b) 56 ÷ (−7).
+[AnswerLead] Let’s work it through
+Divide the positive amounts, then use the signs:
+[Equation] (a) −45 ÷ 9 = −(45 ÷ 9) = −5
+[Equation] (b) 56 ÷ (−7) = −(56 ÷ 7) = −8
+Check (b): (−8) × (−7) = 56. The quotient −8 fits.
+[PanelBoundary] END PANEL CH01-PAGE024-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE024-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE024-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) 63 ÷ (−9) and (b) −75 ÷ 15.
+[AnswerLead] Check your method
+[Equation] (a) 63 ÷ (−9) = −(63 ÷ 9) = −7
+[Equation] (b) −75 ÷ 15 = −(75 ÷ 15) = −5
+One useful extension. For (−12) ÷ (−3), ask what multiplies −3 to give −12. Since 4 × (−3) = −12, the quotient is positive 4.
+For division of two non-zero numbers, same signs give a positive quotient; different signs give a negative quotient. Also, 0 ÷ 3 = 0 because 0 × 3 = 0. We cannot divide by zero: for instance, no number multiplied by 0 gives 6, so 6 ÷ 0 has no answer.
+[PanelBoundary] END PANEL CH01-PAGE024-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE024-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q02
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q02
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 7, including the division-sign extension and division-by-zero explanation, in Teaching block T1.1C. Tara stands beside the closed street-level gate, one hand open towards the completed division work. Her staff stands securely in her other hand; her expression is reassuring. Blue wall, a fragment of brass gate and fixed warm lamp. The helper and cart still wait inside the car at 0; keep the unsolved wheel row out of the inset.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara to the reader | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Your answer tells you where you arrived. Your working shows you the way back.
+[PanelBoundary] END PANEL CH01-PAGE024-PANEL03

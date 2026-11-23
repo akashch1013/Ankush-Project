@@ -22,9 +22,10 @@
 [PanelContextCopy] Cast and staging across the scene. Ahana has returned her sketchbook and pencil to her backpack and picked up the work lamp. She faces the square base and asks the edge-length question. Navya and Vihaan stand on either side of her, examining the uneven towers without climbing or reaching beneath them. Tara explains with her staff in hand. The broad helper waits to rebuild; Tez remains beside Ahana.
 [PanelContextCopy] Planning requirements. A distant tower view may conceal individual counts; the stated inventory is exact. No four-by-four layer or solved edge shown before T1.5. The final control and floor cover are separate objects.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S07-B01. Top frame raised, still attached to its guides. Uneven towers of loose blocks. Floor cover closed and handle raised.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09A A The uneven lantern towers
-[SceneInstruction] Moment and staging. Establish the cube plinth opposite the mirror: uneven narrow towers, raised square top frame, final handle and closed floor cover in their fixed places. Ahana has packed her sketchbook and retrieved the lamp. Tara and the trio inspect without reaching beneath the loose frame.
+[SceneInstruction] Moment and staging. Establish the cube plinth opposite the mirror: uneven narrow towers, raised square top frame, final handle and closed floor cover in their fixed places. Ahana has packed her sketchbook and retrieved the lamp. Tara and the trio inspect without reaching beneath the loose frame. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Across the lane, small lantern blocks stand in thin, uneven towers on a low base. Above them is a square top frame that cannot close over the different heights.
 [PanelBoundary] END PANEL CH01-PAGE073-PANEL01
@@ -37,9 +38,10 @@
 [PanelContextCopy] Cast and staging across the scene. Ahana has returned her sketchbook and pencil to her backpack and picked up the work lamp. She faces the square base and asks the edge-length question. Navya and Vihaan stand on either side of her, examining the uneven towers without climbing or reaching beneath them. Tara explains with her staff in hand. The broad helper waits to rebuild; Tez remains beside Ahana.
 [PanelContextCopy] Planning requirements. A distant tower view may conceal individual counts; the stated inventory is exact. No four-by-four layer or solved edge shown before T1.5. The final control and floor cover are separate objects.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S07-B01. Top frame raised, still attached to its guides. Uneven towers of loose blocks. Floor cover closed and handle raised.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09A B Tara explains the travelling form
-[SceneInstruction] Moment and staging. Medium at the plinth, Tara holding her staff in her right hand. Her left hand outlines the compact space above the base without showing a solved four-cube edge. She looks towards the trio and speaks the first sentence.
+[SceneInstruction] Moment and staging. Medium at the plinth, Tara holding her staff in her right hand. Her left hand outlines the compact space above the base without showing a solved four-cube edge. She looks towards the trio and speaks the first sentence. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara explains.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] This lantern travels as one solid cube.
@@ -53,14 +55,15 @@
 [PanelContextCopy] Cast and staging across the scene. Ahana has returned her sketchbook and pencil to her backpack and picked up the work lamp. She faces the square base and asks the edge-length question. Navya and Vihaan stand on either side of her, examining the uneven towers without climbing or reaching beneath them. Tara explains with her staff in hand. The broad helper waits to rebuild; Tez remains beside Ahana.
 [PanelContextCopy] Planning requirements. A distant tower view may conceal individual counts; the stated inventory is exact. No four-by-four layer or solved edge shown before T1.5. The final control and floor cover are separate objects.
 [PanelMetadata] SOURCE: Visual beat CH01 09A B Tara explains the travelling form | APPLIES TO: CH01-PAGE073-PANEL03; camera, Tara position and staff hand
-[PanelContextCopy] Moment and staging. Medium at the plinth, Tara holding her staff in her right hand. Her left hand outlines the compact space above the base without showing a solved four-cube edge. She looks towards the trio and speaks the first sentence.
+[PanelContextCopy] Referenced beat for continuity only. Medium at the plinth, Tara holding her staff in her right hand. Her left hand outlines the compact space above the base without showing a solved four-cube edge. She looks towards the trio and speaks the first sentence.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S07-B01. Top frame raised, still attached to its guides. Uneven towers of loose blocks. Floor cover closed and handle raised.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09A C Tara explains what was disturbed
-[SceneInstruction] Moment and staging. Separate panel retaining the camera and Tara’s position specified in Visual beat CH01 09A B, and the other character locations specified under Cast and staging in Scene CH01 09A. Tara changes her free left-hand gesture to indicate the loose top frame and tilts her gaze towards the unequal towers, expression more concerned. Staff and feet stay fixed. No repair is shown yet.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera and Tara’s position specified in Visual beat CH01 09A B, and the other character locations specified under Cast and staging in Scene CH01 09A. Tara changes her free left-hand gesture to indicate the raised, unfastened top frame retained on its guides and tilts her gaze towards the unequal towers, expression more concerned. Staff and feet stay fixed. No repair is shown yet. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
-[DialogueCopy] The frame holds its blocks together. Someone has taken it apart and stacked them wrongly.
+[DialogueCopy] The frame holds the cube together. Someone took the blocks out and stacked them in towers.
 [PanelBoundary] END PANEL CH01-PAGE073-PANEL03
 [PanelIdentifier] PANEL CH01-PAGE073-PANEL04
 [PanelMetadata] SOURCE: Visual beat CH01 09A D Ahana asks for the equal edge
@@ -71,9 +74,10 @@
 [PanelContextCopy] Cast and staging across the scene. Ahana has returned her sketchbook and pencil to her backpack and picked up the work lamp. She faces the square base and asks the edge-length question. Navya and Vihaan stand on either side of her, examining the uneven towers without climbing or reaching beneath them. Tara explains with her staff in hand. The broad helper waits to rebuild; Tez remains beside Ahana.
 [PanelContextCopy] Planning requirements. A distant tower view may conceal individual counts; the stated inventory is exact. No four-by-four layer or solved edge shown before T1.5. The final control and floor cover are separate objects.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S07-B01. Top frame raised, still attached to its guides. Uneven towers of loose blocks. Floor cover closed and handle raised.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09A D Ahana asks for the equal edge
-[SceneInstruction] Moment and staging. Keep the plinth geometry and unsolved tower state specified under Setting and Props and state progression in Scene CH01 09A. Ahana looks from the square base to the top frame, lamp in her right hand, free left hand indicating one edge as she asks the group. Tara lowers her gesture; Navya and Vihaan study the three dimensions. The inventory caption and Ahana’s question share this new speaking visual.
+[SceneInstruction] Moment and staging. Keep the plinth geometry and unsolved tower state specified under Setting and Props and state progression in Scene CH01 09A. Ahana looks from the square base to the top frame, lamp in her right hand, free left hand indicating one edge as she asks the group. Tara lowers her gesture; Navya and Vihaan study the three dimensions. The inventory caption and Ahana’s question share this new speaking visual. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The children have 64 small cubes. To make one larger cube, they need equal numbers along its length, width and height.
 [CaptionCopy] Ahana looks at the square base and the top frame.

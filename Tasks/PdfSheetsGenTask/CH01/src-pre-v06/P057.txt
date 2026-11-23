@@ -1,0 +1,24 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 057
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE057-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | 2 Check all eleven divisors
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE057-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+Now use those facts to complete the checks:
+| Divisor | 28350 | 15876 | 7654320 |
+| 2 | Yes: ends in 0. | Yes: ends in 6. | Yes: ends in 0. |
+| 3 | Yes: sum 18. | Yes: sum 27. | Yes: sum 27. |
+| 4 | No: 50 is not a multiple of 4. | Yes: 76 = 4 × 19. | Yes: 20 = 4 × 5. |
+| 5 | Yes: ends in 0. | No: ends in 6. | Yes: ends in 0. |
+| 6 | Yes: passes 2 and 3. | Yes: passes 2 and 3. | Yes: passes 2 and 3. |
+| 7 | Yes: test ends at 21. | Yes: test ends at 0. | No: test ends at 69. |
+| 8 | No: 350 = 8 × 43 + 6. | No: 876 = 8 × 109 + 4. | Yes: 320 = 8 × 40. |
+| 9 | Yes: sum 18. | Yes: sum 27. | Yes: sum 27. |
+| 10 | Yes: ends in 0. | No: ends in 6. | Yes: ends in 0. |
+| 25 | Yes: ends in 50. | No: ends in 76. | No: ends in 20. |
+| 100 | No: ends in 50. | No: ends in 76. | No: ends in 20. |
+[Production] Production note T05. Keep the original numbers in the column headings and all eleven divisors in order. Preserve reasons, not only ticks. Repeated headers must remain visible if the table spans a page. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE057-PANEL01

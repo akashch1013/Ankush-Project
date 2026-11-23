@@ -1,0 +1,33 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 081
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE081-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | 8 Find the missing edge
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE081-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 8 Find the missing edge
+A small cube of volume 8 cm³ is removed from a large cube of volume 64 cm³. Find the length marked ? in the diagram.
+[SmallCaption] The cube with a corner removed
+[Production] Production note V15. Preserve the source viewpoint: the top front right corner is removed. The unknown horizontal length is the remaining left part of the front top edge, from the outer left edge to the cut. Show the recess floor, back and left inner faces. Keep the original volumes in the question text; add no solved edge lengths to this figure. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE081-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE081-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.5 | 8 Find the missing edge
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE081-PANEL02; assigned teaching material
+[PanelMetadata] SOURCE: Production note V15 | APPLIES TO: CH01-PAGE081-PANEL02; viewpoint, recess geometry and unknown-segment location
+[PanelContextCopy] Preserve the source viewpoint: the top front right corner is removed. The unknown horizontal length is the remaining left part of the front top edge, from the outer left edge to the cut. Show the recess floor, back and left inner faces.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+Find the edge of each complete cube from its volume:
+[Equation] Large cube edge: ∛64 = 4 cm
+[Equation] Removed cube edge: ∛8 = 2 cm
+Look at the marked horizontal edge. The original full width was 4 cm; the removed corner uses 2 cm of that width. The remaining part is:
+[Equation] 4 − 2 = 2 cm
+So the missing length is 2 cm. Subtracting the volumes, 64 − 8 = 56 cm³, would find the remaining space, not this edge length.
+[SmallCaption] The lengths used in the subtraction
+[Production] Production note V16. Retain the viewpoint, recess geometry and unknown-segment location specified in Production note V15 in Teaching block T1.5. Add a full-width dimension of 4 cm below the front face, a removed-width dimension of 2 cm over the recess, and label the original unknown segment 2 cm. Do not move the question mark to a different edge while answering. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE081-PANEL02
+[SourceLocator] End of teaching block T1.5  •  Story resumes below

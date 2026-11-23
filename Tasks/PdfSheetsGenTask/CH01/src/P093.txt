@@ -33,7 +33,7 @@ It still fits the other three: 12600 ÷ 8 = 1575, 12600 ÷ 9 = 1400 and 12600 ÷
 [PanelMetadata] SOURCE: Companion inset Q11
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q11
-[SceneInstruction] Production instruction. After the completed Revision Question 6, Find the smallest shared multiple, in Teaching block R01. Navya holds the working record in both hands and looks up thoughtfully. She is reviewing, not changing a control. The plinth corner, closed floor cover and raised handle in partial view. All five indicators white; no broken joint is revealed.
+[SceneInstruction] Production instruction. After the completed Revision Question 6, Find the smallest shared multiple, in Teaching block R01. Navya holds the working record in both hands and looks up thoughtfully. She is reviewing, not changing a control. The plinth corner, closed floor cover and raised handle in partial view. All five indicators white; no broken joint is revealed. Background for this inset. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya to the reader | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Keep the useful part of your plan. Correct the part that needs it.

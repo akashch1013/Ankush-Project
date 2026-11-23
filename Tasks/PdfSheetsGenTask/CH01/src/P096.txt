@@ -6,6 +6,7 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE096-PANEL01; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Retain claim and its test in assigned order. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [MathSubsection] A final check of your understanding
 Here are four extra questions. This time, tell me why your method works as well as finding the answer. Try them before reading the responses.
@@ -19,6 +20,7 @@ D. Check a claim. A friend says 3² + 4² = 7². Check both sides and explain th
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE096-PANEL02; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Retain claim and its test in assigned order. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [AnswerLead] Check your understanding
 A. The second minus sign belongs to −7. Subtracting −7 means adding 7, not subtracting 7: −4 − (−7) = −4 + 7 = 3. Check: 3 + (−7) = −4.

@@ -1,0 +1,36 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 089
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE089-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 4 Cut a cuboid into cubes
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE089-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 4 Cut a cuboid into cubes
+The cuboid shown is to be cut exactly into identical cubes, with no material remaining.
+(a) What is the largest possible size of the cubes?
+(b) How many cubes will there be?
+[SmallCaption] The cuboid before cutting
+[Production] Production note V17. Preserve source orientation: horizontal front length 30 cm, vertical height 18 cm and sloping-back depth 12 cm. Show an unpartitioned cuboid and no solved cube side. Use a not-to-scale notice. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE089-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE089-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | 4 Cut a cuboid into cubes
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE089-PANEL02; assigned teaching material
+[PanelMetadata] SOURCE: Production note V17 | APPLIES TO: CH01-PAGE089-PANEL02; source cuboid orientation and dimensions
+[PanelContextCopy] Preserve source orientation: horizontal front length 30 cm, vertical height 18 cm and sloping-back depth 12 cm.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+(a) A cube’s side must fit exactly along all three lengths: 30 cm, 18 cm and 12 cm. Find their HCF.
+Factors of 12 are 1, 2, 3, 4, 6, 12. Those that also divide both 18 and 30 are 1, 2, 3 and 6. The greatest is 6, so each cube has side length 6 cm.
+(b) Count cubes along, across and up:
+[Equation] Along the 30 cm length: 30 ÷ 6 = 5
+[Equation] Along the 12 cm depth: 12 ÷ 6 = 2
+[Equation] Along the 18 cm height: 18 ÷ 6 = 3
+[Equation] Total: 5 × 2 × 3 = 30 cubes
+[SmallCaption] Five by two by three cubes
+[Production] Production note V18. Repeat the source orientation and show a 5-column, 2-deep, 3-high partition. Add one separate layer plan with exactly 5 by 2 cells labelled 10 cubes in one layer. Label 3 layers and a unit edge of 6 cm. The completed cuboid contains 30 cubes, including those hidden from view. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+One layer holds 5 × 2 = 10 cubes, and there are 3 layers. That gives 30 cubes, not 5 + 2 + 3.
+[PanelBoundary] END PANEL CH01-PAGE089-PANEL02

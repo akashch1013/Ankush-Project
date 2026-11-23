@@ -1,0 +1,23 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 090
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE090-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 5 Use divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE090-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 5 Use divisibility tests
+Check whether each number is divisible by 2, 3, 4, 5, 6, 7, 8, 9, 10, 25 and 100.
+(a) 504  (b) 12345678
+[AnswerLead] Check your method
+(a) The digit sum of 504 is 5 + 0 + 4 = 9. For 7, use 50 − 2 × 4 = 42, which is divisible by 7.
+(b) The digit sum of 12345678 is 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 = 36. Its 7-test goes:
+[Equation] 1234567 − 2 × 8 = 1234551
+[Equation] 123455 − 2 × 1 = 123453
+[Equation] 12345 − 2 × 3 = 12339
+[Equation] 1233 − 2 × 9 = 1215
+[Equation] 121 − 2 × 5 = 111
+[Equation] 11 − 2 × 1 = 9
+9 is not divisible by 7, so 12345678 fails that test.
+[PanelBoundary] END PANEL CH01-PAGE090-PANEL01

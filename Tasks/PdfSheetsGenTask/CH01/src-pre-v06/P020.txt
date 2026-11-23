@@ -1,0 +1,38 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 020
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE020-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Follow the multiplication patterns
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE020-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Follow the multiplication patterns
+Look at these two patterns. What changes in each column? Fill the blanks, then explain to a partner why a positive number multiplied by a negative number gives a negative answer, whichever order the two factors are written in.
+| First factor stays 3 | Second factor stays 3 |
+| 3 × 3 = 9 | 3 × 3 = 9 |
+| 3 × 2 = 6 | 2 × 3 = 6 |
+| 3 × 1 = 3 | 1 × 3 = 3 |
+| 3 × 0 = 0 | 0 × 3 = 0 |
+| 3 × (−1) = □ | (−1) × 3 = □ |
+| 3 × (−2) = □ | (−2) × 3 = □ |
+[Production] Production note T02. Keep both six-row patterns aligned. The four final products remain blank until the solution. Each column decreases by 3 per row; fixed and changing factors must match the stated headings. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[AnswerLead] Check your method
+Each column goes 9, 6, 3, 0, then −3, −6: the product drops by 3 in each row.
+[Equation] 3 × (−1) = −3;   3 × (−2) = −6
+[Equation] (−1) × 3 = −3;   (−2) × 3 = −6
+Both columns reach −6: 3 × (−2) = −6 and (−2) × 3 = −6. You could tell your partner, “Changing the order of the factors keeps the product the same. With one positive factor and one negative factor, the product is negative.”
+[PanelBoundary] END PANEL CH01-PAGE020-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE020-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | Complete the sign rules
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE020-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Complete the sign rules
+Use the patterns to fill both blanks:
+[Equation] (positive) × (negative) = ______
+[Equation] (negative) × (positive) = ______
+[AnswerLead] Check your thinking
+Write negative in both blanks: 3 × (−2) = −6 and (−2) × 3 = −6.
+[PanelBoundary] END PANEL CH01-PAGE020-PANEL02

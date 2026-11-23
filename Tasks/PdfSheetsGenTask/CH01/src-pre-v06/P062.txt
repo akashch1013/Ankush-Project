@@ -1,0 +1,90 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 062
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 08 The square mirror
+[SourceLocator] Production sequence reference CH01-08. The following location descriptions are retained from V16.
+### Lantern Street Square Mirror Recess
+[SceneInstruction] A shallow square brass frame stands just above the paving in an alcove on the far-left wall. A blue rear wall, a warm lamp on the left and an open canopy gap identify it. A padded tray and opaque tile crate sit outside the walking lane.
+[SceneInstruction] The inventory is 81 equal, unbroken square mirror tiles. The helper empties the mislaid arrangement before the mathematical layout. The exact result is one flat 9 × 9 grid, reflecting one continuous full moon. The inner brass rim carries a V hidden in dust until the arches light. Keep that rim, lamp, crate and paving seam consistent. A diagram supplies the count; a wide image need not reveal every tile.
+[SceneInstruction] Required views. Medium empty-frame setup; high three-quarter exact grid after teaching; separate Tez reflection view; later rim-and-V close-up from the same frame.
+## Scene CH01 08A Broken patches of moonlight
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Cross-lane medium towards the far-left mirror alcove. Retain the blue rear wall, left warm lamp, open canopy gap, shallow brass frame and paving seam. A separate preliminary still shows crooked tiles; the main working still shows the helper clearing them.
+[SceneInstruction] Cast and staging across the scene. Tara directs the trio across the lane, staff in her right hand. Ahana carries the work lamp. Navya looks into the frame; Vihaan looks at the scattered reflections. Tez stays near Ahana. The helper fixes the loose frame and transfers misplaced tiles onto the padded tray outside the walking route.
+[SceneInstruction] Props and state progression. All 81 tiles are unbroken and belong to this one frame. The opaque crate and padded tray stand clear of the lane. The frame is fixed at a shallow tilt towards the canopy opening; that mounting does not change in later views. The V remains concealed in dust.
+[SceneInstruction] Planning requirements. Do not copy the older location image’s floor-mounted open square or its exposed 3-by-27 tile array. V16 specifies a shallow frame in this wall alcove. No completed 9-by-9 arrangement before teaching.
+[PanelIdentifier] PANEL CH01-PAGE062-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 08A A The crooked reflections
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE062-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL01; CH01 08A A
+[PanelContextCopy] View. Cross-lane medium towards the far-left mirror alcove. Retain the blue rear wall, left warm lamp, open canopy gap, shallow brass frame and paving seam. A separate preliminary still shows crooked tiles; the main working still shows the helper clearing them.
+[PanelContextCopy] Props and state progression. All 81 tiles are unbroken and belong to this one frame. The opaque crate and padded tray stand clear of the lane. The frame is fixed at a shallow tilt towards the canopy opening; that mounting does not change in later views. The V remains concealed in dust.
+[PanelContextCopy] Planning requirements. Do not copy the older location image’s floor-mounted open square or its exposed 3-by-27 tile array. V16 specifies a shallow frame in this wall alcove. No completed 9-by-9 arrangement before teaching.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL01; trio, Tara and Tez positions
+[PanelContextCopy] Tara directs the trio across the lane, staff in her right hand. Ahana carries the work lamp. Navya looks into the frame; Vihaan looks at the scattered reflections. Tez stays near Ahana.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL01; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08A A The crooked reflections
+[SceneInstruction] Moment and staging. Establish the mirror alcove with the tiles still crooked in its shallow frame and broken moonlight on the opposite wall. Tara and the children have crossed the lane; the helper has not emptied the frame yet. Ahana holds the portable lamp. Keep the mounting, blue wall, left fixed lamp and canopy gap.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] As the work lamps brighten, broken patches of moonlight appear on the opposite wall. They come from a shallow square mirror frame near the floor. Its tiles have been piled crookedly instead of fitted flat.
+[PanelBoundary] END PANEL CH01-PAGE062-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE062-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 08A B Tara points to the next job
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE062-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL02; CH01 08A B
+[PanelContextCopy] View. Cross-lane medium towards the far-left mirror alcove. Retain the blue rear wall, left warm lamp, open canopy gap, shallow brass frame and paving seam. A separate preliminary still shows crooked tiles; the main working still shows the helper clearing them.
+[PanelContextCopy] Props and state progression. All 81 tiles are unbroken and belong to this one frame. The opaque crate and padded tray stand clear of the lane. The frame is fixed at a shallow tilt towards the canopy opening; that mounting does not change in later views. The V remains concealed in dust.
+[PanelContextCopy] Planning requirements. Do not copy the older location image’s floor-mounted open square or its exposed 3-by-27 tile array. V16 specifies a shallow frame in this wall alcove. No completed 9-by-9 arrangement before teaching.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL02; trio, Tara and Tez positions
+[PanelContextCopy] Tara directs the trio across the lane, staff in her right hand. Ahana carries the work lamp. Navya looks into the frame; Vihaan looks at the scattered reflections. Tez stays near Ahana.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL02; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08A B Tara points to the next job
+[SceneInstruction] Moment and staging. Medium on Tara beside the alcove specified under Setting in Scene CH01 08A: staff in her right hand, left index finger pointing towards the crooked frame, gaze towards the children. She speaks the first line. The misplaced tiles remain untouched.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The next job is over there.
+[PanelBoundary] END PANEL CH01-PAGE062-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE062-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 08A C Tara explains the scattered light
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE062-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL03; CH01 08A C
+[PanelContextCopy] View. Cross-lane medium towards the far-left mirror alcove. Retain the blue rear wall, left warm lamp, open canopy gap, shallow brass frame and paving seam. A separate preliminary still shows crooked tiles; the main working still shows the helper clearing them.
+[PanelContextCopy] Props and state progression. All 81 tiles are unbroken and belong to this one frame. The opaque crate and padded tray stand clear of the lane. The frame is fixed at a shallow tilt towards the canopy opening; that mounting does not change in later views. The V remains concealed in dust.
+[PanelContextCopy] Planning requirements. Do not copy the older location image’s floor-mounted open square or its exposed 3-by-27 tile array. V16 specifies a shallow frame in this wall alcove. No completed 9-by-9 arrangement before teaching.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL03; trio, Tara and Tez positions
+[PanelContextCopy] Tara directs the trio across the lane, staff in her right hand. Ahana carries the work lamp. Navya looks into the frame; Vihaan looks at the scattered reflections. Tez stays near Ahana.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL03; frame mounting
+[PanelMetadata] SOURCE: Visual beat CH01 08A B Tara points to the next job | APPLIES TO: CH01-PAGE062-PANEL03; camera, Tara position and staff hand
+[PanelContextCopy] Moment and staging. Medium on Tara beside the alcove specified under Setting in Scene CH01 08A: staff in her right hand, left index finger pointing towards the crooked frame, gaze towards the children. She speaks the first line. The misplaced tiles remain untouched.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08A C Tara explains the scattered light
+[SceneInstruction] Moment and staging. Separate panel retaining the camera and Tara’s position specified in Visual beat CH01 08A B, and the other character locations specified under Cast and staging in Scene CH01 08A. Tara rotates her free left hand from a pointing finger into a small fan-like gesture towards the scattered patches, turning her head towards them. Her staff and feet stay fixed. The helper still waits; no repaired full-moon reflection is shown.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That mirror sends moonlight into the far arches. At the moment, every tile points somewhere different.
+[PanelBoundary] END PANEL CH01-PAGE062-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE062-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 08A D The frame is cleared
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE062-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL04; CH01 08A D
+[PanelContextCopy] View. Cross-lane medium towards the far-left mirror alcove. Retain the blue rear wall, left warm lamp, open canopy gap, shallow brass frame and paving seam. A separate preliminary still shows crooked tiles; the main working still shows the helper clearing them.
+[PanelContextCopy] Cast and staging across the scene. Tara directs the trio across the lane, staff in her right hand. Ahana carries the work lamp. Navya looks into the frame; Vihaan looks at the scattered reflections. Tez stays near Ahana. The helper fixes the loose frame and transfers misplaced tiles onto the padded tray outside the walking route.
+[PanelContextCopy] Props and state progression. All 81 tiles are unbroken and belong to this one frame. The opaque crate and padded tray stand clear of the lane. The frame is fixed at a shallow tilt towards the canopy opening; that mounting does not change in later views. The V remains concealed in dust.
+[PanelContextCopy] Planning requirements. Do not copy the older location image’s floor-mounted open square or its exposed 3-by-27 tile array. V16 specifies a shallow frame in this wall alcove. No completed 9-by-9 arrangement before teaching.
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE062-PANEL04; frame mounting
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 08A D The frame is cleared
+[SceneInstruction] Moment and staging. A separate working image shows the helper supporting the secured frame while transferring the last misplaced tile to the padded tray. The frame is now empty; all 81 tiles remain intact and supported outside the walking lane. The children stand clear of the handling.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper fixes the loose frame and removes the misplaced tiles onto a padded tray.
+[PanelBoundary] END PANEL CH01-PAGE062-PANEL04
