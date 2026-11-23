@@ -1,0 +1,44 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 075
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE075-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | Finding the side of a cube
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE075-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Finding the side of a cube
+Suppose a cube contains 27 unit blocks. What number of blocks goes along each edge? We need three copies of the same number that multiply to give 27.
+[Equation] 3 × 3 × 3 = 27, so ∛27 = 3
+The symbol ∛ means cube root. That little 3 on the root sign matters: it asks for three equal factors, not two.
+[SmallCaption] Twenty seven blocks in three layers
+[Production] Production note V12. Show a 3 by 3 by 3 cube with all face divisions aligned and three adjacent 3 by 3 layer plans. Each plan contains nine cells. Label 3 layers, 9 cubes per layer, volume 27 cm³ and edge 3 cm. The plans explain the hidden cubes rather than adding extra cubes to the solid. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Look at the three layer plans: 9 blocks in each of 3 layers give 27 blocks. So a cube of volume 27 cm³ has edge length 3 cm. Cubing finds the volume from the edge; a cube root finds the edge from the volume.
+Similarly, ∛8 = 2 because 2 × 2 × 2 = 8. On a calculator, use the cube-root function for ∛64; the answer should be 4. Check: 4 × 4 × 4 = 64.
+[PanelBoundary] END PANEL CH01-PAGE075-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE075-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.5 | Example 15
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE075-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 15
+Evaluate (a) 5³ + 2³ and (b) 7³ − 3³.
+[AnswerLead] Let’s work it through
+Work out the cubes before adding or subtracting:
+[Equation] (a) 5³ + 2³ = 125 + 8 = 133
+[Equation] (b) 7³ − 3³ = 343 − 27 = 316
+If you need the cube in (b), 7³ = 7 × 7 × 7 = 49 × 7 = 343.
+[PanelBoundary] END PANEL CH01-PAGE075-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE075-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.5 | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE075-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) 2³ + 8³ and (b) 9³ − 7³.
+[AnswerLead] Check your method
+[Equation] (a) 2³ + 8³ = 8 + 512 = 520
+[Equation] (b) 9³ − 7³ = 729 − 343 = 386
+[PanelBoundary] END PANEL CH01-PAGE075-PANEL03

@@ -1,0 +1,36 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 009
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE009-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1A | What happens when the next number is negative
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE009-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] What happens when the next number is negative
+These two patterns will help us find out. In each column, the number after the operation sign goes down by 1 each time. Look at what happens to the answer, then fill the four blanks.
+| Addition pattern | Subtraction pattern |
+| 7 + 3 = 10 | 7 − 3 = 4 |
+| 7 + 2 = 9 | 7 − 2 = 5 |
+| 7 + 1 = 8 | 7 − 1 = 6 |
+| 7 + 0 = 7 | 7 − 0 = 7 |
+| Line 1: 7 + (−1) = □ | Line 3: 7 − (−1) = □ |
+| Line 2: 7 + (−2) = □ | Line 4: 7 − (−2) = □ |
+[Production] Production note T01. Keep the two six-row patterns aligned, with the four final answers blank in the question. The addition answers decrease by 1; the subtraction answers increase by 1. Do not add answer arrows or filled cells to the question table. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE009-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE009-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1A | What happens when the next number is negative
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE009-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+The addition answers go 10, 9, 8, 7, 6, 5. We add one less each time, so the total is one less. Lines 1 and 2 are:
+[Equation] 7 + (−1) = 6 = 7 − 1
+[Equation] 7 + (−2) = 5 = 7 − 2
+The subtraction answers go 4, 5, 6, 7, 8, 9. We subtract one less each time, so one more remains. Lines 3 and 4 are:
+[Equation] 7 − (−1) = 8 = 7 + 1
+[Equation] 7 − (−2) = 9 = 7 + 2
+Notice the two jobs of a minus sign in 7 − (−2). The first − tells us to subtract. The second − belongs to the number −2. Brackets keep that negative number together.
+Adding −2 has the same effect as subtracting 2. Subtracting −2 has the same effect as adding 2. We’ll take those ideas one at a time.
+[PanelBoundary] END PANEL CH01-PAGE009-PANEL02

@@ -1,0 +1,265 @@
+{
+ "chapter": "CH01",
+ "book": "ChandRush: The Midnight Mela",
+ "chapter_label": "Chapter 1 · Numbers",
+ "sources": {
+  "manuscript": "Reference/Chap1 Corrected/CH01-PANELIZED-MANUSCRIPT-V02.docx",
+  "register": "Reference/Chap1 Corrected/CH01-LOCATION-IMAGE-REGISTER-V10.docx",
+  "plates": "BagroundGenTask/out/plates/"
+ },
+ "pages": [
+  {
+   "page": "P005",
+   "pattern": "free composition (art-directed); nearest grid T1",
+   "theme": "stage-cinema",
+   "title": "Numbers below zero",
+   "purpose": "teaching: Teaching block T1.1A opening: friendly narrator welcome + chapter intro, then 'Numbers below zero' (Sam 12°C vs Sarah −12°C) with Pause and think and Check your thinking",
+   "beats": [
+    "Teaching block T1.1A panel 01 (caption bridge + intro)",
+    "Teaching block T1.1A panel 02 (Numbers below zero)"
+   ],
+   "panels": [
+    {
+     "id": "P005-1",
+     "beat": "caption bridge: friendly teacher narrator",
+     "box": "builder decides (top-left welcome scroll)",
+     "art": {
+      "kind": "none"
+     },
+     "captions": [
+      "Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P005-2",
+     "beat": "silent companion",
+     "box": "builder decides",
+     "art": {
+      "kind": "reuse",
+      "item": "C-AHANA-LEAN-01",
+      "src": "FInalChangesTask/library/C-AHANA-LEAN-01.png",
+      "style": "transparent cut-out, .pop stepping out over the edge of the intro sheet; silent (no aside on this page)"
+     },
+     "captions": [],
+     "bubbles": []
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.1A",
+     "heading": "",
+     "questions": [],
+     "text": [
+      "Why is −12°C colder than 12°C? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.",
+      "We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number."
+     ],
+     "equations": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1A",
+     "heading": "Numbers below zero",
+     "questions": [
+      "Sam’s town is at 12°C. Sarah’s town is at −12°C. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?",
+      "Pause and think. Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?"
+     ],
+     "text": [
+      "Check your thinking",
+      "12°C is 12 degrees above zero; −12°C is 12 degrees below zero. Sam’s town is warmer. From −12°C, a rise of 10°C takes Sarah’s town to −2°C:",
+      "−12 + 10 = −2",
+      "−2°C is still colder than Sam’s 12°C. Sarah’s town has warmed up, but it has not caught up with Sam’s."
+     ],
+     "equations": [
+      "−12 + 10 = −2"
+     ],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [
+    {
+     "item": "C-AHANA-LEAN-01",
+     "kind": "cut-out",
+     "desc": "Ahana leaning on a blue stone pillar, sketchbook and pencil held to her chest (library, free)"
+    }
+   ],
+   "notes": "Reading order: welcome caption → intro paragraphs → 'Numbers below zero' → Sam/Sarah question → Pause and think → Check your thinking (answer, equation, closing line). The two question blocks come before the answer flap. Question figure (thermometer diorama) shows ONLY 12°C and −12°C; the −2°C result and the +10 rise appear only inside/after the Check your thinking flap. 'Why is −12°C colder than 12°C?' is part of intro1 (a rhetorical question): print it as prose. Only equation: −12 + 10 = −2 (data-math). No added words: figure labels may only be 12°C, −12°C, 0 (and −2°C, 10 inside the answer flap).",
+   "art": {
+    "idea": "Mission briefing: two cities, one precision gauge. The chapter's first lesson opens as the crew's wax-sealed briefing letter; Sam's warm city and Sarah's frozen city are read off one brass precision thermometer, like an instrument in an engineer's lab.",
+    "stage": "stage-cinema (moonlight top-right, ember haze bottom-left) + .skyline low behind the folio",
+    "ornament": ".deco-frame around the page + .lightstring (warm bokeh) along the top edge (replaces the marigold garland)",
+    "hero": "the precision gauge (keep the verified geometry: −15…15 at 7.6 pt/°C, 0 line, 12 and −12 tabs at their exact ticks): glass tube with brass collar fittings and fine engraved ticks; readout tags '12°C' / '−12°C' as small brass-edged plates with thin leader lines; on the warm side a sleek lamp-gold-lit CITY SKYLINE (Lantern Street style) silhouette (towers, lit windows, heat shimmer lines above); on the cold side an moonlit blue-white frozen city silhouette (snow-capped rooftops, frost, fine snow particles). No cute houses, no chai cup, no coat, no cartoon snowflakes.",
+    "objects": {
+     "caption": ".letter + .mounts + .wax (the briefing letter)",
+     "intro": ".sheet (ivory, brass inner line)",
+     "section title": ".h-title: 'Numbers' brass + .alt 'below zero' ice",
+     "question": ".ticket (VIP pass) with .stub ico i-thermo",
+     "pause": ".ticket.teal with .stub ico i-moon",
+     "answers": ".flap with .seal (ico i-eye ink), .label.royal 'Check your thinking', answer prose, .eq, then the number line as an illuminated rail"
+    },
+    "illustrate": "(1) the gauge (question data only: 12, −12, 0), painterly brass-and-glass on a royal lacquer panel. (2) inside the flap: the exact −12…12 number line as a brass rail with lamp-gold and moonlight markers: hollow royal ring at −12, solid royal at −2, copper at 12, a royal arc '+10'.",
+    "companion": "Ahana cut-out .pop over the intro sheet's lower-right corner (keep). Silent.",
+    "colour": "A3 plate family: royal night + brass; lamp gold = warm (Sam, 12), moonlight #a6c6f5 = cold (Sarah, −12); royal .mt (#1f4f9a) tracks Sarah's temperature in the answer; copper .mr for Sam's 12.",
+    "delights": [
+     "heat-shimmer strokes rising over the warm skyline",
+     "frost crystals creeping up the cold half of the gauge's backboard",
+     "a brass drafting pencil (not a cartoon pencil) lying across the letter and sheet: 'Keep a pencil nearby'"
+    ],
+    "folio": "moonclock --t 0.047 bottom-left",
+    "varies": "cinema stage + deco-frame + lightstring; P039 is a jali stage with a jali-band and a nameplate",
+    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (M01-D01, S03-B01)."
+   }
+  },
+  {
+   "page": "P039",
+   "pattern": "free composition (art-directed); nearest grid T3",
+   "theme": "stage-jali",
+   "purpose": "teaching: Teaching block T1.2B, Example 11 (HCF word problem, worked) then Now you try with Check your method; Tez companion inset Q04 at the completed boundary",
+   "beats": [
+    "Teaching block T1.2B Example 11",
+    "Teaching block T1.2B Now you try",
+    "Companion inset Q04"
+   ],
+   "panels": [
+    {
+     "id": "P039-3",
+     "beat": "Companion inset Q04",
+     "box": "builder decides; bottom-right, jharokha ~130 × 170 pt",
+     "art": {
+      "kind": "reuse",
+      "item": "V-TEZ-P039",
+      "src": "FInalChangesTask/CH01/out/V-TEZ-P039.png",
+      "style": "Tez in a .jharokha (carved window) at the bottom-right by the stall counter; the art keeps its own bench/kit-box background inside the arch; .sill under it"
+     },
+     "background": {
+      "record": "S04-B01",
+      "plate": "BagroundGenTask/out/plates/S04-B01.png",
+      "camera": "closer and lower, on the bench top beside the open padded kit box"
+     },
+     "characters": [
+      {
+       "name": "Tez",
+       "position": "centre of the square, sitting on the pale bench top beside the open empty padded kit box",
+       "action": "sits on four-pawed haunches, head tilted towards the reader",
+       "gaze": "the reader",
+       "expression": "playful, pleased",
+       "holding": "nothing (no tool, no food)"
+      }
+     ],
+     "props_state": [
+      "one open padded kit box beside him: completely empty",
+      "the two stock boxes behind stay unsolved (lenses and rings inside, uncountable)",
+      "the sample board is blank: no three-lens/five-ring sample"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper area",
+       "w": 0.9,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tez",
+       "text": "I like “nothing left over”. Especially at dinner.",
+       "where": "above Tez",
+       "tail_to": "Tez's mouth",
+       "role": "companion remark to the reader: .say.aside (Kalam 15/19), warm-cream tint, curved tail ending just before Tez’s mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.2B",
+     "heading": "Example 11",
+     "questions": [
+      "Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack."
+     ],
+     "text": [
+      "Let’s work it through",
+      "Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.",
+      "171 = 1 × 171 = 3 × 57 = 9 × 19",
+      "27 = 1 × 27 = 3 × 9",
+      "63 = 1 × 63 = 3 × 21 = 7 × 9",
+      "The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:",
+      "Pencils per pack: 171 ÷ 9 = 19",
+      "Erasers per pack: 27 ÷ 9 = 3",
+      "Pens per pack: 63 ÷ 9 = 7",
+      "Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: 9 × 19 = 171."
+     ],
+     "equations": [
+      "171 = 1 × 171 = 3 × 57 = 9 × 19",
+      "27 = 1 × 27 = 3 × 9",
+      "63 = 1 × 63 = 3 × 21 = 7 × 9",
+      "171 ÷ 9 = 19",
+      "27 ÷ 9 = 3",
+      "63 ÷ 9 = 7",
+      "9 × 19 = 171"
+     ],
+     "answers_on_page": true
+    },
+    {
+     "block": "T1.2B",
+     "heading": "Now you try",
+     "questions": [
+      "Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag."
+     ],
+     "text": [
+      "Check your method",
+      "Factors of 28: 1, 2, 4, 7, 14, 28.",
+      "Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.",
+      "The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:",
+      "28 ÷ 7 = 4 candies per bag",
+      "49 ÷ 7 = 7 stickers per bag",
+      "35 ÷ 7 = 5 magnets per bag"
+     ],
+     "equations": [
+      "28 ÷ 7 = 4",
+      "49 ÷ 7 = 7",
+      "35 ÷ 7 = 5"
+     ],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [
+    {
+     "item": "V-TEZ-P039",
+     "kind": "vignette",
+     "desc": "Tez sitting on haunches beside the empty padded kit box on the Lantern Street projector-kit bench (S04-B01), head tilted to the reader"
+    }
+   ],
+   "notes": "Question before working: each question in its own card, its working after it; Check your method is a separable block read after the Now you try question. Print every line of src/P039.txt in order, including the three factor equations (171 = …, 27 = …, 63 = …) that the previous build omitted. Factor lists in Check your method are lists, not equations. No added text or diagrams.\ndesign (V09): reader goal = follow one complete HCF word problem, then attempt a twin. Hardest fit = Example 11 (question + 6 equation lines + 3 prose blocks) at 14/18 pt. Chosen rough: Example 11 across the top two-thirds (question card, then 'Let's work it through' in two columns: reasons + factor equations | sharing equations + conclusion, = signs aligned); bottom band: Now you try question → Check your method block → Tez grounded at bottom-right on the bench with the empty kit box, aside after the completed unit. Challenger rejected: Tez in a full-height right column (old build) — steals ~270 pt width and forces the Example into cramped columns. Gutter: midnight indigo #122A45 sliver (blue timber wall of the bench). Edge motif: brass corner cap of the padded kit box → one brass corner joint (0.9 pt) where the reader enters Example 11, short return at the end of Check your method. Colour key: deep teal traces the HCF (9 in Example 11, 7 in Check your method) through factor lines and divisions; operators and = in dark ink.\nART (A1, 2026-11-22): rebuild from the art brief above; the V09 brief above is superseded where they differ (stage, garland, companion entry).",
+   "art": {
+    "idea": "The gift-pack stock room, logged in a mission file. Salim's problem hangs as a cargo tag from an etched brass 'Example 11' nameplate; the working is in the crew's field notebook; the answer, 9 identical packages, sits in a brass-and-glass display rack lit like a museum case; Josephine's twin problem is a VIP pass; its method sits under a sealed answer panel; Tez watches from a carved jharokha.",
+    "stage": "stage-planks (alias stage-jali): the royal-blue lacquered stall wall of S04-B01",
+    "ornament": ".trim-band (banner moon + star) across the top; brass corner caps (.hud) on the display rack",
+    "hero": "the display rack: royal lacquer and brass shelving, lamp-lit, holding EXACTLY 9 identical kit boxes drawn like the plate's own (royal-blue lacquered boxes with brass corner caps and a cream band), brass corner caps locked onto it",
+    "objects": {
+     "title": ".nameplate 'Example 11' (top-left)",
+     "question": ".tag (cargo tag) for Salim's question, brass-wire/twine line from its eyelet to the nameplate",
+     "working": ".ledger field notebook (+ .bookmark) with .label + ico i-pencil ink 'Let’s work it through'; keep the two-column = alignment and royal-blue 9s",
+     "now you try": ".ticket (VIP pass) with .stub ico i-ticket, heading as .label.ember 'Now you try'",
+     "answers": ".flap with .seal (ico i-key ink), .label.royal 'Check your method', the factor lists, HCF prose, ÷ 7 lines, then EXACTLY 7 identical goodie bags drawn as deep-blue or maroon velvet pouches with gold cords, painterly",
+     "aside": ".say.aside (Caveat) above Tez's window"
+    },
+    "illustrate": "9 packages in the rack (after Salim's question); 7 pouches inside the flap after the ÷ 7 lines. Exact counts, no numbers on them.",
+    "companion": "Tez in the .jharokha bottom-right (keep), aside bubble tail to his mouth. Remove the paw trail.",
+    "colour": "A3 plate family: royal planks + brass; lamp-gold glow on the rack; copper/maroon accent on 'Now you try'; royal .mt (#1f4f9a) tracks the HCF (9, then 7).",
+    "delights": [
+     "brass corner caps lock onto the rack of 9 boxes: answer found",
+     "a pool of warm lamp light falls across the rack",
+     "Tez's kit box stays empty: nothing left over"
+    ],
+    "folio": "moonclock --t 0.364 bottom-centre",
+    "varies": "jali stage + jali-band + nameplate, vs P005's cinema stage + deco-frame + lightstring",
+    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (S04-B01, S03-B01)."
+   }
+  }
+ ]
+}

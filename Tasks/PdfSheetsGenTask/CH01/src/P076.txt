@@ -37,7 +37,7 @@ Evaluate (a) ∛64 × 5, (b) ∛216 × 3 − 5³ and (c) 5 × ∛343.
 [PanelMetadata] SOURCE: Companion inset Q08
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q08
-[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 16 in Teaching block T1.5. Vihaan points with one finger towards a completed teaching layer plan, smiling mildly. His other hand rests at his side. One indigo canopy post and plinth edge; crop out the unsolved towers. Do not show the completed story lantern yet.
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 16 in Teaching block T1.5. Vihaan points with one finger towards a completed teaching layer plan, smiling mildly. His other hand rests at his side. One indigo canopy post and plinth edge; crop out the unsolved towers. Do not show the completed story lantern yet. Background for this inset. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Vihaan to the reader | Tail target: Vihaan’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] The cubes at the back are still on the team.

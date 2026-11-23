@@ -1,0 +1,57 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 027
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q03
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Companion inset Q03
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE027-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | 6 Apples
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE027-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 6 Apples
+Sarah has 7 apples. She gives 4 away and buys another 3. How many apples does she have?
+[AnswerLead] Check your method
+Sarah starts with 7 apples. She gives away 4, leaving 3, then buys 3 more:
+[Equation] 7 − 4 + 3 = 3 + 3 = 6
+Sarah has 6 apples.
+[PanelBoundary] END PANEL CH01-PAGE027-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE027-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | 7 Paying for a meal
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE027-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 7 Paying for a meal
+Sean has $10. He must pay $8 for a meal and $3 for a drink. How much more money does he need?
+[AnswerLead] Check your method
+The total cost is $8 + $3 = $11. Compare that with his $10:
+[Equation] 11 − 10 = 1
+Sean needs $1 more. Alternatively, 10 − 8 − 3 = −1 shows a shortage of $1; the amount he needs is positive $1.
+[PanelBoundary] END PANEL CH01-PAGE027-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE027-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.1C | 8 Tell a story with numbers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE027-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 8 Tell a story with numbers
+Tell a story about buying and selling oranges for each expression.
+(a) 16 + (−3) + 5  (b) 14 + 2 − 10
+[AnswerLead] Check your method
+(a) One possible answer: “A seller has 16 oranges, sells 3, then buys 5 more. How many oranges remain?” Selling 3 is a change of −3:
+[Equation] 16 + (−3) + 5 = 16 − 3 + 5 = 13 + 5 = 18
+(b) One possible answer: “A seller has 14 oranges, buys 2 more, then sells 10. How many oranges remain?”
+[Equation] 14 + 2 − 10 = 16 − 10 = 6
+Your story may be different. Check that the starting number, changes and order match the expression, and that every number counts oranges.
+[PanelBoundary] END PANEL CH01-PAGE027-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE027-PANEL04
+[PanelMetadata] SOURCE: Companion inset Q03
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q03
+[SceneInstruction] Production instruction. After the completed Practice 1A Question 8, Tell a story with numbers, in Teaching block T1.1C. Vihaan holds a small working sheet against the controller shelf and looks up, pleased. Both feet stay on street paving; his red backpack is on. Controller side and closed safety gate at 0, without readable solved catch settings.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan to the reader | Tail target: Vihaan’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Two methods. Same answer. I enjoy that more than I expected.
+[PanelBoundary] END PANEL CH01-PAGE027-PANEL04
+[SourceLocator] End of teaching block T1.1C  •  Story resumes below

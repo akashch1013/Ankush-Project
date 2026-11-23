@@ -23,9 +23,10 @@
 [PanelContextCopy] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
 [PanelContextCopy] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara’s staff rests against the lift wall, including in the companion view.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 04A A The catch panel is exposed
-[SceneInstruction] Moment and staging. Close on the opened lower controller panel with Tara’s left hand supporting its cover and her staff resting against the blue wall. Show both red warnings, the fixed maintenance plate and the four original wheel settings. The car stays at street 0 behind the shut gate.
+[SceneInstruction] Moment and staging. Close on the opened lower controller panel with Tara’s left hand supporting its cover and her staff resting against the blue wall. Show both red warnings, the fixed maintenance plate and the four original wheel settings. The car stays at street 0 behind the shut gate. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Two red warning lights shine on the control box. Tara keeps the lift stopped and opens the little panel below them.
 [CaptionCopy] Inside are four numbered setting wheels for the safety gate’s catches. Each catch needs the same small correction before it can release. A fixed maintenance plate says TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. The wheels have been left at +2, 0, −1 and +3.
@@ -39,9 +40,10 @@
 [PanelContextCopy] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
 [PanelContextCopy] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara’s staff rests against the lift wall, including in the companion view.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 04A B Tara distinguishes catches from floors
-[SceneInstruction] Moment and staging. Use a medium of Tara beside the open panel. Her left hand steadies the cover; her free right index finger indicates the catch wheels. Her staff stays against the wall. She looks towards Vihaan for the first line. Everyone remains on the street side.
+[SceneInstruction] Moment and staging. Use a medium of Tara beside the open panel. Her left hand steadies the cover; her free right index finger indicates the catch wheels. Her staff stays against the wall. She looks towards Vihaan for the first line. Everyone remains on the street side. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] These numbers adjust the catches, not the lift’s floor.
@@ -55,11 +57,12 @@
 [PanelContextCopy] Props and state progression. Exactly four wheels, left to right +2, 0, −1, +3. Exactly two red warning lights. Fixed plate: TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. Single car at 0. Top movement rail is idle.
 [PanelContextCopy] Planning requirements. The correction units are not floor levels. Do not show four −2 values or an open gate before T1.1C. Staff remains supported against the wall while Tara needs both hands.
 [PanelMetadata] SOURCE: Visual beat CH01 04A B Tara distinguishes catches from floors | APPLIES TO: CH01-PAGE018-PANEL03; camera, Tara position, cover hand and staff
-[PanelContextCopy] Moment and staging. Use a medium of Tara beside the open panel. Her left hand steadies the cover; her free right index finger indicates the catch wheels. Her staff stays against the wall. She looks towards Vihaan for the first line. Everyone remains on the street side.
+[PanelContextCopy] Referenced beat for continuity only. Use a medium of Tara beside the open panel. Her left hand steadies the cover; her free right index finger indicates the catch wheels. Her staff stays against the wall. She looks towards Vihaan for the first line. Everyone remains on the street side.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara’s staff rests against the lift wall, including in the companion view.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 04A C Tara sets the question
-[SceneInstruction] Moment and staging. Separate panel retaining the camera and positions specified in Visual beat CH01 04A B. Tara changes her right hand to a small open sweep across all four wheels, then looks towards the group as she asks for the equal setting. Her left hand keeps the cover steady; staff, feet and body position stay fixed. Show the unsolved settings only; do not reveal −2 as the answer before teaching.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera and positions specified in Visual beat CH01 04A B. Tara changes her right hand to a small open sweep across all four wheels, then looks towards the group as she asks for the equal setting. Her left hand keeps the cover steady; staff, feet and body position stay fixed. Show the unsolved settings only; do not reveal −2 as the answer before teaching. Background and fixed landmarks. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] The car stays here. What equal setting belongs on each wheel so that all four give a total of minus eight?

@@ -19,7 +19,7 @@ For example, 345 ends in 5 and has digit sum 3 + 4 + 5 = 12, so it passes both t
 [PanelMetadata] SOURCE: Companion inset Q06
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q06
-[SceneInstruction] Production instruction. After the completed Practice 1C Question 5, Help John find a test, in Teaching block T1.3. Ahana stands with the lamp low and her free palm open towards the reader, friendly and calm. Her sketchbook stays packed. Blue wall, rack edge and warm light extending into free space. Keep the hook matching and dust discovery off-frame.
+[SceneInstruction] Production instruction. After the completed Practice 1C Question 5, Help John find a test, in Teaching block T1.3. Ahana stands with the lamp low and her free palm open towards the reader, friendly and calm. Her sketchbook stays packed. Blue wall, rack edge and warm light extending into free space. Keep the hook matching and dust discovery off-frame. Background for this inset. At the right end of the same bench, view the rack from the aisle. Work surface in front, sealed cartons at its rear, the team cards clipped directly above their respective carton positions. Keep rack order fixed when moving closer to a hand or face. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana to the reader | Tail target: Ahana’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Asking for help doesn’t make the discovery any less yours.
@@ -41,9 +41,10 @@ For example, 345 ends in 5 and has digit sum 3 + 4 + 5 = 12, so it passes both t
 [PanelContextCopy] Props and state progression. Exact solution: 348 → 4 workers → 87 hooks each; 355 → 5 → 71; 414 → 9 → 46; 525 → 25 → 21. Each team appears once. No carton is opened. LIFT and RHYTHM white; SUPPLIES still dark.
 [PanelContextCopy] Planning requirements. Keep the mathematical matching legible on a clear diagram rather than relying on perspective lettering. It records the verified association even when an original card is later retained as evidence.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. One legible dispatch sheet shows 348 ÷ 4 = 87, 355 ÷ 5 = 71, 414 ÷ 9 = 46, 525 ÷ 25 = 21. Rack still wrong. Set both assigned captions once in order.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 07B A The four assignments and their checks
-[SceneInstruction] Moment and staging. One exact record visual carries the four verified associations and the four quotients. Navya’s finger indicates the mapping while Vihaan checks the divisions; Ahana lights the intact quantity labels. The two narration paragraphs are one caption group for this same solved state. A planner may use a record insert alongside the rack view, but must not duplicate the captions or invent extra cartons.
+[SceneInstruction] Moment and staging. One exact record visual carries the four verified associations and the four quotients. Navya’s finger indicates the mapping while Vihaan checks the divisions; Ahana lights the intact quantity labels. The two narration paragraphs are one caption group for this same solved state. A planner may use a record insert alongside the rack view, but must not duplicate the captions or invent extra cartons. Background and fixed landmarks. At the right end of the same bench, view the rack from the aisle. Work surface in front, sealed cartons at its rear, the team cards clipped directly above their respective carton positions. Keep rack order fixed when moving closer to a hand or face.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The last two digits of 348 are 48, so it divides by four. None of the other three cartons does. The digits of 414 add to nine, so that carton can serve the nine-worker team. The last two digits of 525 are 25, so it divides by twenty-five. That leaves 355, ending in five, for the five-worker team.
 [CaptionCopy] They check all four assignments: 348 ÷ 4 = 87 hooks each; 355 ÷ 5 = 71; 414 ÷ 9 = 46; and 525 ÷ 25 = 21. No hooks are left over, and every team card has been used once.

@@ -33,9 +33,10 @@ For division of two non-zero numbers, same signs give a positive quotient; diffe
 [PanelBoundary] END PANEL CH01-PAGE024-PANEL02
 [PanelIdentifier] PANEL CH01-PAGE024-PANEL03
 [PanelMetadata] SOURCE: Companion inset Q02
+NON-PRINTING • Current panel. Tara’s staff rests against the lift wall, including in the companion view.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q02
-[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 7, including the division-sign extension and division-by-zero explanation, in Teaching block T1.1C. Tara stands beside the closed street-level gate, one hand open towards the completed division work. Her staff stands securely in her other hand; her expression is reassuring. Blue wall, a fragment of brass gate and fixed warm lamp. The helper and cart still wait inside the car at 0; keep the unsolved wheel row out of the inset.
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 7, including the division-sign extension and division-by-zero explanation, in Teaching block T1.1C. Tara stands beside the closed street-level gate, one hand open towards the completed division work. Her staff rests securely against the lift wall; her expression is reassuring. Blue wall, a fragment of brass gate and fixed warm lamp. The helper and cart still wait inside the car at 0; keep the unsolved wheel row out of the inset. Background for this inset. Face the physical-left wall bay from the safe paving as in S01-B01. The brass gate fills the left of this bay. Immediately against its right jamb the blue controller is fixed to the wall beneath the work lamp. Gate edge, jamb and casing share one wall plane. In a tight crop retain their adjoining edges; the only depth behind the gate is the shaft and car. No freestanding console, intervening aisle or second lift. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara to the reader | Tail target: Tara’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Your answer tells you where you arrived. Your working shows you the way back.

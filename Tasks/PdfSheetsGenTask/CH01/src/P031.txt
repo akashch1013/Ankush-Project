@@ -21,9 +21,10 @@
 [PanelContextCopy] Props and state progression. Blue interval is 4 beats; gold interval is 6 beats. The incorrect start card reads 6. The strip is not already filled with a highlighted shared answer.
 [PanelContextCopy] Planning requirements. Lead directly to T1.2A. The cycles will remain 4 and 6; only the platform’s start changes.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Trial shows the catches acting separately. Bird at mark, start card 6. Frame the named speaker’s mouth with the bench.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05C A The two timing patterns
-[SceneInstruction] Moment and staging. Tara presents the strip with her free left hand, staff in her right. Vihaan and Navya read the 4-beat and 6-beat patterns; Ahana holds the lamp. Show the wrong start card at 6, and both catches returned to their starting rest state. The bird stays at its start mark.
+[SceneInstruction] Moment and staging. Tara presents the strip with her free left hand, staff in her right. Vihaan and Navya read the 4-beat and 6-beat patterns; Ahana holds the lamp. Show the wrong start card at 6, and both catches returned to their starting rest state. The bird stays at its start mark. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara shows the children the timing strip. The blue catch opens every four beats. The gold one opens every six. A card tells the bird to start moving at beat six, when only one catch is clear.
 [PanelBoundary] END PANEL CH01-PAGE031-PANEL01
@@ -37,11 +38,12 @@
 [PanelContextCopy] Props and state progression. Blue interval is 4 beats; gold interval is 6 beats. The incorrect start card reads 6. The strip is not already filled with a highlighted shared answer.
 [PanelContextCopy] Planning requirements. Lead directly to T1.2A. The cycles will remain 4 and 6; only the platform’s start changes.
 [PanelMetadata] SOURCE: Visual beat CH01 05C A The two timing patterns | APPLIES TO: CH01-PAGE031-PANEL02; resting catches, start card, bird position and staff hand
-[PanelContextCopy] Moment and staging. Tara presents the strip with her free left hand, staff in her right. Vihaan and Navya read the 4-beat and 6-beat patterns; Ahana holds the lamp. Show the wrong start card at 6, and both catches returned to their starting rest state. The bird stays at its start mark.
+[PanelContextCopy] Referenced beat for continuity only. Tara presents the strip with her free left hand, staff in her right. Vihaan and Navya read the 4-beat and 6-beat patterns; Ahana holds the lamp. Show the wrong start card at 6, and both catches returned to their starting rest state. The bird stays at its start mark.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Trial shows the catches acting separately. Bird at mark, start card 6. Frame the named speaker’s mouth with the bench.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05C B Ahana states the condition
-[SceneInstruction] Moment and staging. Retain the background and camera specified under Setting and View in Scene CH01 05C. Ahana points with her free left hand between the two catches and speaks; the lamp stays steady in her right. Tara lowers her showing hand slightly and the others listen. Nothing moves.
+[SceneInstruction] Moment and staging. Retain the background and camera specified under Setting and View in Scene CH01 05C. Ahana points with her free left hand between the two catches and speaks; the lamp stays steady in her right. Tara lowers her showing hand slightly and the others listen. Nothing moves. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Both catches need to be up when it starts.
@@ -56,13 +58,14 @@
 [PanelContextCopy] Props and state progression. Blue interval is 4 beats; gold interval is 6 beats. The incorrect start card reads 6. The strip is not already filled with a highlighted shared answer.
 [PanelContextCopy] Planning requirements. Lead directly to T1.2A. The cycles will remain 4 and 6; only the platform’s start changes.
 [PanelMetadata] SOURCE: Visual beat CH01 05C A The two timing patterns | APPLIES TO: CH01-PAGE031-PANEL03; resting catches, start card, bird position and staff hand
-[PanelContextCopy] Moment and staging. Tara presents the strip with her free left hand, staff in her right. Vihaan and Navya read the 4-beat and 6-beat patterns; Ahana holds the lamp. Show the wrong start card at 6, and both catches returned to their starting rest state. The bird stays at its start mark.
+[PanelContextCopy] Referenced beat for continuity only. Tara presents the strip with her free left hand, staff in her right. Vihaan and Navya read the 4-beat and 6-beat patterns; Ahana holds the lamp. Show the wrong start card at 6, and both catches returned to their starting rest state. The bird stays at its start mark.
 [PanelMetadata] SOURCE: Visual beat CH01 05C B Ahana states the condition | APPLIES TO: CH01-PAGE031-PANEL03; Tara lowered showing hand
 [PanelContextCopy] Tara lowers her showing hand slightly and the others listen.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Trial shows the catches acting separately. Bird at mark, start card 6. Frame the named speaker’s mouth with the bench.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05C C Vihaan asks for the first meeting
-[SceneInstruction] Moment and staging. Separate speaking image retaining the camera and background specified under View and Setting in Scene CH01 05C and the character locations specified under Cast and staging in Scene CH01 05C. Vihaan’s finger hovers beside the two timing rows without writing a solved beat; his gaze turns from the strip to the group. Ahana lowers her pointing hand. Tara and Navya hold their places.
+[SceneInstruction] Moment and staging. Separate speaking image retaining the camera and background specified under View and Setting in Scene CH01 05C and the character locations specified under Cast and staging in Scene CH01 05C. Vihaan’s finger hovers beside the two timing rows without writing a solved beat; his gaze turns from the strip to the group. Ahana lowers her pointing hand. Tara and Navya hold their places. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth | Source speech attribution: Vihaan asks.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] When do the two opening patterns first meet?

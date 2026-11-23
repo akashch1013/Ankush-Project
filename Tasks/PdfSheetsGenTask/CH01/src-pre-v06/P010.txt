@@ -1,0 +1,39 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 010
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE010-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1A | Example 3
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE010-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 3
+Evaluate (a) 0 + (−3), (b) 5 + (−3), (c) 7 + (−4) and (d) −3 + (−2).
+[AnswerLead] Let’s work it through
+(a) In 0 + (−3), the + says “add” and the number being added is −3. So start at 0 and move three intervals left: 0 → −1 → −2 → −3.
+[Equation] 0 + (−3) = 0 − 3 = −3
+(b) From 5, move three intervals left:
+[Equation] 5 + (−3) = 5 − 3 = 2
+(c) The same idea with four intervals:
+[Equation] 7 + (−4) = 7 − 4 = 3
+(d) This time we start at −3. Adding −2 takes us farther left, to −5:
+[Equation] −3 + (−2) = −3 − 2 = −5
+In each case, adding a negative number has the same effect as subtracting its positive partner.
+Using a calculator. When signs sit next to each other, brackets help keep the entry clear: enter 1 + (−2). Many calculators have a separate negative-number key, often labelled (−) or +/−, as well as the subtraction key. Check which key enters the number −2 on yours; the answer should be −1.
+[PanelBoundary] END PANEL CH01-PAGE010-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE010-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1A | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE010-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) 0 + (−4), (b) 6 + (−4), (c) 2 + (−4) and (d) −2 + (−4).
+[AnswerLead] Check your method
+[Equation] (a) 0 + (−4) = 0 − 4 = −4
+[Equation] (b) 6 + (−4) = 6 − 4 = 2
+[Equation] (c) 2 + (−4) = 2 − 4 = −2
+[Equation] (d) −2 + (−4) = −2 − 4 = −6
+In (c), the four steps pass through zero: 2 → 1 → 0 → −1 → −2. Nothing special happens to the rule at zero; we keep moving left.
+[PanelBoundary] END PANEL CH01-PAGE010-PANEL02
+[SourceLocator] End of teaching block T1.1A  •  Story resumes below

@@ -1,0 +1,31 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 050
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE050-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | Divisible by 3
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE050-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Divisible by 3
+The multiples of 3 begin 3, 6, 9, 12, 15, … . For instance, 42 ÷ 3 = 14, but 44 ÷ 3 leaves a remainder. Let’s see a shortcut for checking this.
+42 contains 4 tens and 2 ones. In the picture, each row of ten is split into 9 blue squares and 1 gold square.
+[SmallCaption] Why adding the digits works
+[Production] Production note V19. Show exactly four rows of ten unit squares. In each row, the first nine are blue and the last is gold. Below those rows, show two additional gold unit squares. Label the blue part 4 × 9 = 36 and the gold part 4 + 2 = 6; the two parts together are 42. Keep all cells equal in size and label colour roles. Do not imply that four tens contain only four objects. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+The blue squares make 4 × 9 = 36. They split into groups of 3: 36 ÷ 3 = 12. What is left? One gold square from each of the 4 tens, plus the 2 original ones:
+[Equation] 42 = 36 + (4 + 2) = 36 + 6
+The remaining 6 also splits into groups of 3: 6 ÷ 3 = 2. So all 42 squares can be grouped in threes. Notice the 4 + 2: those are the digits of 42! For larger numbers, 100 = 99 + 1 and 1000 = 999 + 1 work the same way; 99 and 999 also divide by 3.
+That gives our shortcut: add the digits. If their sum is divisible by 3, the original number is too.
+[PanelBoundary] END PANEL CH01-PAGE050-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE050-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | Divisible by 3
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE050-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+For bigger numbers, the same test works:
+[Equation] 123456: 1 + 2 + 3 + 4 + 5 + 6 = 21; 21 ÷ 3 = 7
+So 123456 is divisible by 3.
+[Equation] 682: 6 + 8 + 2 = 16; 16 is not divisible by 3
+So 682 is not divisible by 3. Add the digits, not groups of digits such as 68 + 2.
+[PanelBoundary] END PANEL CH01-PAGE050-PANEL02

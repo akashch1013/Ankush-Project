@@ -1,0 +1,32 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 051
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE051-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE051-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] More divisibility tests
+Some tests look at the last digits; others use their sum. Let’s take them one at a time. You do not need to memorise all eleven in one heroic gulp.
+By 4: Check the number formed by the last two digits. Why can we ignore the earlier digits? A complete hundred divides by 4: 100 = 4 × 25. For 37524, split off the complete hundreds:
+[Equation] 37524 = 375 × 100 + 24
+The hundreds already divide by 4. The remaining 24 = 4 × 6 does too, so 37524 passes. But 12345 ends in 45, which does not divide by 4, so 12345 fails.
+[PanelBoundary] END PANEL CH01-PAGE051-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE051-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE051-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+By 5: Count in fives: 5, 10, 15, 20, 25, 30, … . The last digits alternate between 5 and 0. So 1345 and 34070 pass, while 2344 and 16789 fail.
+[PanelBoundary] END PANEL CH01-PAGE051-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE051-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE051-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+By 6: Look at the multiples of 3: 3, 6, 9, 12, 15, 18, … . Every second one is even; those are exactly the multiples of 6. So a number must pass both the 2-test and the 3-test.
+For 3456, the last digit 6 is even and 3 + 4 + 5 + 6 = 18 is divisible by 3: both tests pass. For 482, the last digit is even, but 4 + 8 + 2 = 14 is not divisible by 3: the 6-test fails. Passing one test is only half the job.
+[PanelBoundary] END PANEL CH01-PAGE051-PANEL03

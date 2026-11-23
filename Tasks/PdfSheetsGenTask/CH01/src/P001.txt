@@ -28,9 +28,12 @@
 [PanelContextCopy] Props and state progression. Ahana wears her navy backpack; the cream sketchbook is inside it. Vihaan keeps his invitation in a secure pocket. Navya has her satchel closed. The parked empty street cart is distinct from the supply cart below. All five indicators are dark; the main arches are dark; the moonline is unlit.
 [PanelContextCopy] Planning requirements. Keep equipment details too distant to reveal solutions. The broad street must retain depth and scale; do not reduce it to a small room. No Bell appears in this street. The fair has not opened.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. M01 entrance view. Reflective stone paving beneath all feet. Opening paragraph is an unnamed narrator’s caption. Place the title before the opening caption in reading order.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 01A A The dark lane
-[SceneInstruction] Moment and staging. Use the wide view and character positions specified under View and Cast and staging in Scene CH01 01A. Ahana holds the lamp low enough to light their first steps; everyone looks into the dark street. This is one establishing image.
+[SceneInstruction] Moment and staging. Near camera at the Entry Court end, Vihaan follows on Ahana’s left, Navya on her right and Tara one step behind. Ahead of Ahana, Tez walks towards the tip of the parked cart handle. Leave visible paving between his forehead and the wood. The cart is farther into the lane than Tez, on his route before the lift. On the same patch of paving Tez is a substantial four-pawed cub, his crown just below a standing child’s knee. Use the adjacent leg and grounded paws to set scale before cropping. The three children are equally tall upright, just below Tara’s chest. Bending changes pose, not body size. Use the wide view and character positions specified under View and Cast and staging in Scene CH01 01A. Ahana holds the lamp low enough to light their first steps; everyone looks into the dark street. This is one establishing image. Background and fixed landmarks. Match M01-D01: cart body and wheels against the left stall wall, original wooden handle sloping down towards the entrance. The paving leads past the cart into the lane. Keep the camera on the open-lane side of the action throughout page 002.
+CHAPTER TITLE — PRINT ONLY THIS
+The Street That Would Not Light
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The work lamp lights only a small circle of Lantern Street. Tall arches stretch across the lane, but their lanterns are dark. On either side stand blue-painted stalls with closed shutters.
 [PanelBoundary] END PANEL CH01-PAGE001-PANEL01

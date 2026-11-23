@@ -1,0 +1,27 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 006
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE006-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1A | 1.1 Four Operations on Integers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE006-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSection] 1.1 Four Operations on Integers
+Let’s get comfortable with numbers on both sides of zero. We’ll learn to add, subtract, multiply and divide with them, starting with a picture of where they belong.
+Imagine a lift with a G button for the ground floor and a −1 button for the basement immediately below it. If the lift also used a 0 button, which button could 0 replace?
+[AnswerLead] Check your thinking
+0 could replace G. The ground floor is our starting level: one floor above it is 1; one floor below it is −1. The minus sign tells us which side of zero we mean. It does the same job in a temperature such as −5°C.
+[PanelBoundary] END PANEL CH01-PAGE006-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE006-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1A | 1.1 Four Operations on Integers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE006-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+The numbers …, −3, −2, −1, 0, 1, 2, 3, … are called integers. They include negative integers, zero and positive integers. Zero is neither positive nor negative. A fraction such as one-half is not an integer. We usually leave off the + sign for a positive number: +4 and 4 mean the same thing. Keep the − in −4, though—it changes the number!
+[SmallCaption] Integers on a number line
+[Production] Production note V01. Show every integer from −10 to 10 at equal intervals. Mark zero clearly; label smaller to the left and greater to the right. Use labels as well as colour to distinguish the two sides. The learner should see position and order, not count printed tick marks as distances. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Move your eye to the right along the line: the numbers get greater. That is why 4 < 6 and −3 > −5. The symbol < means “is less than”; > means “is greater than”. A number can be negative and still be greater than another negative number: −3 sits to the right of −5.
+The equals sign means “has the same value as”: 1 + 2 = 3 says that the two sides have equal value. The symbol ≠ means “is not equal to”: −1 ≠ 1 because −1 and 1 are different numbers.
+[PanelBoundary] END PANEL CH01-PAGE006-PANEL02

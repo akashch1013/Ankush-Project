@@ -1,0 +1,54 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 046
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Projector-Kit Bench, Centre — location instructions | Applies to: Assigned beats of Scene CH01 06C; Assigned beats of Scene CH01 06D
+[ProductionContextCopy] The centre of the pale right-wall bench holds two labelled supply boxes, padded empty kit boxes and one sample board. The blue/gold timing lamps are farther left, and the sealed hook rack is to the right. A short lantern-test rail is fixed above.
+[ProductionContextCopy] Labels read 45 BLUE GLASS LENSES and 75 BRASS RINGS. Establish the greatest possible number of identical kits before teaching. A completed three-lens/five-ring head and exact sample kit belong only after T1.2B. Three rings mount the lenses and two secure the supports. The full stock need not be individually laid out; one sample and closed kit boxes are enough. Do not show an already-solved three-and-five recipe in the setup.
+[ProductionContextCopy] Required views. Stock-label close-up; overhead sample-kit view; medium handover to wooden crews. These are parts of the Lantern Street bench, not a new workshop.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 06C Checking the sample
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street projector-kit bench. The centre of the continuous right-wall pale bench holds two stock boxes, padded kit boxes and a sample board. Timing lamps remain farther left, the sealed-hook rack farther right. The short lantern-test rail is fixed above against the blue wall, under warm task light. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Overhead of one padded sample kit and the packing record; include the edge of a labelled stock box and the fixed test rail above in a wider companion view.
+[SceneInstruction] Cast and staging across the scene. The helper finishes placing the sample in its padded box. Ahana checks the three lenses and five rings without lifting the whole box. Vihaan checks the multiplication on the record. Navya writes the packing instruction. Tara watches the safe handling; Tez stays on the floor.
+[SceneInstruction] Props and state progression. Exact sample count 3 lenses and 5 rings. Printable packing instruction on Navya’s sheet: 15 KITS; 3 LENSES AND 5 RINGS PER KIT. Checks on the sheet: 15 × 3 = 45 and 15 × 5 = 75. The work lamp stays on the cleared bench surface.
+[SceneInstruction] Planning requirements. The added layout of the written instruction only displays the quantities already stated in this source passage. Keep the single open sample distinguishable from closed kits.
+[PanelIdentifier] PANEL CH01-PAGE046-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 06C A The sample is checked
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE046-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06C Checking the sample | APPLIES TO: CH01-PAGE046-PANEL01; CH01 06C A
+[PanelContextCopy] View. Overhead of one padded sample kit and the packing record; include the edge of a labelled stock box and the fixed test rail above in a wider companion view.
+[PanelContextCopy] Cast and staging across the scene. The helper finishes placing the sample in its padded box. Ahana checks the three lenses and five rings without lifting the whole box. Vihaan checks the multiplication on the record. Navya writes the packing instruction. Tara watches the safe handling; Tez stays on the floor.
+[PanelContextCopy] Props and state progression. Exact sample count 3 lenses and 5 rings. Printable packing instruction on Navya’s sheet: 15 KITS; 3 LENSES AND 5 RINGS PER KIT. Checks on the sheet: 15 × 3 = 45 and 15 × 5 = 75. The work lamp stays on the cleared bench surface.
+[PanelContextCopy] Planning requirements. The added layout of the written instruction only displays the quantities already stated in this source passage. Keep the single open sample distinguishable from closed kits.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06C A The sample is checked
+[SceneInstruction] Moment and staging. One overhead working image: the helper finishes the sample box, Ahana checks its three lenses and five rings, Vihaan points to the two inventory checks and Navya writes the final packing instruction. Tara watches from the edge; Tez stays below the bench. The lamp rests securely on its cleared surface. These compatible actions can share one image.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper makes one padded sample kit. Ahana checks its three lenses and five rings. Vihaan checks that fifteen kits use all 45 lenses and all 75 rings. Navya writes the packing instruction.
+[PanelBoundary] END PANEL CH01-PAGE046-PANEL01
+## Scene CH01 06D Crews begin fitting the heads
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street projector-kit bench. The centre of the continuous right-wall pale bench holds two stock boxes, padded kit boxes and a sample board. Timing lamps remain farther left, the sealed-hook rack farther right. The short lantern-test rail is fixed above against the blue wall, under warm task light. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Medium along the right-wall bench towards a nearby dark lantern arch. Show a handover in the foreground and a small working crew behind.
+[SceneInstruction] Cast and staging across the scene. Wooden crews collect closed kit boxes from the broad helper. Ahana, Vihaan and Navya stand clear of the handover route. Tara has retrieved her staff. Tez watches from beside Ahana. The crews, not the children, handle the higher fittings.
+[SceneInstruction] Props and state progression. The checked sample is closed for dispatch after its inspection. Fifteen kits exist in total; do not imply the open sample is a sixteenth kit. The source does not require fifteen crews individually visible. SUPPLIES remains dark; LIFT and RHYTHM stay white.
+[SceneInstruction] Planning requirements. The crews can fit the projector heads while the next task proceeds, but the supports still need hooks. No fully lit arches yet.
+[PanelIdentifier] PANEL CH01-PAGE046-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 06D A Work starts but supplies are not ready
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE046-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06D Crews begin fitting the heads | APPLIES TO: CH01-PAGE046-PANEL02; CH01 06D A
+[PanelContextCopy] View. Medium along the right-wall bench towards a nearby dark lantern arch. Show a handover in the foreground and a small working crew behind.
+[PanelContextCopy] Cast and staging across the scene. Wooden crews collect closed kit boxes from the broad helper. Ahana, Vihaan and Navya stand clear of the handover route. Tara has retrieved her staff. Tez watches from beside Ahana. The crews, not the children, handle the higher fittings.
+[PanelContextCopy] Props and state progression. The checked sample is closed for dispatch after its inspection. Fifteen kits exist in total; do not imply the open sample is a sixteenth kit. The source does not require fifteen crews individually visible. SUPPLIES remains dark; LIFT and RHYTHM stay white.
+[PanelContextCopy] Planning requirements. The crews can fit the projector heads while the next task proceeds, but the supports still need hooks. No fully lit arches yet.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06D A Work starts but supplies are not ready
+[SceneInstruction] Moment and staging. One medium along the bench shows closed kit boxes being handed to the wooden crews, with a crew beginning a projector-head fitting behind. Keep the dark SUPPLIES indicator visible only in a small separate wall-board detail if the wide cannot show it clearly. The second caption describes this same ongoing state, not a new fault or a mandatory second scene.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The other kits leave in closed boxes, and the crews begin fitting the projector heads.
+[CaptionCopy] The SUPPLIES light remains dark.
+[PanelBoundary] END PANEL CH01-PAGE046-PANEL02

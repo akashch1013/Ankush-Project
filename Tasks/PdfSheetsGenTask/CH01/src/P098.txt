@@ -4,7 +4,7 @@
 [ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
 ## Scene CH01 10D Keep the checked answers
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
-[SceneInstruction] View. Medium at the plinth showing Navya’s record above and Tara kneeling near the right-edge silver track below.
+[SceneInstruction] View. Medium at the plinth showing Navya’s record above and the right-edge silver track below. Tara stands until panel 098.03, when she kneels.
 [SceneInstruction] Cast and staging across the scene. Navya studies the record with a firm, thoughtful expression and speaks to the group. Vihaan listens. Ahana turns from the handle to Tara. Tara kneels beside the moonline, staff already supported against the wall, and points along the track. Tez sits beside Ahana; the helper remains clear.
 [SceneInstruction] Props and state progression. Verified record still shows lift 0, timing 12, correct supplies and completed mirror and cube. Handle remains down from the failed trial. The floor cover has not been opened.
 [SceneInstruction] Planning requirements. The checked mathematics is not rewritten. Tara’s question directs attention to the physical connection rather than another numerical puzzle.
@@ -13,37 +13,39 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE098-PANEL01; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 10D Keep the checked answers | APPLIES TO: CH01-PAGE098-PANEL01; CH01 10D A
-[PanelContextCopy] View. Medium at the plinth showing Navya’s record above and Tara kneeling near the right-edge silver track below.
+[PanelContextCopy] View. Medium at the plinth showing Navya’s record above and the right-edge silver track below. Tara stands until panel 098.03, when she kneels.
 [PanelContextCopy] Props and state progression. Verified record still shows lift 0, timing 12, correct supplies and completed mirror and cube. Handle remains down from the failed trial. The floor cover has not been opened.
 [PanelContextCopy] Planning requirements. The checked mathematics is not rewritten. Tara’s question directs attention to the physical connection rather than another numerical puzzle.
 [PanelMetadata] SOURCE: Scene CH01 10D Keep the checked answers | APPLIES TO: CH01-PAGE098-PANEL01; Ahana, Vihaan, Tez and helper
 [PanelContextCopy] Vihaan listens. Ahana turns from the handle to Tara. Tez sits beside Ahana; the helper remains clear.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara standing. Handle down, cover shut, arches dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10D A The checked results still hold
-[SceneInstruction] Moment and staging. Medium on Navya studying the record in both hands. Her finger rests by the verified entries as she delivers the first short statement to the group. Vihaan faces her; Ahana has turned from the handle. Tara is still standing beside the track at this point.
+[SceneInstruction] Moment and staging. Medium on Navya studying the record in both hands. Her finger rests by the verified entries as she delivers the first short statement to the group. Vihaan faces her; Ahana has turned from the handle. Tara is still standing beside the track at this point. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Navya looks over their record. The lift is at zero. The timing is twelve. The kits use the supplies correctly. The mirror and cube have the right shapes.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: she says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
-[DialogueCopy] They still work.
+[DialogueCopy] Our answers still check out.
 [PanelBoundary] END PANEL CH01-PAGE098-PANEL01
 [PanelIdentifier] PANEL CH01-PAGE098-PANEL02
 [PanelMetadata] SOURCE: Visual beat CH01 10D B Navya refuses a false correction
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE098-PANEL02; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 10D Keep the checked answers | APPLIES TO: CH01-PAGE098-PANEL02; CH01 10D B
-[PanelContextCopy] View. Medium at the plinth showing Navya’s record above and Tara kneeling near the right-edge silver track below.
+[PanelContextCopy] View. Medium at the plinth showing Navya’s record above and the right-edge silver track below. Tara stands until panel 098.03, when she kneels.
 [PanelContextCopy] Props and state progression. Verified record still shows lift 0, timing 12, correct supplies and completed mirror and cube. Handle remains down from the failed trial. The floor cover has not been opened.
 [PanelContextCopy] Planning requirements. The checked mathematics is not rewritten. Tara’s question directs attention to the physical connection rather than another numerical puzzle.
 [PanelMetadata] SOURCE: Scene CH01 10D Keep the checked answers | APPLIES TO: CH01-PAGE098-PANEL02; Ahana, Vihaan, Tez and helper
 [PanelContextCopy] Vihaan listens. Ahana turns from the handle to Tara. Tez sits beside Ahana; the helper remains clear.
 [PanelMetadata] SOURCE: Visual beat CH01 10D A The checked results still hold | APPLIES TO: CH01-PAGE098-PANEL02; framing and character positions, including standing Tara
-[PanelContextCopy] Moment and staging. Medium on Navya studying the record in both hands. Her finger rests by the verified entries as she delivers the first short statement to the group. Vihaan faces her; Ahana has turned from the handle. Tara is still standing beside the track at this point.
+[PanelContextCopy] Referenced beat for continuity only. Medium on Navya studying the record in both hands. Her finger rests by the verified entries as she delivers the first short statement to the group. Vihaan faces her; Ahana has turned from the handle. Tara is still standing beside the track at this point.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara standing. Handle down, cover shut, arches dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10D B Navya refuses a false correction
-[SceneInstruction] Moment and staging. Separate panel retaining the framing and character positions specified in Visual beat CH01 10D A. Navya keeps the record in her left hand and lifts her right hand slightly from it, palm down in a calm, steadying gesture; she looks directly at Vihaan. Her expression is firm rather than blaming. Retain the record and equipment states specified under Props and state progression in Scene CH01 10D.
+[SceneInstruction] Moment and staging. Separate panel retaining the framing and character positions specified in Visual beat CH01 10D A. Navya keeps the record in her left hand and lifts her right hand slightly from it, palm down in a calm, steadying gesture; she looks directly at Vihaan. Her expression is firm rather than blaming. Retain the record and equipment states specified under Props and state progression in Scene CH01 10D. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] We shouldn’t change them just because the street is dark.
@@ -53,14 +55,15 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE098-PANEL03; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 10D Keep the checked answers | APPLIES TO: CH01-PAGE098-PANEL03; CH01 10D C
-[PanelContextCopy] View. Medium at the plinth showing Navya’s record above and Tara kneeling near the right-edge silver track below.
+[PanelContextCopy] View. Medium at the plinth showing Navya’s record above and the right-edge silver track below. Tara stands until panel 098.03, when she kneels.
 [PanelContextCopy] Cast and staging across the scene. Navya studies the record with a firm, thoughtful expression and speaks to the group. Vihaan listens. Ahana turns from the handle to Tara. Tara kneels beside the moonline, staff already supported against the wall, and points along the track. Tez sits beside Ahana; the helper remains clear.
 [PanelContextCopy] Props and state progression. Verified record still shows lift 0, timing 12, correct supplies and completed mirror and cube. Handle remains down from the failed trial. The floor cover has not been opened.
 [PanelContextCopy] Planning requirements. The checked mathematics is not rewritten. Tara’s question directs attention to the physical connection rather than another numerical puzzle.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Tara kneels and points along the moonline. Handle down and cover shut.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10D C Tara redirects attention to the track
-[SceneInstruction] Moment and staging. New lower view at the plinth specified under Setting in Scene CH01 10D. Tara has now knelt beside the moonline and points along it with her free hand, staff still resting against the wall. She asks the group her question. Ahana follows the gesture with her gaze; Navya holds the checked record steady. The floor cover remains closed.
+[SceneInstruction] Moment and staging. New lower view at the plinth specified under Setting in Scene CH01 10D. Tara has now knelt beside the moonline and points along it with her free hand, staff still resting against the wall. She asks the group her question. Ahana follows the gesture with her gaze; Navya holds the checked record steady. The floor cover remains closed. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara kneels beside the silver moonline in the paving.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
@@ -83,9 +86,10 @@
 [PanelContextCopy] Props and state progression. One flat brass cover sits crookedly over the moonline joint. The handle is separate and still down. All five readiness indicators remain white. No disconnected ends are visible until the next still.
 [PanelContextCopy] Planning requirements. Do not turn the cover into a second switch, a box on a pedestal or another calculation device.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Ahana holds the lamp above the work. Tara receives it on 100.01.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10E A The crooked cover
-[SceneInstruction] Moment and staging. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
+[SceneInstruction] Moment and staging. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Ahana brings the lamp along the track. Near the cube’s base, a brass cover sits crookedly over it.
 [PanelBoundary] END PANEL CH01-PAGE098-PANEL04

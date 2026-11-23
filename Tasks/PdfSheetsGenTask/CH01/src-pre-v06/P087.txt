@@ -1,0 +1,43 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 087
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE087-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | Chapter 01 Revision | 1 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE087-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSection] Chapter 01 Revision
+Have a go before looking at the working. If you get stuck, name the job first: a change in position, a shared multiple, a shared factor, a divisibility check, or a power or root. Choosing the job is part of solving the question.
+[MathExample] 1 Evaluate
+(a) 7 + (−3) (b) −6 + (−5) (c) 17 − (−2) (d) −6 − (−3)
+[AnswerLead] Check your method
+[Equation] (a) 7 + (−3) = 7 − 3 = 4
+[Equation] (b) −6 + (−5) = −6 − 5 = −11
+[Equation] (c) 17 − (−2) = 17 + 2 = 19
+[Equation] (d) −6 − (−3) = −6 + 3 = −3
+[PanelBoundary] END PANEL CH01-PAGE087-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE087-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | 2 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE087-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 2 Evaluate
+(a) −11 + 5 − 8 (b) 120 − 80 − 50 (c) −15 × 8
+(d) 64 ÷ (−16) (e) (−82 − 18) ÷ 4 − 12
+(f) [32 − (−49 ÷ 7) × 4] + 80
+[AnswerLead] Check your method
+[Equation] (a) −11 + 5 − 8 = −6 − 8 = −14
+[Equation] (b) 120 − 80 − 50 = 40 − 50 = −10
+[Equation] (c) −15 × 8 = −(15 × 8) = −120
+[Equation] (d) 64 ÷ (−16) = −(64 ÷ 16) = −4
+[Equation] (e) (−82 − 18) ÷ 4 − 12 = −100 ÷ 4 − 12 = −25 − 12 = −37
+(f) There are brackets inside brackets. Start with −49 ÷ 7 = −7. Inside the square brackets, multiply −7 × 4 before subtracting:
+[Equation] [32 − (−49 ÷ 7) × 4] + 80
+[Equation] = [32 − (−7) × 4] + 80
+[Equation] = [32 − (−28)] + 80
+[Equation] = [32 + 28] + 80
+[Equation] = 60 + 80 = 140
+The subtraction of −28 becomes addition of 28. Keeping the brackets until that point makes the two minus signs easier to follow.
+[PanelBoundary] END PANEL CH01-PAGE087-PANEL02

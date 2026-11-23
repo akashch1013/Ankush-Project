@@ -1,0 +1,99 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 030
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+# Sequence 05 The moving lantern bird
+[SourceLocator] Production sequence reference CH01-05. The following location descriptions are retained from V16.
+### Lantern Street Timing Bench, Left End
+[SceneInstruction] A pale workbench stands against the right-hand blue wall beneath a warm lamp. A carved bird is fixed to one short sliding platform. A blue catch and lamp stand on the left, a gold catch and lamp on the right; a beat strip sits between them.
+[SceneInstruction] The catches independently rise every four and six beats. Both must be open before the bird platform moves. The wrong start is 6; the corrected first common start is 12. The neighbouring kit cartons remain farther right on this same bench. In an exact insert the time strip must show the shared twelfth beat, not suggest that the two cycles themselves change.
+[SceneInstruction] Required views. Medium of the two catches holding the bird; separate exact timing strips; still with counter 12 and both catches raised; bird at its end stop.
+## Scene CH01 05A Two catches hold the bird
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Medium from the lane facing the left end of the right-wall bench. Blue catch and lamp are physically on the left, gold on the right, with the beat strip between.
+[SceneInstruction] Cast and staging across the scene. The helper parks the cart alongside the bench, outside the walkway. Navya stands nearest the strip; Vihaan is beside the blue catch. Ahana holds the work lamp beside Tez, who looks up at the carved bird. Tara stands at the bench end with her staff.
+[SceneInstruction] Props and state progression. One carved bird fixed to one short sliding platform at its starting mark. At this scene’s final beat the blue catch is raised and blue lamp on; the gold catch stays down. LIFT is white; the other readiness indicators remain dark.
+[SceneInstruction] Planning requirements. The raised catch does not release the platform while the other holds it. Do not use timing drums from older location art.
+[PanelIdentifier] PANEL CH01-PAGE030-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 05A A The bird is waiting
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE030-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05A Two catches hold the bird | APPLIES TO: CH01-PAGE030-PANEL01; CH01 05A A
+[PanelContextCopy] View. Medium from the lane facing the left end of the right-wall bench. Blue catch and lamp are physically on the left, gold on the right, with the beat strip between.
+[PanelContextCopy] Cast and staging across the scene. The helper parks the cart alongside the bench, outside the walkway. Navya stands nearest the strip; Vihaan is beside the blue catch. Ahana holds the work lamp beside Tez, who looks up at the carved bird. Tara stands at the bench end with her staff.
+[PanelContextCopy] Planning requirements. The raised catch does not release the platform while the other holds it. Do not use timing drums from older location art.
+[PanelMetadata] SOURCE: Scene CH01 05A Two catches hold the bird | APPLIES TO: CH01-PAGE030-PANEL01; initial bird platform and readiness indicators
+[PanelContextCopy] One carved bird fixed to one short sliding platform at its starting mark. LIFT is white; the other readiness indicators remain dark.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05A A The bird is waiting
+[SceneInstruction] Moment and staging. Establish the left end of the right-wall bench. The helper has brought the cart beside it; both coloured catches hold the bird platform at its starting mark. The trio face the device, Ahana lights it, Tara stands behind with her staff, and Tez watches from the paving.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper pushes the cart to a long workbench against the right wall. At its left end, a little carved bird stands on a sliding platform. Two brass catches hold the platform at its starting point. One catch is blue; the other is gold.
+[PanelBoundary] END PANEL CH01-PAGE030-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE030-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 05A B Only blue is clear
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE030-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05A Two catches hold the bird | APPLIES TO: CH01-PAGE030-PANEL02; CH01 05A B
+[PanelContextCopy] View. Medium from the lane facing the left end of the right-wall bench. Blue catch and lamp are physically on the left, gold on the right, with the beat strip between.
+[PanelContextCopy] Cast and staging across the scene. The helper parks the cart alongside the bench, outside the walkway. Navya stands nearest the strip; Vihaan is beside the blue catch. Ahana holds the work lamp beside Tez, who looks up at the carved bird. Tara stands at the bench end with her staff.
+[PanelContextCopy] Props and state progression. One carved bird fixed to one short sliding platform at its starting mark. At this scene’s final beat the blue catch is raised and blue lamp on; the gold catch stays down. LIFT is white; the other readiness indicators remain dark.
+[PanelContextCopy] Planning requirements. The raised catch does not release the platform while the other holds it. Do not use timing drums from older location art.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05A B Only blue is clear
+[SceneInstruction] Moment and staging. Close on the timing device and platform specified under Setting and Props in Scene CH01 05A: the blue lamp is lit and its catch raised; gold remains down. The bird has not moved. Keep the strip, blue wall and bench edge as anchors. No second bird or later state appears in this image.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The blue lamp comes on and lifts the blue catch. The gold catch stays down, so the bird cannot move.
+[PanelBoundary] END PANEL CH01-PAGE030-PANEL02
+## Scene CH01 05B The other catch opens alone
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Retain the bench viewing direction specified under View in Scene CH01 05A at a later beat. Keep both catches in frame and the platform at the starting mark specified in Visual beat CH01 05A A.
+[SceneInstruction] Cast and staging across the scene. Tez lowers his head towards the waiting bird from the clear floor, speaking sympathetically. Ahana watches him, lamp steady. Vihaan, Navya and Tara observe the mechanism from behind the bench edge; the helper remains by its cart.
+[SceneInstruction] Props and state progression. Gold catch raised with its lamp on; blue catch down. The bird platform has not moved. No final 12 setting yet.
+[SceneInstruction] Planning requirements. These are two successive states, not two birds or two platforms. Tez’s dialogue is to the carved bird.
+[PanelIdentifier] PANEL CH01-PAGE030-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 05B A Only gold is clear
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE030-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05B The other catch opens alone | APPLIES TO: CH01-PAGE030-PANEL03; CH01 05B A
+[PanelContextCopy] View. Retain the bench viewing direction specified under View in Scene CH01 05A at a later beat. Keep both catches in frame and the platform at the starting mark specified in Visual beat CH01 05A A.
+[PanelContextCopy] Cast and staging across the scene. Tez lowers his head towards the waiting bird from the clear floor, speaking sympathetically. Ahana watches him, lamp steady. Vihaan, Navya and Tara observe the mechanism from behind the bench edge; the helper remains by its cart.
+[PanelContextCopy] Props and state progression. Gold catch raised with its lamp on; blue catch down. The bird platform has not moved. No final 12 setting yet.
+[PanelContextCopy] Planning requirements. These are two successive states, not two birds or two platforms. Tez’s dialogue is to the carved bird.
+[PanelMetadata] SOURCE: Scene CH01 05A Two catches hold the bird | APPLIES TO: CH01-PAGE030-PANEL03; bench viewing direction
+[PanelContextCopy] View. Medium from the lane facing the left end of the right-wall bench. Blue catch and lamp are physically on the left, gold on the right, with the beat strip between.
+[PanelMetadata] SOURCE: Visual beat CH01 05A B Only blue is clear | APPLIES TO: CH01-PAGE030-PANEL03; device angle and fixed background anchors
+[PanelContextCopy] Moment and staging. Close on the timing device and platform specified under Setting and Props in Scene CH01 05A: the blue lamp is lit and its catch raised; gold remains down. The bird has not moved. Keep the strip, blue wall and bench edge as anchors. No second bird or later state appears in this image.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05B A Only gold is clear
+[SceneInstruction] Moment and staging. Use the device angle specified in Visual beat CH01 05A B at the later state: gold catch raised, blue catch down, bird still at its starting mark. Retain the fixed-part positions specified under Setting in Scene CH01 05A.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Later, the gold catch rises alone. The bird is still waiting.
+[PanelBoundary] END PANEL CH01-PAGE030-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE030-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 05B B Tez sympathises
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE030-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 05B The other catch opens alone | APPLIES TO: CH01-PAGE030-PANEL04; CH01 05B B
+[PanelContextCopy] View. Retain the bench viewing direction specified under View in Scene CH01 05A at a later beat. Keep both catches in frame and the platform at the starting mark specified in Visual beat CH01 05A A.
+[PanelContextCopy] Cast and staging across the scene. Tez lowers his head towards the waiting bird from the clear floor, speaking sympathetically. Ahana watches him, lamp steady. Vihaan, Navya and Tara observe the mechanism from behind the bench edge; the helper remains by its cart.
+[PanelContextCopy] Props and state progression. Gold catch raised with its lamp on; blue catch down. The bird platform has not moved. No final 12 setting yet.
+[PanelContextCopy] Planning requirements. These are two successive states, not two birds or two platforms. Tez’s dialogue is to the carved bird.
+[PanelMetadata] SOURCE: Scene CH01 05A Two catches hold the bird | APPLIES TO: CH01-PAGE030-PANEL04; bench viewing direction
+[PanelContextCopy] View. Medium from the lane facing the left end of the right-wall bench. Blue catch and lamp are physically on the left, gold on the right, with the beat strip between.
+[PanelMetadata] SOURCE: Visual beat CH01 05B A Only gold is clear | APPLIES TO: CH01-PAGE030-PANEL04; device state
+[PanelContextCopy] Moment and staging. Use the device angle specified in Visual beat CH01 05A B at the later state: gold catch raised, blue catch down, bird still at its starting mark. Retain the fixed-part positions specified under Setting in Scene CH01 05A.
+[PanelMetadata] SOURCE: Visual beat CH01 05A B Only blue is clear | APPLIES TO: CH01-PAGE030-PANEL04; device angle and fixed background anchors
+[PanelContextCopy] Moment and staging. Close on the timing device and platform specified under Setting and Props in Scene CH01 05A: the blue lamp is lit and its catch raised; gold remains down. The bird has not moved. Keep the strip, blue wall and bench edge as anchors. No second bird or later state appears in this image.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 05B B Tez sympathises
+[SceneInstruction] Moment and staging. Include Tez low beside the bench retaining the device state specified in Visual beat CH01 05B A. He lowers his head towards the bird, ears drooping slightly, and speaks to it. Tara and the children remain nearby; no hand or paw releases a catch.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tez lowers his head towards it.
+[SceneInstruction] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I know. Long night.
+[PanelBoundary] END PANEL CH01-PAGE030-PANEL04

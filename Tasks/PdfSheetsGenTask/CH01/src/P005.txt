@@ -9,6 +9,7 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE005-PANEL01; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Teacher-narrator speaks. Use the existing contrast between Sam at 12°C and Sarah at −12°C where assigned.
 [PanelSection] ORIGINAL PANEL CONTENT
 [PrintLabel] Added caption bridge — friendly teacher narrator
 [CaptionCopy] Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe.
@@ -21,6 +22,7 @@ We’ll work through this chapter together. Keep a pencil nearby: when you reach
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.1A | APPLIES TO: CH01-PAGE005-PANEL02; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Teacher-narrator speaks. Use the existing contrast between Sam at 12°C and Sarah at −12°C where assigned.
 [PanelSection] ORIGINAL PANEL CONTENT
 [MathSubsection] Numbers below zero
 Sam’s town is at 12°C. Sarah’s town is at −12°C. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?

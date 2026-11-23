@@ -1,0 +1,26 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 064
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block T1.4
+[SourceLocator] Squares and square roots
+[SceneInstruction] Production scope. Includes the 5-by-5 teaching square, square and root notation, calculator instructions, Examples 13–14, the negative-root discussion and all seven Practice 1D questions. The square-root bar must preserve its source scope in every formula.
+[PanelIdentifier] PANEL CH01-PAGE064-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | 1.4 Squares and Square Roots
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE064-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Exact teaching text begins
+[MathSection] 1.4 Squares and Square Roots
+A square can help us understand two useful calculations: finding its total area and finding a side from that area. Let’s begin by arranging small square tiles into a bigger square. Put 5 tiles in every row and make 5 rows. How many tiles fill the square?
+[Equation] 5 × 5 = 25
+[SmallCaption] Five rows of five
+[Production] Production note V08. Show a square divided into exactly 5 rows and 5 columns. Each small tile represents 1 cm by 1 cm. Label two adjacent outer sides 5 cm and the total area 25 cm². Identify one small tile as 1 cm². Keep every cell square; do not add countable decoration. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+You can count the 25 little tiles, or multiply 5 × 5. Multiplying a number by itself is called squaring. We write 5² and read it as “five squared”. The small raised 2 says that there are two factors of 5:
+[Equation] 5² = 5 × 5 = 25
+[Equation] 7² = 7 × 7 = 49
+5² does not mean 5 × 2. That would give 10, and would fill only two rows of our five-row square.
+Squares of whole numbers are called perfect squares. Squaring 1 to 10 gives 1, 4, 9, 16, 25, 36, 49, 64, 81 and 100. Zero also fits: 0² = 0. The square of a positive number is positive.
+The area of our 5 cm square is 25 cm². Here cm² means square centimetres: how many 1 cm by 1 cm squares cover the surface. It measures area, not a side length.
+On a calculator: use the x² key to square a number. For 7², your calculation should show 7² and give 49. On many calculators you enter 7 and then press x²; the precise key order depends on the model. Check the displayed expression before accepting the answer.
+[PanelBoundary] END PANEL CH01-PAGE064-PANEL01

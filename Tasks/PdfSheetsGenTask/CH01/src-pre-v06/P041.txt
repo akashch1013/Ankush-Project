@@ -1,0 +1,33 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 041
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE041-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | 2 Find the LCM
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE041-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 2 Find the LCM
+(a) 3, 7 and 9 (b) 6, 9 and 12 (c) 2, 5 and 8
+[AnswerLead] Check your method
+(a) Since 9 = 3 × 3, multiples of 9 already fit the 3-times table. So start with the 9-times table and look for the first number that also fits the 7-times table:
+[Equation] 9, 18, 27, 36, 45, 54, 63
+63 = 7 × 9 and 63 = 3 × 21. No earlier number in this list divides by 7 exactly, so LCM = 63.
+(b) Multiples of 12: 12, 24, 36. All three divide by 6 exactly; the first that also divides by 9 is 36. So LCM(6, 9, 12) = 36.
+(c) Multiples of 8: 8, 16, 24, 32, 40. All divide by 2 exactly; the first that also divides by 5 is 40. So LCM(2, 5, 8) = 40.
+[PanelBoundary] END PANEL CH01-PAGE041-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE041-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.2B | 3 Find all common factors and the HCF
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE041-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 3 Find all common factors and the HCF
+(a) 3 and 7 (b) 9 and 12 (c) 8 and 64 (d) 35 and 14
+[AnswerLead] Check your method
+(a) Factors of 3: 1, 3. Factors of 7: 1, 7. Common factors: 1. HCF = 1.
+(b) Factors of 9: 1, 3, 9. Factors of 12: 1, 2, 3, 4, 6, 12. Common factors: 1, 3. HCF = 3.
+(c) Factors of 8: 1, 2, 4, 8. Factors of 64: 1, 2, 4, 8, 16, 32, 64. Common factors: 1, 2, 4, 8. HCF = 8.
+(d) Factors of 35: 1, 5, 7, 35. Factors of 14: 1, 2, 7, 14. Common factors: 1, 7. HCF = 7.
+“All common factors” asks for the whole shared list, even after you have spotted the greatest one.
+[PanelBoundary] END PANEL CH01-PAGE041-PANEL02

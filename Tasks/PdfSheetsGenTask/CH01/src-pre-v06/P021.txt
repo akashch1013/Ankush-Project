@@ -1,0 +1,43 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 021
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE021-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | Example 6
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE021-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Example 6
+Evaluate (a) −3 × 2 and (b) 2 × (−3).
+[AnswerLead] Let’s work it through
+In both calculations the signs are different. Multiply 3 × 2 = 6 and give the product a minus sign:
+[Equation] (a) −3 × 2 = −(3 × 2) = −6
+[Equation] (b) 2 × (−3) = −(2 × 3) = −6
+[PanelBoundary] END PANEL CH01-PAGE021-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE021-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE021-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] Now you try
+Evaluate (a) −4 × 5 and (b) 3 × (−7).
+[AnswerLead] Check your method
+[Equation] (a) −4 × 5 = −(4 × 5) = −20
+[Equation] (b) 3 × (−7) = −(3 × 7) = −21
+[PanelBoundary] END PANEL CH01-PAGE021-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE021-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.1C | Now you try
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE021-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+One useful extension. What if both factors are negative? Start with a pattern we can already calculate:
+[Equation] (−3) × 2 = −6
+[Equation] (−3) × 1 = −3
+[Equation] (−3) × 0 = 0
+[Equation] (−3) × (−1) = 3
+[Equation] (−3) × (−2) = 6
+Read the answers down the column: −6, −3, 0, 3, 6. They rise by 3 each time. Keeping that pattern going past zero gives (−3) × (−2) = 6: two negative factors give a positive product.
+For two non-zero factors, same signs give a positive product; different signs give a negative product. Multiplying by zero gives zero. Keep this rule with multiplication: −3 + (−2) is −5, even though the two numbers being added have the same sign.
+[PanelBoundary] END PANEL CH01-PAGE021-PANEL03

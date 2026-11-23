@@ -1,0 +1,51 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 026
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE026-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.1C | 3 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE026-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 3 Evaluate
+(a) 4 + (−7) − (−3) (b) 5 − (−8) + (−7)
+(c) −3 − (−1) − (−5) (d) −5 + (−15) − (−12)
+[AnswerLead] Check your method
+Rewrite the changes first, then calculate:
+[Equation] (a) 4 + (−7) − (−3) = 4 − 7 + 3 = −3 + 3 = 0
+[Equation] (b) 5 − (−8) + (−7) = 5 + 8 − 7 = 13 − 7 = 6
+[Equation] (c) −3 − (−1) − (−5) = −3 + 1 + 5 = −2 + 5 = 3
+[Equation] (d) −5 + (−15) − (−12) = −5 − 15 + 12 = −20 + 12 = −8
+[PanelBoundary] END PANEL CH01-PAGE026-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE026-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.1C | 4 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE026-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 4 Evaluate
+(a) 12 × (−5) (b) −7 × 17 (c) −180 ÷ 15 (d) 125 ÷ (−5)
+[AnswerLead] Check your method
+Each pair has different signs, so each answer is negative:
+[Equation] (a) 12 × (−5) = −(12 × 5) = −60
+[Equation] (b) −7 × 17 = −(7 × 17) = −119
+[Equation] (c) −180 ÷ 15 = −(180 ÷ 15) = −12
+[Equation] (d) 125 ÷ (−5) = −(125 ÷ 5) = −25
+[PanelBoundary] END PANEL CH01-PAGE026-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE026-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.1C | 5 Do brackets change the answer
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.1C | APPLIES TO: CH01-PAGE026-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 5 Do brackets change the answer
+(a) Do [17 − (−7)] − 2 and 17 − [(−7) − 2] have the same value?
+(b) From (a), what can you say about the order of subtraction?
+[AnswerLead] Check your method
+Brackets tell us which part to calculate first. The round brackets in (−7) keep a negative number together; the square brackets group a calculation.
+In the first expression, calculate 17 − (−7) first:
+[Equation] [17 − (−7)] − 2 = [17 + 7] − 2 = 24 − 2 = 22
+In the second expression, calculate (−7) − 2 first:
+[Equation] 17 − [(−7) − 2] = 17 − (−9) = 17 + 9 = 26
+(a) No: 22 ≠ 26. (b) Changing which subtraction we do first can change the answer. Keep the brackets and follow their grouping.
+[PanelBoundary] END PANEL CH01-PAGE026-PANEL03

@@ -1,0 +1,72 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 045
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Projector-Kit Bench, Centre — location instructions | Applies to: Assigned beats of Scene CH01 06B
+[ProductionContextCopy] The centre of the pale right-wall bench holds two labelled supply boxes, padded empty kit boxes and one sample board. The blue/gold timing lamps are farther left, and the sealed hook rack is to the right. A short lantern-test rail is fixed above.
+[ProductionContextCopy] Labels read 45 BLUE GLASS LENSES and 75 BRASS RINGS. Establish the greatest possible number of identical kits before teaching. A completed three-lens/five-ring head and exact sample kit belong only after T1.2B. Three rings mount the lenses and two secure the supports. The full stock need not be individually laid out; one sample and closed kit boxes are enough. Do not show an already-solved three-and-five recipe in the setup.
+[ProductionContextCopy] Required views. Stock-label close-up; overhead sample-kit view; medium handover to wooden crews. These are parts of the Lantern Street bench, not a new workshop.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 06B What goes into each kit
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street projector-kit bench. The centre of the continuous right-wall pale bench holds two stock boxes, padded kit boxes and a sample board. Timing lamps remain farther left, the sealed-hook rack farther right. The short lantern-test rail is fixed above against the blue wall, under warm task light. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Close above the sample board on the centre bench. Keep the original stock-label corners and pale bench edge as anchors.
+[SceneInstruction] Cast and staging across the scene. Tara demonstrates the parts of one projector head with both hands while her staff rests against the wall. Vihaan repeats the allocation to the group. Ahana has set the lamp on a clear solid part of the bench, away from the padded boxes, and checks the parts. Navya holds the packing sheet. Tez and the helper watch from the side.
+[SceneInstruction] Props and state progression. Exactly three blue glass lenses and five brass rings in the one sample set. Three rings mount the lenses; two secure the supports. The inventory is for fifteen kits, not fifteen items. Source stock totals remain 45 and 75.
+[SceneInstruction] Planning requirements. This is the first solved kit view. Any assembled-head detail must distinguish the three lens rings from the two support rings. The corrected timing device remains to the left on the bench specified under Setting in Scene CH01 06B.
+[PanelIdentifier] PANEL CH01-PAGE045-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 06B A Vihaan states the number of crews
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE045-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06B What goes into each kit | APPLIES TO: CH01-PAGE045-PANEL01; CH01 06B A
+[PanelContextCopy] View. Close above the sample board on the centre bench. Keep the original stock-label corners and pale bench edge as anchors.
+[PanelContextCopy] Props and state progression. Exactly three blue glass lenses and five brass rings in the one sample set. Three rings mount the lenses; two secure the supports. The inventory is for fifteen kits, not fifteen items. Source stock totals remain 45 and 75.
+[PanelContextCopy] Planning requirements. This is the first solved kit view. Any assembled-head detail must distinguish the three lens rings from the two support rings. The corrected timing device remains to the left on the bench specified under Setting in Scene CH01 06B.
+[PanelMetadata] SOURCE: Scene CH01 06B What goes into each kit | APPLIES TO: CH01-PAGE045-PANEL01; other character positions, lamp and packing sheet
+[PanelContextCopy] Vihaan repeats the allocation to the group. Ahana has set the lamp on a clear solid part of the bench, away from the padded boxes, and checks the parts. Navya holds the packing sheet. Tez and the helper watch from the side.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06B A Vihaan states the number of crews
+[SceneInstruction] Moment and staging. Show one complete sample set on the board, exactly three lenses and five rings, with the verified fifteen-kit record beside it. Vihaan looks up from the record towards the group as he speaks. Ahana has set the lamp on the cleared bench; Tara’s staff remains supported against the wall.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The largest number that divides both 45 and 75 exactly is fifteen. They can make fifteen identical kits, each with three lenses and five rings.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth | Source speech attribution: Vihaan says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Fifteen crews can start together.
+[PanelBoundary] END PANEL CH01-PAGE045-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE045-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 06B B Vihaan states what each receives
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE045-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06B What goes into each kit | APPLIES TO: CH01-PAGE045-PANEL02; CH01 06B B
+[PanelContextCopy] View. Close above the sample board on the centre bench. Keep the original stock-label corners and pale bench edge as anchors.
+[PanelContextCopy] Props and state progression. Exactly three blue glass lenses and five brass rings in the one sample set. Three rings mount the lenses; two secure the supports. The inventory is for fifteen kits, not fifteen items. Source stock totals remain 45 and 75.
+[PanelContextCopy] Planning requirements. This is the first solved kit view. Any assembled-head detail must distinguish the three lens rings from the two support rings. The corrected timing device remains to the left on the bench specified under Setting in Scene CH01 06B.
+[PanelMetadata] SOURCE: Scene CH01 06B What goes into each kit | APPLIES TO: CH01-PAGE045-PANEL02; other character positions, lamp and packing sheet
+[PanelContextCopy] Vihaan repeats the allocation to the group. Ahana has set the lamp on a clear solid part of the bench, away from the padded boxes, and checks the parts. Navya holds the packing sheet. Tez and the helper watch from the side.
+[PanelMetadata] SOURCE: Visual beat CH01 06B A Vihaan states the number of crews | APPLIES TO: CH01-PAGE045-PANEL02; sample set, record and source hand reference
+[PanelContextCopy] Moment and staging. Show one complete sample set on the board, exactly three lenses and five rings, with the verified fifteen-kit record beside it. Vihaan looks up from the record towards the group as he speaks. Ahana has set the lamp on the cleared bench; Tara’s staff remains supported against the wall.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06B B Vihaan states what each receives
+[SceneInstruction] Moment and staging. Separate panel retaining the camera and character locations specified under View and Cast and staging in Scene CH01 06B. Vihaan now points with one finger towards the single sample set and looks down at its parts. Vihaan’s non-pointing hand rests lightly on the clear front edge of the bench, away from the sample board and verified fifteen-kit record. It holds nothing and does not obscure any lens, ring or lettering. Everyone retains the locations specified under Cast and staging in Scene CH01 06B. Keep all three lenses and five rings distinguishable; do not add a second sample.
+[SceneInstruction] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Three lenses and five rings for each.
+[PanelBoundary] END PANEL CH01-PAGE045-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE045-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 06B C Tara shows the different ring jobs
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE045-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 06B What goes into each kit | APPLIES TO: CH01-PAGE045-PANEL03; CH01 06B C
+[PanelContextCopy] View. Close above the sample board on the centre bench. Keep the original stock-label corners and pale bench edge as anchors.
+[PanelContextCopy] Cast and staging across the scene. Tara demonstrates the parts of one projector head with both hands while her staff rests against the wall. Vihaan repeats the allocation to the group. Ahana has set the lamp on a clear solid part of the bench, away from the padded boxes, and checks the parts. Navya holds the packing sheet. Tez and the helper watch from the side.
+[PanelContextCopy] Props and state progression. Exactly three blue glass lenses and five brass rings in the one sample set. Three rings mount the lenses; two secure the supports. The inventory is for fifteen kits, not fifteen items. Source stock totals remain 45 and 75.
+[PanelContextCopy] Planning requirements. This is the first solved kit view. Any assembled-head detail must distinguish the three lens rings from the two support rings. The corrected timing device remains to the left on the bench specified under Setting in Scene CH01 06B.
+[PanelMetadata] SOURCE: Visual beat CH01 06B A Vihaan states the number of crews | APPLIES TO: CH01-PAGE045-PANEL03; sample set, lamp and staff placements
+[PanelContextCopy] Moment and staging. Show one complete sample set on the board, exactly three lenses and five rings, with the verified fifteen-kit record beside it. Vihaan looks up from the record towards the group as he speaks. Ahana has set the lamp on the cleared bench; Tara’s staff remains supported against the wall.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 06B C Tara shows the different ring jobs
+[SceneInstruction] Moment and staging. Close on Tara’s hands at the sample specified in Visual beat CH01 06B A: three rings mount the lenses and two belong at the support joints. Tara’s staff stays against the wall. Vihaan withdraws his pointing hand so it does not obscure the parts; Ahana and Navya watch. The instruction and the diagram describe the same eight parts.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara shows them how those parts fit: three rings hold the lenses, and two join the projector head to its supports.
+[PanelBoundary] END PANEL CH01-PAGE045-PANEL03

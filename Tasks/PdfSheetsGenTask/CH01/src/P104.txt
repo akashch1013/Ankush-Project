@@ -17,7 +17,7 @@
 [ProductionContextSource] Carried forward from Scene CH01 11B — shared production instructions | Applies to: Assigned beats of Scene CH01 11B
 [ProductionContextCopy] Planning requirements. Tara names Veer for the first time here. Do not show his face, childhood, workshop or motivation. Her line expresses an inference about his intent, not confirmed knowledge of his current location.
 [ProductionContextSource] Carried forward from Visual beat CH01 11B A — referenced staging | Applies to: Reference in Visual beat CH01 11B B Navya asks about Veer; Reference in Visual beat CH01 11B C Tara explains the signature; Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage
-[ProductionContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[ProductionContextCopy] Referenced beat for continuity only. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
 [ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
 [PanelIdentifier] PANEL CH01-PAGE104-PANEL01
 [PanelMetadata] SOURCE: Visual beat CH01 11B B Navya asks about Veer
@@ -27,11 +27,11 @@
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL01; frame mounting
 [PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL01; V on inner rim and single evidence sleeve
 [PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark | APPLIES TO: CH01-PAGE104-PANEL01; camera, Tara and Ahana positions, sleeve and lamp
-[PanelContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PanelContextCopy] Referenced beat for continuity only. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11B B Navya asks about Veer
-[SceneInstruction] Moment and staging. Retain the camera and Tara’s and Ahana’s positions specified in Visual beat CH01 11B A, and the other character locations specified under Cast and staging in Scene CH01 11B. Navya leans slightly towards Tara, eyebrows raised, one open hand at waist height. Tara turns her gaze to her; Ahana holds the sleeve steady and Vihaan listens.
+[SceneInstruction] Moment and staging. Retain the camera and Tara’s and Ahana’s positions specified in Visual beat CH01 11B A, and the other character locations specified under Cast and staging in Scene CH01 11B. Navya leans slightly towards Tara, eyebrows raised, one open hand at waist height. Tara turns her gaze to her; Ahana holds the sleeve steady and Vihaan listens. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya asks.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] You know him?
@@ -44,11 +44,11 @@
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL02; frame mounting
 [PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL02; V on inner rim and single evidence sleeve
 [PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark | APPLIES TO: CH01-PAGE104-PANEL02; medium camera and framing
-[PanelContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PanelContextCopy] Referenced beat for continuity only. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11B C Tara explains the signature
-[SceneInstruction] Moment and staging. Retain the medium camera and framing specified in Visual beat CH01 11B A. Tara indicates the V with one finger without touching it, gaze directed towards Navya, and gives the first sentence. Her other hand stays at her side; the evidence remains in Ahana’s hands.
+[SceneInstruction] Moment and staging. Retain the medium camera and framing specified in Visual beat CH01 11B A. Tara indicates the V with one finger without touching it, gaze directed towards Navya, and gives the first sentence. Her other hand stays at her side; the evidence remains in Ahana’s hands. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] He signed things he made with that V.
@@ -61,14 +61,14 @@
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL03; frame mounting
 [PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL03; V on inner rim and single evidence sleeve
 [PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark | APPLIES TO: CH01-PAGE104-PANEL03; camera, crop and Tara and Ahana locations
-[PanelContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PanelContextCopy] Referenced beat for continuity only. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
 [PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL03; V and dust state
 [PanelMetadata] SOURCE: Visual beat CH01 11B C Tara explains the signature | APPLIES TO: CH01-PAGE104-PANEL03; Tara non-pointing hand
 [PanelContextCopy] Her other hand stays at her side; the evidence remains in Ahana’s hands.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11B D Tara distinguishes the fresh damage
-[SceneInstruction] Moment and staging. Separate panel retaining the camera, crop and Tara’s and Ahana’s locations specified in Visual beat CH01 11B A, and the other character locations specified under Cast and staging in Scene CH01 11B. Tara withdraws her pointing finger into a slightly cupped palm and looks closely at the fresh scratch, her expression tightening. Retain the V and dust state specified under Props and state progression in Scene CH01 11A, the sleeve custody specified under Props and state progression in Scene CH01 11B, and the lighting specified under Setting in Scene CH01 11B. Her next dialogue belongs to this changed pose.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, crop and Tara’s and Ahana’s locations specified in Visual beat CH01 11B A, and the other character locations specified under Cast and staging in Scene CH01 11B. Tara withdraws her pointing finger into a slightly cupped palm and looks closely at the fresh scratch, her expression tightening. Retain the V and dust state specified under Props and state progression in Scene CH01 11A, the sleeve custody specified under Props and state progression in Scene CH01 11B, and the lighting specified under Setting in Scene CH01 11B. Her next dialogue belongs to this changed pose. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] This scratch is fresh. He has put his old mark on something he damaged.
@@ -83,7 +83,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11B E Ahana asks about the message
-[SceneInstruction] Moment and staging. Keep the alcove background specified under Setting in Scene CH01 11B. Ahana lifts her gaze from the sleeve to Tara and asks, holding the sleeve still in both hands. Tara turns towards her; Navya and Vihaan listen. The question is a new speaking beat.
+[SceneInstruction] Moment and staging. Keep the alcove background specified under Setting in Scene CH01 11B. Ahana lifts her gaze from the sleeve to Tara and asks, holding the sleeve still in both hands. Tara turns towards her; Navya and Vihaan listen. The question is a new speaking beat. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Does he want you to know?
@@ -98,7 +98,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 11B F Tara wants to hear his reason
-[SceneInstruction] Moment and staging. Separate reaction and speaking image: Tara turns her head along the restored street, shoulders and feet staying beside the mirror. Her hands relax at her sides. Ahana and the children watch her. Do not show Veer, a flashback or a confirmed motive; the line remains Tara’s inference.
+[SceneInstruction] Moment and staging. Separate reaction and speaking image: Tara turns her head along the restored street, shoulders and feet staying beside the mirror. Her hands relax at her sides. Ahana and the children watch her. Do not show Veer, a flashback or a confirmed motive; the line remains Tara’s inference. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane. Restored gold arches light the brass rim. The scratched V is on the lower-right inner rim.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara looks along the restored street.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth

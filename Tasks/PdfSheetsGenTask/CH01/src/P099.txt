@@ -2,7 +2,7 @@
 [ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
 [ProductionContextSource] Carried forward from Lantern Street Cube Plinth, Handle and Moonline Joint — location instructions | Applies to: Assigned beats of Scene CH01 10F
 [ProductionContextSource] Carried forward from Visual beat CH01 10E A — referenced staging | Applies to: Reference in Visual beat CH01 10F B Tara’s silent concern
-[ProductionContextCopy] Moment and staging. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
+[ProductionContextCopy] Referenced beat for continuity only. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
 [ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
 ## Scene CH01 10F A connection pulled apart
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -20,9 +20,10 @@
 [PanelContextCopy] Props and state progression. Two disconnected ends of the same silver moonline, screws and black dust in their holes. No extra switch or broken numerical setting. The evidence sleeve is still in Ahana’s backpack.
 [PanelContextCopy] Planning requirements. The gap and dust must be visible before repair. Do not explain the metal-polishing powder or name Veer yet. The source’s causal narration is essential: correct settings cannot bridge a physical gap.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Ahana holds the lamp above the work. Tara receives it on 100.01.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10F A The gap and the dust
-[SceneInstruction] Moment and staging. Close beneath the now-lifted cover: Navya has set it flat beside the opening, Ahana lights two disconnected track ends and dusty screw holes. This one evidence image carries the first three caption passages. Do not show the joint repaired or add a numerical fault.
+[SceneInstruction] Moment and staging. Close beneath the now-lifted cover: Navya has set it flat beside the opening, Ahana lights two disconnected track ends and dusty screw holes. This one evidence image carries the first three caption passages. Do not show the joint repaired or add a numerical fault. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Navya lifts the cover. The two ends of the connection underneath have been pulled apart.
 [CaptionCopy] No light can cross that gap, however carefully the children have set the fittings.
@@ -38,11 +39,12 @@
 [PanelContextCopy] Props and state progression. Two disconnected ends of the same silver moonline, screws and black dust in their holes. No extra switch or broken numerical setting. The evidence sleeve is still in Ahana’s backpack.
 [PanelContextCopy] Planning requirements. The gap and dust must be visible before repair. Do not explain the metal-polishing powder or name Veer yet. The source’s causal narration is essential: correct settings cannot bridge a physical gap.
 [PanelMetadata] SOURCE: Visual beat CH01 10E A The crooked cover | APPLIES TO: CH01-PAGE099-PANEL02; Tara kneeling position
-[PanelContextCopy] Moment and staging. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
+[PanelContextCopy] Referenced beat for continuity only. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Ahana holds the lamp above the work. Tara receives it on 100.01.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10F B Tara’s silent concern
-[SceneInstruction] Moment and staging. Cut to Tara’s face in the kneeling position specified in Visual beat CH01 10E A, with the dusty joint at the edge of frame. Her eyes stay on the dust, lips closed, expression worried. Ahana watches her while holding the lamp steady. This separate reaction has narration only; no explanation or Veer reveal is added.
+[SceneInstruction] Moment and staging. Cut to Tara’s face in the kneeling position specified in Visual beat CH01 10E A, with the dusty joint at the edge of frame. Her eyes stay on the dust, lips closed, expression worried. Ahana watches her while holding the lamp steady. This separate reaction has narration only; no explanation or Veer reveal is added. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara stares at it. Ahana sees worry in her face, but Tara says nothing yet.
 [PanelBoundary] END PANEL CH01-PAGE099-PANEL02

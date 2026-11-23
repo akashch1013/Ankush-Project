@@ -1,0 +1,45 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 069
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE069-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | 5 Explore neighbouring squares
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE069-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 5 Explore neighbouring squares
+(a) Use a calculator to evaluate:
+(i) 2² − 1² (ii) 3² − 2² (iii) 4² − 3²
+(iv) 10² − 9² (v) 12² − 11² (vi) 15² − 14²
+(b) What subtraction rule do you notice?
+(c) Use your rule to find 200² − 199², then check with a calculator.
+[PanelBoundary] END PANEL CH01-PAGE069-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE069-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.4 | 5 Explore neighbouring squares
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE069-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[AnswerLead] Check your method
+[Equation] (a)(i) 2² − 1² = 4 − 1 = 3
+[Equation] (ii) 3² − 2² = 9 − 4 = 5
+[Equation] (iii) 4² − 3² = 16 − 9 = 7
+[Equation] (iv) 10² − 9² = 100 − 81 = 19
+[Equation] (v) 12² − 11² = 144 − 121 = 23
+[Equation] (vi) 15² − 14² = 225 − 196 = 29
+[PanelBoundary] END PANEL CH01-PAGE069-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE069-PANEL03
+[PanelMetadata] SOURCE: Teaching block T1.4 | 5 Explore neighbouring squares
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE069-PANEL03; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+(b) Each pair uses neighbouring whole numbers. The difference between their squares equals the sum of those two numbers: 4² − 3² = 4 + 3 = 7, for example.
+Look at a 4-by-4 square with its 3-by-3 corner removed. The remaining L-shaped border has 4 tiles along the bottom and 3 more up the side. That gives 4 + 3 = 7; we count the corner tile only once.
+[SmallCaption] The difference between neighbouring squares
+[Production] Production note V09. Show a 4 by 4 grid. A top-left 3 by 3 region is pale grey and labelled 9 removed. The bottom row of 4 cells is blue; the right-hand column above it has 3 amber cells. Label 4 and 3 outside these groups. Show the full grid contains 16 cells and the remaining L has 7, without counting the bottom-right corner twice. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+The same border idea works whenever the bigger square has one extra row and one extra column. The bottom row has the bigger number of tiles; the remaining side has the smaller number.
+(c) 200 and 199 are neighbours, so:
+[Equation] 200² − 199² = 200 + 199 = 399
+Calculator check: 40000 − 39601 = 399. The border saved us from working out two large squares first.
+[PanelBoundary] END PANEL CH01-PAGE069-PANEL03

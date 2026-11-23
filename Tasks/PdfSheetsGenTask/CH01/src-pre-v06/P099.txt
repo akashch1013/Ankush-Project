@@ -1,0 +1,48 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 099
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Cube Plinth, Handle and Moonline Joint — location instructions | Applies to: Assigned beats of Scene CH01 10F
+[ProductionContextSource] Carried forward from Visual beat CH01 10E A — referenced staging | Applies to: Reference in Visual beat CH01 10F B Tara’s silent concern
+[ProductionContextCopy] Moment and staging. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 10F A connection pulled apart
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Exact low close-up beneath the lifted cover, anchored by the plinth corner and paving seam specified under Setting in Scene CH01 10F. A separate face close-up can hold Tara’s worried silence.
+[SceneInstruction] Cast and staging across the scene. Navya lifts and sets the cover flat beside the opening, outside the walking line. Ahana lights the exposed joint. Tara studies it, visibly worried but silent. Vihaan looks down from the safe side; Tez stays back from the open recess. The helper remains off-frame.
+[SceneInstruction] Props and state progression. Two disconnected ends of the same silver moonline, screws and black dust in their holes. No extra switch or broken numerical setting. The evidence sleeve is still in Ahana’s backpack.
+[SceneInstruction] Planning requirements. The gap and dust must be visible before repair. Do not explain the metal-polishing powder or name Veer yet. The source’s causal narration is essential: correct settings cannot bridge a physical gap.
+[PanelIdentifier] PANEL CH01-PAGE099-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 10F A The gap and the dust
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE099-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10F A connection pulled apart | APPLIES TO: CH01-PAGE099-PANEL01; CH01 10F A
+[PanelContextCopy] View. Exact low close-up beneath the lifted cover, anchored by the plinth corner and paving seam specified under Setting in Scene CH01 10F. A separate face close-up can hold Tara’s worried silence.
+[PanelContextCopy] Cast and staging across the scene. Navya lifts and sets the cover flat beside the opening, outside the walking line. Ahana lights the exposed joint. Tara studies it, visibly worried but silent. Vihaan looks down from the safe side; Tez stays back from the open recess. The helper remains off-frame.
+[PanelContextCopy] Props and state progression. Two disconnected ends of the same silver moonline, screws and black dust in their holes. No extra switch or broken numerical setting. The evidence sleeve is still in Ahana’s backpack.
+[PanelContextCopy] Planning requirements. The gap and dust must be visible before repair. Do not explain the metal-polishing powder or name Veer yet. The source’s causal narration is essential: correct settings cannot bridge a physical gap.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10F A The gap and the dust
+[SceneInstruction] Moment and staging. Close beneath the now-lifted cover: Navya has set it flat beside the opening, Ahana lights two disconnected track ends and dusty screw holes. This one evidence image carries the first three caption passages. Do not show the joint repaired or add a numerical fault.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Navya lifts the cover. The two ends of the connection underneath have been pulled apart.
+[CaptionCopy] No light can cross that gap, however carefully the children have set the fittings.
+[CaptionCopy] Black dust fills the screw holes.
+[PanelBoundary] END PANEL CH01-PAGE099-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE099-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 10F B Tara’s silent concern
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE099-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 10F A connection pulled apart | APPLIES TO: CH01-PAGE099-PANEL02; CH01 10F B
+[PanelContextCopy] View. Exact low close-up beneath the lifted cover, anchored by the plinth corner and paving seam specified under Setting in Scene CH01 10F. A separate face close-up can hold Tara’s worried silence.
+[PanelContextCopy] Cast and staging across the scene. Navya lifts and sets the cover flat beside the opening, outside the walking line. Ahana lights the exposed joint. Tara studies it, visibly worried but silent. Vihaan looks down from the safe side; Tez stays back from the open recess. The helper remains off-frame.
+[PanelContextCopy] Props and state progression. Two disconnected ends of the same silver moonline, screws and black dust in their holes. No extra switch or broken numerical setting. The evidence sleeve is still in Ahana’s backpack.
+[PanelContextCopy] Planning requirements. The gap and dust must be visible before repair. Do not explain the metal-polishing powder or name Veer yet. The source’s causal narration is essential: correct settings cannot bridge a physical gap.
+[PanelMetadata] SOURCE: Visual beat CH01 10E A The crooked cover | APPLIES TO: CH01-PAGE099-PANEL02; Tara kneeling position
+[PanelContextCopy] Moment and staging. Low along the right-edge moonline: Ahana has retrieved her lamp and holds it low in her right hand, illuminating the crooked brass cover. Navya crouches ready to lift it; Tara kneels close. No disconnected ends are visible yet.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 10F B Tara’s silent concern
+[SceneInstruction] Moment and staging. Cut to Tara’s face in the kneeling position specified in Visual beat CH01 10E A, with the dusty joint at the edge of frame. Her eyes stay on the dust, lips closed, expression worried. Ahana watches her while holding the lamp steady. This separate reaction has narration only; no explanation or Veer reveal is added.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara stares at it. Ahana sees worry in her face, but Tara says nothing yet.
+[PanelBoundary] END PANEL CH01-PAGE099-PANEL02

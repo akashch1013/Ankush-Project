@@ -1,0 +1,35 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 068
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE068-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.4 | 3 Evaluate
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE068-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 3 Evaluate
+(a) √100 (b) √144 (c) √81 − √49 (d) 3 + √36 + 4²
+[AnswerLead] Check your method
+[Equation] (a) √100 = 10, because 10² = 100
+[Equation] (b) √144 = 12, because 12² = 144
+[Equation] (c) √81 − √49 = 9 − 7 = 2
+[Equation] (d) 3 + √36 + 4² = 3 + 6 + 16 = 9 + 16 = 25
+The bar of a root sign shows what belongs under it. In (d), only 36 is under √; the separate 3 and 4² stay outside.
+[PanelBoundary] END PANEL CH01-PAGE068-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE068-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.4 | 4 Use a calculator
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE068-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 4 Use a calculator
+Evaluate:
+(a) √1225 − √900 (b) 76² + √2304
+(c) 47² + 21² + √625 (d) 423² − 21² − √10404
+[AnswerLead] Check your method
+[Equation] (a) √1225 − √900 = 35 − 30 = 5
+[Equation] (b) 76² + √2304 = 5776 + 48 = 5824
+[Equation] (c) 47² + 21² + √625 = 2209 + 441 + 25 = 2650 + 25 = 2675
+[Equation] (d) 423² − 21² − √10404 = 178929 − 441 − 102
+[Equation] = 178488 − 102 = 178386
+[PanelBoundary] END PANEL CH01-PAGE068-PANEL02

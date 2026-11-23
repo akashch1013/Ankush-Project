@@ -6,6 +6,7 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE070-PANEL01; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. False claim for the learner to test. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [MathExample] 6 Check Susan’s claim
 Susan claims that √32 + √25 = √(32 + 25) = √57. Is she correct? Explain.
@@ -21,6 +22,7 @@ About 10.66 is quite different from about 7.55. Susan’s first equals sign is t
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE070-PANEL02; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Keep radical over the complete sum. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [MathExample] 7 Find the missing length
 In this triangle, c = √(5² + 12²). Find c in its simplest form.
@@ -32,6 +34,7 @@ In this triangle, c = √(5² + 12²). Find c in its simplest form.
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE070-PANEL03; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Keep radical over the complete sum. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [AnswerLead] Check your method
 The bar of √ covers the whole sum 5² + 12². Work out that sum before taking its root:

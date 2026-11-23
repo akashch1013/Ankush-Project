@@ -8,10 +8,18 @@
   "version": "1795354277-d57c"
  },
  "P039": {
-  "url": "https://claude.ai/artifact/RANxAwg86Cz84unNnTdgce",
+  "url": "https://claude.ai/artifact/QM4hGuQD9NC6sALB2bZmCA",
   "file_path": "PdfSheetsGenTask/CH01/P039/artifact.html",
-  "math": "PASS 2026-11-22 (A3 restyle)",
+  "math": "PASS 2026-11-23 (B1, manuscript V06)",
   "pdf": "Output/CH01/CH01-P039.pdf",
+  "design": "B1 Ledger Plate",
+  "version": "1795436748-a40d"
+ },
+ "P039-A3-v1": {
+  "url": "https://claude.ai/artifact/RANxAwg86Cz84unNnTdgce",
+  "file_path": "PdfSheetsGenTask/CH01/P039-A3-v1/artifact.html",
+  "math": "PASS 2026-11-22 (A3 restyle)",
+  "pdf": "Output/CH01/CH01-P039-A3-v1.pdf",
   "design": "A3",
   "version": "1795354286-7922"
  }

@@ -21,9 +21,10 @@
 [PanelMetadata] SOURCE: Scene CH01 09A A lantern that cannot close | APPLIES TO: CH01-PAGE083-PANEL01; readiness indicators before CUBE changes
 [PanelContextCopy] First four indicators white, CUBE dark.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Hands steady and fasten frame. First four indicators white, CUBE dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09C A The frame is secured
-[SceneInstruction] Moment and staging. Ahana has set the lamp safely on the paving and steadies the top frame with both hands. Navya aligns its corners, Vihaan checks the last layer, and Tara fastens the frame with her staff still safely against the wall. The helper supports the structure. Freeze before the CUBE lamp changes.
+[SceneInstruction] Moment and staging. Ahana has set the lamp safely on the paving and steadies the top frame with both hands. Navya aligns its corners, Vihaan checks the last layer, and Tara fastens the frame with her staff still safely against the wall. The helper supports the structure. Freeze before the CUBE lamp changes. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Ahana steadies the top frame while Navya lines up its corners. Vihaan checks the final layer, and Tara fastens the frame.
 [PanelBoundary] END PANEL CH01-PAGE083-PANEL01
@@ -37,9 +38,11 @@
 [PanelContextCopy] Props and state progression. Complete solid 4 × 4 × 4 cube, top frame fastened. CUBE becomes white, so all five readiness indicators shine. Main arches remain dark. Floor cover remains closed, and handle is raised.
 [PanelContextCopy] Planning requirements. All hands have a plausible grip and support. Do not show the whole street lit just because the fifth indicator is on. The cube is complete before the review.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S07-D01. All hands clear. Five white indicators. Arches dark.
+NON-PRINTING • Current panel. Right-wall board at cube end: all five white. Remaining indicators dark. Arches dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 09C B All five checks are white
-[SceneInstruction] Moment and staging. Separate result showing the fastened 4 × 4 × 4 block and all five white readiness lights. Everyone’s hands are now clear of the top frame. The main arches remain dark, handle raised and joint cover closed.
+[SceneInstruction] Moment and staging. Separate result showing the fastened 4 × 4 × 4 block and all five white readiness lights. Everyone’s hands are now clear of the top frame. The main arches remain dark, handle raised and joint cover closed. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] CUBE comes on. All five lights are shining.
 [PanelBoundary] END PANEL CH01-PAGE083-PANEL02
@@ -71,7 +74,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10A A Navya counts the ready checks
-[SceneInstruction] Moment and staging. At the completed plinth, Navya holds the checked record in one hand and points towards the five white indicators with the other. She looks at the board as she speaks. Ahana’s lamp stays on the paving; Tara’s staff stays against the wall.
+[SceneInstruction] Moment and staging. At the completed plinth, Navya holds the checked record in one hand and points towards the five white indicators with the other. She looks at the board as she speaks. Ahana’s lamp stays on the paving; Tara’s staff stays against the wall. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Five checks ready.
@@ -88,7 +91,7 @@
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10A B Navya invites the review
-[SceneInstruction] Moment and staging. Separate panel retaining the camera, background and character locations specified under View, Setting and Cast and staging in Scene CH01 10A. Navya lowers her pointing hand to open the record towards the group and turns her face to Vihaan and Ahana. Her expression is calm and purposeful. Everyone remains clear of the raised handle; the whole R01 teaching block follows.
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, background and character locations specified under View, Setting and Cast and staging in Scene CH01 10A. Navya lowers her pointing hand to open the record towards the group and turns her face to Vihaan and Ahana. Her expression is calm and purposeful. Everyone remains clear of the raised handle; the whole R01 teaching block follows. Background and fixed landmarks. At the physical-right cube bay the base sits on the paving. Its top frame stays on the guides. Immediately to the right on the blue wall are the five-light board and down-pull handle. The moonline and its cover lie in the paving at the plinth’s front-right corner. Show only the portion reached by this camera.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Let’s look over what we used before we try the whole street.

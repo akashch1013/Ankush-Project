@@ -1,0 +1,37 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 053
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Reading this manuscript — companion insets | Applies to: Companion inset Q05
+[ProductionContextSource] Carried forward from Lantern Street Sealed-Hook Rack, Right End — location instructions | Applies to: Companion inset Q05
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE053-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE053-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+By 9: Add the digits, then check whether their sum is divisible by 9. Use the same split: 42 = 36 + (4 + 2) = 36 + 6. The 36 divides by 9, but the remaining 6 does not. So 42 passes the 3-test and fails the 9-test. The shortcut works for larger numbers too: 9, 99 and 999 all divide by 9, leaving the digits to check.
+[Equation] 4536: 4 + 5 + 3 + 6 = 18 = 9 × 2 → yes
+[Equation] 125793: 1 + 2 + 5 + 7 + 9 + 3 = 27 = 9 × 3 → yes
+[Equation] 149: 1 + 4 + 9 = 14 → no
+[Equation] 62341: 6 + 2 + 3 + 4 + 1 = 16 → no
+[PanelBoundary] END PANEL CH01-PAGE053-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE053-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.3 | More divisibility tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.3 | APPLIES TO: CH01-PAGE053-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+By 10: A number made of complete tens has 0 ones: 1230 = 123 × 10. So numbers ending in 0 pass. 1230 and 4570 pass; 1235 and 1489 fail.
+By 25: Count in twenty-fives: 25, 50, 75, 100, then 125, 150, 175, 200. Four lots make a complete hundred: 4 × 25 = 100. The endings repeat: 25, 50, 75, 00.
+So 6725, 3550, 8675 and 14500 pass. The endings 45 in 17345 and 20 in 68520 do not work.
+By 100: Complete hundreds end in 00: 6800 = 68 × 100. So 6800 and 451200 pass; 6210 and 7505 fail. One final zero is enough for the 10-test; here we need two.
+[PanelBoundary] END PANEL CH01-PAGE053-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE053-PANEL03
+[PanelMetadata] SOURCE: Companion inset Q05
+[PanelSection] ORIGINAL PANEL CONTENT
+### Companion inset Q05
+[SceneInstruction] Production instruction. After the completed By 100 explanation at the end of More divisibility tests in Teaching block T1.3. Navya stands beside the rack with a pencil resting on a blank working sheet, looking thoughtfully towards the completed divisibility rules. Brass rack upright and pale bench edge. Crop the team cards out so the story matching stays unanswered; no dust or V is revealed.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya to the reader | Tail target: Navya’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] A quick check still needs a reason.
+[PanelBoundary] END PANEL CH01-PAGE053-PANEL03

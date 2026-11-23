@@ -15,9 +15,10 @@
 [PanelMetadata] SOURCE: Scene CH01 10J The street works | APPLIES TO: CH01-PAGE102-PANEL01; CH01 10J C
 [PanelContextCopy] Cast and staging across the scene. Tez presses against the children’s lower legs in delight. Vihaan raises both hands to form a bird shadow on the wall. Tara holds the work lamp at a position that casts that shadow, watching the lit arches with relief. Ahana laughs; Navya relaxes and looks up rather than searching for another fault. The helper stands with its cart out of the lane; distant wooden crews admire their secured work.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. After Tez’s celebration, Vihaan silently makes the bird shadow. Tara positions the lamp behind his hands, blue wall in front.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10J C Vihaan makes the bird shadow
-[SceneInstruction] Moment and staging. Medium against the blue stall wall: Vihaan now raises both hands to form one bird shadow, Tara holds the lamp behind his hands to cast it, Ahana laughs and Navya relaxes. Tez watches at their feet. This is a new action after his line, with no invented dialogue.
+[SceneInstruction] Moment and staging. Medium against the blue stall wall: Vihaan now raises both hands to form one bird shadow, Tara holds the lamp behind his hands to cast it, Ahana laughs and Navya relaxes. Tez watches at their feet. Vihaan makes the shadow silently after Tez says “We fixed a street!” Background and fixed landmarks. Group on the paving beside the blue stall wall. For the bird shadow the optical order is Tara’s lamp, Vihaan’s hands, then the wall. Only 102.01 shows his hands raised. Keep the same wall for the listening and reaction views.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Vihaan lifts his hands into a bird-shaped shadow on the wall and gives it enormous wings. Ahana laughs. Even Navya forgets to look for the next loose part.
 [PanelBoundary] END PANEL CH01-PAGE102-PANEL01
@@ -27,16 +28,17 @@
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE102-PANEL02; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 10J The street works | APPLIES TO: CH01-PAGE102-PANEL02; CH01 10J D
 [PanelMetadata] SOURCE: Visual beat CH01 10J C Vihaan makes the bird shadow | APPLIES TO: CH01-PAGE102-PANEL02; group positions, stall-wall background and lamp placement
-[PanelContextCopy] Moment and staging. Medium against the blue stall wall: Vihaan now raises both hands to form one bird shadow, Tara holds the lamp behind his hands to cast it, Ahana laughs and Navya relaxes. Tez watches at their feet. This is a new action after his line, with no invented dialogue.
+[PanelContextCopy] Referenced beat for continuity only. Medium against the blue stall wall: Vihaan now raises both hands to form one bird shadow, Tara holds the lamp behind his hands to cast it, Ahana laughs and Navya relaxes. Tez watches at their feet. Vihaan makes the shadow silently after Tez says “We fixed a street!”
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Vihaan’s hands are lowered. The shadow-bird pose has ended. Tara holds the lamp. Keep the group against the same blue wall.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10J D Tara recognises their effort
-[SceneInstruction] Moment and staging. Keep the group positions and blue stall-wall background specified in Visual beat CH01 10J C. Tara turns her eyes from the glowing arches towards the children as she speaks, keeping the lamp steady in one hand. Vihaan lowers his hands and listens; Ahana and Navya face Tara. Her staff still rests safely across at the cube wall.
+[SceneInstruction] Moment and staging. Keep the group positions and blue stall-wall background specified in Visual beat CH01 10J C. Tara turns her eyes from the glowing arches towards the children as she speaks, keeping the lamp steady in one hand. Vihaan lowers his hands and listens; Ahana and Navya face Tara. Her staff still rests safely across at the cube wall. Background and fixed landmarks. Group on the paving beside the blue stall wall. For the bird shadow the optical order is Tara’s lamp, Vihaan’s hands, then the wall. Only 102.01 shows his hands raised. Keep the same wall for the listening and reaction views.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Tara looks up at the lit arches.
 [SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
-[DialogueCopy] You counted, checked and kept trying when the first switch failed. Those numbers have helped you bring a whole street back.
+[DialogueCopy] You counted, checked and kept trying when the street stayed dark the first time. Those numbers have helped you bring a whole street back.
 [PanelBoundary] END PANEL CH01-PAGE102-PANEL02
 [PanelIdentifier] PANEL CH01-PAGE102-PANEL03
 [PanelMetadata] SOURCE: Visual beat CH01 10J E Ahana sees a team
@@ -44,13 +46,14 @@
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE102-PANEL03; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 10J The street works | APPLIES TO: CH01-PAGE102-PANEL03; CH01 10J E
 [PanelMetadata] SOURCE: Visual beat CH01 10J C Vihaan makes the bird shadow | APPLIES TO: CH01-PAGE102-PANEL03; group positions and stall-wall background
-[PanelContextCopy] Moment and staging. Medium against the blue stall wall: Vihaan now raises both hands to form one bird shadow, Tara holds the lamp behind his hands to cast it, Ahana laughs and Navya relaxes. Tez watches at their feet. This is a new action after his line, with no invented dialogue.
+[PanelContextCopy] Referenced beat for continuity only. Medium against the blue stall wall: Vihaan now raises both hands to form one bird shadow, Tara holds the lamp behind his hands to cast it, Ahana laughs and Navya relaxes. Tez watches at their feet. Vihaan makes the shadow silently after Tez says “We fixed a street!”
 [PanelMetadata] SOURCE: Visual beat CH01 10J D Tara recognises their effort | APPLIES TO: CH01-PAGE102-PANEL03; Vihaan lowered hands and staff placement
-[PanelContextCopy] Moment and staging. Keep the group positions and blue stall-wall background specified in Visual beat CH01 10J C. Tara turns her eyes from the glowing arches towards the children as she speaks, keeping the lamp steady in one hand. Vihaan lowers his hands and listens; Ahana and Navya face Tara. Her staff still rests safely across at the cube wall.
+[PanelContextCopy] Referenced beat for continuity only. Keep the group positions and blue stall-wall background specified in Visual beat CH01 10J C. Tara turns her eyes from the glowing arches towards the children as she speaks, keeping the lamp steady in one hand. Vihaan lowers his hands and listens; Ahana and Navya face Tara. Her staff still rests safely across at the cube wall.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Vihaan’s hands are lowered. The shadow-bird pose has ended. Tara holds the lamp. Keep the group against the same blue wall.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 10J E Ahana sees a team
-[SceneInstruction] Moment and staging. Separate quiet reaction retaining the blue stall-wall setting specified in Visual beat CH01 10J C. Ahana looks from Vihaan to Navya with a small, reflective smile; they are no longer posing for the shadow. Tara watches the children, lamp still in her hand, and Tez stays beside them. The final caption belongs to Ahana’s thought, without adding a memory image or new spoken line.
+[SceneInstruction] Moment and staging. Separate quiet reaction retaining the blue stall-wall setting specified in Visual beat CH01 10J C. Ahana looks from Vihaan to Navya with a small, reflective smile; they are no longer posing for the shadow. Tara watches the children, lamp still in her hand, and Tez stays beside them. The final caption belongs to Ahana’s thought, without adding a memory image or new spoken line. Background and fixed landmarks. Group on the paving beside the blue stall wall. For the bird shadow the optical order is Tara’s lamp, Vihaan’s hands, then the wall. Only 102.01 shows his hands raised. Keep the same wall for the listening and reaction views.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Ahana looks at the others. A little while ago they were strangers at a junction. Now there is something here that works because all three of them helped.
 [PanelBoundary] END PANEL CH01-PAGE102-PANEL03

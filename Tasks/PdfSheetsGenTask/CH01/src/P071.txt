@@ -23,9 +23,10 @@
 [PanelContextCopy] Planning requirements. Show only after T1.4. The diagram explains the count; do not require the distant view to count every tile. V still concealed on inner rim.
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE071-PANEL01; frame mounting
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. 9 × 9 plan in Ahana’s sketchbook. Wall frame still empty.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08D A The square is planned
-[SceneInstruction] Moment and staging. Use one close view of Ahana’s ordinary pencil drawing the final 9 × 9 grid in her cream sketchbook. She supports it on a raised knee; Navya and Vihaan look at the plan and Tez sits beside her. The fixed frame behind is still empty. Both narration paragraphs belong to this planning image; the helper waits to build from it.
+[SceneInstruction] Moment and staging. Use one close view of Ahana’s ordinary pencil drawing the final 9 × 9 grid in her cream sketchbook. She supports it on a raised knee; Navya and Vihaan look at the plan and Tez sits beside her. The fixed frame behind is still empty. Both narration paragraphs belong to this planning image; the helper waits to build from it. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Nine multiplied by nine is eighty-one. That gives them nine rows, each with nine tiles. Nine is the square root of eighty-one.
 [CaptionCopy] Ahana sketches the arrangement before the helper begins placing the tiles.
@@ -48,11 +49,12 @@
 [PanelContextCopy] One flat grid of exactly 9 × 9 tiles, not overlapping stacks.
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE071-PANEL02; frame mounting
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Exactly one tile opening remains in the mounted grid.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08E A The last row is checked
-[SceneInstruction] Moment and staging. Show the grid almost complete, with the last position still open. Ahana checks row ends against her sketch, Vihaan follows the count, Navya checks the fitted tiles without pressing unsupported glass. The helper supports the last tile just outside the gap. Reflections are not yet one completed moon.
+[SceneInstruction] Moment and staging. Show the grid almost complete, with the last position still open. Ahana checks row ends against her sketch, Vihaan follows the count, Navya checks the fitted tiles without pressing unsupported glass. The helper supports the last tile just outside the gap. Reflections are not yet one completed moon. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] She checks the row ends while Vihaan follows the total and Navya makes sure each tile sits flat.
+[CaptionCopy] Ahana checks the row ends while Vihaan follows the total and Navya makes sure each tile sits flat.
 [PanelBoundary] END PANEL CH01-PAGE071-PANEL02
 [PanelIdentifier] PANEL CH01-PAGE071-PANEL03
 [PanelMetadata] SOURCE: Visual beat CH01 08E B The full moon joins
@@ -65,9 +67,10 @@
 [PanelContextCopy] Planning requirements. Keep tile boundaries fine enough for one continuous reflection. Do not split or multiply the moon. The V remains obscured until the street arches later illuminate the rim.
 [PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE071-PANEL03; frame mounting
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D02. All 81 tiles installed. One whole reflected moon.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08E B The full moon joins
-[SceneInstruction] Moment and staging. Separate result image retaining the frame viewing angle specified under View in Scene CH01 08E: the final tile is seated and all 81 form the flat 9 × 9 grid. The helper’s hands are withdrawn. One continuous full moon appears; the children look at the joined reflection. Keep the V concealed on the rim.
+[SceneInstruction] Moment and staging. Separate result image retaining the frame viewing angle specified under View in Scene CH01 08E: the final tile is seated and all 81 form the flat 9 × 9 grid. The helper’s hands are withdrawn. One continuous full moon appears; the children look at the joined reflection. Keep the V concealed on the rim. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] When the last tile settles, the scattered reflections join into one full moon.
 [PanelBoundary] END PANEL CH01-PAGE071-PANEL03

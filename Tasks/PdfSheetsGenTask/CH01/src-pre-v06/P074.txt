@@ -1,0 +1,27 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 074
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Teaching block T1.5
+[SourceLocator] Cubes and cube roots
+[SceneInstruction] Production scope. Includes the 2-by-2-by-2 and 3-by-3-by-3 teaching models, powers and cube roots, Examples 15–16, all Try work and all eight Practice 1E questions. Retain both question and solution versions of the four-shape exercise and removed-corner cube.
+[PanelIdentifier] PANEL CH01-PAGE074-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.5 | 1.5 Cubes and Cube Roots
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE074-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[PrintLabel] Exact teaching text begins
+[MathSection] 1.5 Cubes and Cube Roots
+Our square tiles covered a flat surface. Now let’s build upwards too. We’ll find how much space a cube holds, then work backwards from that space to its side length. Start with small blocks, each 1 cm long, 1 cm wide and 1 cm high.
+Put 2 blocks along and 2 blocks across to make one layer. That layer contains 2 × 2 = 4 blocks. Stack 2 such layers:
+[Equation] 2 × 2 × 2 = 4 × 2 = 8 blocks
+[SmallCaption] Two layers make a cube
+[Production] Production note V11. Show a 2 by 2 layer of exactly four unit cubes, a second matching layer of four, and an assembled 2 by 2 by 2 cube. Use consistent labelled lower and upper layers. Show all three outer dimensions as 2 cm on the assembled cube. Identify a unit cube as 1 cm³. Hidden cubes still count; do not depict only the visible faces as the total. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+To cube a number, use three copies of it as factors. We call the result its cube and write a small raised 3:
+[Equation] 2³ = 2 × 2 × 2 = 8
+[Equation] 5³ = 5 × 5 × 5 = 25 × 5 = 125
+2³ means 2 × 2 × 2, not 2 × 3. Our cube has 8 blocks, not 6.
+Cubes of whole numbers are called perfect cubes. Cubing 1 to 10 gives 1, 8, 27, 64, 125, 216, 343, 512, 729 and 1000. Zero is a perfect cube too: 0³ = 0.
+The 2 cm cube has volume 2 × 2 × 2 = 8 cm³. cm³ means cubic centimetres: how many 1 cm by 1 cm by 1 cm cubes fit inside. A side is a length; volume counts the space inside the whole solid.
+On a calculator: use x³ if your calculator has it, or the power key to enter 5³. You should get 125. If needed, 5 × 5 × 5 does the same calculation. Check which expression is on the display, since calculator keys differ.
+[PanelBoundary] END PANEL CH01-PAGE074-PANEL01

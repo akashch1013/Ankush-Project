@@ -1,0 +1,87 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 029
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Master from Entry Court — location instructions | Applies to: Assigned beats of Scene CH01 04D
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 04D What the five lights mean
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lantern Street. Broad pale paving curves between blue-painted stall walls under tall indigo arches. From Entry Court, the lift is near-left and the timing/supply bench follows the right wall. Farther on the left is the mirror alcove, opposite the right-side cube plinth and final control. Food Street shutters close the far bend. The narrow moonline follows the paving’s physical right edge. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Medium beside the loaded cart facing towards the right-wall bench, with the far control board visible only as a distant landmark.
+[SceneInstruction] Cast and staging across the scene. Ahana looks towards the single lit indicator and asks Tara. Tara indicates the far board, then the box with a blue-and-gold lamp painted on its lid. Vihaan and Navya turn towards the right bench. The helper holds the cart handle ready to move. Tez stands beside Ahana.
+[SceneInstruction] Props and state progression. One blue-and-gold-lamp-marked supply box on the cart; no new standalone machine. LIFT white, other indicators dark. All five characters’ belongings remain with them; Tara has her staff again.
+[SceneInstruction] Planning requirements. Print the box description as caption; the painted lamp is an illustration, not an invented word label. The helper moves the cart specified under Props and state progression in Scene CH01 04D to the continuous right-wall bench specified under Setting in Scene CH01 04D.
+[PanelIdentifier] PANEL CH01-PAGE029-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 04D A Ahana notices the lights
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE029-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04D What the five lights mean | APPLIES TO: CH01-PAGE029-PANEL01; CH01 04D A
+[PanelContextCopy] View. Medium beside the loaded cart facing towards the right-wall bench, with the far control board visible only as a distant landmark.
+[PanelContextCopy] Cast and staging across the scene. Ahana looks towards the single lit indicator and asks Tara. Tara indicates the far board, then the box with a blue-and-gold lamp painted on its lid. Vihaan and Navya turn towards the right bench. The helper holds the cart handle ready to move. Tez stands beside Ahana.
+[PanelContextCopy] Props and state progression. One blue-and-gold-lamp-marked supply box on the cart; no new standalone machine. LIFT white, other indicators dark. All five characters’ belongings remain with them; Tara has her staff again.
+[PanelContextCopy] Planning requirements. Print the box description as caption; the painted lamp is an illustration, not an invented word label. The helper moves the cart specified under Props and state progression in Scene CH01 04D to the continuous right-wall bench specified under Setting in Scene CH01 04D.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04D A Ahana notices the lights
+[SceneInstruction] Moment and staging. From the street beside the cleared lift bay, Ahana looks down the lane to the readiness board and asks Tara. She keeps the portable lamp in her right hand, with her left indicating the distant board. Tara and the others face her; the helper has parked its cart clear of the route.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] What are those lights for?
+[PanelBoundary] END PANEL CH01-PAGE029-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE029-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 04D B Tara explains readiness
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE029-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04D What the five lights mean | APPLIES TO: CH01-PAGE029-PANEL02; CH01 04D B
+[PanelContextCopy] View. Medium beside the loaded cart facing towards the right-wall bench, with the far control board visible only as a distant landmark.
+[PanelContextCopy] Cast and staging across the scene. Ahana looks towards the single lit indicator and asks Tara. Tara indicates the far board, then the box with a blue-and-gold lamp painted on its lid. Vihaan and Navya turn towards the right bench. The helper holds the cart handle ready to move. Tez stands beside Ahana.
+[PanelContextCopy] Props and state progression. One blue-and-gold-lamp-marked supply box on the cart; no new standalone machine. LIFT white, other indicators dark. All five characters’ belongings remain with them; Tara has her staff again.
+[PanelContextCopy] Planning requirements. Print the box description as caption; the painted lamp is an illustration, not an invented word label. The helper moves the cart specified under Props and state progression in Scene CH01 04D to the continuous right-wall bench specified under Setting in Scene CH01 04D.
+[PanelMetadata] SOURCE: Visual beat CH01 04D A Ahana notices the lights | APPLIES TO: CH01-PAGE029-PANEL02; cart placement and Ahana lamp hand
+[PanelContextCopy] Moment and staging. From the street beside the cleared lift bay, Ahana looks down the lane to the readiness board and asks Tara. She keeps the portable lamp in her right hand, with her left indicating the distant board. Tara and the others face her; the helper has parked its cart clear of the route.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04D B Tara explains readiness
+[SceneInstruction] Moment and staging. Use a medium on Tara with the street background specified under Setting in Scene CH01 04D and the cart placement specified in Visual beat CH01 04D A. Her right hand holds the staff; her left indicates the board down the lane. She speaks the first line to Ahana.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] They show whether this street is ready.
+[PanelBoundary] END PANEL CH01-PAGE029-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE029-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 04D C Tara explains what must be secure
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE029-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04D What the five lights mean | APPLIES TO: CH01-PAGE029-PANEL03; CH01 04D C
+[PanelContextCopy] View. Medium beside the loaded cart facing towards the right-wall bench, with the far control board visible only as a distant landmark.
+[PanelContextCopy] Cast and staging across the scene. Ahana looks towards the single lit indicator and asks Tara. Tara indicates the far board, then the box with a blue-and-gold lamp painted on its lid. Vihaan and Navya turn towards the right bench. The helper holds the cart handle ready to move. Tez stands beside Ahana.
+[PanelContextCopy] Props and state progression. One blue-and-gold-lamp-marked supply box on the cart; no new standalone machine. LIFT white, other indicators dark. All five characters’ belongings remain with them; Tara has her staff again.
+[PanelContextCopy] Planning requirements. Print the box description as caption; the painted lamp is an illustration, not an invented word label. The helper moves the cart specified under Props and state progression in Scene CH01 04D to the continuous right-wall bench specified under Setting in Scene CH01 04D.
+[PanelMetadata] SOURCE: Visual beat CH01 04D B Tara explains readiness | APPLIES TO: CH01-PAGE029-PANEL03; camera crop and staff hand
+[PanelContextCopy] Moment and staging. Use a medium on Tara with the street background specified under Setting in Scene CH01 04D and the cart placement specified in Visual beat CH01 04D A. Her right hand holds the staff; her left indicates the board down the lane. She speaks the first line to Ahana.
+[PanelMetadata] SOURCE: Visual beat CH01 04D A Ahana notices the lights | APPLIES TO: CH01-PAGE029-PANEL03; Ahana lamp hand and character locations
+[PanelContextCopy] Moment and staging. From the street beside the cleared lift bay, Ahana looks down the lane to the readiness board and asks Tara. She keeps the portable lamp in her right hand, with her left indicating the distant board. Tara and the others face her; the helper has parked its cart clear of the route.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04D C Tara explains what must be secure
+[SceneInstruction] Moment and staging. Separate panel retaining the crop specified in Visual beat CH01 04D B and the character locations specified under Cast and staging in Scene CH01 04D. Tara lowers her indicating finger into an open palm and turns her gaze upward towards the dark arches as she explains the five systems and why loose parts matter. The children follow her gaze; the portable lamp remains in Ahana’s hand as specified in Visual beat CH01 04D A, and the staff remains in Tara’s hand as specified in Visual beat CH01 04D B. Keep the long dialogue readable in the later layout.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The lift, the moving lanterns, their supplies, the mirror and the cube lantern must all be in place before I send full power through the arches. Otherwise loose parts could move or fall when the lights come on.
+[PanelBoundary] END PANEL CH01-PAGE029-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE029-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 04D D The next box
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE029-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 04D What the five lights mean | APPLIES TO: CH01-PAGE029-PANEL04; CH01 04D D
+[PanelContextCopy] View. Medium beside the loaded cart facing towards the right-wall bench, with the far control board visible only as a distant landmark.
+[PanelContextCopy] Cast and staging across the scene. Ahana looks towards the single lit indicator and asks Tara. Tara indicates the far board, then the box with a blue-and-gold lamp painted on its lid. Vihaan and Navya turn towards the right bench. The helper holds the cart handle ready to move. Tez stands beside Ahana.
+[PanelContextCopy] Props and state progression. One blue-and-gold-lamp-marked supply box on the cart; no new standalone machine. LIFT white, other indicators dark. All five characters’ belongings remain with them; Tara has her staff again.
+[PanelContextCopy] Planning requirements. Print the box description as caption; the painted lamp is an illustration, not an invented word label. The helper moves the cart specified under Props and state progression in Scene CH01 04D to the continuous right-wall bench specified under Setting in Scene CH01 04D.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 04D D The next box
+[SceneInstruction] Moment and staging. Keep Tara beside the cart as specified under View and Cast and staging in Scene CH01 04D. She now points with her free left hand at the blue-and-gold lamp painted on the next box lid and turns to the helper for the instruction. The helper places its hands on the cart handle, ready to move. Ahana and the children look at the labelled lid. This action and dialogue share one new visual.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She points to the next box on the cart. A blue-and-gold lamp is painted on its lid.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] These belong to the moving lanterns. Bring them to that bench.
+[PanelBoundary] END PANEL CH01-PAGE029-PANEL04

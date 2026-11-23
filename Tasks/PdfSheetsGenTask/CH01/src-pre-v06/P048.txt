@@ -1,0 +1,70 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 048
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Sealed-Hook Rack, Right End — location instructions | Applies to: Assigned beats of Scene CH01 07A
+[ProductionContextSource] Carried forward from Scene CH01 07A — shared production instructions | Applies to: Assigned beats of Scene CH01 07A; Reference in Scene CH01 07A Four sealed cartons
+[ProductionContextCopy] Setting. Lantern Street sealed-hook rack. A brass rack rises above the right end of the pale right-wall workbench against the blue wall. Four sealed cartons stand under movable team cards. The rack’s right brass upright and bench edge remain visible in close-ups; the kit area is immediately to the left. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[ProductionContextCopy] View. Medium facing the brass rack at the right end of the bench specified under Setting in Scene CH01 07A, followed by a close seal view. The right brass upright and bench edge anchor both views.
+[ProductionContextSource] Carried forward from Scene CH01 07A — shared production instructions | Applies to: Assigned beats of Scene CH01 07A; Reference in Visual beat CH01 07A D Tara asks for the quick tests; Reference in Visual beat CH01 07A F Navya asks about leftovers
+[ProductionContextCopy] Cast and staging across the scene. The helper indicates the four cartons. Navya studies the movable team cards and addresses Tara and the others. Tara points to an intact quantity seal. Ahana has picked up the work lamp and holds it so the label and clip can be seen. Vihaan compares the four team sizes. Tez waits beside Ahana; distant crews continue fitting heads.
+[ProductionContextSource] Carried forward from Scene CH01 07A — shared production instructions | Applies to: Assigned beats of Scene CH01 07A
+[ProductionContextCopy] Props and state progression. Exactly four sealed cartons labelled 348 HOOKS, 355 HOOKS, 414 HOOKS and 525 HOOKS. Exactly four removable team cards: 4 WORKERS, 5 WORKERS, 9 WORKERS, 25 WORKERS. For this drawable wrong setup, arrange 5 above 348, 4 above 355, 25 above 414 and 9 above 525. All four initial pairings are wrong. The seals stay intact.
+[ProductionContextCopy] Planning requirements. This initial wrong permutation completes the staging without changing the source quantities. Do not show the final matching, expose loose hooks or reveal a V. The question leads to T1.3; all eleven divisibility tests remain in that teaching block.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE048-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 07A C Tara distinguishes trusted quantities
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE048-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE048-PANEL01; CH01 07A C
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07A C Tara distinguishes trusted quantities
+[SceneInstruction] Moment and staging. Use a closer view including Tara’s face, one intact seal and the card above it. Her staff is in her right hand; her free left finger indicates the printed quantity beneath the seal. She delivers the first line to the group, directing them away from unnecessary long divisions.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The quantities are printed beneath intact packing seals. They can trust those quantities, but not the loose team cards.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Look for a quick check before doing four long divisions.
+[PanelBoundary] END PANEL CH01-PAGE048-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE048-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 07A D Tara asks for the quick tests
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE048-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE048-PANEL02; CH01 07A D
+[PanelMetadata] SOURCE: Visual beat CH01 07A C Tara distinguishes trusted quantities | APPLIES TO: CH01-PAGE048-PANEL02; camera, Tara position and staff hand
+[PanelContextCopy] Moment and staging. Use a closer view including Tara’s face, one intact seal and the card above it. Her staff is in her right hand; her free left finger indicates the printed quantity beneath the seal. She delivers the first line to the group, directing them away from unnecessary long divisions.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07A D Tara asks for the quick tests
+[SceneInstruction] Moment and staging. Separate panel retaining the camera and Tara’s position specified in Visual beat CH01 07A C, and the other character locations specified under Cast and staging in Scene CH01 07A. Tara retracts the indicating finger into an open palm and looks towards Vihaan and Navya, eyebrows raised in invitation. The carton, seal, card, lamp and staff remain fixed. Do not display a solved pairing.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Which endings or digit sums can tell you that a number divides exactly?
+[PanelBoundary] END PANEL CH01-PAGE048-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE048-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 07A E Navya states the one to one rule
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE048-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE048-PANEL03; CH01 07A E
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07A E Navya states the one to one rule
+[SceneInstruction] Moment and staging. Use a medium of Navya and the whole card row. She indicates all four team cards with a flat hand as she speaks; Ahana keeps the lamp steady and Tara listens.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We need one carton for each team.
+[PanelBoundary] END PANEL CH01-PAGE048-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE048-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 07A F Navya asks about leftovers
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE048-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 07A Four sealed cartons | APPLIES TO: CH01-PAGE048-PANEL04; CH01 07A F
+[PanelMetadata] SOURCE: Visual beat CH01 07A E Navya states the one to one rule | APPLIES TO: CH01-PAGE048-PANEL04; medium framing, Navya position and source hand reference
+[PanelContextCopy] Moment and staging. Use a medium of Navya and the whole card row. She indicates all four team cards with a flat hand as she speaks; Ahana keeps the lamp steady and Tara listens.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 07A F Navya asks about leftovers
+[SceneInstruction] Moment and staging. Separate panel retaining the medium framing specified in Visual beat CH01 07A E. Navya changes her gaze from the team cards to the quantities and turns her free palm upwards towards the group. Retain Navya’s feet as staged in Visual beat CH01 07A E. Her non-gesturing hand hangs relaxed beside her hip, with naturally curved fingers, holding nothing and touching no card, carton or seal. Retain the other character locations specified under Cast and staging in Scene CH01 07A. Leave all four wrong pairings untouched before the lesson.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Which choices divide without leftovers?
+[PanelBoundary] END PANEL CH01-PAGE048-PANEL04

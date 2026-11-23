@@ -1,0 +1,50 @@
+{
+ "name": "CH01-P107-r2",
+ "created": "2026-11-23T18:50:40",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P107-1",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "cbb74f7f5f4f",
+   "refs": [
+    "item:P107-1"
+   ],
+   "instruction": "Ahana (the curly-haired girl with the navy backpack, left of centre, seen from behind) has the cream paper sleeve on her right side next to the brass lamp. Move the sleeve to her LEFT hand: her left arm hangs down at the left side of her body as we see her back (the side towards Tara), and her left hand holds the flat, plain cream paper sleeve against her left thigh, clearly visible above the bottom edge of the picture. Her right hand keeps only the brass lamp, exactly as it is now; no paper on her right side.",
+   "custom_id": "P107-1~fix~2"
+  },
+  {
+   "rid": "P107-2",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1024x1536",
+   "prompt_sha": "d402d057fd22",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P107-2~gen~2"
+  },
+  {
+   "rid": "P107-3",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "d9e575d067ab",
+   "refs": [
+    "BagroundGenTask/out/plates/M03-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P107-3~gen~2"
+  }
+ ],
+ "bytes": 4969372
+}

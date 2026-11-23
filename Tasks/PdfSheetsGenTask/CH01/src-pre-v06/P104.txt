@@ -1,0 +1,107 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 104
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Assigned beats of Scene CH01 11B
+[ProductionContextSource] Carried forward from Scene CH01 11A — referenced production instructions | Applies to: Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage
+[ProductionContextCopy] Setting. Lantern Street square-mirror recess. A shallow square brass frame sits just above paving in the far-left wall alcove, opposite the cube plinth. The rear wall is blue, the warm lamp is on the left, and a canopy gap admits moonlight. The padded tray and opaque crate stay outside the walking lane. The inner rim and paving seam remain fixed across views. Same full-moon night after the joint repair. Golden arch light fills Lantern Street; the moonline is continuous. Warm work lamps remain, with cool moonlight on roofs and the mirror. This repair does not restore Tez’s stripes or ring the Moon Bell.
+[ProductionContextCopy] Cast and staging across the scene. Ahana bends close without wiping the rim, then calls Tara and brings the paper sleeve from her backpack. Tez stays beside her. Vihaan and Navya approach from the plinth side. Tara places the lamp on stable paving beside the mirror and comes to inspect; the helper remains near the plinth.
+[ProductionContextSource] Carried forward from Scene CH01 11A — referenced production instructions | Applies to: Reference in Scene CH01 11B Tara recognises the signature; Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage
+[ProductionContextCopy] Props and state progression. First readable V scratched in the dusty inner brass rim. Mirror still 9 × 9 with unbroken tiles. The original dusty card remains inside its one paper sleeve; it is not a new clue card.
+[ProductionContextSource] Carried forward from Scene CH01 11B — shared production instructions | Applies to: Assigned beats of Scene CH01 11B; Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage; Reference in Visual beat CH01 11B E Ahana asks about the message
+[ProductionContextCopy] Setting. Lantern Street square-mirror recess. A shallow square brass frame sits just above paving in the far-left wall alcove, opposite the cube plinth. The rear wall is blue, the warm lamp is on the left, and a canopy gap admits moonlight. The padded tray and opaque crate stay outside the walking lane. The inner rim and paving seam remain fixed across views. Same full-moon night after the joint repair. Golden arch light fills Lantern Street; the moonline is continuous. Warm work lamps remain, with cool moonlight on roofs and the mirror. This repair does not restore Tez’s stripes or ring the Moon Bell.
+[ProductionContextSource] Carried forward from Scene CH01 11B — shared production instructions | Applies to: Assigned beats of Scene CH01 11B
+[ProductionContextCopy] View. Medium close of Tara between the rim and Ahana’s evidence sleeve. A sliver of restored street behind gives depth without revealing another location.
+[ProductionContextSource] Carried forward from Scene CH01 11B — shared production instructions | Applies to: Assigned beats of Scene CH01 11B; Reference in Visual beat CH01 11B B Navya asks about Veer; Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage
+[ProductionContextCopy] Cast and staging across the scene. Ahana holds the sleeve by its clean edges for comparison. Tara studies the dust, then the V, and speaks the name with recognition. Navya asks whether Tara knows him. Ahana asks about the deliberate message. Vihaan listens beside Navya. Tez stays close to Ahana, alert. The helper is outside this crop.
+[ProductionContextSource] Carried forward from Scene CH01 11B — shared production instructions | Applies to: Assigned beats of Scene CH01 11B; Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage
+[ProductionContextCopy] Props and state progression. V on the inner rim specified under Props and state progression in Scene CH01 11A; no mark is added to the tile surfaces. One evidence sleeve in Ahana’s hands. Lamp on stable paving. Tara’s staff still safely rests at the cube wall across the lane until she retrieves it before departure.
+[ProductionContextSource] Carried forward from Scene CH01 11B — shared production instructions | Applies to: Assigned beats of Scene CH01 11B
+[ProductionContextCopy] Planning requirements. Tara names Veer for the first time here. Do not show his face, childhood, workshop or motivation. Her line expresses an inference about his intent, not confirmed knowledge of his current location.
+[ProductionContextSource] Carried forward from Visual beat CH01 11B A — referenced staging | Applies to: Reference in Visual beat CH01 11B B Navya asks about Veer; Reference in Visual beat CH01 11B C Tara explains the signature; Reference in Visual beat CH01 11B D Tara distinguishes the fresh damage
+[ProductionContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE104-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 11B B Navya asks about Veer
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE104-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11B Tara recognises the signature | APPLIES TO: CH01-PAGE104-PANEL01; CH01 11B B
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL01; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL01; V on inner rim and single evidence sleeve
+[PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark | APPLIES TO: CH01-PAGE104-PANEL01; camera, Tara and Ahana positions, sleeve and lamp
+[PanelContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11B B Navya asks about Veer
+[SceneInstruction] Moment and staging. Retain the camera and Tara’s and Ahana’s positions specified in Visual beat CH01 11B A, and the other character locations specified under Cast and staging in Scene CH01 11B. Navya leans slightly towards Tara, eyebrows raised, one open hand at waist height. Tara turns her gaze to her; Ahana holds the sleeve steady and Vihaan listens.
+[SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: Navya asks.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] You know him?
+[PanelBoundary] END PANEL CH01-PAGE104-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE104-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 11B C Tara explains the signature
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE104-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11B Tara recognises the signature | APPLIES TO: CH01-PAGE104-PANEL02; CH01 11B C
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL02; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL02; V on inner rim and single evidence sleeve
+[PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark | APPLIES TO: CH01-PAGE104-PANEL02; medium camera and framing
+[PanelContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11B C Tara explains the signature
+[SceneInstruction] Moment and staging. Retain the medium camera and framing specified in Visual beat CH01 11B A. Tara indicates the V with one finger without touching it, gaze directed towards Navya, and gives the first sentence. Her other hand stays at her side; the evidence remains in Ahana’s hands.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara says.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] He signed things he made with that V.
+[PanelBoundary] END PANEL CH01-PAGE104-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE104-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 11B D Tara distinguishes the fresh damage
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE104-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11B Tara recognises the signature | APPLIES TO: CH01-PAGE104-PANEL03; CH01 11B D
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL03; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL03; V on inner rim and single evidence sleeve
+[PanelMetadata] SOURCE: Visual beat CH01 11B A Tara recognises the mark | APPLIES TO: CH01-PAGE104-PANEL03; camera, crop and Tara and Ahana locations
+[PanelContextCopy] Moment and staging. Medium close at the mirror. Ahana holds the sleeve by its clean edges, Tara looks between its dust and the V, then speaks the name with recognition. Her hands stay clear of the dusty surfaces; the portable lamp is on the paving and her staff remains at the cube wall.
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL03; V and dust state
+[PanelMetadata] SOURCE: Visual beat CH01 11B C Tara explains the signature | APPLIES TO: CH01-PAGE104-PANEL03; Tara non-pointing hand
+[PanelContextCopy] Her other hand stays at her side; the evidence remains in Ahana’s hands.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11B D Tara distinguishes the fresh damage
+[SceneInstruction] Moment and staging. Separate panel retaining the camera, crop and Tara’s and Ahana’s locations specified in Visual beat CH01 11B A, and the other character locations specified under Cast and staging in Scene CH01 11B. Tara withdraws her pointing finger into a slightly cupped palm and looks closely at the fresh scratch, her expression tightening. Retain the V and dust state specified under Props and state progression in Scene CH01 11A, the sleeve custody specified under Props and state progression in Scene CH01 11B, and the lighting specified under Setting in Scene CH01 11B. Her next dialogue belongs to this changed pose.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] This scratch is fresh. He has put his old mark on something he damaged.
+[PanelBoundary] END PANEL CH01-PAGE104-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE104-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 11B E Ahana asks about the message
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE104-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11B Tara recognises the signature | APPLIES TO: CH01-PAGE104-PANEL04; CH01 11B E
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL04; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL04; V on inner rim and single evidence sleeve
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11B E Ahana asks about the message
+[SceneInstruction] Moment and staging. Keep the alcove background specified under Setting in Scene CH01 11B. Ahana lifts her gaze from the sleeve to Tara and asks, holding the sleeve still in both hands. Tara turns towards her; Navya and Vihaan listen. The question is a new speaking beat.
+[SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana asks.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Does he want you to know?
+[PanelBoundary] END PANEL CH01-PAGE104-PANEL04
+[PanelIdentifier] PANEL CH01-PAGE104-PANEL05
+[PanelMetadata] SOURCE: Visual beat CH01 11B F Tara wants to hear his reason
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE104-PANEL05; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 11B Tara recognises the signature | APPLIES TO: CH01-PAGE104-PANEL05; CH01 11B F
+[PanelMetadata] SOURCE: Scene CH01 08A Broken patches of moonlight | APPLIES TO: CH01-PAGE104-PANEL05; frame mounting
+[PanelMetadata] SOURCE: Scene CH01 11A A mark in the mirror rim | APPLIES TO: CH01-PAGE104-PANEL05; V on inner rim and single evidence sleeve
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 11B F Tara wants to hear his reason
+[SceneInstruction] Moment and staging. Separate reaction and speaking image: Tara turns her head along the restored street, shoulders and feet staying beside the mirror. Her hands relax at her sides. Ahana and the children watch her. Do not show Veer, a flashback or a confirmed motive; the line remains Tara’s inference.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara looks along the restored street.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I think he does. But I want to hear why from him.
+[PanelBoundary] END PANEL CH01-PAGE104-PANEL05

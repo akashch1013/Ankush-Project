@@ -38,7 +38,7 @@ The first number in all three lists is 36, so LCM(4, 6, 9) = 36.
 [SourceLocator] End of teaching block T1.2A  •  Story resumes below
 ## Scene CH01 05D The first shared beat
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
-[SceneInstruction] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[SceneInstruction] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the stationary platform at its original mark.
 [SceneInstruction] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
 [SceneInstruction] Props and state progression. Exact lists: blue 4, 8, 12; gold 6, 12. Start card now 12. Platform at its initial mark; catch periods still 4 and 6.
 [SceneInstruction] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
@@ -47,15 +47,16 @@ The first number in all three lists is 36, so LCM(4, 6, 9) = 36.
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE033-PANEL03; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL03; CH01 05D A
-[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the stationary platform at its original mark.
 [PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
 [PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL03; beat lists, initial platform and unchanged catch periods
 [PanelContextCopy] Exact lists: blue 4, 8, 12; gold 6, 12. Platform at its initial mark; catch periods still 4 and 6.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Blue list 4, 8, 12 above gold list 6, 12. Align both final 12s in one column for Navya’s finger. Card still at 6. Bird stationary.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05D A Both lists contain twelve
-[SceneInstruction] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
+[SceneInstruction] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Vihaan writes the blue opening beats: 4, 8, 12. Navya writes the gold ones: 6, 12.
 [PanelBoundary] END PANEL CH01-PAGE033-PANEL03
@@ -64,17 +65,18 @@ The first number in all three lists is 36, so LCM(4, 6, 9) = 36.
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE033-PANEL04; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL04; CH01 05D B
-[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the stationary platform at its original mark.
 [PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
 [PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL04; beat lists, initial platform and unchanged catch periods
 [PanelContextCopy] Exact lists: blue 4, 8, 12; gold 6, 12. Platform at its initial mark; catch periods still 4 and 6.
 [PanelMetadata] SOURCE: Visual beat CH01 05D A Both lists contain twelve | APPLIES TO: CH01-PAGE033-PANEL04; Tara and Ahana locations; unchanged start card
-[PanelContextCopy] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
+[PanelContextCopy] Referenced beat for continuity only. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Blue list 4, 8, 12 above gold list 6, 12. Align both final 12s in one column for Navya’s finger. Card still at 6. Bird stationary.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05D B Navya identifies the shared number
-[SceneInstruction] Moment and staging. Medium at the bench specified under Setting in Scene CH01 05D: Navya places her finger beside 12 in each row, looks at the record and speaks. Vihaan watches the shared entries; Tara and Ahana retain the locations specified in Visual beat CH01 05D A.
+[SceneInstruction] Moment and staging. Medium at the bench specified under Setting in Scene CH01 05D: Navya places her finger beside 12 in each row, looks at the record and speaks. Vihaan watches the shared entries; Tara and Ahana retain the locations specified in Visual beat CH01 05D A. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth | Source speech attribution: she says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Twelve is on both lists.
@@ -84,19 +86,20 @@ The first number in all three lists is 36, so LCM(4, 6, 9) = 36.
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE033-PANEL05; scene instructions and assigned visual beat
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL05; CH01 05D C
-[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the platform reset at its mark.
+[PanelContextCopy] View. Overhead close of two written beat lists beside the start-card slot, then a medium of the stationary platform at its original mark.
 [PanelContextCopy] Cast and staging across the scene. Vihaan writes the blue sequence; Navya writes the gold sequence and identifies their first match. Ahana lights the writing. Tara starts the counter only after they set the card. Tez waits by the bench; the helper is nearby with its cart.
 [PanelContextCopy] Planning requirements. Show the shared twelfth beat on aligned exact strips if a visual comparison is used. Do not change the cycles to twelve.
 [PanelMetadata] SOURCE: Scene CH01 05D The first shared beat | APPLIES TO: CH01-PAGE033-PANEL05; beat lists, initial platform and unchanged catch periods
 [PanelContextCopy] Exact lists: blue 4, 8, 12; gold 6, 12. Platform at its initial mark; catch periods still 4 and 6.
 [PanelMetadata] SOURCE: Visual beat CH01 05D B Navya identifies the shared number | APPLIES TO: CH01-PAGE033-PANEL05; framing and Navya and Vihaan locations
-[PanelContextCopy] Moment and staging. Medium at the bench specified under Setting in Scene CH01 05D: Navya places her finger beside 12 in each row, looks at the record and speaks. Vihaan watches the shared entries; Tara and Ahana retain the locations specified in Visual beat CH01 05D A.
+[PanelContextCopy] Referenced beat for continuity only. Medium at the bench specified under Setting in Scene CH01 05D: Navya places her finger beside 12 in each row, looks at the record and speaks. Vihaan watches the shared entries; Tara and Ahana retain the locations specified in Visual beat CH01 05D A.
 [PanelMetadata] SOURCE: Visual beat CH01 05D A Both lists contain twelve | APPLIES TO: CH01-PAGE033-PANEL05; Tara and Ahana locations; unchanged start card
-[PanelContextCopy] Moment and staging. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
+[PanelContextCopy] Referenced beat for continuity only. Close on the shared working strip with Vihaan finishing the blue list and Navya finishing the gold list. Ahana lights the writing; Tara waits at the counter. The wrong start card has not yet been moved.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Blue list 4, 8, 12 above gold list 6, 12. Align both final 12s in one column for Navya’s finger. Card still at 6. Bird stationary.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 05D C Navya explains why it is first
-[SceneInstruction] Moment and staging. Separate panel retaining the framing and Navya’s and Vihaan’s locations specified in Visual beat CH01 05D B, and Tara’s and Ahana’s locations specified in Visual beat CH01 05D A. Navya moves her free hand from pointing at the entries to a small open palm towards the two catches and raises her gaze to the group. Her other hand keeps the strip steady. The bird and start card have not yet moved.
+[SceneInstruction] Moment and staging. Separate panel retaining the framing and Navya’s and Vihaan’s locations specified in Visual beat CH01 05D B, and Tara’s and Ahana’s locations specified in Visual beat CH01 05D A. Navya moves her free hand from pointing at the entries to a small open palm towards the two catches and raises her gaze to the group. Her other hand keeps the strip steady. The bird and start card have not yet moved. Background and fixed landmarks. At the left end of the right-wall workbench, the front lip is nearest camera; the bird rides the rail on that surface, the two catches beside its path and the timing strip anchored behind it. Children stand in the aisle along the near lip; keep feet and Tez on paving.
 [SceneInstruction] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] That is the first time they open together.

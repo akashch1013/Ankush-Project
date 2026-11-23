@@ -45,7 +45,7 @@ The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:
 [PanelMetadata] SOURCE: Companion inset Q04
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Companion inset Q04
-[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 11 in Teaching block T1.2B. Tez sits on four-pawed haunches beside an empty padded kit box, head tilted towards the reader. He holds no tool or food. Pale centre bench, blue wall and warm lamp; only empty kit boxes and the unsolved stock boxes appear. Avoid a three-lens/five-ring sample.
+[SceneInstruction] Production instruction. After the completed Now you try and Check your method following Example 11 in Teaching block T1.2B. Tez sits on four-pawed haunches beside an empty padded kit box, head tilted towards the reader. He holds no tool or food. Pale centre bench, blue wall and warm lamp; only empty kit boxes and the unsolved stock boxes appear. Avoid a three-lens/five-ring sample. Background for this inset. Use the centre section of that same right-wall bench. Near edge: work surface for the assigned board or padded kit. Stock boxes sit farther back against the blue wall. In a top view the near edge stays on the aisle side. Keep people working from that edge. Crop to the assigned character and nearby landmark. Keep the teaching example separate from the story equipment.
 [SceneInstruction] DO NOT PRINT — Speaker: Tez to the reader | Tail target: Tez’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] I like “nothing left over”. Especially at dinner.

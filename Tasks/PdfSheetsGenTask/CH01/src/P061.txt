@@ -18,9 +18,10 @@
 [PanelContextCopy] Props and state progression. All four cartons dispatched to the checked teams, seals intact at handover. Supplies are used by the crews after collection. SUPPLIES becomes white only once the supports are secure; LIFT and RHYTHM remain white. MIRROR and CUBE dark. Main arches still dark.
 [PanelContextCopy] Planning requirements. The interval between dispatch and the light appearing may use separate stills. Do not make the light respond merely to moving a card while physical supports remain loose.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Dispatch by the checked record: 348 → team 4, 355 → team 5, 414 → team 9, 525 → team 25. Original 25 card travels in the sleeve.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 07E A The crews take the cartons
-[SceneInstruction] Moment and staging. Show the helper handing the correctly assigned sealed cartons to the wooden crews. Ahana closes her backpack with the protected evidence inside and retrieves the lamp; Tara has her staff again. SUPPLIES is still dark at this handover.
+[SceneInstruction] Moment and staging. Show the helper handing the correctly assigned sealed cartons to the wooden crews. Ahana stands beside the clear handover route, her backpack closed over the protected sleeve and the retrieved lamp in her right hand; Tara has her staff again. SUPPLIES is still dark at this handover. Background and fixed landmarks. At the right end of the same bench, view the rack from the aisle. Work surface in front, sealed cartons at its rear, the team cards clipped directly above their respective carton positions. Keep rack order fixed when moving closer to a hand or face.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] The crews take the corrected supplies away.
 [PanelBoundary] END PANEL CH01-PAGE061-PANEL01
@@ -34,9 +35,10 @@
 [PanelContextCopy] Props and state progression. All four cartons dispatched to the checked teams, seals intact at handover. Supplies are used by the crews after collection. SUPPLIES becomes white only once the supports are secure; LIFT and RHYTHM remain white. MIRROR and CUBE dark. Main arches still dark.
 [PanelContextCopy] Planning requirements. The interval between dispatch and the light appearing may use separate stills. Do not make the light respond merely to moving a card while physical supports remain loose.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Right-wall board at cube end: LIFT, RHYTHM and SUPPLIES white. Remaining indicators dark. Arches dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 07E B The supports are secured and checked
-[SceneInstruction] Moment and staging. Later result view of secure lantern supports, with the real board in an accompanying insert if required: SUPPLIES now white alongside LIFT and RHYTHM. The main arches stay dark. Do not make a lamp turn on merely because a card was moved.
+[SceneInstruction] Moment and staging. Later result view of secure lantern supports, with the real board in an accompanying insert if required: SUPPLIES now white alongside LIFT and RHYTHM. The main arches stay dark. Do not make a lamp turn on merely because a card was moved. Background and fixed landmarks. Keep the repaired supports on the actual arches and the SUPPLIES indicator on the cube-end wall. Use the existing sightline down the street.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] Soon the lantern supports are secure, and SUPPLIES comes on.
 [PanelBoundary] END PANEL CH01-PAGE061-PANEL02

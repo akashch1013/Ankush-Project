@@ -1,0 +1,88 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 003
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextSource] Carried forward from Lantern Street Goods-Lift Bay and Controller — location instructions | Applies to: Assigned beats of Scene CH01 01C; Assigned beats of Scene CH01 01D
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+## Scene CH01 01C The knock in the lift bay
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] View. Street-side medium facing the recessed shaft in the left wall. Show the warm wall lamp above the blue-and-brass controller on the shaft’s right.
+[SceneInstruction] Cast and staging across the scene. Tara stands nearest the fixed lamp and turns it up with her left hand, staff upright in her right. Ahana stands beside the closed gate with her handheld lamp. Vihaan and Navya approach the controller on safe paving. Tez stays beside Ahana, clear of the gate swing.
+[SceneInstruction] Props and state progression. The empty single car is stopped at the street’s 0 mark. The brass safety gate is closed. Only the work lamp brightens; the main street remains dark.
+[SceneInstruction] Planning requirements. The tapping comes from below. Do not introduce a second car or let the children lean through the guard.
+[PanelIdentifier] PANEL CH01-PAGE003-PANEL01
+[PanelMetadata] SOURCE: Visual beat CH01 01C A The sound leads left
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE003-PANEL01; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 01C The knock in the lift bay | APPLIES TO: CH01-PAGE003-PANEL01; CH01 01C A
+[PanelContextCopy] View. Street-side medium facing the recessed shaft in the left wall. Show the warm wall lamp above the blue-and-brass controller on the shaft’s right.
+[PanelContextCopy] Cast and staging across the scene. Tara stands nearest the fixed lamp and turns it up with her left hand, staff upright in her right. Ahana stands beside the closed gate with her handheld lamp. Vihaan and Navya approach the controller on safe paving. Tez stays beside Ahana, clear of the gate swing.
+[PanelContextCopy] Props and state progression. The empty single car is stopped at the street’s 0 mark. The brass safety gate is closed. Only the work lamp brightens; the main street remains dark.
+[PanelContextCopy] Planning requirements. The tapping comes from below. Do not introduce a second car or let the children lean through the guard.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 01C A The sound leads left
+[SceneInstruction] Moment and staging. Freeze Tara with her left hand on the fixed lamp control and her staff in her right. Ahana and the others turn towards the shaft. The portable lamp stays with Ahana; the car and main street keep the states specified under Props and state progression in Scene CH01 01C.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The knock comes again. It is coming from a lift in the left wall. Tara turns up a fixed lamp beside it.
+[PanelBoundary] END PANEL CH01-PAGE003-PANEL01
+## Scene CH01 01D The helper below
+[SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[SceneInstruction] Setting. Lower store and upper street landing of the same Lantern Street goods lift. The first view looks down to the guarded −8 store with its warm lamp and timber edge. The single empty car stays above at street level 0. Tara’s speaking views are on the street paving beside the closed brass guard, blue-and-brass controller and fixed wall lamp; no character changes levels. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[SceneInstruction] View. Begin with a steep guarded view down to the lower store. Then cut back to a street-level medium beside the fixed lamp and controller for Tara’s explanation. For Visual beat CH01 01D C, retain the street-level camera and framing specified in Visual beat CH01 01D B.
+[SceneInstruction] Cast and staging across the scene. The broad wooden helper waits beside its cart on the guarded −8 landing, tapping the metal box. Tara and the children remain on safe street paving above. In the two street-level speaking images, Tara stands behind the children, staff in her right hand, with her left hand free to gesture. Ahana holds the lamp; Vihaan stands by the position strip, Navya by the slots and Tez behind their feet. The helper remains below and outside those street-level crops.
+[SceneInstruction] Props and state progression. The supply cart is entirely on the lower landing. The empty car remains above at 0 and need not be included in this downward crop. Show the −8 landing mark, the lower safety barrier, timber store edge and warm lamp.
+[SceneInstruction] Planning requirements. The helper view carries narration only. Tara is visible for both speaking beats, with each balloon tail at her mouth. Keep Tara’s position, framing and staff hand as specified in Visual beat CH01 01D B; apply the free-hand gesture, gaze and expression changes specified in Visual beat CH01 01D C. Preserve the helper’s painted eyes, wood grain, brass joints and separate wooden thumb.
+[PanelIdentifier] PANEL CH01-PAGE003-PANEL02
+[PanelMetadata] SOURCE: Visual beat CH01 01D A The helper at the lower store
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE003-PANEL02; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 01D The helper below | APPLIES TO: CH01-PAGE003-PANEL02; CH01 01D A
+[PanelContextCopy] Setting. Lower store and upper street landing of the same Lantern Street goods lift. The first view looks down to the guarded −8 store with its warm lamp and timber edge. The single empty car stays above at street level 0. Tara’s speaking views are on the street paving beside the closed brass guard, blue-and-brass controller and fixed wall lamp; no character changes levels. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[PanelContextCopy] Props and state progression. The supply cart is entirely on the lower landing. The empty car remains above at 0 and need not be included in this downward crop. Show the −8 landing mark, the lower safety barrier, timber store edge and warm lamp.
+[PanelMetadata] SOURCE: Scene CH01 01D The helper below | APPLIES TO: CH01-PAGE003-PANEL02; downward view
+[PanelContextCopy] Begin with a steep guarded view down to the lower store.
+[PanelMetadata] SOURCE: Scene CH01 01D The helper below | APPLIES TO: CH01-PAGE003-PANEL02; helper and cart at lower store
+[PanelContextCopy] The broad wooden helper waits beside its cart on the guarded −8 landing, tapping the metal box.
+[PanelMetadata] SOURCE: Scene CH01 01D The helper below | APPLIES TO: CH01-PAGE003-PANEL02; narration-only helper view
+[PanelContextCopy] The helper view carries narration only.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 01D A The helper at the lower store
+[SceneInstruction] Moment and staging. Look steeply down from behind the street guard. The helper alone is visible below, one hand poised against the metal box and the other at the cart. Tara and the children are above and outside this crop. This beat carries narration only.
+[PrintLabel] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Far below, the wooden helper in the blue waistcoat stands beside its cart of supplies. It is tapping a metal box to attract attention.
+[PanelBoundary] END PANEL CH01-PAGE003-PANEL02
+[PanelIdentifier] PANEL CH01-PAGE003-PANEL03
+[PanelMetadata] SOURCE: Visual beat CH01 01D B Tara explains the first part
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE003-PANEL03; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 01D The helper below | APPLIES TO: CH01-PAGE003-PANEL03; CH01 01D B
+[PanelContextCopy] Setting. Lower store and upper street landing of the same Lantern Street goods lift. The first view looks down to the guarded −8 store with its warm lamp and timber edge. The single empty car stays above at street level 0. Tara’s speaking views are on the street paving beside the closed brass guard, blue-and-brass controller and fixed wall lamp; no character changes levels. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[PanelContextCopy] Cast and staging across the scene. The broad wooden helper waits beside its cart on the guarded −8 landing, tapping the metal box. Tara and the children remain on safe street paving above. In the two street-level speaking images, Tara stands behind the children, staff in her right hand, with her left hand free to gesture. Ahana holds the lamp; Vihaan stands by the position strip, Navya by the slots and Tez behind their feet. The helper remains below and outside those street-level crops.
+[PanelContextCopy] Props and state progression. The supply cart is entirely on the lower landing. The empty car remains above at 0 and need not be included in this downward crop. Show the −8 landing mark, the lower safety barrier, timber store edge and warm lamp.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 01D B Tara explains the first part
+[SceneInstruction] Moment and staging. Cut back to a medium at street level: fixed wall lamp above the controller, closed brass gate to the left. Tara stands behind the children on safe paving, staff in her right hand; her left index finger indicates the lower store through the guard. Ahana stands nearest the gate with her lamp, Vihaan beside the strip, Navya beside the slots; Tez is behind their feet. Tara looks towards the children and speaks the first line. Her balloon tail points to her visible mouth. The source attribution “Tara explains.” is non-printing speaker metadata for this beat; it is not a caption or a new image.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth | Source speech attribution: Tara explains.
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That helper took the supplies down before the trouble began.
+[PanelBoundary] END PANEL CH01-PAGE003-PANEL03
+[PanelIdentifier] PANEL CH01-PAGE003-PANEL04
+[PanelMetadata] SOURCE: Visual beat CH01 01D C Tara explains the changed instructions
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Reading this manuscript | APPLIES TO: CH01-PAGE003-PANEL04; scene instructions and assigned visual beat
+[PanelMetadata] SOURCE: Scene CH01 01D The helper below | APPLIES TO: CH01-PAGE003-PANEL04; CH01 01D C
+[PanelContextCopy] Setting. Lower store and upper street landing of the same Lantern Street goods lift. The first view looks down to the guarded −8 store with its warm lamp and timber edge. The single empty car stays above at street level 0. Tara’s speaking views are on the street paving beside the closed brass guard, blue-and-brass controller and fixed wall lamp; no character changes levels. Same full-moon night in Mumbai. Warm fixed work lamps and the portable brass lamp make faces and hands readable; cool moonlight edges roofs and canopy gaps. Main lantern arches remain dark unless this scene explicitly changes them.
+[PanelContextCopy] Cast and staging across the scene. The broad wooden helper waits beside its cart on the guarded −8 landing, tapping the metal box. Tara and the children remain on safe street paving above. In the two street-level speaking images, Tara stands behind the children, staff in her right hand, with her left hand free to gesture. Ahana holds the lamp; Vihaan stands by the position strip, Navya by the slots and Tez behind their feet. The helper remains below and outside those street-level crops.
+[PanelContextCopy] Props and state progression. The supply cart is entirely on the lower landing. The empty car remains above at 0 and need not be included in this downward crop. Show the −8 landing mark, the lower safety barrier, timber store edge and warm lamp.
+[PanelContextCopy] Planning requirements. The helper view carries narration only. Tara is visible for both speaking beats, with each balloon tail at her mouth. Keep Tara’s position, framing and staff hand as specified in Visual beat CH01 01D B; apply the free-hand gesture, gaze and expression changes specified in Visual beat CH01 01D C. Preserve the helper’s painted eyes, wood grain, brass joints and separate wooden thumb.
+[PanelMetadata] SOURCE: Visual beat CH01 01D B Tara explains the first part | APPLIES TO: CH01-PAGE003-PANEL04; camera, crop, background, character positions and staff hand
+[PanelContextCopy] Moment and staging. Cut back to a medium at street level: fixed wall lamp above the controller, closed brass gate to the left. Tara stands behind the children on safe paving, staff in her right hand; her left index finger indicates the lower store through the guard. Ahana stands nearest the gate with her lamp, Vihaan beside the strip, Navya beside the slots; Tez is behind their feet. Tara looks towards the children and speaks the first line. Her balloon tail points to her visible mouth. The source attribution “Tara explains.” is non-printing speaker metadata for this beat; it is not a caption or a new image.
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+### Visual beat CH01 01D C Tara explains the changed instructions
+[SceneInstruction] Moment and staging. A separate panel retains the street-level camera, crop, background and character positions specified in Visual beat CH01 01D B. Tara keeps her feet and staff hand fixed; she changes her left hand from pointing down the shaft to an open palm towards the controller slots and turns her gaze to Navya. Her expression becomes more purposeful. Ahana, Vihaan, Navya and Tez hold their positions and props. Tara’s second balloon points to her visible mouth. Do not move her to the lower store or repeat the helper image.
+[SceneInstruction] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s mouth
+[PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Someone sent the empty lift back up and changed the return instructions. It has been waiting for us to put them right.
+[PanelBoundary] END PANEL CH01-PAGE003-PANEL04

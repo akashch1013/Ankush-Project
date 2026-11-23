@@ -6,6 +6,7 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.4 | APPLIES TO: CH01-PAGE068-PANEL01; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Proof √81 − √49 = 2. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [MathExample] 3 Evaluate
 (a) √100 (b) √144 (c) √81 − √49 (d) 3 + √36 + 4²

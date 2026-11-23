@@ -6,6 +6,7 @@
 [PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
 [PanelMetadata] SOURCE: Teaching block T1.5 | APPLIES TO: CH01-PAGE078-PANEL01; assigned teaching material
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Question shapes have blanks. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [MathExample] 5 Match each picture to an expression
 The diagrams are not drawn to scale. Fill the blanks using 64², 64³, √64 and ∛64. Use the area of a square and the volume of a cube to check your choices.
@@ -19,6 +20,7 @@ The diagrams are not drawn to scale. Fill the blanks using 64², 64³, √64 and
 [PanelMetadata] SOURCE: Production note V13 | APPLIES TO: CH01-PAGE078-PANEL02; four supplied shapes, givens, order and not-to-scale status
 [PanelContextCopy] Preserve left-to-right task order: square with area 64 cm² and side blank in cm; square with side 64 cm and area blank in cm²; cube with volume 64 cm³ and side blank in cm; cube with side 64 cm and volume blank in cm³. All shapes are not to scale.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Answers belong here. Keep native equations in their own fields. Maths within diagram directions supplies the illustration only.
 [PanelSection] ORIGINAL PANEL CONTENT
 [AnswerLead] Check your method
 Read what you are given and what you need in each picture:

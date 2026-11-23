@@ -2,7 +2,7 @@
 [ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
 [ProductionContextSource] Carried forward from Lantern Street Square Mirror Recess — location instructions | Applies to: Assigned beats of Scene CH01 08F
 [ProductionContextSource] Carried forward from Visual beat CH01 08B A — referenced staging | Applies to: Reference in Scene CH01 08F Still you; Reference in Visual beat CH01 08F A Ahana reassures Tez; Reference in Visual beat CH01 08F B Tez chooses to stay
-[ProductionContextCopy] Moment and staging. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
+[ProductionContextCopy] Referenced beat for continuity only. Low beside the padded tray, show Tez’s pale shoulder reflected in one loose tile and his head beginning to turn away, ears lowered. Ahana is beside him; she has set the lamp on stable paving. Navya studies the empty frame behind. The inventory caption belongs to the same tile setup.
 [ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
 ## Scene CH01 08F Still you
 [SourceLocator] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
@@ -25,11 +25,12 @@
 [PanelMetadata] SOURCE: Scene CH01 08F Still you | APPLIES TO: CH01-PAGE072-PANEL01; Tez and reflection state
 [PanelContextCopy] Tez retains the pale shoulder stripes shown in Visual beat CH01 08B A. The full moon has not become a crescent; this lower reflection angle may show Tez rather than the whole moon.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D03. Low reflection of Tez’s face, mounting fixed. Tez follows the supplied TEZ CHARACTER SHEET.png. Fade the two existing shoulder stripes nearest the neck on each flank to pale grey. Keep the other markings blue. Preserve the anatomical pattern in reverse views and mirror it in reflections, including after relighting.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08F A Ahana reassures Tez
-[SceneInstruction] Moment and staging. Low reflection view: Tez looks at his clear face in the mirror; Ahana crouches beside him, gaze soft, and speaks. Her closed sketchbook and lamp rest beside her. His shoulder stripes remain pale as shown in Visual beat CH01 08B A; he has not yet replied.
+[SceneInstruction] Moment and staging. Low reflection view: Tez looks at his clear face in the mirror; Ahana crouches beside him, gaze soft, and speaks. Her closed sketchbook and lamp rest beside her. His shoulder stripes remain pale as shown in Visual beat CH01 08B A; he has not yet replied. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
-[CaptionCopy] Tez looks again. His stripes are pale, but his face is clear in the mirror.
+[CaptionCopy] Tez looks again. The stripes on his shoulders are still pale, but his face is clear in the mirror.
 [SceneInstruction] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s mouth | Source speech attribution: Ahana says.
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Still you.
@@ -49,11 +50,12 @@
 [PanelMetadata] SOURCE: Scene CH01 08F Still you | APPLIES TO: CH01-PAGE072-PANEL02; Tez and reflection state
 [PanelContextCopy] Tez retains the pale shoulder stripes shown in Visual beat CH01 08B A. The full moon has not become a crescent; this lower reflection angle may show Tez rather than the whole moon.
 [PanelMetadata] SOURCE: Visual beat CH01 08F A Ahana reassures Tez | APPLIES TO: CH01-PAGE072-PANEL02; framing, character positions, lamp and sketchbook placements
-[PanelContextCopy] Moment and staging. Low reflection view: Tez looks at his clear face in the mirror; Ahana crouches beside him, gaze soft, and speaks. Her closed sketchbook and lamp rest beside her. His shoulder stripes remain pale as shown in Visual beat CH01 08B A; he has not yet replied.
+[PanelContextCopy] Referenced beat for continuity only. Low reflection view: Tez looks at his clear face in the mirror; Ahana crouches beside him, gaze soft, and speaks. Her closed sketchbook and lamp rest beside her. His shoulder stripes remain pale as shown in Visual beat CH01 08B A; he has not yet replied.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. S06-D03. Low reflection of Tez’s face, mounting fixed. Tez follows the supplied TEZ CHARACTER SHEET.png. Fade the two existing shoulder stripes nearest the neck on each flank to pale grey. Keep the other markings blue. Preserve the anatomical pattern in reverse views and mirror it in reflections, including after relighting.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08F B Tez chooses to stay
-[SceneInstruction] Moment and staging. Separate panel retaining the framing and Ahana’s and Tez’s positions specified in Visual beat CH01 08F A, and the other character locations specified under Cast and staging in Scene CH01 08F. Tez lifts his chin and ears slightly for his dignified reply, then holds his place beside Ahana. Ahana’s mouth relaxes into a small smile; she does not pull him towards her. Retain the repaired-mirror state specified under Props and state progression in Scene CH01 08F, the pale shoulder state shown in Visual beat CH01 08B A, and the sketchbook and lamp placements specified in Visual beat CH01 08F A.
+[SceneInstruction] Moment and staging. Separate panel retaining the framing and Ahana’s and Tez’s positions specified in Visual beat CH01 08F A, and the other character locations specified under Cast and staging in Scene CH01 08F. Tez lifts his chin and ears slightly for his dignified reply, then holds his place beside Ahana. Ahana’s mouth relaxes into a small smile; she does not pull him towards her. Retain the repaired-mirror state specified under Props and state progression in Scene CH01 08F, the pale shoulder state shown in Visual beat CH01 08B A, and the sketchbook and lamp placements specified in Visual beat CH01 08F A. Background and fixed landmarks. At the physical-left wall recess, keep the brass frame fixed just above the paving. The children work on its aisle side. For a low view use the paving seam and lower frame edge to locate the subject; adjacent tray and crate stay outside the walking route. The cube is across the lane.
 [SceneInstruction] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s mouth
 [PrintLabel] SPEECH BUBBLE TEXT — PRINT ONLY THIS
 [DialogueCopy] Obviously.
@@ -69,9 +71,10 @@
 [PanelMetadata] SOURCE: Lantern Street Cube Plinth, Handle and Moonline Joint | APPLIES TO: CH01-PAGE072-PANEL03; board wall and handle location
 [PanelContextCopy] A low square plinth under an indigo canopy stands opposite the mirror. The five-indicator wall control and large down-pull handle are on its right. One flat brass cover lies in the paving at the plinth’s front-right corner, over the moonline joint.
 [PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+NON-PRINTING • Current panel. Right-wall board at cube end: LIFT, RHYTHM, SUPPLIES and MIRROR white. Remaining indicators dark. Arches dark.
 [PanelSection] ORIGINAL PANEL CONTENT
 ### Visual beat CH01 08F C The fourth readiness light
-[SceneInstruction] Moment and staging. Board insert shows MIRROR newly white with LIFT, RHYTHM and SUPPLIES; only CUBE stays dark. This status follows the completed mirror and the emotional exchange.
+[SceneInstruction] Moment and staging. Board insert shows MIRROR newly white with LIFT, RHYTHM and SUPPLIES; only CUBE stays dark. This status follows the completed mirror and the emotional exchange. Background and fixed landmarks. Insert at the cube-end right wall. The indicator row is attached beside the plinth and handle. Keep a narrow rim of the blue wall around the board. The group’s previous workstation is elsewhere along the lane.
 [PrintLabel] CAPTION TEXT — PRINT ONLY THIS
 [CaptionCopy] MIRROR lights up. Only CUBE remains dark.
 [PanelBoundary] END PANEL CH01-PAGE072-PANEL03

@@ -1,0 +1,33 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 095
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE095-PANEL01
+[PanelMetadata] SOURCE: Teaching block R01 | 9 Work without a calculator
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE095-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 9 Work without a calculator
+Calculate (a) 13 + 2 × 5², (b) (2³ − 12) × 4 and (c) 6 − (10 − 4²).
+[AnswerLead] Check your method
+[Equation] (a) 13 + 2 × 5² = 13 + 2 × 25 = 13 + 50 = 63
+[Equation] (b) (2³ − 12) × 4 = (8 − 12) × 4 = (−4) × 4 = −16
+[Equation] (c) 6 − (10 − 4²) = 6 − (10 − 16) = 6 − (−6) = 12
+In (c), working inside the brackets still means doing 4² before 10 − 16. The last step subtracts a negative, so 6 − (−6) = 6 + 6 = 12.
+[PanelBoundary] END PANEL CH01-PAGE095-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE095-PANEL02
+[PanelMetadata] SOURCE: Teaching block R01 | Self check
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block R01 | APPLIES TO: CH01-PAGE095-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathSubsection] Self check
+Use your Revision answers to fill this checklist. Count each listed part once. For Question 5, count each complete set of divisibility decisions as one part. A score points you towards what to revisit; it is not a label for how good you are at maths.
+| What to check | Revision questions | Your score |
+| Operations on positive and negative integers | 1(a–d), 2(a–f) | ___ / 10 |
+| HCF and LCM | 3, 4(a–b) | ___ / 3 |
+| Divisibility tests | 5(a–b), 6 | ___ / 3 |
+| Squares, square roots, cubes and cube roots | 7(a–d), 8(a–d), 9(a–c) | ___ / 11 |
+| Total |  | ___ / 27 |
+[Production] Production note T08. Retain the four source assessment categories, their question mappings and maximum scores 10, 3, 3 and 11, total 27. Leave learner scores blank. The interpretation of Question 5 scoring must remain consistent with its two subparts. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelBoundary] END PANEL CH01-PAGE095-PANEL02

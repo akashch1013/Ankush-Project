@@ -1,0 +1,20 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 044
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE044-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | 7 Cars on a track
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE044-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 7 Cars on a track
+Three cars race around a circular track. Car A takes 50 seconds, Car B takes 60 seconds and Car C takes 40 seconds to complete one round. They start together at the same point at 10 a.m. At what time will they next meet?
+[AnswerLead] Check your method
+We need a waiting time that lets every car complete a whole number of laps. First look for a time that fits both the 50-second and 60-second laps:
+[Equation] Multiples of 50: 50, 100, 150, 200, 250, 300, …
+[Equation] Multiples of 60: 60, 120, 180, 240, 300, …
+Their first match is 300 seconds, so further shared returns come every 300 seconds. But 300 ÷ 40 = 7.5: the third car has not completed a whole number of laps. Try the next shared return:
+[Equation] 600 ÷ 50 = 12;   600 ÷ 60 = 10;   600 ÷ 40 = 15
+All three cars are back after 600 seconds. Convert that wait to minutes: 600 ÷ 60 = 10 minutes. Starting from 10 a.m., they next meet at 10:10 a.m.
+[PanelBoundary] END PANEL CH01-PAGE044-PANEL01
+[SourceLocator] End of teaching block T1.2B  •  Story resumes below

@@ -1,0 +1,30 @@
+[GraphicPageId] ChandRush Chapter 01 Manuscript — PAGE 042
+[ProductionContextTitle] NON-PRINTING PRODUCTION CONTEXT
+[ProductionContextEnd] END NON-PRINTING PRODUCTION CONTEXT
+[PanelIdentifier] PANEL CH01-PAGE042-PANEL01
+[PanelMetadata] SOURCE: Teaching block T1.2B | 4 Find the HCF
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE042-PANEL01; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 4 Find the HCF
+(a) 21, 28 and 35 (b) 16, 8 and 36 (c) 36, 60 and 90
+[AnswerLead] Check your method
+(a) Factors of 21: 1, 3, 7, 21. Of these, 1 and 7 also divide both 28 and 35. So HCF = 7.
+(b) Begin with the smallest number, 8: its factors are 1, 2, 4, 8. All divide 16, but only 1, 2 and 4 divide 36. So HCF = 4.
+(c) Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Those also dividing 60 are 1, 2, 3, 4, 6, 12. Of these, 1, 2, 3 and 6 divide 90. So HCF = 6.
+[PanelBoundary] END PANEL CH01-PAGE042-PANEL01
+[PanelIdentifier] PANEL CH01-PAGE042-PANEL02
+[PanelMetadata] SOURCE: Teaching block T1.2B | 5 Buying equal numbers of fruit
+[PanelSection] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelMetadata] SOURCE: Teaching block T1.2B | APPLIES TO: CH01-PAGE042-PANEL02; assigned teaching material
+[PanelBoundary] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelSection] ORIGINAL PANEL CONTENT
+[MathExample] 5 Buying equal numbers of fruit
+Oranges are sold in bags of 18 and apples in boxes of 24. Amy wants to buy the same number of oranges and apples. What is the least number of each fruit she can buy? Explain your answer.
+[AnswerLead] Check your method
+Whole bags give 18, 36, 54, 72, … oranges. Whole boxes give 24, 48, 72, … apples. The first equal total is 72.
+[Equation] 72 ÷ 18 = 4 bags of oranges
+[Equation] 72 ÷ 24 = 3 boxes of apples
+Amy buys 72 oranges and 72 apples, using 4 bags and 3 boxes.
+[PanelBoundary] END PANEL CH01-PAGE042-PANEL02

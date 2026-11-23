@@ -1,5 +1,8 @@
 # ChandRush art direction: A4 "Step Inside" (2026-11-22)
 
+> **2026-11-23 · User-approved look: B1 "Ledger Plate" (CH01 P039).** Reading text sits on calm light shapes (warm paper #F7F1E3 / ivory), never on dark glass or a busy scene; fonts, sizes and maths colours follow manual V09; the page's creativity goes into a border built from the location plate's materials (manual pp.15–16). Story pages use the same family with the location's own materials. Where this file (A4) disagrees, B1 + LESSONS.md win.
+
+
 This file governs how a page **looks**. `manual-v09.md` still governs type sizes, maths tagging and proofing.
 Kit: `design/kit.css`. Reference pages: `CH01/P005` (teaching opener) and `CH01/P039` (worked example plus "Now you try").
 Copy markup from their `index.html`. Archived looks: `design/archive-a3/` (A3 "Lantern Street": paper objects on a dark stage).
