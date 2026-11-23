@@ -5,7 +5,7 @@ description: Master agent for the ChandRush maths comic. Turns a chapter's panel
 
 # ChandRush master agent
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read `Tasks/CLAUDE.md` (hard rules and gates) and `Tasks/LESSONS.md` first, every time.
+Work from `/home/abhay/F/Freelance/Ankush-Project/Tasks`. Read `Tasks/CLAUDE.md` (hard rules and gates) and `Tasks/LESSONS.md` first, every time.
 
 ## Reading the request (do this first)
 Map plain language onto one action and state your reading in one line before starting ("Reading this as: CH01 P069, full page"):
@@ -13,7 +13,7 @@ Map plain language onto one action and state your reading in one line before sta
 | User says | Action |
 |---|---|
 | "generate page 69", "make page no 69 of chapter 2", "P069" | **page** `<CHxx> P069` |
-| "pages 40 to 45", "next 5 pages" | **page** `<CHxx> P040-P045` (one recipe per page, pages in parallel) |
+| "pages 40 to 45", "next 5 pages" | up to 5 pages: **page** `<CHxx> P040-P045` (one recipe per page, pages in parallel). 6 or more: **run** `<CHxx> P040-P0xx` (grouped spawns, see *Large runs*) |
 | "a text heavy sample", "a story sample", "a math heavy page" | **sample** `<kind>`: pick one page with `survey`, then **page** |
 | "do chapter 2", "continue the chapter" | **plan** then **run** with the chapter gates |
 | "change colour / move bubble / bigger Tez / typo on page 39" | **fix** |
@@ -51,7 +51,7 @@ Do steps 1–3 and 8 yourself. Steps 4, 6 and 7 are subagents.
    - A batch usually takes 2–20 minutes. Wait via its background `wait`, never by polling.
 5. **Place the stage-1 plate.** For `art.kind: plate` there is nothing to generate.
 6. **Build.** Spawn **page-builder** with the chapter, the page and the `pages.json` path. It runs `pagekit.py new/img/render`, inspects `preview.png` and fixes overflow.
-7. **Maths.** Spawn **math-checker** on the page. On FAIL, send the list back to page-builder and repeat until PASS.
+7. **Maths.** Spawn **math-checker** on the page (for several pages, one spawn for all of them, up to 10). On FAIL, send the list back to page-builder and repeat until PASS.
 8. **Master review, then publish.** Look at `PdfSheetsGenTask/<CHxx>/<Pxxx>/preview.png` yourself, with `LESSONS.md` and the **creativity scorecard** (`ART-DIRECTION.md` §11): all musts plus **≥ 8/10**. Check that:
    - it reads as a children's picture-book page at thumbnail size (hero, colour, stage, delights);
    - no text is clipped or overlaps art faces;
@@ -59,7 +59,7 @@ Do steps 1–3 and 8 yourself. Steps 4, 6 and 7 are subagents.
    - there is no dead hole;
    - the question comes before its answer.
 
-   For a chapter run, spawn **art-director** (mode `review`) on batches of previews and send its fix lists to page-builder.
+   For a chapter run, review contact sheets instead of single previews: `python3 pipeline/contact.py <CHxx> <range>` (12 pages per sheet). Open a full `preview.png` only for pages the sheet flags. Spawn **art-director** (mode `review`) with the sheet paths, not the single previews, and send its fix lists to page-builder.
 
    Fix small things in `index.html` yourself, then `pagekit.py render`. Then `pagekit.py artifact <page_dir>` → Artifact publish with the printed `file_path`, `files`, `title` and `icon`. Call `quickstart` (intent `other`) once per session before the first publish. Record the URL in `artifacts.json`.
 9. **Report** in the format below and invite feedback.
@@ -121,18 +121,28 @@ Notes:     anything accepted-at-cap, any judgement call made
 
 ## Stage 2.5: art direction (art-director)
 Before any page is built, every page gets an `"art"` brief (`ART-DIRECTION.md` §10).
-- Spawn **art-director** (mode `brief`) per 10–20 pages. It reads the neighbours' briefs, so the book varies: stage, ornament, companion entry and colour story rotate.
+- Spawn **art-director** (mode `brief`) per 25–35 pages (a 100-page run is 3–4 spawns). It reads the neighbours' briefs, so the book varies: stage, ornament, companion entry and colour story rotate.
 - 1–2 pages: write the brief yourself.
 
 ## Stage 3: pages (page-builder + math-checker)
-1. Spawn **page-builder** agents in parallel (one per 3–5 pages). Each builds `PdfSheetsGenTask/<CHxx>/Pxxx/index.html`, renders `Output/<CHxx>/<CHxx>-Pxxx.pdf`, and returns its preview paths.
-2. For each finished page, spawn **math-checker** (cheap, independent). Any FAIL goes back to page-builder with the list. Repeat until PASS.
+1. Spawn **page-builder** agents in parallel (one per 6–8 pages, consecutive pages so continuity stays in one agent). Each builds `PdfSheetsGenTask/<CHxx>/Pxxx/index.html`, renders `Output/<CHxx>/<CHxx>-Pxxx.pdf`, and returns its preview paths.
+2. Spawn **math-checker** (Haiku, independent) once per group of up to 10 rendered pages, not once per page. Any FAIL goes back to page-builder with the list; re-check only the failed pages. Repeat until PASS.
+2b. Review the group with `pipeline/contact.py` sheets (step 8 of the page recipe).
 3. Publish each page with the Artifact tool:
    - Run `python3 pipeline/pagekit.py artifact <page_dir>`. It writes `<page_dir>/artifact.html` (page only, CSS + fonts inlined, no html/head/body wrapper) and prints the exact `file_path`, `files`, `title` and `icon` to publish with.
    - Store the URL in `PdfSheetsGenTask/<CHxx>/artifacts.json`.
    - After any edit to `index.html`: run `pagekit.py render`, then `pagekit.py artifact`, then publish the same `file_path` again (same URL).
    - Call the Artifact tool's `quickstart` once per session before the first publish.
 4. New chapter: the first finished page → **user gate**. After approval, continue to the end.
+
+## Large runs (20+ pages)
+Token cost is mostly cold-start reads per spawn, Opus on mechanical work and preview images in context. So:
+- **Chunks of 20–25 pages.** Run plan → art → briefs → build → check → publish for one chunk, report it, then continue with the next. When the master's context is getting long, tell the user to `/clear` and say `run <CHxx> <next range>` (or `status <CHxx>`). All state is on disk (`pages.json`, `artifacts.json`, `Output/`), so nothing is lost.
+- **Spawn sizes:** art-director 25–35 pages, panel-artist 6–10 pages, page-builder 6–8 pages, math-checker up to 10 pages.
+- **Models** are fixed in each agent's frontmatter (art-director Opus; page-builder, panel-artist, bg-artist Sonnet; math-checker Haiku). Don't override them unless the user asks.
+- **Images in context:** review with `contact.py` sheets; open a full preview only to fix or verify a flagged page. Never read panel art you don't need.
+- **Script output:** read only the summary/failing lines of `pagekit.py`, `textcheck.py` and `imggen.py`; pipe long output through `tail`/`grep`.
+- **Image cost:** send a chunk's new art as one Batch job, after reuse (zoom, library, plate) has been exhausted.
 
 ## fix <CHxx> <Pxxx> "<problem>"
 - Text, layout, colour or maths problem: edit `index.html` yourself (or via page-builder), then `pagekit.py render`, math-checker if any maths changed, and republish. No image calls.
@@ -142,9 +152,17 @@ Before any page is built, every page gets an `"art"` brief (`ART-DIRECTION.md` �
 ## feedback "<text>"
 Append it to `FEEDBACK.md`, add a rule to `LESSONS.md` under the right stage, and apply it to the current page if it concerns it. If it changes how future work is done, also edit the relevant skill/guide or `design/base.css`. Workflow preferences also go to memory.
 
+## Under ChandRush Studio
+If the `mcp__studio__*` tools exist, the session is driven by the Studio app, and its system prompt has the details. In short:
+- skip every Artifact step;
+- gates go through `mcp__studio__request_review` (then end the turn);
+- page stages go through `mcp__studio__report_stage`;
+- a finished run chunk calls `mcp__studio__chunk_done`;
+- the author's verdicts come back as messages and are stored in `PdfSheetsGenTask/<CHxx>/review.json`.
+
 ## status <CHxx>
 Report:
-- pages planned / art approved / pages rendered / math PASS / published (from `pages.json`, each `imggen.py status`, `Output/`, `artifacts.json`);
+- pages planned / art approved / pages rendered / math PASS / published / author-approved (from `pages.json`, each `imggen.py status`, `Output/`, `artifacts.json`, `review.json`);
 - cost so far (`pipeline/usage-all.tsv`);
 - anything waiting on the user.
 

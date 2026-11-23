@@ -27,6 +27,7 @@ Tools are in `pipeline/` (each has `--help`):
 - `mathcheck.py`: exact equation check.
 - `textcheck.py`: manuscript text verbatim.
 - `render_pdf.py`: Firefox headless → 12×9 in PDF.
+- `contact.py`: low-res contact sheets of rendered previews (12 per sheet), for cheap review of many pages.
 
 ## Hard rules
 0. **Every page is art-directed: creative and aspirational for 11-year-olds, never kiddish.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (A3 "Lantern Street", matched to the location plates' palette, materials and painterly style: stage, ornament, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
@@ -54,6 +55,15 @@ A single page or a sample request has no gate before the art: it is the sample. 
 2. **Sample batch of the first 2 panels** (and stage-1 samples for a new chapter's backgrounds) → **wait for approval.**
 3. **First finished page PDF** → **wait for approval.** After that, run the rest of the chapter unattended.
 4. At the end, report: pages done, artifact links, `Output/` paths, the cost (`pipeline/usage-all.tsv`) and the accepted-at-cap list.
+
+### Running in ChandRush Studio
+When the `mcp__studio__*` tools are present you are driven by ChandRush Studio (`../studio/`, a desktop UI over this harness). Then:
+- there are no Artifacts: skip publishing; the author reviews pages in Studio;
+- call `mcp__studio__request_review` at every gate above (and for finished pages), then end your turn;
+- report page stages with `mcp__studio__report_stage`;
+- in a run chunk, call `mcp__studio__chunk_done` when it is finished.
+
+Review verdicts live in `PdfSheetsGenTask/<CHxx>/review.json`.
 
 ## Feedback
 When the user gives feedback (in chat or as artifact comments):
