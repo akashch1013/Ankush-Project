@@ -58,7 +58,8 @@
     "mac": {
       "target": "dmg"
     },
-    "artifactName": "ChandRush-Studio-${version}-${os}-${arch}.${ext}"
+    "artifactName": "ChandRush-Studio-${version}-${os}-${arch}.${ext}",
+    "publish": null
   },
   "author": {
     "name": "ChandRush Studio"
