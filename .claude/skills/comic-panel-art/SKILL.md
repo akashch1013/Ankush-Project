@@ -5,7 +5,7 @@ description: Stage 2 of the ChandRush comic pipeline. Makes the final letter-fre
 
 # Stage 2: final panel art
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read these first, in order:
+Work from `/home/abhay/F/Freelance/Ankush-Project/Tasks`. Read these first, in order:
 1. `LESSONS.md`: *All stages*, *Panel art*, *Maths*.
 2. `FInalChangesTask/PANEL-GUIDE.md`: binding. It covers references, sizes, the prompt skeleton, maths-in-art rules, CHECKS and the loop.
 3. The chapter's `PdfSheetsGenTask/<CHxx>/pages.json` (only your pages).

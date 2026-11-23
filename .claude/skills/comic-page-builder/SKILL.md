@@ -5,7 +5,7 @@ description: Stage 3 of the ChandRush comic pipeline. Builds a creative, aspirat
 
 # Stage 3: page sheets (creative build)
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read these first:
+Work from `/home/abhay/F/Freelance/Ankush-Project/Tasks`. Read these first:
 1. `LESSONS.md`: *All stages*, *Layout*, *Maths*.
 2. `PdfSheetsGenTask/design/ART-DIRECTION.md`: the book's look, the role→object code, the scorecard. **It governs.**
 3. The kit:

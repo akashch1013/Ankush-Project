@@ -7,14 +7,15 @@ Full procedure: skill **`comic-master`** (`/comic-master`). Read it before any c
 ## Start of every session (even a brand-new chat)
 1. Read this file, `LESSONS.md` (all of it, it is short) and the last 10 lines of `FEEDBACK.md`.
 2. Load the skill **`comic-master`**. It maps plain requests onto actions: "generate page 69" → the single-page recipe; "a text-heavy sample" → `survey`, then a page; fixes; feedback; status.
-3. Find where things stand: `PdfSheetsGenTask/*/artifacts.json` lists the published pages, and `Output/` holds the PDFs.
+3. Find where things stand: `python3 pipeline/setup_chapter.py scan` (which chapters the author has handed over, and whether each is set up or has a new version), `PdfSheetsGenTask/*/artifacts.json` lists the published pages, and `Output/` holds the PDFs.
 4. Say in one line how you read the request, then work to the end without asking, except at the gates below or on a manuscript maths error.
 
-Work from `Tasks/` (all paths here are relative to it). Use the subagents for stages 2–3 (`panel-artist`, `art-director`, `page-builder`, `math-checker`). Do the planning, the final visual review and the artifact publishing yourself.
+Work from `Tasks/` (all paths here are relative to it). Use the subagents for setup and stages 1–3 (`chapter-setup`, `bg-artist`, `panel-artist`, `art-director`, `page-builder`, `math-checker`). Do the planning, the final visual review and the artifact publishing yourself.
 
 ## The pipeline
 | Stage | Folder | Worker (fixed agent prompt in `../.claude/agents/`) | Output |
 |---|---|---|---|
+| −1 Setup | `Reference/<folder>/` (from the author) → `PdfSheetsGenTask/<CHxx>/chapter.json`, `src/`, `index.json`, `SETUP-REPORT.md` | `chapter-setup` (free, no images) | the manifest every agent reads: sources, page index, plates, location map, cast, status |
 | 0 Page plan | `PdfSheetsGenTask/<CHxx>/pages.json` | you | the contract for all stages |
 | 1 Backgrounds | `BagroundGenTask/` (CH01 `locgen.py`, `ch02/`, `ch03/`; new chapters `ch0N/` with `pipeline/imggen.py`) | `bg-artist` | empty location plates |
 | 2 Final panel art | `FInalChangesTask/<CHxx>/`, `FInalChangesTask/library/` | `panel-artist` | letter-free panels, vignettes, props |
@@ -22,11 +23,13 @@ Work from `Tasks/` (all paths here are relative to it). Use the subagents for st
 | 3 Page sheets | `PdfSheetsGenTask/<CHxx>/Pxxx/index.html` | `page-builder` + `math-checker` | HTML page → artifact + `Output/<CHxx>/<CHxx>-Pxxx.pdf` |
 
 Tools are in `pipeline/` (each has `--help`):
+- `setup_chapter.py`: scan / prep / check a chapter the author handed over (free).
 - `imggen.py`: Batch-API image jobs.
 - `pagekit.py`: new page, images, number lines, render, artifact file map.
 - `mathcheck.py`: exact equation check.
 - `textcheck.py`: manuscript text verbatim.
 - `render_pdf.py`: Firefox headless → 12×9 in PDF.
+- `contact.py`: low-res contact sheets of rendered previews (12 per sheet), for cheap review of many pages.
 
 ## Hard rules
 0. **Every page is art-directed: creative and aspirational for 11-year-olds, never kiddish.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (A3 "Lantern Street", matched to the location plates' palette, materials and painterly style: stage, ornament, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
@@ -50,10 +53,20 @@ Tools are in `pipeline/` (each has `--help`):
 A single page or a sample request has no gate before the art: it is the sample. Make it, publish it, report, and wait for feedback. The gates below apply to whole-chapter runs.
 
 ### Per new chapter
+0. The author drops the chapter folder into `Reference/` → **chapter-setup** runs (no gate, free). Its "Needs the author" items (manuscript maths errors, missing character sheets) go to the user and block only the pages they name.
 1. `pages.json` is done and the text check passes → continue (no gate).
 2. **Sample batch of the first 2 panels** (and stage-1 samples for a new chapter's backgrounds) → **wait for approval.**
 3. **First finished page PDF** → **wait for approval.** After that, run the rest of the chapter unattended.
 4. At the end, report: pages done, artifact links, `Output/` paths, the cost (`pipeline/usage-all.tsv`) and the accepted-at-cap list.
+
+### Running in ChandRush Studio
+When the `mcp__studio__*` tools are present you are driven by ChandRush Studio (`../studio/`, a desktop UI over this harness). Then:
+- there are no Artifacts: skip publishing; the author reviews pages in Studio;
+- call `mcp__studio__request_review` at every gate above (and for finished pages), then end your turn;
+- report page stages with `mcp__studio__report_stage`;
+- in a run chunk, call `mcp__studio__chunk_done` when it is finished.
+
+Review verdicts live in `PdfSheetsGenTask/<CHxx>/review.json`.
 
 ## Feedback
 When the user gives feedback (in chat or as artifact comments):

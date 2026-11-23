@@ -6,3 +6,4 @@ time	project	item	kind	via	text_in	image_in	output	est_usd
 2026-11-23T18:55:35	chandrush-ch01-panels	P107-1	fix	batch:CH01-P107-r2	245	1536	1372	0.0273
 2026-11-23T18:55:35	chandrush-ch01-panels	P107-2	gen	batch:CH01-P107-r2	1900	5208	1372	0.0462
 2026-11-23T18:55:35	chandrush-ch01-panels	P107-3	gen	batch:CH01-P107-r2	1963	5208	1372	0.0463
+2026-11-23T16:51:24	studio-imggen-smoke-test	TEST-1	gen	batch:smoke	72	0	134	0.0022

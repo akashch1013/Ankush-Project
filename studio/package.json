@@ -1,0 +1,74 @@
+{
+  "name": "chandrush-studio",
+  "version": "0.1.1",
+  "main": "out/main/index.js",
+  "scripts": {
+    "dev": "ELECTRON_DISABLE_SANDBOX=1 electron-vite dev",
+    "build": "electron-vite build",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "ELECTRON_RUN_AS_NODE=1 electron --test src/main/*.test.ts",
+    "start": "ELECTRON_DISABLE_SANDBOX=1 electron-vite preview",
+    "dist:linux": "node scripts/kit.mjs && electron-vite build && electron-builder --linux AppImage",
+    "dist:win": "node scripts/kit.mjs && electron-vite build && electron-builder --win nsis",
+    "kit": "node scripts/kit.mjs"
+  },
+  "description": "Desktop UI over the ChandRush comic pipeline (Claude Agent SDK)",
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "^0.3.330",
+    "chokidar": "^4.0.3",
+    "node-html-parser": "^9.0.7",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "electron": "^45.4.1",
+    "electron-builder": "^26.18.0",
+    "electron-vite": "^6.0.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  },
+  "productName": "ChandRush Studio",
+  "type": "module",
+  "private": true,
+  "build": {
+    "appId": "com.chandrush.studio",
+    "productName": "ChandRush Studio",
+    "files": [
+      "out/**",
+      "package.json",
+      "!node_modules/@anthropic-ai/claude-agent-sdk-*/**"
+    ],
+    "asarUnpack": [
+      "node_modules/@anthropic-ai/claude-agent-sdk/**"
+    ],
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Graphics",
+      "maintainer": "ChandRush Studio"
+    },
+    "win": {
+      "target": "nsis"
+    },
+    "mac": {
+      "target": "dmg"
+    },
+    "artifactName": "ChandRush-Studio-${version}-${os}-${arch}.${ext}",
+    "publish": null,
+    "extraResources": [
+      {
+        "from": "build/workspace",
+        "to": "workspace"
+      }
+    ]
+  },
+  "author": {
+    "name": "ChandRush Studio"
+  }
+}

@@ -8,10 +8,10 @@ Indian night fair. Your job is to make every page something an 11-year-old finds
 art and one or two surprises that belong to that page only, and nothing that looks made for little kids. Every page is in the **same family as the location images** (A3 "Lantern Street": the plates' palette, materials and painterly light). The page-builder executes your brief, so make it concrete.
 
 Read first, in order:
-1. /home/akasdh/Desktop/Projects/ComicAgent/Tasks/LESSONS.md (All stages, Layout)
-2. /home/akasdh/Desktop/Projects/ComicAgent/Tasks/PdfSheetsGenTask/design/ART-DIRECTION.md (your bible)
-3. View /home/akasdh/Desktop/Projects/ComicAgent/Tasks/PdfSheetsGenTask/design/kit-1.png and kit-2.png (everything the kit can draw)
-4. /home/akasdh/Desktop/Projects/ComicAgent/Tasks/FInalChangesTask/library/README.md (free art) and the plates list in `BagroundGenTask/out/plates/`
+1. /home/abhay/F/Freelance/Ankush-Project/Tasks/LESSONS.md (All stages, Layout)
+2. /home/abhay/F/Freelance/Ankush-Project/Tasks/PdfSheetsGenTask/design/ART-DIRECTION.md (your bible)
+3. View /home/abhay/F/Freelance/Ankush-Project/Tasks/PdfSheetsGenTask/design/kit-1.png and kit-2.png (everything the kit can draw)
+4. /home/abhay/F/Freelance/Ankush-Project/Tasks/FInalChangesTask/library/README.md (free art) and the plates list in `BagroundGenTask/out/plates/`
 5. Your pages in the pages.json the master named, each page's `src/Pxxx.txt`, and the `art` briefs of the 2 pages before and after (for variety)
 
 ## Mode `brief`
@@ -34,8 +34,12 @@ Never: invent printable words; print speaker names; ask for maths painted in art
 stage or ornament on two neighbouring pages; use anything on the ART-DIRECTION §1 banned (kiddish or off-world) list; make an image call.
 
 ## Mode `review`
-For each rendered `preview.png` you are given, score it with the scorecard (§11). Check the musts, then the 10
-points. Return per page:
+You are usually given contact sheets (`PdfSheetsGenTask/<CHxx>/contact/*.jpg`, up to 12 labelled pages each) rather
+than single previews. Score every page on the sheet; also judge the run as a whole (repeated stages, colour stories or
+companion entries next to each other). Open a page's full `<Pxxx>/preview.png` only when the thumbnail can't settle a
+must or you need exact positions for the fix list.
+
+For each page, score it with the scorecard (§11). Check the musts, then the 10 points. Return per page:
 - the score;
 - the misses;
 - an **exact fix list** for the page-builder, with selectors, positions in pt and kit classes.
