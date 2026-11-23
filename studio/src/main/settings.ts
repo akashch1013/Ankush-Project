@@ -12,7 +12,8 @@ const defaults: Settings = {
   python: process.platform === 'win32' ? 'python' : 'python3',
   claude: 'claude',
   firefox: 'firefox',
-  permissionMode: 'safe',
+  permissionMode: 'auto',
+  permsDefaultV: 2,
   chunkSize: 20,
   setupDone: false,
 };
@@ -25,6 +26,14 @@ export function getSettings(): Settings {
     cache = { ...defaults, ...JSON.parse(readFileSync(file(), 'utf8')) };
   } catch {
     cache = { ...defaults };
+  }
+  // v2: "Allow everything" became the default. Move older saved settings over once; the author can still pick another mode.
+  if ((cache!.permsDefaultV ?? 1) < 2) {
+    cache!.permissionMode = 'auto';
+    cache!.permsDefaultV = 2;
+    try {
+      writeFileSync(file(), JSON.stringify(cache, null, 2));
+    } catch {}
   }
   // First run from inside the repo (dev): studio/ sits next to Tasks/.
   if (!cache!.repo) {
