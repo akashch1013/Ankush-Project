@@ -31,7 +31,7 @@ npm run dist:linux   # or dist:win → dist/ChandRush-Studio-<version>-…
 
 `scripts/kit.mjs` runs first and copies the git-tracked workspace files into `build/workspace/`, which is packed into the app as `resources/workspace`. Generated plates, archives, `.env` files and the cost log are left out.
 
-Releases are built by `.github/workflows/studio-build.yml` when a `studio-v*` tag is pushed.
+Releases are built by `.github/workflows/studio-build.yml` on **every push to `master`** (every merged PR): it takes the next patch version after the newest `studio-v*` tag (or `package.json`'s version when that is higher, so bump it there for a minor or major release), builds Linux and Windows, tags `studio-vX.Y.Z` and publishes the release with generated notes. Pull requests only build. Pushing a `studio-vX.Y.Z` tag by hand still releases that exact version.
 
 ## Development & Testing
 
