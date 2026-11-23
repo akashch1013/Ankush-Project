@@ -7,33 +7,51 @@ import { getOpenAIKey } from './secrets';
 
 const file = () => join(app.getPath('userData'), 'settings.json');
 
+const PERMS_V = 3;
+
 const defaults: Settings = {
   repo: null,
   python: process.platform === 'win32' ? 'python' : 'python3',
   claude: 'claude',
   firefox: 'firefox',
   permissionMode: 'auto',
-  permsDefaultV: 2,
+  permsDefaultV: PERMS_V,
   chunkSize: 20,
   setupDone: false,
 };
 
 let cache: Settings | null = null;
 
+/**
+ * "Allow everything" is the default permission mode. Saved settings from before that (marker below PERMS_V) move
+ * over once; the author can still pick another mode afterwards. The marker is read from the SAVED file, not the
+ * merged settings: merging the defaults in first would always supply the current marker and skip the migration
+ * (the v2 bug, which left saved "safe" settings in place; v3 moves them over).
+ */
+export function migrateSettings(saved: Partial<Settings>): { settings: Settings; changed: boolean } {
+  const settings: Settings = { ...defaults, ...saved };
+  if ((saved.permsDefaultV ?? 1) >= PERMS_V) return { settings, changed: false };
+  settings.permissionMode = 'auto';
+  settings.permsDefaultV = PERMS_V;
+  return { settings, changed: true };
+}
+
 export function getSettings(): Settings {
   if (cache) return cache;
+  let saved: Partial<Settings> | null = null;
   try {
-    cache = { ...defaults, ...JSON.parse(readFileSync(file(), 'utf8')) };
-  } catch {
+    saved = JSON.parse(readFileSync(file(), 'utf8'));
+  } catch {}
+  if (saved) {
+    const m = migrateSettings(saved);
+    cache = m.settings;
+    if (m.changed) {
+      try {
+        writeFileSync(file(), JSON.stringify(cache, null, 2));
+      } catch {}
+    }
+  } else {
     cache = { ...defaults };
-  }
-  // v2: "Allow everything" became the default. Move older saved settings over once; the author can still pick another mode.
-  if ((cache!.permsDefaultV ?? 1) < 2) {
-    cache!.permissionMode = 'auto';
-    cache!.permsDefaultV = 2;
-    try {
-      writeFileSync(file(), JSON.stringify(cache, null, 2));
-    } catch {}
   }
   // First run from inside the repo (dev): studio/ sits next to Tasks/.
   if (!cache!.repo) {
