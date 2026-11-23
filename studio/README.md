@@ -1,23 +1,88 @@
 # ChandRush Studio
 
-A small desktop app over the ChandRush comic pipeline in `Tasks/`. It drives the same Claude Code harness through the [Claude Agent SDK](https://docs.claude.com/en/docs/claude-code/sdk), so `CLAUDE.md`, the `comic-master` skill, the subagents and your login all work unchanged. On top of that it adds a board, review gates and controls.
+A desktop UI application over the ChandRush comic pipeline in `Tasks/`. It drives the Claude Code harness through the [Claude Agent SDK](https://docs.claude.com/en/docs/claude-code/sdk), so `CLAUDE.md`, the `comic-master` skill, the subagents, and your local Claude login work seamlessly. On top of that, it provides a visual board, review gates, and live controls.
 
-## Run
+---
+
+## Building the AppImage from GitHub
+
+Follow these steps to clone the repository and build the Linux executable AppImage (`studio/dist/ChandRush Studio-0.1.0.AppImage`):
+
+### 1. Prerequisites
+Ensure your system has the following installed:
+- **Node.js**: v20 or higher (with `npm`)
+- **Git**
+- **Python 3** with Pillow (`pip install pillow`)
+- **Firefox** (required for `render_pdf.py`)
+- **Claude CLI**: installed and authenticated (`claude login`). Studio uses your local Claude CLI installation.
+
+### 2. Clone the Repository
+Clone the project repository from GitHub and switch to the project branch:
+
+```bash
+git clone https://github.com/akashch1013/Ankush-Project.git
+cd Ankush-Project
+git checkout token-efficient-runs
+```
+
+### 3. Navigate to the Studio Directory
 ```bash
 cd studio
-npm install
-npm run dev          # development (hot reload)
-npm run dist:linux   # dist/ChandRush Studio-<v>.AppImage
-npm test             # policy + inline-edit unit tests
 ```
-The first time it runs, it opens on **Settings**. Pick the repo folder that contains `Tasks/`, then check **Doctor**.
 
-**Needs:**
-- Python 3 + Pillow;
-- Firefox (`render_pdf.py`);
-- an installed, logged-in `claude` CLI. The bundled SDK binaries are left out of the package; Studio uses yours.
+### 4. Install Dependencies
+```bash
+npm install
+```
 
-For image batches, the OpenAI key must be in `Tasks/BagroundGenTask/.env` or in `OPENAI_API_KEY`.
+### 5. Build the Linux AppImage
+Run the distribution build script:
+```bash
+npm run dist:linux
+```
+
+This runs:
+1. `electron-vite build` to bundle main, preload, and React renderer assets.
+2. `electron-builder --linux AppImage` to package the app into a standalone AppImage.
+
+### 6. Output Binary Location
+Once the build completes, the executable AppImage will be generated at:
+```text
+/home/abhay/F/Freelance/Ankush-Project/studio/dist/ChandRush Studio-0.1.0.AppImage
+```
+(Relative to the repository root: `studio/dist/ChandRush Studio-0.1.0.AppImage`)
+
+### 7. Run the AppImage
+Grant executable permissions (if not already set) and run the AppImage:
+
+```bash
+chmod +x "dist/ChandRush Studio-0.1.0.AppImage"
+./"dist/ChandRush Studio-0.1.0.AppImage"
+```
+
+> **Note:** If running on a system or environment where unprivileged user namespaces are restricted, launch with `--no-sandbox`:
+> ```bash
+> ./"dist/ChandRush Studio-0.1.0.AppImage" --no-sandbox
+> ```
+
+---
+
+## Development & Testing
+
+```bash
+cd studio
+npm run dev          # development server with hot reload
+npm test             # run main-process policy and inline-edit unit tests
+npm run typecheck    # run TypeScript typechecking
+```
+
+The first time it runs, it opens on **Settings**. Select the repo folder containing `Tasks/`, then check **Doctor**.
+
+**Environment Requirements:**
+- Python 3 + Pillow
+- Firefox (`render_pdf.py`)
+- An installed, logged-in `claude` CLI. Bundled SDK binaries are excluded from the package; Studio uses your system's `claude`.
+- For image batches, set `OPENAI_API_KEY` in your environment or in `Tasks/BagroundGenTask/.env`.
 
 ## What it does
 - **Board.** Every manuscript page of a chapter, from `src/`, `pages.json`, previews, `Output/` PDFs and `review.json`. Each page carries a stage chip: in manuscript → planned → built → rendered → maths PASS → awaiting review → approved / changes. You can bulk-approve.
