@@ -3,6 +3,7 @@ import { existsSync, readFileSync, writeFileSync, mkdirSync, realpathSync } from
 import { homedir } from 'node:os';
 import { join, dirname, isAbsolute } from 'node:path';
 import type { Settings } from '@shared/types';
+import { getOpenAIKey } from './secrets';
 
 const file = () => join(app.getPath('userData'), 'settings.json');
 
@@ -13,6 +14,7 @@ const defaults: Settings = {
   firefox: 'firefox',
   permissionMode: 'safe',
   chunkSize: 20,
+  setupDone: false,
 };
 
 let cache: Settings | null = null;
@@ -46,7 +48,7 @@ export function tasksDir(): string | null {
 
 export function requireTasks(): string {
   const t = tasksDir();
-  if (!t || !existsSync(join(t, 'CLAUDE.md'))) throw new Error('Workspace not set: choose the repo folder (the one that contains Tasks/) in Settings.');
+  if (!t || !existsSync(join(t, 'CLAUDE.md'))) throw new Error('Workspace not set: create one or choose the folder that contains Tasks/ in Settings.');
   return t;
 }
 
@@ -63,10 +65,16 @@ export function claudeBin(): string | undefined {
   return undefined;
 }
 
-/** Environment for child processes: a custom Firefox path goes first on PATH (render_pdf.py runs `firefox`). */
+/**
+ * Environment for child processes: the OpenAI key saved in Studio becomes OPENAI_API_KEY (imggen.py reads it
+ * first), and a custom Firefox path goes first on PATH (render_pdf.py runs `firefox`).
+ */
 export function childEnv(): NodeJS.ProcessEnv {
+  const env: NodeJS.ProcessEnv = { ...process.env };
+  const key = getOpenAIKey();
+  if (key) env.OPENAI_API_KEY = key;
   const ff = getSettings().firefox;
   const sepc = process.platform === 'win32' ? ';' : ':';
-  if (ff && isAbsolute(ff)) return { ...process.env, PATH: `${dirname(ff)}${sepc}${process.env.PATH ?? ''}` };
-  return process.env;
+  if (ff && isAbsolute(ff)) env.PATH = `${dirname(ff)}${sepc}${process.env.PATH ?? ''}`;
+  return env;
 }

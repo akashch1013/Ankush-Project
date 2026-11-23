@@ -1,6 +1,6 @@
 import type {
   AgentEvent, ChapterState, DoctorCheck, InlineEdit, InlineSaveResult, RunAction, RunInfo, SessionDetail, SessionInfo,
-  Settings, ToolRunResult, WorkspaceState,
+  KeyStatus, Settings, ToolRunResult, WorkspaceState,
 } from '@shared/types';
 
 export interface Decision { page: string; status: 'approved' | 'changes'; note?: string }
@@ -11,6 +11,12 @@ interface StudioApi {
   'settings:save'(p: Partial<Settings>): Promise<Settings>;
   'settings:pickRepo'(): Promise<Settings | null>;
   'doctor:run'(): Promise<DoctorCheck[]>;
+  'key:status'(): Promise<KeyStatus>;
+  'key:save'(key: string): Promise<{ ok: boolean; error?: string; warning?: string; status?: KeyStatus }>;
+  'key:clear'(): Promise<KeyStatus>;
+  'workspace:info'(): Promise<{ available: boolean; version?: string; defaultPath: string }>;
+  'workspace:pickLocation'(): Promise<string | null>;
+  'workspace:create'(target: string): Promise<{ ok: boolean; error?: string; settings?: Settings }>;
   'file:read'(rel: string): Promise<string | null>;
   'file:open'(rel: string): Promise<string>;
   'file:reveal'(rel: string): Promise<void>;

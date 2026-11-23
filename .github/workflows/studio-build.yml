@@ -4,9 +4,9 @@ on:
   push:
     branches: [master]
     tags: ['studio-v*']
-    paths: ['studio/**', '.github/workflows/studio-build.yml']
+    paths: ['studio/**', '.claude/**', 'Tasks/pipeline/**', 'Tasks/*.md', '.github/workflows/studio-build.yml']
   pull_request:
-    paths: ['studio/**', '.github/workflows/studio-build.yml']
+    paths: ['studio/**', '.claude/**', 'Tasks/pipeline/**', 'Tasks/*.md', '.github/workflows/studio-build.yml']
   workflow_dispatch:
 
 permissions:
@@ -30,11 +30,9 @@ jobs:
         working-directory: studio
     steps:
       - uses: actions/checkout@v4
+        # Full checkout: scripts/kit.mjs bundles the pipeline, skills and references into the app.
         with:
           lfs: false
-          sparse-checkout: |
-            studio
-            .github
 
       - uses: actions/setup-node@v4
         with:

@@ -37,7 +37,7 @@ export function resolveIn(tasks: string, p: string): string {
 }
 
 function protectedPath(tasks: string, abs: string) {
-  return inside(abs, join(tasks, 'Reference')) || inside(abs, join(tasks, '..', 'Charactors'));
+  return inside(abs, join(tasks, 'Reference')) || inside(abs, join(tasks, 'Charactors')) || inside(abs, join(tasks, '..', 'Charactors'));
 }
 
 const isEnvFile = (p: string) => /(^|[\\/])\.env(\.[\w-]+)?$/.test(p);
@@ -59,6 +59,9 @@ export function hardRule(tool: string, input: Record<string, unknown>, tasks: st
     if (/--immediate-approved/.test(cmd)) return { kind: 'deny', reason: 'Immediate (non-batch) image calls are not allowed from Studio (rule 3).' };
     if (/(^|[\s'"=/])\.env\b/.test(cmd) && /\b(cat|less|more|head|tail|grep|source|sed|awk|cp|echo|printenv|env)\b|<\s*\S*\.env/.test(cmd)) {
       return { kind: 'deny', reason: 'The API key file is never read or printed (rule 8).' };
+    }
+    if (/\b(OPENAI_API_KEY|CHATGPT_API)\b|\/proc\/[^\s]*environ|(^|[;&|(]\s*)(env|printenv|export\s+-p|set|declare\s+-p?x?)\s*($|[;&|)>])|\bprintenv\b|os\.environ\b|process\.env\b/.test(cmd)) {
+      return { kind: 'deny', reason: 'The API key is in the environment and is never read or printed (rule 8).' };
     }
     if (/--quality\s+max\b/.test(cmd)) return { kind: 'deny', reason: 'Image quality "max" needs the author\'s approval (rule 3).' };
     if (/(Reference\/|Charactors)/.test(cmd) && /(\brm\b|\bmv\b|sed\s+-i|>\s*['"]?\S*(Reference\/|Charactors)|\btee\b[^|]*(Reference\/|Charactors))/.test(cmd)) {

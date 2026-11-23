@@ -1,6 +1,6 @@
 {
   "name": "chandrush-studio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "out/main/index.js",
   "scripts": {
     "dev": "ELECTRON_DISABLE_SANDBOX=1 electron-vite dev",
@@ -8,8 +8,9 @@
     "typecheck": "tsc --noEmit -p tsconfig.json",
     "test": "ELECTRON_RUN_AS_NODE=1 electron --test src/main/*.test.ts",
     "start": "ELECTRON_DISABLE_SANDBOX=1 electron-vite preview",
-    "dist:linux": "electron-vite build && electron-builder --linux AppImage",
-    "dist:win": "electron-vite build && electron-builder --win nsis"
+    "dist:linux": "node scripts/kit.mjs && electron-vite build && electron-builder --linux AppImage",
+    "dist:win": "node scripts/kit.mjs && electron-vite build && electron-builder --win nsis",
+    "kit": "node scripts/kit.mjs"
   },
   "description": "Desktop UI over the ChandRush comic pipeline (Claude Agent SDK)",
   "dependencies": {
@@ -59,7 +60,13 @@
       "target": "dmg"
     },
     "artifactName": "ChandRush-Studio-${version}-${os}-${arch}.${ext}",
-    "publish": null
+    "publish": null,
+    "extraResources": [
+      {
+        "from": "build/workspace",
+        "to": "workspace"
+      }
+    ]
   },
   "author": {
     "name": "ChandRush Studio"
