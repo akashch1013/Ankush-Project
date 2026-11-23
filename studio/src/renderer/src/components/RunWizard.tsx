@@ -96,7 +96,7 @@ export function RunWizard({ ws, initialChapter, close, started }: { ws: Workspac
           <div className="col gap">
             <p className="small muted">
               Pick the panelized manuscript (<code>CHxx-PANELIZED-MANUSCRIPT-Vxx.docx</code>), the location register and any reference images. They are copied into a new{' '}
-              <code>Tasks/Reference/&lt;folder&gt;/</code> (existing files are never overwritten), then the manuscript is split into pages (free).
+              <code>Tasks/Reference/&lt;folder&gt;/</code> (existing files are never overwritten), then the free setup prep runs and the setup agent prepares the chapter for the other agents.
             </p>
             <label>
               Folder name <input value={folder} placeholder="e.g. Chap4" onChange={(e) => setFolder(e.target.value)} />

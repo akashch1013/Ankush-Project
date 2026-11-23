@@ -1,4 +1,5 @@
-// New chapter: copy the author's files into a NEW Reference folder (never overwrite), then stage-0 prep.
+// New chapter: copy the author's files into a NEW Reference folder (never overwrite), then the free setup prep
+// (pipeline/setup_chapter.py). The caller then starts the chapter-setup agent for the judgement steps.
 import { copyFileSync, existsSync, mkdirSync, readdirSync } from 'node:fs';
 import { basename, join } from 'node:path';
 import { requireTasks } from './settings';
@@ -38,18 +39,16 @@ export async function uploadChapter(folderName: string, files: string[]): Promis
     copied.push(`Reference/${clean}/${basename(f)}`);
   }
   log.push(`Copied ${copied.length} file(s) to Reference/${clean}/`);
-  const prep = await prepChapter(chapter, `Reference/${clean}/${basename(ms)}`, docx.find((f) => /REGISTER/i.test(basename(f))) ? `Reference/${clean}/${basename(docx.find((f) => /REGISTER/i.test(basename(f)))!)}` : undefined);
+  const prep = await prepChapter(chapter, clean);
   log.push(...prep.map((r) => r.out.trim().split('\n').slice(-3).join('\n')));
   return { ok: prep.every((r) => r.code === 0), chapter, folder: `Reference/${clean}`, copied, log };
 }
 
-/** Stage-0 source prep (free): dump manuscript + register, split pages into src/. */
-export async function prepChapter(chapter: string, manuscript: string, register?: string): Promise<ToolRunResult[]> {
-  const out = `PdfSheetsGenTask/${chapter}`;
-  mkdirSync(join(requireTasks(), out), { recursive: true });
-  const results: ToolRunResult[] = [];
-  results.push(await runPipeline('textcheck.py', ['dump', manuscript, `${out}/manuscript.txt`], chapter));
-  if (register) results.push(await runPipeline('textcheck.py', ['dump', register, `${out}/register.txt`], chapter));
-  results.push(await runPipeline('textcheck.py', ['pages', manuscript, `${out}/src/`], chapter));
-  return results;
+/** Setup prep (free): dumps, src/ pages, page index, register + plates, cast, maths pre-scan, chapter.json. */
+export async function prepChapter(chapter: string, folder?: string): Promise<ToolRunResult[]> {
+  return [await runPipeline('setup_chapter.py', ['prep', folder ?? chapter], chapter, 180_000)];
 }
+
+/** Prompt for the master session that runs the chapter-setup agent (masters, locations, cast, maths triage). */
+export const setupPrompt = (chapter: string) =>
+  `/comic-master setup ${chapter}\n\nThe author just handed over ${chapter} in Studio. The free prep already ran. Spawn the chapter-setup agent, then call mcp__studio__request_review with its "Needs the author" items (or "setup complete") so the author sees them.`;

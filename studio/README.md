@@ -51,7 +51,7 @@ npm run typecheck    # run TypeScript typechecking
 ## What it does
 - **Board.** Every manuscript page of a chapter, from `src/`, `pages.json`, previews, `Output/` PDFs and `review.json`. Each page carries a stage chip: in manuscript → planned → built → rendered → maths PASS → awaiting review → approved / changes. You can bulk-approve.
 - **New run.**
-  - Upload a new chapter: the files are copied into a new `Tasks/Reference/<folder>/`, existing files are never overwritten, and the free stage-0 split runs.
+  - Upload a new chapter: the files are copied into a new `Tasks/Reference/<folder>/` (existing files are never overwritten). The free setup prep (`pipeline/setup_chapter.py`) runs, then a **Setup** session starts the `chapter-setup` agent. That agent maps masters and locations, checks the cast and triages the manuscript maths. Its questions for the author arrive as a review card.
   - Or pick an existing chapter, select pages and choose *full run*, *plan only* or *sample*.
   - Runs are cut into chunks (default 20 pages). Each chunk is a fresh master session started with `/comic-master run …`, and the next chunk starts automatically when the master calls `chunk_done`.
 - **Agent panel.** A live timeline of the master: text, tool calls, a subagent tree with per-agent stop, and Stop for the whole session. Sessions are saved and can be resumed. The **desk** session per chapter takes page fixes and feedback.

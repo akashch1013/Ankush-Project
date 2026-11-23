@@ -9,7 +9,7 @@ import { keyStatus, saveOpenAIKey, clearOpenAIKey } from './secrets';
 import { createWorkspace, defaultWorkspacePath, kitInfo } from './workspace';
 import { runCmd, runPipeline } from './tools';
 import { updatePage, logFeedback } from './review';
-import { uploadChapter, prepChapter } from './upload';
+import { uploadChapter, prepChapter, setupPrompt } from './upload';
 import { applyEditsToFile } from './inline';
 import { EDITOR_SCRIPT } from './editorScript';
 import * as agent from './agent';
@@ -190,12 +190,17 @@ function ipc() {
   h('upload:chapter', async (folder: string, files: string[]) => {
     const r = await uploadChapter(folder, files);
     pushState();
+    // the free prep ran; the chapter-setup agent does the judgement steps (masters, locations, cast, maths)
+    if (r.ok && r.chapter) {
+      const s = agent.createSession('desk', `Setup ${r.chapter}`, setupPrompt(r.chapter), r.chapter);
+      r.log.push(`Setup agent started (session "${s.title}"): it reports what it needs from you as a review card.`);
+    }
     return r;
   });
   h('chapter:prep', async (chapter: string) => {
     const ref = referenceChapters(requireTasks()).get(chapter);
     if (!ref?.manuscript) return [{ code: 1, out: `No manuscript found for ${chapter} in Reference/` }];
-    const r = await prepChapter(chapter, ref.manuscript, ref.register);
+    const r = await prepChapter(chapter, ref.dir.replace(/^Reference\//, ''));
     pushState();
     return r;
   });
