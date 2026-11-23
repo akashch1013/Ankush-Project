@@ -77,6 +77,13 @@ export interface Settings {
   firefox: string;
   permissionMode: PermissionPreset;
   chunkSize: number;
+  setupDone: boolean; // first-run setup (OpenAI key + workspace) finished or skipped
+}
+
+export interface KeyStatus {
+  saved: boolean; // a key is saved in Studio
+  source: 'studio' | 'env' | null; // where agents get a key from
+  hint?: string; // last 4 characters, e.g. …a1b2
 }
 
 export type PermissionPreset = 'ask' | 'safe' | 'auto';

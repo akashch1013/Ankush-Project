@@ -5,6 +5,8 @@ import { pathToFileURL, fileURLToPath } from 'node:url';
 import { getSettings, saveSettings, requireTasks, tasksDir } from './settings';
 import { workspaceState, watchWorkspace } from './state';
 import { runDoctor } from './doctor';
+import { keyStatus, saveOpenAIKey, clearOpenAIKey } from './secrets';
+import { createWorkspace, defaultWorkspacePath, kitInfo } from './workspace';
 import { runCmd, runPipeline } from './tools';
 import { updatePage, logFeedback } from './review';
 import { uploadChapter, prepChapter } from './upload';
@@ -120,6 +122,24 @@ function ipc() {
   });
   h('doctor:run', () => runDoctor());
 
+  // first-run setup: OpenAI key (never sent to the renderer) and a workspace from the bundled kit
+  h('key:status', () => keyStatus());
+  h('key:save', (key: string) => saveOpenAIKey(key));
+  h('key:clear', () => clearOpenAIKey());
+  h('workspace:info', () => ({ ...kitInfo(), defaultPath: defaultWorkspacePath() }));
+  h('workspace:pickLocation', async () => {
+    const r = await dialog.showOpenDialog(win!, { title: 'Choose where to create the ChandRush workspace', properties: ['openDirectory', 'createDirectory'] });
+    return r.canceled || !r.filePaths[0] ? null : r.filePaths[0];
+  });
+  h('workspace:create', async (target: string) => {
+    const r = await createWorkspace(target);
+    if (r.ok) {
+      watchWorkspace(pushState);
+      pushState();
+    }
+    return r;
+  });
+
   // files
   h('file:read', (rel: string) => {
     try {
@@ -130,7 +150,10 @@ function ipc() {
   });
   h('file:open', (rel: string) => shell.openPath(safeTasksPath(rel)));
   h('file:reveal', (rel: string) => shell.showItemInFolder(safeTasksPath(rel)));
-  h('git:diff', async (rels: string[]) => (await runCmd('git', ['diff', '--', ...rels], requireTasks())).out);
+  h('git:diff', async (rels: string[]) => {
+    const r = await runCmd('git', ['diff', '--', ...rels], requireTasks());
+    return r.code === 0 ? r.out : '(no change history: this workspace is not a git repo, or git is not installed)';
+  });
 
   // pages
   h('page:plan', (chapter: string, page: string) => planEntry(chapter, page));

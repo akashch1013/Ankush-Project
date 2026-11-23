@@ -2,6 +2,7 @@ import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { getSettings, tasksDir, claudeBin } from './settings';
 import { runCmd } from './tools';
+import { keyStatus } from './secrets';
 import type { DoctorCheck } from '@shared/types';
 
 export async function runDoctor(): Promise<DoctorCheck[]> {
@@ -10,7 +11,7 @@ export async function runDoctor(): Promise<DoctorCheck[]> {
   const checks: DoctorCheck[] = [];
 
   const ws = !!tasks && existsSync(join(tasks, 'CLAUDE.md'));
-  checks.push({ name: 'Workspace', ok: ws, detail: ws ? tasks! : 'Tasks/CLAUDE.md not found', fix: 'Settings → choose the repo folder that contains Tasks/.' });
+  checks.push({ name: 'Workspace', ok: ws, detail: ws ? tasks! : 'Tasks/CLAUDE.md not found', fix: 'Settings → create a workspace, or choose the folder that contains Tasks/.' });
 
   const py = await runCmd(s.python, ['-c', 'import sys, PIL; print(sys.version.split()[0], "PIL", PIL.__version__)']);
   checks.push({ name: 'Python 3 + Pillow', ok: py.code === 0, detail: py.out.trim() || 'not found', fix: `Install Python 3 and Pillow (pip install pillow), or set the Python path in Settings (now "${s.python}").` });
@@ -28,16 +29,15 @@ export async function runDoctor(): Promise<DoctorCheck[]> {
     checks.push({ name: 'Claude login', ok, detail: auth.out.trim().split('\n').slice(0, 3).join(' · ') || `exit ${auth.code}`, fix: 'Run `claude auth login` in a terminal.' });
   }
 
-  if (tasks) {
-    // Same lookup order as pipeline/imggen.py; only presence is checked, the value is never read.
-    const envVar = ['OPENAI_API_KEY', 'CHATGPT_API'].find((k) => !!process.env[k]);
-    const file = ['.env', 'BagroundGenTask/.env'].find((f) => existsSync(join(tasks, f)));
-    const ok = !!envVar || !!file;
+  {
+    // Same lookup order as pipeline/imggen.py; only presence is checked, the value is never shown.
+    const k = keyStatus();
+    const file = tasks ? ['.env', 'BagroundGenTask/.env'].find((f) => existsSync(join(tasks, f))) : undefined;
     checks.push({
       name: 'OpenAI key',
-      ok,
-      detail: envVar ? `${envVar} set in the environment (not read)` : file ? `Tasks/${file} present (not read)` : 'no OPENAI_API_KEY / CHATGPT_API and no Tasks/.env or Tasks/BagroundGenTask/.env',
-      fix: 'Needed for image batches only. Put CHATGPT_API=… in Tasks/BagroundGenTask/.env, or start Studio from a shell where OPENAI_API_KEY is exported.',
+      ok: k.source !== null || !!file,
+      detail: k.saved ? `saved in Studio (${k.hint})` : k.source === 'env' ? 'OPENAI_API_KEY / CHATGPT_API set in the environment' : file ? `Tasks/${file} present (not read)` : 'no key saved',
+      fix: 'Needed for image batches. Settings → OpenAI API key → paste your key.',
     });
   }
   checks.push({ name: 'Node (Electron)', ok: true, detail: `node ${process.versions.node} · electron ${process.versions.electron}` });

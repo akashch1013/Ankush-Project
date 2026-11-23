@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { Settings } from '@shared/types';
 import { api } from '../api';
+import { OpenAIKeyField, WorkspaceField } from './Setup';
 
 export function SettingsView() {
   const [s, setS] = useState<Settings | null>(null);
@@ -17,13 +18,14 @@ export function SettingsView() {
   return (
     <div className="settings col gap">
       <h2>Settings {saved && <span className="small muted">saved</span>}</h2>
-      <label>
-        Workspace (repo folder containing Tasks/)
-        <div className="row gap">
-          <input className="grow" value={s.repo ?? ''} readOnly />
-          <button onClick={async () => { const r = await api['settings:pickRepo'](); if (r) setS(r); }}>Choose…</button>
-        </div>
-      </label>
+      <div className="col gap">
+        <span className="muted">OpenAI API key (image generation)</span>
+        <OpenAIKeyField />
+      </div>
+      <div className="col gap">
+        <span className="muted">Workspace (the folder that contains Tasks/)</span>
+        <WorkspaceField settings={s} onChange={setS} />
+      </div>
       <label>
         Permissions for agent tool calls
         <select value={s.permissionMode} onChange={(e) => save({ permissionMode: e.target.value as Settings['permissionMode'] })}>

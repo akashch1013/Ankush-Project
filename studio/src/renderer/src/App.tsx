@@ -8,6 +8,8 @@ import { RunWizard } from './components/RunWizard';
 import { RulesView } from './components/RulesView';
 import { DoctorView } from './components/DoctorView';
 import { SettingsView } from './components/SettingsView';
+import { Setup } from './components/Setup';
+import { api } from './api';
 
 export function App() {
   const studio = useStudio();
@@ -18,6 +20,11 @@ export function App() {
   const [sessionId, setSessionId] = useState<string | null>(null);
   const [wizard, setWizard] = useState(false);
   const [agentOpen, setAgentOpen] = useState(true);
+  const [setup, setSetup] = useState<boolean | null>(null);
+
+  useEffect(() => {
+    api['settings:get']().then((s) => setSetup(!s.setupDone));
+  }, []);
 
   const chapter = useMemo(() => ws?.chapters.find((c) => c.id === chapterId) ?? null, [ws, chapterId]);
 
@@ -45,6 +52,9 @@ export function App() {
     setSessionId(id);
     setAgentOpen(true);
   };
+
+  if (setup === null) return null;
+  if (setup) return <Setup done={() => { setSetup(false); studio.refresh(); }} />;
 
   return (
     <div className={`app ${agentOpen ? 'with-agent' : ''}`}>

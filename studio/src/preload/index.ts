@@ -3,6 +3,7 @@ import { contextBridge, ipcRenderer, webUtils } from 'electron';
 const invoke = (ch: string) => (...a: unknown[]) => ipcRenderer.invoke(ch, ...a);
 const channels = [
   'state:get', 'settings:get', 'settings:save', 'settings:pickRepo', 'doctor:run',
+  'key:status', 'key:save', 'key:clear', 'workspace:info', 'workspace:pickLocation', 'workspace:create',
   'file:read', 'file:open', 'file:reveal', 'git:diff',
   'page:plan', 'page:imageItem', 'page:render', 'page:saveInline',
   'upload:pick', 'upload:chapter', 'chapter:prep', 'review:decide',

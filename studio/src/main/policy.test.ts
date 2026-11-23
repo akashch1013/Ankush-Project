@@ -21,6 +21,14 @@ test('api key and immediate calls are denied, batch submit is spend', () => {
   assert.equal(hardRule('Write', { file_path: 'FInalChangesTask/CH01/jobs.json', content: '{"quality": "max"}' }, T)?.kind, 'deny');
 });
 
+test('the key in the environment is never printed', () => {
+  for (const command of ['echo $OPENAI_API_KEY', 'printenv', 'env', 'env | grep sk', 'cat /proc/self/environ', 'python3 -c "import os; print(os.environ)"', 'ls && export -p'])
+    assert.equal(hardRule('Bash', { command }, T)?.kind, 'deny', command);
+  for (const command of ['set -e; python3 pipeline/pagekit.py render X', 'env FOO=1 python3 pipeline/contact.py x'])
+    assert.equal(hardRule('Bash', { command }, T), null, command);
+  assert.equal(hardRule('Edit', { file_path: '/repo/Tasks/Charactors/a.png' }, T)?.kind, 'deny');
+});
+
 test('pipeline-safe preset', () => {
   assert.equal(presetDecision('safe', 'Bash', { command: 'cd /repo/Tasks && python3 pipeline/pagekit.py render PdfSheetsGenTask/CH01/P039 2>&1 | tail -5' }, T), 'allow');
   assert.equal(presetDecision('safe', 'Bash', { command: 'python3 pipeline/textcheck.py survey PdfSheetsGenTask/CH02/src > PdfSheetsGenTask/CH02/survey.txt' }, T), 'allow');
