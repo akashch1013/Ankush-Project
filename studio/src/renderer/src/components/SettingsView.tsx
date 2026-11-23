@@ -29,9 +29,9 @@ export function SettingsView() {
       <label>
         Permissions for agent tool calls
         <select value={s.permissionMode} onChange={(e) => save({ permissionMode: e.target.value as Settings['permissionMode'] })}>
-          <option value="safe">Pipeline-safe auto (recommended): pipeline scripts and page files run without asking; anything else asks</option>
+          <option value="auto">Allow everything (default; still blocked: Reference/Charactors edits, API key, immediate calls)</option>
+          <option value="safe">Pipeline-safe auto: pipeline scripts and page files run without asking; anything else asks</option>
           <option value="ask">Ask for everything the CLI would prompt for</option>
-          <option value="auto">Allow everything (still blocked: Reference/Charactors edits, API key, immediate calls)</option>
         </select>
         <span className="small muted">Paid image batches always ask, in every mode.</span>
       </label>

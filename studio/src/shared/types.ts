@@ -76,6 +76,7 @@ export interface Settings {
   claude: string;
   firefox: string;
   permissionMode: PermissionPreset;
+  permsDefaultV?: number; // settings migration marker for the permission default
   chunkSize: number;
   setupDone: boolean; // first-run setup (OpenAI key + workspace) finished or skipped
 }
