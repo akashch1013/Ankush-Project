@@ -1,2 +1,3 @@
 time	project	item	kind	via	text_in	image_in	output	est_usd
 2026-11-22T08:24:20	chandrush-ch01-panels	V-TEZ-P039	gen	batch:CH01-P039-w1	1013	2220	1756	0.0378
+2026-11-23T16:51:24	studio-imggen-smoke-test	TEST-1	gen	batch:smoke	72	0	134	0.0022
