@@ -10,6 +10,8 @@ import { DoctorView } from './components/DoctorView';
 import { SettingsView } from './components/SettingsView';
 import { Setup } from './components/Setup';
 import { api } from './api';
+import { addTokens, fmtTokens, rateLimitActive, rateLimitLabel, rateLimitText, rateLimitUntil, tokenSum, zeroTokens } from '@shared/usage';
+import type { SessionInfo } from '@shared/types';
 
 export function App() {
   const studio = useStudio();
@@ -47,6 +49,16 @@ export function App() {
   const waiting = sessions.filter((s) => s.status === 'waiting').length;
   const running = sessions.filter((s) => s.status === 'running' || s.status === 'starting').length;
   const tokenCost = sessions.reduce((a, s) => a + s.costUsd, 0);
+  const tokens = sessions.reduce((a, s) => (s.tokens ? addTokens(a, s.tokens) : a), zeroTokens());
+  // The subscription limit is account-wide, so the newest report from any session is the current state.
+  const rateLimit = sessions.reduce<SessionInfo['rateLimit']>((a, s) => (s.rateLimit && (!a || s.rateLimit.at > a.at) ? s.rateLimit : a), undefined);
+  // Re-render when the warning expires, so the pill and the AgentPanel banner clear on their own.
+  const [, setTick] = useState(0);
+  useEffect(() => {
+    if (!rateLimitActive(rateLimit)) return;
+    const h = setTimeout(() => setTick((n) => n + 1), Math.min(rateLimitUntil(rateLimit!) - Date.now() + 1000, 2 ** 31 - 1));
+    return () => clearTimeout(h);
+  }, [rateLimit]);
 
   const openSession = (id: string) => {
     setSessionId(id);
@@ -94,8 +106,16 @@ export function App() {
           <div className="topstats">
             {running > 0 && <span className="pill run">{running} running</span>}
             {waiting > 0 && <span className="pill wait">{waiting} waiting for you</span>}
-            <span className="muted" title="Agent tokens (estimate) + image batches (usage-all.tsv)">
-              agents {fmtUsd(tokenCost)} · images {fmtUsd(ws?.imageCostUsd ?? 0)}
+            {rateLimitActive(rateLimit) && (
+              <span className={`pill ${rateLimit!.status === 'rejected' && !rateLimit!.overage ? 'limit' : 'wait'}`} title={rateLimitText(rateLimit!)}>
+                {rateLimitLabel(rateLimit!)}
+              </span>
+            )}
+            <span
+              className="muted"
+              title={`Agent tokens across all sessions (incl. subagents): input ${tokens.input.toLocaleString()} · cache read ${tokens.cacheRead.toLocaleString()} · cache write ${tokens.cacheWrite.toLocaleString()} · output ${tokens.output.toLocaleString()}\nAgent cost is an API-price estimate; image batches from usage-all.tsv`}
+            >
+              agents {fmtTokens(tokenSum(tokens))} tok · {fmtUsd(tokenCost)} · images {fmtUsd(ws?.imageCostUsd ?? 0)}
             </span>
             <button onClick={() => setWizard(true)} className="primary">
               New run

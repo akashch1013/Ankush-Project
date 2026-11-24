@@ -160,6 +160,8 @@ export interface SessionInfo {
   runId?: string;
   chunkIndex?: number;
   queued: string[];
+  tokens?: TokenUsage;
+  rateLimit?: RateLimitState;
 }
 
 export interface SessionDetail extends SessionInfo {
@@ -207,3 +209,21 @@ export type AgentEvent =
   | { type: 'timeline-update'; sessionId: string; item: TimelineItem }
   | { type: 'task'; sessionId: string; task: TaskInfo }
   | { type: 'run'; run: RunInfo };
+
+/** Agent tokens for a session, cumulative across all its turns and processes (from result.modelUsage; includes subagents). */
+export interface TokenUsage {
+  input: number;
+  output: number;
+  cacheRead: number;
+  cacheWrite: number;
+}
+
+/** Last subscription rate-limit state reported by the SDK (rate_limit_event). Times are epoch ms. */
+export interface RateLimitState {
+  status: 'allowed' | 'allowed_warning' | 'rejected';
+  resetsAt?: number;
+  type?: string;
+  utilization?: number;
+  overage?: boolean;
+  at: number;
+}
