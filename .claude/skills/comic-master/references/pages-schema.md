@@ -16,7 +16,7 @@
     {
       "page": "P001",
       "pattern": "M1 (optional starting grid from patterns.md)",
-      "theme": "stage-night (the kit stage class on .page)",
+      "theme": "a4 (kit class on .page; pagekit.py new --theme)",
       "title": "Exact heading if the page has one (teaching heading or story title from the manuscript)",
       "purpose": "story: … / teaching: … (one line, for the builder)",
       "beats": ["CH02 01A A", "CH02 01A B"],
@@ -55,22 +55,19 @@
          "answers_on_page": false}
       ],
       "asides": [{"speaker": "Tez", "text": "Exact side quote", "art": "library:V-TEZ-02"}],
-      "spot_art": [{"item": "V-TEZ-02", "kind": "vignette", "desc": "Tez sitting, paws together, sly grin, Lantern Street fragment"}],
+      "spot_art": [{"item": "V-TEZ-02", "kind": "vignette", "desc": "Tez sitting, paws together, sly grin"}],
       "notes": "anything the builder must know (continuity, what must not be shown yet)",
-      "art": {"idea": "…", "stage": "…", "ornament": "…", "hero": "…", "objects": {}, "illustrate": "…",
-              "companion": "…", "colour": "…", "delights": ["…"], "folio": "moonclock --t 0.364", "varies": "…"}
+      "art": {"idea": "…", "scene": {"plate": "…", "grade": "…", "mirror": false, "blank": [], "crop": "…"},
+              "panes": {"narration caption": "dark glass"}, "hero": "…", "illustrate": "…", "cast": "…",
+              "colour": "…", "delights": ["…"], "folio": "…", "varies": "…"}
     }
   ]
 }
 ```
 
 Rules:
-- `art` (top level of a page, not `panels[].art`) is the art-direction brief: see `PdfSheetsGenTask/design/ART-DIRECTION.md` §10. The art-director (or the master for 1–2 pages) writes it before the build.
-- `panels[].art.kind`:
-  - `new`: panel-artist makes item `art.item` in `FInalChangesTask/<CHxx>/`.
-  - `zoom`: a crop of another panel's art, made with CSS (free).
-  - `reuse`: an existing image.
-  - `plate`: the background plate alone (an empty location shot, free).
+- `art` (page level, not `panels[].art`) is the art-direction brief, fields per `PdfSheetsGenTask/design/ART-DIRECTION.md` §9. The art-director (or the master for 1–2 pages) writes it before the build.
+- `panels[].art.kind`: `new` (panel-artist makes `art.item` in `FInalChangesTask/<CHxx>/`) · `zoom` (CSS crop of another panel, free) · `reuse` (an existing image) · `plate` (the empty background plate alone, free).
 - Every string in `captions`, `bubbles[].text`, `teaching[].heading/text/questions` and `asides[].text` must pass `textcheck.py plan`. Copy them exactly. Split long caption groups only at paragraph breaks.
 - `equations` lists every equation the page will print. The builder tags each one with `data-math`, and the math-checker verifies them.
 - `reserve` areas are fractions of the panel. They must cover where the bubbles and captions will sit.
