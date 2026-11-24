@@ -68,6 +68,9 @@ h3 { margin: 0 0 6px; font-size: 13px; color: var(--brass2); text-transform: upp
 .pill { padding: 2px 8px; border-radius: 99px; font-size: 11px; }
 .pill.run { background: #17304d; color: #bcdcff; }
 .pill.wait { background: #4a3410; color: #ffd99a; animation: pulse 1.6s infinite; }
+.pill.limit { background: #3a1f20; color: #ffc9ca; border: 1px solid var(--bad); }
+.ratelimit { font-size: 11.5px; padding: 5px 8px; border-radius: 6px; margin-top: 6px; background: #4a3410; color: #ffd99a; }
+.ratelimit.rejected { background: #2a1313; color: #ffc9ca; }
 @keyframes pulse { 50% { opacity: .55; } }
 
 /* sidebar */

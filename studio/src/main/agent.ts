@@ -9,6 +9,7 @@ import { getSettings, requireTasks, claudeBin, childEnv } from './settings';
 import { hardRule, presetDecision } from './policy';
 import { setStatus, updatePage, logFeedback, today } from './review';
 import { runCmd } from './tools';
+import { UsageTracker, rateLimitFrom, rateLimitActive, rateLimitText, tokenSum, zeroTokens, fmtTokens } from '@shared/usage';
 import type { AgentEvent, GateRequest, PermissionRequest, RunAction, RunInfo, SessionDetail, SessionInfo, SessionKind, TaskInfo, TimelineItem } from '@shared/types';
 
 export const STUDIO_APPEND = `
@@ -78,13 +79,14 @@ class Session {
   private inbox: Inbox | null = null;
   private toolItems = new Map<string, TimelineItem>();
   private perms = new Map<string, (r: PermissionResult) => void>();
-  private baseCost = 0;
+  private usage: UsageTracker;
   private saveTimer: NodeJS.Timeout | null = null;
   onTurnEnd?: () => void;
   chunkDone = false;
 
   constructor(info: SessionInfo, timeline: TimelineItem[] = [], tasks: TaskInfo[] = []) {
     this.info = info;
+    this.usage = new UsageTracker({ tokens: info.tokens ?? zeroTokens(), costUsd: info.costUsd });
     this.timeline = timeline;
     tasks.forEach((t) => this.tasks.set(t.taskId, t));
     for (const it of timeline) if (it.tool) this.toolItems.set(it.tool.useId, it);
@@ -239,7 +241,6 @@ class Session {
         canUseTool: (toolName, input, opts) => this.permission(toolName, input, opts.signal),
       },
     });
-    this.baseCost = this.info.costUsd;
     this.pump(this.q);
   }
 
@@ -299,6 +300,7 @@ class Session {
   }
 
   private async pump(q: Query) {
+    this.usage.newProcess();
     try {
       for await (const m of q) this.handle(m);
     } catch (e) {
@@ -389,13 +391,28 @@ class Session {
       }
       case 'result': {
         const r = m as SDKMessage & { subtype: string; total_cost_usd?: number; result?: string; errors?: string[]; num_turns?: number };
-        this.info.costUsd = r.total_cost_usd ?? this.info.costUsd;
+        const tot = this.usage.onResult(m);
+        this.info.costUsd = tot.costUsd;
+        this.info.tokens = tot.tokens;
         if (r.subtype !== 'success') this.add({ type: 'error', text: `Turn ended: ${r.subtype}${r.errors?.length ? ` · ${r.errors.join('; ')}` : ''}` });
-        this.add({ type: 'result', cost: this.info.costUsd, text: `Turn done · ${r.num_turns ?? '?'} steps · session $${this.info.costUsd.toFixed(3)}` });
+        const t = tot.tokens;
+        const tok = `${fmtTokens(tokenSum(t))} tokens (in ${fmtTokens(t.input)} · cache read ${fmtTokens(t.cacheRead)} · cache write ${fmtTokens(t.cacheWrite)} · out ${fmtTokens(t.output)})`;
+        this.add({ type: 'result', cost: this.info.costUsd, text: `Turn done · ${r.num_turns ?? '?'} steps · session $${this.info.costUsd.toFixed(3)} · ${tok}` });
         this.busy = false;
         this.info.status = this.openGates().length ? 'waiting' : 'idle';
         this.publish();
         this.onTurnEnd?.();
+        break;
+      }
+      case 'rate_limit_event': {
+        const rl = rateLimitFrom(m.rate_limit_info);
+        if (!rl) break;
+        const prev = this.info.rateLimit;
+        this.info.rateLimit = rl;
+        if (rateLimitActive(rl) && (!rateLimitActive(prev) || prev!.status !== rl.status || prev!.overage !== rl.overage)) {
+          this.add({ type: rl.status === 'rejected' && !rl.overage ? 'error' : 'system', text: rateLimitText(rl) });
+        }
+        this.publish();
         break;
       }
       default:

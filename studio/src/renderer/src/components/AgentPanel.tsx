@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import type { SessionDetail, TaskInfo, TimelineItem } from '@shared/types';
 import { api } from '../api';
 import { fmtUsd, type useStudio } from '../store';
+import { fmtTokens, rateLimitActive, rateLimitText, tokenSum } from '@shared/usage';
 
 type Studio = ReturnType<typeof useStudio>;
 
@@ -155,6 +156,7 @@ function TaskTree({ tasks, sessionId }: { tasks: TaskInfo[]; sessionId: string }
           <b>{t.agent ?? 'agent'}</b>
           <span className="ellipsis grow muted">{t.summary ?? t.description}</span>
           <span className="small muted">
+            {t.tokens != null ? `${fmtTokens(t.tokens)} tok · ` : ''}
             {t.toolUses ?? 0} tools{t.lastTool && t.status === 'running' ? ` · ${t.lastTool}` : ''}
           </span>
           {t.status === 'running' && (
@@ -219,6 +221,14 @@ export function AgentPanel({ studio, sessionId, setSessionId, chapter }: { studi
             <span>{info.status}</span>
             <span className="muted">{info.model ?? ''}</span>
             <span className="muted">{fmtUsd(info.costUsd)}</span>
+            {info.tokens && (
+              <span
+                className="muted"
+                title={`input ${info.tokens.input.toLocaleString()} · cache read ${info.tokens.cacheRead.toLocaleString()} · cache write ${info.tokens.cacheWrite.toLocaleString()} · output ${info.tokens.output.toLocaleString()} (includes subagents)`}
+              >
+                {fmtTokens(tokenSum(info.tokens))} tok
+              </span>
+            )}
             <span className="grow" />
             <label className="muted">
               <input type="checkbox" checked={showSub} onChange={(e) => setShowSub(e.target.checked)} /> subagent steps
@@ -230,6 +240,7 @@ export function AgentPanel({ studio, sessionId, setSessionId, chapter }: { studi
             )}
           </div>
         )}
+        {info && rateLimitActive(info.rateLimit) && <div className={`ratelimit ${info.rateLimit!.overage ? 'overage' : info.rateLimit!.status}`}>{rateLimitText(info.rateLimit!)}</div>}
         {d && <TaskTree tasks={d.tasks} sessionId={d.id} />}
       </div>
 
