@@ -32,11 +32,13 @@ Don't regenerate these. To change one of them, use that chapter's own runner and
    - the register's master images from `Reference/<chapter>/`, converted as attached;
    - for dependent views, `item:<parent>` (makes waves).
 
-   Never attach spatial maps or diagram sheets (read them yourself), and never anything in `archive/`.
+   Never attach spatial maps or diagram sheets (read them yourself, once, when a record needs them), and never anything in `archive/`. Master images are attached by `refs`; you don't need to Read them to attach them. Read one only when you must judge something specific about it.
+   The briefs and the register are text: read only the records you are writing, never the whole `register.txt`.
 4. Run `check`, then `dry-run` one item and read it.
-5. **Sample batch**: the 2 most representative masters (`batch build ch0N-samples <ID> <ID>`, `submit`, `wait` in the background). Report them to the master and **stop for the user's approval**.
-6. Full run: `batch build ch0N-w1 --ready` → submit → wait, then QC. Then `--ready` again for the next wave (and the queued fixes). Repeat until every item is approved or accepted.
-7. QC: Read each plate, and `zoom` counts and inscriptions. Then:
+5. **Sample batch**: the 2 most representative masters (`batch build ch0N-samples <ID> <ID>`, `submit`, wait). Report them to the master and **stop for the user's approval**.
+6. Full run: `batch build ch0N-w1 --ready` → submit → wait, then QC.
+   **Waiting:** start ONE `python3 pipeline/imggen.py --ws BagroundGenTask/ch0N batch wait <name>` with `run_in_background`, then end your turn; its completion notification wakes you (it fetches the results itself). Never poll with `sleep`, `pgrep`, `until`, `timeout`, Monitor loops or repeated `batch status`. Then `--ready` again for the next wave (and the queued fixes). Repeat until every item is approved or accepted.
+7. QC from one QC/contact sheet of the batch's new plates: use the sheet the fetch prints if there is one, otherwise `montage -label '%t' BagroundGenTask/ch0N/out/<ID1>.png … -geometry 768x+8+8 -tile 3x BagroundGenTask/ch0N/batches/<batch>/qc.jpg` and Read that one file. `zoom` only plates that look wrong and the counts and inscriptions a CHECK needs. Never re-read an image already in your context; after a fix wave, QC only the re-generated/fixed plates. Then:
    - `qc <ID> pass --note "<verified>"`; or
    - `fix <ID> "<one precise change>"` (queued); or
    - revise the prompt + `qc <ID> fail --regen`.
