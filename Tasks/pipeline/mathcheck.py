@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """mathcheck.py: exact check of every equation on a ChandRush page.
 
-  python3 pipeline/mathcheck.py PAGE.html [--json]
+  python3 pipeline/mathcheck.py PAGE.html [--json] [-v|--verbose]
+
+Default output: every FAIL and UNTAGGED line plus one summary line; -v also lists every PASS.
 
 The page builder tags every printed mathematical statement with data-math, written in plain notation:
   <span data-math="4 × (−3) = −12">4 × (−3) = −12</span>
@@ -23,6 +25,7 @@ Exit 0 only if every tagged statement holds. It also lists UNTAGGED text that lo
 import ast
 import json
 import operator
+import os
 import re
 import sys
 from fractions import Fraction
@@ -170,12 +173,20 @@ def main():
     if "--json" in sys.argv:
         print(json.dumps({"tagged": results, "untagged": pg.loose, "failures": bad}, ensure_ascii=False, indent=1))
     else:
+        verbose = "-v" in sys.argv or "--verbose" in sys.argv
         for r in results:
-            print(f"{'PASS' if r['pass'] else 'FAIL'}  line {r['line']:>4}  {r['expr']}"
-                  + (f"   [{r['values']}]" if r["values"] else "") + (f"   <- {r['msg']}" if r["msg"] else ""))
+            if verbose or not r["pass"]:
+                print(f"{'PASS' if r['pass'] else 'FAIL'}  line {r['line']:>4}  {r['expr']}"
+                      + (f"   [{r['values']}]" if r["values"] else "") + (f"   <- {r['msg']}" if r["msg"] else ""))
         for l in pg.loose:
             print(f"UNTAGGED line {l['line']:>4}  {l['text'][:110]}")
-        print(f"\n{len(results)} tagged, {bad} failing, {len(pg.loose)} untagged equation-like text(s)")
+        if verbose:
+            print(f"\n{len(results)} tagged, {bad} failing, {len(pg.loose)} untagged equation-like text(s)")
+        else:
+            path = os.path.abspath(sys.argv[1])
+            name = os.path.basename(os.path.dirname(path)) if os.path.basename(path) == "index.html" else os.path.basename(path)
+            print(f"mathcheck {name}: {len(results) - bad} PASS, {bad} FAIL, {len(pg.loose)} UNTAGGED"
+                  f" ({len(results)} tagged)")
     sys.exit(1 if bad or not results and pg.loose else 0)
 
 
