@@ -36,6 +36,14 @@ export function SettingsView() {
         <span className="small muted">Paid image batches always ask, in every mode.</span>
       </label>
       <label>
+        Model for run and desk sessions
+        <select value={s.model} onChange={(e) => save({ model: e.target.value })}>
+          <option value="sonnet">Sonnet (default, uses far less of your Claude plan)</option>
+          <option value="opus">Opus (uses several times more of your plan)</option>
+        </select>
+        <span className="small muted">Sessions run at medium effort. Quick sessions always use Sonnet.</span>
+      </label>
+      <label>
         Default pages per run session
         <input type="number" min={1} max={35} value={s.chunkSize} onChange={(e) => save({ chunkSize: +e.target.value || 20 })} />
       </label>
@@ -44,7 +52,7 @@ export function SettingsView() {
       </label>
       <label>
         Claude Code CLI <input value={s.claude} onChange={(e) => setS({ ...s, claude: e.target.value })} onBlur={() => save({ claude: s.claude })} />
-        <span className="small muted">“claude” finds the CLI on PATH or in ~/.local/bin (your login and settings). Give a full path to use a specific install.</span>
+        <span className="small muted">“claude” finds the CLI on PATH or in ~/.claude/local or ~/.local/bin and uses your login. Your own ~/.claude settings, plugins, personal skills and claude.ai connectors are not loaded (that saves tokens). Give a full path to use a specific install.</span>
       </label>
       <label>
         Firefox <input value={s.firefox} onChange={(e) => setS({ ...s, firefox: e.target.value })} onBlur={() => save({ firefox: s.firefox })} />

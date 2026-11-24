@@ -78,6 +78,7 @@ export interface Settings {
   permissionMode: PermissionPreset;
   permsDefaultV?: number; // settings migration marker for the permission default
   chunkSize: number;
+  model: string; // model for run/desk sessions (quick sessions always use sonnet)
   setupDone: boolean; // first-run setup (OpenAI key + workspace) finished or skipped
 }
 
