@@ -11,13 +11,14 @@ A workspace (--ws DIR) holds:
   usage.tsv         every paid call with estimated USD (also appended to Tasks/pipeline/usage-all.tsv)
 
 Commands (run from anywhere):
-  status                              table of items: wave, status, calls, quality, refs
+  status [--verbose]                  table of items: wave, status, calls, quality, size (--verbose: + refs)
   check [ID...]                       refs exist, prompts present, sizes valid (free)
   dry-run ID                          show exactly what would be sent (prompt + refs in order, no network)
-  batch build NAME (ID... | --ready | --wave N)   build requests (gen for todo/regen items, fix for queued fixes)
+  batch build NAME (ID... | --ready | --wave N) [--verbose]   build requests (gen for todo/regen items, fix for
+                                      queued fixes); prints a summary (--verbose: every request with its refs)
   batch submit NAME                   upload + start the batch
-  batch wait NAME [--every 60]        poll until done, then fetch (run it in the background)
-  batch fetch|status|cancel NAME      | batch list
+  batch wait NAME [--every 60]        poll until done (prints only changes), then fetch (run it in the background)
+  batch fetch|status|cancel NAME      | batch list   (fetch writes a labelled QC contact sheet out/qc/NAME-1.jpg)
   fix ID "one precise change" [--ref PATH ...]   queue a targeted edit of the current image for the next batch
   qc ID pass|fail [--regen] [--note "..."]       record the verdict (pass -> approved; usable as item:<ID> ref)
   accept ID --note "defect"           accept at the call cap (logs to ACCEPTED-AT-CAP.md)
@@ -315,12 +316,14 @@ def store(ws, rid, job, b64, usage, via):
 # ---------------------------------------------------------------- commands
 
 def cmd_status(ws, a):
-    print(f"{'item':14} wave  {'status':9} calls quality size       refs")
+    verbose = getattr(a, "verbose", False)
+    print(f"{'item':14} wave  {'status':9} calls quality size" + ("       refs" if verbose else ""))
     for rid in ws.items:
         rs = ws.st["items"][rid]
         fixq = " +fix queued" if rid in ws.st["fix_queue"] else ""
-        print(f"{rid:14} {ws.wave(rid):>4}  {rs['status']:9} {ws.calls(rid):>5} {ws.quality(rid):7} {ws.size(rid):10} "
-              f"{', '.join(os.path.basename(r) for r in ws.item(rid).get('refs', []))}{fixq}"
+        refs = (" " + ", ".join(os.path.basename(r) for r in ws.item(rid).get("refs", []))) if verbose else ""
+        print(f"{rid:14} {ws.wave(rid):>4}  {rs['status']:9} {ws.calls(rid):>5} {ws.quality(rid):7} {ws.size(rid):10}"
+              f"{refs}{fixq}".rstrip()
               + (f"\n{'':16}note: {rs['note']}" if rs.get("note") else ""))
 
 
@@ -421,8 +424,15 @@ def batch_build(ws, a):
     if man["bytes"] > BATCH_LIMIT:
         sys.exit(f"requests are {man['bytes'] / 2**20:.0f} MB, over the Batch API limit: build fewer items per batch")
     print(f"batch {a.name}: {len(jobs)} request(s), {man['bytes'] / 2**20:.1f} MB")
-    for j in man["jobs"]:
-        print(f"  {j['custom_id']:24} {j['quality']:5} {j['size']:10} refs: {', '.join(j['refs'])}")
+    if a.verbose:
+        for j in man["jobs"]:
+            print(f"  {j['custom_id']:24} {j['quality']:5} {j['size']:10} refs: {', '.join(j['refs'])}")
+    else:
+        kinds = {}
+        for j in man["jobs"]:
+            k = f"{j['kind']} {j['quality']} {j['size']}"
+            kinds[k] = kinds.get(k, 0) + 1
+        print("  " + " · ".join(f"{n} {k}" for k, n in kinds.items()) + "   (--verbose lists every request)")
     print(f"NEXT: imggen.py --ws {os.path.relpath(ws.dir)} batch submit {a.name}")
 
 
@@ -472,10 +482,13 @@ def batch_status(ws, a):
 
 
 def batch_wait(ws, a):
-    key, t0 = load_key(), time.time()
+    key, t0, last = load_key(), time.time(), None
     while True:
         b = _refresh(ws, key, a.name)
-        print(f"{now()} {_line(a.name, b)}", flush=True)
+        line = _line(a.name, b)
+        if line != last or b["status"] in TERMINAL:  # only changes (status / counts) and the final state
+            print(f"{now()} {line}", flush=True)
+            last = line
         if b["status"] in TERMINAL:
             break
         if time.time() - t0 > a.max_hours * 3600:
@@ -494,7 +507,7 @@ def batch_fetch(ws, a):
     if os.path.exists(os.path.join(bd, "fetched")) and not a.force:
         sys.exit(f"{a.name} was fetched already (--force to process it again)")
     jobs = {j["custom_id"]: j for j in load_json(os.path.join(bd, "manifest.json"))["jobs"]}
-    seen, total = set(), 0.0
+    seen, total, new = set(), 0.0, []
     for fid, fname in ((b.get("output_file_id"), "output.jsonl"), (b.get("error_file_id"), "errors.jsonl")):
         if not fid:
             continue
@@ -514,6 +527,7 @@ def batch_fetch(ws, a):
             if b64:
                 total += store(ws, job["rid"], job, b64, body.get("usage") or {}, f"batch:{a.name}")
                 print(f"OK   {job['custom_id']} -> out/{job['rid']}.png")
+                new.append(job["rid"])
             else:
                 err = row.get("error") or body.get("error") or resp
                 rs = ws.st["items"][job["rid"]]
@@ -528,7 +542,35 @@ def batch_fetch(ws, a):
     with open(os.path.join(bd, "fetched"), "w") as fh:
         fh.write(now())
     print(f"{a.name}: fetched; est. ${total:.3f} at batch rates")
-    print("NEXT: Read every new image, zoom-check it against its ## CHECKS, then `qc <ID> pass|fail`.")
+    try:
+        sheets = qc_sheets(ws, a.name, new)
+    except Exception as e:  # the results are stored already; a sheet failure must not fail the fetch
+        print(f"QC sheet not written ({type(e).__name__}: {e})")
+        sheets = None
+    for path in sheets or []:
+        print(f"QC sheet: {os.path.relpath(path)}")
+    if sheets is None:
+        print("NEXT: Read every new image, zoom-check it against its ## CHECKS, then `qc <ID> pass|fail`.")
+    elif not sheets:
+        print("NEXT: no new images to QC.")
+    else:
+        print(f"NEXT: Read the QC sheet{'s' if len(sheets) > 1 else ''} {' '.join(os.path.relpath(p) for p in sheets)}; "
+              "zoom only items that look wrong (or whose ## CHECKS need a close look: faces, hands, counts, "
+              "inscriptions), then `qc <ID> pass|fail`.")
+
+
+def qc_sheets(ws, name, rids):
+    """One labelled contact sheet (or several, 12 items each, <= ~1600 px) of the newly fetched items."""
+    out = ws.p("out", "qc")
+    for old in os.listdir(out) if os.path.isdir(out) else []:  # a --force re-fetch must not leave stale sheets
+        if re.fullmatch(re.escape(name) + r"-\d+\.jpg", old):
+            os.remove(os.path.join(out, old))
+    if not rids:
+        return []
+    if PIPE not in sys.path:
+        sys.path.insert(0, PIPE)
+    from contact import qc_sheets as build
+    return build([(rid, ws.p("out", f"{rid}.png")) for rid in dict.fromkeys(rids)], os.path.join(out, name))
 
 
 def batch_cancel(ws, a):
@@ -637,7 +679,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--ws", required=True, help="workspace folder holding jobs.json")
     sub = ap.add_subparsers(dest="cmd", required=True)
-    sub.add_parser("status")
+    s = sub.add_parser("status"); s.add_argument("--verbose", action="store_true")
     s = sub.add_parser("check"); s.add_argument("ids", nargs="*")
     s = sub.add_parser("dry-run"); s.add_argument("id")
     s = sub.add_parser("batch")
@@ -650,6 +692,7 @@ def main():
     s.add_argument("--max-hours", type=float, default=24)
     s.add_argument("--force", action="store_true")
     s.add_argument("--allow-max", action="store_true")
+    s.add_argument("--verbose", action="store_true")
     s = sub.add_parser("fix"); s.add_argument("id"); s.add_argument("instruction")
     s.add_argument("--ref", action="append", default=[]); s.add_argument("--force", action="store_true")
     s = sub.add_parser("qc"); s.add_argument("id"); s.add_argument("verdict", choices=["pass", "fail"])
