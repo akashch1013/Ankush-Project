@@ -11,6 +11,8 @@ open a full preview.png only for the pages they flag.
   options: --per 12 (pages per sheet)  --cols 4  --thumb 480 (thumbnail width, px)
 
 Writes PdfSheetsGenTask/<CHxx>/contact/<CHxx>-<first>-<last>.jpg and prints one path per sheet.
+
+montage() is the shared tiler; imggen.py uses qc_sheets() for the labelled QC sheet after a batch fetch.
 """
 import argparse
 import os
@@ -46,6 +48,39 @@ def font(size):
     return ImageFont.load_default(size=size)
 
 
+def montage(entries, path, cols, tw, th, label_h=None):
+    """Tile (label, image_path) entries into one JPEG at path: each image fitted into a tw x th cell with
+    its label above it. Returns path."""
+    if not entries:
+        raise ValueError("montage needs at least one image")
+    label_h = label_h or max(18, tw // 16)
+    pad = 8
+    f = font(label_h - 4)
+    cols = min(cols, len(entries))
+    rows = -(-len(entries) // cols)
+    sheet = Image.new("RGB", (cols * (tw + pad) + pad, rows * (th + label_h + pad) + pad), (40, 40, 40))
+    d = ImageDraw.Draw(sheet)
+    for k, (label, src) in enumerate(entries):
+        x = pad + (k % cols) * (tw + pad)
+        y = pad + (k // cols) * (th + label_h + pad)
+        with Image.open(src) as raw:
+            im = raw.convert("RGB")
+        im.thumbnail((tw, th), Image.LANCZOS)
+        sheet.paste(im, (x + (tw - im.width) // 2, y + label_h))
+        d.text((x + 2, y + 1), label, fill=(255, 220, 120), font=f)
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    sheet.save(path, quality=82)
+    return path
+
+
+def qc_sheets(entries, out_base, cols=4, cell=380, rows=3):
+    """QC sheets of (label, image_path) entries, each sheet <= ~1600 px on the long side
+    (4 x 3 cells of 380 px -> 1560 x 1244). Writes <out_base>-1.jpg, -2.jpg, ... and returns their paths."""
+    per = cols * rows
+    return [montage(entries[i:i + per], f"{out_base}-{i // per + 1}.jpg", cols, cell, cell, label_h=26)
+            for i in range(0, len(entries), per)]
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("chapter")
@@ -67,26 +102,10 @@ def main():
     out_dir = os.path.join(ch_dir, "contact")
     os.makedirs(out_dir, exist_ok=True)
     tw = a.thumb
-    th = tw * 3 // 4  # pages are 12x9 in
-    label_h = max(18, tw // 16)
-    pad = 8
-    f = font(label_h - 4)
-
     for i in range(0, len(have), a.per):
         group = have[i:i + a.per]
-        cols = min(a.cols, len(group))
-        rows = -(-len(group) // cols)
-        sheet = Image.new("RGB", (cols * (tw + pad) + pad, rows * (th + label_h + pad) + pad), (40, 40, 40))
-        d = ImageDraw.Draw(sheet)
-        for k, p in enumerate(group):
-            x = pad + (k % cols) * (tw + pad)
-            y = pad + (k // cols) * (th + label_h + pad)
-            im = Image.open(os.path.join(ch_dir, p, "preview.png")).convert("RGB")
-            im.thumbnail((tw, th), Image.LANCZOS)
-            sheet.paste(im, (x, y + label_h))
-            d.text((x + 2, y + 1), p, fill=(255, 220, 120), font=f)
         path = os.path.join(out_dir, f"{a.chapter}-{group[0]}-{group[-1]}.jpg")
-        sheet.save(path, quality=82)
+        montage([(p, os.path.join(ch_dir, p, "preview.png")) for p in group], path, a.cols, tw, tw * 3 // 4)  # 12x9 in
         print(os.path.relpath(path, TASKS))
     if missing:
         nums = [int(p[1:]) for p in missing]

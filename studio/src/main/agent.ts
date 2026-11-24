@@ -10,6 +10,7 @@ import { hardRule, presetDecision } from './policy';
 import { setStatus, updatePage, logFeedback, today } from './review';
 import { runCmd } from './tools';
 import { UsageTracker, rateLimitFrom, rateLimitActive, rateLimitText, tokenSum, zeroTokens, fmtTokens } from '@shared/usage';
+import { buildSessionOptions } from './session-options';
 import type { AgentEvent, GateRequest, PermissionRequest, RunAction, RunInfo, SessionDetail, SessionInfo, SessionKind, TaskInfo, TimelineItem } from '@shared/types';
 
 export const STUDIO_APPEND = `
@@ -207,17 +208,15 @@ class Session {
 
     this.q = query({
       prompt: this.inbox,
-      options: {
+      options: buildSessionOptions({
         cwd: tasks,
-        pathToClaudeCodeExecutable: claudeBin(),
+        kind: this.info.kind,
+        model: s.model,
+        executable: claudeBin(),
         env: childEnv(),
-        settingSources: ['project', 'user', 'local'],
-        systemPrompt: { type: 'preset', preset: 'claude_code', append: STUDIO_APPEND },
-        permissionMode: 'default',
-        model: this.info.kind === 'quick' ? 'sonnet' : undefined,
+        append: STUDIO_APPEND,
         resume: this.info.sdkSessionId,
         mcpServers: { studio },
-        includePartialMessages: false,
         hooks: {
           PreToolUse: [
             {
@@ -239,7 +238,7 @@ class Session {
           ],
         },
         canUseTool: (toolName, input, opts) => this.permission(toolName, input, opts.signal),
-      },
+      }),
     });
     this.pump(this.q);
   }

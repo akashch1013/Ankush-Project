@@ -17,6 +17,7 @@ const defaults: Settings = {
   permissionMode: 'auto',
   permsDefaultV: PERMS_V,
   chunkSize: 20,
+  model: 'sonnet',
   setupDone: false,
 };
 

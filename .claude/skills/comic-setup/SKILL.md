@@ -1,11 +1,11 @@
 ---
 name: comic-setup
-description: Stage −1 of the ChandRush comic pipeline. Turns a chapter folder the author dropped into Tasks/Reference/ (panelized manuscript .docx, location register .docx, reference images) into a ready workspace for every other agent. It splits the manuscript into pages, indexes the cast, locations and register records, maps master images and manuscript locations to register records, triages the manuscript maths pre-scan, scaffolds the background and panel workspaces, and writes PdfSheetsGenTask/<CHxx>/chapter.json + SETUP-REPORT.md. Free: no image calls. Use when the author adds a chapter, gives a new manuscript/register version, or asks to "set up chapter N". Arguments: [CHxx | Reference folder name] (none = every new or stale chapter).
+description: 'Stage −1 of the ChandRush comic pipeline. Turns a chapter folder the author dropped into Tasks/Reference/ (panelized manuscript .docx, location register .docx, reference images) into a ready workspace for every other agent. It splits the manuscript into pages, indexes the cast, locations and register records, maps master images and manuscript locations to register records, triages the manuscript maths pre-scan, scaffolds the background and panel workspaces, and writes PdfSheetsGenTask/<CHxx>/chapter.json + SETUP-REPORT.md. Free: no image calls. Use when the author adds a chapter, gives a new manuscript/register version, or asks to "set up chapter N". Arguments: [CHxx | Reference folder name] (none = every new or stale chapter).'
 ---
 
 # Stage −1: chapter setup
 
-Work from `/home/abhay/F/Freelance/Ankush-Project/Tasks`. Tool: `python3 pipeline/setup_chapter.py` (`--help`). You make **no image calls** and never edit `Reference/` or `../Charactors/`.
+Work from `/home/abhay/F/Freelance/Ankush-Project/Tasks`. Tool: `python3 pipeline/setup_chapter.py` (`--help`). You make **no image calls** and never edit `Reference/` or `Charactors/` (the character sheets, `Charactors/CHANDRUSH CHARACTERS/`).
 
 ## What the author gives
 A folder in `Reference/` (any name without the word "old", e.g. `Chap4/`) holding:
@@ -25,14 +25,14 @@ A new version is a new file in the same folder (`…-V03.docx`). The highest ver
    - `chapter.json`, the manifest.
 
    It also scaffolds `FInalChangesTask/<CHxx>/jobs.json`, and `BagroundGenTask/ch0N/` (jobs.json + one brief per register record) when the chapter has no plates yet. Read its printed summary, then `setup_chapter.py check <CHxx>` for the open items.
-   Never `cat` `chapter.json`, `manuscript.txt` or `index.json` whole. Use `python3 -c` / `grep` for the fields you need.
-3. **Masters** (status `masters`). For each master in `chapter.json → register.masters` (name + identity text), Read the reference images in `sources.images` and pick the one that shows it. Record it with `setup_chapter.py master <CHxx> "<name>" "<image path>"`. Maps, diagram sheets and prop photos are not masters; list them in the report as "read-only references, never sent to the image model". If a master has no image, `mark` it with a note. For a chapter whose plates are all approved this is bookkeeping, so keep it quick.
+   Never `cat` or Read `chapter.json`, `manuscript.txt`, `register.txt` or `index.json` whole. Use `python3 -c` / `grep -n -m N` for the fields you need, and pipe long output through `head`/`cut -c1-300`.
+3. **Masters** (status `masters`). For each master in `chapter.json → register.masters` (name + identity text), pick the reference image in `sources.images` that shows it. Look at the candidates on one contact sheet (`montage -label '%f' <images…> -geometry 512x+6+6 -tile 4x <scratch>/masters.jpg`, written outside `Reference/`) and Read a single image only when the sheet can't settle it. Record it with `setup_chapter.py master <CHxx> "<name>" "<image path>"`. Maps, diagram sheets and prop photos are not masters; list them in the report as "read-only references, never sent to the image model". If a master has no image, `mark` it with a note. For a chapter whose plates are all approved this is bookkeeping, so keep it quick.
 4. **Locations** (status `locations`). For each group in `chapter.json → locations` (e.g. `CH02 L03` "Food Street — Packing Bench…"), pick the register records that show that place (the register's `# Image index`: id, view, master). Record them with `setup_chapter.py locate <CHxx> "<group>" <ID> [<ID> …]`. A group may map to several records (states/views of one place); the master later picks one per panel.
    - If the manuscript has no location ids (CH01 style), group by `[SceneHeading]`: `locate <CHxx> "Scene 03 …" <IDs>`, or `mark <CHxx> locations "<why>"`.
    - A group with no matching record means a missing view: list it in the report as **needs a new plate** (bg-artist).
 5. **Characters** (status `characters`). `chapter.json → cast` lists every name with its sheet (or none), pages and speaking lines. For each speaker without a sheet:
    - background roles (helpers, assistants, "girl in green") are painted from the manuscript's description, with no sheet. Note it.
-   - a named recurring character (several pages) needs a reference sheet. **Ask the author** in the report, quoting the manuscript's appearance description (grep `manuscript.txt`). Never create files in `Charactors/`.
+   - a named recurring character (several pages) needs a reference sheet. **Ask the author** in the report, quoting the manuscript's appearance description (`grep -n -m 5 -i "<name>" manuscript.txt | cut -c1-300`). Never create files in `Charactors/`.
 
    Then `mark <CHxx> characters "<decision per name>"`.
 6. **Maths** (status `maths`). For every `FAIL` line in `mathscan.txt`, read the line in `src/Pxxx.txt` and classify it:
