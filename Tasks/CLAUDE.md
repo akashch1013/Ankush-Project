@@ -1,76 +1,29 @@
-# CLAUDE.md: ChandRush comic master agent
+# ChandRush: shared rules for every agent
 
-You are the **master agent** for ChandRush, a maths graphic novel for students. You turn a chapter's manuscript, location register and reference images into **one PDF per page** in `Tasks/Output/<CHxx>/`, each also published as an editable Claude Artifact that contains **only the page**. Work autonomously. Stop only at the user gates below.
+ChandRush is a maths graphic novel for 11-year-olds. Each manuscript page becomes one 12×9 in PDF in `Output/<CHxx>/` (plus a page-only Artifact). Paths here are relative to `Tasks/`.
 
-Full procedure: skill **`comic-master`** (`/comic-master`). Read it before any chapter work. Read **`LESSONS.md`** every session: it holds the user's accumulated feedback and overrides older defaults.
+This file is loaded automatically: don't re-read it. Your role's procedure is in your agent prompt and skill; the master's (planning, spawning, gates, review, publishing, feedback, Studio) is the `comic-master` skill. User feedback rules: `LESSONS.md`. Print only your part with the command at its top.
 
-## Start of every session (even a brand-new chat)
-1. Read this file, `LESSONS.md` (all of it, it is short) and the last 10 lines of `FEEDBACK.md`.
-2. Load the skill **`comic-master`**. It maps plain requests onto actions: "generate page 69" → the single-page recipe; "a text-heavy sample" → `survey`, then a page; fixes; feedback; status.
-3. Find where things stand: `python3 pipeline/setup_chapter.py scan` (which chapters the author has handed over, and whether each is set up or has a new version), `PdfSheetsGenTask/*/artifacts.json` lists the published pages, and `Output/` holds the PDFs.
-4. Say in one line how you read the request, then work to the end without asking, except at the gates below or on a manuscript maths error.
-
-Work from `Tasks/` (all paths here are relative to it). Use the subagents for setup and stages 1–3 (`chapter-setup`, `bg-artist`, `panel-artist`, `art-director`, `page-builder`, `math-checker`). Do the planning, the final visual review and the artifact publishing yourself.
-
-## The pipeline
-| Stage | Folder | Worker (fixed agent prompt in `../.claude/agents/`) | Output |
-|---|---|---|---|
-| −1 Setup | `Reference/<folder>/` (from the author) → `PdfSheetsGenTask/<CHxx>/chapter.json`, `src/`, `index.json`, `SETUP-REPORT.md` | `chapter-setup` (free, no images) | the manifest every agent reads: sources, page index, plates, location map, cast, status |
-| 0 Page plan | `PdfSheetsGenTask/<CHxx>/pages.json` | you | the contract for all stages |
-| 1 Backgrounds | `BagroundGenTask/` (CH01 `locgen.py`, `ch02/`, `ch03/`; new chapters `ch0N/` with `pipeline/imggen.py`) | `bg-artist` | empty location plates |
-| 2 Final panel art | `FInalChangesTask/<CHxx>/`, `FInalChangesTask/library/` | `panel-artist` | letter-free panels, vignettes, props |
-| 2.5 Art direction | `pages.json` → `"art"` brief per page | `art-director` (you, for 1–2 pages) | idea, stage, hero, objects, drawn maths, companion, colours, delights |
-| 3 Page sheets | `PdfSheetsGenTask/<CHxx>/Pxxx/index.html` | `page-builder` + `math-checker` | HTML page → artifact + `Output/<CHxx>/<CHxx>-Pxxx.pdf` |
-
-Tools are in `pipeline/` (each has `--help`):
-- `setup_chapter.py`: scan / prep / check a chapter the author handed over (free).
-- `imggen.py`: Batch-API image jobs.
-- `pagekit.py`: new page, images, number lines, render, artifact file map.
-- `mathcheck.py`: exact equation check.
-- `textcheck.py`: manuscript text verbatim.
-- `render_pdf.py`: Firefox headless → 12×9 in PDF.
-- `contact.py`: low-res contact sheets of rendered previews (12 per sheet), for cheap review of many pages.
+## Where things are
+- `Reference/<folder>/`: the author's manuscript, location register, reference images (read-only).
+- `Charactors/CHANDRUSH CHARACTERS/`: character sheets (read-only).
+- `PdfSheetsGenTask/<CHxx>/`: `chapter.json` (manifest: every path), `src/Pxxx.txt`, `index.json`, `pages.json` (the plan), `Pxxx/index.html` + `preview.png`, `artifacts.json`, `review.json`.
+- `PdfSheetsGenTask/design/`: `ART-DIRECTION.md` (A4 "Step Inside" + approved B1 note), `kit.css`, `base.css`, `manual-v09.md`, `patterns.md`. Old A3 kit is archived in `design/archive-a3/`.
+- `BagroundGenTask/`: stage-1 location plates (`out/plates/`, `ch02/`, `ch03/`).
+- `FInalChangesTask/<CHxx>/`, `FInalChangesTask/library/`: stage-2 panel art, reusable vignettes/props; `PANEL-GUIDE.md`.
+- `pipeline/` (each has `--help`): `setup_chapter.py`, `imggen.py` (Batch images), `pagekit.py` (build/render/artifact), `mathcheck.py`, `textcheck.py`, `render_pdf.py`, `contact.py` (contact sheets); cost in `usage-all.tsv`.
+- `FEEDBACK.md`: the user's raw words (master appends).
 
 ## Hard rules
-0. **Every page is art-directed: creative and aspirational for 11-year-olds, never kiddish.** Follow `PdfSheetsGenTask/design/ART-DIRECTION.md` (A3 "Lantern Street", matched to the location plates' palette, materials and painterly style: stage, ornament, objects per text role, drawn maths, companion, colour, delights, moonclock folio) and its scorecard (≥ 8/10 + musts). Build with the creative kit (`design/kit.css`, galleries `kit-1.png`/`kit-2.png`). A worksheet of plain boxes is a failed page.
-1. **Maths must be exactly right.** Every equation is tagged `data-math` and passes `mathcheck.py`. The `math-checker` agent must return PASS before a page ships. Minor art flaws are acceptable; maths errors never are.
-2. **Manuscript words are exact.** Bubble, caption and teaching text are copied verbatim (`textcheck.py plan` / `page`). Production notes, speaker names and field labels never print. A question comes before its solution, and question figures never leak answers.
-3. **Images:**
-   - Use `gpt-image-2.5-sunburst` through the **OpenAI Batch API only**, for samples and fixes too.
-   - **No immediate calls unless the user explicitly says so in the conversation.**
-   - Quality is `high`; `xhigh` only for genuinely hard images (with a note); `max` never without the user's approval.
-   - At most 3 calls per image, then accept it and log it in `ACCEPTED-AT-CAP.md`.
-4. **No lettering in images.** Bubbles, captions, maths, titles and labels are HTML. Exact text on a physical card is laid over a blank card painted in the art.
-5. **References are attached deliberately:**
-   - the raw background plate is Image 1;
-   - then one character sheet per visible character (`../Charactors/CHANDRUSH CHARACTERS/`);
-   - never the composed plates with callouts, never `archive/`.
-6. **Reuse before generating.** Cost order: zoom crop of existing art (free) < library vignette/prop (free) < new image.
-7. **Artifacts contain only the page.** Nothing else is on it: no notes, no headings outside the sheet, no controls.
-8. Never edit `Reference/` or `../Charactors/`. Never print the API key (`BagroundGenTask/.env`, `CHATGPT_API`).
+0. Every page is art-directed per `PdfSheetsGenTask/design/ART-DIRECTION.md` and its scorecard (≥ 8/10 + musts): creative and aspirational for 11-year-olds, never kiddish, never a worksheet of plain boxes.
+1. Maths is exactly right: every equation tagged `data-math`, passes `mathcheck.py`, math-checker PASS before shipping. Minor art flaws are acceptable; maths errors never.
+2. Manuscript words are verbatim (`textcheck.py`). Production notes, speaker names and field labels never print. A question precedes its solution; question figures never leak answers.
+3. Images: `gpt-image-2.5-sunburst` via the OpenAI Batch API only (samples and fixes too). No immediate calls unless the user says so in this conversation. Quality `high`; `xhigh` only for genuinely hard images (with a note); `max` never without the user. At most 3 calls per image, then accept and log in `ACCEPTED-AT-CAP.md`.
+4. No lettering in images: bubbles, captions, maths, titles, labels are HTML. Exact text on a physical card goes over a blank painted card.
+5. References: raw background plate is Image 1, then one sheet per visible character from `Charactors/CHANDRUSH CHARACTERS/`; never composed plates with callouts, never `archive/`.
+6. Reuse before generating: zoom crop (free) < library vignette/prop (free) < new image.
+7. Artifacts contain only the page: no notes, headings or controls.
+8. Never edit `Reference/` or `Charactors/`. Never print the API key (`BagroundGenTask/.env`, `CHATGPT_API`).
 
-## User gates
-A single page or a sample request has no gate before the art: it is the sample. Make it, publish it, report, and wait for feedback. The gates below apply to whole-chapter runs.
-
-### Per new chapter
-0. The author drops the chapter folder into `Reference/` → **chapter-setup** runs (no gate, free). Its "Needs the author" items (manuscript maths errors, missing character sheets) go to the user and block only the pages they name.
-1. `pages.json` is done and the text check passes → continue (no gate).
-2. **Sample batch of the first 2 panels** (and stage-1 samples for a new chapter's backgrounds) → **wait for approval.**
-3. **First finished page PDF** → **wait for approval.** After that, run the rest of the chapter unattended.
-4. At the end, report: pages done, artifact links, `Output/` paths, the cost (`pipeline/usage-all.tsv`) and the accepted-at-cap list.
-
-### Running in ChandRush Studio
-When the `mcp__studio__*` tools are present you are driven by ChandRush Studio (`../studio/`, a desktop UI over this harness). Then:
-- there are no Artifacts: skip publishing; the author reviews pages in Studio;
-- call `mcp__studio__request_review` at every gate above (and for finished pages), then end your turn;
-- report page stages with `mcp__studio__report_stage`;
-- in a run chunk, call `mcp__studio__chunk_done` when it is finished.
-
-Review verdicts live in `PdfSheetsGenTask/<CHxx>/review.json`.
-
-## Feedback
-When the user gives feedback (in chat or as artifact comments):
-1. Append it to `FEEDBACK.md` (date, chapter/page, stage, their words).
-2. Distil it into a rule in `LESSONS.md` under the right stage.
-3. If it concerns the current page, fix it: edit the HTML → `pagekit.py render` → republish the artifact. Regenerate an image only when the art itself is wrong.
-4. If the rule is permanent, also update the relevant skill/guide.
+## Gates (whole-chapter runs only)
+A single page or sample request has no gate: it is the sample. A chapter run waits for the user after the 2-panel sample batch (and new-chapter background samples) and after the first finished page; details in `comic-master`.
