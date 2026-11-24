@@ -1,8 +1,8 @@
 # PANEL GUIDE: stage 2, final panel art (characters in their scenes)
 
-Stage 2 turns each planned panel into one finished, letter-free illustration: the approved **background plate** plus the **characters, action and props** of that visual beat. Bubbles, captions, maths and labels are **never painted**. The page builder adds them as HTML. Read `Tasks/LESSONS.md`, section *Panel art*, first.
+Stage 2 turns each planned panel into one finished, letter-free illustration: the approved **background plate** plus the **characters, action and props** of that visual beat. Text is never painted (hard rule 4 in `Tasks/CLAUDE.md`, which also holds the image rules).
 
-Tool: `python3 Tasks/pipeline/imggen.py --ws FInalChangesTask/<CHxx> ...` (Batch API only; `--help` for commands).
+Tool: `python3 Tasks/pipeline/imggen.py --ws FInalChangesTask/<CHxx> ...` (`--help` for commands).
 
 ## 1. Workspace per chapter
 ```
@@ -25,13 +25,13 @@ The order is fixed. Declare each image in the prompt by its number:
 1. **Image 1 = the background plate** from stage 1, always the *raw* plate (`BagroundGenTask/out/plates/<ID>.png`, `ch02/out/plates/`, `ch03/out/plates/`). Never use the composed `out/final/` version, which has a title band and callouts that would leak.
 2. **Image 2…n = one character sheet for every character visible in the panel**, in the order they are named in the prompt:
 
-| Character | Sheet (relative to Tasks/) |
+| Character | Sheet (in `Tasks/Charactors/CHANDRUSH CHARACTERS/`) |
 |---|---|
-| Ahana | `../Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png` |
-| Navya | `../Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png` |
-| Vihaan | `../Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png` |
-| Tara | `../Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png` |
-| Tez (tiger cub) | `../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png` |
+| Ahana | `AHANA CHARACTER SHEET.png` |
+| Navya | `NAVYA CHARACTER SHEET.png` |
+| Vihaan | `VIHAAN CHARACTER SHEET.png` |
+| Tara | `TARA CHARACTER SHEET.png` |
+| Tez (tiger cub) | `TEZ CHARACTER SHEET.png` |
 
    A character with no sheet (e.g. Ira, Kabir, Veer, visitors) is described from the manuscript's *Characters visible in this chapter* text. When their first panel is approved, crop a clean full-figure view into `library/characters/<NAME>-ref.png` and use that crop as their reference from then on.
 3. **Last, optional: `item:<previous panel>`** when continuity of a held prop, a machine state or a pose matters across consecutive panels. This makes the item wait for that panel's approval (wave 2+).
@@ -50,7 +50,7 @@ Do not attach more than 5 images. If 4 or more characters are visible, attach sh
 
   The page crops with `object-fit: cover`. Keep the essential action inside the central 80%.
 - Spot art (vignettes, props): `1024x1024`.
-- **Quality `high`.** `xhigh` only with a `note` in jobs.json: dense exact counts the story depends on, or 4+ interacting characters. Never `max` without the user. Escalate to `xhigh` only after a `high` result failed on *rendering precision* (not a prompt problem), and say so in the report.
+- Quality: `xhigh` needs a `note` in jobs.json: dense exact counts the story depends on, or 4+ interacting characters. Escalate to `xhigh` only after a `high` result failed on *rendering precision* (not a prompt problem), and say so in the report.
 
 ## 4. Prompt skeleton (`## PROMPT`)
 ```
@@ -97,4 +97,4 @@ Always include:
 4. To fix:
    - A local defect: `fix <ID> "<one precise change: place, wrong state, right state>"` (add `--ref` of the character sheet for identity fixes). Fixes are queued and sent with the next `--ready` batch.
    - A wrong composition: revise the prompt, then `qc <ID> fail --regen`.
-5. Cap: at 3 calls → `accept <ID> --note "<defect>"` and move on. Only huge errors (wrong maths/count, wrong character, missing key action) are worth flagging to the master. Minor art flaws are accepted.
+5. At the 3-call cap → `accept <ID> --note "<defect>"` and move on. Only huge errors (wrong maths/count, wrong character, missing key action) are worth flagging to the master. Minor art flaws are accepted.
