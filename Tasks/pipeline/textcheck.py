@@ -6,9 +6,12 @@
   pages DOCX OUTDIR            split a paginated manuscript (page ids like CH02-PAGE001) into OUTDIR/P001.txt ...
                                plus _preamble.txt and _common.txt (long lines repeated > 4 times, written once and
                                dropped from the page files). Agents read only their page's file.
-  survey SRC_DIR [--kind K]    one row per page from the pages split: panels, story text, teaching load, ~printable
+  survey SRC_DIR [--kind K] [-v]
+                               one row per page from the pages split: panels, story text, teaching load, ~printable
                                words and a kind (story | story+math | math-heavy | text-heavy | teaching). Use it to
                                pick pages for "a text-heavy sample", "a story page", etc. --kind filters and ranks.
+                               By default it prints the kind totals, plus the top 10 rows with --kind;
+                               -v (--verbose) prints every row.
   plan PAGES.json              every printable string in the page plan (bubbles, captions, teaching text) must
                                appear verbatim in the plan's manuscript (whitespace, quotes and dashes normalised)
   page PAGE_DIR PAGES.json     every printable string the plan gives this page must appear in its index.html,
@@ -275,7 +278,10 @@ def survey_page(text):
     return dict(panels=panels, story=story, examples=examples, equations=eqs, words=words, kind=kind)
 
 
-def cmd_survey(src, kind=None):
+SURVEY_TOP = 10
+
+
+def cmd_survey(src, kind=None, verbose=False):
     rows = []
     for f in sorted(os.listdir(src)):
         if re.fullmatch(r"P\d{3}\.txt", f):
@@ -286,15 +292,23 @@ def cmd_survey(src, kind=None):
         rows = [r for r in rows if r["kind"] == kind]
         key = {"text-heavy": "words", "math-heavy": "equations", "story": "story"}.get(kind, "words")
         rows.sort(key=lambda r: -r[key])
-    print("page  kind        panels story examples equations ~words")
-    for r in rows:
+    shown = rows if verbose else rows[:SURVEY_TOP] if kind else []
+    if shown:
+        print("page  kind        panels story examples equations ~words")
+    for r in shown:
         print(f"{r['page']}  {r['kind']:<11} {r['panels']:>6} {r['story']:>5} {r['examples']:>8} {r['equations']:>9} {r['words']:>6}")
+    if not shown and rows:
+        print(f"{len(rows)} page(s); -v prints one row per page")
+    elif len(shown) < len(rows):
+        print(f"({len(rows) - len(shown)} more row(s); -v lists all {len(rows)})")
     from collections import Counter
     print("totals:", dict(Counter(r["kind"] for r in rows)))
 
 
 def main():
     a = sys.argv[1:]
+    verbose = "-v" in a or "--verbose" in a
+    a = [x for x in a if x not in ("-v", "--verbose")]
     if a[:1] == ["dump"] and len(a) == 3:
         with open(a[2], "w", encoding="utf-8") as fh:
             fh.write("\n".join(docx_lines(a[1])) + "\n")
@@ -302,7 +316,7 @@ def main():
     elif a[:1] == ["pages"] and len(a) == 3:
         cmd_pages(a[1], a[2])
     elif a[:1] == ["survey"] and len(a) in (2, 4):
-        cmd_survey(a[1], a[3] if len(a) == 4 and a[2] == "--kind" else None)
+        cmd_survey(a[1], a[3] if len(a) == 4 and a[2] == "--kind" else None, verbose)
     elif a[:1] == ["plan"] and len(a) == 2:
         cmd_plan(a[1])
     elif a[:1] == ["page"] and len(a) == 3:

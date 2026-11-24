@@ -6,15 +6,18 @@ The author drops a folder into Tasks/Reference/ (like "Chap 2/") holding
 This tool does every mechanical step. The chapter-setup agent does the judgement steps on top (see the
 comic-setup skill), then every other agent starts from PdfSheetsGenTask/<CHxx>/chapter.json.
 
-  scan                       every chapter folder in Reference/: chapter id, versions, setup state
-                             (new | ready | needs-agent | stale: the author gave a new version)
-  prep (CHxx | FOLDER) [--force]
+  scan [-v]                  every chapter folder in Reference/: chapter id, setup state
+                             (new | ready | needs-agent | stale: the author gave a new version) and manuscript
+                             (-v: also the register and image count)
+  prep (CHxx | FOLDER) [--force] [-v]
                              dump manuscript + register, split pages into src/, survey, page index,
                              register records + plate status, cast + character sheets, manuscript
                              maths pre-scan, pages.json header, background workspace scaffold (when the
                              chapter has no plates yet), and chapter.json. Re-running after the author
                              gives a new version lists the changed pages (CHANGES.md). Idempotent.
-  check CHxx                 readiness checklist from chapter.json (exit 1 while anything is open)
+                             -v also echoes the textcheck dump/pages lines.
+  check CHxx [-v]            readiness checklist from chapter.json (exit 1 while anything is open);
+                             prints the open items only (-v: every item)
 
 Recording the setup agent's decisions (kept across re-preps until the author gives a new version):
   master CHxx "<register master name>" <image path>   which reference image is that master
@@ -272,7 +275,7 @@ def scaffold_panels(ch):
 
 
 # ---------- prep ----------
-def cmd_prep(target, force=False):
+def cmd_prep(target, force=False, verbose=False):
     ch, f = find(target)
     out = os.path.join(TASKS, "PdfSheetsGenTask", ch)
     os.makedirs(out, exist_ok=True)
@@ -287,14 +290,16 @@ def cmd_prep(target, force=False):
 
     old_idx = old.get("pages", {}).get("index_sha", {})
     if not same or force:
-        print(run("dump", ms, f"PdfSheetsGenTask/{ch}/manuscript.txt").strip())
+        echo = [run("dump", ms, f"PdfSheetsGenTask/{ch}/manuscript.txt").strip()]
         if rg:
-            print(run("dump", rg, f"PdfSheetsGenTask/{ch}/register.txt").strip())
+            echo.append(run("dump", rg, f"PdfSheetsGenTask/{ch}/register.txt").strip())
         src = os.path.join(out, "src")
         if os.path.isdir(src):
             shutil.rmtree(src)      # stale pages of an older version must not survive
-        print(run("pages", ms, f"PdfSheetsGenTask/{ch}/src/").strip())
-        survey = run("survey", f"PdfSheetsGenTask/{ch}/src")
+        echo.append(run("pages", ms, f"PdfSheetsGenTask/{ch}/src/").strip())
+        if verbose:
+            print("\n".join(echo))
+        survey = run("survey", f"PdfSheetsGenTask/{ch}/src", "--verbose")      # survey.txt keeps every row
         open(os.path.join(out, "survey.txt"), "w", encoding="utf-8").write(survey)
     else:
         log.append("sources unchanged: kept manuscript.txt, register.txt and src/")
@@ -422,7 +427,7 @@ def cmd_prep(target, force=False):
     }
     json.dump(manifest, open(mpath, "w"), indent=1, ensure_ascii=False)
 
-    print(f"\n{ch} from {refdir}: {len(idx)} pages ({', '.join(f'{v} {k}' for k, v in kinds.items())}), "
+    print(f"{chr(10) if verbose else ''}{ch} from {refdir}: {len(idx)} pages ({', '.join(f'{v} {k}' for k, v in kinds.items())}), "
           f"{len(records)} register records, plates {have}/{len(records)}")
     print(f"cast: " + ", ".join(f"{n}{'' if c['sheet'] else ' (NO SHEET)'}" for n, c in cast.items()))
     print(f"maths pre-scan: {n_ok} hold, {len(fails)} FAIL, {len(rows) - len(fails)} SKIP (mathscan.txt)")
@@ -446,17 +451,17 @@ def state(ch, f):
     return "ready" if all(v == "ok" for v in m["status"].values()) else "needs-agent"
 
 
-def cmd_scan():
+def cmd_scan(verbose=False):
     fs = folders()
     if not fs:
         print("Reference/ has no chapter folders")
     for ch in sorted(fs):
         for f in fs[ch]:
             print(f"{ch}  {state(ch, f):<11}  Reference/{f['dir']}/  {f['manuscript']}"
-                  f"  {f['register'] or '(no register)'}  {len(f['images'])} images")
+                  + (f"  {f['register'] or '(no register)'}  {len(f['images'])} images" if verbose else ""))
 
 
-def cmd_check(ch):
+def cmd_check(ch, verbose=False):
     ch = "CH" + ch[2:].zfill(2)
     mp = os.path.join(TASKS, "PdfSheetsGenTask", ch, "chapter.json")
     if not os.path.exists(mp):
@@ -465,8 +470,12 @@ def cmd_check(ch):
     _, f = find(ch)
     st = state(ch, f)
     print(f"{ch}: {st}  ({m['reference_dir']}, prepared {m['prepared']})")
+    done = [k for k, v in m["status"].items() if v == "ok"]
     for k, v in m["status"].items():
-        print(f"  [{'x' if v == 'ok' else ' '}] {k:<13} {v}")
+        if verbose or v != "ok":
+            print(f"  [{'x' if v == 'ok' else ' '}] {k:<13} {v}")
+    if not verbose and done:
+        print(f"  {len(done)}/{len(m['status'])} ok: {', '.join(done)}")
     sys.exit(0 if st == "ready" else 1)
 
 
@@ -528,10 +537,14 @@ def main():
     if not a or a[0] in ("-h", "--help"):
         print(__doc__)
         return
+    verbose = False
+    if a[0] in ("scan", "prep", "check"):
+        verbose = "-v" in a or "--verbose" in a
+        a = [x for x in a if x not in ("-v", "--verbose")]
     if a[0] == "scan":
-        cmd_scan()
+        cmd_scan(verbose)
     elif a[0] == "prep" and len(a) > 1:
-        cmd_prep(a[1], force="--force" in a)
+        cmd_prep(a[1], force="--force" in a, verbose=verbose)
     elif a[0] == "master" and len(a) == 4:
         cmd_master(*a[1:])
     elif a[0] == "locate" and len(a) > 3:
@@ -539,7 +552,7 @@ def main():
     elif a[0] == "mark" and len(a) == 4:
         cmd_mark(*a[1:])
     elif a[0] == "check" and len(a) > 1:
-        cmd_check(a[1])
+        cmd_check(a[1], verbose)
     else:
         sys.exit(__doc__)
 

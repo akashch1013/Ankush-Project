@@ -18,8 +18,9 @@
   cutout PAGE_DIR SRC NAME --poly "x,y x,y ..." [--feather 2]
                                          cut a character or prop out of existing art along a traced outline (SRC px)
                                          into assets/img/NAME.png, so it can stand in the scene (free)
-  check PAGE_DIR                         mathcheck + local-assets check (no network fonts/images, no absolute paths)
-  render PAGE_DIR                        check, then print Output/CHxx/CHxx-Pxxx.pdf and PAGE_DIR/preview.png
+  check PAGE_DIR [-v]                    mathcheck + local-assets check (no network fonts/images, no absolute paths);
+                                         prints FAIL/UNTAGGED lines and a summary (-v: every PASS line too)
+  render PAGE_DIR [-v]                   check, then print Output/CHxx/CHxx-Pxxx.pdf and PAGE_DIR/preview.png
   artifact PAGE_DIR                      build PAGE_DIR/artifact.html (CSS + fonts inlined, no html/head/body wrapper)
                                          and print the Artifact publish arguments (file_path, files, title, icon)
 
@@ -199,7 +200,8 @@ def cmd_check(a, quiet=False):
     for bad in ("TODO", "{{", "lorem", "Lorem"):
         if bad in html:
             errs.append(f"leftover placeholder '{bad}'")
-    r = subprocess.run([sys.executable, os.path.join(PIPE, "mathcheck.py"), path], capture_output=True, text=True)
+    verbose = ["--verbose"] if getattr(a, "verbose", False) else []
+    r = subprocess.run([sys.executable, os.path.join(PIPE, "mathcheck.py"), path, *verbose], capture_output=True, text=True)
     print(r.stdout.strip())
     if r.returncode:
         errs.append("mathcheck failed (see above): fix the maths or the data-math tag")
@@ -274,8 +276,9 @@ def main():
     s.add_argument("--crop"); s.add_argument("--blank", action="append"); s.add_argument("--blur", type=float, default=10)
     s = sub.add_parser("cutout"); s.add_argument("page_dir"); s.add_argument("src"); s.add_argument("name")
     s.add_argument("--poly", required=True); s.add_argument("--feather", type=float, default=2.0)
-    s = sub.add_parser("check"); s.add_argument("page_dir")
+    s = sub.add_parser("check"); s.add_argument("page_dir"); s.add_argument("-v", "--verbose", action="store_true")
     s = sub.add_parser("render"); s.add_argument("page_dir"); s.add_argument("--dpi", type=int, default=110)
+    s.add_argument("-v", "--verbose", action="store_true")
     s = sub.add_parser("artifact"); s.add_argument("page_dir")
     a = ap.parse_args()
     {"new": cmd_new, "img": cmd_img, "numberline": cmd_numberline, "backdrop": cmd_backdrop, "scene": cmd_scene, "cutout": cmd_cutout, "check": cmd_check, "render": cmd_render,
