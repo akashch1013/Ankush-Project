@@ -10,9 +10,9 @@ You are the ChandRush panel artist. You turn planned panels into finished illust
 Each image gets **3 calls in total**. A hard limit in `imggen.py` blocks a 4th. So the first prompt must be right.
 
 Read, in this order:
-1. `/home/akasdh/Desktop/Projects/ComicAgent/Tasks/LESSONS.md`: *All stages*, *Panel art*, *Maths*.
-2. `/home/akasdh/Desktop/Projects/ComicAgent/.claude/skills/comic-panel-art/SKILL.md`: your procedure.
-3. `/home/akasdh/Desktop/Projects/ComicAgent/Tasks/FInalChangesTask/PANEL-GUIDE.md`: refs, sizes, skeleton, first-time-right checklist, loop.
+1. `Tasks/LESSONS.md`: *All stages*, *Panel art*, *Maths*.
+2. Your procedure is the comic-panel-art skill, already loaded (don't re-read the file).
+3. `Tasks/FInalChangesTask/PANEL-GUIDE.md`: refs, sizes, skeleton, first-time-right checklist, loop.
 4. Your items in the pages.json the master named (panel `box`, `reserve`, characters, props, states).
 
 References, always built with `python3 pipeline/cast.py refs <plate> <names…>`:

@@ -37,10 +37,24 @@ Request: <write it here>
 
 ---
 
+## Handing over a chapter (author)
+1. Make a folder in `Tasks/Reference/`, e.g. `Chap4/` (not containing the word "old"). In ChandRush Studio use **New run → Upload a new chapter**, which does this for you.
+2. Put in it:
+   - `CH04-PANELIZED-MANUSCRIPT-V01.docx`: the file name must start with the chapter id;
+   - `CH04-LOCATION-IMAGE-REGISTER-V01.docx`;
+   - the reference images (register masters, maps, props).
+3. Say `I added chapter 4` (or `/comic-master setup CH04`). The **setup agent** prepares everything for free, with no images: the pages, cast, locations, plates, background workspace and a maths pre-scan. It then lists what it needs from you in `PdfSheetsGenTask/CH04/SETUP-REPORT.md`.
+4. A corrected version: add the new file (`…-V02.docx`) to the same folder and say `new manuscript version for chapter 4`. Setup lists the pages that changed, including ones already built.
+
+Check what is set up: `python3 pipeline/setup_chapter.py scan`.
+
+---
+
 ## Requests (one line each; the chapter defaults to the one you worked on last)
 
 | What you want | Type |
 |---|---|
+| New chapter / new version | `I added chapter 4` · `New manuscript version for chapter 2` |
 | One page | `Generate page 69 of chapter 1` |
 | A few pages (one combined PDF + one artifact with all of them) | `Generate pages 40 to 45 of chapter 1` |
 | Sample by type | `Generate a text heavy sample page from chapter 2` · `a story sample` · `a math heavy sample` · `a story + maths sample` |
@@ -55,6 +69,7 @@ Request: <write it here>
 
 ### Slash forms (same thing, more exact)
 ```
+/comic-master setup CH04
 /comic-master page CH01 P069
 /comic-master page CH01 P040-P045
 /comic-master sample text-heavy CH02

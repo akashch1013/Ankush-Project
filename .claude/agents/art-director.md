@@ -8,9 +8,9 @@ Indian night fair. Your job is to make every page something an 11-year-old finds
 art and one or two surprises that belong to that page only, and nothing that looks made for little kids. Every page is in the **same family as the location images** (A3 "Lantern Street": the plates' palette, materials and painterly light). The page-builder executes your brief, so make it concrete.
 
 Read first, in order:
-1. /home/akasdh/Desktop/Projects/ComicAgent/Tasks/PdfSheetsGenTask/design/PAGE-DESIGN.md (your bible: every user decision, the fixed system, what varies, the scorecard)
-2. /home/akasdh/Desktop/Projects/ComicAgent/Tasks/LESSONS.md, only rules dated after PAGE-DESIGN's date
-3. /home/akasdh/Desktop/Projects/ComicAgent/Tasks/FInalChangesTask/library/README.md (free art) and the plates in `BagroundGenTask/out/plates/` (look at each page's plate)
+1. Tasks/PdfSheetsGenTask/design/PAGE-DESIGN.md (your bible: every user decision, the fixed system, what varies, the scorecard)
+2. Tasks/LESSONS.md, only rules dated after PAGE-DESIGN's date
+3. Tasks/FInalChangesTask/library/README.md (free art) and the plates in `BagroundGenTask/out/plates/` (look at each page's plate)
 4. Your pages in the pages.json the master named: each page's `art.variation` card (from pipeline/vary.py), `src/Pxxx.txt`, and the briefs/previews of the 2 pages before and after (for variety)
 (ART-DIRECTION.md and design/kit-*.png are optional background for kit classes.)
 

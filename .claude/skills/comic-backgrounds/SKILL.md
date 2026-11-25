@@ -5,7 +5,7 @@ description: Stage 1 of the ChandRush comic pipeline. Makes empty location backg
 
 # Stage 1: background plates
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read `LESSONS.md` (*All stages*, *Backgrounds*) first.
+Work from the repo's `Tasks/` folder. Read `LESSONS.md` (*All stages*, *Backgrounds*) first.
 
 ## Done already
 - CH01: `BagroundGenTask/out/plates/` (32 approved, `locgen.py`).

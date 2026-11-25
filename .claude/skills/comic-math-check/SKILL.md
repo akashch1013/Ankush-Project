@@ -3,9 +3,11 @@ name: comic-math-check
 description: Independent mathematical verification of a finished ChandRush comic page (HTML + rendered preview + panel art) before it ships. Runs pipeline/mathcheck.py, re-derives every calculation, checks question-before-answer and answer leaks, and checks numbers painted in the art. Returns PASS or a precise fix list. Use when the master asks to check the maths of a page.
 ---
 
-# Maths check of one page
+# Maths check of a page (or a batch of pages)
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read `LESSONS.md` → *Maths*. You are independent of the builder. Assume nothing is correct until you have checked it yourself.
+Work from the repo's `Tasks/` folder. Read `LESSONS.md` → *Maths* once per batch. You are independent of the builder. Assume nothing is correct until you have checked it yourself.
+
+You may be given several pages. Run the whole procedure below on each `<page_dir>` in turn, and write one output block per page.
 
 Given `<page_dir>` (`PdfSheetsGenTask/<CHxx>/<Pxxx>`) and `pages.json`:
 1. `python3 pipeline/mathcheck.py <page_dir>/index.html`: every tagged statement must PASS. For each UNTAGGED line, verify it yourself and tell the builder to tag it.

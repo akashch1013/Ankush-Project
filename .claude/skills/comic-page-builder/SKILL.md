@@ -5,7 +5,7 @@ description: Stage 3 of the ChandRush comic pipeline. Builds a creative, aspirat
 
 # Stage 3: page sheets (creative build)
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read first:
+Work from the repo's `Tasks/` folder. Read first:
 1. `PdfSheetsGenTask/design/PAGE-DESIGN.md`: the current look, fixed system, what varies, scorecard. **It governs.**
 2. `LESSONS.md`: only rules dated after PAGE-DESIGN's date, plus *Maths*.
 3. Your page in `PdfSheetsGenTask/<CHxx>/pages.json`: its `art` brief, `art.variation` card, panel boxes and reserves, plus `src/Pxxx.txt` (the authority if the plan looks wrong).

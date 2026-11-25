@@ -18,7 +18,8 @@ Spawn independent workers **in one message** (several Agent calls) so they run i
 | panel-artist | opus | staging prompts + visual QC |
 | page-builder (build/shell/letter) | opus | design + vision |
 | page-builder (mechanical fix: swap art, move a balloon by N pt, text typo) | `model: "sonnet"` override | low reasoning |
-| math-checker | sonnet (default in its file) | exact checks, scripted |
+| math-checker | sonnet (default in its file) | exact checks, scripted; one spawn checks up to 10 pages |
+| chapter-setup, bg-artist | sonnet (default in their files) | scripted prep / register-driven plates |
 | production-assistant | sonnet (default in its file) | render, set, publish prep, status, batch fetch |
 
 ## art-director, mode brief
@@ -72,9 +73,10 @@ each mouth, captions off faces. Render, run textcheck, score ≥ 8/10. Report: p
 
 ## math-checker
 ```
-Check <CHxx> <Pxxx>: PdfSheetsGenTask/<CHxx>/<Pxxx>/ (index.html, preview.png). Return PASS or the fix list.
+Check <CHxx> <P006 P007 P008 …> (up to 10): PdfSheetsGenTask/<CHxx>/<Pxxx>/ (index.html, preview.png).
+Return one block per page (PASS or fix list), then `batch: <n> PASS, <n> FAIL`.
 ```
-One spawn per page, all in one message.
+One spawn per group of ≤ 10 pages; several groups in one message.
 
 ## production-assistant
 ```

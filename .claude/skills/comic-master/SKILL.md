@@ -1,11 +1,11 @@
 ---
 name: comic-master
-description: Master agent for the ChandRush maths comic. Turns a chapter's panelized manuscript, location register and character references into finished, creatively art-directed graphic-novel pages (Tasks/Output/CHxx/CHxx-Pxxx.pdf). Any number of pages is produced in one parallel run, delivered together as ONE combined PDF plus ONE artifact showing every requested page. It runs the bg-artist, panel-artist, art-director, page-builder, math-checker and production-assistant subagents, with one Batch-API image batch per wave for all pages. Also records user feedback into LESSONS.md. Use when asked to make, continue, check, fix or give feedback on comic pages or chapters. Arguments: page <CHxx> <Pxxx>[-Pyyy] | sample <story|story+math|math-heavy|text-heavy|teaching> [CHxx] | plan <CHxx> [pages] | run <CHxx> [pages] | status <CHxx> | fix <CHxx> <Pxxx> "<problem>" | feedback "<text>". Plain-language requests ("generate page no 69", "make pages 6 to 10", "make a text heavy sample", "change the colour of page 39 to teal") map onto these.
+description: Master agent for the ChandRush maths comic. Turns a chapter's panelized manuscript, location register and character references into finished, creatively art-directed graphic-novel pages (Tasks/Output/CHxx/CHxx-Pxxx.pdf). Any number of pages is produced in one parallel run, delivered together as ONE combined PDF plus ONE artifact showing every requested page. It sets up a chapter the author hands over (chapter-setup) and runs the bg-artist, panel-artist, art-director, page-builder, math-checker and production-assistant subagents, with one Batch-API image batch per wave for all pages. Also records user feedback into LESSONS.md. Use when asked to make, continue, check, fix or give feedback on comic pages or chapters. Arguments: setup [CHxx|folder] | page <CHxx> <Pxxx>[-Pyyy] | sample <story|story+math|math-heavy|text-heavy|teaching> [CHxx] | plan <CHxx> [pages] | run <CHxx> [pages] | status <CHxx> | fix <CHxx> <Pxxx> "<problem>" | feedback "<text>". Plain-language requests ("generate page no 69", "make pages 6 to 10", "make a text heavy sample", "change the colour of page 39 to teal") map onto these.
 ---
 
 # ChandRush master agent
 
-Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. At the start of every session, read:
+Work from the repo's `Tasks/` folder. At the start of every session, read:
 - `CLAUDE.md` (hard rules);
 - `LESSONS.md`;
 - the last 10 lines of `FEEDBACK.md`;
@@ -25,10 +25,22 @@ The look is defined by **`PdfSheetsGenTask/design/PAGE-DESIGN.md`**: one card th
 | "from now on …", "I don't like …", "always …" | **feedback** (and fix the current pages if it applies) |
 | "ok / approved / looks good" | continue past the gate; log the approval in FEEDBACK.md |
 | "where are we", "cost so far" | **status** |
+| "I added chapter 4", "set up chapter 4", "new manuscript version", "here is the V03 register" | **setup** `<CHxx or folder>` |
 
 - Chapter missing? Use the last one worked on (`artifacts.json`, the end of FEEDBACK.md).
 - Page ids are the manuscript's ids (`CH01-PAGE069` → `P069`). Never renumber.
 - A page that already exists is rebuilt or fixed in place.
+- **Chapter not set up, or changed?** Before any work on a chapter, run `python3 pipeline/setup_chapter.py check <CHxx>`. If it says `new` or `stale` (the author gave a new version), run **setup** first. `needs-agent` items that wait on the author (maths errors, missing sheets) block only the pages they name.
+
+## setup [CHxx | folder]: the author handed over a chapter
+The author drops a folder into `Reference/` (manuscript, register, images). Spawn **chapter-setup** with the chapter id or folder name (none = every new or stale chapter) and wait for its report. It is free, with no image calls. It writes:
+- `PdfSheetsGenTask/<CHxx>/chapter.json`, the manifest: sources, versions, page index, register records + plates, location → record map, cast + sheets, workspaces, status;
+- `SETUP-REPORT.md`.
+
+Then:
+- Relay the report's **Needs the author** section to the user word for word (manuscript maths errors, missing character sheets, questions). Stop there if it blocks the request.
+- **Needs new art** → stage 1 (bg-artist with the named sample pair).
+- On a new version, the report lists changed pages that were already planned or built. Re-plan and rebuild those (fix flow); never silently keep the old text.
 
 ## The production run (any number of pages): parallel by design
 Time is spent waiting on the image batch. Plan so everything else happens **during** that wait, and send every image of every page in **one batch per wave**.
@@ -41,7 +53,7 @@ lane D (math-checkers)                                                          
 ```
 
 1. **Plan (you).**
-   - If `src/` is missing, run stage-0 source prep (below).
+   - If `chapter.json` is missing or `setup_chapter.py check` says `stale`, run **setup** first. Map each page's location group to its plates with `chapter.json → locations[group].records` (plate paths in `register.records`); speakers and characters are in `index.json`.
    - Write or replace a `pages.json` entry for **every** requested page (`references/pages-schema.md`; manuscript pagination is the authority).
    - Run `textcheck.py plan` until it passes, and recompute every equation. A manuscript maths error → stop and ask.
    - Run `python3 pipeline/vary.py <CHxx> <pages> --write`. This gives each page its seeded variation card: the randomness inside the fixed system.
@@ -62,9 +74,9 @@ lane D (math-checkers)                                                          
    - When the batch is fetched, resume each panel-artist with **SendMessage** (mode `qc`). They pass items, queue fixes or regen.
 6. **Waves 2–3 (you).** Run one combined `--ready` batch for all fixes and wave-2 items. That makes 3 calls per image at most, a cap enforced in code. After the 3rd call, an item is accepted and logged.
 7. **Letter on the real art.** As soon as **one page's** art is all approved, resume that page's page-builder with SendMessage (mode `letter`): swap, re-letter, render. Pages flow independently. Don't wait for the slowest page.
-8. **Maths.** Spawn one **math-checker** per rendered page, in parallel. On FAIL, send the list to that page's builder with SendMessage, and repeat until PASS.
+8. **Maths.** Spawn **math-checker** once per group of up to 10 rendered pages (several groups in parallel). On FAIL, send the list to that page's builder with SendMessage and re-check only the failed pages, until PASS.
 9. **Review (you).**
-   - Run `python3 pipeline/pagekit.py set <CHxx> <pages>` and read the single `contact.png`.
+   - Run `python3 pipeline/pagekit.py set <CHxx> <pages>` and read the single `contact.png`. For more than 12 pages, use `python3 pipeline/contact.py <CHxx> <range>` sheets (12 labelled pages each).
    - Open a page's `preview.png` only where something looks wrong.
    - Check against the PAGE-DESIGN scorecard: musts + ≥ 8/10, varied neighbours, seamless tails, text on the art, no faces covered.
    - For more than 6 pages, spawn **art-director** mode `review` on the contact sheet.
@@ -76,9 +88,14 @@ lane D (math-checkers)                                                          
 
 Spawn prompts, the model per worker, and the SendMessage resume pattern are in **`references/spawn-prompts.md`**. Use those templates: they give each worker the moment, the freedom and the contract, which gets the most creative output.
 
+### Large runs (20+ pages)
+- **Chunks of 20–25 pages.** Run the whole production run for one chunk (one batch per wave for the chunk), deliver its set, report, then continue with the next. When your context is getting long, tell the user to `/clear` and say `run <CHxx> <next range>`. All state is on disk (`pages.json`, `artifacts.json`, `Output/`), so nothing is lost.
+- **Spawn sizes:** art-director 25–35 pages, panel-artist ≤ 8 new images per agent (by scene), page-builder 3 pages (shell → letter), math-checker up to 10 pages.
+- **Script output:** read only the summary or failing lines of `pagekit.py`, `textcheck.py` and `imggen.py`; pipe long output through `tail`/`grep`.
+
 ### Token and time budget
 - Workers read `PAGE-DESIGN.md` + their skill + only the LESSONS rules dated after the card. Give paths, never pasted content. Ask for reports of ≤ 15 lines.
-- Use **sonnet** for low-reasoning work: math-checker, production-assistant, and page-builder with `model: "sonnet"` for mechanical fixes. Use **opus** for briefs, prompts, visual QC, page design and lettering.
+- Use **sonnet** for low-reasoning work: chapter-setup, bg-artist, math-checker, production-assistant, and page-builder with `model: "sonnet"` for mechanical fixes. Use **opus** for briefs, prompts, visual QC, page design and lettering. Models are set in each agent's frontmatter; override only as `references/spawn-prompts.md` says.
 - Continue an agent (SendMessage) instead of spawning a new one whenever it already holds the context.
 - Reuse first: zoom crops, library cut-outs and plates are free. Never send a batch per page.
 
@@ -94,7 +111,8 @@ Notes:     judgement calls, anything the user should look at
 ```
 
 ## Stage 0: source prep and planning (you)
-1. Prepare the sources:
+`PdfSheetsGenTask/<CHxx>/chapter.json` (written by **setup**) is the single source for every path: sources and versions, the txt dumps, `src/`, `index.json`, `mathscan.txt`, `pages.json`, the workspaces, `register.records`, `locations`, `cast`, `status`. Don't hard-code folder names. `python3 pipeline/setup_chapter.py scan` lists every chapter and whether it is set up.
+1. The sources are prepared by setup (`setup_chapter.py prep`). What it runs, for reference:
    - `python3 pipeline/textcheck.py dump "<manuscript docx>" PdfSheetsGenTask/<CHxx>/manuscript.txt`;
    - the same for the register (`register.txt`);
    - `textcheck.py pages "<manuscript docx>" PdfSheetsGenTask/<CHxx>/src/`, which writes one file per page plus `_common.txt` (read that once);
@@ -122,9 +140,17 @@ CH01–CH03 plates are all approved; skip this stage unless a view is missing. F
 4. Apply it to the current pages.
 5. Workflow preferences also go to memory.
 
+## Under ChandRush Studio
+If the `mcp__studio__*` tools exist, the session is driven by the Studio app, and its system prompt has the details. In short:
+- skip every Artifact step;
+- gates go through `mcp__studio__request_review` (then end the turn);
+- page stages go through `mcp__studio__report_stage`;
+- a finished run chunk calls `mcp__studio__chunk_done`;
+- the author's verdicts come back as messages and are stored in `PdfSheetsGenTask/<CHxx>/review.json`.
+
 ## status <CHxx>
 Report:
-- pages planned / art approved / rendered / math PASS / published (`pages.json`, `imggen.py status`, `Output/`, `artifacts.json`);
+- pages planned / art approved / rendered / math PASS / published / author-approved (`pages.json`, `imggen.py status`, `Output/`, `artifacts.json`, `review.json`);
 - cost (`pipeline/usage-all.tsv`);
 - anything waiting on the user;
 - any batch still out (`imggen.py batch list`).
@@ -138,5 +164,7 @@ Report:
 | `vary.py` | Per-page variation cards |
 | `balloon.py` | Seamless balloons (one outline body + tail; sized from the real font) |
 | `pagekit.py` | `new`, `img`, `render`, `artifact`, `set` (combined PDF + one artifact for many pages + contact sheet) |
+| `contact.py` | 12-page contact sheets for large runs |
+| `setup_chapter.py` | `scan` / `prep` / `check` a chapter the author handed over (free) |
 | `textcheck.py` | Exact manuscript text |
 | `mathcheck.py` | Exact equations |

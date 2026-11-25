@@ -5,7 +5,7 @@ description: Make, continue, review or fix the ChandRush Chapter 01 location ima
 
 # ChandRush CH01 location images (Register V10)
 
-**Task folder:** `/home/akasdh/Desktop/Projects/ComicAgent/Tasks/BagroundGenTask`. Run every command there.
+**Task folder:** `Tasks/BagroundGenTask`. Run every command there.
 
 Read `FLOW.md` and `PROMPT-GUIDE.md` there first; they are binding. **Override (user, 2026-11-22): no immediate calls at all unless the user explicitly says so. Samples, fixes and re-runs all go through `locgen.py batch` (fixes via `fix --queue`). Ignore any immediate `gen` instruction in FLOW.md or KICKOFF-1.** Then act on the argument:
 

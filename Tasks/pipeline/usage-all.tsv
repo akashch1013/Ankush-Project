@@ -34,3 +34,4 @@ time	project	item	kind	via	text_in	image_in	output	est_usd
 2026-11-25T21:28:53	chandrush-ch01-panels	P001-1s2	gen	batch:CH01-P001-P003-s2-w2	2295	8112	1372	0.0588
 2026-11-25T21:28:53	chandrush-ch01-panels	P002-3s2	gen	batch:CH01-P001-P003-s2-w2	1294	3756	1756	0.0446
 2026-11-25T21:28:53	chandrush-ch01-panels	P002-2s2	fix	batch:CH01-P001-P003-s2-w2	289	3072	1372	0.0336
+2026-11-23T16:51:24	studio-imggen-smoke-test	TEST-1	gen	batch:smoke	72	0	134	0.0022
