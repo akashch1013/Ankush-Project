@@ -24,6 +24,10 @@ Plates: `ls BagroundGenTask/out/plates/`, pick the candidates for your pages, ti
 (e.g. `mkdir -p PdfSheetsGenTask/<CHxx>/contact && montage -label %t -geometry 480x360+4+4 -tile 4x <plates> PdfSheetsGenTask/<CHxx>/contact/plates.jpg`) and Read
 that once. Open a full plate only to place `--blank`/`--crop` boxes. The reference pages `CH01/P005` and `CH01/P039`
 are described in ART-DIRECTION.md; don't re-open their previews for every page.
+Every page has a `category` (8 kinds, `PdfSheetsGenTask/design/reference-pages/README.md`). Read that README once and
+look once at the reference preview of each category among your pages. Brief to that reference's quality and text/art
+balance, but give the page its own structure: the user wants "randomness in structure", so never brief a copy of
+the reference's layout. In review, a page that clearly falls short of its category reference fails point 1 or 10.
 
 For each page, write `"art": {…}` into its pages.json entry with the §9 fields. Work like a picture-book art director:
 1. **Find the idea in the content, not in decoration.** Make the page's subject a place or object at the fair

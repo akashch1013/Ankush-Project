@@ -17,7 +17,9 @@ The look is `PdfSheetsGenTask/design/ART-DIRECTION.md` (A4 "Step Inside", with t
 §10 is the scorecard). The A3 kit pictures and galleries are archived in `design/archive-a3/`: don't open them. Copy
 markup from the reference pages `PdfSheetsGenTask/CH01/P005/index.html` and `PdfSheetsGenTask/CH01/P039/index.html` and
 the class notes in `design/kit.css`. Then read your pages in the pages.json the master named, especially each page's
-`"art"` brief, plus `src/Pxxx.txt`.
+`"art"` brief, plus `src/Pxxx.txt`. Each page has a `category`: look once at that category's reference page
+(`PdfSheetsGenTask/design/reference-pages/README.md`) and reach its quality and text/art balance with a structure of
+your own. Never copy its layout.
 
 Non-negotiable:
 - Copy the text verbatim. `textcheck.py page` must pass. Never add words, labels or speaker names. Kit decoration is wordless.

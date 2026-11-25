@@ -15,6 +15,7 @@
   "pages": [
     {
       "page": "P001",
+      "category": "3-story-math (one of the 8 in PdfSheetsGenTask/design/reference-pages/README.md)",
       "pattern": "M1 (optional starting grid from patterns.md)",
       "theme": "a4 (kit class on .page; pagekit.py new --theme)",
       "title": "Exact heading if the page has one (teaching heading or story title from the manuscript)",
@@ -66,6 +67,10 @@
 ```
 
 Rules:
+- `category` is required: one of `1-cinematic-story`, `2-dialogue-story`, `3-story-math`, `4-concept-explainer`,
+  `5-balanced-teaching`, `6-worked-example`, `7-practice-set`, `8-diagram` (definitions and the reference page for
+  each: `PdfSheetsGenTask/design/reference-pages/README.md`). The art-director and page-builder match that reference's
+  quality and balance, never its layout.
 - `art` (page level, not `panels[].art`) is the art-direction brief, fields per `PdfSheetsGenTask/design/ART-DIRECTION.md` §9. The art-director (or the master for 1–2 pages) writes it before the build.
 - `panels[].art.kind`: `new` (panel-artist makes `art.item` in `FInalChangesTask/<CHxx>/`) · `zoom` (CSS crop of another panel, free) · `reuse` (an existing image) · `plate` (the empty background plate alone, free).
 - Every string in `captions`, `bubbles[].text`, `teaching[].heading/text/questions` and `asides[].text` must pass `textcheck.py plan`. Copy them exactly. Split long caption groups only at paragraph breaks.

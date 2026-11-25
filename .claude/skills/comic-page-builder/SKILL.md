@@ -20,6 +20,10 @@ Work from `/home/abhay/F/Freelance/Ankush-Project/Tasks`. Read only what this pa
 5. **One** reference page: `PdfSheetsGenTask/CH01/P039/index.html` (B1, approved: its inline `<style>` block plus the
    blocks you need). Use `PdfSheetsGenTask/CH01/P005/index.html` instead only when the brief asks for a full-bleed A4
    scene with glass panes.
+   **Category reference:** look once at the `preview.png` of the reference page for your page's `category`
+   (`PdfSheetsGenTask/design/reference-pages/README.md` names it and says what makes it good); grep its `index.html`
+   only for a block you need. Match its quality, hierarchy and text/art balance; never copy its layout. Neighbouring
+   pages of the same category must look different.
 6. Only as needed: the kit `design/kit.css` (~8 KB, A4; grep the class you need, never edit it by hand), and the
    `design/manual-v09.md` section you need (§1 type, §5 balloons, §8 worked maths, §9 proof).
 

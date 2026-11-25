@@ -49,6 +49,9 @@ Spawn **chapter-setup** with the id or `Reference/` folder (none = every new/sta
 1. **Sources:** `src/Pxxx.txt` (one at a time) + sliced `_common.txt`. Speakers, characters, location groups: one page's entry of `index.json`; group → plates via `chapter.json` `locations` → `register.records`. Read the previous page's `src` only if the story carries over. Word equations arrive as plain text (`2² − 1²`, `7/4`, `√49`); blanks in an `(i)  −  (ii)` line mean a stale dump: re-run setup.
 2. **The manuscript paginates.** One page per manuscript page (`CH02-PAGE001-PANEL02`; CH01 `[GraphicPageId] … PAGE 001`), panels in order. Print fields: `CaptionCopy`, `DialogueCopy`, `SurfaceCopy`, `Equation`, `WorkedStep`, `Question`, `MathExample`, `AnswerLead`, `Caption`, `TeacherBridge`; production/metadata/context is staging. Only without page ids do you paginate: one story moment or teaching unit per page, question before solution, never split a worked example.
 3. **Write** the entry in `PdfSheetsGenTask/<CHxx>/pages.json` per `references/pages-schema.md` (new file → chapter header; pages sorted). Each panel: approved plate (record + path), characters, action, props, reserves.
+   - Tag the page's `category` (one of 8: `PdfSheetsGenTask/design/reference-pages/README.md`, which says how to tell
+     them apart). Each category has one reference page that shows the target quality and text/art balance; the
+     structure of every page stays its own ("randomness in structure"): never copy a reference's layout.
    - Optional grid from `PdfSheetsGenTask/design/patterns.md` (S1–S6, M1–M4, T1–T7): a grid, not the look; vary them.
    - Teaching-only pages get a companion from an existing `asides` line or library cut-out (`FInalChangesTask/library/README.md`). Never invent dialogue; no aside → silent companion.
    - `Production note Vnn` figures are HTML/SVG diagrams: copy constraints into `teaching[].diagrams`/`notes`.
@@ -72,6 +75,10 @@ The look is A4 "Step Inside": `PdfSheetsGenTask/design/ART-DIRECTION.md` (§9 br
 
 ## sample <kind> [CHxx]
 Kinds: `story` (no maths), `story+math`, `math-heavy`, `text-heavy` (long prose, few equations), `teaching` (balanced).
+They map onto the 8 page categories (`design/reference-pages/README.md`): story → 1 cinematic / 2 dialogue (by panel
+count and talk), story+math → 3, text-heavy → 4, teaching → 5, math-heavy → 6 worked / 7 practice / 8 diagram. A
+request naming a category ("an image heavy page", "a practice page") uses the matching survey kind, then that category.
+The survey is a heuristic: tables and figure-only pages can show up as `story`, so read the src before choosing.
 1. `python3 pipeline/textcheck.py survey PdfSheetsGenTask/<CHxx>/src --kind <kind>` (a heuristic).
 2. Read the top 3 `src` files; pick a complete unit (question + answer, or a whole scene), not yet built, needing ≤1–2 new images. Say why in one line.
 3. Run **page** on it.
