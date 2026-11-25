@@ -1,0 +1,149 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE087
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 09B A; Visual beat CH02 09B B; Visual beat CH02 09B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 09B A; Visual beat CH02 09B B; Visual beat CH02 09B C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 09B A; Visual beat CH02 09B B; Visual beat CH02 09B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 09B A; Visual beat CH02 09B B; Visual beat CH02 09B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 09B A; Visual beat CH02 09B B; Visual beat CH02 09B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 09 About four is not exactly four
+[PaginationMetadata] Applies to: Visual beat CH02 09B A; Visual beat CH02 09B B; Visual beat CH02 09B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 09B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 09B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 09B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 09B An estimate is not enough juice
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium of Vihaan, Ahana and Navya beside the urn and empty carrier, fixed lamp above-left.
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Urn still 3.9 L; target 4 L; all sixteen cups empty. Do not rewrite the original reading as 4 L.
+[ProductionNote] Planning requirements. Vihaan’s premature approval must remain visible before Navya’s correction. No trolley departs and no child receives a short cup.
+[PanelizationHeading] PANEL CH02-PAGE087-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 09B A The rounded number
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; Scene CH02 09B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; Scene CH02 09B; view; assigned beat stage only
+[ProductionNote] View. Medium of Vihaan, Ahana and Navya beside the urn and empty carrier, fixed lamp above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; Scene CH02 09B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; Scene CH02 09B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Urn still 3.9 L; target 4 L; all sixteen cups empty. Do not rewrite the original reading as 4 L.
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; Scene CH02 09B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Vihaan’s premature approval must remain visible before Navya’s correction. No trolley departs and no child receives a short cup.
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL01; Visual beat CH02 09B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09B A The rounded number
+[ProductionNote] Moment and staging. Vihaan turns from the urn to Ahana, right hand open confidently and left hand resting empty on the carrier rail. His expression brightens. The original 3.9 L mark stays visible.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth | Source speech attribution: Vihaan says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That rounds to four.
+[PanelizationEnd] END PANEL CH02-PAGE087-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE087-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 09B B Too quick to approve
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; Scene CH02 09B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; Scene CH02 09B; view; assigned beat stage only
+[ProductionNote] View. Medium of Vihaan, Ahana and Navya beside the urn and empty carrier, fixed lamp above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; Scene CH02 09B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; Scene CH02 09B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Urn still 3.9 L; target 4 L; all sixteen cups empty. Do not rewrite the original reading as 4 L.
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; Scene CH02 09B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Vihaan’s premature approval must remain visible before Navya’s correction. No trolley departs and no child receives a short cup.
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL02; Visual beat CH02 09B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09B B Too quick to approve
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character locations specified in Scene CH02 09B. Vihaan raises his right thumb in a brief confident approval and lifts his chin; his left hand remains empty on the carrier rail. The urn level and empty cups remain unchanged.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Enough.
+[PanelizationEnd] END PANEL CH02-PAGE087-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE087-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 09B C Navya points to the measurement
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; Scene CH02 09B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; Scene CH02 09B; view; assigned beat stage only
+[ProductionNote] View. Medium of Vihaan, Ahana and Navya beside the urn and empty carrier, fixed lamp above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; Scene CH02 09B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; Scene CH02 09B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Urn still 3.9 L; target 4 L; all sixteen cups empty. Do not rewrite the original reading as 4 L.
+[PanelizationMetadata] SOURCE: Scene CH02 09B An estimate is not enough juice
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; Scene CH02 09B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Vihaan’s premature approval must remain visible before Navya’s correction. No trolley departs and no child receives a short cup.
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE087-PANEL03; Visual beat CH02 09B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09B C Navya points to the measurement
+[ProductionNote] Moment and staging. Ahana reaches her right hand towards the carrier handle, left hand at her side. Navya touches the original 3.9 L mark with her right index finger, left hand empty on the clear counter edge, and addresses Vihaan firmly. Ahana stops before moving the carrier. Tara watches with staff right.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana reaches for the carrier, but Navya touches the original reading.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] About four. We need exactly four.
+[PanelizationEnd] END PANEL CH02-PAGE087-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 088

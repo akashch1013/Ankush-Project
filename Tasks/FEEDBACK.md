@@ -11,3 +11,10 @@ Format: `- YYYY-MM-DD · CHxx Pxxx · stage · "user's words" → rule added to 
 - 2026-11-22 · all (P005 + P039 in progress) · art direction · "the graphics and colors of the pages should be in same family as the graphics and colors of the location images. the illustration style should also match" → LESSONS (yes) · ART-DIRECTION A3 "Lantern Street": palette sampled from the plates, kit materials = plate materials (royal lacquer planks, gold pinstripe, brass, cream marble, banners' moon+star emblem), painterly illustration style, pagekit backdrop (page's own plate softened)
 - 2026-11-23 · CH01 P039 · stage 0 + art direction · "use the V06 version of the manuscript. when you design the pure math page, do not keep a busy background as it fight with the readability of the text. use a light shade background behind the text … design the border of the pure math page and embellish it with some design element of the chandrush background images as described in the design manual. follow the design manual for colors, font, font size etc … keep the current one copy and redesign a new one" → LESSONS (yes) · src/ + manuscript.txt regenerated from V06 (old kept as src-pre-v06/); old P039 kept as P039-A3-v1/ + Output/CH01/CH01-P039-A3-v1.pdf; P039 rebuilt as B1 "Ledger Plate"
 - 2026-11-23 · CH01 P039 (B1 "Ledger Plate") · approval · "The latest sample was good, Now create one more page but this time a page which have more images" → LESSONS (yes: B1 approved) · next sample = image-heavy story page
+
+- 2026-11-23 · CH02 P001 · sample approval · "Approve P001 sample / Approve and continue P001–P005" → rule added to LESSONS.md (no) · continue pages P001–P005
+- 2026-11-24 · CH02 P006 · review · "Text boxes are appearing on the faces which should be avoided" → changes requested in Studio
+- 2026-11-24 · CH02 P007 · review · approved in Studio
+- 2026-11-24 · CH02 P009 · review · approved in Studio
+- 2026-11-24 · CH02 P010 · review · approved in Studio
+- 2026-11-24 · CH02 P008 · review · "Stop working on P8" → changes requested in Studio

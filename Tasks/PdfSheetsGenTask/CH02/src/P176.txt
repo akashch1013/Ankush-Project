@@ -1,0 +1,195 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE176
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 15C C; Visual beat CH02 15C D; Visual beat CH02 15D A; Visual beat CH02 15D B; Visual beat CH02 15D C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 15C C; Visual beat CH02 15C D; Visual beat CH02 15D A; Visual beat CH02 15D B; Visual beat CH02 15D C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 15C C; Visual beat CH02 15C D; Visual beat CH02 15D A; Visual beat CH02 15D B; Visual beat CH02 15D C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 15C C; Visual beat CH02 15C D; Visual beat CH02 15D A; Visual beat CH02 15D B; Visual beat CH02 15D C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 15C C; Visual beat CH02 15C D; Visual beat CH02 15D A; Visual beat CH02 15D B; Visual beat CH02 15D C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Scene CH02 15C What helping can feel like
+[PaginationSourceLabel] Carried forward from: Scene CH02 15C What helping can feel like
+[PaginationSourceLabel] Carried forward from: Scene CH02 15C What helping can feel like
+[PaginationSourceLabel] Carried forward from: Scene CH02 15C What helping can feel like
+[PaginationSourceLabel] Carried forward from: Scene CH02 15C What helping can feel like
+[PaginationSourceLabel] Carried forward from: Sequence 15 An old photograph and a new problem
+[PaginationMetadata] Applies to: Visual beat CH02 15C C; Visual beat CH02 15C D; continuity and reveal timing only | Visual beat CH02 15D A; Visual beat CH02 15D B; Visual beat CH02 15D C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 15C; Scene CH02 15D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE176-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 15C C Close the box carefully
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; Scene CH02 15C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; Scene CH02 15C; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; Scene CH02 15C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; Scene CH02 15C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; Scene CH02 15C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL01; Visual beat CH02 15C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15C C Close the box carefully
+[ProductionNote] Moment and staging. Separate action view retaining the camera, background and character positions specified in Scene CH02 15C. Tara lowers the lid with her right hand while her left steadies the base; freeze as the box closes. No photograph remains on the counter outside it. Her staff stays against the wall.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She closes the box carefully.
+[PanelizationEnd] END PANEL CH02-PAGE176-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE176-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 15C D A useful thing to know
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; Scene CH02 15C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; Scene CH02 15C; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; Scene CH02 15C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; Scene CH02 15C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15C What helping can feel like
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; Scene CH02 15C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 15C C Close the box carefully
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL02; Visual beat CH02 15C D; retained completed closed-box state and staff location
+[ProductionNote] No photograph remains on the counter outside it. Her staff stays against the wall.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15C D A useful thing to know
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background, character locations and closed-box state specified in Scene CH02 15C and Visual beat CH02 15C C. Tara removes her right hand from the lid and opens it towards the children, looking at all three with warmth. Her left rests beside the closed box. Do not reopen it or add a new mathematics result.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Tonight you used fractions and decimals to make sure nobody in that first group received less by mistake. That is something worth knowing how to do.
+[PanelizationEnd] END PANEL CH02-PAGE176-PANEL02
+[SceneHeading] Scene CH02 15D Space for safe waiting
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the dry recipe counter, with the clear Food Street route visible past the entrance-side end.
+[ProductionNote] Cast and positions. On the cool street side, Ahana stands nearest the dry plate shelf, Navya beside the measuring-cup control and Vihaan beside the recipe book. Tara stands beside the blue-lidded box at the cool dry cupboard end. Her staff is supported against the blue wall, clear of the cupboard door and walking route; both hands are free for the assigned box or paper action. Tez stays on the paving beside Ahana, clear of feet. The food helper works behind the counter; its two assistants use the packing route. Tara’s staff is still supported at the dry blue wall. Pip arrives at the counter with a folded Gate report. The broad helper stands clear beside the cupboard.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Blue-lidded box closed, photograph inside. Lantern Street is repaired; Food Street works; the path to Moon Square has been checked. The Gate report concerns crowding outside. Forty children may wait in Entry Court; the Parade lane must still be inspected before Tara leads them farther.
+[ProductionNote] Planning requirements. Pip is the established messenger used to stage the report and written authorisation; no unsupplied speech or legible report wording is invented. Admission to waiting space is not opening attractions or ringing the Bell.
+[PanelizationHeading] PANEL CH02-PAGE176-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 15D A The Gate report arrives
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; Scene CH02 15D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; Scene CH02 15D; view; assigned beat stage only
+[ProductionNote] View. Medium at the dry recipe counter, with the clear Food Street route visible past the entrance-side end.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; Scene CH02 15D; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. On the cool street side, Ahana stands nearest the dry plate shelf, Navya beside the measuring-cup control and Vihaan beside the recipe book. Tara stands beside the blue-lidded box at the cool dry cupboard end. Her staff is supported against the blue wall, clear of the cupboard door and walking route; both hands are free for the assigned box or paper action. Tez stays on the paving beside Ahana, clear of feet. The food helper works behind the counter; its two assistants use the packing route. Tara’s staff is still supported at the dry blue wall. Pip arrives at the counter with a folded Gate report. The broad helper stands clear beside the cupboard.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; Scene CH02 15D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Blue-lidded box closed, photograph inside. Lantern Street is repaired; Food Street works; the path to Moon Square has been checked. The Gate report concerns crowding outside. Forty children may wait in Entry Court; the Parade lane must still be inspected before Tara leads them farther.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; Scene CH02 15D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Pip is the established messenger used to stage the report and written authorisation; no unsupplied speech or legible report wording is invented. Admission to waiting space is not opening attractions or ringing the Bell.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL03; Visual beat CH02 15D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15D A The Gate report arrives
+[ProductionNote] Moment and staging. Pip arrives with one folded report in its clip. Tara accepts it with her right hand while her left rests beside the closed box; the staff remains at the wall. Ahana has begun to lean forward with a question but stops to listen. The crowded Gate is information in the caption, not a crowd behind the counter.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Before Ahana can ask more, the Gate helper’s report arrives. The waiting area outside is crowded.
+[PanelizationEnd] END PANEL CH02-PAGE176-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE176-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 15D B Checked paths, waiting places
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; Scene CH02 15D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; Scene CH02 15D; view; assigned beat stage only
+[ProductionNote] View. Medium at the dry recipe counter, with the clear Food Street route visible past the entrance-side end.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; Scene CH02 15D; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. On the cool street side, Ahana stands nearest the dry plate shelf, Navya beside the measuring-cup control and Vihaan beside the recipe book. Tara stands beside the blue-lidded box at the cool dry cupboard end. Her staff is supported against the blue wall, clear of the cupboard door and walking route; both hands are free for the assigned box or paper action. Tez stays on the paving beside Ahana, clear of feet. The food helper works behind the counter; its two assistants use the packing route. Tara’s staff is still supported at the dry blue wall. Pip arrives at the counter with a folded Gate report. The broad helper stands clear beside the cupboard.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; Scene CH02 15D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Blue-lidded box closed, photograph inside. Lantern Street is repaired; Food Street works; the path to Moon Square has been checked. The Gate report concerns crowding outside. Forty children may wait in Entry Court; the Parade lane must still be inspected before Tara leads them farther.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; Scene CH02 15D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Pip is the established messenger used to stage the report and written authorisation; no unsupplied speech or legible report wording is invented. Admission to waiting space is not opening attractions or ringing the Bell.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL04; Visual beat CH02 15D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15D B Checked paths, waiting places
+[ProductionNote] Moment and staging. Tara reads the report held in both hands, expression turning practical. The trio look at her, hands clear. Keep the repaired left-street route visible only as a distant warm entrance glow; do not show a public parade, the Bell or an invented all-clear control.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Lantern Street and Food Street are usable, and the paths to Moon Square have been checked. Tara can begin bringing groups inside to sit while the search continues.
+[PanelizationEnd] END PANEL CH02-PAGE176-PANEL04
+[PanelizationHeading] PANEL CH02-PAGE176-PANEL05
+[PanelizationMetadata] SOURCE: Visual beat CH02 15D C Authorise forty, then inspect the lane
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; Scene CH02 15D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; Scene CH02 15D; view; assigned beat stage only
+[ProductionNote] View. Medium at the dry recipe counter, with the clear Food Street route visible past the entrance-side end.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; Scene CH02 15D; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. On the cool street side, Ahana stands nearest the dry plate shelf, Navya beside the measuring-cup control and Vihaan beside the recipe book. Tara stands beside the blue-lidded box at the cool dry cupboard end. Her staff is supported against the blue wall, clear of the cupboard door and walking route; both hands are free for the assigned box or paper action. Tez stays on the paving beside Ahana, clear of feet. The food helper works behind the counter; its two assistants use the packing route. Tara’s staff is still supported at the dry blue wall. Pip arrives at the counter with a folded Gate report. The broad helper stands clear beside the cupboard.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; Scene CH02 15D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Blue-lidded box closed, photograph inside. Lantern Street is repaired; Food Street works; the path to Moon Square has been checked. The Gate report concerns crowding outside. Forty children may wait in Entry Court; the Parade lane must still be inspected before Tara leads them farther.
+[PanelizationMetadata] SOURCE: Scene CH02 15D Space for safe waiting
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; Scene CH02 15D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Pip is the established messenger used to stage the report and written authorisation; no unsupplied speech or legible report wording is invented. Admission to waiting space is not opening attractions or ringing the Bell.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE176-PANEL05; Visual beat CH02 15D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15D C Authorise forty, then inspect the lane
+[ProductionNote] Moment and staging. Tara writes the authorisation on a fresh reply sheet on the dry counter with her right hand while her left steadies it. Pip waits beside the paper; the Gate report is set aside separately. Her staff remains supported at the wall. Handwriting is not independently legible, so no new wording is added. Freeze at the final written line with her gaze on the paper; the intended lane inspection has not yet happened.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She authorises forty children to wait in Entry Court. Then she will inspect the lane past the parade yard before leading them on.
+[PanelizationEnd] END PANEL CH02-PAGE176-PANEL05
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 177

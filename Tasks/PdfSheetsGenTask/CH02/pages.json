@@ -1,0 +1,2880 @@
+{
+ "chapter": "CH02",
+ "book": "ChandRush: The Midnight Mela",
+ "chapter_label": "Chapter 2",
+ "sources": {
+  "manuscript": "Reference/Chap 2/CH02-PANELIZED-MANUSCRIPT-V01.docx",
+  "register": "Reference/Chap 2/CH02-LOCATION-IMAGE-REGISTER-V04.docx",
+  "plates": "BagroundGenTask/ch02/out/plates/"
+ },
+ "pages": [
+  {
+   "page": "P001",
+   "pattern": "free composition (A4 world): panel 4 is the full-bleed world; panels 1-3 are an inset strip across the top (nearest grid S1 inverted)",
+   "theme": "a4-world",
+   "title": "",
+   "purpose": "story: chapter opening. Scene CH02 01A Clear the entrance: hands freed, cart pushed, bowl recovered, helper enters, then the reveal of Food Street. No maths.",
+   "beats": [
+    "CH02 01A A",
+    "CH02 01A B",
+    "CH02 01A C",
+    "CH02 01A D"
+   ],
+   "panels": [
+    {
+     "id": "P001-1",
+     "beat": "CH02 01A A",
+     "box": [
+      22,
+      22,
+      262,
+      196
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P001-1"
+     },
+     "background": {
+      "record": "L01_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L01_A.png",
+      "camera": "closer than the plate, on the near-left packing bench's entrance corner, child eye height; the crooked cart still blocking the entrance at right"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "screen-left, at the packing bench's entrance corner",
+       "action": "sets her portable brass lamp upright on the bench corner with her right hand; her left hand steadies its base",
+       "gaze": "the lamp",
+       "expression": "focused",
+       "holding": "brass lamp (being set down)"
+      },
+      {
+       "name": "Tara",
+       "position": "screen-right of Ahana, at the threshold",
+       "action": "tucks the protected evidence sleeve into her sash pocket with her left hand; right hand keeps her staff planted upright",
+       "gaze": "the sleeve",
+       "expression": "calm, purposeful",
+       "holding": "staff (right), evidence sleeve (left)"
+      },
+      {
+       "name": "Navya",
+       "position": "background-right, beside the cart",
+       "action": "waits",
+       "gaze": "the cart",
+       "expression": "ready",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "background, near the cart's trapped wheel",
+       "action": "waits",
+       "gaze": "the trapped bowl",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "behind Ahana, low, out of the wheel path",
+       "action": "sits",
+       "gaze": "Ahana",
+       "expression": "alert",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "crooked wooden cart still blocks the entrance, unmoved",
+      "one brass bowl trapped against the nearest wheel",
+      "Lantern Street stays lit behind the entrance"
+     ],
+     "painted_text": [],
+     "reserve": [],
+     "captions": [],
+     "bubbles": []
+    },
+    {
+     "id": "P001-2",
+     "beat": "CH02 01A B",
+     "box": [
+      296,
+      22,
+      262,
+      196
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P001-2"
+     },
+     "background": {
+      "record": "L01_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L01_A.png",
+      "camera": "low, near the cart wheel; the cart has moved just far enough to free the bowl, wheels settled"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "midground-left, at the cart frame",
+       "action": "both hands on the stationary cart frame, feet braced",
+       "gaze": "the wheel",
+       "expression": "effort easing",
+       "holding": "cart frame"
+      },
+      {
+       "name": "Navya",
+       "position": "midground-right, at the cart frame",
+       "action": "both hands on the stationary cart frame, feet braced",
+       "gaze": "the wheel",
+       "expression": "determined",
+       "holding": "cart frame"
+      },
+      {
+       "name": "Vihaan",
+       "position": "foreground, crouching outside the wheel track",
+       "action": "holds the now-free brass bowl in both hands",
+       "gaze": "the bowl",
+       "expression": "pleased",
+       "holding": "intact brass bowl"
+      },
+      {
+       "name": "Tez",
+       "position": "behind Ahana",
+       "action": "peeks past Ahana's legs",
+       "gaze": "the bowl",
+       "expression": "curious",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "cart stationary; no wheel overlaps any hand",
+      "bowl intact, now free"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "bottom",
+       "w": 1.0,
+       "h": 0.3
+      }
+     ],
+     "captions": [
+      "Ahana and Navya push the crooked cart away from Food Street’s entrance. Vihaan lifts a bowl trapped beneath its wheel."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P001-3",
+     "beat": "CH02 01A C",
+     "box": [
+      570,
+      22,
+      272,
+      196
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P001-3"
+     },
+     "background": {
+      "record": "L01_B",
+      "plate": "BagroundGenTask/ch02/out/plates/L01_B.png",
+      "camera": "from just inside the lane looking back towards the cleared entrance and lit Lantern Street"
+     },
+     "characters": [
+      {
+       "name": "Blue-waistcoated helper",
+       "position": "centre, coming through the cleared entrance",
+       "action": "pushes its empty ordinary wooden handcart through the entrance, both wooden hands on the handle",
+       "gaze": "ahead",
+       "expression": "steady",
+       "holding": "handcart handle",
+       "note": "no character sheet: broad helper in a blue waistcoat with a navy sash and carved wooden hands, as the manuscript describes"
+      },
+      {
+       "name": "Vihaan",
+       "position": "screen-left, beside the parked crooked cart",
+       "action": "stands holding the recovered bowl with both hands",
+       "gaze": "the helper",
+       "expression": "watchful",
+       "holding": "brass bowl"
+      },
+      {
+       "name": "Ahana",
+       "position": "aside, screen-right",
+       "action": "stands aside, hands free",
+       "gaze": "the helper",
+       "expression": "welcoming",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "aside, screen-right of Ahana",
+       "action": "stands aside, hands free",
+       "gaze": "the helper",
+       "expression": "relaxed",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "entering behind the helper",
+       "action": "walks in, staff in right hand",
+       "gaze": "the lane",
+       "expression": "calm",
+       "holding": "staff"
+      },
+      {
+       "name": "Tez",
+       "position": "entering behind, low",
+       "action": "trots in",
+       "gaze": "ahead",
+       "expression": "bright",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "crooked cart parked lengthways at the near-left wall",
+      "helper's handcart is empty and a different object from the crooked cart"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "bottom",
+       "w": 1.0,
+       "h": 0.3
+      }
+     ],
+     "captions": [
+      "Once the way is clear, the blue-waistcoated helper follows them in with its empty cart."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P001-4",
+     "beat": "CH02 01A D",
+     "box": [
+      0,
+      0,
+      864,
+      648
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P001-4",
+      "role": "full-bleed world of the page (A4 SCENE)",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "L01_B",
+      "plate": "BagroundGenTask/ch02/out/plates/L01_B.png",
+      "camera": "same as plate: wide from the entrance into the lane; keep the upper third (awnings, lamps, moon) calm because the inset strip of panels 1-3 covers it"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "lower-centre, seen from behind/three-quarter, mid-lane",
+       "action": "looks to the left at the cooking counter",
+       "gaze": "left",
+       "expression": "awed",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "lower-centre right of Ahana",
+       "action": "looks to the right at the drinks",
+       "gaze": "right",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "lower-centre",
+       "action": "looks left and right; the recovered bowl already set on the dry packing bench",
+       "gaze": "around",
+       "expression": "excited",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "behind the trio",
+       "action": "stands with staff",
+       "gaze": "the lane",
+       "expression": "composed",
+       "holding": "staff"
+      },
+      {
+       "name": "Tez",
+       "position": "beside Ahana",
+       "action": "looks up the lane",
+       "gaze": "ahead",
+       "expression": "alert",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "recovered bowl on the dry packing bench",
+      "crooked cart parked at near-left wall",
+      "distant mathematical details unreadable; no completed repair shown"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "inset strip of panels 1-3",
+       "where": "top",
+       "w": 1.0,
+       "h": 0.36
+      },
+      {
+       "for": "caption",
+       "where": "lower-right",
+       "w": 0.4,
+       "h": 0.22
+      }
+     ],
+     "captions": [
+      "Food Street is a covered lane of counters beneath saffron and teal awnings. The cooking counter is on the left and the drinks are on the right. Near the entrance, a pale packing bench stands beside a covered doorway."
+     ],
+     "bubbles": []
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Story page, no maths and no printed title (the manuscript gives none). Reading order: inset 1 → 2 → 3 across the top, then the world's caption (panel 4). Panel 1 is silent: no text at all. The waiting Gate crowd must not appear behind the cooking counter. Show the hand-freeing (panel 1) before the push (panel 2). Food Street is powered but the fair has not opened. The helper has no character sheet: it is drawn from the manuscript description (broad, blue waistcoat, navy sash, wooden hands); flag for the author.",
+   "art": {
+    "idea": "Stepping through the door of a film: the chapter opens on the threshold of Food Street, and the page IS the lane the heroes are about to walk into.",
+    "scene": {
+     "plate": "FInalChangesTask/CH02/out/P001-4.png (the panel-4 art is the world; fall back to BagroundGenTask/ch02/out/plates/L01_B.png until it exists)",
+     "grade": "lamp-warm foreground and entrance, cool moon-blue deep in the lane towards the closed Parade shutters",
+     "mirror": false,
+     "blank": [],
+     "crop": "keep the trio in the lower half; the 4:3 crop of the 3:2 art"
+    },
+    "panes": {
+     "narration caption (panel 4)": "default dark glass, p.voice, lower-right",
+     "inset captions (panels 2-3)": "frost glass strips along the inset's bottom edge"
+    },
+    "hero": "the reveal of the whole lane behind the trio, seen over their shoulders",
+    "illustrate": "no maths on this page; the round two-tray table glints in the distance as a quiet promise (unreadable, no numbers)",
+    "cast": "Ahana, Navya, Vihaan, Tara, Tez in every panel; the blue-waistcoated helper in panel 3",
+    "colour": "warm lamp gold at the entrance against cool moonlight down the lane: the story moves from the lit threshold into the unknown",
+    "delights": [
+     "the three insets sit like film frames in a brass-hairline strip, with a fine sprocket-like rhythm of lamp-gold ticks between them",
+     "a bloom on Ahana's brass lamp in panel 1 echoes the bloom on the lamps of the lane below",
+     "a moon bloom over the far shutters"
+    ],
+    "folio": "moon phase, lit fraction 1/178 ≈ 0.006 (thin sliver), page 01",
+    "varies": "first page of the chapter: a full-bleed world with an inset strip. P002 uses a tall left panel plus the loading-table plate as its world."
+   }
+  },
+  {
+   "page": "P002",
+   "pattern": "free composition (A4 world): panel 2 (plate L03_C) is the full-bleed world; panel 1 a tall inset at left, panel 3 a close-up inset at lower right (nearest grid S3)",
+   "theme": "a4-world",
+   "title": "",
+   "purpose": "story: Scene CH02 01B The short route and the brake: Tara shows Return Walk, the uneven loading table is introduced, Tara locks its brake. No maths.",
+   "beats": [
+    "CH02 01B A",
+    "CH02 01B B",
+    "CH02 01B C"
+   ],
+   "panels": [
+    {
+     "id": "P002-1",
+     "beat": "CH02 01B A",
+     "box": [
+      22,
+      22,
+      330,
+      470
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P002-1",
+      "aspect": "portrait 1024x1536"
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "medium from the entrance side towards the packing bench and the Return Walk side doorway; portrait framing on the doorway"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "foreground right of the doorway, turned towards it",
+       "action": "points through the side doorway with her free left index finger; her right hand keeps the staff upright; she speaks to the trio",
+       "gaze": "the trio (turning back from the doorway)",
+       "expression": "explaining, confident",
+       "holding": "staff (right)"
+      },
+      {
+       "name": "Ahana",
+       "position": "foreground-left, near the bench",
+       "action": "faces Tara",
+       "gaze": "Tara",
+       "expression": "listening",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "foreground, beside Ahana",
+       "action": "faces Tara",
+       "gaze": "Tara",
+       "expression": "interested",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "foreground, beside Navya",
+       "action": "faces Tara",
+       "gaze": "Tara",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "at the threshold",
+       "action": "looks through the opening",
+       "gaze": "through the doorway",
+       "expression": "curious",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Return Walk glimpse through the doorway: indigo posts, blue roof, warm bracket lamps; no Gate crowd, no distant courtyards",
+      "the clip above the bench is empty (no drawing yet)",
+      "Ahana's lamp and the recovered bowl at the bench's entrance corner",
+      "delivery trolley parked; crooked cart at near-left wall"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "top",
+       "w": 1.0,
+       "h": 0.34
+      },
+      {
+       "for": "caption",
+       "where": "bottom",
+       "w": 1.0,
+       "h": 0.12
+      }
+     ],
+     "captions": [
+      "Tara points through it."
+     ],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "This is Return Walk, a shorter covered path back to Entry Court, just inside the Blue Gate. The food helpers can take their trolleys straight to the waiting children instead of going through all the streets.",
+       "where": "top",
+       "tail_to": "Tara's mouth"
+      }
+     ]
+    },
+    {
+     "id": "P002-2",
+     "beat": "CH02 01B B",
+     "box": [
+      0,
+      0,
+      864,
+      648
+     ],
+     "art": {
+      "kind": "plate",
+      "image": "BagroundGenTask/ch02/out/plates/L03_C.png",
+      "role": "full-bleed world of the page (A4 SCENE)"
+     },
+     "background": {
+      "record": "L03_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_C.png",
+      "camera": "same as plate"
+     },
+     "characters": [],
+     "props_state": [
+      "both trays empty; the entrance-side tray hangs lower at its shallow stop",
+      "packing bench edge and side doorway at left as anchors"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "beside the table, not over the trays",
+       "w": 0.36,
+       "h": 0.2
+      }
+     ],
+     "captions": [
+      "A round serving table fills the middle of the lane. It turns between the packing bench and the delivery trolley, bringing loaded trays to the helpers. One tray hangs lower than the other."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P002-3",
+     "beat": "CH02 01B C",
+     "box": [
+      560,
+      404,
+      282,
+      222
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P002-3"
+     },
+     "background": {
+      "record": "L03_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_C.png",
+      "camera": "medium-close on the brake housing at the table's pedestal, from the entrance side; the tilted trays still visible above"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "by the brake housing",
+       "action": "presses the rotation brake into its locked position with her left hand; staff in her right",
+       "gaze": "the brake",
+       "expression": "focused",
+       "holding": "staff (right)"
+      },
+      {
+       "name": "Ahana",
+       "position": "near side, partly in frame",
+       "action": "watches",
+       "gaze": "the brake",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "near side, partly in frame",
+       "action": "watches",
+       "gaze": "the trays",
+       "expression": "thoughtful",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side, partly in frame",
+       "action": "watches",
+       "gaze": "the brake",
+       "expression": "interested",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "table stationary, unequal tray height retained (entrance-side tray lower)",
+      "rotation latch engaged; the separate squeeze tilt-damper lever NOT engaged",
+      "no solved load balance, trays empty"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "bottom",
+       "w": 1.0,
+       "h": 0.3
+      }
+     ],
+     "captions": [
+      "Tara locks its brake so that, for now, the helpers can load without the table moving."
+     ],
+     "bubbles": []
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Story page, no maths. Reading order: panel 1 (bubble, then its caption 'Tara points through it.'), then the world caption (panel 2), then panel 3. Judgement call: panel 2 is the empty loading-table plate L03_C as the page's world (the caption narrates the table); the children and Tara appear at the table in panel 3. The trolley's 'MAXIMUM LOAD 4.5 kg' is an approved inscription; any other painted number in the plates (the '0.5 kg' tray mark on L03_A) must not be prominent and must not be added. Do not show the trays balanced. Tez never pushes or carries.",
+   "art": {
+    "idea": "The machine at the heart of the lane: the round loading table stands in the world like a brass instrument that is slightly out of true, waiting for its problem to be solved.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L03_C.png",
+     "grade": "cooler than P001: moon-blue lane with warm brass light pooled on the table and the Return Walk lamps",
+     "mirror": false,
+     "blank": [],
+     "crop": "shift so the table and its tilted trays sit right of centre, clear of the tall left inset"
+    },
+    "panes": {
+     "speech (panel 1)": ".say bubble with curved tail to Tara's mouth",
+     "narration captions": "default dark glass, p.voice; inset caption as a frost strip"
+    },
+    "hero": "the tilted two-tray table, its low tray caught exactly at the stop",
+    "illustrate": "no maths yet: a thin lamp-gold dashed level line across the two trays shows they are not level (no numbers, no angle value)",
+    "cast": "Tara, Ahana, Navya, Vihaan, Tez in panel 1; Tara and the trio in panel 3",
+    "colour": "cool moonlit stone against warm brass: the brass mechanism glows as the thing to watch",
+    "delights": [
+     "the dashed level line skimming the trays",
+     "warm bloom spilling from the Return Walk doorway in panel 1, echoed by a soft glow at the left edge of the world",
+     "panel 3's inset sits like a magnified detail with a brass hairline linking it to the brake housing in the world"
+    ],
+    "folio": "moon phase, lit fraction 2/178 ≈ 0.011, page 02",
+    "varies": "P001 is a wide reveal with a top inset strip; P002 is vertical-left plus a detail close-up, cooler grade, the machine as hero."
+   }
+  },
+  {
+   "page": "P003",
+   "pattern": "2×2 story grid: card dilemma above, serving-size reveal and Tez reaction below",
+   "theme": "theme-navy",
+   "title": "",
+   "purpose": "Story: the wooden helper is torn between recipe cards; the crew discovers one oversized and one tiny dosa. No maths.",
+   "beats": [
+    "CH02 01C A",
+    "CH02 01C B",
+    "CH02 01D A",
+    "CH02 01D B"
+   ],
+   "panels": [
+    {
+     "id": "P003-1",
+     "beat": "CH02 01C A",
+     "box": [
+      22,
+      22,
+      402,
+      285
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-1"
+     },
+     "background": {
+      "record": "L02_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_A.png",
+      "camera": "medium across the cool recipe counter; preserve blue wall, closed cupboard and brass batter tank"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "behind the counter",
+       "action": "faces Tara holding one instruction card in each wooden hand, elbows bent; painted eyes worried",
+       "gaze": "the cards",
+       "expression": "worried",
+       "holding": "two cards"
+      },
+      {
+       "name": "Tara",
+       "position": "right at shut-off end",
+       "action": "watches, left hand relaxed, staff upright in right hand",
+       "gaze": "helper",
+       "expression": "serious",
+       "holding": "staff"
+      },
+      {
+       "name": "Ahana",
+       "position": "near side left",
+       "action": "listens from the cool side",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "near side beside Ahana",
+       "action": "listens",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side beside Navya",
+       "action": "listens",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Cards remain blank/unlettered; no pour begins",
+      "Original book and weights remain stored in closed cupboard"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [
+      "Behind the recipe counter stands a wooden helper in a saffron apron and an ivory cap. It holds two different instructions for the same dish."
+     ],
+     "bubbles": [
+      {
+       "speaker": "Food helper",
+       "text": "I have food.",
+       "where": "upper-left",
+       "tail_to": "Food helper’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P003-2",
+     "beat": "CH02 01C B",
+     "box": [
+      440,
+      22,
+      402,
+      285
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-2"
+     },
+     "background": {
+      "record": "L02_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_A.png",
+      "camera": "medium across the cool recipe counter; preserve blue wall, closed cupboard and brass batter tank; preserve camera and character positions from P003-1"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "centre behind counter",
+       "action": "lowers left card slightly and angles right card towards Tara; head tilted between them",
+       "gaze": "the cards",
+       "expression": "uncertain",
+       "holding": "both cards"
+      },
+      {
+       "name": "Tara",
+       "position": "right",
+       "action": "listens with staff upright in right hand",
+       "gaze": "helper",
+       "expression": "measured",
+       "holding": "staff"
+      },
+      {
+       "name": "Ahana",
+       "position": "near side left",
+       "action": "watches cards",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "near side",
+       "action": "watches cards",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side",
+       "action": "watches cards",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Cards stay held with no readable writing",
+      "No batter is poured"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Food helper",
+       "text": "I don’t know which cards to follow.",
+       "where": "upper-left",
+       "tail_to": "Food helper’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P003-3",
+     "beat": "CH02 01D A",
+     "box": [
+      22,
+      329,
+      510,
+      297
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-3"
+     },
+     "background": {
+      "record": "L02_G",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_G.png",
+      "camera": "low medium along cool plate shelf towards brass tank and measuring cup; separate cooking surface visible"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "left at dry shelf",
+       "action": "leans forward slightly, hands apart on clear front edge, looking at oversized dosa",
+       "gaze": "oversized dosa",
+       "expression": "concerned",
+       "holding": "nothing"
+      },
+      {
+       "name": "Food helper",
+       "position": "behind dispenser",
+       "action": "stands behind tank, hands off handle",
+       "gaze": "the portions",
+       "expression": "uneasy",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "One oversized cooked dosa over a too-small plate, plus a tiny dosa",
+      "Tank, measuring cup and separate cooking surface distinct",
+      "Do not show the correct serving amount"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [
+      "Ahana looks at a cooked dosa hanging over a plate far too small for it. Beside it is a tiny one. Above the cooking surface stands a brass batter dispenser: a tank with a measuring cup beneath it. Each pull should release one measured cup of batter onto the hot plate. The food helper cooks the dosa, then moves it onto a serving plate."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P003-4",
+     "beat": "CH02 01D B",
+     "box": [
+      550,
+      329,
+      292,
+      297
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-4"
+     },
+     "background": {
+      "record": "L02_G",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_G.png",
+      "camera": "lower close crop at shelf, Tez face below front edge, tiny dosa above"
+     },
+     "characters": [
+      {
+       "name": "Tez",
+       "position": "low foreground below shelf",
+       "action": "on all four paws, head lifted towards tiny dosa, ears cocked",
+       "gaze": "tiny dosa",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Ahana",
+       "position": "behind shelf",
+       "action": "looks down at Tez with slight smile, hands at cool edge",
+       "gaze": "Tez",
+       "expression": "amused",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Tiny dosa visible above Tez; no paw touches hot equipment"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tez",
+       "text": "Is this one for an ant?",
+       "where": "upper-right",
+       "tail_to": "Tez’s mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Keep the original recipe book, balance and weights inside closed cupboard. Cards have no legible text.",
+   "art": {
+    "idea": "The recipe counter becomes a choice point: two competing cards hang in the cool blue-and-brass kitchen, then the page drops to the serving shelf where one oversized dosa and one tiny dosa make the mismatch immediately visible.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L02_G.png",
+     "grade": "Keep the cool cobalt wall and cream-marble shelf; pool warm lamp gold around the brass dispenser and cooked plates, matching the approved storybook/soft-3D treatment while preserving the plate’s painterly realism.",
+     "mirror": false,
+     "blank": [],
+     "crop": "Keep the dispenser and both cooked portions in the lower world; leave the upper left open for the two card-dialogue panes."
+    },
+    "panes": {
+     "food helper dialogue": "compact warm-ivory .say lozenge with a fine brass edge, two-card beat kept in upper left; second line follows in a separate pane without moving the camera",
+     "narration": "frosted dark-glass caption pane at the lower-left of the reveal, aligned to the shelf scene; maintain 14/18 type"
+    },
+    "hero": "The two incompatible recipe cards are the first focal point; the visual turn is the contrast between the too-large dosa and tiny dosa on the cream shelf.",
+    "objects": {
+     "dialogue": "the held recipe cards, left and right, kept blank for HTML dialogue",
+     "caption": "a narrow frost pane aligned to the cool shelf, never printed on the plate",
+     "aside": "Tez speaks from beneath the plate-shelf edge; bubble tail ends at his muzzle"
+    },
+    "illustrate": "No mathematics on this page. Keep the brass tank, measuring cup, hot cooking surface and serving plates physically distinct. Show one oversized cooked dosa over a too-small plate and one tiny dosa; do not add weights, fractions, measurement marks or a correct target portion.",
+    "cast": "P003-1/2: wooden Food helper in saffron apron and ivory cap, Tara, Ahana, Navya and Vihaan at the cool side. P003-3: Ahana at the shelf and helper behind the tank. P003-4: Tez low under the shelf with Ahana looking down. Keep the helper’s dimensional, friendly storybook rendering consistent with P001.",
+    "colour": "Royal-blue lacquer and navy shadow from the plate; cream marble shelf; warm amber key light on the brass tank and food; soft cool moon rim on the helper and children. The warmth is controlled and cinematic, not pastel.",
+    "delights": [
+     "A small brass lamp reflection travels from the raised card edges to the dispenser cup as the eye moves down-page.",
+     "The oversized dosa casts a long warm shadow over the plate rim while the tiny dosa sits in a distinct moon-cool pool.",
+     "Tez’s muzzle just clears the marble shelf edge in the final panel; keep the pose grounded and restrained."
+    ],
+    "folio": "moon phase, lit fraction 3/178 ≈ 0.017, page 03; place in the quiet upper-right of the full-bleed scene.",
+    "varies": "P001 is the entrance reveal and P002 centers on a machine; P003 shifts into a counter-height dilemma and uses the food-size contrast as its own visual rhythm. The approved sample’s dimensional storybook/soft-3D warmth guides the figures, with the actual CH02 plate remaining the palette and material authority."
+   }
+  },
+  {
+   "page": "P004",
+   "pattern": "2×2 dialogue sequence with changing speaker emphasis and a continuous counter axis",
+   "theme": "theme-navy",
+   "title": "",
+   "purpose": "Story: Ahana connects Veer to the faulty mark; Tara confirms his history and Navya sees intent.",
+   "beats": [
+    "CH02 01E A",
+    "CH02 01E B",
+    "CH02 01E C",
+    "CH02 01E D"
+   ],
+   "panels": [
+    {
+     "id": "P004-1",
+     "beat": "CH02 01E A",
+     "box": [
+      22,
+      22,
+      402,
+      285
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-1"
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "medium at the cool recipe counter; same shelf, faulty mark and camera axis"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "left at shelf",
+       "action": "Ahana faces Tara, left palm open at waist, right hand on shelf; Tara listens, staff in right hand; Navya, Vihaan watch; Tez at Ahana’s feet.",
+       "gaze": "Tara",
+       "expression": "remembering",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right, staff planted",
+       "action": "listens to Ahana",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "staff"
+      },
+      {
+       "name": "Navya",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "Tara",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "at Ahana’s feet",
+       "action": "sits and watches",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Faulty equipment remains untouched",
+      "Do not depict Veer or a flashback"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "You said Veer used to make that mark.",
+       "where": "upper-left",
+       "tail_to": "Ahana’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P004-2",
+     "beat": "CH02 01E B",
+     "box": [
+      440,
+      22,
+      402,
+      285
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-2"
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "medium at the cool recipe counter; same shelf, faulty mark and camera axis"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "left at shelf",
+       "action": "Ahana draws left palm closer to chest and raises eyebrows; same camera and positions.",
+       "gaze": "Tara",
+       "expression": "remembering",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right, staff planted",
+       "action": "listens to Ahana",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "staff"
+      },
+      {
+       "name": "Navya",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "Tara",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "at Ahana’s feet",
+       "action": "sits and watches",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Faulty equipment remains untouched",
+      "Do not depict Veer or a flashback"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "Was he part of the fair?",
+       "where": "upper-left",
+       "tail_to": "Ahana’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P004-3",
+     "beat": "CH02 01E C",
+     "box": [
+      22,
+      329,
+      402,
+      297
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-3"
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "medium at the cool recipe counter; same shelf, faulty mark and camera axis"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "left at shelf",
+       "action": "listens to Tara",
+       "gaze": "Tara",
+       "expression": "focused",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right, staff planted",
+       "action": "Tara turns towards Ahana, sober; left palm indicates counter; staff planted in right; Ahana listens. No flashback.",
+       "gaze": "Ahana",
+       "expression": "sober",
+       "holding": "staff"
+      },
+      {
+       "name": "Navya",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "Tara",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "at Ahana’s feet",
+       "action": "sits and watches",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Faulty equipment remains untouched",
+      "Do not depict Veer or a flashback"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "He came here as a child. He helped at this counter. He knows how much trouble a wrong instruction can cause.",
+       "where": "upper-left",
+       "tail_to": "Tara’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P004-4",
+     "beat": "CH02 01E D",
+     "box": [
+      440,
+      329,
+      402,
+      297
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-4"
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "medium at the cool recipe counter; same shelf, faulty mark and camera axis"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "left at shelf",
+       "action": "listens to Tara",
+       "gaze": "Tara",
+       "expression": "focused",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right, staff planted",
+       "action": "listens to Ahana",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "staff"
+      },
+      {
+       "name": "Navya",
+       "position": "near side",
+       "action": "leans forward to speak",
+       "gaze": "Tara",
+       "expression": "firm",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side",
+       "action": "watches the exchange",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "at Ahana’s feet",
+       "action": "sits and watches",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Faulty equipment remains untouched",
+      "Do not depict Veer or a flashback"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Navya",
+       "text": "Then these aren’t accidents.",
+       "where": "upper-left",
+       "tail_to": "Navya’s mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "No flashback or depiction of Veer. Faulty equipment remains untouched.",
+   "art": {
+    "idea": "The counter becomes a listening room: four connected close frames move from Ahana’s memory, to her question, to Tara’s sober answer, to Navya’s realization. Keep the equipment still so the conversation carries the suspense.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+     "grade": "Retain the plate’s cool blue counter and amber brass highlights; bring the characters forward with warm practical light and gentle dimensional shading in the approved storybook/soft-3D family.",
+     "mirror": false,
+     "blank": [
+      [
+       0,
+       285,
+       165,
+       382
+      ],
+      [
+       405,
+       205,
+       560,
+       282
+      ],
+      [
+       570,
+       205,
+       755,
+       282
+      ]
+     ],
+     "crop": "Counter-height crop across the working surface; keep the faulty mark and the closed cupboard in the scenic world while the dialogue frames occupy the left and right margins."
+    },
+    "panes": {
+     "speech": "one consistent warm-ivory .say lozenge per speaking beat; keep its tail short, clear and attached to the current speaker",
+     "narration": "none on this page"
+    },
+    "hero": "The four-person exchange around the faulty mark; Ahana’s recognition leads into Tara’s history and Navya’s conclusion.",
+    "objects": {
+     "speech": "ivory lozenges placed in reading order over calm blue wall areas; maintain the same style for all four beats",
+     "mark": "retain the already-existing faulty mark as an unlabelled object; do not add a close-up flashback or any new writing"
+    },
+    "illustrate": "No maths. Preserve the same medium counter axis through all four beats; use closer crops or focus shifts only. The equipment stays untouched, and Veer is spoken about but never shown.",
+    "cast": "Ahana, Tara, Navya, Vihaan and Tez as staged. Tara’s posture stays composed through the first two turns; the frame tightens on her sober reply, then shifts to Navya leaning into her realization. Preserve established identities and clothing from the character sheets.",
+    "colour": "Blue and slate carry the quiet interrogation; brass highlights stay low and concentrated at the faulty mark. Warm skin and amber light remain subtle against the moon-cool counter.",
+    "delights": [
+     "A tiny moving lamp highlight catches the edge of the faulty mark, then disappears from the next frame.",
+     "The brass staff’s vertical line anchors Tara’s unchanged position across the conversation.",
+     "The final frame gives Navya’s firm expression the clearest pool of warm light, without changing the scene or adding a graphic icon."
+    ],
+    "folio": "moon phase, lit fraction 4/178 ≈ 0.022, page 04; keep it unobtrusive in the upper-right.",
+    "varies": "P003 uses distinct objects and a low reveal; P004 stays in one counter setup and lets expressions and speaker rhythm create movement. P005 returns to the dispenser controls, so P004 should feel quiet and investigative."
+   }
+  },
+  {
+   "page": "P005",
+   "pattern": "five-beat sequence with tight dispenser close-ups then a wider crew instruction panel",
+   "theme": "theme-navy",
+   "title": "",
+   "purpose": "Story: the cup stops incorrectly; the helper describes inconsistency; Tara shuts supply, protects cooked food, then directs them to the recipe book.",
+   "beats": [
+    "CH02 01F A",
+    "CH02 01F B",
+    "CH02 01F C",
+    "CH02 01F D",
+    "CH02 01F E"
+   ],
+   "panels": [
+    {
+     "id": "P005-1",
+     "beat": "CH02 01F A",
+     "box": [
+      22,
+      22,
+      318,
+      286
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P005-1"
+     },
+     "background": {
+      "record": "L02_D",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_D.png",
+      "camera": "medium along cool counter towards brass dispenser controls; supply tap and measuring cup clear"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "behind brass dispenser",
+       "action": "points at cup’s stop with right index; left hand on dry back edge; looks at Tara. Children stay on cool side. Do not show correct one-sixth.",
+       "gaze": "cup or Tara",
+       "expression": "concerned",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right of dispenser",
+       "action": "closes tap only in beat C; otherwise speaks or watches",
+       "gaze": "helper",
+       "expression": "focused",
+       "holding": "staff"
+      }
+     ],
+     "props_state": [
+      "Keep two cooked dosas aside and unchanged",
+      "No batter stream after shutoff",
+      "Do not show correct one-sixth setting or open original book before the final beat"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Food helper",
+       "text": "The cup stops at the wrong position.",
+       "where": "upper-left",
+       "tail_to": "Food helper’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P005-2",
+     "beat": "CH02 01F B",
+     "box": [
+      362,
+      22,
+      480,
+      286
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P005-2"
+     },
+     "background": {
+      "record": "L02_D",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_D.png",
+      "camera": "medium along cool counter towards brass dispenser controls; supply tap and measuring cup clear"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "behind brass dispenser",
+       "action": "withdraws pointing finger and opens palm beside cup; tilts head towards two cooked portions. Only gesture/gaze/dialogue change.",
+       "gaze": "cup or Tara",
+       "expression": "concerned",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right of dispenser",
+       "action": "closes tap only in beat C; otherwise speaks or watches",
+       "gaze": "helper",
+       "expression": "focused",
+       "holding": "staff"
+      }
+     ],
+     "props_state": [
+      "Keep two cooked dosas aside and unchanged",
+      "No batter stream after shutoff",
+      "Do not show correct one-sixth setting or open original book before the final beat"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Food helper",
+       "text": "Sometimes it fills too much. Sometimes too little.",
+       "where": "upper-left",
+       "tail_to": "Food helper’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P005-3",
+     "beat": "CH02 01F C",
+     "box": [
+      22,
+      330,
+      264,
+      296
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P005-3"
+     },
+     "background": {
+      "record": "L02_D",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_D.png",
+      "camera": "medium along cool counter towards brass dispenser controls; supply tap and measuring cup clear"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "behind brass dispenser",
+       "action": "Tara closes accessible tap with left hand, staff in right; helper withdraws both hands. Ahana, Vihaan, Navya watch; no batter stream.",
+       "gaze": "cup or Tara",
+       "expression": "withdrawn",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right of dispenser",
+       "action": "closes tap only in beat C; otherwise speaks or watches",
+       "gaze": "helper",
+       "expression": "focused",
+       "holding": "staff"
+      },
+      {
+       "name": "Ahana",
+       "position": "cool side",
+       "action": "watches Tara and closed tap",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "cool side",
+       "action": "watches Tara",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "cool side",
+       "action": "watches Tara",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Keep two cooked dosas aside and unchanged",
+      "No batter stream after shutoff",
+      "Do not show correct one-sixth setting or open original book before the final beat"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [
+      "Tara closes the dispenser’s supply tap."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P005-4",
+     "beat": "CH02 01F D",
+     "box": [
+      306,
+      330,
+      264,
+      296
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P005-4"
+     },
+     "background": {
+      "record": "L02_D",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_D.png",
+      "camera": "medium along cool counter towards brass dispenser controls; supply tap and measuring cup clear"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "behind brass dispenser",
+       "action": "tap now closed; Tara gestures towards two cooked plates, palm down; helper keeps plates aside; staff remains in right.",
+       "gaze": "cup or Tara",
+       "expression": "withdrawn",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right of dispenser",
+       "action": "closes tap only in beat C; otherwise speaks or watches",
+       "gaze": "helper",
+       "expression": "focused",
+       "holding": "staff"
+      },
+      {
+       "name": "Ahana",
+       "position": "cool side",
+       "action": "watches Tara and closed tap",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "cool side",
+       "action": "watches Tara",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "cool side",
+       "action": "watches Tara",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Keep two cooked dosas aside and unchanged",
+      "No batter stream after shutoff",
+      "Do not show correct one-sixth setting or open original book before the final beat"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "We will check the food we have, then the amount for one serving. Keep the cooked dosas aside. A new setting will change the next pour, not the food already on these plates.",
+       "where": "upper-left",
+       "tail_to": "Tara’s mouth"
+      }
+     ]
+    },
+    {
+     "id": "P005-5",
+     "beat": "CH02 01F E",
+     "box": [
+      590,
+      330,
+      252,
+      296
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P005-5"
+     },
+     "background": {
+      "record": "L02_D",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_D.png",
+      "camera": "medium along cool counter towards brass dispenser controls; supply tap and measuring cup clear"
+     },
+     "characters": [
+      {
+       "name": "Food helper",
+       "position": "behind brass dispenser",
+       "action": "Tara points towards cupboard, gaze shifts from plates to helper; staff in right; closed tap and wrong stop persist.",
+       "gaze": "cup or Tara",
+       "expression": "withdrawn",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "right of dispenser",
+       "action": "closes tap only in beat C; otherwise speaks or watches",
+       "gaze": "helper",
+       "expression": "focused",
+       "holding": "staff"
+      },
+      {
+       "name": "Ahana",
+       "position": "cool side",
+       "action": "watches Tara and closed tap",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "cool side",
+       "action": "watches Tara",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "cool side",
+       "action": "watches Tara",
+       "gaze": "the other speaker",
+       "expression": "attentive",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "Keep two cooked dosas aside and unchanged",
+      "No batter stream after shutoff",
+      "Do not show correct one-sixth setting or open original book before the final beat"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.68,
+       "h": 0.28
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "First, we compare the loose cards with the helper’s original recipe book.",
+       "where": "upper-left",
+       "tail_to": "Tara’s mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "No correct one-sixth position yet. Keep dosas separate and unchanged. No batter after shutoff. Recipe book stays in cupboard until final beat.",
+   "art": {
+    "idea": "The page is a controlled shutdown: the measuring cup stops wrong, the helper explains the inconsistency, Tara closes the supply, then directs the crew to protect the cooked food and check the source recipe.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L02_D.png",
+     "grade": "Preserve the cobalt counter and warm brass dispenser; use a slightly stronger amber pool at the tap and a cooler edge around the cooked plates to separate control from existing food. Keep the approved painterly 3D storybook material finish.",
+     "mirror": false,
+     "blank": [],
+     "crop": "Keep the tap, cup stop and two cooked portions within the page world; reserve the upper and outer wall areas for speech panes."
+    },
+    "panes": {
+     "speech": "compact ivory .say panels with short tails; dialogue order follows five beats, each pane stays clear of the measuring cup and tap",
+     "caption": "pale frosted caption pane for the tap-closing beat, located near but not over the hand"
+    },
+    "hero": "Tara’s left hand closing the accessible supply tap while the already-cooked portions remain separate and unchanged.",
+    "objects": {
+     "speech": "use the controls’ calm wall space, never overlay the fingers, stop or cup",
+     "caption": "tailless pale pane at the edge of the tap beat",
+     "book": "the recipe book remains unseen until the final beat; do not print a new title or label on it"
+    },
+    "illustrate": "No calculations or one-sixth target yet. The cup is at the wrong stop in beats A/B. After beat C, show no batter stream. Preserve the two cooked dosas as already-finished, separate portions through beats D/E; a new control setting must not alter them.",
+    "cast": "Food helper and Tara lead; Ahana, Navya and Vihaan watch from the cool side in beats C–E. Use the same helper design as P003, and maintain Tara’s staff in her right hand while her left works the tap and indicates the cupboard.",
+    "colour": "Amber brass focus at the wrong stop and tap, balanced by a moon-cool shelf around the cooked plates. Keep the plate’s cobalt and cream-marble materials; shift only light, not hue family.",
+    "delights": [
+     "A warm highlight falls on the cup’s incorrect stop, then the tap handle becomes the brightest metal detail when Tara closes it.",
+     "The cooked plates keep a stable cool rim-light through the remaining dialogue, visibly unchanged after shutoff.",
+     "The final glance travels from the shut tap to the cupboard latch, preparing the next page without revealing the book contents."
+    ],
+    "folio": "moon phase, lit fraction 5/178 ≈ 0.028, page 05; place clear of the speech sequence.",
+    "varies": "P004 is restrained and face-led. P005 becomes a five-beat object/action sequence: tight control detail, firm tap closure, then a wider instruction beat. Keep the warmer storybook/soft-3D character treatment approved on P001, grounded in the real CH02 location plate."
+   }
+  },
+  {
+   "page": "P006",
+   "pattern": "free composition (A4 world): panel 1 is the full-bleed world (plate L02_B, the counter still life); panel 2 a portrait inset upper-right; panels 3-5 a strip of three insets along the bottom (the bench conversation)",
+   "theme": "a4-world",
+   "title": "",
+   "purpose": "story: Scene CH02 01G (the helper brings out the original recipe book, balance and weights; Ahana looks back towards the Gate) then Scene CH02 02A (Ahana asks to send food while they work; Tara: once a recipe and portions are right; no need to finish every counter). No maths.",
+   "beats": [
+    "CH02 01G A",
+    "CH02 01G B",
+    "CH02 02A A",
+    "CH02 02A B",
+    "CH02 02A C"
+   ],
+   "panels": [
+    {
+     "id": "P006-1",
+     "beat": "CH02 01G A",
+     "box": [
+      0,
+      0,
+      864,
+      648
+     ],
+     "art": {
+      "kind": "plate",
+      "image": "BagroundGenTask/ch02/out/plates/L02_B.png",
+      "role": "full-bleed world of the page (A4 SCENE): the book, balance and weights on the dry counter; the caption narrates, no figures"
+     },
+     "background": {
+      "record": "L02_B",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_B.png",
+      "camera": "medium at the dry recipe-counter end, cupboard below open, warm task light above; clear lane towards the entrance at frame edge"
+     },
+     "characters": [
+      {
+       "name": "Main food helper (NO sheet; manuscript: honey-coloured carved wooden figure, visible grain, painted eyes, round brass joints, broad wooden feet, separate wooden thumbs, saffron apron, ivory cap)",
+       "position": "behind/at the counter, centre",
+       "action": "has set the balance and weights on the dry counter; placing the original recipe book beside them with both hands",
+       "gaze": "the book",
+       "expression": "careful",
+       "holding": "nothing"
+      },
+      {
+       "name": "Ahana",
+       "position": "near side, left",
+       "action": "looks at the measuring equipment",
+       "gaze": "the balance and weights",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "near side, beside Ahana",
+       "action": "looks at the equipment",
+       "gaze": "the weights",
+       "expression": "interested",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side, right",
+       "action": "looks at the equipment",
+       "gaze": "the balance",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "to one side, slightly back",
+       "action": "watches",
+       "gaze": "the helper",
+       "expression": "calm",
+       "holding": "bell staff (right)"
+      }
+     ],
+     "props_state": [
+      "original recipe book (closed or open with NO legible text), brass balance and fractional weights on the cool dry counter",
+      "cupboard door open below the counter",
+      "batter and wrap filling in separate vessels; cooking plate behind the counter, no one reaches over it",
+      "the false loose cards stay separate, face down / unreadable",
+      "no Gate visible in background"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left",
+       "w": 0.4,
+       "h": 0.25
+      }
+     ],
+     "captions": [
+      "The book is kept in a cupboard beneath the counter. The helper brings it out, along with the scale and weights it uses to measure ingredients. The children will not have to trust one loose label over another. They can check the actual food as well."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P006-2",
+     "beat": "CH02 01G B",
+     "box": [
+      650,
+      64,
+      192,
+      256
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P006-2",
+      "aspect": "portrait 768x1024",
+      "frame": "waist-up two-shot at the dry counter (L02_B: blue lacquered wall, marble top with the balance soft behind). Ahana foreground, head and shoulders turned towards screen-left (the entrance, off-frame), concerned; her face catches a cool moonlight rim from that side while the counter behind her stays lamp-warm. Tara just behind her right shoulder, watching her, bell staff in right hand. No book text, no numbers on weights. Keep the bottom 20% calm for the caption strip."
+     },
+     "background": {
+      "record": "L02_B",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_B.png",
+      "camera": "same counter camera, closer on Ahana and Tara"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "foreground",
+       "action": "turns her head and shoulders towards Food Street's entrance / Return Walk direction, hands clear of the book",
+       "gaze": "off-frame towards the entrance",
+       "expression": "concerned, thoughtful",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "beside her",
+       "action": "notices her concern",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "bell staff (right)"
+      }
+     ],
+     "props_state": [
+      "equipment stays on the counter; cupboard closed"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "bottom",
+       "w": 1.0,
+       "h": 0.2
+      }
+     ],
+     "captions": [
+      "Before they begin, Ahana looks back towards the Gate."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P006-3",
+     "beat": "CH02 02A A",
+     "box": [
+      22,
+      390,
+      333,
+      236
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P006-3",
+      "aspect": "landscape 1024x768",
+      "frame": "medium shot by the packing bench (L03_A), facing Ahana and Tara with the Return Walk doorway glowing behind Tara. Ahana (left third) left palm open towards the doorway; Navya and Vihaan beside the bench; Tez on clear paving looking up. If the trolley is in frame its carrier is EMPTY (no cups). Bench clip empty. Calm upper-left 45% x 25% for the bubble."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "medium near the packing bench, facing Ahana and Tara with the Return Walk doorway behind Tara"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "facing Tara",
+       "action": "left palm open towards the Return Walk doorway, right hand relaxed at her side",
+       "gaze": "Tara",
+       "expression": "earnest",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "in front of the Return Walk doorway",
+       "action": "listens",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "bell staff (right)"
+      },
+      {
+       "name": "Navya",
+       "position": "beside the bench",
+       "action": "stands",
+       "gaze": "Ahana",
+       "expression": "concerned",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "beside the bench",
+       "action": "stands",
+       "gaze": "Ahana",
+       "expression": "listening",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "on clear paving",
+       "action": "looks up",
+       "gaze": "Ahana",
+       "expression": "curious",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "clip above the bench EMPTY",
+      "trolley empty, parked; crooked cart against near-left wall clear of doorways",
+      "Ahana's portable lamp at the bench's entrance corner",
+      "no delivery has left"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left",
+       "w": 0.45,
+       "h": 0.25
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "Those children are still waiting. Can we send food while we work?",
+       "where": "upper-left",
+       "tail_to": "Ahana's mouth"
+      }
+     ]
+    },
+    {
+     "id": "P006-4",
+     "beat": "CH02 02A B",
+     "box": [
+      367,
+      390,
+      128,
+      236
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P006-4",
+      "aspect": "portrait 768x1024",
+      "frame": "medium-close two-shot at the packing bench, Return Walk doorway behind Tara: Tara (right) raises her free left index finger gently, staff steady in her right hand, reassuring expression, facing Ahana; Ahana (left, partly in frame) has lowered her hand to listen. Empty trolley edge may show. Calm empty area above Tara's head for the bubble."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "same bench camera, closer two-shot on Tara and Ahana"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "right",
+       "action": "raises her free left index finger gently, staff steady in her right",
+       "gaze": "Ahana",
+       "expression": "reassuring",
+       "holding": "bell staff (right)"
+      },
+      {
+       "name": "Ahana",
+       "position": "left",
+       "action": "has lowered her hand to listen",
+       "gaze": "Tara",
+       "expression": "listening",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "trolley stays empty"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "top",
+       "w": 0.6,
+       "h": 0.25
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "As soon as a recipe and its portions are right.",
+       "where": "top",
+       "tail_to": "Tara's mouth"
+      }
+     ]
+    },
+    {
+     "id": "P006-5",
+     "beat": "CH02 02A C",
+     "box": [
+      507,
+      390,
+      333,
+      236
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P006-5",
+      "aspect": "landscape 1024x768",
+      "frame": "same camera and positions as P006-3. Tara (right of centre) turns an open left palm towards the two smaller wooden assistants waiting beside the EMPTY trolley (no cups in the carrier) at frame right; trio and Tez listen, relieved. Calm upper-right 45% x 22% for the bubble."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "same camera and positions as P006-3"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "in front of the Return Walk doorway",
+       "action": "changes her raised left finger to an open palm towards the food helpers, turns her gaze to them",
+       "gaze": "the food helpers",
+       "expression": "encouraging",
+       "holding": "bell staff (right)"
+      },
+      {
+       "name": "the two smaller wooden assistants (NO sheet; honey-coloured carved wooden figures, round brass joints, saffron waistbands)",
+       "position": "by the empty trolley",
+       "action": "wait",
+       "gaze": "Tara",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Ahana",
+       "position": "as P006-3",
+       "action": "listens",
+       "gaze": "Tara",
+       "expression": "hopeful",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "beside the bench",
+       "action": "listens",
+       "gaze": "Tara",
+       "expression": "relieved",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "beside the bench",
+       "action": "listens",
+       "gaze": "Tara",
+       "expression": "relieved",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tez",
+       "position": "on clear paving",
+       "action": "sits",
+       "gaze": "Tara",
+       "expression": "alert",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "children and trolley in their established places; trolley empty"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-right",
+       "w": 0.45,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "We don’t need to finish every counter first.",
+       "where": "upper-right",
+       "tail_to": "Tara's mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Story page, no maths. Two scenes: recipe counter (L02_B) then packing bench (L03_A). The Gate is only in Ahana's thoughts: never visible. Recipe book shows no legible text; balance/weights carry no painted numbers. Bench clip stays empty (Ira's drawing arrives on P009). Boxes are placeholders; the art-director/page-builder set the A4 layout.",
+   "art": {
+    "idea": "The truth kit comes out of the cupboard. The page is the dry counter, lit like an evidence table: the original book, the brass balance and its weights are the reliable record. Underneath, the bench conversation runs as one continuous strip, pulling towards the Return Walk and the children who are still waiting.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L02_B.png",
+     "grade": "neutral-warm: the task lamp pools lamp-gold on the balance and the book; corners and the lower cupboard fall to navy; a faint cool moon rim on the left edge",
+     "mirror": false,
+     "blank": [
+      "55,385,175,452  book '1 3/4 kg'",
+      "364,440,395,468",
+      "411,440,442,468",
+      "456,440,487,468",
+      "501,440,532,468",
+      "547,440,578,468",
+      "592,440,623,468",
+      "637,440,667,468  the seven '1/4 kg' weight labels",
+      "748,452,872,516",
+      "866,450,992,512  the two loose cards (they become blank, unreadable cards)"
+     ],
+     "crop": null
+    },
+    "panes": {
+     "P006-1 caption (world narration)": "default dark glass, p.voice, at left 22 top 22 width 182 (about 240 tall); it must stay left of the task lamp (plate lamp sits at about x 207-291 pt)",
+     "P006-2 caption": ".glass.frost strip docked inside the bottom of the P006-2 inset",
+     "bubbles P006-3/4/5": ".say with curved svg.tail to the speaker's mouth, inside each inset's calm top area; the P006-4 bubble may break the inset's top edge by up to 30 pt",
+     "insets": "inset = <figure class=\"shot\"> (page-local CSS, no ornament frame): overflow hidden, radius 3pt, 1pt lamp-gold #f7c684 hairline on the top edge, 0.6pt rgba(214,166,78,.5) on the other edges, box-shadow 0 10pt 24pt rgba(2,5,14,.55); a caption that belongs to an inset is a .glass.frost strip docked inside its edge (P002 continuity)"
+    },
+    "hero": "the brass balance at rest under the task lamp, with the original book and the weights beside it (the world, centre band about y 100-390 pt, left clear of panes)",
+    "illustrate": "no maths on this page; no numbers anywhere in the world (all painted labels blanked)",
+    "cast": "Ahana and Tara (P006-2, new); Ahana, Tara, Navya, Vihaan, Tez (P006-3, new); Tara (P006-4, free crop of P002-1); Tara, the two wooden assistants, trio, Tez (P006-5, new). The food helper is not shown (the plate-only world carries beat A).",
+    "colour": "lamp-gold instruments on cool navy; the counter world is the warm 'record', the strip carries the night outside: Ahana's moon-rimmed face in P006-2 is the cold note",
+    "delights": [
+     ".bloom (warm) on the task lamp so its pool lands exactly on the balance beam and both pans: the instrument at rest, ready to tell the truth",
+     "the three bench insets share one unbroken 1pt lamp-gold hairline along their tops (one strip, one conversation) that runs on 12 pt past the last inset towards the right trim, the way to the Return Walk",
+     "P006-2 art: Ahana's face lit by a cool moon rim from the entrance side while the counter behind her stays lamp-warm: her thoughts are outside with the waiting children"
+    ],
+    "folio": "moon phase, lit fraction 6/178 = 0.034, page 06",
+    "varies": "P002 was a moonlit lane with the machine as hero. P006 is a close still life of the counter with a bottom strip of three insets; P007 goes back to a wide, cool lane with one portrait push-in.",
+    "new_art": [
+     "P006-2 portrait 768x1024",
+     "P006-3 landscape 1024x768",
+     "P006-5 landscape 1024x768"
+    ],
+    "plate_only": [
+     "P006-1 (L02_B)"
+    ],
+    "reuse": [
+     "P006-4 = zoom crop of FInalChangesTask/CH02/out/P002-1.png [560,150,1010,980]"
+    ]
+   }
+  },
+  {
+   "page": "P007",
+   "pattern": "free composition (A4 world): plate L03_A full-bleed, cool; panel 1 a portrait push-in inset placed exactly over the plate's trolley; panel 2 a portrait overhead inset in the right column; a brass 16-slot plate floats upper-right",
+   "theme": "a4-world",
+   "title": "",
+   "purpose": "story: Scene CH02 02B Plan the first drink delivery: the trolley holds sixteen cups (4 × 4) plus one snack tray below; Ahana writes a note to Ira and Kabir. No equations in the manuscript.",
+   "beats": [
+    "CH02 02B A",
+    "CH02 02B B"
+   ],
+   "panels": [
+    {
+     "id": "P007-1",
+     "beat": "CH02 02B A",
+     "box": [
+      340,
+      236,
+      258,
+      344
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P007-1",
+      "aspect": "portrait 768x1024",
+      "frame": "high three-quarter close view down onto the trolley (L03_A). Upper carrier EMPTY: exactly sixteen empty round cup slots in four rows of four, each slot clearly separate and fully visible, no hand, figure or shadow crossing the carrier. Separate lower snack shelf, empty, visible below. The two smaller wooden assistants stand behind, hands on the handle and rail. Ahana, Navya and Vihaan lean in partially from the left edge; Tara and Tez partial at the right edge, clear of the wheels. The MAXIMUM LOAD plaque is turned away or out of frame; no other numbers. No text reserve needed."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "three-quarter view over the packing bench towards the sixteen-place trolley and the Return Walk door; the upper carrier framed clearly"
+     },
+     "characters": [
+      {
+       "name": "the two smaller wooden assistants (NO sheet; honey-coloured carved wooden figures, round brass joints, saffron waistbands)",
+       "position": "behind the trolley",
+       "action": "hands on the handle and rail",
+       "gaze": "the children",
+       "expression": "patient",
+       "holding": "nothing"
+      },
+      {
+       "name": "Ahana",
+       "position": "bench side",
+       "action": "inspects the carrier",
+       "gaze": "the cup slots",
+       "expression": "thoughtful",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "bench side",
+       "action": "inspects",
+       "gaze": "the cup slots",
+       "expression": "interested",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "bench side",
+       "action": "inspects",
+       "gaze": "the lower shelf",
+       "expression": "interested",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "clear of the wheels",
+       "action": "stands",
+       "gaze": "the trolley",
+       "expression": "calm",
+       "holding": "bell staff (right)"
+      },
+      {
+       "name": "Tez",
+       "position": "clear of the wheels",
+       "action": "sits",
+       "gaze": "the trolley",
+       "expression": "curious",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "upper carrier EMPTY: exactly sixteen empty cup slots in four rows of four, clearly countable, NO cups in them",
+      "separate lower snack shelf, empty",
+      "Pip on its brass perch beside the doorway",
+      "blank paper and an ordinary pencil on the dry bench",
+      "clip above the bench empty",
+      "crooked cart against near-left wall",
+      "the plate's MAXIMUM LOAD 4.5 kg plaque may stay but must not be prominent"
+     ],
+     "painted_text": [],
+     "reserve": [],
+     "captions": [
+      "Two smaller wooden assistants wait beside a delivery trolley. The trolley has space for sixteen cups, with a snack tray underneath. That decides the size of each drink delivery. It does not limit how many people the helpers will serve during the night."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P007-2",
+     "beat": "CH02 02B B",
+     "box": [
+      604,
+      309,
+      238,
+      317
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P007-2",
+      "aspect": "portrait 768x1024",
+      "frame": "straight overhead view of the dry pale bench corner (doorway post at one edge). One sheet of cream paper square-on to the camera (rotation within 4 degrees, no perspective) filling about the middle 70% of the width and 55% of the height, completely BLANK. Ahana's hands only: right hand holds an ordinary pencil at the sheet's lower-right corner, left hand flat at the left edge. Pip (palm-sized brass bird, copper wing plates, glass-blue eyes, empty spring clip under its beak) stands beside the sheet. Warm bench-lamp light from one side. Calm top 15% for the caption strip."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "overhead close view of the dry packing-bench corner, pale bench edge and doorway post as anchors"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "hands only / partial (overhead)",
+       "action": "writes with her right hand; left holds the note flat",
+       "gaze": "the note",
+       "expression": "focused",
+       "holding": "pencil (right)"
+      },
+      {
+       "name": "Pip (NO sheet; palm-sized brass bird, rounded body, copper wing plates, glass-blue eyes, pointed beak, gripping feet, one spring clip below its beak)",
+       "position": "beside the paper",
+       "action": "waits, clip empty, carrying nothing",
+       "gaze": "the note",
+       "expression": "alert",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "one sheet of paper flat on the bench with a LARGE BLANK writing area (the exact note text is HTML overlaid on it)",
+      "ordinary pencil",
+      "no speech bubble"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "We are at Food Street. The helpers will start bringing food as soon as it is ready. Our trolley carries sixteen drinks. Please help the Gate helper keep the delivery order.",
+       "on": "the blank sheet Ahana is writing on (handwriting font, readable insert)"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top",
+       "w": 1.0,
+       "h": 0.15
+      }
+     ],
+     "captions": [
+      "Ahana writes to Ira and Kabir:"
+     ],
+     "bubbles": []
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Story page; the only maths is the trolley capacity 16 cups as a 4 × 4 arrangement (the caption says sixteen). No printed equation is in the manuscript, so print none; a drawn 4-by-4 slot diagram without numbers is fine. The note's SurfaceCopy is printed exactly once, on the sheet; do not add names to the note. Capacity is NOT the size of the crowd.",
+   "art": {
+    "idea": "Sixteen places. The trolley's empty carrier is the size of one delivery. The camera pushes in on it right where it stands in the lane, and a brass slot-plate beside it shows the sixteen places as a precision part. In the warm corner of the bench, Ahana puts the plan into words.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+     "grade": "cool moonlit lane (moonlight #cfe0fa on the tiles and the round table), brass keeps its lamp-gold; warmest light only at the bench corner at left",
+     "mirror": false,
+     "blank": [
+      "556,528,592,552  tray '0.5 kg'"
+     ],
+     "crop": null,
+     "cover": "the plate's own trolley (with cups) sits at about x 346-582, y 266-574 pt: the P007-1 inset (340,236,258,344) must cover it completely so no full cup slot is visible anywhere in the world"
+    },
+    "panes": {
+     "P007-1 caption (world narration)": "default dark glass, p.voice, left 22 top 22 width 182 (about 240 tall), over the compass-rose wall; keep the Return Walk doorway (x about 203-316 pt) visible",
+     "P007-2 caption": ".glass.frost strip docked inside the top of the P007-2 inset",
+     "note on the sheet (overlay_text)": "Caveat 13/16 pt, graphite #2b2f3a at 90% opacity, mix-blend multiply, left-aligned inside the blank sheet with 10 pt paper margins, rotated to match the sheet; exactly once; no names added",
+     "insets": "inset = <figure class=\"shot\"> (page-local CSS, no ornament frame): overflow hidden, radius 3pt, 1pt lamp-gold #f7c684 hairline on the top edge, 0.6pt rgba(214,166,78,.5) on the other edges, box-shadow 0 10pt 24pt rgba(2,5,14,.55); a caption that belongs to an inset is a .glass.frost strip docked inside its edge (P002 continuity)"
+    },
+    "hero": "the P007-1 push-in on the empty sixteen-place carrier",
+    "illustrate": "SVG brass slot-plate, numberless, at left 640 top 74, 176 x 176 pt: rounded square (radius 10), fill linear-gradient #f6dca0 to #d6a64e to #8a5a22 (lamp key from the upper-left), inner bevel 1pt #6b4519, drop shadow. Sixteen empty holes in 4 rows of 4: radius 14 pt, centres at 31, 69, 107, 145 pt on both axes; fill radial #1b2c55 to #0a1428; a 1pt lamp-gold #f7c684 arc on each hole's upper-left inner rim and a 0.8pt moonlight #cfe0fa crescent on its lower-right rim. No rivets, marks, numbers or labels (nothing else countable). Slight tilt of -4 degrees.",
+    "cast": "two wooden assistants (no sheet: honey-coloured carved figures, brass joints, saffron waistbands), Ahana, Navya, Vihaan, Tara, Tez in P007-1; Ahana's hands and Pip (no sheet) in P007-2",
+    "colour": "cold lane against a warm bench: moonlight carries the empty slots and the lane, lamp gold carries the brass and Ahana's writing corner",
+    "delights": [
+     "a 0.75pt brass leader line with 3pt brass bead ends runs from the slot-plate's lower-left corner to the carrier inside the P007-1 inset, like a maker's drawing pinned to the real part",
+     "every empty hole in the slot-plate holds a tiny moonlight crescent on its rim: the moon above the lane (keep the plate's moon visible top-right, .bloom.moon on it) is reflected in sixteen empty places",
+     "one warm .bloom on the bench lamp at the far left; the warm light spills into the P007-2 art so that Ahana's corner is the only warm place on a cold page"
+    ],
+    "folio": "moon phase, lit fraction 7/178 = 0.039, page 07",
+    "varies": "P006 is a warm close still life with a bottom strip. P007 is a wide, cool, full plate with one tall push-in, a floating brass part and a right-column insert. P009 (same plate) is cropped close and warm with a diagonal pair of landscape insets.",
+    "new_art": [
+     "P007-1 portrait 768x1024",
+     "P007-2 portrait 768x1024"
+    ],
+    "plate_only": []
+   }
+  },
+  {
+   "page": "P009",
+   "pattern": "free composition (A4 world): plate L03_A cropped close on the bench wall and doorway, warm; panel 1 a landscape inset upper-left over the bench clip; panel 2 a landscape inset lower-right over the plate's trolley (diagonal pair)",
+   "theme": "a4-world",
+   "title": "",
+   "purpose": "story: Scene CH02 02D The reply reaches Food Street: Pip brings Ira's cup drawing (a cup and 16); Ahana clips it above the packing bench; 'Now we know who is waiting for the first drinks.' No maths.",
+   "beats": [
+    "CH02 02D A",
+    "CH02 02D B"
+   ],
+   "panels": [
+    {
+     "id": "P009-1",
+     "beat": "CH02 02D A",
+     "box": [
+      22,
+      96,
+      372,
+      279
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P009-1",
+      "aspect": "landscape 1024x768",
+      "frame": "medium at the pale packing bench and the clip on the wall above it (L03_A), Return Walk door post beside it. Ahana has just fastened the sheet's upper edge into the wall clip (hands at the clip or just leaving it). The sheet hangs square-on and clearly visible, about 22% of the frame width: ONE simple pencil drawing of one cup in its left half, and the right half completely BLANK (the '16' is added in HTML). Nothing else on the sheet. Pip perches on the door post with its spring clip empty, catching the light. Navya and Vihaan beside Ahana, reading the sheet. Tara further back by the round loading table, watching. Trolley out of frame or with an empty carrier. Ahana's lamp at the bench's entrance corner. No text reserve needed."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "medium at the pale packing bench and the clip above it, Return Walk post beside the bench"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "at the bench",
+       "action": "has taken the cup drawing from Pip's clip with her left hand and fastened its upper edge at the bench clip with her right (frozen after it is secured)",
+       "gaze": "the drawing",
+       "expression": "pleased",
+       "holding": "nothing"
+      },
+      {
+       "name": "Pip (NO sheet; palm-sized brass bird, rounded body, copper wing plates, glass-blue eyes, pointed beak, gripping feet, one spring clip below its beak)",
+       "position": "perched nearby",
+       "action": "perches, its clip now empty",
+       "gaze": "Ahana",
+       "expression": "content",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "beside Ahana",
+       "action": "reads the drawing",
+       "gaze": "the drawing",
+       "expression": "interested",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "beside Ahana",
+       "action": "reads the drawing",
+       "gaze": "the drawing",
+       "expression": "interested",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "by the round loading table, further back",
+       "action": "watches",
+       "gaze": "the bench",
+       "expression": "calm",
+       "holding": "bell staff (right)"
+      }
+     ],
+     "props_state": [
+      "one sheet clipped above the bench: a simple pencil drawing of ONE cup, with a blank area to its right (the '16' is overlaid in HTML)",
+      "drink trolley still empty",
+      "Ahana's lamp at the bench's entrance corner",
+      "Ahana's outgoing note is NOT here (it stays at the Gate)"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "16",
+       "on": "blank area beside the cup drawing on the clipped sheet, child's pencil handwriting"
+      }
+     ],
+     "reserve": [],
+     "captions": [
+      "When Pip brings the paper back, Ahana clips it above the packing bench."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P009-2",
+     "beat": "CH02 02D B",
+     "box": [
+      480,
+      330,
+      362,
+      296
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P009-2",
+      "aspect": "landscape 1024x768",
+      "frame": "same camera and positions, closer on Ahana. Hands lowered, left palm open towards the clipped sheet, which is visible at the upper-left of the frame (the same cup drawing and BLANK right half). She looks at the crew, confident and warm; Navya and Vihaan partial, smiling. No filled cups anywhere. Calm top 22% (right part) for the bubble."
+     },
+     "background": {
+      "record": "L03_A",
+      "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "camera": "same camera and positions as P009-1, closer on Ahana"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "at the bench",
+       "action": "has lowered both hands; left palm opens towards the clipped cup-and-16 sheet while she looks at the crew",
+       "gaze": "the crew (Navya, Vihaan, Tara)",
+       "expression": "confident, warm",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "partial, beside",
+       "action": "listens",
+       "gaze": "Ahana",
+       "expression": "smiling",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "partial, beside",
+       "action": "listens",
+       "gaze": "Ahana",
+       "expression": "smiling",
+       "holding": "nothing"
+      }
+     ],
+     "props_state": [
+      "the clipped sheet stays fixed above the bench, same cup drawing with blank area for overlaid '16'",
+      "no drinks filled yet"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "16",
+       "on": "the same blank area on the clipped sheet"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "top",
+       "w": 0.6,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "Now we know who is waiting for the first drinks.",
+       "where": "top",
+       "tail_to": "Ahana's mouth"
+      }
+     ]
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Story page, no maths. The drawing's only marks are one cup and '16' (P008 panel 3 shows Ira making it; P008 is blocked on Ira's sheet). The drawing is not also at the Gate. Ira herself is not shown on this page.",
+   "art": {
+    "idea": "The reply has landed. Ira's one-cup drawing now hangs above the packing bench, and the first delivery has a real group waiting for it. The page is the warm bench corner on a cold night: two windows on the moment, set on a diagonal, with the Return Walk glowing between them, the way Pip flew back.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L03_A.png",
+     "grade": "warm: lamp gold leads (bench lamp, Return Walk doorway), the lane at right stays deep blue; no cold frost",
+     "mirror": false,
+     "blank": [
+      "556,528,592,552  tray '0.5 kg'",
+      "534,566,640,598  MAXIMUM LOAD plaque (only its top edge would peek under the P009-2 inset)"
+     ],
+     "crop": "0,40,720,580",
+     "cover": "with this crop the plate's empty wall clip sits at about x 220-254, y 158-204 pt (under P009-1) and the plate's trolley cups at about x 528-780, y 354-456 pt (under P009-2): both insets must cover these completely"
+    },
+    "panes": {
+     "P009-1 caption (world narration)": "default dark glass, p.voice, left 22 top 22 width 280 (2 lines); keep the doorway lamp (about x 318-348, y 0-60 pt) visible",
+     "P009-2 bubble": ".say with curved svg.tail to Ahana's mouth; it may break the inset's top edge up into the lane by up to 40 pt",
+     "'16' overlay (both insets)": "Caveat 700, graphite #3a3f4a at 85% opacity, mix-blend multiply, sized to match the pencil cup's line height (about the cup's height), rotated with the sheet, set in the sheet's blank right half; identical in both insets",
+     "insets": "inset = <figure class=\"shot\"> (page-local CSS, no ornament frame): overflow hidden, radius 3pt, 1pt lamp-gold #f7c684 hairline on the top edge, 0.6pt rgba(214,166,78,.5) on the other edges, box-shadow 0 10pt 24pt rgba(2,5,14,.55); a caption that belongs to an inset is a .glass.frost strip docked inside its edge (P002 continuity)"
+    },
+    "hero": "the clipped sheet (one cup and 16) at the centre of P009-1",
+    "illustrate": "no maths beyond the overlaid '16' on the drawing; nothing else numeric on the page",
+    "cast": "Ahana, Navya, Vihaan, Pip (no sheet: palm-sized brass bird, copper wing plates, glass-blue eyes, spring clip under the beak), Tara far back (P009-1); Ahana, Navya, Vihaan (P009-2). Ira is not shown.",
+    "colour": "warm relief: lamp gold and brass dominate, the deep-blue lane is the only cool field (the reverse of P007's cold page)",
+    "delights": [
+     "a warm .bloom in the Return Walk doorway, visible in the gap between the two insets: the route the reply came back along",
+     "P009-1 art: Pip's empty spring clip catches a single lamp glint, the only bright point on the bird",
+     "the '16' looks pencil-written on the paper, not typed: multiply blend, slight grain, the same tilt as the sheet, and a soft graphite smudge 2 pt to its lower right"
+    ],
+    "folio": "moon phase, lit fraction 9/178 = 0.051, page 09",
+    "varies": "Same plate as P007, but cropped close (1.2x), warm instead of cool, two landscape insets on a diagonal instead of a central portrait push-in, and no floating figure. P008 (the Gate, blocked) sits between them.",
+    "new_art": [
+     "P009-1 landscape 1024x768",
+     "P009-2 landscape 1024x768"
+    ],
+    "plate_only": []
+   }
+  },
+  {
+   "page": "P010",
+   "pattern": "free composition (A4 world): panel 1 is the full-bleed world (plate L02_C) with the two containers drawn exactly as SVG on the counter as the hero; panels 2 and 3 are landscape insets low left and low right whose characters gesture out of the frame at the containers",
+   "theme": "a4-world",
+   "title": "",
+   "purpose": "story: Sequence 03 Check the stock, Scene CH02 03A Half of which whole: two similar containers of different capacity, each half used; half of the larger is a larger amount. Conceptual fractions, no numbers.",
+   "beats": [
+    "CH02 03A A",
+    "CH02 03A B",
+    "CH02 03A C"
+   ],
+   "panels": [
+    {
+     "id": "P010-1",
+     "beat": "CH02 03A A",
+     "box": [
+      0,
+      0,
+      864,
+      648
+     ],
+     "art": {
+      "kind": "plate",
+      "image": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "role": "full-bleed world of the page (A4 SCENE); the two containers are exact SVG objects standing on its counter (see art.illustrate); no figures"
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "medium across the cool recipe counter, brass tank and blue wall behind two differently sized containers"
+     },
+     "characters": [
+      {
+       "name": "Main food helper (NO sheet; manuscript: honey-coloured carved wooden figure, visible grain, painted eyes, round brass joints, broad wooden feet, separate wooden thumbs, saffron apron, ivory cap)",
+       "position": "behind the counter",
+       "action": "has placed the two containers side by side, both wooden hands released",
+       "gaze": "the containers",
+       "expression": "neutral",
+       "holding": "nothing"
+      },
+      {
+       "name": "Ahana",
+       "position": "near side",
+       "action": "looks at their different full sizes",
+       "gaze": "the containers",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "near side",
+       "action": "looks",
+       "gaze": "the containers",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Vihaan",
+       "position": "near side",
+       "action": "looks",
+       "gaze": "the containers",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "near side, a little apart",
+       "action": "watches",
+       "gaze": "the containers",
+       "expression": "calm",
+       "holding": "bell staff (right)"
+      }
+     ],
+     "props_state": [
+      "TWO geometrically similar (same shape) clear-sided or open containers of clearly different full capacity, the large one about twice the height of the small one",
+      "each visibly filled to exactly half its OWN height with the same food; the larger half-amount is visibly larger",
+      "each has one small BLANK cream card leaning against / tied to it (HTML overlays 'HALF USED' on each)",
+      "original book, balance and weights on the cool dry counter; batter and filling separate; no one reaches over the hot plate",
+      "NO numbers, masses or volume marks on the containers"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "HALF USED",
+       "on": "blank card on the small container"
+      },
+      {
+       "text": "HALF USED",
+       "on": "blank card on the large container"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left",
+       "w": 0.4,
+       "h": 0.2
+      }
+     ],
+     "captions": [
+      "The food helper brings the two containers marked HALF USED. One is much larger than the other."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P010-2",
+     "beat": "CH02 03A B",
+     "box": [
+      22,
+      400,
+      300,
+      226
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P010-2",
+      "aspect": "landscape 1024x768",
+      "frame": "medium shot of Tara on the children's cool side of the recipe counter (L02_C cupboards and blue wall behind, cool moonlit grade). She stands in the right half of the frame, open left palm raised towards the UPPER-RIGHT frame edge (the containers are off-frame up there), right hand on the bell staff, looking screen-right (towards Ahana, off-frame), questioning. NO containers, cards, labels or numbers in frame. Calm top-left 55% x 25% for the bubble."
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "same counter camera, closer on Tara and the two containers"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "behind/between the two containers on the children's (cool) side",
+       "action": "turns her open left palm between the two containers, right hand on her staff",
+       "gaze": "Ahana (off to the side)",
+       "expression": "questioning",
+       "holding": "bell staff (right)"
+      }
+     ],
+     "props_state": [
+      "the same two half-filled containers with blank cards, same positions",
+      "no measuring action"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "HALF USED",
+       "on": "each blank card if visible"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "top",
+       "w": 0.55,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "Half of which container?",
+       "where": "top",
+       "tail_to": "Tara's mouth"
+      }
+     ]
+    },
+    {
+     "id": "P010-3",
+     "beat": "CH02 03A C",
+     "box": [
+      598,
+      392,
+      244,
+      234
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P010-3",
+      "aspect": "landscape 1024x768",
+      "frame": "same counter. Ahana at the left third, left hand resting on the clear marble edge, right index finger pointing UP-LEFT out of the frame (towards the larger container, off-frame), eyes following her finger, dawning recognition. Tara at the right, lowering her left hand, looking at Ahana with approval, staff in right hand. NO containers, cards or numbers in frame; no one touches food. Calm bottom 20% for the caption strip."
+     },
+     "background": {
+      "record": "L02_C",
+      "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "camera": "same camera, container positions and character locations; closer on Ahana and the larger container"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "near the counter",
+       "action": "looks from the smaller container to the larger one with recognition; right index finger indicates the larger half-filled area without touching the food; left hand rests on the clear counter edge",
+       "gaze": "the larger container",
+       "expression": "dawning recognition",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "beside",
+       "action": "lowers her left hand",
+       "gaze": "Ahana",
+       "expression": "approving",
+       "holding": "bell staff (right)"
+      }
+     ],
+     "props_state": [
+      "same two containers, same half-fill levels, blank cards"
+     ],
+     "painted_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "bottom",
+       "w": 1.0,
+       "h": 0.2
+      }
+     ],
+     "captions": [
+      "Ahana sees why the full size matters: half of the larger container is a larger amount."
+     ],
+     "bubbles": []
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Story+concept page: no equation in the manuscript, so print none and add no numbers. Containers must NOT be equal in capacity, and nothing may imply two halves of different wholes are equal. These are not the later one-litre bottle and jug. Drawn maths allowed: a numberless brass outline of the two containers with a half-height level line on each (same shape, two sizes), the larger half shaded larger. Do not attach masses.",
+   "art": {
+    "idea": "Half of which whole? Two jars of exactly the same shape, one twice the size of the other, each exactly half full, stand on the cool counter like a demonstration. Both characters point out of their own panels at them, so the reader's eye lands on the maths, not on a label.",
+    "scene": {
+     "plate": "BagroundGenTask/ch02/out/plates/L02_C.png",
+     "grade": "cool: moonlit blue on the wall and counter; warm only in the hanging lamp and the jars' filling. Local grade on the two plate pots behind the jars: brightness -25% and slight blur, so they recede and the jars are the only containers in focus",
+     "mirror": false,
+     "blank": [
+      "30,335,108,378  book '1 3/4 kg'",
+      "442,300,514,336  pot label '1 3/4 kg'",
+      "645,305,718,345  pot label '2 1/2 kg'"
+     ],
+     "crop": null
+    },
+    "panes": {
+     "P010-1 caption (world narration)": ".glass.frost (cool scene), p.voice, left 140 top 22 width 220 (about 96 tall): between the lane and moon at top-left and the hanging lamp",
+     "P010-2 bubble": ".say with curved svg.tail to Tara's mouth, top-left of the inset",
+     "P010-3 caption": ".glass.frost strip docked inside the bottom of the P010-3 inset",
+     "HALF USED cards (overlay_text, P010-1)": "two identical HTML cards, 72 x 20 pt, cream #f3ebdc with a soft paper gradient and 2pt shadow, each tied to its jar's base ring by a 0.5pt brass string and leaning against the front of the base (small: rotate -4 deg, large: rotate +3 deg); text 'HALF USED' Source Sans 3 Semibold 10 pt caps, tracking .08em, ink #121a33. P010-2/P010-3 show no cards (containers off-frame), so no overlay there.",
+     "insets": "inset = <figure class=\"shot\"> (page-local CSS, no ornament frame): overflow hidden, radius 3pt, 1pt lamp-gold #f7c684 hairline on the top edge, 0.6pt rgba(214,166,78,.5) on the other edges, box-shadow 0 10pt 24pt rgba(2,5,14,.55); a caption that belongs to an inset is a .glass.frost strip docked inside its edge (P002 continuity)"
+    },
+    "hero": "the two exact jars on the counter between the insets",
+    "illustrate": "ONE SVG <symbol id='jar' viewBox='0 0 68 98'> used twice: small at scale 1 (left 360, top 302 pt -> 68 x 98), large at scale 2 (left 450, top 204 pt -> 136 x 196); both bases on the same line y = 400 pt. Symbol: brass rim band y 0-8 (gradient #f6dca0 to #b3722f to #6b4519); straight-sided glass body x 4-64, y 8-90 (fill rgba(207,224,250,.16), edges .35, one 3pt white specular stripe at 18% width, opacity .45); brass base ring y 90-98. Straight sides so half the height is exactly half the capacity. Filling (the same golden filling in both): rect x 5-63, y 49-90, i.e. exactly half of the interior height 8-90, gradient #f5c86a (top) to #b3722f, with a 2pt lighter #f6dca0 ellipse as its surface at y 49; a faint etched ring 0.6pt rgba(246,220,160,.6) on the glass at y 49. Empty upper half shows cool moonlit glass. Contact shadows: ellipse rgba(2,5,14,.45), 1.2 x the jar width. Do not draw any number, tick scale, arrow or comparison mark.",
+    "cast": "Tara (P010-2, new); Ahana and Tara (P010-3, new). The food helper is not shown (plate-only world for beat A).",
+    "colour": "cool counter against warm filling: lamp gold is the food (tracked quantity), moonlight is the empty half; the larger jar's warm half is visibly the bigger warm mass",
+    "delights": [
+     "the wall's gold moon emblem (plate, about x 591-667, y 34-101 pt, up and to the right of the large jar) is graded as a half moon: lit lamp-gold on its left half, its right half in shadow (SVG half-disc, multiply rgba(10,20,40,.6)). It echoes 'half' without a word.",
+     "a warm .bloom on the hanging lamp above the jars, and its pool on the marble falls between them: the only warm light on the counter",
+     "Tara's palm in P010-2 and Ahana's finger in P010-3 both point out of their frames at the jars, so the panels hand the reader to the maths"
+    ],
+    "folio": "moon phase, lit fraction 10/178 = 0.056, page 10. The folio's page number is the only numeral on the page.",
+    "varies": "P009 is a warm bench corner with a diagonal pair of insets; P010 is a cool counter with frost glass, two low insets and an exact drawn object as hero in the open world between them. Different plate from P006 (L02_C, not L02_B), and here the counter is the stage for the maths, not a still life.",
+    "new_art": [
+     "P010-2 landscape 1024x768",
+     "P010-3 landscape 1024x768"
+    ],
+    "plate_only": [
+     "P010-1 (L02_C)"
+    ]
+   }
+  }
+ ]
+}

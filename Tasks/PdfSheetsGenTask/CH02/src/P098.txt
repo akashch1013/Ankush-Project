@@ -1,0 +1,46 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE098
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE098-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Multiplying and Dividing by Powers of 10
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE098-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Multiplying and Dividing by Powers of 10
+Multiplying by 100 is the same as multiplying by 10 twice, because 100 = 10 × 10. We write 10 × 10 as 10².
+In 10², the small raised 2 tells us to multiply two 10s. It is called an index; the plural is indices. So 10² means 10 × 10 = 100, not 10 × 2 = 20.
+Read the next three examples by counting the factors of 10.
+10² = 10 × 10 = 100
+10³ = 10 × 10 × 10 = 1000
+10⁴ = 10 × 10 × 10 × 10 = 10 000
+[ProductionLabel] DO NOT PRINT — Figure reference: V28 | The following caption sentence is printable unchanged.
+[Caption] The decimal point stays between ones and tenths. The digits change place value.
+[ProductionNote] Production note V28 — Fixed place-value charts show4.51×100=451;0.028×1000=28;8.5÷100=0.085;137÷1000=0.137. Use arrows for each nonzero digit, two/three columns as applicable. Decimal boundary stays fixed; include placeholder zeros. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Look at the first place-value chart, for 4.51 × 100. Each digit becomes worth 100 times as much: 4 ones become 4 hundreds = 400; 5 tenths become 5 tens = 50; 1 hundredth becomes 1 one = 1. Add: 400 + 50 + 1 = 451.
+So 4.51 × 100 = 451. Each digit moves 2 places left in the chart. The red decimal-point line stays between ones and tenths.
+For 0.028 × 1000, 2 hundredths become 2 tens = 20, and 8 thousandths become 8 ones = 8. So 0.028 × 1000 = 20 + 8 = 28. Each digit moves 3 places left.
+Division goes the other way. For 8.5 ÷ 100, 8 ones become 8 hundredths = 0.08, and 5 tenths become 5 thousandths = 0.005. So 8.5 ÷ 100 = 0.08 + 0.005 = 0.085. Each digit moves 2 places right.
+For 137 ÷ 1000, each digit moves 3 places right in the chart: 137 ÷ 1000 = 0.137. The 1 now means one tenth, the 3 means three hundredths and the 7 means seven thousandths.
+Use zeros to show empty places. In 0.085, the 0 after the decimal point shows there are no tenths. Leaving it out would give 0.85, a different number.
+[PanelizationEnd] END PANEL CH02-PAGE098-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 099

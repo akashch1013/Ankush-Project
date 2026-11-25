@@ -1,0 +1,4 @@
+Use case: precise correction of Image 1, a ChandRush comic image (P006-4).
+Input images: Image 1 is the current image.
+Change only this: Keep everything unchanged except the brass trolley edge at the bottom-right corner: remove every cup from the carrier so it is a bare, empty brass tray with no cups, no objects. No other changes.
+Keep everything else exactly as it is in Image 1: camera, framing, perspective, architecture, characters' faces, hair, clothing and proportions, materials, colours, lighting, every other object, every existing physical inscription and every empty area reserved for lettering. Output the same image with only that correction. Do not add any text, speech bubble, caption, label, arrow or watermark.

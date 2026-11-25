@@ -1,0 +1,84 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE108
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7C
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7C
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7C; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q10; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE108-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7C; Example 26; Your turn after Example 26
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 26
+[Question] Evaluate.
+[Question] (a)  −7.86 + (−1.13)
+[Question] (b)  −2.03 − (−5.92)
+Let’s work it through
+[WorkedStep] (a)  Start at −7.86. Adding −1.13 moves us 1.13 farther left. Add the distances below zero: hundredths 6 + 3 = 9, tenths 8 + 1 = 9, whole parts 7 + 1 = 8. That is 8.99 below zero.
+[WorkedStep] −7.86 + (−1.13) = −(7.86 + 1.13) = −8.99.
+[WorkedStep] (b) We need −2.03 − (−5.92). Subtracting the negative number −5.92 means adding 5.92: −2.03 − (−5.92) = −2.03 + 5.92.
+[WorkedStep] Start at −2.03 on the number line and move 5.92 to the right. The first 2.03 of that move takes us from −2.03 to 0. There is 5.92 − 2.03 = 3.89 still to move, so we finish at 3.89.
+[WorkedStep] Answer: −2.03 − (−5.92) = 3.89. The diagram shows the starting number −2.03, the crossing at 0 and the finish at 3.89.
+[ProductionLabel] DO NOT PRINT — Figure reference: V30-R | The following caption sentence is printable unchanged.
+[Caption] Add −1.13: move left. Subtract −5.92: move right.
+[ProductionNote] Production note V30-R — Two number lines each drawn to scale. First start−7.86 and move1.13left to−8.99; second start−2.03 and move5.92right to3.89, crossing zero. Label start/end/zero and arrows. Line scales independent; do not imply equal distances between labels. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] Check by reversing the last operation: 3.89 + (−5.92) = −2.03. We return to the starting number.
+Try the smaller sign question −(−3). The outside minus asks for the opposite of the number inside, −3. The opposite of −3 is +3, so −(−3) = 3. You can check this on a calculator by entering −3, then using the change-sign key.
+Your turn after Example 26
+[Question] Evaluate.
+[Question] (a)  2.6 + (−8.7)
+[Question] (b)  −8.3 − (−2.67)
+Check your method
+[WorkedStep] (a)  2.6 + (−8.7) means start at 2.6 and move 8.7 left. The first 2.6 takes us to zero; 8.7 − 2.6 = 6.1 remains. So we finish at −6.1.
+Answer: 2.6 + (−8.7) = −6.1. Check: −6.1 + 8.7 = 2.6.
+[WorkedStep] (b)  Subtracting −2.67 means adding 2.67: −8.3 − (−2.67) = −8.30 + 2.67. The move is too short to reach zero. The distance still below zero is 8.30 − 2.67 = 5.63, so the answer is −5.63.
+[PanelizationEnd] END PANEL CH02-PAGE108-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE108-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q10
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL02; Companion inset CH02 Q10; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL02; Companion inset CH02 Q10; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL02; Companion inset CH02 Q10; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL02; Companion inset CH02 Q10; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL02; Companion inset CH02 Q10; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE108-PANEL02; Companion inset CH02 Q10; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q10
+[ProductionNote] Staging. Vihaan stands by the dry records, right index finger raised near shoulder height and left hand empty at his backpack strap. His expression is amused but attentive. Extend a clean strip of blue wall; the combined-withdrawal result remains outside the crop.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Two minus signs deserve a second look.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE108-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 109

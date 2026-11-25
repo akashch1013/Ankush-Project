@@ -1,0 +1,48 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE023
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE023-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Practice 2A Question 6; Practice 2A Question 7; Practice 2A Question 8
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE023-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2A Question 6
+[Question] Kylian has 21/10, 21/11 and 32/15. Arrange them from smallest to greatest.
+Check your method
+[WorkedStep] 21/11 = 1 10/11 is less than 2. The others are 21/10 = 2 1/10 and 32/15 = 2 2/15.
+[WorkedStep] Compare the fraction parts of 2 1/10 and 2 2/15: 1/10 = (1 × 3)/(10 × 3) = 3/30, and 2/15 = (2 × 2)/(15 × 2) = 4/30. Since 3/30 < 4/30, we have 2 1/10 < 2 2/15.
+[WorkedStep] Smallest to greatest: 21/11, 21/10, 32/15.
+Practice 2A Question 7
+[Question] Nellie has 14/11, 5/2 and 33/22. Arrange them from greatest to smallest.
+Check your method
+[WorkedStep] 5/2 = 2 1/2, while 14/11 = 1 3/11 and 33/22 = 1 11/22. So 5/2 is greatest. For the other two, 3/11 = (3 × 2)/(11 × 2) = 6/22 < 11/22.
+[WorkedStep] Greatest to smallest: 5/2, 33/22, 14/11.
+Practice 2A Question 8
+[Question] Raju needs a fraction for the box: 11/7 < □ < 12/7. What could it be? Explain how you found it.
+Check your method
+[WorkedStep] We need a fraction greater than 11/7 and smaller than 12/7. No whole number fits between 11 and 12, so we cannot keep denominator 7 and use a whole-number numerator.
+[WorkedStep] Make the parts smaller by giving both fractions denominator 14:
+[WorkedStep] 11/7 = (11 × 2)/(7 × 2) = 22/14; 12/7 = (12 × 2)/(7 × 2) = 24/14.
+[WorkedStep] The number 23 fits between 22 and 24. One possible answer is 23/14, because 22/14 < 23/14 < 24/14.
+[PanelizationEnd] END PANEL CH02-PAGE023-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 024

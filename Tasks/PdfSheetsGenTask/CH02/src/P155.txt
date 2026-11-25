@@ -1,0 +1,66 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE155
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE155-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Decimals and Percentages
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Decimals and Percentages
+To change a fraction to a decimal, divide the numerator by the denominator. For 3/8, divide 3 by 8:
+3/8 = 3 ÷ 8 = 0.375.
+For a mixed number, you can first change it to an improper fraction: 2 1/10 = (2 × 10 + 1)/10 = 21/10 = 21 ÷ 10 = 2.1.
+To change a decimal to a fraction, use its place value. The number 0.35 means 35 hundredths, so write 35 over 100, then simplify:
+0.35 = 35/100 = (35 ÷ 5)/(100 ÷ 5) = 7/20
+5/8 = 5 ÷ 8 = 0.625
+2.3 = 2 3/10
+In a mixed calculation, do brackets first, then powers and roots, then multiplication and division from left to right, and finally addition and subtraction from left to right. For example, 3.5 + 2 × 1.4 = 3.5 + 2.8 = 6.3.
+For addition and subtraction, line up matching place values: 2.3 + 0.45 becomes 2.30 + 0.45 = 2.75. Check by subtracting: 2.75 − 0.45 = 2.30.
+[PanelizationEnd] END PANEL CH02-PAGE155-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE155-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block R02; Decimals and Percentages
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE155-PANEL02; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+The table below collects the conversion methods. Follow the example 1/4 = 0.25 = 25% as you read the different routes.
+[ProductionLabel] DO NOT PRINT — Figure reference: V44 | The following caption sentence is printable unchanged.
+[Caption] Each route changes the form, not the amount.
+[ProductionNote] Production note V44 — Exact mapping table: fraction to decimal numerator÷denominator; decimal to fraction place-value denominator then simplify; percentage to fraction divide by100 then simplify; percentage to decimal divide percentage number by100; fraction/decimal to percentage multiply by100%. Include1/4=0.25=25%. Avoid ambiguous arrows saying divideby100% without explaining numerical convention. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+To express one quantity as a percentage of another, put the first quantity on top and the quantity after “of” underneath. Match the units, then multiply by 100%.
+For example, 45 cm as a percentage of 1.2 m needs 1.2 m = 120 cm first. Then 45/120 × 100% = 37.5%.
+A greater percentage need not mean more money or more objects when the totals differ. For example, 50% of 10 is 5, but 20% of 100 is 20. Always read the amount after “of”.
+[PanelizationEnd] END PANEL CH02-PAGE155-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 156

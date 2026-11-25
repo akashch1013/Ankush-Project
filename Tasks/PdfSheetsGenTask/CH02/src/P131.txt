@@ -1,0 +1,40 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE131
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE131-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Practice 2J Question 7
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE131-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2J Question 7
+[Question] The gold bar represents one usual loaf. Match each percentage increase to diagram I, II, III or IV.
+[Question] (a)  25% more
+[Question] (b)  50% more
+[Question] (c)  150% more
+[Question] (d)  200% more
+[ProductionLabel] DO NOT PRINT — Figure reference: V33 | The following caption sentence is printable unchanged.
+[Caption] Gold represents the usual amount; teal is extra.
+[ProductionNote] Production note V33 — Preserve diagramsI,II,III,IV at total lengths1.5,1.25,3,2.5times one whole. Leave the percentage matching unanswered. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[Caption] Pause here. Complete the question before turning to the worked answer.
+[PanelizationEnd] END PANEL CH02-PAGE131-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 132

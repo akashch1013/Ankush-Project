@@ -1,0 +1,32 @@
+{
+ "name": "CH02-run2-fix",
+ "created": "2026-11-23T23:04:06",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P006-4",
+   "kind": "fix",
+   "quality": "high",
+   "size": "768x1024",
+   "prompt_sha": "017c41105741",
+   "refs": [
+    "item:P006-4"
+   ],
+   "instruction": "Keep everything unchanged except the brass trolley edge at the bottom-right corner: remove every cup from the carrier so it is a bare, empty brass tray with no cups, no objects. No other changes.",
+   "custom_id": "P006-4~fix~2"
+  },
+  {
+   "rid": "P009-2",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x768",
+   "prompt_sha": "999bcebaf763",
+   "refs": [
+    "item:P009-2"
+   ],
+   "instruction": "Keep everything unchanged except the brass trolley at the lower right: remove every cup from its upper carrier so the carrier is a bare, empty brass tray with no cups or objects. Keep the clipped sheet (one cup drawing, blank right half) exactly as is. No other changes.",
+   "custom_id": "P009-2~fix~2"
+  }
+ ],
+ "bytes": 727245
+}

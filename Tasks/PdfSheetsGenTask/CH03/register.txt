@@ -1,0 +1,426 @@
+[Title] ChandRush Chapter 03
+Location Image Register
+[Subtitle] V06  |  Batch location image register
+One existing Parade Ground master; two new master images and twenty-one derived images to create. Generate each derived image directly from its named master reference or references and the fair spatial map.
+## Master references
+| Master | Reference and status |
+| M01  Parade Ground | Existing approved image: Moonlit Parade Ground Rehearsal Yard.png. Preserve its architecture, near gallery stair, distant gallery door and elephant design. |
+| M02  Rear staff passage | Master brief below: CH03_M02_Rear_staff_passage_master.png. Its finished image is the reference for the hidden passage, arch platform, two approaches and low recess. |
+| M03  Moon Square | Master brief below: CH03_M03_Moon_Square_master_from_Parade_Arch.png. Its finished image is the reference for the square, folding bench, board and fixed outer paving. |
+## Spatial layout
+From the Food Street threshold: guest lane left, rehearsal loop centre, elephant bay right, costume bench near-left and gallery upper-right. The near gallery stair stands beside the elephant; the first gallery door is at the distant end near the arch. Separate crew and visitor routes connect the near work areas.
+Behind the far arch, one staff stair joins the upper platform to a ground-level recess; the other approach reaches the opposite platform end. These are distinct from the large near gallery stair. The counting casing stays at waist height for an eleven-year-old child on the arch pier. Through the arch: Clock Tower and Report Court left, Games Lane right, Grand Pavilion ahead.
+## Image appearance
+Premium semi-realistic painterly 2.5D graphic-novel illustration matching the approved Parade Ground master: dimensional indigo timber, warm brass, cream stone, pale textured paving, saffron and teal canopies, rich depth and maintained handcrafted detail. Fixed amber lamps contrast with cool full-moon light. Architecture, proportions, materials and fixed light direction remain continuous across all views.
+## Batch reference instructions
+Use the existing M01 Parade Ground image and the two completed masters M02 Rear Staff Passage and M03 Moon Square, together with the fair spatial map. First create and review M02 and M03 from their briefs below. For each derived job, attach only its named master or masters and the map. Do not require any other derived image as an input. Preserve the same architecture, materials, fixed lights, proportions, thresholds and equipment across camera angles; movable trolleys and loose props occupy the position specified in each brief.
+Each image is one frozen, character-free reference state. The brief states what to show in that image; a later story panel may need a small local change to the door, lid, writing, prop or control. Keep position and action labels as directed; distinguish them from physical inscriptions on equipment. Count the objects in the artwork rather than relying on labels.
+For page production after the reference images have been created, use S03-D03 for the level parking patch beside the ribbon bench and S02-B01 for the open costume-box and fixed cushion-rack construction. Place the same trolley on that patch with its brake engaged; adjust the single long sleeve locally as the scene requires. For the later closed departure state, close and catch the box, put all cloth inside and retain the secured cushions. Preserve the separate slope and brake-state images. These page-production references are not inputs for generating the batch images.
+Protect the sequence: the pattern says 12 cm and 18 cm, the candidate sleeve is 0.24 m and the original sleeve is 36 cm. Keep calculations concealed until required. The model and real elephant bodies measure 60 cm and 300 cm; the model wheel is 8 cm and strap path 30 cm. The later checked answers are 40 cm and 150 cm. The thirty ribbons remain thirty: two groups of six and three groups of six, or 12 and 18, after sharing.
+The rear arch has one silver strip and one low casing: installed first, then cover open, then strip absent. The board in Moon Square remains at 40 even when the manual total is 62. A raised bench obstructs only the inner path; the outer route remains clear. Keep these states from appearing before their respective moments.
+# Image index
+| ID | Location or state | Master |
+| M02 | Rear staff passage master | M01 |
+| M03 | Moon Square master from Parade Arch | M01 |
+| S01-B01 | Costume bench and trolley working area | M01 |
+| S02-B01 | Open costume box and secured cushions | M01 |
+| S03-B01 | Elephant work bay and safe tables before wheel replacement | M01 |
+| S03-D03 | Thirty plain ribbons before sharing | M01 |
+| S03-D04 | Ribbon bench after the thirty ribbons are shared | M01 |
+| S03-D05 | Ground controls before the drive starts | M01 |
+| S03-D11 | Rehearsal gate open before the ground stop is pressed | M01 |
+| S03-D06 | Drive stopped with the rehearsal gate open | M01 |
+| S03-D12 | Trolley on the short board before the lid opens | M01 |
+| S03-D07 | Costume trolley with the sleeve across its brake | M01 |
+| S03-D13 | Trolley brake exposed before engagement | M01 |
+| S03-D08 | Trolley stopped with the brake clear | M01 |
+| S03-D14 | Secured elephant stationary in its work bay | M01 |
+| M01-D01 | Secured elephant during the supervised loop test | M01 |
+| S04-D01 | Equipment gallery with drive control and far door | M01 |
+| S04-D03 | First gallery door open during the escape | M01 / M02 |
+| S05-B01 | Counting arch with the strip installed | M01 / M02 |
+| S05-D01 | Rear casing open with the counting strip installed | M02 / M01 |
+| S05-D02 | Arch recess and writing shelf after the counting strip is removed | M02 / M01 |
+| S05-D05 | Second staff door open at the reader | M02 |
+| S06-B01 | Folding bench stopped beside the board | M03 |
+# 01  Rear staff passage master
+Location M02  |  Rear Staff Passage  |  Master
+Filename CH03_M02_Rear_staff_passage_master.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png; preserve the distant first door, upper gallery level and public arch while extending the hidden architecture behind them.
+Image title REAR STAFF PASSAGE
+REAR STAFF PASSAGE MASTER
+Camera and framing 4:3 landscape elevated oblique view from behind the far perimeter. Show the back of the first gallery door, passage turn, arch platform, near arch stair down to the low recess, other stair approach and separate second door. Use a real open viewpoint, without transparent walls.
+Location and construction The upper rear passage starts beyond the gallery’s far bolted door, follows the right perimeter and turns along the far boundary to the platform above the counting arch. The near arch staff stair connects that platform to the ground recess behind the arch pier. Its foot joins safe paving around the pier, outside the guest lane. A separate stair approach reaches the other end of the platform beside the second staff door. These two arch approaches are behind the public frontage; they do not move or replace the large near gallery stair visible beside the elephant in the approved master. The second door is ticket-operated and separate from the first bolted gallery door. Match the approved yard’s indigo decking, brass rails, cream wall backs and amber lamps. The ground recess sits behind the approach-right arch pier. Its casing stays at waist height for an eleven-year-old child; the writing shelf and perch remain downstairs. A gap above the return wall permits a distant view towards the float while screening the low recess. The near arch stair serves Veer’s descent to the casing and return upstairs. The other approach serves Tara’s later pursuit; it is not an additional stair to the casing. The second staff door is a separate indigo leaf with brass edging and a flat ticket-contact reader on the approach-side post; its threshold is level with the platform. The first door has a rear sliding bolt.
+Visible arrangement First gallery door closed, rear bolt engaged. Second staff door closed, reader accessible from the upper landing. Both arch approaches are unobstructed. The one counting strip is installed inside the low casing, concealed by its closed rear cover. The recess connects to safe side paving around the pier, clear of the guest queue. Keep the distant float and its ground controls outside this architectural view.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+Fixed relationship The two arch approaches join the same upper platform. The counting casing, writing shelf and perch remain on ground paving below it; no casing is mounted on the upper walkway.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| REAR PASSAGE ROUTE | Upper leader along the deck from the bolted door towards the arch. |
+| NEAR STAIR TO CASING | Side leader down the near arch stair to the safe recess. |
+| TARA OTHER APPROACH | Opposite leader to the other ground entrance and stair. |
+| SECOND DOOR APPROACH | Far leader to the upper landing at the reader-controlled door. |
+# 02  Moon Square master from Parade Arch
+Location M03  |  Moon Square  |  Master
+Filename CH03_M03_Moon_Square_master_from_Parade_Arch.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png; match its materials and the far arch connection while establishing the square beyond that arch.
+Image title MOON SQUARE
+MOON SQUARE MASTER FROM PARADE ARCH
+Camera and framing 4:3 landscape wide view through the Parade Arch into Moon Square. Keep the low stage, three seating areas, curved blue screen, near board, inner bench obstruction and continuous outer lane visible. The Clock Tower is left, Games Lane right and Grand Pavilion ahead.
+Location and construction From the Parade Arch, Clock Tower and Report Court are left, Games Lane right and Grand Pavilion ahead. Continue the fair’s pale paving, indigo timber, brass, cream walls and layered canopies. A low central stage has three seating areas: left, near the board and behind a curved indigo screen at right-rear. The screen pocket retains an open entrance. The seating board stands near the arch on the right edge of the inner approach, facing it. Its level register shelf and separate stop lever are reachable from fixed outer paving. The nearest timber bench has two matching hinged supports; at about 40 degrees above horizontal it obstructs only the inner path. Its sweep never reaches the shelf or outer lane. Continuous outer paving passes behind the board to all exits.
+Visible arrangement The seating board displays exactly 40. Its stop lever is raised and the shelf is clear. One empty bench beside the board is partway raised across the inner path at the specified angle. Other benches are stationary in their ordinary positions. The continuous outer paving and all exit approaches remain clear. Fixed lamps illuminate the board and paths; the same full-moon night continues. The board carries only 40; seating areas have no numerical subgroup signs.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+Fixed relationship The board and bench are close enough for the stop to be reached from fixed paving without entering the bench path.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| BOARD STOP POSITION | Lower-right leader to fixed paving within reach of the board lever. |
+| STEP BACK AREA | Lower-centre leader to clear floor outside the raised bench’s sweep. |
+| OUTER WALKING ROUTE | Side leader following fixed paving behind the board towards the square exits. |
+| SCREEN WAITING AREA | Right-margin leader to the open floor inside the curved screen pocket. |
+# 03  Costume bench and trolley working area
+Location S01-B01  |  Clown Costume Bench  |  Sublocation
+Filename CH03_S01_B01_Costume_bench_and_trolley_working_area.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title CLOWN COSTUME BENCH
+COSTUME BENCH AND TROLLEY WORKING AREA
+Camera and framing 4:3 landscape medium-wide three-quarter view of the complete near-left costume bench, rear picture stand, parked trolley, open floor at both sides and visitor rope beyond. Leave enough visible construction for later low views and close crops.
+Location and construction A freestanding cream worktop on indigo trestles with brass corners stands outside the rehearsal loop beside the near-left guest lane. The clown’s working side is the far edge; children have clear near and end edges. A rear stand holds a flat picture of a correctly dressed slender wooden clown beside a small garment pattern. The picture shows an ivory-painted face, blue carved curls, a red nose, red jacket with fitted blue sleeves ending at the wrists, checked trousers, striped shoes and a pointed red-and-gold hat. The portable brass lamp has a stable corner at the Food Street end, clear of cloth. Beside the bench is one light red-and-blue timber trolley with four small wheels, a fixed side handle and brake on the outward side. Its low costume box has an outer rim about 20 cm above paving and a brake below that rim. The lid opens on a stay into the clearance beneath a fixed rack of secured cushions. The rack never moves with the lid.
+Visible arrangement lamp upright in its corner, trolley level and braked, box closed. Pattern labels are SLEEVE 12 cm and JACKET 18 cm. One loose blue candidate sleeve bears its 0.24 m tag. A blank comparison card, pencil and rolled tape lie on the worktop. The centre is clear for supporting the clown’s arm.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| AHANA WORKING POSITION | Lower-left leader to the clear near corner. |
+| NAVYA PATTERN POSITION | Side leader to the bench end beside the stand. |
+| CLOWN STANDING POSITION | Far-side leader to the open working edge. |
+| TEZ FLOOR POSITION | Lower leader to clear paving beneath the bench, away from wheels. |
+# 04  Open costume box and secured cushions
+Location S02-B01  |  Costume Trolley and Box  |  Sublocation
+Filename CH03_S02_B01_Open_costume_box_and_secured_cushions.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title COSTUME TROLLEY AND BOX
+OPEN COSTUME BOX AND SECURED CUSHIONS
+Camera and framing 4:3 landscape close three-quarter view of the costume trolley beside the near-left bench. Show the complete open box, its lid stay, fixed cushion rack, side handle and brake, with cream bench edge and pale paving as anchors.
+Location and construction One light red-and-blue timber costume trolley has four small wheels, a fixed side handle and a hand-operated brake on the same outward-facing side. A low costume box sits beneath a fixed upper rack of secured cushions. Its outer rim is about 20 cm above level paving, with the side brake below that rim. Its lid hinges upward into the clearance below the rack and rests on its own lid stay. A simple catch closes the lid; the rack and cushions do not move with it. The trolley is parked lengthways beside the costume bench, outside the visitor route. Its low box contains one loose red-and-blue comic outfit, one spare pointed red-and-gold hat and one closed stage-paint tin. The outfit is a single folded garment set. The spare hat is separate from the clown’s worn hat.
+Visible arrangement The lid is open on its stay, clear of the secured cushions. One spare loose red-and-blue comic outfit, one spare pointed hat and one closed stage-paint tin lie inside, all visibly supported. Clear space remains above the three spare items; no loose sleeve is resting inside the box. The trolley is braked on level paving beside the costume bench.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| CLOWN CROUCHING POSITION | Lower leader to paving beside the low box. |
+| SLEEVE STOWING AREA | Side leader to the open space above the spare contents. |
+| LID CLOSING EDGE | Upper leader to the free lid edge. |
+# 05  Elephant work bay and safe tables before wheel replacement
+Location S03-B01  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_B01_Elephant_work_bay_and_safe_tables_before_wheel_replacement.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+ELEPHANT WORK BAY AND SAFE TABLES BEFORE WHEEL REPLACEMENT
+Camera and framing 4:3 landscape medium-wide three-quarter view from the near crew apron. Include the full float, original wheels and blocks, safe model stand, adjoining ribbon bench, parts rack, fixed work rail, ground-control platform and near gallery stair.
+Location and construction The approved blue elephant body, brass ornament and low chassis remain in the physical-right bay. Its railed performer platform and body shape stay fixed. Real body length is 300 cm, excluding trunk, tail and decoration. A thick temporary support cradles the body at fixed chassis anchors. The separate final strap follows a marked side path from a low body lug to an accessible chassis bracket. The fixed indigo-and-brass machinery rail separates heavy parts from the safe model stand and ribbon bench. Supported wheel slots stand behind it; children cannot lift the wheels. Both cream tables have indigo trestles and brass corners. The distinct visitor rope borders the near apron beyond their visitor-facing edge. Ground stop and separate test control are on fixed paving beside the near gallery stair. The bay gate opens into the loop. A short loading board beside the ribbon bench slopes towards the bay but ends before the blocked wheels.
+Visible arrangement Original undersized wheels remain on the stationary float, firmly blocked. Temporary support taut; final strap unfitted. Gate closed. Safe tabletops initially clear. Rack labels that would reveal replacement answers face away. Keep the broad model surface, staff-rest corner, loading board and visitor/crew floor connections readable.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| HELPER INSPECTION POSITION | Side leader to working floor beside the chassis. |
+| SAFE MODEL WORKING AREA | Near leader to the accessible stand edge outside the machinery rail. |
+| VISITOR VIEWING AREA | Lower-side leader to the pocket behind its separate rope. |
+| GROUND STOP APPROACH | Other-side leader to fixed paving beside the gallery stair. |
+# 06  Thirty plain ribbons before sharing
+Location S03-D03  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D03_Thirty_plain_ribbons_before_sharing.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+THIRTY PLAIN RIBBONS BEFORE SHARING
+Camera and framing 4:3 landscape medium three-quarter view across the safe ribbon bench, keeping the open box, both trays, adjoining model stand, bench legs and nearby visitor rope visible.
+Location and construction The cream ribbon bench stands beside the model stand on the safe side of the fixed work rail in the right bay. Its indigo trestles and brass corners match the master. A small shallow ribbon box is central, BLUE tray on the crew-facing left and GOLD tray on the right. This ribbon box is separate from the low costume box on the parked trolley. Preserve the short board and level parking patch beside the bench. The adjacent small model is the same blue elephant design at one-fifth scale: body length 60 cm excluding trunk and projecting ornament, wheel diameter 8 cm, and a 30 cm strap path between corresponding attachment points.
+Visible arrangement Exactly thirty equal plain ivory ribbons lie in the open box as three clear rows of ten, with no overlaps hiding a ribbon. Both side trays are empty. The design card reads BLUE : GOLD 2 : 3. The tray cards read only BLUE and GOLD, with blank space for their later quantities. No ribbon is blue or gold yet. The nearby costume trolley is parked on level paving at the top of the short loading board, brake engaged and box closed. The rolled measuring tape rests on the safe model stand, clear of the model and papers.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| RIBBON COUNTING POSITION | Lower-margin leader to the clear bench edge beside the three rows. |
+| LEFT TRAY HANDLING EDGE | Left-margin leader to the outer rim of the empty BLUE tray. |
+| RIGHT TRAY HANDLING EDGE | Right-margin leader to the outer rim of the empty GOLD tray. |
+# 07  Ribbon bench after the thirty ribbons are shared
+Location S03-D04  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D04_Ribbon_bench_after_the_thirty_ribbons_are_shared.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+RIBBON BENCH AFTER THE THIRTY RIBBONS ARE SHARED
+Camera and framing 4:3 landscape three-quarter view of the same ribbon bench and adjoining model stand. Keep the full tray arrangement, protected colouring mat, open colour case and checked plan visible.
+Location and construction Use the right bay’s cream worktables on indigo trestles, with the model stand beside the ribbon bench and the visitor rope beyond their safe edge. BLUE tray remains crew-facing left and GOLD right. Each tray accommodates separated groups of six. The colouring mat and open colour case occupy the rear corner, clear of countable ribbons and dry papers. The case is separate from the closed stage-paint tin in the costume trolley. The adjacent small model is the same blue elephant design at one-fifth scale: body length 60 cm excluding trunk and projecting ornament, wheel diameter 8 cm, and a 30 cm strap path between corresponding attachment points.
+Visible arrangement Exactly thirty plain ivory ribbons are shared: BLUE tray has two groups of six, card BLUE 12; GOLD tray has three groups of six, card GOLD 18. The original ribbon box is empty. The model and plan rest beside the trays. Plan text: BODY 60 cm → 300 cm, ×5; WHEEL 8 cm → 40 cm; STRAP 30 cm → 150 cm. Final strap still unfitted on its support. Rolled tape on the safe model stand. Brush rests in the open colour case; mat initially clear. Keep float wheels outside this close working-area frame.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TRAY LABEL WRITING EDGE | Near-side leader to the blank card margin, clear of 12 and 18. |
+| CLOWN COLOURING POSITION | Rear-side leader to the protected mat beside the open colour case. |
+| FINAL PLAN CHECK POINT | Side leader to the clear edge of the checked plan. |
+# 08  Ground controls before the drive starts
+Location S03-D05  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D05_Ground_controls_before_the_drive_starts.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+GROUND CONTROLS BEFORE THE DRIVE STARTS
+Camera and framing 4:3 landscape medium three-quarter view at the foot of the near gallery stair. Include the fixed control platform, raised stop lever, separate test control, stair handrail and adjacent bay gate. The lower elephant wheels are visible beyond the rail.
+Location and construction The work bay occupies the physical-right side of the Parade Ground. A fixed indigo-and-brass rail separates the float and wheel rack from the low model stand and adjoining ribbon bench on the safe side. The model stand has a broad top accessible from the clear crew-side paving; the fixed rail separates it from the machinery. The viewing rope lies beyond its visitor-facing edge, distinct from the fixed machinery rail. A flat control platform beside the near gallery stair holds the ground stop lever and a separate test control. The work-bay gate opens towards the central rehearsal loop. The ground stop is a broad brass down-press lever in a fixed indigo housing beside the stair foot. A separate smaller test control sits on the same platform within easy adult reach. The gallery drive housing is above, physically distinct. The bay gate is a brass-railed leaf hinged clear of the float exit into the loop.
+Visible arrangement The ground stop is raised at rest and the bay gate is closed. The float now has matching 40 cm wheels fitted, with wheel locks in place and blocks against the treads. The thick temporary support remains taut; the final strap lies loose on its support. The clear platform permits a person with a planted staff to reach the stop and then take the near stair. The costume trolley is level and braked beside the loading board, outside the wheel area. If the ribbon bench is visible, one partly blue ribbon lies on its mat and the brush rests in the open colour case; the separate stage-paint tin stays inside the closed trolley box.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TARA STOP POSITION | Lower-centre leader to the fixed platform immediately beside the lever. |
+| HELPER HANDOVER POSITION | Right-margin leader to the clear second position beside the stop housing. |
+| GALLERY STAIR APPROACH | Upper-side leader to the first tread and reachable handrail. |
+# 09  Rehearsal gate open before the ground stop is pressed
+Location S03-D11  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D11_Rehearsal_gate_open_before_the_ground_stop_is_pressed.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+REHEARSAL GATE OPEN BEFORE THE GROUND STOP IS PRESSED
+Camera and framing 4:3 landscape medium-wide view from beside the ground-control platform across the open bay gate to the blocked elephant. Keep the raised stop in the foreground and empty loop beyond.
+Location and construction The work bay occupies the physical-right side of the Parade Ground. A fixed indigo-and-brass rail separates the float and wheel rack from the low model stand and adjoining ribbon bench on the safe side. The model stand has a broad top accessible from the clear crew-side paving; the fixed rail separates it from the machinery. The viewing rope lies beyond its visitor-facing edge, distinct from the fixed machinery rail. A flat control platform beside the near gallery stair holds the ground stop lever and a separate test control. The work-bay gate opens towards the central rehearsal loop. One decorative indigo-blue timber elephant body sits on one low wheeled chassis with a small railed performer platform. Warm brass trim and restrained red-and-gold parade cloth match the master. Body length is 300 cm, measured between the body ends and excluding trunk, tail and projecting ornament. The body shape, chassis and platform remain identical as wheels and supports change. A thick temporary support strap cradles the body at fixed load-bearing points on the chassis. A separate final strap follows a marked side path from a low body lug to a chassis bracket; its buckle is reachable from the working side. The gallery drive housing remains upstairs. The ground stop and test control occupy the fixed lower platform. The open gate folds clear of the float exit.
+Visible arrangement Ground stop still raised. Bay gate now open. Matching 40 cm wheels press against intact blocks; the temporary support is taut. Final strap remains unfitted on its support. Show one restrained wheel position with no displaced blocks or motion trails. The guest lane and loop remain separated.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TARA STOP APPROACH | Lower leader to fixed paving beside the raised lever. |
+| STOP PALM CONTACT | Side leader to the exposed lever face. |
+| HELPER WAITING POSITION | Other-side leader to fixed paving beside the housing. |
+# 10  Drive stopped with the rehearsal gate open
+Location S03-D06  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D06_Drive_stopped_with_the_rehearsal_gate_open.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+DRIVE STOPPED WITH THE REHEARSAL GATE OPEN
+Camera and framing 4:3 landscape medium-wide view from the fixed ground-control platform towards the stopped float. The depressed stop occupies the foreground, with the open bay gate, blocked wheel and taut temporary strap behind.
+Location and construction The work bay occupies the physical-right side of the Parade Ground. A fixed indigo-and-brass rail separates the float and wheel rack from the low model stand and adjoining ribbon bench on the safe side. The model stand has a broad top accessible from the clear crew-side paving; the fixed rail separates it from the machinery. The viewing rope lies beyond its visitor-facing edge, distinct from the fixed machinery rail. A flat control platform beside the near gallery stair holds the ground stop lever and a separate test control. The work-bay gate opens towards the central rehearsal loop. One decorative indigo-blue timber elephant body sits on one low wheeled chassis with a small railed performer platform. Warm brass trim and restrained red-and-gold parade cloth match the master. Body length is 300 cm, measured between the body ends and excluding trunk, tail and projecting ornament. The body shape, chassis and platform remain identical as wheels and supports change. A thick temporary support strap cradles the body at fixed load-bearing points on the chassis. A separate final strap follows a marked side path from a low body lug to a chassis bracket; its buckle is reachable from the working side. The ground stop is the broad down-press brass lever beside the near gallery stair. The distinct test control remains beside it. The rehearsal gate opens from the right bay into the central loop and folds clear against its original rail. The fitted 40 cm wheels retain their original axle positions on the chassis.
+Visible arrangement The stop lever is fully depressed. The gate is open, but the elephant remains stationary inside its bay with treads pressed against intact blocks. The thick temporary strap remains taut at both supports. The separate final strap lies unfitted on the nearby support. No block has shifted and no wheel has crossed the bay threshold. The open loop and guest lane remain separated by their fixed boundaries.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| STOP HOLDING POSITION | Lower-margin leader to fixed paving beside the depressed lever. |
+| STOP PALM CONTACT | Side leader to the exposed upper face of the down-pressed lever. |
+| FLOAT SUPPORT CHECK | Upper-side leader to the working-side inspection patch, outside the blocked wheel footprint. |
+# 11  Trolley on the short board before the lid opens
+Location S03-D12  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D12_Trolley_on_the_short_board_before_the_lid_opens.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+TROLLEY ON THE SHORT BOARD BEFORE THE LID OPENS
+Camera and framing 4:3 landscape low three-quarter view from level paving beside the short board. Show the closed low box, side handle, released brake, fixed cushion rack and one leading wheel partway down the board.
+Location and construction One light red-and-blue timber costume trolley has four small wheels, a fixed side handle and a hand-operated brake on the same outward-facing side. A low costume box sits beneath a fixed upper rack of secured cushions. Its outer rim is about 20 cm above level paving, with the side brake below that rim. Its lid hinges upward into the clearance below the rack and rests on its own lid stay. A simple catch closes the lid; the rack and cushions do not move with it. The board slopes shallowly from the level ribbon-bench parking patch towards the bay and ends outside the elephant’s blocked wheels. The handle-and-brake side faces the level crew apron. Leading wheels are on the board and rear wheels remain near its level top.
+Visible arrangement The lid is still closed, brake released and no sleeve hangs outside. Outfit, spare hat, closed stage-paint tin and discarded sleeve remain inside. Cushions stay secured. Use one wheel position without motion ghosts. The float remains blocked and temporarily supported, final strap unfitted. Brush in the open colour case; partly blue ribbon on the mat.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| CLOWN PULLING POSITION | Side leader to level paving beside the handle. |
+| FIXED HANDLE GRIP | Upper-side leader to the side handle. |
+| FRAME BRACING POINT | Lower-side leader to the fixed trolley frame, clear of the wheel. |
+# 12  Costume trolley with the sleeve across its brake
+Location S03-D07  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D07_Costume_trolley_with_the_sleeve_across_its_brake.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+COSTUME TROLLEY WITH THE SLEEVE ACROSS ITS BRAKE
+Camera and framing 4:3 landscape low close three-quarter view beside the short loading board at the near work-bay edge. Show the trolley side handle, obstructed brake, open box, upper cushions and the near wheel partway down the board. Level paving beside it remains prominent.
+Location and construction One light red-and-blue timber costume trolley has four small wheels, a fixed side handle and a hand-operated brake on the same outward-facing side. A low costume box sits beneath a fixed upper rack of secured cushions. Its outer rim is about 20 cm above level paving, with the side brake below that rim. Its lid hinges upward into the clearance below the rack and rests on its own lid stay. A simple catch closes the lid; the rack and cushions do not move with it. The loading board begins beside the ribbon bench and slopes shallowly towards the work bay, ending before the blocked elephant wheels. It is broad enough to support the trolley wheel tracks. The trolley faces down the board; its leading wheels follow the slope and rear wheels remain at its level top. The handle-and-brake side faces the level crew apron. The float and its fixed work rail remain beyond the board end, separate from this small trolley.
+Visible arrangement The low box lid is open on its stay. Only the one discarded blue sleeve spills out, draped across the exposed brake handle and trailing onto level paving beside the board. Its length remains 36 cm; the low box rim and brake allow it to reach the ground without stretching. The spare outfit, spare hat and closed stage-paint tin remain inside; cushions remain secured above. The brake is released. The fixed side handle is unobstructed. This is one wheel position, with all visible contacts grounded and no impact or repeated motion positions. The rolled tape rests on the ribbon bench. The brush remains in its open colour case and the partly blue ribbon on its mat.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| AHANA TWO HAND GRIP | Side leader to the trolley’s fixed side handle. |
+| AHANA BRACING POSITION | Lower-left leader to level paving beside the board, outside the wheel tracks. |
+| CLOWN BRAKE POSITION | Right-margin leader to level paving within reach of the cloth-covered brake. |
+| TEZ CLOTH CORNER | Lower-margin leader to the sleeve end on level paving, clear of the trolley path. |
+# 13  Trolley brake exposed before engagement
+Location S03-D13  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D13_Trolley_brake_exposed_before_engagement.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+TROLLEY BRAKE EXPOSED BEFORE ENGAGEMENT
+Camera and framing 4:3 landscape low close three-quarter view of trolley side handle, exposed released brake, open box and stopped-looking single wheel position on the shallow board. Include level side paving for the cloth end.
+Location and construction One light red-and-blue timber costume trolley has four small wheels, a fixed side handle and a hand-operated brake on the same outward-facing side. A low costume box sits beneath a fixed upper rack of secured cushions. Its outer rim is about 20 cm above level paving, with the side brake below that rim. Its lid hinges upward into the clearance below the rack and rests on its own lid stay. A simple catch closes the lid; the rack and cushions do not move with it. Leading wheels rest partway down the board and rear wheels at its level top. The apron beside the handle is level. The brake and frame remain on the same outward-facing side.
+Visible arrangement Lid open on its stay. The 36 cm discarded sleeve is clear of the brake, its upper fold supported over the low rim and its end reaching level paving outside the wheel path. The brake is raised and released. Spare outfit, hat and closed tin stay inside. The tape is on the ribbon bench; brush in colour case and ribbon on mat.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| AHANA TWO HAND GRIP | Side leader to the fixed handle. |
+| CLOWN BRAKE CONTACT | Other-side leader to the clear raised brake. |
+| TEZ CLOTH CORNER | Lower leader to the fabric end outside the wheel tracks. |
+# 14  Trolley stopped with the brake clear
+Location S03-D08  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D08_Trolley_stopped_with_the_brake_clear.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+TROLLEY STOPPED WITH THE BRAKE CLEAR
+Camera and framing 4:3 landscape low three-quarter view from the level apron beside the short loading board beside the ribbon bench. Keep the fixed handle, engaged side brake, open low box, sleeve end and stopped wheel contacts visible. The elephant remains farther inside the bay.
+Location and construction One light red-and-blue timber costume trolley has four small wheels, a fixed side handle and a hand-operated brake on the same outward-facing side. A low costume box sits beneath a fixed upper rack of secured cushions. Its outer rim is about 20 cm above level paving, with the side brake below that rim. Its lid hinges upward into the clearance below the rack and rests on its own lid stay. A simple catch closes the lid; the rack and cushions do not move with it. The short board slopes from the near ribbon-bench parking patch towards the work bay and ends outside the blocked elephant wheels. Its upper end meets the level parking patch beside the ribbon bench; the side apron remains level. The trolley’s leading wheels rest on the slope, rear wheels at the level top, with its handle-and-brake side facing the apron.
+Visible arrangement The small trolley is stationary and its side brake is fully engaged. The same 36 cm blue sleeve is clear of the brake, folded over the low outer box rim with its trailing corner resting on the level side paving. Its cloth length is unchanged. The lid stays open beneath the fixed cushion rack; the spare outfit, spare hat and closed paint tin remain inside. The handle is free for two hands. The checked model and plan remain on the safe stand; the rolled measuring tape rests on the ribbon bench. The elephant is blocked with temporary support; its final strap is not yet fitted. The brush remains in the open colour case and the partly blue ribbon on the mat.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| AHANA HOLDING POSITION | Lower-left leader to level paving beside the fixed handle. |
+| CLOWN BRAKE HAND POINT | Right-margin leader to the fully engaged, exposed brake. |
+| TEZ CLOTH CORNER | Lower-margin leader to the trailing sleeve corner, outside all wheel tracks. |
+# 15  Secured elephant stationary in its work bay
+Location S03-D14  |  Elephant Work Bay  |  Sublocation
+Filename CH03_S03_D14_Secured_elephant_stationary_in_its_work_bay.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title ELEPHANT WORK BAY
+SECURED ELEPHANT STATIONARY IN ITS WORK BAY
+Camera and framing 4:3 landscape medium three-quarter view of the complete secured float in its work bay. Show final buckle, alignment marks, fitted wheels, blocks, platform rail and open gate. Keep the ground-stop lever, test control and trolley outside the frame.
+Location and construction The work bay occupies the physical-right side of the Parade Ground. A fixed indigo-and-brass rail separates the float and wheel rack from the low model stand and adjoining ribbon bench on the safe side. The model stand has a broad top accessible from the clear crew-side paving; the fixed rail separates it from the machinery. The viewing rope lies beyond its visitor-facing edge, distinct from the fixed machinery rail. A flat control platform beside the near gallery stair holds the ground stop lever and a separate test control. The work-bay gate opens towards the central rehearsal loop. One decorative indigo-blue timber elephant body sits on one low wheeled chassis with a small railed performer platform. Warm brass trim and restrained red-and-gold parade cloth match the master. Body length is 300 cm, measured between the body ends and excluding trunk, tail and projecting ornament. The body shape, chassis and platform remain identical as wheels and supports change. A thick temporary support strap cradles the body at fixed load-bearing points on the chassis. A separate final strap follows a marked side path from a low body lug to a chassis bracket; its buckle is reachable from the working side. The fitted wheels are 40 cm in diameter. The separate final strap follows the marked 150 cm path from the low body lug to its chassis bracket. Its accessible buckle and both alignment marks are readable. A clear staff-rest corner belongs to the fixed work stand.
+Visible arrangement The 40 cm wheels are fitted and blocked. The 150 cm final strap is fastened, buckle seated and both attachment marks aligned. Temporary support remains attached. Bay gate open; float stationary in its original bay. Model and checked plan stay on the safe stand. Leave the accessible buckle and far attachment clear for hands, with Navya’s pointing position outside the machinery rail.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TARA BUCKLE POSITION | Side leader to fixed working floor beside the accessible buckle. |
+| HELPER STRAP SUPPORT | Far leader to the marked anchorage. |
+| NAVYA POINTING POSITION | Near leader to the safe stand edge. |
+| PERFORMER STANDING POSITION | Upper leader inside the low platform rail. |
+# 16  Secured elephant during the supervised loop test
+Location M01-D01  |  Parade Ground  |  Sublocation
+Filename CH03_M01_D01_Secured_elephant_during_the_supervised_loop_test.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title PARADE GROUND
+SECURED ELEPHANT DURING THE SUPERVISED LOOP TEST
+Camera and framing 4:3 landscape wide view from the near apron towards the central loop. The full float occupies one position on the loop; the right bay, ground-control platform, near viewing rope and left walking lane remain visible.
+Location and construction From the Food Street threshold towards Moon Square, the protected pedestrian lane follows the physical-left edge of the yard, the rehearsal loop occupies the centre, and the elephant work bay is on the physical right. The costume bench is near-left outside the loop. The equipment gallery runs above the right work bay, with its near stair towards Food Street and its first staff door at the far end. The counting arch stands at the far end of the left lane. A broad apron outside the near curve of the loop connects the costume bench to the right work stand. A viewing rope divides its outer visitor pocket from the parallel inner crew route. The visitor pocket joins the left pedestrian lane and reaches the visitor-facing edge of the ribbon bench; the crew route reaches the work stand without crossing the loop or the waiting line. The fixed work rail is a separate boundary around the heavy machinery. One decorative indigo-blue timber elephant body sits on one low wheeled chassis with a small railed performer platform. Warm brass trim and restrained red-and-gold parade cloth match the master. Body length is 300 cm, measured between the body ends and excluding trunk, tail and projecting ornament. The body shape, chassis and platform remain identical as wheels and supports change. A thick temporary support strap cradles the body at fixed load-bearing points on the chassis. A separate final strap follows a marked side path from a low body lug to a chassis bracket; its buckle is reachable from the working side. The loop is a clear paved oval, connected to the right bay through its original rehearsal gate. The float has its matching 40 cm wheels fitted, with the final strap fastened along the marked side path and the temporary support still secure.
+Visible arrangement One elephant float is midway around the empty loop, facing along its curved route. The rehearsal gate is open. The removed wheel blocks rest in the work bay outside the travel path. The ground stop is released; the separate test control is reachable from fixed paving. The costume trolley is braked on level paving by the ribbon bench, lid open, with its sleeve folded over the box rim clear of wheels and brake. The performer platform and fixed handrail are unobstructed.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| PERFORMER STANDING POSITION | Side leader to the low platform inside its fixed rail. |
+| TEST CONTROL POSITION | Right-margin leader to the ground-control platform outside the loop. |
+| VISITOR WATCHING AREA | Lower-margin leader to the protected viewing pocket behind its rope. |
+# 17  Equipment gallery with drive control and far door
+Location S04-D01  |  Equipment Gallery  |  Sublocation
+Filename CH03_S04_D01_Equipment_gallery_with_drive_control_and_far_door.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png
+Image title EQUIPMENT GALLERY
+EQUIPMENT GALLERY WITH DRIVE CONTROL AND FAR DOOR
+Camera and framing 4:3 landscape medium-wide three-quarter view from inside the gallery, showing its drive control, handrail, clear deck, near-stair arrival and the single far door in perspective. Leave clear standing floor beside the control and along the approach to the far door.
+Location and construction The gallery is the upper level of the approved right-side yard building. Preserve its indigo decking, solid posts, brass yard-facing rail, near stair beside the elephant and distant door near the arch. No doorway stands above the near stair. The continuous deck joins these points. A small closed drive housing is bolted beside the rail; its flat ticket-contact plate and the neighbouring rail are separate reachable hand contacts. A solid inside post safely supports Veer’s walking stick. The far door is indigo timber with brass hinge straps and a yard-facing handle; its sliding bolt is on the hidden rear face. Its threshold leads to the upper rear passage, not the downstairs counting casing.
+Visible arrangement Drive housing closed with contact plate exposed. Upper deck and near stair clear. Far first door shut. No counting slot on the gallery control. Keep the lower ground controls outside the frame. If the float is glimpsed below in this view, wheels are fitted and blocked, temporary support taut, final strap unfitted.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| VEER CONTROL POSITION | Near-side leader to deck beside the drive housing. |
+| TICKET CONTACT POINT | Side leader to the flat plate. |
+| WALKING STICK REST | Lower leader to the inside post base. |
+| TARA GALLERY APPROACH | Far-side leader along the clear deck towards the distant door. |
+# 18  First gallery door open during the escape
+Location S04-D03  |  Equipment Gallery  |  Sublocation
+Filename CH03_S04_D03_First_gallery_door_open_during_the_escape.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png; CH03_M02_Rear_staff_passage_master.png; Parade Ground fixes the public arch and gallery frontage, while Rear Staff Passage fixes the hidden recess, platform and approaches.
+Image title EQUIPMENT GALLERY
+FIRST GALLERY DOOR OPEN DURING THE ESCAPE
+Camera and framing 4:3 landscape medium view along the upper gallery to its far first door. Frame the open leaf, threshold, passage beyond and clear gallery-side approach.
+Location and construction The equipment gallery runs along the physical-right side above the elephant work bay. Indigo timber decking and solid posts carry a brass safety rail facing the yard. The near stair rises from the fixed ground-control platform and has a continuous handrail. A small drive-control housing with a flat service-ticket contact plate is beside the gallery rail. The first staff door stands at the far end, opening into the rear passage. Its yard-facing handle and rear-facing sliding bolt belong to one solid door leaf. The same indigo door with brass hinge straps opens into the rear passage. Show enough warm-lit decking beyond to establish that the two floors share one level. The rear sliding bolt belongs to this door, not the distant ticket-controlled second door.
+Visible arrangement First door open wide enough for one adult to pass. Bolt withdrawn from its keeper. The yard-side handle and threshold are clear. The door remains at the far gallery end near the arch, never above the near stair. Keep a clear handle-reaching position outside the doorway and a separate exit position beyond it.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TARA HANDLE REACH | Near-side leader to the gallery-side approach and handle. |
+| VEER PASSAGE EXIT | Far-side leader through the open threshold. |
+| TARA STAFF FOOTING | Lower leader to level gallery decking outside the doorway. |
+# 19  Counting arch with the strip installed
+Location S05-B01  |  Counting Arch and Staff Access  |  Sublocation
+Filename CH03_S05_B01_Counting_arch_with_the_strip_installed.png
+Master reference Moonlit Parade Ground Rehearsal Yard.png; CH03_M02_Rear_staff_passage_master.png; Parade Ground fixes the public arch and gallery frontage, while Rear Staff Passage fixes the hidden recess, platform and approaches.
+Image title COUNTING ARCH AND STAFF ACCESS
+COUNTING ARCH WITH THE STRIP INSTALLED
+Camera and framing 4:3 landscape medium-wide side three-quarter view from the protected yard lane towards the counting arch. The reader post and slim front window are prominent; the route through to Moon Square, near staff stair and edge of the writing shelf remain readable.
+Location and construction The counting arch stands at the far end of the yard’s physical-left guest lane and opens into Moon Square. Preserve the approved master’s indigo piers, brass circular ornament and proportions. One casing on the approach-right pier has its centre fixed at waist height for an eleven-year-old child above ground paving. Its front invitation reader and slim window align with one vertical silver-strip slot behind. The same casing’s rear cover hinges sideways into a ground-level recess. The pier and a short return wall conceal that recess from the yard and queue. Safe side paving reaches it around the pier without steps or crossing the guest lane. A fixed writing shelf and separate message perch sit at its outer edge. The upper platform connects to the rear passage. The near arch staff stair descends behind the pier to safe ground paving; the other approach reaches the opposite platform end. Both stay outside the guest opening. The visible gallery and its distant first door retain the approved master’s positions.
+Visible arrangement The single silver slotted strip is installed behind its slim front window and softly illuminated. The rear cover is closed. The invitation contact area is clear for one guest’s hand, and the lane through the arch is unobstructed. The fixed shelf is clear and the message perch empty. Moon Square paving continues beyond the threshold. No guest count is newly printed on the arch; the numerical display belongs to Moon Square’s board.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| INVITATION PRESENTATION POINT | Side leader to the front reader’s accessible contact area. |
+| GUEST WALKING ROUTE | Lower-margin leader through the open arch. |
+| SEATING HELPER POSITION | Far-side leader to clear paving just beyond the arch. |
+| INSPECTION RECESS APPROACH | Opposite-side leader around the post to the safe ground-level recess. |
+# 20  Rear casing open with the counting strip installed
+Location S05-D01  |  Counting Arch and Staff Access  |  Sublocation
+Filename CH03_S05_D01_Rear_casing_open_with_the_counting_strip_installed.png
+Master reference CH03_M02_Rear_staff_passage_master.png; Moonlit Parade Ground Rehearsal Yard.png; Parade Ground fixes the public arch and gallery frontage, while Rear Staff Passage fixes the hidden recess, platform and approaches.
+Image title COUNTING ARCH AND STAFF ACCESS
+REAR CASING OPEN WITH THE COUNTING STRIP INSTALLED
+Camera and framing 4:3 landscape close three-quarter view from the ground recess behind the arch pier. Show the full open rear casing, installed strip, hinge, outer rim and enough paving to establish its low height.
+Location and construction The counting arch stands at the far end of the yard’s physical-left guest lane and opens into Moon Square. Preserve the approved master’s indigo piers, brass circular ornament and proportions. One casing on the approach-right pier has its centre fixed at waist height for an eleven-year-old child above ground paving. Its front invitation reader and slim window align with one vertical silver-strip slot behind. The same casing’s rear cover hinges sideways into a ground-level recess. The pier and a short return wall conceal that recess from the yard and queue. Safe side paving reaches it around the pier without steps or crossing the guest lane. A fixed writing shelf and separate message perch sit at its outer edge. The near arch staff stair reaches this ground recess from the upper passage. The strip fits one pair of brass guide channels; its lower seat and upper gripping edge are visible. The hinged rear cover opens clear of the removal path. A sheltered corner against the pier safely supports a walking stick.
+Visible arrangement Cover fully open; one silver slotted strip still installed. The casing centre stays at waist height for a standing eleven-year-old child. The post screens this work from the yard and guest front. Reserve a stick-rest patch against the pier, not against an upstairs rail. No person or detached spare strip is present.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| COVER OPENING EDGE | Side leader to the free edge of the hinged cover. |
+| STRIP REMOVAL POINT | Upper leader to the installed strip’s gripping edge. |
+| HOUSING STEADYING EDGE | Lower leader to the exterior rim. |
+| WALKING STICK REST | Lower-side leader to the sheltered ground patch against the pier. |
+# 21  Arch recess and writing shelf after the counting strip is removed
+Location S05-D02  |  Counting Arch and Staff Access  |  Sublocation
+Filename CH03_S05_D02_Arch_recess_and_writing_shelf_after_the_counting_strip_is_removed.png
+Master reference CH03_M02_Rear_staff_passage_master.png; Moonlit Parade Ground Rehearsal Yard.png; Parade Ground fixes the public arch and gallery frontage, while Rear Staff Passage fixes the hidden recess, platform and approaches.
+Image title COUNTING ARCH AND STAFF ACCESS
+ARCH RECESS AND WRITING SHELF AFTER THE COUNTING STRIP IS REMOVED
+Camera and framing 4:3 landscape medium three-quarter view from safe arch-side paving. Show the whole empty low casing and open rear cover, the fixed writing shelf and message perch, staff-rest corner, near arch stair foot and clear floor for the group. Keep the post’s screening wall intact.
+Location and construction The counting arch is at the far end of the left guest lane. Its approach-right pier holds one casing at waist height for an eleven-year-old child above ground paving. The front reader and window belong to the same housing as the rear vertical guide channels and lower strip seat. Its side-hinged cover opens into a ground recess screened from yard and queue by the solid pier and return wall. Safe paving reaches the recess around the pier without climbing or crossing the lane. The near arch staff stair links it to the upper platform; the other stair approach is separate. A broad dry writing shelf is fixed to the return wall at adult writing height, with room for one register and a small sheet beside it. A brass message perch is above its far corner; a sheltered pier corner supports Tara’s staff. Keep the guest route and stair approaches clear.
+Visible arrangement Rear cover open, single strip absent, channels and lower seat empty, front window dark. No replacement strip or second casing. The register is closed on the shelf, pencil in its loop; perch empty. Any upper second door visible in this view is closed.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| NAVYA CASING POSITION | Lower-side leader to level paving before the reachable outer rim. |
+| TARA WRITING POSITION | Side leader to safe floor before the shelf. |
+| PIP LANDING POINT | Upper-side leader to the small brass perch. |
+| TRIO WAITING AREA | Lower leader to clear arch-side paving outside queue and stairs. |
+# 22  Second staff door open at the reader
+Location S05-D05  |  Counting Arch and Staff Access  |  Sublocation
+Filename CH03_S05_D05_Second_staff_door_open_at_the_reader.png
+Master reference CH03_M02_Rear_staff_passage_master.png
+Image title COUNTING ARCH AND STAFF ACCESS
+SECOND STAFF DOOR OPEN AT THE READER
+Camera and framing 4:3 landscape medium three-quarter view from the upper arch platform towards the separate staff door beyond it. Include the reader plate, partially open leaf, threshold and clear landing, with the platform rail at one side.
+Location and construction The upper rear passage starts beyond the gallery’s far bolted door, follows the right perimeter and turns along the far boundary to the platform above the counting arch. The near arch staff stair connects that platform to the ground recess behind the arch pier. Its foot joins safe paving around the pier, outside the guest lane. A separate stair approach reaches the other end of the platform beside the second staff door. These two arch approaches are behind the public frontage; they do not move or replace the large near gallery stair visible beside the elephant in the approved master. The second door is ticket-operated and separate from the first bolted gallery door. This second door has an indigo leaf with brass edging and a flat ticket-contact plate on the approach-side post. It opens inward to a continuing staff passage beyond the arch. The first gallery door’s sliding bolt belongs to the distant doorway and is absent from this reader-controlled leaf.
+Visible arrangement The second door stands slightly open, wide enough to reveal its level threshold and a short warm-lit continuation of the service passage. The reader is accessible from the platform. The approaching deck, handrail and landing are clear. The rear passage materials continue through the opening without revealing a new room or unrelated scenery. The door leaf does not block either stair arrival.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TICKET CONTACT POINT | Side leader to the second door’s flat reader plate. |
+| VEER DOOR APPROACH | Lower-margin leader to the landing in front of the reader. |
+| STAFF EXIT ROUTE | Opposite-side leader through the clear threshold into the continuing passage. |
+# 23  Folding bench stopped beside the board
+Location S06-B01  |  Moon Square Board and Benches  |  Sublocation
+Filename CH03_S06_B01_Folding_bench_stopped_beside_the_board.png
+Master reference CH03_M03_Moon_Square_master_from_Parade_Arch.png
+Image title MOON SQUARE BOARD AND BENCHES
+FOLDING BENCH STOPPED BESIDE THE BOARD
+Camera and framing 4:3 landscape medium-wide view from the Parade Arch approach towards the near board and raised bench. Include the complete bench supports, stop lever, shelf and continuous outer lane behind the board. The curved screen remains in the distance.
+Location and construction Looking from the Parade Arch into Moon Square, the Clock Tower and Report Court entrance lie left, Games Lane opens right and the Grand Pavilion stands ahead. A low stage occupies the centre, with three distinct seating areas around it. A curved indigo screen shelters the right-rear waiting pocket while preserving an open entrance to it. The seating board stands near the arch on the right edge of the inner approach, facing that approach. A fixed shelf sits below the display, and a separate stop lever is reachable from the outer paving beside it. A continuous fixed outer lane passes behind the board and around the seating areas to the visible exits. The bench nearest the board is one timber seat on two matching hinged supports secured to the inner paving. Its pivot line crosses an inner path; its sweep stays wholly inside that path. At the partial-rise position the seat is tilted about 40 degrees above horizontal, supported by its original arms. The board shelf, outer lane and screen entrance remain outside its sweep. The board’s indigo timber housing and brass frame are fixed beside the outer paving. Its broad brass stop lever moves down and latches. The shelf is fixed to the housing and stays level regardless of the seating movement. The screen has its original open side towards the safe square interior.
+Visible arrangement The board reads 40. The stop is fully down and latched. The single nearest bench is stationary at approximately 40 degrees above horizontal, across the inner path. Its hinge supports remain attached. A closed bound register rests on the fixed shelf, pencil in its loop. All other benches remain still. The outer lane, screen entrance and safe step-back patch remain open.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the named master references. Preserve dimensional indigo timber, brass, pale stone, architectural proportions, texture scale and rich depth. Fixed amber lamps and cool full-moon edges continue the same night. Working floor and contact surfaces remain clear.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic area. The callouts below use small dark-indigo text on ivory and fine short leaders. Contact surfaces, countable objects and necessary routes remain unobscured.
+| Exact label | Placement and leader target |
+| TARA STOP POSITION | Side leader to fixed paving beside the latched lever. |
+| IRA AND KABIR SAFE POSITION | Lower-margin leader to the open step-back patch outside the bench sweep. |
+| AHANA GUIDING POSITION | Lower-side leader to the outer paving beside that patch. |
+| CONTINUE ALONG OUTER LANE | Far-side leader along the uninterrupted fixed route behind the board. |

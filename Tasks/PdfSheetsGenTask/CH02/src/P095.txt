@@ -1,0 +1,58 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE095
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 10C Check the order and match the units
+[PaginationMetadata] Applies to: Teaching block T2.7B; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 10C Check the order and match the units
+[PaginationMetadata] Applies to: Teaching block T2.7B; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.7B
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE095-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Multiplying and Dividing Decimals; Example 22; Your turn after Example 22
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE095-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] FRIENDLY TEACHER BRIDGE — PRINT ONLY THIS
+[TeacherBridge] Sixteen cups and a packet of ingredients—decimals have two jobs waiting. Let’s practise multiplying them, including by 1,000.
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+## Multiplying and Dividing Decimals
+Let’s multiply a decimal by a whole number. We can count tenths first: for example, 1.2 means 12 tenths. Four lots of 12 tenths make 48 tenths, or 4.8. Counting the place-value units helps us put the decimal point in the right place.
+Example 22
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  10.2 × 3
+[Question] (b)  3.4 × 20
+Let’s work it through
+[WorkedStep] (a) For 10.2 × 3, estimate with 10 × 3 = 30.
+[WorkedStep] Now count the tenths in 10.2. Its 10 wholes contain 10 × 10 = 100 tenths. Add the 2 tenths after the point: 100 + 2 = 102 tenths.
+[WorkedStep] Multiply: 102 × 3 = 306 tenths. Change back to a decimal: 300 tenths = 30 wholes, and 6 tenths = 0.6.
+[WorkedStep] So 10.2 × 3 = 30 + 0.6 = 30.6.
+[WorkedStep] Check: 30.6 ÷ 3 = 10.2.
+[WorkedStep] (b)  Estimate: 3 × 20 = 60.
+[WorkedStep] Use 20 = 10 × 2, so 3.4 × 20 = (3.4 × 10) × 2.
+[WorkedStep] First 3.4 × 10 = 34. The 3 ones become 3 tens, or 30; the 4 tenths become 4 ones. Together, 30 + 4 = 34.
+[WorkedStep] Then 34 × 2 = 68. So 3.4 × 20 = 68.
+Your turn after Example 22
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  1.2 × 4
+[Question] (b)  5.3 × 50
+Check your method
+[WorkedStep] (a)  Estimate: 1 × 4 = 4. Twelve tenths × 4 = 48 tenths, so 1.2 × 4 = 4.8.
+[WorkedStep] (b)  Estimate: 5 × 50 = 250. Since 50 = 5 × 10, calculate 5.3 × 5 = 26.5, then 26.5 × 10 = 265.
+[PanelizationEnd] END PANEL CH02-PAGE095-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 096

@@ -1,0 +1,638 @@
+{
+ "items": {
+  "P001-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-P001-P002-w1",
+     "at": "2026-11-23T21:19:52",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "76ef1052111e",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L01_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0531
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH02-sample-fix",
+     "at": "2026-11-23T21:33:18",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "e23ef353859c",
+     "refs": [
+      "item:P001-1"
+     ],
+     "instruction": "Preserve the current composition, character identities and poses, lighting, background and all objects. Change only the brass bowl by making exactly one bowl visibly wedged beneath the nearest cart wheel so the wheel is clearly pressing against its rim; keep the bowl intact and keep all other background bowls in their original places. No other changes.",
+     "usd": 0.0216
+    },
+    {
+     "n": 3,
+     "kind": "fix",
+     "via": "batch:CH02-sample-fix2",
+     "at": "2026-11-23T21:51:11",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "39a2b6078c0c",
+     "refs": [
+      "item:P001-1"
+     ],
+     "instruction": "Keep every character, pose, outfit, lighting, camera framing and background detail unchanged. Correct the focal prop unmistakably: place exactly one brass bowl partly underneath the bottom edge of the cart wheel nearest Vihaan, with the wheel visibly overlapping and pressing against the bowl rim so the bowl is visibly trapped. Remove the loose bowl immediately beside that same wheel; other bowls may remain in their original background positions. The trapped bowl must not be merely beside the wheel or on open floor.",
+     "usd": 0.0217
+    }
+   ],
+   "note": "Final-cap edit now places one intact brass bowl partially beneath the nearest cart wheel; the lower wheel overlaps the bowl rim, making the trapped state visible. Character poses and identities remain coherent, no lettering.",
+   "qc": [
+    {
+     "at": "2026-11-23T21:20:24",
+     "verdict": "fail",
+     "note": "Bowl is visibly on the floor beside the wheel, not trapped against/under the nearest wheel as specified; regenerate after sample approval."
+    },
+    {
+     "at": "2026-11-23T21:33:56",
+     "verdict": "fail",
+     "note": "Second-call edit still leaves the brass bowls on the floor outside the wheel; none is visibly wedged beneath/against the nearest wheel."
+    },
+    {
+     "at": "2026-11-23T21:51:23",
+     "verdict": "pass",
+     "note": "Final-cap edit now places one intact brass bowl partially beneath the nearest cart wheel; the lower wheel overlaps the bowl rim, making the trapped state visible. Character poses and identities remain coherent, no lettering."
+    }
+   ]
+  },
+  "P001-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-P001-P002-w1",
+     "at": "2026-11-23T21:19:52",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "780ce40f0c04",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L01_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0468
+    }
+   ],
+   "note": "Approved: the cart is being moved, Ahana and Navya push from the far side, Vihaan recovers the bowl, Tez remains clear of the wheel path; identities, outfits, lighting and action read clearly, no lettering.",
+   "qc": [
+    {
+     "at": "2026-11-23T21:20:24",
+     "verdict": "pass",
+     "note": "Approved: the cart is being moved, Ahana and Navya push from the far side, Vihaan recovers the bowl, Tez remains clear of the wheel path; identities, outfits, lighting and action read clearly, no lettering."
+    }
+   ]
+  },
+  "P001-3": {
+   "status": "queued",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-P001-P002-w1",
+     "at": "2026-11-23T21:19:52",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "35ead0146422",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L01_B.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0533
+    }
+   ],
+   "note": "Helper is rendered as a human, but the manuscript calls for a wooden helper with carved wooden hands and a carved wooden face.",
+   "qc": [
+    {
+     "at": "2026-11-23T21:58:55",
+     "verdict": "fail",
+     "note": "Helper is rendered as a human, but the manuscript calls for a wooden helper with carved wooden hands and a carved wooden face."
+    }
+   ],
+   "prev_status": "regen"
+  },
+  "P001-4": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-P001-P002-w1",
+     "at": "2026-11-23T21:19:52",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "5554a8d8e6ed",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L01_B.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0556
+    }
+   ],
+   "note": "Wide Food Street reveal; cast identity, group arrangement and location read; no lettering.",
+   "qc": [
+    {
+     "at": "2026-11-23T21:58:55",
+     "verdict": "pass",
+     "note": "Wide Food Street reveal; cast identity, group arrangement and location read; no lettering."
+    }
+   ]
+  },
+  "P002-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-P001-P002-w1",
+     "at": "2026-11-23T21:19:52",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "ab6e7011610a",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0555
+    }
+   ],
+   "note": "Return Walk doorway and Tara pointing are clear; trio and Tez identities read; no lettering.",
+   "qc": [
+    {
+     "at": "2026-11-23T21:58:55",
+     "verdict": "pass",
+     "note": "Return Walk doorway and Tara pointing are clear; trio and Tez identities read; no lettering."
+    }
+   ]
+  },
+  "P002-3": {
+   "status": "queued",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-P001-P002-w1",
+     "at": "2026-11-23T21:19:52",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "d35666c85e51",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_C.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0469
+    }
+   ],
+   "note": "The trays read as level; the entrance-side tray must remain visibly lower, and the brake latch must be engaged.",
+   "qc": [
+    {
+     "at": "2026-11-23T21:58:55",
+     "verdict": "fail",
+     "note": "The trays read as level; the entrance-side tray must remain visibly lower, and the brake latch must be engaged."
+    }
+   ],
+   "prev_status": "regen"
+  },
+  "P003-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P003-2": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P003-3": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P003-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P004-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P004-2": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P004-3": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P004-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P005-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P005-2": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P005-3": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P005-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P005-5": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P006-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "768x1024",
+     "prompt_sha": "885414846927",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L02_B.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0347
+    }
+   ],
+   "note": "Ahana+Tara match sheets, 2 people, Ahana looks screen-left, bottom 20% clear marble, no lettering",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:05",
+     "verdict": "pass",
+     "note": "Ahana+Tara match sheets, 2 people, Ahana looks screen-left, bottom 20% clear marble, no lettering"
+    }
+   ]
+  },
+  "P006-3": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "56643084b625",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.047
+    }
+   ],
+   "note": "5 figures (Ahana,Navya,Vihaan,Tara,Tez) match sheets; background trolley carrier empty; upper-left calm; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:05",
+     "verdict": "pass",
+     "note": "5 figures (Ahana,Navya,Vihaan,Tara,Tez) match sheets; background trolley carrier empty; upper-left calm; no lettering"
+    }
+   ]
+  },
+  "P006-4": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "768x1024",
+     "prompt_sha": "028ccbf3abde",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0345
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH02-run2-fix",
+     "at": "2026-11-23T23:06:21",
+     "quality": "high",
+     "size": "768x1024",
+     "prompt_sha": "017c41105741",
+     "refs": [
+      "item:P006-4"
+     ],
+     "instruction": "Keep everything unchanged except the brass trolley edge at the bottom-right corner: remove every cup from the carrier so it is a bare, empty brass tray with no cups, no objects. No other changes.",
+     "usd": 0.0216
+    }
+   ],
+   "note": "fix: trolley carrier now empty; Tara/Ahana match sheets, finger raised, top calm",
+   "qc": [
+    {
+     "at": "2026-11-23T23:06:27",
+     "verdict": "pass",
+     "note": "fix: trolley carrier now empty; Tara/Ahana match sheets, finger raised, top calm"
+    }
+   ]
+  },
+  "P006-5": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "2a3fbe735f64",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0469
+    }
+   ],
+   "note": "7 figures: 5 cast + 2 wooden assistants with saffron waistbands; trolley carrier empty; Tara open left palm to assistants; upper-right calm",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:05",
+     "verdict": "pass",
+     "note": "7 figures: 5 cast + 2 wooden assistants with saffron waistbands; trolley carrier empty; Tara open left palm to assistants; upper-right calm"
+    }
+   ]
+  },
+  "P007-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "768x1024",
+     "prompt_sha": "60acddcac804",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0472
+    }
+   ],
+   "note": "zoom: exactly 16 empty slots 4x4, no cups, lower shelf empty, 2 assistants, no readable text",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:05",
+     "verdict": "pass",
+     "note": "zoom: exactly 16 empty slots 4x4, no cups, lower shelf empty, 2 assistants, no readable text"
+    }
+   ]
+  },
+  "P007-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "768x1024",
+     "prompt_sha": "0e263053f4ca",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0289
+    }
+   ],
+   "note": "blank square-on sheet, two hands 5 fingers each, pencil right hand, Pip brass with empty clip, top calm, no lettering",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:05",
+     "verdict": "pass",
+     "note": "blank square-on sheet, two hands 5 fingers each, pencil right hand, Pip brass with empty clip, top calm, no lettering"
+    }
+   ]
+  },
+  "P009-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "b9d73a5c0f2d",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0469
+    }
+   ],
+   "note": "one cup drawing left, right half blank, no numerals; Ahana at clip; Navya Vihaan Tara match; Pip perched, clip empty",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:05",
+     "verdict": "pass",
+     "note": "one cup drawing left, right half blank, no numerals; Ahana at clip; Navya Vihaan Tara match; Pip perched, clip empty"
+    }
+   ]
+  },
+  "P009-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "e2a564bed5f5",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L03_A.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0406
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH02-run2-fix",
+     "at": "2026-11-23T23:06:21",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "999bcebaf763",
+     "refs": [
+      "item:P009-2"
+     ],
+     "instruction": "Keep everything unchanged except the brass trolley at the lower right: remove every cup from its upper carrier so the carrier is a bare, empty brass tray with no cups or objects. Keep the clipped sheet (one cup drawing, blank right half) exactly as is. No other changes.",
+     "usd": 0.0216
+    }
+   ],
+   "note": "fix: trolley carrier empty; sheet one cup left, right blank; Ahana palm open; Navya Vihaan partial; top calm",
+   "qc": [
+    {
+     "at": "2026-11-23T23:06:27",
+     "verdict": "pass",
+     "note": "fix: trolley carrier empty; sheet one cup left, right blank; Ahana palm open; Navya Vihaan partial; top calm"
+    }
+   ]
+  },
+  "P010-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "3e29c543439b",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0282
+    }
+   ],
+   "note": "Tara alone, no containers, palm up-right, staff right hand, top-left calm",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:06",
+     "verdict": "pass",
+     "note": "Tara alone, no containers, palm up-right, staff right hand, top-left calm"
+    }
+   ]
+  },
+  "P010-3": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH02-run2-w1",
+     "at": "2026-11-23T22:55:37",
+     "quality": "high",
+     "size": "1024x768",
+     "prompt_sha": "ced3b949e8c1",
+     "refs": [
+      "BagroundGenTask/ch02/out/plates/L02_C.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0345
+    }
+   ],
+   "note": "Ahana points up-left, Tara approving, clear counter, bottom calm",
+   "qc": [
+    {
+     "at": "2026-11-23T23:04:06",
+     "verdict": "pass",
+     "note": "Ahana points up-left, Tara approving, clear counter, bottom calm"
+    }
+   ]
+  }
+ },
+ "fix_queue": {}
+}

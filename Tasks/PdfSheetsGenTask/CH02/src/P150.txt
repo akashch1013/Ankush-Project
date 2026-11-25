@@ -1,0 +1,91 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE150
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE150-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Practice 2L Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2L Question 2
+[Question] Express each as a percentage. Convert to matching units first where needed.
+[Question] (a)  26 cm of 100 cm
+[Question] (b)  10 g of 250 g
+[Question] (c)  3 kg of 15 kg
+[Question] (d)  45 cents of 90 cents
+[Question] (e)  35 cents of $1
+[Question] (f)  510 mL of 1 L
+[Question] (g)  12 cents of $1.20
+[Question] (h)  340 g of 1 kg
+[Question] (i)  200 g of 1200 g
+Check your method
+[WorkedStep] (a)  26/100 × 100% = 26%.
+[WorkedStep] (b)  10/250 × 100% = 1000/250% = 4%.
+[WorkedStep] (c)  3/15 × 100% = 1/5 × 100% = 20%, dividing 3 and 15 by 3 first.
+[WorkedStep] (d)  45/90 × 100% = 1/2 × 100% = 50%, dividing 45 and 90 by 45 first.
+[WorkedStep] (e)  $1 = 100 cents. Then 35/100 × 100% = 35%.
+[WorkedStep] (f)  1 L = 1000 mL. Then 510/1000 × 100% = 51%.
+[WorkedStep] (g)  $1.20 = 120 cents. Then 12/120 × 100% = 10%.
+[WorkedStep] (h)  1 kg = 1000 g. Then 340/1000 × 100% = 34%.
+[WorkedStep] (i)  200/1200 = (200 ÷ 200)/(1200 ÷ 200) = 1/6. Then 1/6 × 100% = 100/6% = 16 4/6% = 16 2/3%, since 100 = 16 × 6 + 4.
+[PanelizationEnd] END PANEL CH02-PAGE150-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE150-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Practice 2L Question 3; Practice 2L Question 4; Practice 2L Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE150-PANEL02; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2L Question 3
+[Question] A class has 40 students, including 15 boys. Find the percentage who are
+[Question] (a)  boys
+[Question] (b)  girls
+Check your method
+[WorkedStep] (a) Boys: 15/40 × 100% = 1500/40% = 37.5%.
+[WorkedStep] (b) Girls: 40 − 15 = 25. Their percentage is 25/40 × 100% = 2500/40% = 62.5%. Check: 37.5% + 62.5% = 100%.
+Practice 2L Question 4
+[Question] A bottle holds 1 L when full and contains 680 mL of water. Find the percentage of its capacity that is
+[Question] (a)  filled with water
+[Question] (b)  empty
+Check your method
+[WorkedStep] (a)  1 L = 1000 mL. Then 680/1000 × 100% = 68%.
+[WorkedStep] (b) Empty capacity = 1000 − 680 = 320 mL. Then 320/1000 × 100% = 32%.
+Practice 2L Question 5
+[Question] A crate contains 60 apples, of which 12 are rotten. Find the percentage that are
+[Question] (a)  rotten
+[Question] (b)  not rotten
+Check your method
+[WorkedStep] (a)  12/60 × 100% = 20%.
+[WorkedStep] (b) 60 − 12 = 48 apples are not rotten. Then 48/60 × 100% = 80%.
+[PanelizationEnd] END PANEL CH02-PAGE150-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 151

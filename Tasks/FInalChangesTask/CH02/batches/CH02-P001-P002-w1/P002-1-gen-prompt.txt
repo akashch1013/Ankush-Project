@@ -1,0 +1,26 @@
+Use case: ChandRush CH02 comic panel P002-1, visual beat CH02 01B A.
+Asset: one 1024 x 1536 px graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved background plate L03_A. Keep its architecture, materials, light and every fixed object exactly; the camera is a medium portrait shot from the entrance side towards the packing bench and the Return Walk side doorway, framed on the doorway.
+- Image 2: character sheet of Tara (elderly woman, silver-white long braid over her shoulder, deep indigo embroidered robe with gold moon-and-bell motifs, ivory inner tunic and trousers, peacock-teal sash with brass bells, a tall bronze staff topped with a crescent moon holding a small bell, dark jutti shoes, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Ahana (curly dark shoulder-length hair, teal-blue jacket over coral-orange tee, charcoal cargo trousers, white-and-blue sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 4: character sheet of Navya (two long dark braids with fringe, maroon cropped jacket over striped cream top, denim cargo jeans, tan crossbody bag, cream sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 5: character sheet of Vihaan (short tousled black hair, mustard-yellow jacket over navy tee, slate-blue cargo trousers, deep-red backpack, white-and-navy sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 6: character sheet of Tez (tiger cub with orange fur and black stripes, amber eyes, navy bandana with a small silver moon button). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Tara: foreground right of the doorway, turned towards it and glancing back at the trio; points through the side doorway with her free LEFT index finger; her RIGHT hand keeps the bell staff upright; explaining, confident.
+2. Ahana: foreground left, near the bench, facing Tara, listening; hands free.
+3. Navya: beside Ahana, facing Tara; interested; hands free.
+4. Vihaan: beside Navya, facing Tara; curious; hands free.
+5. Tez: tiger cub at the threshold, looking through the opening.
+Characters stay in the lower 60% of the frame.
+Props and states at this moment (exact):
+1. Through the doorway: a glimpse of the Return Walk (indigo posts, blue roof, warm bracket lamps); no crowd, no distant courtyards.
+2. A clip above the packing bench is EMPTY (no drawing or paper in it).
+3. Ahana's brass lantern and exactly 1 (one) recovered brass bowl sit at the bench's entrance corner.
+4. Delivery trolley parked; crooked cart at the near-left wall.
+Physical inscriptions: none (the trolley's own plate marking may remain but add no new text)
+Reserved empty areas for lettering (calm low-detail background; no face, hand or key prop inside): TOP 34% of the frame full width calm (ceiling lamps and upper wall only, no faces or hands); bottom 12% calm floor
+Composition: Tara right, trio left, doorway in the middle; all faces visible.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's brass lamps and moonlight.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or lettering; any digits or numbers; extra characters; duplicate carts, mirrored outfits, merged or extra people. a drawing in the clip.

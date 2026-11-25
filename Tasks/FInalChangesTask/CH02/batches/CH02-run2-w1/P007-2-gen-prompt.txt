@@ -1,0 +1,18 @@
+Use case: ChandRush CH02 comic panel P007-2, visual beat CH02 02B B.
+Asset: one portrait (3:4) graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved raw background plate BagroundGenTask/ch02/out/plates/L03_A.png (pale dry packing bench corner beside the Return Walk doorway post). Keep its architecture, materials, light and objects; the camera may change to a straight overhead (top-down) view of the bench corner. It carries no labels.
+- Image 2: character sheet of Ahana. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Ahana (hands and forearms only, overhead; teal-blue jacket sleeves, warm fair skin): right hand holds an ordinary yellow-wood pencil resting at the sheet's lower-right corner, left hand lies flat holding the sheet at its left edge. Exactly one left hand and one right hand, five fingers each.
+2. Pip (Pip: a palm-sized brass bird with a rounded body, copper wing plates, glass-blue eyes, a pointed beak, gripping feet and one small spring clip under its beak): standing on the bench beside the sheet at the right, alert, head turned to the sheet, spring clip under its beak EMPTY, carrying nothing.
+Props and states at this moment (exact):
+1. ONE sheet of plain cream paper, seen square-on to the camera (rotation within 4 degrees, no perspective), centred, filling about 70% of the frame width and about 55% of its height, completely BLANK: no lines, no ruling, no writing, no marks, no drawing, flat and uncreased.
+2. an ordinary pencil in Ahana's right hand.
+3. warm bench-lamp light from one side; the pale bench edge and the doorway post as anchors at one edge.
+4. No other papers, no food, no cups.
+Physical inscriptions: none. The sheet is blank.
+Reserved empty areas for lettering (keep calm, low-detail background; no face, hand or key prop inside): the top 15% of the frame across the full width: calm bench surface/dark floor, no hands or Pip
+Composition: overhead, the sheet is the clear centre; Pip at its right; hands at the corners.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration, rich royal-blue lacquered wood, antique brass, cream marble, warm lamp key light with cool moonlight rim; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows. Characters keep fair skin as on their sheets.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature, sign, number or lettering of any kind; extra characters; extra limbs; mirrored outfits; the Gate or any crowd.

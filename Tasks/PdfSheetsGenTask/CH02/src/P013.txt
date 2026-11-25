@@ -1,0 +1,41 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE013
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE013-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE013-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Now Grandpa has a box of 12 pies. He wants to give away 3/4 of those 12 pies. This time, “the whole” means all 12 pies together. We will divide the group, not cut each pie.
+Look at the picture: each small circle represents 1 pie. The 4 boxes put the 12 pies into 4 equal groups. Each group contains 3 pies.
+[ProductionLabel] DO NOT PRINT — Figure reference: V02 | The following caption sentence is printable unchanged.
+[Caption] The whole group contains 12 pies. Each of its four equal groups contains 3 pies.
+[ProductionNote] Production note V02 — Show 12 equal labelled pie symbols arranged as four visibly separated groups of three. Mark three groups teal, one unfilled; do not depict 3/4 of a single pie. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Find 1/4 of the 12 pies: 12 ÷ 4 = 3 pies.
+We need 3/4, so take 3 of those groups: 3 × 3 = 9 pies.
+We can record both steps as 3/4 × 12 = 9 pies.
+Grandpa gives away 9 pies. Check: 3 pies stay in the box, and 9 + 3 = 12 pies.
+Notice the difference: 1/4 of 1 pie is a piece of pie, but 1/4 of 12 pies is 3 pies. Before using a fraction, say what you are taking a fraction of.
+Next we will count amounts such as 1 whole pie and half of another pie. Later we will write amounts as decimals and percentages too. Keep a pencil nearby. At each “Your turn”, try the question before reading its worked answer.
+[PanelizationEnd] END PANEL CH02-PAGE013-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 014

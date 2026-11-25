@@ -1,0 +1,50 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE047
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3B
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3B
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.3B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE047-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.3B; Dividing a Fraction by a Fraction; Example 9
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE047-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Dividing a Fraction by a Fraction
+A division can also give us less than 1 group. For example, we may have less material than one full group needs. The answer will then tell us what fraction of a group we can make.
+Example 9
+[Question] Evaluate and simplify.
+[Question] (a)  3/8 ÷ 4/5
+[Question] (b)  1/9 ÷ 2/3
+[Question] (c)  5/11 ÷ 10/11
+Let’s work it through
+[WorkedStep] (a) We need 3/8 ÷ 4/5. Think of a ribbon 1 metre long. We have 3/8 metre, and one full group needs 4/5 metre. How much of that group can we make?
+[WorkedStep] In the diagram, each full bar stands for 1 metre. To compare the lengths, write 3/8 and 4/5 with denominator 40: 8 × 5 = 40, and 5 × 8 = 40.
+[WorkedStep] 3/8 = (3 × 5)/(8 × 5) = 15/40.
+[WorkedStep] 4/5 = (4 × 8)/(5 × 8) = 32/40.
+[ProductionLabel] DO NOT PRINT — Figure reference: V13-R | The following caption sentence is printable unchanged.
+[Caption] We have 15 pieces; 1 group needs 32 of those pieces.
+[ProductionNote] Production note V13-R — Two equal-width bars each represent 1 metre of ribbon, partitioned into exactly 40 equal cells. Shade 15 cells blue and 32 cells gold. Label available length 15/40 m and length for 1 group 32/40 m. Brace only the 32-cell portion as 1 group. Distinguish 1/40 metre from 1/32 of a group. The quotient 15/32 counts groups. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] The blue length has 15 small pieces. One full gold length needs 32 pieces of that same size.
+[WorkedStep] We have 15 of the 32 pieces needed. So we have 15/32 of one gold length. That is why the answer is 15/32.
+[WorkedStep] The shorter calculation gives the same answer. Keep 3/8 and multiply by the reciprocal of 4/5, which is 5/4:
+[WorkedStep] 3/8 ÷ 4/5 = 3/8 × 5/4 = (3 × 5)/(8 × 4) = 15/32.
+[WorkedStep] Check the length: 15/32 × 4/5 = 60/160 = 3/8 metre, the amount we started with.
+[PanelizationEnd] END PANEL CH02-PAGE047-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 048

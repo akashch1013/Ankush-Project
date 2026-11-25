@@ -1,0 +1,109 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE117
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7D; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; only the location anchors named by this independent inset
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Companion inset CH02 Q11; only the location anchors named by this independent inset
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE117-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7D; Your turn after Example 27
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 27
+[Question] Evaluate, giving answers to 2 decimal places where necessary.
+[Question] (a)  3.5 ÷ (3.4 − 1.4)
+[Question] (b)  (3.5 + 0.2) × 2
+[Question] (c)  12.7 ÷ 2 + (4.8 − 1.6)
+[Question] (d)  (72.5 + 6.5) ÷ 4
+Check your method
+[WorkedStep] (a)  3.4 − 1.4 = 2.0; then 3.5 ÷ 2.0 = 1.75.
+[WorkedStep] (b)  3.5 + 0.2 = 3.7; then 3.7 × 2 = 7.4.
+[WorkedStep] (c)  Brackets: 4.8 − 1.6 = 3.2. Division: 12.7 ÷ 2 = 6.35. Add: 6.35 + 3.2 = 9.55.
+[WorkedStep] (d)  72.5 + 6.5 = 79.0; then 79 ÷ 4 = 19.75.
+Let’s use these operations to work out a shopping bill.
+[PanelizationEnd] END PANEL CH02-PAGE117-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE117-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.7D; Example 28; Your turn after Example 28
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL02; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 28
+[Question] One notebook costs $1.50 and one ruler costs $1.20. Raj buys 5 notebooks and 4 rulers. Find his total cost.
+Let’s work it through
+[WorkedStep] One notebook costs $1.50. Five notebooks cost 5 lots of $1.50: 5 × $1.50 = $7.50.
+[WorkedStep] One ruler costs $1.20. Four rulers cost 4 lots of $1.20: 4 × $1.20 = $4.80.
+[WorkedStep] Add the notebook cost and the ruler cost: $7.50 + $4.80 = $12.30. Raj pays $12.30 altogether.
+[WorkedStep] We can combine the steps in one expression: 5 × $1.50 + 4 × $1.20 = $7.50 + $4.80 = $12.30. The multiplications find the two costs; the addition finds the total.
+Your turn after Example 28
+[Question] One notebook costs $1.50 and one ruler costs $1.20. Find the cost of 8 notebooks and 7 rulers.
+Check your method
+[WorkedStep] Notebooks: 8 × $1.50 = $12.00. Rulers: 7 × $1.20 = $8.40.
+[WorkedStep] Total: $12.00 + $8.40 = $20.40.
+[PanelizationEnd] END PANEL CH02-PAGE117-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE117-PANEL03
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q11
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; independent inset; only the location anchors named by this independent inset
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE117-PANEL03; Companion inset CH02 Q11; independent inset; only the location anchors named by this independent inset
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q11
+[ProductionLabel] DO NOT PRINT — Independent companion moment after the completed teaching passage immediately before this labelled inset. Full setting: Location CH02 L03. No plot progression or equipment-state change.
+[ProductionNote] Staging. Tez sits clear of the trolley wheels, forepaws on the paving and eyes towards the reader. Use the pale packing-bench leg and a soft saffron canopy edge. No pack is taken and no load is placed on the shelf.
+[ProductionNote] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Brackets first. Dinner next, I hope.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE117-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 118

@@ -1,0 +1,493 @@
+{
+ "chapter": "CH03",
+ "prepared": "2026-11-23T17:54:39",
+ "reference_dir": "Reference/Chap3",
+ "sources": {
+  "manuscript": "Reference/Chap3/CH03-PANELIZED-MANUSCRIPT-V02.docx",
+  "register": "Reference/Chap3/CH03-LOCATION-IMAGE-REGISTER-V06.docx",
+  "sha": {
+   "manuscript": "5e44cb8b83fe",
+   "register": "b80b72a728dc"
+  },
+  "versions": {
+   "manuscript": 2,
+   "register": 6
+  },
+  "images": [
+   "Reference/Chap3/WhatsApp Image 2026-11-03 at 18.11.45(2).jpeg",
+   "Reference/Chap3/WhatsApp Image 2026-11-03 at 18.11.45(3).jpeg",
+   "Reference/Chap3/WhatsApp Image 2026-11-03 at 18.11.46.jpeg"
+  ],
+  "other_docs": []
+ },
+ "files": {
+  "manuscript_txt": "PdfSheetsGenTask/CH03/manuscript.txt",
+  "register_txt": "PdfSheetsGenTask/CH03/register.txt",
+  "src": "PdfSheetsGenTask/CH03/src/",
+  "survey": "PdfSheetsGenTask/CH03/survey.txt",
+  "index": "PdfSheetsGenTask/CH03/index.json",
+  "mathscan": "PdfSheetsGenTask/CH03/mathscan.txt",
+  "pages": "PdfSheetsGenTask/CH03/pages.json",
+  "review": "PdfSheetsGenTask/CH03/review.json",
+  "artifacts": "PdfSheetsGenTask/CH03/artifacts.json"
+ },
+ "workspaces": {
+  "backgrounds": "BagroundGenTask/ch03/",
+  "plates": "BagroundGenTask/ch03/out/plates/",
+  "panels": "FInalChangesTask/CH03/",
+  "library": "FInalChangesTask/library/",
+  "output": "Output/CH03/"
+ },
+ "pages": {
+  "count": 77,
+  "first": "P001",
+  "last": "P077",
+  "kinds": {
+   "story": 48,
+   "teaching": 13,
+   "text-heavy": 12,
+   "math-heavy": 4
+  },
+  "index_sha": {
+   "P001": "6c66dac599",
+   "P002": "7d93540fd7",
+   "P003": "9df6fcbbf8",
+   "P004": "3ca46bbcaf",
+   "P005": "0ab2bf3135",
+   "P006": "08224cd683",
+   "P007": "f1939db606",
+   "P008": "31a1152b3b",
+   "P009": "10e66bbcda",
+   "P010": "1438e449ba",
+   "P011": "8e68b175e3",
+   "P012": "cd3903889d",
+   "P013": "e8012587a7",
+   "P014": "aaa79fc303",
+   "P015": "e86a598db3",
+   "P016": "5767cf207b",
+   "P017": "a39098f389",
+   "P018": "7976c2b7a3",
+   "P019": "d3f7c5ea50",
+   "P020": "62326f0de6",
+   "P021": "aff4369579",
+   "P022": "67acfd1c33",
+   "P023": "e5ed5fd938",
+   "P024": "173f39ee53",
+   "P025": "91c1dc4b80",
+   "P026": "6c60e5e132",
+   "P027": "c36f9f1883",
+   "P028": "47ab428757",
+   "P029": "cf64abc133",
+   "P030": "94645b1ed4",
+   "P031": "e2f4fd4c6a",
+   "P032": "193159d128",
+   "P033": "fd64d52bc1",
+   "P034": "3a52e39cd7",
+   "P035": "3026d6013c",
+   "P036": "5f023d84e9",
+   "P037": "d7b6dab449",
+   "P038": "d8afe6d75a",
+   "P039": "3b01113825",
+   "P040": "d0c3da84a6",
+   "P041": "4fe64a506c",
+   "P042": "7df35150be",
+   "P043": "dec0775a5d",
+   "P044": "ec9d42e820",
+   "P045": "d1cfd32f61",
+   "P046": "5c5b15f786",
+   "P047": "22567722d2",
+   "P048": "21d559292a",
+   "P049": "59a3760458",
+   "P050": "fe2bb32fc9",
+   "P051": "164788429e",
+   "P052": "96556e3e6f",
+   "P053": "b7f1aa2877",
+   "P054": "ea690a0bcb",
+   "P055": "1cb607a564",
+   "P056": "9967ac5375",
+   "P057": "36fb3d1218",
+   "P058": "c7d1cf53ae",
+   "P059": "7f3c302c8a",
+   "P060": "a0280bb413",
+   "P061": "5840ec3101",
+   "P062": "6f70472637",
+   "P063": "d223918e5e",
+   "P064": "f8c9632bf4",
+   "P065": "60042b58bb",
+   "P066": "d7de92657c",
+   "P067": "3abd91afa9",
+   "P068": "499e5ce8ca",
+   "P069": "a241e937c8",
+   "P070": "fd2716b5fe",
+   "P071": "09c9bde64f",
+   "P072": "971e2b0457",
+   "P073": "9dfd1c7544",
+   "P074": "b4b96dad96",
+   "P075": "6918eb1bc7",
+   "P076": "e3838cd488",
+   "P077": "d1e08990c9"
+  }
+ },
+ "register": {
+  "masters": [
+   {
+    "name": "Master",
+    "identity": "Reference and status",
+    "image": null
+   },
+   {
+    "name": "M01  Parade Ground",
+    "identity": "Existing approved image: Moonlit Parade Ground Rehearsal Yard.png. Preserve its architecture, near gallery stair, distant gallery door and elephant design.",
+    "image": null
+   },
+   {
+    "name": "M02  Rear staff passage",
+    "identity": "Master brief below: CH03_M02_Rear_staff_passage_master.png. Its finished image is the reference for the hidden passage, arch platform, two approaches and low recess.",
+    "image": null
+   },
+   {
+    "name": "M03  Moon Square",
+    "identity": "Master brief below: CH03_M03_Moon_Square_master_from_Parade_Arch.png. Its finished image is the reference for the square, folding bench, board and fixed outer paving.",
+    "image": null
+   }
+  ],
+  "records": [
+   {
+    "id": "M02",
+    "title": "Rear staff passage master",
+    "master": "M01",
+    "filename": "CH03_M02_Rear_staff_passage_master.png",
+    "plate": "BagroundGenTask/ch03/out/plates/M02.png"
+   },
+   {
+    "id": "M03",
+    "title": "Moon Square master from Parade Arch",
+    "master": "M01",
+    "filename": "CH03_M03_Moon_Square_master_from_Parade_Arch.png",
+    "plate": "BagroundGenTask/ch03/out/plates/M03.png"
+   },
+   {
+    "id": "S01-B01",
+    "title": "Costume bench and trolley working area",
+    "master": "M01",
+    "filename": "CH03_S01_B01_Costume_bench_and_trolley_working_area.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S01-B01.png"
+   },
+   {
+    "id": "S02-B01",
+    "title": "Open costume box and secured cushions",
+    "master": "M01",
+    "filename": "CH03_S02_B01_Open_costume_box_and_secured_cushions.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S02-B01.png"
+   },
+   {
+    "id": "S03-B01",
+    "title": "Elephant work bay and safe tables before wheel replacement",
+    "master": "M01",
+    "filename": "CH03_S03_B01_Elephant_work_bay_and_safe_tables_before_wheel_replacement.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-B01.png"
+   },
+   {
+    "id": "S03-D03",
+    "title": "Thirty plain ribbons before sharing",
+    "master": "M01",
+    "filename": "CH03_S03_D03_Thirty_plain_ribbons_before_sharing.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D03.png"
+   },
+   {
+    "id": "S03-D04",
+    "title": "Ribbon bench after the thirty ribbons are shared",
+    "master": "M01",
+    "filename": "CH03_S03_D04_Ribbon_bench_after_the_thirty_ribbons_are_shared.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D04.png"
+   },
+   {
+    "id": "S03-D05",
+    "title": "Ground controls before the drive starts",
+    "master": "M01",
+    "filename": "CH03_S03_D05_Ground_controls_before_the_drive_starts.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D05.png"
+   },
+   {
+    "id": "S03-D11",
+    "title": "Rehearsal gate open before the ground stop is pressed",
+    "master": "M01",
+    "filename": "CH03_S03_D11_Rehearsal_gate_open_before_the_ground_stop_is_pressed.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D11.png"
+   },
+   {
+    "id": "S03-D06",
+    "title": "Drive stopped with the rehearsal gate open",
+    "master": "M01",
+    "filename": "CH03_S03_D06_Drive_stopped_with_the_rehearsal_gate_open.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D06.png"
+   },
+   {
+    "id": "S03-D12",
+    "title": "Trolley on the short board before the lid opens",
+    "master": "M01",
+    "filename": "CH03_S03_D12_Trolley_on_the_short_board_before_the_lid_opens.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D12.png"
+   },
+   {
+    "id": "S03-D07",
+    "title": "Costume trolley with the sleeve across its brake",
+    "master": "M01",
+    "filename": "CH03_S03_D07_Costume_trolley_with_the_sleeve_across_its_brake.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D07.png"
+   },
+   {
+    "id": "S03-D13",
+    "title": "Trolley brake exposed before engagement",
+    "master": "M01",
+    "filename": "CH03_S03_D13_Trolley_brake_exposed_before_engagement.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D13.png"
+   },
+   {
+    "id": "S03-D08",
+    "title": "Trolley stopped with the brake clear",
+    "master": "M01",
+    "filename": "CH03_S03_D08_Trolley_stopped_with_the_brake_clear.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D08.png"
+   },
+   {
+    "id": "S03-D14",
+    "title": "Secured elephant stationary in its work bay",
+    "master": "M01",
+    "filename": "CH03_S03_D14_Secured_elephant_stationary_in_its_work_bay.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S03-D14.png"
+   },
+   {
+    "id": "M01-D01",
+    "title": "Secured elephant during the supervised loop test",
+    "master": "M01",
+    "filename": "CH03_M01_D01_Secured_elephant_during_the_supervised_loop_test.png",
+    "plate": "BagroundGenTask/ch03/out/plates/M01-D01.png"
+   },
+   {
+    "id": "S04-D01",
+    "title": "Equipment gallery with drive control and far door",
+    "master": "M01",
+    "filename": "CH03_S04_D01_Equipment_gallery_with_drive_control_and_far_door.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S04-D01.png"
+   },
+   {
+    "id": "S04-D03",
+    "title": "First gallery door open during the escape",
+    "master": "M01 / M02",
+    "filename": "CH03_S04_D03_First_gallery_door_open_during_the_escape.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S04-D03.png"
+   },
+   {
+    "id": "S05-B01",
+    "title": "Counting arch with the strip installed",
+    "master": "M01 / M02",
+    "filename": "CH03_S05_B01_Counting_arch_with_the_strip_installed.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S05-B01.png"
+   },
+   {
+    "id": "S05-D01",
+    "title": "Rear casing open with the counting strip installed",
+    "master": "M02 / M01",
+    "filename": "CH03_S05_D01_Rear_casing_open_with_the_counting_strip_installed.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S05-D01.png"
+   },
+   {
+    "id": "S05-D02",
+    "title": "Arch recess and writing shelf after the counting strip is removed",
+    "master": "M02 / M01",
+    "filename": "CH03_S05_D02_Arch_recess_and_writing_shelf_after_the_counting_strip_is_removed.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S05-D02.png"
+   },
+   {
+    "id": "S05-D05",
+    "title": "Second staff door open at the reader",
+    "master": "M02",
+    "filename": "CH03_S05_D05_Second_staff_door_open_at_the_reader.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S05-D05.png"
+   },
+   {
+    "id": "S06-B01",
+    "title": "Folding bench stopped beside the board",
+    "master": "M03",
+    "filename": "CH03_S06_B01_Folding_bench_stopped_beside_the_board.png",
+    "plate": "BagroundGenTask/ch03/out/plates/S06-B01.png"
+   }
+  ]
+ },
+ "locations": {
+  "CH03 L01": {
+   "name": "",
+   "pages": [
+    "P001",
+    "P002",
+    "P003",
+    "P004",
+    "P011",
+    "P015",
+    "P022",
+    "P028",
+    "P029",
+    "P030",
+    "P031",
+    "P032",
+    "P033",
+    "P034",
+    "P035",
+    "P036",
+    "P037",
+    "P039",
+    "P040",
+    "P041",
+    "P045",
+    "P048",
+    "P054",
+    "P056",
+    "P057",
+    "P058",
+    "P059",
+    "P060",
+    "P061",
+    "P062",
+    "P063",
+    "P064",
+    "P065",
+    "P066",
+    "P067",
+    "P068",
+    "P069",
+    "P070",
+    "P071",
+    "P072",
+    "P073",
+    "P074",
+    "P075"
+   ],
+   "records": []
+  },
+  "CH03 L02": {
+   "name": "",
+   "pages": [
+    "P003",
+    "P004",
+    "P011",
+    "P015",
+    "P022",
+    "P028",
+    "P029",
+    "P030",
+    "P031",
+    "P032",
+    "P033",
+    "P034"
+   ],
+   "records": []
+  },
+  "CH03 L03": {
+   "name": "",
+   "pages": [
+    "P035",
+    "P036",
+    "P037",
+    "P039",
+    "P040",
+    "P041",
+    "P045",
+    "P048",
+    "P054",
+    "P056",
+    "P066",
+    "P067",
+    "P069",
+    "P070"
+   ],
+   "records": []
+  },
+  "CH03 L04": {
+   "name": "",
+   "pages": [
+    "P057",
+    "P058",
+    "P059",
+    "P060",
+    "P061",
+    "P062",
+    "P063",
+    "P064",
+    "P065"
+   ],
+   "records": []
+  },
+  "CH03 L05": {
+   "name": "",
+   "pages": [
+    "P031",
+    "P068",
+    "P071",
+    "P072",
+    "P073",
+    "P074",
+    "P075"
+   ],
+   "records": []
+  },
+  "CH03 L06": {
+   "name": "",
+   "pages": [
+    "P076",
+    "P077"
+   ],
+   "records": []
+  }
+ },
+ "cast": {
+  "Ahana": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+   "pages": 34,
+   "speaks": 8
+  },
+  "Ira": {
+   "sheet": null,
+   "pages": 14,
+   "speaks": 2
+  },
+  "Navya": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+   "pages": 25,
+   "speaks": 8
+  },
+  "Tara": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+   "pages": 37,
+   "speaks": 8
+  },
+  "Tez": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+   "pages": 31,
+   "speaks": 5
+  },
+  "Veer": {
+   "sheet": null,
+   "pages": 18,
+   "speaks": 5
+  },
+  "Vihaan": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+   "pages": 24,
+   "speaks": 4
+  }
+ },
+ "status": {
+  "sources": "ok",
+  "register": "ok",
+  "plates": "ok",
+  "masters": "agent: match each master to an image",
+  "locations": "agent: map manuscript locations to register records",
+  "characters": "no sheet for speaking: Ira, Veer",
+  "maths": "ok",
+  "agent_review": "todo"
+ },
+ "resolved": {},
+ "changes": null,
+ "notes": []
+}

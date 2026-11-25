@@ -1,0 +1,26 @@
+[PGLabel] NON-PRINTING PAGE ID: CH03-PAGE039
+[PGLabel] NON-PRINTING PRODUCTION CONTEXT
+[PGMeta] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PGMeta] Applies to: Companion inset CH03 Q04; ownership, current state and reveal timing
+[PGLabel] Carried forward from: How to use this manuscript — Each visual beat specifies one frozen image.
+[PGMeta] Applies to: Companion inset CH03 Q04; ownership, current state and reveal timing
+[PGMeta] Applies to: Companion inset CH03 Q04; ownership, current state and reveal timing
+[PGMeta] Applies to: Companion inset CH03 Q04; ownership, current state and reveal timing
+[PGMeta] Applies to: Teaching block T3.3A; assigned teaching fields and figure ownership
+[PGLabel] Carried forward from: How to use this manuscript — The teacher addresses the reader directly.
+[PGMeta] Applies to: Teaching block T3.3A; teaching pause only
+[PGLabel] Carried forward from: Teaching block T3.3A
+[PGMeta] Applies to: Teaching block T3.3A; assigned main mathematics only
+[PGMeta] Applies to: Companion inset CH03 Q04; independent companion scope
+[PGLabel] Carried forward from: Location CH03 L03 Elephant work rail and safe stand
+[PGMeta] Applies to: Companion inset CH03 Q04; safe model stand and ribbon bench only
+[PGContext] Low model stand and ribbon bench are on the safe side of a fixed work rail.
+[PGLabel] Carried forward from: Location CH03 L01 Parade Ground master
+[PGMeta] Applies to: Companion inset CH03 Q04; lighting only
+[PGLabel] END NON-PRINTING PRODUCTION CONTEXT
+| PANEL CH03-PAGE039-PANEL01 |
+| SOURCE: Teaching block T3.3A — Your turn after Example 9 NON-PRINTING CARRIED PRODUCTION CONTEXT SOURCE: How to use this manuscript APPLIES TO: CH03-PAGE039-PANEL01; assigned teaching fields Teaching headings, explanations, examples, questions, working, answers, tables, diagrams and caption sentences are reader-facing. Supplied paragraphs styled Production Note remain non-printing. Technical V identifiers are separated from figure captions into metadata. Every question, required visual and answer remains in source order; question blanks stay blank until the solution. SOURCE: How to use this manuscript APPLIES TO: CH03-PAGE039-PANEL01; assigned teaching pause The teacher addresses the reader directly. Lessons do not move characters, consume dangerous story time or repair equipment. SOURCE: Teaching block T3.3A APPLIES TO: CH03-PAGE039-PANEL01; assigned main mathematics only No character or scenic background is required behind the main mathematics. Keep question figures and intentional blanks distinct from completed answers. This block does not perform the story calculation for the characters. END NON-PRINTING CARRIED PRODUCTION CONTEXT ORIGINAL PANEL CONTENT Your turn after Example 9 David exchanged 300 Euros and received 420 SGD. If he exchanged 6000 Euros, how much SGD would he receive? Check your method Use the same exchange rate, with no extra fees. SGD means Singapore dollars. Find the amount for 1 Euro first: 1 Euro gives 420 ÷ 300 = 1.4 SGD. 6000 Euros give 6000 × 1.4 = 8400 SGD. Check the scale: 6000 ÷ 300 = 20, and 420 × 20 = 8400. Both currency amounts have been multiplied by 20. END PANEL CH03-PAGE039-PANEL01 |
+| PANEL CH03-PAGE039-PANEL02 |
+| SOURCE: Companion inset CH03 Q04 NON-PRINTING CARRIED PRODUCTION CONTEXT SOURCE: How to use this manuscript APPLIES TO: CH03-PAGE039-PANEL02; Companion inset CH03 Q04 Companion insets are independent character-and-scenery moments at completed teaching boundaries. Their scenery may extend into available space after the lesson is laid out, but never behind equations or across a reading path. They do not advance events or reveal a pending story answer. SOURCE: Location CH03 L03 Elephant work rail and safe stand APPLIES TO: CH03-PAGE039-PANEL02; safe stand and ribbon bench only Low model stand and ribbon bench are on the safe side of a fixed work rail. SOURCE: Location CH03 L01 Parade Ground master APPLIES TO: CH03-PAGE039-PANEL02; lighting only Warm work lamps light hands; full-moon light edges blue timber, indigo rails, brass and red-and-gold parade decoration. END NON-PRINTING CARRIED PRODUCTION CONTEXT ORIGINAL PANEL CONTENT Companion inset CH03 Q04 DO NOT PRINT — Independent teaching companion. Elephant work rail and safe stand. Vihaan stands at the safe work stand, right hand open and left at his backpack strap. Keep the unselected wheel rack and its labels out of view. Use only the relevant bench/rail and warm lamp scenery; it may extend softly into spare space without obscuring maths. No plot progression. DO NOT PRINT — Speaker: Vihaan | Tail: Vihaan’s visible mouth PRINT SPEECH Looking right and measuring right are two different things. END PANEL CH03-PAGE039-PANEL02 |
+[MLabel] END TEACHING BLOCK T3.3A — STORY RESUMES
+[PGHeading] ChandRush Chapter 03 Manuscript — PAGE 040

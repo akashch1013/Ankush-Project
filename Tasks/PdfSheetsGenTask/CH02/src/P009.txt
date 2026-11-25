@@ -1,0 +1,99 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE009
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 02D A; Visual beat CH02 02D B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 02D A; Visual beat CH02 02D B; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 02D A; Visual beat CH02 02D B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 02D A; Visual beat CH02 02D B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 02D A; Visual beat CH02 02D B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 02 An order from the Gate
+[PaginationMetadata] Applies to: Visual beat CH02 02D A; Visual beat CH02 02D B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 02D; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 02D; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 02D; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 02D The reply reaches Food Street
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the pale packing bench and clip above it, with the Return Walk post beside the bench.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The bench clip starts empty; Visual beat CH02 02D A establishes the original drawing clipped here. It remains until Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Pip returns with Ira’s cup drawing. Ahana’s outgoing note stays with Ira at the Gate. The drink trolley is still empty.
+[ProductionNote] Planning requirements. The drawing is not simultaneously at the Gate and packing bench. Use names only for character appearance references.
+[PanelizationHeading] PANEL CH02-PAGE009-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 02D A Clip the reply
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; Scene CH02 02D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; Scene CH02 02D; view; assigned beat stage only
+[ProductionNote] View. Medium at the pale packing bench and clip above it, with the Return Walk post beside the bench.
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; Scene CH02 02D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; Scene CH02 02D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The bench clip starts empty; Visual beat CH02 02D A establishes the original drawing clipped here. It remains until Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Pip returns with Ira’s cup drawing. Ahana’s outgoing note stays with Ira at the Gate. The drink trolley is still empty.
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; Scene CH02 02D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The drawing is not simultaneously at the Gate and packing bench. Use names only for character appearance references.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL01; Visual beat CH02 02D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02D A Clip the reply
+[ProductionNote] Moment and staging. Ahana takes the cup drawing from Pip’s clip with her left hand and fastens its upper edge with her right at the bench clip. Freeze after it is secured. Pip perches with its clip empty. Navya and Vihaan read the drawing beside Ahana; Tara watches from the table.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] When Pip brings the paper back, Ahana clips it above the packing bench.
+[PanelizationEnd] END PANEL CH02-PAGE009-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE009-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 02D B A known first group
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; Scene CH02 02D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; Scene CH02 02D; view; assigned beat stage only
+[ProductionNote] View. Medium at the pale packing bench and clip above it, with the Return Walk post beside the bench.
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; Scene CH02 02D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; Scene CH02 02D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The bench clip starts empty; Visual beat CH02 02D A establishes the original drawing clipped here. It remains until Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Pip returns with Ira’s cup drawing. Ahana’s outgoing note stays with Ira at the Gate. The drink trolley is still empty.
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; Scene CH02 02D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The drawing is not simultaneously at the Gate and packing bench. Use names only for character appearance references.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE009-PANEL02; Visual beat CH02 02D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02D B A known first group
+[ProductionNote] Moment and staging. Retain the camera, background and character positions specified in Scene CH02 02D. Ahana has lowered both hands; her left palm opens towards the clipped cup-and-16 sheet while she looks at the crew. The paper stays fixed above the bench. No drinks are filled yet.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth | Source speech attribution: she says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Now we know who is waiting for the first drinks.
+[PanelizationEnd] END PANEL CH02-PAGE009-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 010

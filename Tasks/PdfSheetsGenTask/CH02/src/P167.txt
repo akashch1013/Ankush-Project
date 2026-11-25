@@ -1,0 +1,48 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE167
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE167-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Self Check
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE167-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+# Self Check
+Return to the revision questions and record what you can do. Give yourself one point for each correct listed part, or for a complete answer to a question without subparts. For an explanation question, the reason must be correct too. Use the results to find what to revisit, not to label yourself good or bad at maths.
+| Skill | Revision questions | Score |
+| Compare and order fractions | 1(a–d), 2, 3 | ___ / 6 |
+| Add mixed numbers | 4(a–d), 5(a–d) | ___ / 8 |
+| Multiply and divide proper fractions | 6(a–d), 7(a–d) | ___ / 8 |
+| Convert fractions and decimals and compare | 8(a–d), 9(a–d), 10(a–b) | ___ / 10 |
+| Four operations on decimals | 11(a–f), 12(a–d), 13 | ___ / 11 |
+| Powers of 10 | 14(a–d) | ___ / 4 |
+| Decimal word problems | 15, 16(a–b) | ___ / 3 |
+| Percentages to fractions and decimals | 17(a–c), 18(a–c) | ___ / 6 |
+| Fractions and decimals to percentages | 19(a–c) | ___ / 3 |
+| Percentage comparisons and shares | 20(a–b), 21, 22(a–b) | ___ / 5 |
+| Total | All listed revision parts | ___ / 64 |
+[ProductionNote] Production note V45 — Keep all ten skills in order. Blank score cells are for the learner; never prefill them. The corrected64-point denominator matches the actual listed revision tasks. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Choose one question you missed. Can you now explain the method without copying the worked answer? Point to what the numbers mean, show the steps and make a check. If you can do that, you have learned more than the answer to one question.
+Try explaining these ideas aloud: 1/2 + 1/6 = 3/6 + 1/6; 6 ÷ 1/2 = 12; 7.20 > 7.105; and 50% of $4 = $2 while 50% of $10 = $5. Choose one and explain why it works, using the numbers or a picture. Then try another.
+[PanelizationEnd] END PANEL CH02-PAGE167-PANEL01
+[ProductionLabel] END TEACHING BLOCK R02 — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 168

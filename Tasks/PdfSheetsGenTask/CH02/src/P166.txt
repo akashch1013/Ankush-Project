@@ -1,0 +1,45 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE166
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE166-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Revision Question 21; Revision Question 22
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE166-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Revision Question 21
+[Question] Samuel earns $800 each month and donates $50 to charity. What percentage of his salary does he donate?
+Check your method
+[WorkedStep] Compare the $50 donation with the full $800 salary: 50/800 × 100% = 5000/800% = 6.25%.
+[WorkedStep] Check in money: 1% of $800 is $8. Then 6% is $48, and another 1/4% is $8 ÷ 4 = $2. That makes $50. So Samuel donates 6.25%, or 6 1/4%, of his salary.
+Revision Question 22
+[Question] William receives a 10% salary increase and Harry receives a 15% salary increase. William concludes, “You will get more money than me.”
+[Question] (a)  Do you agree with William’s conclusion? Why?
+[Question] (b)  What can you conclude from this?
+Check your method
+[WorkedStep] (a) We cannot agree without knowing both starting salaries. Let’s test William’s claim with an example.
+[WorkedStep] Suppose William starts at $2000 and Harry starts at $1000. These are example salaries, not facts from the question.
+[WorkedStep] William’s increase: 10/100 × $2000 = $200. Harry’s increase: 15/100 × $1000 = $150. Here Harry’s 15% increase gives less money than William’s 10% increase, because Harry started with less.
+[WorkedStep] Their new salaries would be $2000 + $200 = $2200 and $1000 + $150 = $1150. So the percentages alone tell us neither who gets the larger increase nor who ends with the larger salary.
+[WorkedStep] (b) We must know the amount each percentage is taken from. If both starting salaries were $1000, for example, 10% would give $100 and 15% would give $150. With equal starting salaries, the greater percentage gives the greater increase. The question does not say the salaries are equal.
+[PanelizationEnd] END PANEL CH02-PAGE166-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 167

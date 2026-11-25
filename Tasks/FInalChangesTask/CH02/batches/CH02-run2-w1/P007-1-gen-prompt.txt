@@ -1,0 +1,25 @@
+Use case: ChandRush CH02 comic panel P007-1, visual beat CH02 02B A.
+Asset: one portrait (3:4) graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved raw background plate BagroundGenTask/ch02/out/plates/L03_A.png (Food Street packing area with the sixteen-place drinks trolley). Keep its architecture, materials, light and objects; the camera may change to a high three-quarter close view looking down onto the trolley; the trolley fills the middle of the frame. It carries no labels.
+- Image 2: character sheet of Ahana. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Navya. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 4: character sheet of Vihaan. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 5: character sheet of Tara. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. The two smaller wooden assistants (behind the trolley, standing, one hand each on the trolley handle and side rail, patient, gaze at the children): two smaller wooden assistants: honey-coloured carved wooden figures with visible grain, painted eyes, round brass joints, broad wooden feet, separate wooden thumbs, each wearing a saffron waistband (no apron, no cap), not identical poses.
+2. Ahana (leaning in from the left edge, partial, thoughtful, gaze at the cup slots, hands behind her back).
+3. Navya (left edge, behind Ahana, partial, interested, gaze at the cup slots).
+4. Vihaan (left edge, lower, partial, interested, gaze at the lower shelf; his mustard-yellow jacket).
+5. Tara (partial at the right edge, clear of the wheels, calm, bell staff in RIGHT hand) and Tez (tiger cub sitting at the right edge, clear of the wheels, curious).
+Props and states at this moment (exact):
+1. IMPORTANT: Image 1 shows cups sitting on the trolley; in this panel REMOVE ALL CUPS. The UPPER CARRIER of the trolley is a flat brass tray holding EXACTLY 16 (sixteen) EMPTY round cup slots in 4 (four) rows of 4 (four), a perfect grid, evenly spaced, each slot a clearly separate shallow round recessed ring/hollow, fully visible, with NO cups, NO objects and NO liquid in any of them. The 16 slots are the main subject and must be easy to count. No hand, arm, figure or shadow crosses the carrier.
+2. a separate lower snack shelf under it, EMPTY, visible below.
+3. the trolley's MAXIMUM LOAD plaque is turned away or out of frame; no other plaques or numbers visible.
+4. a pencil and one blank paper sheet may lie on the dry bench at the edge; the clip above the bench empty; the crooked wooden cart against the near-left wall.
+5. exactly 2 wooden assistants, plus Ahana, Navya, Vihaan, Tara, Tez partially at the edges.
+Physical inscriptions: none. All plaques and the trolley must carry no readable text.
+Reserved empty areas for lettering (keep calm, low-detail background; no face, hand or key prop inside): none needed; keep the carrier uncluttered.
+Composition: the carrier grid is centred and large; assistants behind it; the children at left edge, Tara and Tez at right edge.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration, rich royal-blue lacquered wood, antique brass, cream marble, warm lamp key light with cool moonlight rim; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows. Characters keep fair skin as on their sheets.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature, sign, number or lettering of any kind; extra characters; extra limbs; mirrored outfits; the Gate or any crowd.

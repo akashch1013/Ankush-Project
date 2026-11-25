@@ -1,0 +1,170 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE171
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 14A A; Visual beat CH02 14A B; Visual beat CH02 14A C; Visual beat CH02 14A D; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 14A A; Visual beat CH02 14A B; Visual beat CH02 14A C; Visual beat CH02 14A D; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 14A A; Visual beat CH02 14A B; Visual beat CH02 14A C; Visual beat CH02 14A D; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 14A A; Visual beat CH02 14A B; Visual beat CH02 14A C; Visual beat CH02 14A D; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Location CH02 L06 ChandRush — Covered Return Walk
+[PaginationMetadata] Applies to: Visual beats CH02 14A C and CH02 14A D only; Return Walk travel towards Entry Court
+[PaginationSourceLabel] Carried forward from: Location CH02 L06 ChandRush — Covered Return Walk
+[PaginationMetadata] Applies to: Visual beats CH02 14A C and CH02 14A D only; Return Walk travel towards Entry Court
+[ProductionNote] Entry Court is at one end; Moon Square and the Tower arcade are at the other. Food Street’s side delivery doorway opens onto the middle. It does not contain the roof lift. A travel picture should show a few posts and the destination doorway relevant to that movement, not both distant courtyards at once.
+[PaginationSourceLabel] Carried forward from: Location CH02 L06 ChandRush — Covered Return Walk
+[PaginationMetadata] Applies to: Visual beats CH02 14A C and CH02 14A D only; Return Walk travel towards Entry Court
+[ProductionNote] Food Street’s side delivery door opens onto its middle; Entry Court and the Gate are in one direction, Moon Square and the Tower arcade in the other. This chapter’s delivery travels towards Entry Court. A travel image shows only the relevant stretch and destination doorway. It does not contain the roof freight lift or turn into the separate equipment passage.
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Visual beats CH02 14A A and CH02 14A B only; packing-bench and dispatch doorway background; original drawing moves to trolley in the assigned action
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Visual beats CH02 14A A and CH02 14A B only; packing-bench and dispatch doorway background; original drawing moves to trolley in the assigned action
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Visual beats CH02 14A A and CH02 14A B only; packing-bench and dispatch doorway background; original drawing moves to trolley in the assigned action
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 14 The first full delivery
+[ProductionLabel] Production sequence reference CH02-14. Non-printing background and continuity.
+[ProductionNote] Background — Location CH02 L06. Return Walk is a pale paved passage along the fair’s physical-left boundary, with indigo posts, a blue timber roof, warm bracket lamps, the outer boundary wall on one side and an open side facing the fair.
+[ProductionNote] Background — Location CH02 L04. Outside the Old Blue Gate, two weathered blue timber leaves stand between pale-stone piers, with brass ribs, moon-shaped openings and one round full-moon ornament above. Seen from the lane, the small service doorway is in the left leaf, the bench is right and the planter is left.
+[SceneHeading] Scene CH02 14A The first trolley leaves
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE171-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 14A A The drawing goes with the load
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; Scene CH02 14A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; Scene CH02 14A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; Scene CH02 14A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; Scene CH02 14A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; Scene CH02 14A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL01; Visual beat CH02 14A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14A A The drawing goes with the load
+[ProductionNote] Moment and staging. Silent close view at the packing bench, using the background in Location CH02 L03. Ira’s original cup-and-16 drawing has been removed from the bench clip. Freeze as Ahana holds that sheet against the trolley’s dry clip with her left hand and fastens it with her right. The former bench clip is now empty. The broad helper holds the trolley stationary. Pip’s clip is empty.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE171-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE171-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 14A B Sixteen drinks and sixteen packs
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; Scene CH02 14A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; Scene CH02 14A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; Scene CH02 14A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; Scene CH02 14A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; Scene CH02 14A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL02; Visual beat CH02 14A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14A B Sixteen drinks and sixteen packs
+[ProductionNote] Moment and staging. Three-quarter dispatch view from Food Street at the side doorway, retaining the background in Location CH02 L03. The trolley has sixteen full capped cups in its upper four-by-four carrier and sixteen packs on its lower snack tray. The tag and original cup drawing are secure. Ahana has withdrawn her hands; the helper grips the handle with both hands.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The first trolley carries sixteen full cups and sixteen snack packs.
+[PanelizationEnd] END PANEL CH02-PAGE171-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE171-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 14A C Pip leads the route
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; Scene CH02 14A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; Scene CH02 14A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; Scene CH02 14A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; Scene CH02 14A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; Scene CH02 14A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Entry Court is at one end; Moon Square and the Tower arcade are at the other. Food Street’s side delivery doorway opens onto the middle. It does not contain the roof lift. A travel picture should show a few posts and the destination doorway relevant to that movement, not both distant courtyards at once.
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL03; Visual beat CH02 14A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Food Street’s side delivery door opens onto its middle; Entry Court and the Gate are in one direction, Moon Square and the Tower arcade in the other. This chapter’s delivery travels towards Entry Court. A travel image shows only the relevant stretch and destination doorway. It does not contain the roof freight lift or turn into the separate equipment passage.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14A C Pip leads the route
+[ProductionNote] Moment and staging. Directional Return Walk view towards Entry Court: a few indigo posts, blue timber roof, boundary wall and warm bracket lamps frame Pip flying ahead. Its clip remains empty; it guides and attracts Ira’s attention, without invented spoken words or carrying food. The loaded trolley is behind the bird, not already at the Gate.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Pip flies ahead to tell Ira it is coming.
+[PanelizationEnd] END PANEL CH02-PAGE171-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE171-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 14A D Along Return Walk
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; Scene CH02 14A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; Scene CH02 14A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; Scene CH02 14A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; Scene CH02 14A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14A The first trolley leaves
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; Scene CH02 14A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Entry Court is at one end; Moon Square and the Tower arcade are at the other. Food Street’s side delivery doorway opens onto the middle. It does not contain the roof lift. A travel picture should show a few posts and the destination doorway relevant to that movement, not both distant courtyards at once.
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE171-PANEL04; Visual beat CH02 14A D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Food Street’s side delivery door opens onto its middle; Entry Court and the Gate are in one direction, Moon Square and the Tower arcade in the other. This chapter’s delivery travels towards Entry Court. A travel image shows only the relevant stretch and destination doorway. It does not contain the roof freight lift or turn into the separate equipment passage.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14A D Along Return Walk
+[ProductionNote] Moment and staging. The broad helper pushes the loaded trolley towards Entry Court along the passage, both hands on the handle and body behind it. Keep the boundary wall and post arrangement specified in Location CH02 L06. No trio member appears on this route. The cups stay upright and packs remain below.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The broad blue-waistcoated helper pushes it along Return Walk to the Gate.
+[PanelizationEnd] END PANEL CH02-PAGE171-PANEL04
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 172

@@ -1,0 +1,45 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE135
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.9; teaching pause
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; spreadsheet instructions continuing the existing V35 sample; no additional figure or reset of the sample
+[ProductionNote] Production note V35 — Recreate a readable spreadsheet fragment: totalF1=150; coloursB2:F2 Green Brown Yellow Red Orange; B3=10 other counts blank; green rows fraction1/15, decimal0.07, percentage6.67%; other calculated displays0 as source. Label incomplete example; preserve total150 and10 green. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE135-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.9; Knowledge Building Task
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE135-PANEL01; Teaching block T2.9; assigned teaching continuation only
+[ProductionNote] Production note V35 — Recreate a readable spreadsheet fragment: totalF1=150; coloursB2:F2 Green Brown Yellow Red Orange; B3=10 other counts blank; green rows fraction1/15, decimal0.07, percentage6.67%; other calculated displays0 as source. Label incomplete example; preserve total150 and10 green. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+1. In the sample, F1 holds 150 sweets and B3 holds 10 green sweets. Click B4 and type =B$3/$F$1, then press Enter. The / means divide, so the formula calculates 10 ÷ 150.
+The dollar signs help when we copy this formula: B$3 keeps row 3 for the count; $F$1 keeps cell F1 for the total. Here $ is a spreadsheet instruction, not a money sign.
+2. Copy the formula from B4 into B5 and B6. All three cells now calculate 10 ÷ 150. We will show that same value in three different ways.
+3. Select B4 and choose Fraction format, allowing up to 3 digits in the denominator. Select B5 and choose Number format with 2 decimal places. Select B6 and choose Percentage format with 2 decimal places. The menu names may vary between spreadsheets.
+4. Select the three cells B4, B5 and B6 together. Copy them across to the other colour columns, C through F. In C4, for example, the formula becomes =C$3/$F$1: the brown count divided by the same total.
+Let’s check the green sweets: 10/150 = (10 ÷ 10)/(150 ÷ 10) = 1/15 = 0.06666… . B4 shows 1/15, B5 shows 0.07 and B6 shows 6.67%.
+Why not 7%? The decimal display 0.07 is rounded. The formula still uses 10 ÷ 150, giving 6.666…%, which rounds to 6.67%.
+Keep the formula in each cell. Typing 0.07 instead would give 0.07 × 100% = 7%. Also, do not add ×100 to the formula: Percentage format already makes that display change.
+Enter the remaining colour counts in row 3. Do they add up to the total in F1? Now look at the percentages in row 6. What should all the colours add up to? Explain before checking below.
+[PanelizationEnd] END PANEL CH02-PAGE135-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 136

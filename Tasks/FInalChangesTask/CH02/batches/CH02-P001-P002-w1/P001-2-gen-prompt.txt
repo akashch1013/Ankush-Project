@@ -1,0 +1,23 @@
+Use case: ChandRush CH02 comic panel P001-2, visual beat CH02 01A B.
+Asset: one 1024 x 768 px graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved background plate L01_A. Keep its architecture, materials, light and every fixed object exactly; the camera is low, near the cart wheel; the crooked cart has moved just far enough to free the bowl and its wheels have settled, so it stands stationary a little to the left of where the plate shows it, still near the entrance.
+- Image 2: character sheet of Ahana (curly dark shoulder-length hair, teal-blue jacket over coral-orange tee, charcoal cargo trousers, white-and-blue sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Navya (two long dark braids with fringe, maroon cropped jacket over striped cream top, denim cargo jeans, tan crossbody bag, cream sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 4: character sheet of Vihaan (short tousled black hair, mustard-yellow jacket over navy tee, slate-blue cargo trousers, deep-red backpack, white-and-navy sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 5: character sheet of Tez (tiger cub with orange fur and black stripes, amber eyes, navy bandana with a small silver moon button). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Ahana: midground left, at the cart frame, BOTH hands on the stationary cart frame, feet braced, gaze on the wheel, effort easing.
+2. Navya: midground right of Ahana, BOTH hands on the cart frame, feet braced, gaze on the wheel, determined.
+3. Vihaan: foreground, crouching outside the wheel track, holding the now-free intact brass bowl in both hands, looking at it, pleased.
+4. Tez: tiger cub behind Ahana, peeking out past Ahana's legs at the bowl, curious.
+No wheel overlaps any hand.
+Props and states at this moment (exact):
+1. The cart is stationary, wheels settled.
+2. Exactly 1 (one) brass bowl is in Vihaan's hands, intact and free of the wheel.
+3. Remaining plate objects unchanged.
+Physical inscriptions: none
+Reserved empty areas for lettering (calm low-detail background; no face, hand or key prop inside): bottom 30% of the frame full width: keep floor and low detail only, nobody's face or hands inside it (faces and hands stay above it)
+Composition: Reading left to right: Ahana, Navya at the cart, Vihaan foreground; faces visible.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's brass lamps and moonlight.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or lettering; any digits or numbers; extra characters; duplicate carts, mirrored outfits, merged or extra people.

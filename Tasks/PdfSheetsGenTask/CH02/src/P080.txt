@@ -1,0 +1,49 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE080
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 09A Sixteen equal drinks
+[PaginationMetadata] Applies to: Teaching block T2.6; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 09A Sixteen equal drinks
+[PaginationMetadata] Applies to: Teaching block T2.6; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.6
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE080-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; 2.6 Rounding; Example 17
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE080-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.6 Rounding
+Sometimes a question asks us to use fewer decimal digits. We choose a nearby number with the number of decimal places requested. This is called rounding.
+Decimal places are the places after the decimal point. For example, 6.348 has 3 decimal places: 3 is in the tenths place, 4 in the hundredths place, and 8 in the thousandths place. The short form d.p. means decimal places.
+We use ≈ to mean “is approximately equal to”. It tells us we have used a rounded value, rather than the exact original number. Let’s see how to choose that value on a number line.
+Example 17
+[Question] Round as requested.
+[Question] (a)  6.348 to the nearest whole number
+[Question] (b)  0.39 to 1 decimal place
+[Question] (c)  4.7897 to 3 decimal places
+Let’s work it through
+[WorkedStep] (a) We need a whole number near 6.348. The whole numbers on either side are 6 and 7. Halfway between them is 6.5.
+[WorkedStep] Look at the blue point marked 6.348 on the number line. It is to the left of 6.5, so it is closer to 6 than to 7.
+[WorkedStep] Answer: 6.348 ≈ 6 to the nearest whole number.
+[ProductionLabel] DO NOT PRINT — Figure reference: V25a-R | The following caption sentence is printable unchanged.
+[Caption] 6.348 is nearer 6 than 7.
+[ProductionNote] Production note V25a-R — Linear number line from6 to7, midpoint6.5, point6.348 placed to scale. Endpoints labelled to0 decimal places. Blue point and arrow identify the original number; midpoint is labelled halfway. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelizationEnd] END PANEL CH02-PAGE080-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 081

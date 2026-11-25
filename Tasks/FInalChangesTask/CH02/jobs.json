@@ -1,0 +1,319 @@
+{
+  "project": "chandrush-ch02-panels",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1536x1024",
+  "max_calls": 3,
+  "items": {
+    "P001-1": {
+      "prompt": "prompts/P001-1.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L01_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P001-2": {
+      "prompt": "prompts/P001-2.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L01_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P001-3": {
+      "prompt": "prompts/P001-3.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L01_B.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P001-4": {
+      "prompt": "prompts/P001-4.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L01_B.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+      ],
+      "size": "1536x1024",
+      "quality": "high"
+    },
+    "P002-1": {
+      "prompt": "prompts/P002-1.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ],
+      "size": "1024x1536",
+      "quality": "high"
+    },
+    "P002-3": {
+      "prompt": "prompts/P002-3.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P003-1": {
+      "prompt": "prompts/P003-1.md",
+      "size": "1024x768",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P003-2": {
+      "prompt": "prompts/P003-2.md",
+      "size": "1024x768",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P003-3": {
+      "prompt": "prompts/P003-3.md",
+      "size": "1536x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_G.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+      ]
+    },
+    "P003-4": {
+      "prompt": "prompts/P003-4.md",
+      "size": "1024x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_G.png",
+        "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+      ]
+    },
+    "P004-1": {
+      "prompt": "prompts/P004-1.md",
+      "size": "1024x768",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P004-2": {
+      "prompt": "prompts/P004-2.md",
+      "size": "1024x768",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P004-3": {
+      "prompt": "prompts/P004-3.md",
+      "size": "1024x768",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P004-4": {
+      "prompt": "prompts/P004-4.md",
+      "size": "1024x768",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ]
+    },
+    "P005-1": {
+      "prompt": "prompts/P005-1.md",
+      "size": "1024x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_D.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ]
+    },
+    "P005-2": {
+      "prompt": "prompts/P005-2.md",
+      "size": "1536x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_D.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ]
+    },
+    "P005-3": {
+      "prompt": "prompts/P005-3.md",
+      "size": "1024x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_D.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P005-4": {
+      "prompt": "prompts/P005-4.md",
+      "size": "1024x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_D.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P005-5": {
+      "prompt": "prompts/P005-5.md",
+      "size": "1024x1024",
+      "quality": "high",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_D.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+      ]
+    },
+    "P006-2": {
+      "prompt": "prompts/P006-2.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_B.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ],
+      "size": "768x1024",
+      "quality": "high"
+    },
+    "P006-3": {
+      "prompt": "prompts/P006-3.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P006-4": {
+      "prompt": "prompts/P006-4.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+      ],
+      "size": "768x1024",
+      "quality": "high"
+    },
+    "P006-5": {
+      "prompt": "prompts/P006-5.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P007-1": {
+      "prompt": "prompts/P007-1.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ],
+      "size": "768x1024",
+      "quality": "high",
+      "note": "exact count of 16 empty slots in a 4x4 grid; plate shows cups so empty slots must be forced"
+    },
+    "P007-2": {
+      "prompt": "prompts/P007-2.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+      ],
+      "size": "768x1024",
+      "quality": "high"
+    },
+    "P009-1": {
+      "prompt": "prompts/P009-1.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P009-2": {
+      "prompt": "prompts/P009-2.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L03_A.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P010-2": {
+      "prompt": "prompts/P010-2.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    },
+    "P010-3": {
+      "prompt": "prompts/P010-3.md",
+      "refs": [
+        "BagroundGenTask/ch02/out/plates/L02_C.png",
+        "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+        "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+      ],
+      "size": "1024x768",
+      "quality": "high"
+    }
+  }
+}

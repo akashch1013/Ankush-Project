@@ -1,0 +1,59 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE130
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE130-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Practice 2J Question 3; Practice 2J Question 4; Practice 2J Question 5; Practice 2J Question 6
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE130-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2J Question 3
+[Question] The box stands for a whole number and 32/(□) = 20%. Is □ (a) more than 100, (b) less than 100, (c) 100, or (d) none of these?
+Check your method
+[WorkedStep] Start with the percentage: 20% = 20/100 = 1/5. We need 32/(□) to equal 1/5.
+[WorkedStep] To turn the numerator 1 into 32, multiply by 32. Multiply the denominator 5 by 32 too: 1/5 = (1 × 32)/(5 × 32) = 32/160.
+[WorkedStep] The missing number is 160. Since 160 > 100, choose (a), more than 100. Check: 32/160 = (32 ÷ 32)/(160 ÷ 32) = 1/5 = 20%.
+Practice 2J Question 4
+[Question] A tea shop offers 40% less sugar in its drinks. Express this percentage.
+[Question] (a)  as a fraction in simplest form
+[Question] (b)  as a decimal
+Check your method
+[WorkedStep] (a)  40% = 40/100 = (40 ÷ 20)/(100 ÷ 20) = 2/5.
+[WorkedStep] (b)  40% = 40 ÷ 100 = 0.4.
+The question asks for the reduction, 40%. If we also want the sugar left, subtract from 100%: 100% − 40% = 60% of the usual amount.
+Practice 2J Question 5
+[Question] In a 2011 statement, 88.6% of Singapore’s population used public transport. Express this percentage.
+[Question] (a)  as a fraction in simplest form
+[Question] (b)  as a decimal
+Check your method
+[WorkedStep] (a)  88.6% = 88.6/100 = (88.6 × 10)/(100 × 10) = 886/1000.
+[WorkedStep] Divide top and bottom by 2: 886/1000 = (886 ÷ 2)/(1000 ÷ 2) = 443/500.
+[WorkedStep] (b)  88.6% = 88.6 ÷ 100 = 0.886.
+Practice 2J Question 6
+[Question] 45% of a student’s end-of-year result comes from continual assessment. Express this percentage.
+[Question] (a)  as a fraction in simplest form
+[Question] (b)  as a decimal
+Check your method
+[WorkedStep] (a)  45% = 45/100 = (45 ÷ 5)/(100 ÷ 5) = 9/20.
+[WorkedStep] (b)  45% = 45 ÷ 100 = 0.45.
+[PanelizationEnd] END PANEL CH02-PAGE130-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 131

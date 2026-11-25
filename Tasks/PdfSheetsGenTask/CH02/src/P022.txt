@@ -1,0 +1,69 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE022
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE022-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Practice 2A Question 4
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2A Question 4
+[Question] Nurul thinks of a number x such that 5 2/3 < x < 5 8/9. Write one possible value of x.
+Check your method
+[WorkedStep] The letter x stands for the number we must find. We need a number greater than 5 2/3 and smaller than 5 8/9. The sign < means “is less than”.
+[WorkedStep] Both given numbers have whole-number part 5. First give their fraction parts, 2/3 and 8/9, the same denominator.
+[WorkedStep] 2/3 = (2 × 3)/(3 × 3) = 6/9. The fraction 8/9 already has denominator 9.
+[WorkedStep] So we need 5 6/9 < x < 5 8/9.
+[WorkedStep] The fraction 7/9 lies between 6/9 and 8/9. One possible answer is x = 5 7/9.
+[WorkedStep] Check: 5 6/9 < 5 7/9 < 5 8/9.
+[WorkedStep] We cannot choose x = 5 2/3 or x = 5 8/9. The question asks for a number between them, not a number equal to either of them.
+[PanelizationEnd] END PANEL CH02-PAGE022-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE022-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Practice 2A Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE022-PANEL02; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2A Question 5
+[Question] Jake thinks of a number x such that 2 1/5 < x < 2 1/4. Write one possible value of x.
+Check your method
+[WorkedStep] We need a number between 2 1/5 and 2 1/4. Both whole-number parts are 2, so compare 1/5 and 1/4. Give them denominator 20:
+[WorkedStep] 1/5 = (1 × 4)/(5 × 4) = 4/20; 1/4 = (1 × 5)/(4 × 5) = 5/20.
+[WorkedStep] We need a fraction between 4/20 and 5/20. There is no whole number between the top numbers 4 and 5. Let’s split each twentieth into 2 equal pieces so that we can use smaller parts:
+[WorkedStep] 4/20 = (4 × 2)/(20 × 2) = 8/40; 5/20 = (5 × 2)/(20 × 2) = 10/40.
+[WorkedStep] Now we have room for 9/40: 8/40 < 9/40 < 10/40.
+[WorkedStep] Put the whole-number part 2 back. One possible answer is x = 2 9/40.
+[WorkedStep] Check: 2 8/40 < 2 9/40 < 2 10/40.
+[PanelizationEnd] END PANEL CH02-PAGE022-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 023

@@ -1,0 +1,53 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE119
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7D; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE119-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7D; Practice 2I Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE119-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2I Question 2
+[Question] Evaluate the expressions. Which have the same value? Explain why.
+[Question] (a)  4.7 × (8 ÷ 3) − 15.2
+[Question] (b)  4.7 × 8 ÷ 3 − 15.2
+[Question] (c)  (4.7 × 8) ÷ 3 − 15.2
+[Question] (d)  4.7 × 8 ÷ (3 − 15.2)
+Check your method
+[WorkedStep] (a) Start with the brackets: 8 ÷ 3 = 8/3. Keep the fraction so we do not have to round it.
+[WorkedStep] Multiply next: 4.7 × 8/3 = (4.7 × 8)/3 = 37.6/3.
+[WorkedStep] To subtract 15.2, give it denominator 3. Multiplying by 3 and dividing by 3 keeps its value unchanged:
+[WorkedStep] 15.2 = (15.2 × 3)/3 = 45.6/3.
+[WorkedStep] Now subtract: 37.6/3 − 45.6/3 = (37.6 − 45.6)/3 = −8/3.
+[WorkedStep] (b) With no brackets, multiply and divide from left to right:
+[WorkedStep] 4.7 × 8 ÷ 3 − 15.2 = 37.6 ÷ 3 − 15.2 = 37.6/3 − 45.6/3 = −8/3.
+[WorkedStep] (c) The brackets put 4.7 × 8 first:
+[WorkedStep] (4.7 × 8) ÷ 3 − 15.2 = 37.6 ÷ 3 − 15.2 = 37.6/3 − 45.6/3 = −8/3.
+[WorkedStep] (d) These brackets change the divisor: 3 − 15.2 = −12.2. Also, 4.7 × 8 = 37.6. So we need 37.6 ÷ (−12.2).
+[WorkedStep] The answer is negative. For example, 6 ÷ (−2) = −3 because (−3) × (−2) = 6. Keep that minus sign while we work with the fraction.
+[WorkedStep] Multiply the top and bottom by 10 to use whole numbers. The quotient stays the same:
+[WorkedStep] 37.6 ÷ (−12.2) = −37.6/12.2 = −(37.6 × 10)/(12.2 × 10) = −376/122.
+[WorkedStep] Divide the top and bottom by 2: −376/122 = −(376 ÷ 2)/(122 ÷ 2) = −188/61.
+[WorkedStep] Parts (a), (b) and (c) all give −8/3. Each multiplies 4.7 by 8 and divides by 3 before subtracting 15.2.
+[WorkedStep] Part (d) divides 37.6 by −12.2 instead, giving −188/61. To compare them as decimals: −8/3 ≈ −2.7 and −188/61 ≈ −3.1 to 1 d.p.
+[PanelizationEnd] END PANEL CH02-PAGE119-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 120

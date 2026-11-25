@@ -1,0 +1,145 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE106
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 11A A; Visual beat CH02 11A B; Visual beat CH02 11A C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 11A A; Visual beat CH02 11A B; Visual beat CH02 11A C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 11A A; Visual beat CH02 11A B; Visual beat CH02 11A C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 11A A; Visual beat CH02 11A B; Visual beat CH02 11A C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 11A A; Visual beat CH02 11A B; Visual beat CH02 11A C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11A; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11A; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11A; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11A; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing; first urn load has already been served
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 11 A clear record of the changes
+[ProductionLabel] Production sequence reference CH02-11. Non-printing background and continuity.
+[SceneHeading] Scene CH02 11A Combine the existing withdrawals
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium close on the dry record area at the right counter; the capped reserve bottle is beside it, away from the spent urn tap.
+[PanelizationHeading] PANEL CH02-PAGE106-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 11A A Bring the records together
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; Scene CH02 11A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; Scene CH02 11A; view; assigned beat stage only
+[ProductionNote] View. Medium close on the dry record area at the right counter; the capped reserve bottle is beside it, away from the spent urn tap.
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; Scene CH02 11A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; Scene CH02 11A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; Scene CH02 11A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL01; Visual beat CH02 11A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11A A Bring the records together
+[ProductionNote] Moment and staging. The food helper lays the earlier preparation record beside the new transfer record with both wooden hands. Both individual decreases are readable; the combined-change box is blank. Navya looks down, right hand holding a pencil at rest and left hand on the clear dry edge. The bottle remains capped.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper puts the reserve bottle’s earlier record beside the new transfer. Its first change was −0.25 L. They have now taken another 0.10 L.
+[PanelizationEnd] END PANEL CH02-PAGE106-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE106-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 11A B One combined change
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; Scene CH02 11A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; Scene CH02 11A; view; assigned beat stage only
+[ProductionNote] View. Medium close on the dry record area at the right counter; the capped reserve bottle is beside it, away from the spent urn tap.
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; Scene CH02 11A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; Scene CH02 11A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; Scene CH02 11A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL02; Visual beat CH02 11A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11A B One combined change
+[ProductionNote] Moment and staging. Navya gestures with her free left hand between the two withdrawal lines; her right holds the pencil above clear paper without writing the result. She looks towards Tara. The crew stays around the dry end.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth | Source speech attribution: Navya asks.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] How do we combine those two decreases?
+[PanelizationEnd] END PANEL CH02-PAGE106-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE106-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 11A C A record the next helper can use
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; Scene CH02 11A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; Scene CH02 11A; view; assigned beat stage only
+[ProductionNote] View. Medium close on the dry record area at the right counter; the capped reserve bottle is beside it, away from the spent urn tap.
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; Scene CH02 11A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; Scene CH02 11A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; Scene CH02 11A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE106-PANEL03; Visual beat CH02 11A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11A C A record the next helper can use
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character positions specified in Scene CH02 11A. Navya changes her left gesture to an open palm towards the drink assistant and turns her head to it. Her right pencil remains above the blank total. The known 0.50 L bottle level stays unchanged.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The next helper needs one clear total for what has left this bottle.
+[PanelizationEnd] END PANEL CH02-PAGE106-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 107

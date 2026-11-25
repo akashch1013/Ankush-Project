@@ -1,0 +1,162 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE001
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 01A A; Visual beat CH02 01A B; Visual beat CH02 01A C; Visual beat CH02 01A D; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 01A A; Visual beat CH02 01A B; Visual beat CH02 01A C; Visual beat CH02 01A D; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 01A A; Visual beat CH02 01A B; Visual beat CH02 01A C; Visual beat CH02 01A D; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 01A A; Visual beat CH02 01A B; Visual beat CH02 01A C; Visual beat CH02 01A D; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 01A; Location CH02 L01 Food Street — Master from Lantern Street geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 01A; Location CH02 L01 Food Street — Master from Lantern Street geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 01A; Location CH02 L01 Food Street — Master from Lantern Street geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 01 A kitchen with conflicting instructions
+[ProductionLabel] Production sequence reference CH02-01. Non-printing background and continuity.
+[ProductionNote] Background — Location CH02 L01. Food Street’s covered lane has saffron and teal awnings, the recipe/cooking counter on physical left, jugs and juice urn on physical right, a near packing bench beside the Return Walk doorway, a central circular two-tray table and far shutters towards the Parade Ground.
+[SceneHeading] Scene CH02 01A Clear the entrance
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE001-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 01A A Hands free for the cart
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; Scene CH02 01A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; Scene CH02 01A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; Scene CH02 01A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; Scene CH02 01A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; Scene CH02 01A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL01; Visual beat CH02 01A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01A A Hands free for the cart
+[ProductionNote] Moment and staging. Silent transition. Ahana sets her lamp upright on the reachable entrance corner of the near packing bench with her right hand; her left steadies its base. Tara secures the protected evidence sleeve in her sash pocket with her left hand while her right keeps the staff planted. Navya and Vihaan wait; the cart has not moved.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE001-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE001-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 01A B The bowl comes free
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; Scene CH02 01A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; Scene CH02 01A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; Scene CH02 01A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; Scene CH02 01A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; Scene CH02 01A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL02; Visual beat CH02 01A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01A B The bowl comes free
+[ProductionNote] Moment and staging. Freeze after the cart has moved just far enough to free the bowl and its wheels have settled. Ahana and Navya keep both hands on the stationary frame, feet braced. Vihaan crouches outside the wheel track and holds the now-free bowl in both hands. Tez stays behind Ahana. No moving wheel overlaps a hand; the captions carry the preceding push.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana and Navya push the crooked cart away from Food Street’s entrance. Vihaan lifts a bowl trapped beneath its wheel.
+[PanelizationEnd] END PANEL CH02-PAGE001-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE001-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 01A C The helper can enter
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; Scene CH02 01A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; Scene CH02 01A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; Scene CH02 01A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; Scene CH02 01A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; Scene CH02 01A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL03; Visual beat CH02 01A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01A C The helper can enter
+[ProductionNote] Moment and staging. The crooked cart is now parked at the near-left wall. Vihaan stands holding the recovered bowl with both hands. The broad helper pushes its empty handcart through the cleared entrance, both wooden hands on its handle. Ahana and Navya stand aside, hands free; Tara and Tez enter behind.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Once the way is clear, the blue-waistcoated helper follows them in with its empty cart.
+[PanelizationEnd] END PANEL CH02-PAGE001-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE001-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 01A D A street of counters
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; Scene CH02 01A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; Scene CH02 01A; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; Scene CH02 01A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; Scene CH02 01A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01A Clear the entrance
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; Scene CH02 01A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The waiting Gate crowd is shown in its own cutaway, never behind the cooking counter.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE001-PANEL04; Visual beat CH02 01A D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01A D A street of counters
+[ProductionNote] Moment and staging. Establish the full lane from the entrance camera specified in Scene CH02 01A. Vihaan has set the recovered bowl on the dry packing bench. The trio look left and right; Tara remains behind them and Tez beside Ahana. Keep the distant mathematical details unreadable; show no completed repair.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Food Street is a covered lane of counters beneath saffron and teal awnings. The cooking counter is on the left and the drinks are on the right. Near the entrance, a pale packing bench stands beside a covered doorway.
+[PanelizationEnd] END PANEL CH02-PAGE001-PANEL04
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 002

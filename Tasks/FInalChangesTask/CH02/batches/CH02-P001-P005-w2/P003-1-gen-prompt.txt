@@ -1,0 +1,24 @@
+Use case: ChandRush chandrush-ch02-panels comic panel P003-1, beat CH02 01C A.
+Asset: one high-quality graphic-novel panel illustration, letter-free.
+Input images, in order:
+- Image 1: approved raw location plate BagroundGenTask/ch02/out/plates/L02_A.png. Preserve its architecture, camera geography, royal-blue timber, brass, cream stone and lamp/moon lighting. Do not use composed/final plates.
+- Image 2: Tara character sheet; use only for face, hair, skin, proportions, outfit and colors. Ignore sheet layout and all labels.
+- Image 3: Ahana character sheet; use only for face, hair, skin, proportions, outfit and colors. Ignore sheet layout and all labels.
+- Image 4: Navya character sheet; use only for face, hair, skin, proportions, outfit and colors. Ignore sheet layout and all labels.
+Characters and actions:
+- Food helper (behind the counter): faces Tara holding one instruction card in each wooden hand, elbows bent; painted eyes worried; gaze: the cards; expression: worried. Draw as a broad friendly WOODEN automaton with a carved wood face and visibly jointed carved wooden hands, saffron apron and ivory cap; not human.
+- Tara (right at shut-off end): watches, left hand relaxed, staff upright in right hand; gaze: helper; expression: serious. Use attached sheet for identity.
+- Ahana (near side left): listens from the cool side; gaze: the other speaker; expression: attentive. Use attached sheet for identity.
+- Navya (near side beside Ahana): listens; gaze: the other speaker; expression: attentive. Use attached sheet for identity.
+- Vihaan (near side beside Navya): listens; gaze: the other speaker; expression: attentive.
+Character identity cues for visible cast whose sheets are not attached:
+- Vihaan: short tousled black hair, mustard-yellow jacket over navy tee, slate-blue cargo trousers, deep-red backpack, white-and-navy sneakers, fair skin.
+Props and states at this exact beat:
+- Cards remain blank/unlettered; no pour begins
+- Original book and weights remain stored in closed cupboard
+Physical inscriptions: none. Do not add any words, numbers, signs or markings.
+Reserved empty areas for later HTML captions/bubbles: bubble in upper-left (0.68×0.28 of panel). Keep faces, hands and essential props outside those areas.
+Composition: follow screen positions above, keep all essential action and faces inside the central 80%, coherent graphic-novel reading direction. Camera: medium across the cool recipe counter; preserve blue wall, closed cupboard and brass batter tank.
+Style: warm, premium dimensional storybook illustration with soft 3D form and painterly finish, matching the approved P001 sample and the CH02 location plate; crisp contact shadows, rich blue night, amber lamp glow, antique brass, no pastel/cartoon treatment.
+
+Do not show: speech bubbles, captions, titles, labels, arrows, watermarks, signatures, extra characters, duplicate limbs, mirrored outfits or state from another beat.

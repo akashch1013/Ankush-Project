@@ -1,0 +1,49 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE126
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE126-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Example 30; Your turn after Example 30
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE126-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+The number before % can itself contain a fraction or a decimal. For example, 5 1/2% means 5 1/2 ÷ 100, and 50.2% means 50.2 ÷ 100. Keep the entire number, including its fraction or decimal part, when dividing by 100.
+Example 30
+[Question] Express each percentage as a fraction in simplest form.
+[Question] (a)  5 1/2%
+[Question] (b)  50.2%
+Let’s work it through
+[WorkedStep] (a) First write the mixed number as an improper fraction: 5 1/2 = (5 × 2 + 1)/2 = 11/2.
+[WorkedStep] Now apply the % sign: divide 11/2 by 100. The reciprocal of 100 is 1/100, so dividing by 100 is multiplying by 1/100:
+[WorkedStep] 5 1/2% = 11/2 ÷ 100 = 11/2 × 1/100 = (11 × 1)/(2 × 100) = 11/200.
+[WorkedStep] Check: 5% = 5/100 = 10/200. Our answer, 11/200, is a little greater than 10/200, just as 5 1/2% is a little greater than 5%.
+[WorkedStep] (b) 50.2% means 50.2/100. Multiply top and bottom by 10 so both are whole numbers: 50.2/100 = (50.2 × 10)/(100 × 10) = 502/1000.
+[WorkedStep] Now divide both by 2: 502/1000 = (502 ÷ 2)/(1000 ÷ 2) = 251/500. Since 50.2% is slightly more than 50%, this fraction should be slightly more than 1/2. It is: half of 500 is 250, and our top number is 251.
+Your turn after Example 30
+[Question] Express each percentage as a fraction in simplest form.
+[Question] (a)  11 1/4%
+[Question] (b)  10.5%
+Check your method
+[WorkedStep] (a)  11 1/4 = (11 × 4 + 1)/4 = 45/4. So 11 1/4% = 45/4 × 1/100 = 45/400 = (45 ÷ 5)/(400 ÷ 5) = 9/80.
+[WorkedStep] (b)  10.5% = 10.5/100 = (10.5 × 10)/(100 × 10) = 105/1000 = (105 ÷ 5)/(1000 ÷ 5) = 21/200. The same “divide by 100” meaning works for both parts.
+[PanelizationEnd] END PANEL CH02-PAGE126-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 127

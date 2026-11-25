@@ -1,0 +1,132 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE037
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 04B A; Visual beat CH02 04B B; Visual beat CH02 04B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 04B A; Visual beat CH02 04B B; Visual beat CH02 04B C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 04B A; Visual beat CH02 04B B; Visual beat CH02 04B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 04B A; Visual beat CH02 04B B; Visual beat CH02 04B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 04B A; Visual beat CH02 04B B; Visual beat CH02 04B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 04 Combine the filling
+[PaginationMetadata] Applies to: Visual beat CH02 04B A; Visual beat CH02 04B B; Visual beat CH02 04B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 04B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 04B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 04B The combined amount
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium of the filling bowls with Navya and Vihaan on the cool side and the helper behind them.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Given bowls remain 1¾ kg and 2½ kg. The helper will mark 4¼ kg on the mixing bowl after the spoken calculation. Mixing itself begins in Scene CH02 05A.
+[ProductionNote] Planning requirements. The helper’s label follows the calculation; do not convert the batter stock into wrap filling.
+[PanelizationHeading] PANEL CH02-PAGE037-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 04B A Convert the half
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; Scene CH02 04B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; Scene CH02 04B; view; assigned beat stage only
+[ProductionNote] View. Medium of the filling bowls with Navya and Vihaan on the cool side and the helper behind them.
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; Scene CH02 04B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; Scene CH02 04B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Given bowls remain 1¾ kg and 2½ kg. The helper will mark 4¼ kg on the mixing bowl after the spoken calculation. Mixing itself begins in Scene CH02 05A.
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; Scene CH02 04B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The helper’s label follows the calculation; do not convert the batter stock into wrap filling.
+[PanelizationMetadata] SOURCE: Sequence 04 Combine the filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL01; Visual beat CH02 04B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 04B A Convert the half
+[ProductionNote] Moment and staging. Navya points to the half in the 2½-kilogram label with her right index finger; her empty left hand rests on the clear front edge. She speaks to Vihaan, who looks at both bowls. Tara and Ahana listen.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] One half is two quarters.
+[PanelizationEnd] END PANEL CH02-PAGE037-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE037-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 04B B Wholes and quarters together
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; Scene CH02 04B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; Scene CH02 04B; view; assigned beat stage only
+[ProductionNote] View. Medium of the filling bowls with Navya and Vihaan on the cool side and the helper behind them.
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; Scene CH02 04B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; Scene CH02 04B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Given bowls remain 1¾ kg and 2½ kg. The helper will mark 4¼ kg on the mixing bowl after the spoken calculation. Mixing itself begins in Scene CH02 05A.
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; Scene CH02 04B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The helper’s label follows the calculation; do not convert the batter stock into wrap filling.
+[PanelizationMetadata] SOURCE: Sequence 04 Combine the filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL02; Visual beat CH02 04B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 04B B Wholes and quarters together
+[ProductionNote] Moment and staging. Vihaan faces the crew, right palm open between the two bowls and left hand empty against the clear counter edge. His expression is pleased but focused. Navya has lowered her pointing hand. Keep the source narration before his speech.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Vihaan combines the amounts:
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Three wholes and five quarters. That is four and one quarter kilograms.
+[PanelizationEnd] END PANEL CH02-PAGE037-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE037-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 04B C Mark the mixing bowl
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; Scene CH02 04B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; Scene CH02 04B; view; assigned beat stage only
+[ProductionNote] View. Medium of the filling bowls with Navya and Vihaan on the cool side and the helper behind them.
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; Scene CH02 04B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; Scene CH02 04B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Given bowls remain 1¾ kg and 2½ kg. The helper will mark 4¼ kg on the mixing bowl after the spoken calculation. Mixing itself begins in Scene CH02 05A.
+[PanelizationMetadata] SOURCE: Scene CH02 04B The combined amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; Scene CH02 04B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The helper’s label follows the calculation; do not convert the batter stock into wrap filling.
+[PanelizationMetadata] SOURCE: Sequence 04 Combine the filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE037-PANEL03; Visual beat CH02 04B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 04B C Mark the mixing bowl
+[ProductionNote] Moment and staging. Close insert anchored by the pale counter edge. The food helper writes 4¼ kg on the mixing bowl’s dry label with a pencil in its right hand; its left steadies the label, not the food. Both source bowls still stand beside it. This is a label on the bowl, not a free-floating caption.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper marks that total on the mixing bowl.
+[PanelizationEnd] END PANEL CH02-PAGE037-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 038

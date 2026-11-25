@@ -1,0 +1,74 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE075
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE075-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Practice 2E Question 3; Practice 2E Question 4
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2E Question 3
+[Question] Arrange the numbers in descending order.
+[Question] (a)  177/100, 17.07, 1 71/100
+[Question] (b)  0.39, 3 9/60, 39/60
+[Question] (c)  20.54, 54/100, 20 4/100
+Check your method
+[WorkedStep] (a) Write 177/100 = 1.77 and 1 71/100 = 1.71. The number 17.07 is greatest because 17 > 1. Between 1.77 and 1.71, compare hundredths: 7 > 1. So 17.07 > 1.77 > 1.71.
+[WorkedStep] Descending order: 17.07, 177/100, 1 71/100.
+[WorkedStep] (b) Change the fraction parts: 9/60 = (9 ÷ 3)/(60 ÷ 3) = 3/20 = (3 × 5)/(20 × 5) = 15/100 = 0.15. So 3 9/60 = 3.15.
+[WorkedStep] Also 39/60 = (39 ÷ 3)/(60 ÷ 3) = 13/20 = (13 × 5)/(20 × 5) = 65/100 = 0.65.
+[WorkedStep] Compare: 3.15 > 0.65 > 0.39.
+[WorkedStep] Descending order: 3 9/60, 39/60, 0.39.
+[WorkedStep] (c) Write 54/100 = 0.54 and 20 4/100 = 20.04. Compare: 20.54 > 20.04 > 0.54. The first two have 20 wholes, and 5 tenths is greater than 0 tenths.
+[WorkedStep] Descending order: 20.54, 20 4/100, 54/100.
+Practice 2E Question 4
+[Question] Given 2.134 < x < 2.143, write one possible value of x.
+Check your method
+[WorkedStep] We need x to be greater than 2.134 and smaller than 2.143. Add 0.001 to the smaller number: 2.134 + 0.001 = 2.135.
+[WorkedStep] The number 2.135 is still below 2.143. So one possible answer is x = 2.135. Check: 2.134 < 2.135 < 2.143. We cannot choose either given number, because x must be between them.
+[PanelizationEnd] END PANEL CH02-PAGE075-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE075-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Practice 2E Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE075-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2E Question 5
+[Question] Given 4.64 < x < 4.641, write one possible value of x.
+Check your method
+[WorkedStep] We need a number between 4.64 and 4.641. Write the same numbers with 4 decimal places: 4.6400 and 4.6410.
+[WorkedStep] The last two digits now run from 00 to 10. Choose 05 between them. One possible answer is x = 4.6405.
+[WorkedStep] Check: 4.6400 < 4.6405 < 4.6410. We used an extra decimal place to name a number inside the gap; we did not change either given number.
+[PanelizationEnd] END PANEL CH02-PAGE075-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 076

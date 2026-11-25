@@ -1,0 +1,649 @@
+{
+ "chapter": "CH02",
+ "prepared": "2026-11-23T17:54:38",
+ "reference_dir": "Reference/Chap 2",
+ "sources": {
+  "manuscript": "Reference/Chap 2/CH02-PANELIZED-MANUSCRIPT-V01.docx",
+  "register": "Reference/Chap 2/CH02-LOCATION-IMAGE-REGISTER-V04.docx",
+  "sha": {
+   "manuscript": "3d2d8cef9ea3",
+   "register": "56c11f83fd6e"
+  },
+  "versions": {
+   "manuscript": 1,
+   "register": 4
+  },
+  "images": [
+   "Reference/Chap 2/WhatsApp Image 2026-11-03 at 09.29.25(1).jpeg",
+   "Reference/Chap 2/WhatsApp Image 2026-11-03 at 09.29.25(2).jpeg",
+   "Reference/Chap 2/WhatsApp Image 2026-11-03 at 09.29.25.jpeg",
+   "Reference/Chap 2/WhatsApp Image 2026-11-03 at 09.29.26(1).jpeg",
+   "Reference/Chap 2/WhatsApp Image 2026-11-03 at 09.29.26.jpeg"
+  ],
+  "other_docs": []
+ },
+ "files": {
+  "manuscript_txt": "PdfSheetsGenTask/CH02/manuscript.txt",
+  "register_txt": "PdfSheetsGenTask/CH02/register.txt",
+  "src": "PdfSheetsGenTask/CH02/src/",
+  "survey": "PdfSheetsGenTask/CH02/survey.txt",
+  "index": "PdfSheetsGenTask/CH02/index.json",
+  "mathscan": "PdfSheetsGenTask/CH02/mathscan.txt",
+  "pages": "PdfSheetsGenTask/CH02/pages.json",
+  "review": "PdfSheetsGenTask/CH02/review.json",
+  "artifacts": "PdfSheetsGenTask/CH02/artifacts.json"
+ },
+ "workspaces": {
+  "backgrounds": "BagroundGenTask/ch02/",
+  "plates": "BagroundGenTask/ch02/out/plates/",
+  "panels": "FInalChangesTask/CH02/",
+  "library": "FInalChangesTask/library/",
+  "output": "Output/CH02/"
+ },
+ "pages": {
+  "count": 178,
+  "first": "P001",
+  "last": "P178",
+  "kinds": {
+   "story": 81,
+   "math-heavy": 80,
+   "teaching": 14,
+   "story+math": 2,
+   "text-heavy": 1
+  },
+  "index_sha": {
+   "P001": "46e7b550f9",
+   "P002": "0cd34c2234",
+   "P003": "c6cdeaa19b",
+   "P004": "4812a1f275",
+   "P005": "17313810f1",
+   "P006": "07fe87b0fd",
+   "P007": "c2746a3751",
+   "P008": "c978c1b2cb",
+   "P009": "da6c395f8f",
+   "P010": "4d692cd860",
+   "P011": "9dc5051705",
+   "P012": "0bf7771445",
+   "P013": "8650e89f40",
+   "P014": "acf677a4be",
+   "P015": "819f1f3912",
+   "P016": "3947e425d1",
+   "P017": "9295314206",
+   "P018": "4f5bfd410b",
+   "P019": "dd43eb175e",
+   "P020": "39cb455e4c",
+   "P021": "ff6a91d83d",
+   "P022": "4104438837",
+   "P023": "f80e4819a4",
+   "P024": "3ef22ea998",
+   "P025": "d79cb14391",
+   "P026": "134e410065",
+   "P027": "f59d831a3b",
+   "P028": "679e8c1ba4",
+   "P029": "328d28a120",
+   "P030": "6873850164",
+   "P031": "b4d6ca5828",
+   "P032": "216848c08a",
+   "P033": "80c20002c0",
+   "P034": "28596a1af4",
+   "P035": "e9a609f13c",
+   "P036": "cf0e3c0636",
+   "P037": "3d119e9c1a",
+   "P038": "621f1f839d",
+   "P039": "049c27f49b",
+   "P040": "1c27da39a0",
+   "P041": "5cd9b1e5a9",
+   "P042": "aa7a3e99ea",
+   "P043": "ade6563244",
+   "P044": "8671654c07",
+   "P045": "a0e794f902",
+   "P046": "49b442bdfb",
+   "P047": "4b1b23244b",
+   "P048": "5037134634",
+   "P049": "2596622e06",
+   "P050": "97ae060a37",
+   "P051": "1d3266a117",
+   "P052": "afaf6b744d",
+   "P053": "91ad10ccca",
+   "P054": "0489ee7802",
+   "P055": "f5ca23868e",
+   "P056": "ae6ba429a0",
+   "P057": "e4f0781c38",
+   "P058": "c39633c96e",
+   "P059": "09aed55665",
+   "P060": "dea0a23e2e",
+   "P061": "8a946cf05f",
+   "P062": "3c2695b576",
+   "P063": "c56178bffa",
+   "P064": "3806e7cc84",
+   "P065": "0857d26773",
+   "P066": "86527b4df0",
+   "P067": "517c2246bb",
+   "P068": "d6430e2177",
+   "P069": "42b3bfaab0",
+   "P070": "f9481c0e81",
+   "P071": "684e031343",
+   "P072": "a01e56a7ae",
+   "P073": "8e49783e69",
+   "P074": "cef08fbaf8",
+   "P075": "d607bcc5cb",
+   "P076": "28d58f5437",
+   "P077": "1c04689841",
+   "P078": "df39dbe0ab",
+   "P079": "d060db15ef",
+   "P080": "922b2f2ef3",
+   "P081": "e865eb9899",
+   "P082": "3bb282969e",
+   "P083": "01bc715bc9",
+   "P084": "461bf765b7",
+   "P085": "310056f4f8",
+   "P086": "21aded6061",
+   "P087": "77a92ab30e",
+   "P088": "1871f730a4",
+   "P089": "40ec19aae2",
+   "P090": "a0fbab4320",
+   "P091": "6f92eb301f",
+   "P092": "67bb759d62",
+   "P093": "c10ba826da",
+   "P094": "45a41a0c7b",
+   "P095": "80e0b98142",
+   "P096": "bd974ed4bd",
+   "P097": "56ecead436",
+   "P098": "ec8dd87365",
+   "P099": "0af97786db",
+   "P100": "f30a2bc997",
+   "P101": "176e6b16ad",
+   "P102": "dfd9af66b4",
+   "P103": "722a706d39",
+   "P104": "319b1dfd51",
+   "P105": "cc1548ef54",
+   "P106": "61280fe79e",
+   "P107": "bd4fc808ce",
+   "P108": "cabc825800",
+   "P109": "2739c15b2a",
+   "P110": "791a999159",
+   "P111": "ca558246a2",
+   "P112": "b1cf9d2af1",
+   "P113": "a2fb791349",
+   "P114": "33b206bb3c",
+   "P115": "c5801e727f",
+   "P116": "cc11d967c8",
+   "P117": "700462aa8e",
+   "P118": "4f4a46abe1",
+   "P119": "d5c24e9334",
+   "P120": "9550360e65",
+   "P121": "06ba97f527",
+   "P122": "7246867faa",
+   "P123": "218e817678",
+   "P124": "9d1586ccfc",
+   "P125": "9e23b6e074",
+   "P126": "c1b88ef9d5",
+   "P127": "e1ad28e5b0",
+   "P128": "3730f2e2ff",
+   "P129": "728b334a50",
+   "P130": "0feee963ba",
+   "P131": "1263010e9c",
+   "P132": "c050e70afa",
+   "P133": "d68bd23639",
+   "P134": "5746dd7d0b",
+   "P135": "0ace05a43f",
+   "P136": "71d35aac58",
+   "P137": "cd1a1c2450",
+   "P138": "740a18cfd2",
+   "P139": "de86f5a180",
+   "P140": "68f87e814d",
+   "P141": "a042893383",
+   "P142": "4d299ef998",
+   "P143": "1a799c91f4",
+   "P144": "1380810f7c",
+   "P145": "4c7435768e",
+   "P146": "f5c8fc8371",
+   "P147": "ccb84856ac",
+   "P148": "c4c8f48b58",
+   "P149": "7e9042661c",
+   "P150": "efb9eb106e",
+   "P151": "dec5010df7",
+   "P152": "a32220732f",
+   "P153": "a06e8a241e",
+   "P154": "5d1e23ef26",
+   "P155": "298adbf2dd",
+   "P156": "dac9c93ab2",
+   "P157": "8c4fc9b56d",
+   "P158": "6af7b5a6e5",
+   "P159": "1c4bfe1070",
+   "P160": "9504fa3992",
+   "P161": "7b2ab387fb",
+   "P162": "1799123f61",
+   "P163": "df0d058293",
+   "P164": "0a4d521a5b",
+   "P165": "935efd51a2",
+   "P166": "5a8db9f12b",
+   "P167": "2cf47ce19d",
+   "P168": "814693e274",
+   "P169": "514372e720",
+   "P170": "937f2e52f5",
+   "P171": "178d00ddcd",
+   "P172": "1ea160a46f",
+   "P173": "05cbb4928a",
+   "P174": "86f554d16d",
+   "P175": "f4f66e98dc",
+   "P176": "c2ce1ee7c3",
+   "P177": "262409ceff",
+   "P178": "345e98f2c8"
+  }
+ },
+ "register": {
+  "masters": [
+   {
+    "name": "Food Street master",
+    "identity": "The approved entrance view from Lantern Street, including the intact brass bowl beside the nearest cart wheel.",
+    "image": null
+   },
+   {
+    "name": "Old Blue Gate master",
+    "identity": "The approved exterior with the left-leaf service door, separate equipment exit, left planter and right bench.",
+    "image": null
+   },
+   {
+    "name": "Covered Return Walk master",
+    "identity": "The covered passage along the fair’s left boundary, with the Food Street junction and route towards Entry Court.",
+    "image": null
+   },
+   {
+    "name": "Parade Ground master",
+    "identity": "The yard beyond Food Street, with the left visitor lane, central rehearsal loop and supported blue elephant at the right.",
+    "image": null
+   }
+  ],
+  "records": [
+   {
+    "id": "L01_A",
+    "title": "Entrance obstructed",
+    "master": "Food Street",
+    "filename": "CH02_L01_A_Food_Street_Entrance_Obstructed.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L01_A.png"
+   },
+   {
+    "id": "L01_B",
+    "title": "Entrance cleared",
+    "master": "Food Street",
+    "filename": "CH02_L01_B_Food_Street_Entrance_Cleared.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L01_B.png"
+   },
+   {
+    "id": "L02_A",
+    "title": "Recipe counter working view",
+    "master": "Food Street",
+    "filename": "CH02_L02_A_Food_Street_Recipe_Counter_Working_View.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_A.png"
+   },
+   {
+    "id": "L02_B",
+    "title": "Recipe and weighing work surface",
+    "master": "Food Street",
+    "filename": "CH02_L02_B_Food_Street_Recipe_Weighing_Work_Surface.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_B.png"
+   },
+   {
+    "id": "L02_C",
+    "title": "Cool filling preparation area",
+    "master": "Food Street",
+    "filename": "CH02_L02_C_Food_Street_Cool_Filling_Preparation_Area.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_C.png"
+   },
+   {
+    "id": "L02_D",
+    "title": "Dispenser controls before adjustment",
+    "master": "Food Street",
+    "filename": "CH02_L02_D_Food_Street_Dispenser_Controls_Unadjusted.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_D.png"
+   },
+   {
+    "id": "L02_E",
+    "title": "Cold test configuration",
+    "master": "Food Street",
+    "filename": "CH02_L02_E_Food_Street_Dispenser_Cold_Test_Configuration.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_E.png"
+   },
+   {
+    "id": "L02_F",
+    "title": "Corrected serving configuration",
+    "master": "Food Street",
+    "filename": "CH02_L02_F_Food_Street_Dispenser_Corrected_Serving.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_F.png"
+   },
+   {
+    "id": "L02_G",
+    "title": "Low plate shelf view",
+    "master": "Food Street",
+    "filename": "CH02_L02_G_Food_Street_Low_Plate_Shelf_View.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L02_G.png"
+   },
+   {
+    "id": "L03_A",
+    "title": "Packing bench and empty trolley",
+    "master": "Food Street",
+    "filename": "CH02_L03_A_Food_Street_Packing_Bench_Empty_Trolley.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_A.png"
+   },
+   {
+    "id": "L03_B",
+    "title": "Recovered stock corner",
+    "master": "Food Street",
+    "filename": "CH02_L03_B_Food_Street_Packing_Recovered_Stock_Corner.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_B.png"
+   },
+   {
+    "id": "L03_C",
+    "title": "Empty loading table mechanism",
+    "master": "Food Street",
+    "filename": "CH02_L03_C_Food_Street_Loading_Table_Empty.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_C.png"
+   },
+   {
+    "id": "L03_D",
+    "title": "Unequal tray loads 25 and 15",
+    "master": "Food Street",
+    "filename": "CH02_L03_D_Food_Street_Loading_Table_25_15.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_D.png"
+   },
+   {
+    "id": "L03_E",
+    "title": "Balanced tray loads 20 and 20",
+    "master": "Food Street",
+    "filename": "CH02_L03_E_Food_Street_Loading_Table_20_20.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_E.png"
+   },
+   {
+    "id": "L03_F",
+    "title": "Remaining tray loads 12 and 12",
+    "master": "Food Street",
+    "filename": "CH02_L03_F_Food_Street_Loading_Table_12_12.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_F.png"
+   },
+   {
+    "id": "L03_G",
+    "title": "Trolley ready for dispatch",
+    "master": "Food Street",
+    "filename": "CH02_L03_G_Food_Street_Packing_Trolley_Ready_For_Dispatch.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L03_G.png"
+   },
+   {
+    "id": "L05_A",
+    "title": "Drink counter working view",
+    "master": "Food Street",
+    "filename": "CH02_L05_A_Food_Street_Drink_Counter_Working_View.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L05_A.png"
+   },
+   {
+    "id": "L05_B",
+    "title": "Low drink counter view",
+    "master": "Food Street",
+    "filename": "CH02_L05_B_Food_Street_Low_Drink_Counter_View.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L05_B.png"
+   },
+   {
+    "id": "L05_C",
+    "title": "Dry weighing and preparation end",
+    "master": "Food Street",
+    "filename": "CH02_L05_C_Food_Street_Dry_Weighing_Preparation_End.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L05_C.png"
+   },
+   {
+    "id": "L04_A",
+    "title": "Service doorway working view",
+    "master": "Old Blue Gate",
+    "filename": "CH02_L04_A_Old_Blue_Gate_Service_Doorway_Working_View.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L04_A.png"
+   },
+   {
+    "id": "L04_B",
+    "title": "Bench writing and waiting view",
+    "master": "Old Blue Gate",
+    "filename": "CH02_L04_B_Old_Blue_Gate_Bench_Writing_Waiting_View.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L04_B.png"
+   },
+   {
+    "id": "L06_A",
+    "title": "Delivery route towards Entry Court",
+    "master": "Covered Return Walk / Food Street",
+    "filename": "CH02_L06_A_Covered_Return_Walk_Towards_Entry_Court.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L06_A.png"
+   },
+   {
+    "id": "L07_A",
+    "title": "View from Food Street threshold",
+    "master": "Parade Ground / Food Street",
+    "filename": "CH02_L07_A_Parade_Ground_From_Food_Street_Threshold.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L07_A.png"
+   },
+   {
+    "id": "L07_B",
+    "title": "Elephant work area",
+    "master": "Parade Ground",
+    "filename": "CH02_L07_B_Parade_Ground_Elephant_Work_Area.png",
+    "plate": "BagroundGenTask/ch02/out/plates/L07_B.png"
+   }
+  ]
+ },
+ "locations": {
+  "CH02 L01": {
+   "name": "Food Street — Master from Lantern Street",
+   "pages": [
+    "P001",
+    "P002",
+    "P006",
+    "P007",
+    "P009",
+    "P059",
+    "P113",
+    "P114",
+    "P115",
+    "P117",
+    "P121",
+    "P142",
+    "P148",
+    "P153",
+    "P154",
+    "P162",
+    "P168",
+    "P169",
+    "P170",
+    "P171",
+    "P173",
+    "P177"
+   ],
+   "records": []
+  },
+  "CH02 L02": {
+   "name": "Food Street — Recipe Counter and Dosa Dispenser",
+   "pages": [
+    "P003",
+    "P004",
+    "P005",
+    "P006",
+    "P010",
+    "P011",
+    "P019",
+    "P025",
+    "P026",
+    "P027",
+    "P033",
+    "P037",
+    "P038",
+    "P042",
+    "P043",
+    "P044",
+    "P045",
+    "P049",
+    "P054",
+    "P055",
+    "P056",
+    "P057",
+    "P058",
+    "P059",
+    "P173",
+    "P174",
+    "P175",
+    "P176"
+   ],
+   "records": []
+  },
+  "CH02 L03": {
+   "name": "Food Street — Packing Bench and Balanced Loading Table",
+   "pages": [
+    "P002",
+    "P006",
+    "P007",
+    "P009",
+    "P059",
+    "P113",
+    "P114",
+    "P115",
+    "P117",
+    "P121",
+    "P142",
+    "P148",
+    "P153",
+    "P154",
+    "P162",
+    "P168",
+    "P169",
+    "P170",
+    "P171",
+    "P173",
+    "P177",
+    "P178"
+   ],
+   "records": []
+  },
+  "CH02 L04": {
+   "name": "Old Blue Gate — Exterior Waiting Lane",
+   "pages": [
+    "P006",
+    "P008",
+    "P059",
+    "P060",
+    "P171",
+    "P172",
+    "P174",
+    "P177"
+   ],
+   "records": []
+  },
+  "CH02 L05": {
+   "name": "Food Street — Drink and Weighing Counter",
+   "pages": [
+    "P061",
+    "P066",
+    "P069",
+    "P073",
+    "P078",
+    "P079",
+    "P084",
+    "P087",
+    "P088",
+    "P089",
+    "P092",
+    "P093",
+    "P094",
+    "P099",
+    "P104",
+    "P105",
+    "P106",
+    "P108",
+    "P112",
+    "P122",
+    "P128",
+    "P133",
+    "P137",
+    "P142",
+    "P173"
+   ],
+   "records": []
+  },
+  "CH02 L06": {
+   "name": "",
+   "pages": [
+    "P059",
+    "P171",
+    "P173"
+   ],
+   "records": []
+  },
+  "CH02 L07": {
+   "name": "Parade Ground — Rehearsal Yard and Visitor Lane",
+   "pages": [
+    "P174",
+    "P177",
+    "P178"
+   ],
+   "records": []
+  }
+ },
+ "cast": {
+  "Ahana": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+   "pages": 54,
+   "speaks": 18
+  },
+  "Blue-waistcoated helper": {
+   "sheet": null,
+   "pages": 1,
+   "speaks": 1
+  },
+  "Drink assistant": {
+   "sheet": null,
+   "pages": 2,
+   "speaks": 2
+  },
+  "Food helper": {
+   "sheet": null,
+   "pages": 4,
+   "speaks": 4
+  },
+  "Girl": {
+   "sheet": null,
+   "pages": 1,
+   "speaks": 1
+  },
+  "Ira": {
+   "sheet": null,
+   "pages": 12,
+   "speaks": 1
+  },
+  "Navya": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+   "pages": 50,
+   "speaks": 14
+  },
+  "Tara": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+   "pages": 47,
+   "speaks": 10
+  },
+  "Tez": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+   "pages": 23,
+   "speaks": 6
+  },
+  "Vihaan": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+   "pages": 37,
+   "speaks": 10
+  }
+ },
+ "status": {
+  "sources": "ok",
+  "register": "ok",
+  "plates": "ok",
+  "masters": "agent: match each master to an image",
+  "locations": "agent: map manuscript locations to register records",
+  "characters": "no sheet for speaking: Blue-waistcoated helper, Drink assistant, Food helper, Girl, Ira",
+  "maths": "agent: 24 FAIL lines in mathscan.txt",
+  "agent_review": "todo"
+ },
+ "resolved": {},
+ "changes": null,
+ "notes": []
+}

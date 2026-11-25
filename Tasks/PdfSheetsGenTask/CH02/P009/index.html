@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH02 P009</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  .shot { position:absolute; margin:0; overflow:hidden; border-radius:3pt; border:.6pt solid rgba(214,166,78,.5); border-top:1pt solid #f7c684;
+          box-shadow:0 10pt 24pt rgba(2,5,14,.55); background:#0a1428; }
+  .shot .fill { position:absolute; }
+  .shot .fill img { position:absolute; left:0; top:0; width:100%; height:100%; display:block; }
+  .glass.strip { padding:8pt 11pt 9pt; border-radius:2pt; box-shadow:0 -4pt 12pt rgba(3,7,18,.25); }
+  .glass.strip::after { display:none; }
+  .glass.strip p { margin:0; font:400 14pt/18pt var(--sans); }
+  .tailsvg { position:absolute; left:0; top:0; overflow:visible; pointer-events:none; }
+  .tailsvg path { fill:#fbf6ea; }
+  .say.b { display:flex; align-items:center; padding:6pt 13pt 7pt; }
+  .hair { position:absolute; height:1pt; background:linear-gradient(90deg,#f7c684,rgba(247,198,132,.85)); box-shadow:0 0 6pt rgba(247,198,132,.6); }
+</style>
+</head>
+<body>
+<div class="page a4" id="page" data-chapter="CH02" data-page="P009">
+<div class="scene"><img src="assets/img/SCENE.jpg" alt=""><i class="shade-top"></i><i class="vignette"></i><i style="position:absolute;left:0;top:0;width:864pt;height:648pt;background:radial-gradient(ellipse 420pt 380pt at 230pt 200pt, rgba(255,170,70,.12), rgba(255,170,70,0))"></i></div>
+<i class="bloom" style="left:330pt; top:40pt; width:250pt; height:300pt; opacity:1"></i>
+<i class="bloom" style="left:360pt; top:120pt; width:170pt; height:220pt; opacity:0.8"></i>
+<div class="folio" style="right:24pt; top:24pt"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="#0c1933" stroke="#cfe0fa" stroke-opacity=".55" stroke-width=".7"/><path d="M10 1 A9 9 0 0 1 10 19 A8.09 9 0 0 0 10 1 Z" fill="#e9f1fc"/></svg>09</div>
+<div class="glass " style="left:22pt; top:22pt; width:280pt; --x:22pt; --y:22pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><p class="voice" style="margin:0">When Pip brings the paper back, Ahana clips it above the packing bench.</p></div>
+<figure class="shot" style="left:22pt; top:130pt; width:372pt; height:279pt; transform:scale(1.2); transform-origin:0 0"><div class="fill" style="left:-0.00pt; top:-0.00pt; width:372.00pt; height:279.00pt"><img src="assets/img/P009-1.jpg" alt=""><div style="position:absolute; left:71.20pt; top:78.11pt; transform:translate(-50%,-50%) rotate(3deg); font:700 20.34pt/1 var(--hand); color:rgba(52,57,68,.88); text-shadow:0 0 .5pt rgba(52,57,68,.6); white-space:nowrap; letter-spacing:-.01em">16<i style="position:absolute; left:13.43pt; top:15.87pt; width:10.17pt; height:2.85pt; border-radius:50%; background:radial-gradient(ellipse,rgba(60,63,74,.22),rgba(60,63,74,0) 70%)"></i></div></div></figure>
+<figure class="shot" style="left:480pt; top:330pt; width:362pt; height:296pt"><div class="fill" style="left:-6.53pt; top:-0.00pt; width:394.67pt; height:296.00pt"><img src="assets/img/P009-2.jpg" alt=""><div style="position:absolute; left:66.29pt; top:57.81pt; transform:translate(-50%,-50%) rotate(4deg); font:700 26.98pt/1 var(--hand); color:rgba(52,57,68,.88); text-shadow:0 0 .5pt rgba(52,57,68,.6); white-space:nowrap; letter-spacing:-.01em">16<i style="position:absolute; left:17.81pt; top:21.04pt; width:13.49pt; height:3.78pt; border-radius:50%; background:radial-gradient(ellipse,rgba(60,63,74,.22),rgba(60,63,74,0) 70%)"></i></div></div></figure>
+<div class="say b " style="left:545pt; top:304pt; width:215pt; height:58pt; box-sizing:border-box"><span>Now we know who is waiting for the first drinks.</span><svg class="tailsvg" style="width:215pt;height:58pt" viewBox="0 0 215 58"><path d="M86.0 56 Q89.0 82.4 96.0 104.0 Q97.0 75.2 104.0 56 Z"/></svg></div>
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

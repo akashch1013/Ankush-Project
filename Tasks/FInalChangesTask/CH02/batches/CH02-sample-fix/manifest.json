@@ -1,0 +1,20 @@
+{
+ "name": "CH02-sample-fix",
+ "created": "2026-11-23T21:20:53",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P001-1",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x768",
+   "prompt_sha": "e23ef353859c",
+   "refs": [
+    "item:P001-1"
+   ],
+   "instruction": "Preserve the current composition, character identities and poses, lighting, background and all objects. Change only the brass bowl by making exactly one bowl visibly wedged beneath the nearest cart wheel so the wheel is clearly pressing against its rim; keep the bowl intact and keep all other background bowls in their original places. No other changes.",
+   "custom_id": "P001-1~fix~2"
+  }
+ ],
+ "bytes": 402194
+}

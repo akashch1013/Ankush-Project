@@ -1,0 +1,109 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE127
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE127-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Example 31; Your turn after Example 31
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+A percentage can also be written as a decimal. The % sign still tells us to divide by 100. Let’s watch the place values.
+Example 31
+[Question] Express each percentage as a decimal.
+[Question] (a)  5%
+[Question] (b)  115%
+Let’s work it through
+[WorkedStep] (a)  5% means 5/100. That is five hundredths, so 5% = 0.05. Put a zero in the tenths place; 0.5 would mean fifty hundredths, or 50%.
+[WorkedStep] (b)  115% = 115/100 = 1 + 15/100 = 1.15. Check: 100% supplies the 1 whole and the extra 15% supplies 0.15.
+Your turn after Example 31
+[Question] Express each percentage as a decimal.
+[Question] (a)  90%
+[Question] (b)  180%
+Check your method
+[WorkedStep] (a)  90% = 90 ÷ 100 = 0.9.
+[WorkedStep] (b)  180% = 180 ÷ 100 = 1.8.
+[PanelizationEnd] END PANEL CH02-PAGE127-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE127-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Example 32; Your turn after Example 32
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL02; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 32
+[Question] Express each percentage as a decimal.
+[Question] (a)  15 1/2%
+[Question] (b)  38.3%
+Let’s work it through
+[WorkedStep] (a) Since 1/2 = 0.5, the number 15 1/2 becomes 15 + 0.5 = 15.5.
+[WorkedStep] Now divide 15.5 by 100. We can divide by 10 twice: 15.5 ÷ 10 = 1.55, then 1.55 ÷ 10 = 0.155. Therefore 15 1/2% = 15.5 ÷ 100 = 0.155.
+[WorkedStep] (b) 38.3% = 38.3 ÷ 100 = 0.383.
+[WorkedStep] Check: 15 1/2% and 38.3% are both below 100%, and their decimals, 0.155 and 0.383, are both below 1.
+Your turn after Example 32
+[Question] Express each percentage as a decimal.
+[Question] (a)  5 3/4%
+[Question] (b)  72.5%
+Check your method
+[WorkedStep] (a)  3/4 = (3 × 25)/(4 × 25) = 75/100 = 0.75, so 5 3/4% = 5.75 ÷ 100 = 0.0575.
+[WorkedStep] (b) 72.5% = 72.5 ÷ 100 = 0.725.
+We can now write a percentage as a fraction or a decimal. Next, let’s look carefully at what the percentage describes: books in a library, or extra bread in a packet.
+[PanelizationEnd] END PANEL CH02-PAGE127-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE127-PANEL03
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Example 33; Your turn after Example 33
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE127-PANEL03; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 33
+[Question] In a library, 40% of the books are storybooks. Express the number of storybooks as a fraction of all the books.
+Let’s work it through
+[WorkedStep] Here the whole collection means all the books. 40% = 40/100 = (40 ÷ 20)/(100 ÷ 20) = 2/5.
+[WorkedStep] So 2/5 of the books are storybooks. This describes a fraction of the collection, not a claim that the library has only 100 books.
+Your turn after Example 33
+[Question] In the same library, 55% of the books are non-English books. Express this as a fraction of all the books.
+Check your method
+[WorkedStep] 55% = 55/100 = (55 ÷ 5)/(100 ÷ 5) = 11/20. So 11/20 of all the books are non-English books.
+[PanelizationEnd] END PANEL CH02-PAGE127-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 128

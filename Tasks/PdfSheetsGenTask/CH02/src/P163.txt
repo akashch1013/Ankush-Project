@@ -1,0 +1,55 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE163
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE163-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Revision Question 14; Revision Question 15; Revision Question 16
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE163-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Revision Question 14
+[Question] Evaluate.
+[Question] (a)  0.3 × 10⁴
+[Question] (b)  64.1 × 10²
+[Question] (c)  80.3 ÷ 10³
+[Question] (d)  77 230 ÷ 10⁴
+Check your method
+[WorkedStep] (a)  0.3 × 10 000 = 3000.
+[WorkedStep] (b)  64.1 × 100 = 6410.
+[WorkedStep] (c)  80.3 ÷ 1000 = 0.0803.
+[WorkedStep] (d)  77 230 ÷ 10 000 = 7.723.
+Revision Question 15
+[Question] Mrs Li buys 500 g of flour at $0.28 per 100 g, one packet of sugar for $1.20, and 200 g of butter at $0.49 per 100 g. Find the total cost.
+Check your method
+[WorkedStep] Flour costs $0.28 for each 100 g. The 500 g of flour contains 500 ÷ 100 = 5 groups of 100 g. Flour cost = 5 × $0.28 = $1.40.
+[WorkedStep] Butter costs $0.49 for each 100 g. The 200 g of butter contains 200 ÷ 100 = 2 groups of 100 g. Butter cost = 2 × $0.49 = $0.98.
+[WorkedStep] The sugar packet costs $1.20. Add the three costs: $1.40 + $1.20 = $2.60; $2.60 + $0.98 = $3.58. Mrs Li pays $3.58 altogether.
+Revision Question 16
+[Question] A basket contains 2 kg of apples at $4.20 per kg, 3 kg of grapes at $2.50 per kg and 4 kg of bananas at $1.75 per kg.
+[Question] (a)  Find the total mass.
+[Question] (b)  Find the total cost.
+Check your method
+[WorkedStep] (a)  2 + 3 + 4 = 9 kg.
+[WorkedStep] (b)  Apples: 2 × $4.20 = $8.40. Grapes: 3 × $2.50 = $7.50. Bananas: 4 × $1.75 = $7.00.
+[WorkedStep] Total cost: $8.40 + $7.50 + $7.00 = $22.90.
+[PanelizationEnd] END PANEL CH02-PAGE163-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 164

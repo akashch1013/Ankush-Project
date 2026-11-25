@@ -1,0 +1,40 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE077
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE077-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Practice 2E Question 8
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE077-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2E Question 8
+[Question] Use the fractions 3/4, 1/5, 8/10, 9/20 and 11/5.
+[Question] (a)  Express each as a decimal, then arrange the fractions in ascending order.
+[Question] (b)  Without converting to decimals, explain how to arrange the fractions in descending order.
+Check your method
+[WorkedStep] (a)  3/4 = (3 × 25)/(4 × 25) = 75/100 = 0.75; 1/5 = (1 × 2)/(5 × 2) = 2/10 = 0.2; 8/10 = 0.8; 9/20 = (9 × 5)/(20 × 5) = 45/100 = 0.45; 11/5 = (11 × 2)/(5 × 2) = 22/10 = 2.2.
+[WorkedStep] Compare 0.2 < 0.45 < 0.75 < 0.8 < 2.2. Ascending order: 1/5, 9/20, 3/4, 8/10, 11/5.
+[WorkedStep] (b)  11/5 is the only fraction greater than 1, so it comes first. Use twentieths for the others: 3/4 = (3 × 5)/(4 × 5) = 15/20; 1/5 = (1 × 4)/(5 × 4) = 4/20; 8/10 = (8 × 2)/(10 × 2) = 16/20; 9/20 stays 9/20.
+[WorkedStep] Compare 16 > 15 > 9 > 4. Descending order: 11/5, 8/10, 3/4, 9/20, 1/5.
+[PanelizationEnd] END PANEL CH02-PAGE077-PANEL01
+[ProductionLabel] END TEACHING BLOCK T2.5 — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 078

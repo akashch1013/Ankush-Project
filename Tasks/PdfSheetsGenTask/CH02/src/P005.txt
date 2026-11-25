@@ -1,0 +1,186 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE005
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 01F A; Visual beat CH02 01F B; Visual beat CH02 01F C; Visual beat CH02 01F D; Visual beat CH02 01F E; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 01F A; Visual beat CH02 01F B; Visual beat CH02 01F C; Visual beat CH02 01F D; Visual beat CH02 01F E; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 01F A; Visual beat CH02 01F B; Visual beat CH02 01F C; Visual beat CH02 01F D; Visual beat CH02 01F E; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 01F A; Visual beat CH02 01F B; Visual beat CH02 01F C; Visual beat CH02 01F D; Visual beat CH02 01F E; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 01F A; Visual beat CH02 01F B; Visual beat CH02 01F C; Visual beat CH02 01F D; Visual beat CH02 01F E; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 01 A kitchen with conflicting instructions
+[PaginationMetadata] Applies to: Visual beat CH02 01F A; Visual beat CH02 01F B; Visual beat CH02 01F C; Visual beat CH02 01F D; Visual beat CH02 01F E; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 01F; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 01F; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 01F Close the supply before checking
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE005-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 01F A The wrong stop
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; Scene CH02 01F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; Scene CH02 01F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; Scene CH02 01F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; Scene CH02 01F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; Scene CH02 01F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL01; Visual beat CH02 01F A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01F A The wrong stop
+[ProductionNote] Moment and staging. The food helper points at the cup’s stop with its right index finger; its left hand rests on the dry back edge. It looks towards Tara. The children keep their hands on the cool side. Do not display the correct one-sixth result yet.
+[ProductionNote] DO NOT PRINT — Speaker: Food helper | Tail target: Food helper’s visible mouth | Source speech attribution: the helper says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The cup stops at the wrong position.
+[PanelizationEnd] END PANEL CH02-PAGE005-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE005-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 01F B Too much or too little
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; Scene CH02 01F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; Scene CH02 01F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; Scene CH02 01F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; Scene CH02 01F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; Scene CH02 01F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL02; Visual beat CH02 01F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01F B Too much or too little
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character positions specified in Scene CH02 01F. The helper withdraws its right pointing finger and opens that palm beside the cup, its left hand still on the dry back edge. It tilts its head towards the two cooked portions. Only its gesture, gaze and dialogue change.
+[ProductionNote] DO NOT PRINT — Speaker: Food helper | Tail target: Food helper’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Sometimes it fills too much. Sometimes too little.
+[PanelizationEnd] END PANEL CH02-PAGE005-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE005-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 01F C Supply shut
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; Scene CH02 01F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; Scene CH02 01F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; Scene CH02 01F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; Scene CH02 01F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; Scene CH02 01F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL03; Visual beat CH02 01F C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01F C Supply shut
+[ProductionNote] Moment and staging. Tara closes the accessible supply tap with her left hand, staff in her right. The helper has withdrawn both hands from the control. Ahana, Vihaan and Navya watch; no batter stream is visible. Freeze at the closed tap.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara closes the dispenser’s supply tap.
+[PanelizationEnd] END PANEL CH02-PAGE005-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE005-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 01F D Check stock, then the serving
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; Scene CH02 01F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; Scene CH02 01F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; Scene CH02 01F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; Scene CH02 01F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; Scene CH02 01F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL04; Visual beat CH02 01F D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01F D Check stock, then the serving
+[ProductionNote] Moment and staging. Retain the camera and character locations specified in Scene CH02 01F. The tap is now closed. Tara removes her left hand from it and gestures towards the two cooked plates, palm down, while speaking firmly to the crew. The helper keeps the plates aside. Staff stays in her right hand.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We will check the food we have, then the amount for one serving. Keep the cooked dosas aside. A new setting will change the next pour, not the food already on these plates.
+[PanelizationEnd] END PANEL CH02-PAGE005-PANEL04
+[PanelizationHeading] PANEL CH02-PAGE005-PANEL05
+[PanelizationMetadata] SOURCE: Visual beat CH02 01F E Use the original book
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; Scene CH02 01F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; Scene CH02 01F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; Scene CH02 01F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; Scene CH02 01F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01F Close the supply before checking
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; Scene CH02 01F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 01F C Supply shut
+[PanelizationMetadata] APPLIES TO: CH02-PAGE005-PANEL05; Visual beat CH02 01F E; retained closed tap only
+[ProductionNote] Freeze at the closed tap.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01F E Use the original book
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background, character locations and closed tap specified in Scene CH02 01F and Visual beat CH02 01F C. Tara lowers her left index finger towards the cupboard, changing her gaze from the plates to the helper. She keeps the staff in her right hand. The closed supply and wrong portion stop persist.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth | Source speech attribution: Tara says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] First, we compare the loose cards with the helper’s original recipe book.
+[PanelizationEnd] END PANEL CH02-PAGE005-PANEL05
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 006

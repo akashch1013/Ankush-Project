@@ -1,0 +1,128 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE057
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 06E A; Visual beat CH02 06E B; Visual beat CH02 06E C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 06E A; Visual beat CH02 06E B; Visual beat CH02 06E C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 06E A; Visual beat CH02 06E B; Visual beat CH02 06E C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 06E A; Visual beat CH02 06E B; Visual beat CH02 06E C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 06 The next dosa
+[PaginationMetadata] Applies to: Visual beat CH02 06E A; Visual beat CH02 06E B; Visual beat CH02 06E C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06E; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06E; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 06E One controlled pour
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium across the cool guard to the tank, measuring cup and cooking surface. Ahana’s safe handle and Tara’s shut-off must both remain visible.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; stop ⅙ kg. Supply tap open initially; cup charged, outlet closed. Lowering the handle first isolates the tank feed and then opens only the cup outlet, as specified in Location CH02 L02. This is the first hot pour from the checked ⅔ kg batch. The food helper alone handles the hot cooking surface.
+[ProductionNote] Planning requirements. Use distinct supervision, handle/pour and stopped-flow moments. No simultaneous before-and-after cup positions.
+[PanelizationHeading] PANEL CH02-PAGE057-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 06E A Ready to stop and read
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; Scene CH02 06E; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; Scene CH02 06E; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool guard to the tank, measuring cup and cooking surface. Ahana’s safe handle and Tara’s shut-off must both remain visible.
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; Scene CH02 06E; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; Scene CH02 06E; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; stop ⅙ kg. Supply tap open initially; cup charged, outlet closed. Lowering the handle first isolates the tank feed and then opens only the cup outlet, as specified in Location CH02 L02. This is the first hot pour from the checked ⅔ kg batch. The food helper alone handles the hot cooking surface.
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; Scene CH02 06E; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use distinct supervision, handle/pour and stopped-flow moments. No simultaneous before-and-after cup positions.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL01; Visual beat CH02 06E A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06E A Ready to stop and read
+[ProductionNote] Moment and staging. Tara watches the shut-off with her left hand poised beside it and staff right. Vihaan reads the ⅙ kg serving mark, right index finger pointing from the cool side and left hand empty at his side. Ahana grips the raised handle with her right hand, left hand on the cool guard. Navya stands clear.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara watches the shut-off tap. Vihaan reads the serving amount.
+[PanelizationEnd] END PANEL CH02-PAGE057-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE057-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 06E B Lower the handle
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; Scene CH02 06E; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; Scene CH02 06E; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool guard to the tank, measuring cup and cooking surface. Ahana’s safe handle and Tara’s shut-off must both remain visible.
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; Scene CH02 06E; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; Scene CH02 06E; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; stop ⅙ kg. Supply tap open initially; cup charged, outlet closed. Lowering the handle first isolates the tank feed and then opens only the cup outlet, as specified in Location CH02 L02. This is the first hot pour from the checked ⅔ kg batch. The food helper alone handles the hot cooking surface.
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; Scene CH02 06E; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use distinct supervision, handle/pour and stopped-flow moments. No simultaneous before-and-after cup positions.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL02; Visual beat CH02 06E B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06E B Lower the handle
+[ProductionNote] Moment and staging. Retain the camera and character locations specified in Scene CH02 06E. Ahana lowers the long handle with her right hand; her left stays on the cool guard. Freeze with the handle lowered: the interlock has shut the tank feed and one measured cup releases batter onto the hot plate. The tank cannot feed a continuous stream. Tara’s left remains ready at the shut-off and Vihaan keeps his hands clear.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana lowers the handle.
+[PanelizationEnd] END PANEL CH02-PAGE057-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE057-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 06E C Flow stopped
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; Scene CH02 06E; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; Scene CH02 06E; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool guard to the tank, measuring cup and cooking surface. Ahana’s safe handle and Tara’s shut-off must both remain visible.
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; Scene CH02 06E; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; Scene CH02 06E; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; stop ⅙ kg. Supply tap open initially; cup charged, outlet closed. Lowering the handle first isolates the tank feed and then opens only the cup outlet, as specified in Location CH02 L02. This is the first hot pour from the checked ⅔ kg batch. The food helper alone handles the hot cooking surface.
+[PanelizationMetadata] SOURCE: Scene CH02 06E One controlled pour
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; Scene CH02 06E; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use distinct supervision, handle/pour and stopped-flow moments. No simultaneous before-and-after cup positions.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE057-PANEL03; Visual beat CH02 06E C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06E C Flow stopped
+[ProductionNote] Moment and staging. Separate result panel retaining the camera, background, character locations and corrected stop specified in Scene CH02 06E. The batter stream has stopped after one measured cup. Ahana holds the lowered handle right and looks at the plate. Tara relaxes her left hand slightly but remains beside the shut-off. The cup is empty and the lowered handle keeps the tank feed isolated. No second stream or second dosa appears.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] One measured cup of batter falls onto the cooking surface; then the flow stops.
+[PanelizationEnd] END PANEL CH02-PAGE057-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 058

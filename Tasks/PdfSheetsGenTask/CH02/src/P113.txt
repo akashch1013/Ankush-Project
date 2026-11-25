@@ -1,0 +1,140 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE113
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 11C A; Visual beat CH02 11C B; Visual beat CH02 11C C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 11C A; Visual beat CH02 11C B; Visual beat CH02 11C C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 11C A; Visual beat CH02 11C B; Visual beat CH02 11C C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 11C A; Visual beat CH02 11C B; Visual beat CH02 11C C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 11C A; Visual beat CH02 11C B; Visual beat CH02 11C C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 11 A clear record of the changes
+[PaginationMetadata] Applies to: Visual beat CH02 11C A; Visual beat CH02 11C B; Visual beat CH02 11C C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 11C; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 11C; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 11C; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 11C Tez’s clean-up plan
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Low medium beside the parked trolley at the packing bench; right-counter end is beyond it and Return Walk doorway remains near-left.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Sixteen cups are full in the upper carrier. The snack tray is empty. Navya has left the record pencil on the dry drink counter. No spill has actually occurred. Before this view, the broad helper returns the same trolley from the drink counter to the packing bench, using both hands on its handle. The sixteen full cups stay upright in their slots; their caps are added later in CH02 12C C. The trio and Tara walk back along the clear lane; Tez follows clear of the wheels. Show the completed arrival, not simultaneous travel and conversation.
+[ProductionNote] Planning requirements. This joke does not authorise Tez to lick food equipment, carry a cloth in human hands or drink from the first sixteen cups.
+[PanelizationHeading] PANEL CH02-PAGE113-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 11C A An offer to help
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; Scene CH02 11C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; Scene CH02 11C; view; assigned beat stage only
+[ProductionNote] View. Low medium beside the parked trolley at the packing bench; right-counter end is beyond it and Return Walk doorway remains near-left.
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; Scene CH02 11C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; Scene CH02 11C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Sixteen cups are full in the upper carrier. The snack tray is empty. Navya has left the record pencil on the dry drink counter. No spill has actually occurred. Before this view, the broad helper returns the same trolley from the drink counter to the packing bench, using both hands on its handle. The sixteen full cups stay upright in their slots; their caps are added later in CH02 12C C. The trio and Tara walk back along the clear lane; Tez follows clear of the wheels. Show the completed arrival, not simultaneous travel and conversation.
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; Scene CH02 11C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. This joke does not authorise Tez to lick food equipment, carry a cloth in human hands or drink from the first sixteen cups.
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL01; Visual beat CH02 11C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11C A An offer to help
+[ProductionNote] Moment and staging. Tez sits on his haunches beside the stationary trolley, forepaws together and ears hopeful, looking up at Navya. Navya stands at the clear side of the trolley with both hands empty. Ahana and Vihaan remain by the bench.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tez sits by the trolley.
+[ProductionNote] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I’ll clean up any spills.
+[PanelizationEnd] END PANEL CH02-PAGE113-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE113-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 11C B Navya names the tool
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; Scene CH02 11C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; Scene CH02 11C; view; assigned beat stage only
+[ProductionNote] View. Low medium beside the parked trolley at the packing bench; right-counter end is beyond it and Return Walk doorway remains near-left.
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; Scene CH02 11C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; Scene CH02 11C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Sixteen cups are full in the upper carrier. The snack tray is empty. Navya has left the record pencil on the dry drink counter. No spill has actually occurred. Before this view, the broad helper returns the same trolley from the drink counter to the packing bench, using both hands on its handle. The sixteen full cups stay upright in their slots; their caps are added later in CH02 12C C. The trio and Tara walk back along the clear lane; Tez follows clear of the wheels. Show the completed arrival, not simultaneous travel and conversation.
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; Scene CH02 11C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. This joke does not authorise Tez to lick food equipment, carry a cloth in human hands or drink from the first sixteen cups.
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL02; Visual beat CH02 11C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11C B Navya names the tool
+[ProductionNote] Moment and staging. Navya looks down at Tez, a small amused smile, and points with her right index finger to a folded clean cloth on the dry bench. Her left hand rests on the clear trolley rail away from the cups. Tez stays seated; the cloth is not handed over.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] With a cloth.
+[PanelizationEnd] END PANEL CH02-PAGE113-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE113-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 11C C Not Tez’s plan
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; Scene CH02 11C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; Scene CH02 11C; view; assigned beat stage only
+[ProductionNote] View. Low medium beside the parked trolley at the packing bench; right-counter end is beyond it and Return Walk doorway remains near-left.
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; Scene CH02 11C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; Scene CH02 11C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. Sixteen cups are full in the upper carrier. The snack tray is empty. Navya has left the record pencil on the dry drink counter. No spill has actually occurred. Before this view, the broad helper returns the same trolley from the drink counter to the packing bench, using both hands on its handle. The sixteen full cups stay upright in their slots; their caps are added later in CH02 12C C. The trio and Tara walk back along the clear lane; Tez follows clear of the wheels. Show the completed arrival, not simultaneous travel and conversation.
+[PanelizationMetadata] SOURCE: Scene CH02 11C Tez’s clean-up plan
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; Scene CH02 11C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. This joke does not authorise Tez to lick food equipment, carry a cloth in human hands or drink from the first sixteen cups.
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE113-PANEL03; Visual beat CH02 11C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11C C Not Tez’s plan
+[ProductionNote] Moment and staging. Separate reaction panel retaining the camera, background and character locations specified in Scene CH02 11C. Tez tilts his head, ears slightly lowered, forepaws still on the paving, and looks up at Navya with disappointed dignity. Navya lowers her pointing hand. The full cups and cloth remain untouched.
+[ProductionNote] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That was not my plan.
+[PanelizationEnd] END PANEL CH02-PAGE113-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 114

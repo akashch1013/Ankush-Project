@@ -1,0 +1,46 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE067
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.4
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.4
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.4; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE067-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.4; Practice 2D; Practice 2D Question 1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE067-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2D
+Practice 2D Question 1
+[Question] Convert the fractions to decimals.
+[Question] (a)  1/4
+[Question] (b)  6/5
+[Question] (c)  103/100
+[Question] (d)  1 12/60
+[Question] (e)  3 9/25
+[Question] (f)  80/125
+Check your method
+[WorkedStep] (a) We can make hundredths directly: 1/4 = (1 × 25)/(4 × 25) = 25/100 = 0.25.
+[WorkedStep] (b) 6/5 = (6 × 2)/(5 × 2) = 12/10 = 1.2.
+[WorkedStep] (c) Separate 100 hundredths from the 103 hundredths: 103/100 = 100/100 + 3/100 = 1 + 0.03 = 1.03. The zero shows that there are no tenths.
+[WorkedStep] (d) 12/60 = (12 ÷ 12)/(60 ÷ 12) = 1/5 = (1 × 2)/(5 × 2) = 2/10 = 0.2. So 1 12/60 = 1 + 0.2 = 1.2.
+[WorkedStep] (e)  Change the fractional part to hundredths: 9/25 = (9 × 4)/(25 × 4) = 36/100 = 0.36. Then 3 9/25 = 3.36.
+[WorkedStep] (f)  80/125 = (80 ÷ 5)/(125 ÷ 5) = 16/25 = (16 × 4)/(25 × 4) = 64/100 = 0.64.
+[PanelizationEnd] END PANEL CH02-PAGE067-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 068

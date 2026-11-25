@@ -1,0 +1,73 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE021
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE021-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Practice 2A Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2A Question 2
+[Question] Arrange the fractions in ascending order.
+[Question] (a)  3/2, 6/5, 13/10
+[Question] (b)  7/4, 23/12, 11/6
+[Question] (c)  45/19, 89/38, 7/2
+Check your method
+[WorkedStep] (a)  Use a common denominator of 10: 3/2 = (3 × 5)/(2 × 5) = 15/10, 6/5 = (6 × 2)/(5 × 2) = 12/10, 13/10.
+[WorkedStep] Smallest to greatest: 6/5, 13/10, 3/2.
+[WorkedStep] (b)  Use a common denominator of 12: 7/4 = (7 × 3)/(4 × 3) = 21/12, 23/12, 11/6 = (11 × 2)/(6 × 2) = 22/12.
+[WorkedStep] Smallest to greatest: 7/4, 11/6, 23/12.
+[WorkedStep] (c)  Use a common denominator of 38: 45/19 = (45 × 2)/(19 × 2) = 90/38, 89/38, 7/2 = (7 × 19)/(2 × 19) = 133/38.
+[WorkedStep] Smallest to greatest: 89/38, 45/19, 7/2.
+[PanelizationEnd] END PANEL CH02-PAGE021-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE021-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Practice 2A Question 3
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE021-PANEL02; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2A Question 3
+[Question] Arrange the fractions in descending order.
+[Question] (a)  19/14, 10/7, 3/2
+[Question] (b)  32/13, 61/26, 31/13
+[Question] (c)  39/11, 7/2, 81/22
+Check your method
+[WorkedStep] (a)  Use a common denominator of 14: 19/14, 10/7 = (10 × 2)/(7 × 2) = 20/14, 3/2 = (3 × 7)/(2 × 7) = 21/14.
+[WorkedStep] Greatest to smallest: 3/2, 10/7, 19/14.
+[WorkedStep] (b)  Use a common denominator of 26: 32/13 = (32 × 2)/(13 × 2) = 64/26, 61/26, 31/13 = (31 × 2)/(13 × 2) = 62/26.
+[WorkedStep] Greatest to smallest: 32/13, 31/13, 61/26.
+[WorkedStep] (c)  Use a common denominator of 22: 39/11 = (39 × 2)/(11 × 2) = 78/22, 7/2 = (7 × 11)/(2 × 11) = 77/22, 81/22.
+[WorkedStep] Greatest to smallest: 81/22, 39/11, 7/2.
+[PanelizationEnd] END PANEL CH02-PAGE021-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 022

@@ -1,0 +1,79 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE092
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7A
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7A
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7A; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q08; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE092-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7A; Your turn after Example 21
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL01; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 21
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  16.42 − 1.5
+[Question] (b)  28.3 − 1.676 − 12.57
+Check your method
+[WorkedStep] (a) Estimate: 16 − 2 = 14. For the exact answer, write 1.5 as 1.50 and subtract in columns:
+[ProductionLabel] DO NOT PRINT — Figure reference: V27f-R | The following caption sentence is printable unchanged.
+[Caption] Line up the decimal points; show the borrowing above the digits.
+[ProductionNote] Production note V27f-R — Vertical subtraction 16.42 − 1.50 = 14.92. Cross out the original ones digit 6 and tenths digit 4; write replacement numbers 5 and 14 directly above them. Align the decimal points and all place values. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] 16.42 − 1.50 = 14.92.
+[WorkedStep] (b) Estimate: 28 − 2 − 13 = 13. Now subtract from left to right. Write 28.3 as 28.300 so the decimal places line up.
+[WorkedStep] The two zeros in 28.300 mean the borrowing passes through more than one column. Follow the small replacement numbers in the first subtraction. Then use its answer, 26.624, to start the second subtraction.
+[ProductionLabel] DO NOT PRINT — Figure reference: V27e-R | The following caption sentence is printable unchanged.
+[Caption] Finish the first subtraction, then use its answer in the second.
+[ProductionNote] Production note V27e-R — Two vertical subtractions, read left to right: 28.300 − 1.676 = 26.624, then 26.624 − 12.570 = 14.054. In the first top row, the ones, tenths, hundredths and thousandths become 7, 12, 9 and 10. In the second top row, the tenths and hundredths become 5 and 12. Cross out changed digits and place teal replacements directly above their own columns. Retain all decimal points and zeros. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] So 28.3 − 1.676 − 12.57 = 14.054.
+[WorkedStep] Check: 14.054 + 12.570 + 1.676 = 28.300.
+[PanelizationEnd] END PANEL CH02-PAGE092-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE092-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q08
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL02; Companion inset CH02 Q08; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL02; Companion inset CH02 Q08; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL02; Companion inset CH02 Q08; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL02; Companion inset CH02 Q08; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL02; Companion inset CH02 Q08; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE092-PANEL02; Companion inset CH02 Q08; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q08
+[ProductionNote] Staging. Ahana stands beside the dry counter, right index finger making a small vertical alignment gesture in clear air and left hand relaxed at her side. She faces the reader. Use the blue wall and fixed lamp glow, with all actual transfer equipment outside the crop.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Line up the points. Then let the digits do their jobs.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE092-PANEL02
+[ProductionLabel] END TEACHING BLOCK T2.7A — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 093

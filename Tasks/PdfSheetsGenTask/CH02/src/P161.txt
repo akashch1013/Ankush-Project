@@ -1,0 +1,54 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE161
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE161-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Revision Question 10; Revision Question 11
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE161-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Revision Question 10
+[Question] Arrange each list in ascending order.
+[Question] (a)  3/20, 8 25/100, 0.8215
+[Question] (b)  −0.8, 8.1, −8 2/5
+Check your method
+[WorkedStep] (a) 3/20 = (3 × 5)/(20 × 5) = 15/100 = 0.15. Also, 8 25/100 = 8 + 0.25 = 8.25. Now compare 0.1500, 0.8215 and 8.2500: 0.15 < 0.8215 < 8.25.
+[WorkedStep] Ascending order: 3/20, 0.8215, 8 25/100.
+[WorkedStep] (b) 2/5 = (2 × 2)/(5 × 2) = 4/10 = 0.4, so −8 2/5 = −(8 + 0.4) = −8.4. This is 8.4 below zero; −0.8 is only 0.8 below zero. Thus −8.4 < −0.8 < 8.1.
+[WorkedStep] Ascending order: −8 2/5, −0.8, 8.1.
+Revision Question 11
+[Question] Evaluate without a calculator.
+[Question] (a)  29.95 + 81.43 + 6.72
+[Question] (b)  3.75 + 5.1 + 1.72
+[Question] (c)  0.014 + 0.121 + 0.003
+[Question] (d)  6.711 × 10
+[Question] (e)  (−0.05) × 2
+[Question] (f)  (−0.35) × 2
+Check your method
+[WorkedStep] (a) Line up the decimal places: 29.95 + 81.43 = 111.38; 111.38 + 6.72 = 118.10 = 118.1.
+[WorkedStep] (b)  3.75 + 5.10 = 8.85; 8.85 + 1.72 = 10.57.
+[WorkedStep] (c) Line up thousandths: 0.014 + 0.121 = 0.135; 0.135 + 0.003 = 0.138.
+[WorkedStep] (d) Multiplying by 10 moves each digit one place left in the place-value chart: 6.711 × 10 = 67.11.
+[WorkedStep] (e) (−0.05) × 2 = −0.05 + (−0.05) = −0.10 = −0.1.
+[WorkedStep] (f) Similarly, (−0.35) × 2 = −0.35 + (−0.35) = −0.70 = −0.7.
+[PanelizationEnd] END PANEL CH02-PAGE161-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 162

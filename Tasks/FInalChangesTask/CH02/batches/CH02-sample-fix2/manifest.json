@@ -1,0 +1,20 @@
+{
+ "name": "CH02-sample-fix2",
+ "created": "2026-11-23T21:33:56",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P001-1",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x768",
+   "prompt_sha": "39a2b6078c0c",
+   "refs": [
+    "item:P001-1"
+   ],
+   "instruction": "Keep every character, pose, outfit, lighting, camera framing and background detail unchanged. Correct the focal prop unmistakably: place exactly one brass bowl partly underneath the bottom edge of the cart wheel nearest Vihaan, with the wheel visibly overlapping and pressing against the bowl rim so the bowl is visibly trapped. Remove the loose bowl immediately beside that same wheel; other bowls may remain in their original background positions. The trapped bowl must not be merely beside the wheel or on open floor.",
+   "custom_id": "P001-1~fix~3"
+  }
+ ],
+ "bytes": 370372
+}

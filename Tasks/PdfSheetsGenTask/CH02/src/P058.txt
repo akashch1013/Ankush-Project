@@ -1,0 +1,118 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE058
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 06F A; Visual beat CH02 06F B; Visual beat CH02 06F C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 06F A; Visual beat CH02 06F B; Visual beat CH02 06F C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 06F A; Visual beat CH02 06F B; Visual beat CH02 06F C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 06F A; Visual beat CH02 06F B; Visual beat CH02 06F C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 06F A; Visual beat CH02 06F B; Visual beat CH02 06F C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 06 The next dosa
+[PaginationMetadata] Applies to: Visual beat CH02 06F A; Visual beat CH02 06F B; Visual beat CH02 06F C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06F; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06F; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 06F The next dosa fits
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE058-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 06F A Cook the measured portion
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; Scene CH02 06F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; Scene CH02 06F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; Scene CH02 06F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; Scene CH02 06F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; Scene CH02 06F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL01; Visual beat CH02 06F A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06F A Cook the measured portion
+[ProductionNote] Moment and staging. Silent intermediate view. The food helper spreads and cooks the one portion on the hot surface with its right-hand cooking tool; its left stays at the safe back work edge. The children watch from the cool side, hands clear. No finished second dosa is visible.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE058-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE058-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 06F B One plate, one fitting dosa
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; Scene CH02 06F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; Scene CH02 06F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; Scene CH02 06F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; Scene CH02 06F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; Scene CH02 06F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL02; Visual beat CH02 06F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06F B One plate, one fitting dosa
+[ProductionNote] Moment and staging. Freeze as the helper lifts the finished dosa onto the first waiting plate, tool right and plate supported with its left at the dry shelf. It fits the plate. The three other waiting plates remain empty; the old oversized dosa is unchanged farther along the shelf. Keep the three remaining equal batter portions as a trusted dispenser/recipe record, not three cooked dosas.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper spreads and cooks it, then lifts the finished dosa onto a plate. This one fits. Three equal batter portions remain for the next three dosas. The old oversized dosa has not changed; the next pour has.
+[PanelizationEnd] END PANEL CH02-PAGE058-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE058-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 06F C Dinner looks possible
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; Scene CH02 06F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; Scene CH02 06F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; Scene CH02 06F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; Scene CH02 06F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; Scene CH02 06F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE058-PANEL03; Visual beat CH02 06F C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06F C Dinner looks possible
+[ProductionNote] Moment and staging. Ahana has both hands free at the cool shelf edge and grins at the fitting dosa. Navya and Vihaan smile towards the result; Tara watches with quiet approval, staff right. Tez looks up from below the shelf. No one touches the hot plate.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana grins.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] That is much more like dinner.
+[PanelizationEnd] END PANEL CH02-PAGE058-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 059

@@ -1,0 +1,152 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE002
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 01B A; Visual beat CH02 01B B; Visual beat CH02 01B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 01B A; Visual beat CH02 01B B; Visual beat CH02 01B C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 01B A; Visual beat CH02 01B B; Visual beat CH02 01B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 01B A; Visual beat CH02 01B B; Visual beat CH02 01B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 01B A; Visual beat CH02 01B B; Visual beat CH02 01B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 01 A kitchen with conflicting instructions
+[PaginationMetadata] Applies to: Visual beat CH02 01B A; Visual beat CH02 01B B; Visual beat CH02 01B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 01B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 01B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 01B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 01B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing; opening unloaded table only
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 01B The short route and the brake
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium from the entrance side towards the packing bench and side doorway. The central round table is to the camera’s right; its two matching trays are visible.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper parks its empty handcart beside the entrance wall, separate from the sixteen-cup delivery trolley. Both loading trays are empty. The unladen cradle rests at its shallow low stop, leaving unequal tray heights. Use the brake and damper arrangement in Location CH02 L03; no snack batch is present on the table.
+[ProductionNote] Planning requirements. The Return Walk glimpse contains indigo posts, blue roof and warm bracket lamps. It cannot show the exterior Gate crowd or both distant courtyards.
+[PanelizationHeading] PANEL CH02-PAGE002-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 01B A Return Walk
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; Scene CH02 01B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; Scene CH02 01B; view; assigned beat stage only
+[ProductionNote] View. Medium from the entrance side towards the packing bench and side doorway. The central round table is to the camera’s right; its two matching trays are visible.
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; Scene CH02 01B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; Scene CH02 01B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper parks its empty handcart beside the entrance wall, separate from the sixteen-cup delivery trolley. Both loading trays are empty. The unladen cradle rests at its shallow low stop, leaving unequal tray heights. Use the brake and damper arrangement in Location CH02 L03; no snack batch is present on the table.
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; Scene CH02 01B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The Return Walk glimpse contains indigo posts, blue roof and warm bracket lamps. It cannot show the exterior Gate crowd or both distant courtyards.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL01; Visual beat CH02 01B A; location reference; opening unloaded table only; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01B A Return Walk
+[ProductionNote] Moment and staging. Tara turns towards the side doorway and points through it with her free left index finger; her right keeps the staff upright. Ahana, Navya and Vihaan face her; Tez looks through the opening. Tara speaks to the trio. The trolley remains parked.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara points through it.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] This is Return Walk, a shorter covered path back to Entry Court, just inside the Blue Gate. The food helpers can take their trolleys straight to the waiting children instead of going through all the streets.
+[PanelizationEnd] END PANEL CH02-PAGE002-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE002-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 01B B The uneven loading table
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; Scene CH02 01B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; Scene CH02 01B; view; assigned beat stage only
+[ProductionNote] View. Medium from the entrance side towards the packing bench and side doorway. The central round table is to the camera’s right; its two matching trays are visible.
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; Scene CH02 01B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; Scene CH02 01B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper parks its empty handcart beside the entrance wall, separate from the sixteen-cup delivery trolley. Both loading trays are empty. The unladen cradle rests at its shallow low stop, leaving unequal tray heights. Use the brake and damper arrangement in Location CH02 L03; no snack batch is present on the table.
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; Scene CH02 01B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The Return Walk glimpse contains indigo posts, blue roof and warm bracket lamps. It cannot show the exterior Gate crowd or both distant courtyards.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL02; Visual beat CH02 01B B; location reference; opening unloaded table only; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01B B The uneven loading table
+[ProductionNote] Moment and staging. Cut to a medium of the circular table from the entrance-side orientation specified in Scene CH02 01B, retaining the packing-bench edge and side doorway as background anchors. Tara stands by its brake; the children stay on the near side. Freeze the table with one matching tray hanging lower. Narration explains its normal turning function; do not depict several rotations in one still.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] A round serving table fills the middle of the lane. It turns between the packing bench and the delivery trolley, bringing loaded trays to the helpers. One tray hangs lower than the other.
+[PanelizationEnd] END PANEL CH02-PAGE002-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE002-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 01B C Brake locked
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; Scene CH02 01B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; Scene CH02 01B; view; assigned beat stage only
+[ProductionNote] View. Medium from the entrance side towards the packing bench and side doorway. The central round table is to the camera’s right; its two matching trays are visible.
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; Scene CH02 01B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; Scene CH02 01B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper parks its empty handcart beside the entrance wall, separate from the sixteen-cup delivery trolley. Both loading trays are empty. The unladen cradle rests at its shallow low stop, leaving unequal tray heights. Use the brake and damper arrangement in Location CH02 L03; no snack batch is present on the table.
+[PanelizationMetadata] SOURCE: Scene CH02 01B The short route and the brake
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; Scene CH02 01B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The Return Walk glimpse contains indigo posts, blue roof and warm bracket lamps. It cannot show the exterior Gate crowd or both distant courtyards.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; location reference; opening unloaded table only; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 01B B The uneven loading table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE002-PANEL03; Visual beat CH02 01B C; retained framing and standing positions
+[ProductionNote] Moment and staging. Cut to a medium of the circular table from the entrance-side orientation specified in Scene CH02 01B, retaining the packing-bench edge and side doorway as background anchors. Tara stands by its brake; the children stay on the near side.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01B C Brake locked
+[ProductionNote] Moment and staging. Retain the table framing and character positions specified in Visual beat CH02 01B B. Tara presses the brake into its locked position with her left hand, staff in her right. Her gaze is on the brake. The table is stationary, with the unequal tray height retained. The rotation latch stops turning; the separate squeeze-operated tilt damper in the same brake housing is not engaged. Do not depict a solved load balance.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara locks its brake so that, for now, the helpers can load without the table moving.
+[PanelizationEnd] END PANEL CH02-PAGE002-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 003

@@ -1,0 +1,26 @@
+Use case: ChandRush CH02 comic panel P001-4, visual beat CH02 01A D.
+Asset: one 1536 x 1024 px graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved background plate L01_B. Keep its architecture, materials, light and every fixed object exactly; the camera stays wide from the entrance into the lane exactly as in the plate (the cleared entrance, no crooked cart at the entrance; it is parked at the near-left wall).
+- Image 2: character sheet of Ahana (curly dark shoulder-length hair, teal-blue jacket over coral-orange tee, charcoal cargo trousers, white-and-blue sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Navya (two long dark braids with fringe, maroon cropped jacket over striped cream top, denim cargo jeans, tan crossbody bag, cream sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 4: character sheet of Vihaan (short tousled black hair, mustard-yellow jacket over navy tee, slate-blue cargo trousers, deep-red backpack, white-and-navy sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 5: character sheet of Tara (elderly woman, silver-white long braid over her shoulder, deep indigo embroidered robe with gold moon-and-bell motifs, ivory inner tunic and trousers, peacock-teal sash with brass bells, a tall bronze staff topped with a crescent moon holding a small bell, dark jutti shoes, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 6: character sheet of Tez (tiger cub with orange fur and black stripes, amber eyes, navy bandana with a small silver moon button). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+All five stand in the LOWER HALF of the frame, in the lower-centre of the lane, seen from behind or three-quarter back, looking into the lane.
+1. Ahana: lower-centre left, three-quarter back view, head turned to look LEFT at the cooking counter; awed; hands free.
+2. Navya: just right of Ahana, three-quarter back view, head turned to look RIGHT at the jugs and drinks urn; curious; hands free.
+3. Vihaan: between and slightly ahead of them, looking left then right; excited; hands free.
+4. Tara: behind the trio, standing composed with her bell staff in her right hand, looking down the lane.
+5. Tez: tiger cub beside Ahana, looking up the lane; alert.
+Each character fully inside the frame, feet on the floor.
+Props and states at this moment (exact):
+1. The recovered brass bowl rests on the dry near-left packing bench (exactly 1 bowl there).
+2. The crooked cart is parked at the near-left wall.
+3. The distant counters and the two-tray table stay exactly as in the plate: no repair shown, nothing mathematical readable.
+Physical inscriptions: none
+Reserved empty areas for lettering (calm low-detail background; no face, hand or key prop inside): the TOP 36% of the frame full width (awnings, lamps, moon, far shutter) must stay as calm plate scenery with no characters or new props; the lower-right 40% wide x 22% high corner also calm floor
+Composition: Wide cinematic reveal of a street of counters; trio centred low in the frame.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's brass lamps and moonlight.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or lettering; any digits or numbers; extra characters; duplicate carts, mirrored outfits, merged or extra people.

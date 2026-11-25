@@ -1,0 +1,98 @@
+{
+ "P001": {
+  "status": "none",
+  "stage": "planned"
+ },
+ "P002": {
+  "status": "none",
+  "stage": "planned"
+ },
+ "P006": {
+  "status": "changes",
+  "stage": "math_pass",
+  "math": "PASS 2026-11-23",
+  "at": "2026-11-23T18:50:40.702Z",
+  "gate": "pages",
+  "history": [
+   {
+    "status": "pending",
+    "at": "2026-11-23T17:52:28.091Z"
+   },
+   {
+    "status": "changes",
+    "note": "Text boxes are appearing on the faces which should be avoided",
+    "at": "2026-11-23T18:50:40.702Z"
+   }
+  ],
+  "note": "Text boxes are appearing on the faces which should be avoided"
+ },
+ "P007": {
+  "status": "approved",
+  "stage": "math_pass",
+  "math": "PASS 2026-11-23",
+  "at": "2026-11-23T18:50:40.707Z",
+  "gate": "pages",
+  "history": [
+   {
+    "status": "pending",
+    "at": "2026-11-23T17:52:28.091Z"
+   },
+   {
+    "status": "approved",
+    "at": "2026-11-23T18:50:40.707Z"
+   }
+  ]
+ },
+ "P008": {
+  "status": "changes",
+  "stage": "failed",
+  "at": "2026-11-23T18:51:12.623Z",
+  "gate": "question",
+  "history": [
+   {
+    "status": "pending",
+    "at": "2026-11-23T17:52:30.151Z"
+   },
+   {
+    "status": "changes",
+    "note": "Stop working on P8",
+    "at": "2026-11-23T18:51:12.623Z"
+   }
+  ],
+  "note": "Stop working on P8"
+ },
+ "P009": {
+  "status": "approved",
+  "stage": "math_pass",
+  "math": "PASS 2026-11-23",
+  "at": "2026-11-23T18:50:40.708Z",
+  "gate": "pages",
+  "history": [
+   {
+    "status": "pending",
+    "at": "2026-11-23T17:52:28.091Z"
+   },
+   {
+    "status": "approved",
+    "at": "2026-11-23T18:50:40.708Z"
+   }
+  ]
+ },
+ "P010": {
+  "status": "approved",
+  "stage": "math_pass",
+  "math": "PASS 2026-11-23",
+  "at": "2026-11-23T18:50:40.708Z",
+  "gate": "pages",
+  "history": [
+   {
+    "status": "pending",
+    "at": "2026-11-23T17:52:28.091Z"
+   },
+   {
+    "status": "approved",
+    "at": "2026-11-23T18:50:40.708Z"
+   }
+  ]
+ }
+}

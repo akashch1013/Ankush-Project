@@ -1,0 +1,45 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE015
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE015-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Changing the way we count
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE015-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Changing the way we count
+Let’s change 2 3/4 into a fraction. Imagine 2 whole pies and 3/4 of another pie. In the next picture, each full rectangle represents 1 pie cut into 4 equal parts. Each small part is one quarter, 1/4, of a pie.
+Start with the 2 whole pies. Each pie has 4 quarters, so 2 × 4 = 8 quarters.
+Now include the 3 quarters from the third pie: 8 + 3 = 11 quarters.
+[ProductionLabel] DO NOT PRINT — Figure reference: V03a-R7 | The following caption sentence is printable unchanged.
+[Caption] 2 whole pies and 3 quarters make 11 quarters.
+[ProductionNote] Production note V03a-R7 — Show three identical rectangular pies partitioned into 4 equal parts. First two fully shaded blue, third 3 of 4 parts gold. Arrow from denominator 4 towards whole number 2 indicates multiplication; the next arrow indicates adding numerator 3. Show (2 × 4 + 3)/4 = 11/4. Keep all unit rectangles identical; no piece changes size. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+We have 11 quarter-pieces. Write 11 on top. Keep 4 underneath because each piece is still 1/4 of a pie:
+2 3/4 = (2 × 4 + 3)/4 = (8 + 3)/4 = 11/4.
+The arrows in the picture show the order: multiply the whole number 2 by the denominator 4; then add the numerator 3. The denominator stays 4.
+Now let’s go back from 11/4 to a mixed number. Four quarter-pieces make 1 whole pie. Eight quarter-pieces make 2 whole pies: 2 × 4 = 8.
+From our 11 quarter-pieces, we have used 8. There are 11 − 8 = 3 quarter-pieces left. So 11/4 = 2 + 3/4 = 2 3/4.
+We can write the division as 11 ÷ 4 = 2 remainder 3. Here, 2 counts the whole pies; the remainder 3 counts the quarter-pieces left.
+Check: 2 × 4 + 3 = 11 quarter-pieces again. If we had 12/4, all 12 pieces would make whole pies: 12 ÷ 4 = 3, so 12/4 = 3.
+We can now write the same amount as a mixed number or an improper fraction. Let’s use that to compare two amounts.
+[PanelizationEnd] END PANEL CH02-PAGE015-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 016

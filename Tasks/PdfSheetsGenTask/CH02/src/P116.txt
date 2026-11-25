@@ -1,0 +1,51 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE116
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.7D; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 12B Check the lower shelf load
+[PaginationMetadata] Applies to: Teaching block T2.7D; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 12B Check the lower shelf load
+[PaginationMetadata] Applies to: Teaching block T2.7D; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.7D
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE116-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7D; Combined Operations; Example 27
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE116-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+## Combined Operations
+When a calculation has several operations, we need an agreed order. First calculate inside brackets. Then calculate powers or roots, if there are any. Next do multiplication and division from left to right. Finally do addition and subtraction from left to right.
+For example, 12 ÷ 3 × 2 starts with division because ÷ comes first from the left: 12 ÷ 3 × 2 = 4 × 2 = 8. Do not multiply 3 × 2 first.
+Similarly, 10 − 4 + 2 = 6 + 2 = 8. Here subtraction comes before addition because it is first from the left. Brackets can change the order: 10 − (4 + 2) = 10 − 6 = 4. Copy every bracket when you use a calculator.
+Example 27
+[Question] Evaluate.
+[Question] (a)  3.5 + 2 × 1.4
+[Question] (b)  −1.75 + 15.6 ÷ 5
+[Question] (c)  12.7 × 2 − 4.8 ÷ 6
+[Question] (d)  (72.5 − 66.2) × 4
+Let’s work it through
+[WorkedStep] (a) In 3.5 + 2 × 1.4, do the multiplication first: 2 × 1.4 = 2.8. Put 2.8 in place of 2 × 1.4:
+[WorkedStep] 3.5 + 2 × 1.4 = 3.5 + 2.8 = 6.3.
+[WorkedStep] A quick estimate uses 3.5 ≈ 4 and 1.4 ≈ 1: 4 + 2 × 1 = 4 + 2 = 6. Our answer 6.3 is close.
+[WorkedStep] (b) In −1.75 + 15.6 ÷ 5, do the division first: 15.6 ÷ 5 = 3.12. Then −1.75 + 3.12 = 3.12 − 1.75 = 1.37. So −1.75 + 15.6 ÷ 5 = 1.37.
+[WorkedStep] (c) First find 12.7 × 2 = 25.4 and 4.8 ÷ 6 = 0.8. Put those answers in place of the multiplication and division:
+[WorkedStep] 12.7 × 2 − 4.8 ÷ 6 = 25.4 − 0.8 = 24.6.
+[WorkedStep] (d) The brackets come first: 72.5 − 66.2 = 6.3. So (72.5 − 66.2) × 4 = 6.3 × 4 = 25.2.
+[PanelizationEnd] END PANEL CH02-PAGE116-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 117

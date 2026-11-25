@@ -1,0 +1,25 @@
+Use case: ChandRush CH02 comic panel P006-3, visual beat CH02 02A A.
+Asset: one landscape (4:3) graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved raw background plate BagroundGenTask/ch02/out/plates/L03_A.png (Food Street packing bench area; Return Walk doorway). Keep its architecture, materials, light and objects; the camera may move to a medium shot facing the group with the Return Walk doorway behind Tara. It carries no labels.
+- Image 2: character sheet of Ahana. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Tara. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 4: character sheet of Navya. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 5: character sheet of Tez. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Ahana (left third, midground-foreground, head about 16% of frame height): facing Tara, left palm open and extended towards the Return Walk doorway, right hand relaxed at her side, earnest expression, gaze at Tara.
+2. Tara (centre-right, in front of the glowing Return Walk doorway): listening, bell staff upright in her RIGHT hand, attentive, gaze at Ahana.
+3. Navya (beside the pale packing bench, left of Tara's side, slightly behind Ahana): standing, concerned, gaze at Ahana.
+4. Vihaan (beside Navya at the bench): standing, listening, gaze at Ahana. (Vihaan: short tousled black hair, mustard-yellow jacket, navy tee, slate-blue cargo trousers, deep-red backpack straps.)
+5. Tez (small tiger cub, on clear paving in the foreground between Ahana and Tara): sitting, looking UP at Ahana, curious.
+Props and states at this moment (exact):
+1. exactly 5 (five) figures: Ahana, Tara, Navya, Vihaan and the tiger cub Tez.
+2. The empty brass delivery trolley (no cups in its carrier, nothing in it) may be parked behind them; it must be EMPTY.
+3. The clip above the packing bench is empty (nothing clipped).
+4. Ahana's portable brass lamp at the bench's entrance corner; the crooked wooden cart stays against the near-left wall clear of doorways.
+5. No food or drinks anywhere.
+Physical inscriptions: none. Do not paint any words, numbers or markings; the plate's small brass plaques must stay unreadable or out of frame.
+Reserved empty areas for lettering (keep calm, low-detail background; no face, hand or key prop inside): upper-left 45% wide x 25% high: calm wall/roof, no face or hand
+Composition: left-to-right: Ahana, Tez (low), Tara in the doorway glow, with Navya and Vihaan at the bench; all faces fully visible within the central 80%.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration, rich royal-blue lacquered wood, antique brass, cream marble, warm lamp key light with cool moonlight rim; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows. Characters keep fair skin as on their sheets.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature, sign, number or lettering of any kind; extra characters; extra limbs; mirrored outfits; the Gate or any crowd.

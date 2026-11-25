@@ -1,0 +1,136 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE008
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 02C A; Visual beat CH02 02C B; Visual beat CH02 02C C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 02C A; Visual beat CH02 02C B; Visual beat CH02 02C C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 02C A; Visual beat CH02 02C B; Visual beat CH02 02C C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 02C A; Visual beat CH02 02C B; Visual beat CH02 02C C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 02 An order from the Gate
+[PaginationMetadata] Applies to: Visual beat CH02 02C A; Visual beat CH02 02C B; Visual beat CH02 02C C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 02C; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 02C; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 02C; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 02C The first sixteen names
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Exterior medium from the waiting lane towards the small service door in the left blue leaf; the pale left pier and planter anchor this view.
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. Kabir’s notebook and pencil are out. Pip carries Ahana’s folded request. Ira’s reply paper is blank at first.
+[ProductionNote] Planning requirements. The trilogy of inside Food Street, Return Walk and outside Gate requires distinct views. The trio and Tara are not in the Gate crowd. Do not invent sixteen readable names.
+[PanelizationHeading] PANEL CH02-PAGE008-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 02C A Pip delivers the request
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; Scene CH02 02C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; Scene CH02 02C; view; assigned beat stage only
+[ProductionNote] View. Exterior medium from the waiting lane towards the small service door in the left blue leaf; the pale left pier and planter anchor this view.
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; Scene CH02 02C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; Scene CH02 02C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. Kabir’s notebook and pencil are out. Pip carries Ahana’s folded request. Ira’s reply paper is blank at first.
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; Scene CH02 02C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The trilogy of inside Food Street, Return Walk and outside Gate requires distinct views. The trio and Tara are not in the Gate crowd. Do not invent sixteen readable names.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL01; Visual beat CH02 02C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02C A Pip delivers the request
+[ProductionNote] Moment and staging. Pip hovers beside Ira at the Gate with the folded note in its beak clip. Ira extends her right hand to receive it; her left holds a blank reply sheet against her purse. Kabir waits with notebook left, pencil right. The girl in green watches from her group.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Pip carries the note to them.
+[PanelizationEnd] END PANEL CH02-PAGE008-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE008-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 02C B Names and real people
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; Scene CH02 02C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; Scene CH02 02C; view; assigned beat stage only
+[ProductionNote] View. Exterior medium from the waiting lane towards the small service door in the left blue leaf; the pale left pier and planter anchor this view.
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; Scene CH02 02C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; Scene CH02 02C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. Kabir’s notebook and pencil are out. Pip carries Ahana’s folded request. Ira’s reply paper is blank at first.
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; Scene CH02 02C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The trilogy of inside Food Street, Return Walk and outside Gate requires distinct views. The trio and Tara are not in the Gate crowd. Do not invent sixteen readable names.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL02; Visual beat CH02 02C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02C B Names and real people
+[ProductionNote] Moment and staging. Retain the exterior camera and group locations specified in Scene CH02 02C. Kabir writes the first names with his right hand, notebook supported in his left. Ira has set the blank reply sheet on the bench; she holds Ahana’s note in her left and points with her free right hand towards the girl’s two friends. Show a few recognisable foreground children and the rest suggested; no mass of tiny legible names.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] At the Gate, Kabir writes down the first sixteen names from the waiting line. Ira, Kabir and the girl in green are already among those waiting at the front. Ira checks where their friends are so the food helpers can find the whole group.
+[PanelizationEnd] END PANEL CH02-PAGE008-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE008-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 02C C Ira’s cup drawing
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; Scene CH02 02C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; Scene CH02 02C; view; assigned beat stage only
+[ProductionNote] View. Exterior medium from the waiting lane towards the small service door in the left blue leaf; the pale left pier and planter anchor this view.
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; Scene CH02 02C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; Scene CH02 02C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. Kabir’s notebook and pencil are out. Pip carries Ahana’s folded request. Ira’s reply paper is blank at first.
+[PanelizationMetadata] SOURCE: Scene CH02 02C The first sixteen names
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; Scene CH02 02C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The trilogy of inside Food Street, Return Walk and outside Gate requires distinct views. The trio and Tara are not in the Gate crowd. Do not invent sixteen readable names.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE008-PANEL03; Visual beat CH02 02C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02C C Ira’s cup drawing
+[ProductionNote] Moment and staging. Close view of Ira’s hands at the Gate bench corner: Ahana’s incoming note is folded beside the work area; the new reply sheet lies flat on the bench, her left hand steadies it and her right draws a cup and writes 16. Kabir’s notebook is outside the crop; Pip waits nearby. The exact surface text is 16 beside one cup drawing. This sheet is the original drawing retained through the first trolley trip.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She draws a cup on her reply and writes 16 beside it.
+[PanelizationEnd] END PANEL CH02-PAGE008-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 009

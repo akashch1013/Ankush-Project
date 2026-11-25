@@ -1,0 +1,45 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE107
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.7C; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 11A Combine the existing withdrawals
+[PaginationMetadata] Applies to: Teaching block T2.7C; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 11A Combine the existing withdrawals
+[PaginationMetadata] Applies to: Teaching block T2.7C; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.7C
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE107-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7C; Negative Decimals
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE107-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] FRIENDLY TEACHER BRIDGE — PRINT ONLY THIS
+[TeacherBridge] Both withdrawals wear minus signs. Let’s get to know negative decimals, then see how they add together.
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+## Negative Decimals
+So far, most of our decimals have been above zero. Decimals can also describe positions below zero. Think of a thermometer: −15.8°C is 15.8 degrees below zero. The minus sign belongs to the number; it tells us which side of zero the value lies on.
+[ProductionLabel] DO NOT PRINT — Figure reference: V29 | The following caption sentence is printable unchanged.
+[Caption] Negative decimals lie left of zero; positive decimals lie right of zero.
+[ProductionNote] Production note V29 — Uniform line from−0.5 to0.5 in0.1 steps with zero distinct. Add a clearly separate vertical reference diagram for sea level0 and a sea bed at−1.38km. Preserve sign and unit; do not use horizontal line ticks to measure kilometres. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+On the number line, −0.5 lies to the left of −0.1, so −0.5 < −0.1. Positive numbers lie to the right of 0; negative numbers lie to the left of 0. Zero itself is neither positive nor negative.
+A bank balance of −$0.80 means $0.80 is owed. A sea bed 1.38 km below sea level has height −1.38 km when sea level is labelled 0 km. In both cases, the minus sign tells us the value is below the chosen zero.
+Adding a negative number moves us left. For example, start at −2 and add −3: move 3 places left to −5. We write −2 + (−3) = −5.
+Subtracting a negative number moves us right. For −2 − (−3), move 3 places right from −2: pass −1, then 0, then reach 1. So −2 − (−3) = −2 + 3 = 1. The decimal examples below use these same directions.
+On a calculator, the key that makes a number negative, often (−) or +/−, may differ from the subtraction key. For −2.03 − (−5.92), you must enter both negative numbers and the subtraction between them. Check the full expression on the display.
+[PanelizationEnd] END PANEL CH02-PAGE107-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 108

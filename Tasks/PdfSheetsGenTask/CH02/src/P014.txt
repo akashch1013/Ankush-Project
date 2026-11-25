@@ -1,0 +1,45 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE014
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE014-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; 2.1 Improper Fractions and Mixed Numbers
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE014-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+# 2.1 Improper Fractions and Mixed Numbers
+The rectangles in the next picture stand for pies. Each full rectangle is 1 whole pie, cut into 2 equal halves. A shaded half-rectangle means 1/2 of a pie.
+On the left, we have 1 whole pie and 1/2 of another pie. Let’s count how many half-pies that makes.
+[ProductionLabel] DO NOT PRINT — Figure reference: V03 | The following caption sentence is printable unchanged.
+[Caption] 1 whole pie gives 2 halves; another half makes 3 halves.
+[ProductionNote] Production note V03 — Show identical wholes. First state has one complete whole and one half; second state shows exactly three half-pieces. Label 1 1/2 and 3/2. Keep the reference whole fixed. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+The first whole pie gives us 2 halves: 1 = 2/2.
+The second pie gives us 1 more half: 1/2.
+Count the halves: 2 + 1 = 3 half-pies.
+So 1 1/2 = 2/2 + 1/2 = 3/2.
+Read that as “one and a half pies is the same amount as three half-pies”. We have not gained or lost any pie.
+Look at 3/2. The bottom number, 2, tells us that each whole pie is cut into 2 equal parts. The top number, 3, tells us that we have 3 of those parts. The bottom number is called the denominator; the top number is the numerator.
+A fraction such as 1/2 or 3/4 is less than 1 whole. Its top number is smaller than its bottom number. We call it a proper fraction.
+A fraction such as 3/2 is more than 1 whole. The fraction 4/4 is exactly 1 whole. When the top number is greater than or equal to the bottom number, we call it an improper fraction. “Improper” does not mean the fraction has misbehaved!
+The number 1 1/2 has a whole-number part, 1, and a fraction part, 1/2. That is why we call it a mixed number. It means 1 + 1/2, not 1 × 1/2.
+[PanelizationEnd] END PANEL CH02-PAGE014-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 015

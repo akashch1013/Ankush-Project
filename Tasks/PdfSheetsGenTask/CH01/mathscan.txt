@@ -1,0 +1,39 @@
+# manuscript maths pre-scan: 402 statements hold. FAIL = evaluates false: a manuscript error, a deliberate mistake shown to students, or a scan artefact (words cut the statement). Read each in src/Pxxx.txt. SKIP = not evaluable
+P007	FAIL	2 + 3 = 1
+P007	FAIL	2 − 3 = −5
+P008	FAIL	3 − 4 + 5 = −7 + 5 = −2
+P010	FAIL	2 + (−4) = −2 − 4 = −6
+P015	FAIL	2 − (−1) = −2 + 1 = −1
+P016	FAIL	6 − (−7) + (−1) = −6 + 7 − 1 = 1 − 1 = 0
+P021	FAIL	3 × 2 = −(3 × 2) = −6
+P021	FAIL	4 × 5 = −(4 × 5) = −20
+P024	FAIL	45 ÷ 9 = −(45 ÷ 9) = −5
+P024	FAIL	75 ÷ 15 = −(75 ÷ 15) = −5
+P025	FAIL	2 + (−3) = −2 − 3 = −5
+P025	FAIL	2 − (−5) = −2 + 5 = 3
+P025	FAIL	5 − (−7) = −5 + 7 = 2
+P026	FAIL	3 − (−1) − (−5) = −3 + 1 + 5 = −2 + 5 = 3
+P026	FAIL	5 + (−15) − (−12) = −5 − 15 + 12 = −20 + 12 = −8
+P026	FAIL	7 × 17 = −(7 × 17) = −119
+P026	FAIL	180 ÷ 15 = −(180 ÷ 15) = −12
+P026	FAIL	−2 = 24 − 2 = 22
+P032	SKIP	5) = 30
+P033	SKIP	9) = 36
+P037	SKIP	15) = 3
+P037	SKIP	117) = 9
+P041	SKIP	12) = 36
+P041	SKIP	8) = 40
+P054	SKIP	38 − 2 × 4 = 30. 30
+P070	FAIL	√32 + √25 = √(32 + 25) = √57
+P070	FAIL	√32 + √25 ≈ 5.66 + 5 = 10.66
+P079	FAIL	(3 + 5)³ < 3³ + 5³
+P080	FAIL	6³ − 16 ÷ 2² + 6 = 56
+P086	SKIP	8) = 24
+P086	SKIP	8) = 2
+P087	FAIL	6 + (−5) = −6 − 5 = −11
+P087	FAIL	6 − (−3) = −6 + 3 = −3
+P087	FAIL	11 + 5 − 8 = −6 − 8 = −14
+P087	FAIL	15 × 8 = −(15 × 8) = −120
+P087	FAIL	49 ÷ 7 = −7
+P096	FAIL	4 − (−7) = −11
+P096	FAIL	3² + 4² = 7²

@@ -1,0 +1,95 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE085
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE085-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Practice 2F; Practice 2F Question 1; Practice 2F Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2F
+Practice 2F Question 1
+[Question] Round each value to 1 decimal place.
+[Question] (a)  81.45
+[Question] (b)  0.812
+[Question] (c)  0.3784
+Check your method
+[WorkedStep] (a) Keep 81.4; the next digit is 5, so round up: 81.45 ≈ 81.5.
+[WorkedStep] (b) Keep 0.8; the next digit is 1, so 0.812 ≈ 0.8.
+[WorkedStep] (c) Keep 0.3; the next digit is 7, so round up: 0.3784 ≈ 0.4.
+Practice 2F Question 2
+[Question] Round each value to 2 decimal places.
+[Question] (a)  38.441
+[Question] (b)  2.985
+[Question] (c)  0.1003
+Check your method
+[WorkedStep] (a) Keep 38.44; the next digit is 1, so 38.441 ≈ 38.44.
+[WorkedStep] (b) Keep 2.98; the next digit is 5, so round up: 2.985 ≈ 2.99.
+[WorkedStep] (c) Keep 0.10; the next digit is 0, so 0.1003 ≈ 0.10. Keep the final zero to show 2 decimal places.
+[PanelizationEnd] END PANEL CH02-PAGE085-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE085-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Practice 2F Question 3; Practice 2F Question 4; Practice 2F Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE085-PANEL02; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2F Question 3
+[Question] Round each value to the nearest whole number.
+[Question] (a)  0.51
+[Question] (b)  7.95
+[Question] (c)  0.333
+Check your method
+[WorkedStep] (a) The tenths digit is 5, so round 0 up to 1: 0.51 ≈ 1.
+[WorkedStep] (b) The tenths digit is 9, so round 7 up to 8: 7.95 ≈ 8.
+[WorkedStep] (c) The tenths digit is 3, so keep 0: 0.333 ≈ 0.
+Practice 2F Question 4
+[Question] Express these fractions as decimals rounded as requested.
+[Question] (a)  1/33 to 2 d.p.
+[Question] (b)  14/23 to 1 d.p.
+[Question] (c)  17/53 to 2 d.p.
+Check your method
+[WorkedStep] (a)  1 ÷ 33 = 0.030303… . The third decimal digit is 0, so 1/33 ≈ 0.03.
+[WorkedStep] (b)  14 ÷ 23 = 0.608695… . The second decimal digit is 0, so 14/23 ≈ 0.6.
+[WorkedStep] (c)  17 ÷ 53 = 0.320754… . The third decimal digit is 0, so 17/53 ≈ 0.32.
+Practice 2F Question 5
+[Question] Use a calculator and round as requested.
+[Question] (a)  √20 to 3 d.p.
+[Question] (b)  ∛21 to 5 d.p.
+[Question] (c)  π² to 6 d.p.
+Check your method
+[WorkedStep] (a)  √20 = 4.472135… . The fourth decimal digit is 1, so √20 ≈ 4.472.
+[WorkedStep] (b)  ∛21 = 2.758924… . The sixth decimal digit is 4, so ∛21 ≈ 2.75892.
+[WorkedStep] (c)  Use the π key, then square the value: π² = 9.869604401… . The seventh decimal digit is 4, so π² ≈ 9.869604.
+[PanelizationEnd] END PANEL CH02-PAGE085-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 086

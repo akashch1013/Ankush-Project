@@ -1,0 +1,68 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE125
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE125-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Knowledge Building Task
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Check your method
+Figure 3 has 8 complete shaded rows, each containing 10 squares. That is 80 shaded squares out of 100: 80% = 80/100 = (80 ÷ 20)/(100 ÷ 20) = 4/5.
+In Figure 4, the first grid has 100 shaded squares and the second has 40. Count them together: 100 + 40 = 140 shaded squares. One whole is still 1 grid of 100 squares, so the shaded amount is 140/100 = 140%.
+Simplify: 140/100 = (140 ÷ 20)/(100 ÷ 20) = 7/5 = 1 2/5. Here 140% is greater than 100% because the shaded amount is greater than 1 full grid.
+To change a percentage into a fraction, write its number over 100, then simplify. For example, 20% means 20/100; it does not mean 20 whole grids. Let’s work through that conversion.
+[PanelizationEnd] END PANEL CH02-PAGE125-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE125-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Example 29; Your turn after Example 29
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE125-PANEL02; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 29
+[Question] Express each percentage as a fraction in simplest form.
+[Question] (a)  20%
+[Question] (b)  150%
+Let’s work it through
+[WorkedStep] (a) 20% means 20/100. Divide both numbers by 20: 20/100 = (20 ÷ 20)/(100 ÷ 20) = 1/5.
+[WorkedStep] (b) 150% = 150/100 = (150 ÷ 50)/(100 ÷ 50) = 3/2 = 1 1/2. That fits the picture we used: 100% gives 1 whole, and the extra 50% gives half a whole.
+Your turn after Example 29
+[Question] Express each percentage as a fraction in simplest form.
+[Question] (a)  75%
+[Question] (b)  120%
+Check your method
+[WorkedStep] (a)  75% = 75/100 = (75 ÷ 25)/(100 ÷ 25) = 3/4.
+[WorkedStep] (b)  120% = 120/100 = (120 ÷ 20)/(100 ÷ 20) = 6/5. This is 6/5 = 1 1/5.
+[PanelizationEnd] END PANEL CH02-PAGE125-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 126

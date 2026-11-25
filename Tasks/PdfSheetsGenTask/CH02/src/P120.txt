@@ -1,0 +1,56 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE120
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7D; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE120-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7D; Practice 2I Question 3; Practice 2I Question 4; Practice 2I Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE120-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2I Question 3
+[Question] Lisa weighs 45.5 kg. Mei weighs 2.1 kg more than Lisa, and Nurul weighs 1.6 kg more than Mei.
+[Question] (a)  Find Mei’s weight.
+[Question] (b)  Find Nurul’s weight.
+[Question] (c)  The machine is later found to read 1.2 kg more than each person’s actual weight. Find the actual weight of each girl.
+Check your method
+[WorkedStep] (a) Lisa’s reading is 45.5 kg. Mei’s reading is 2.1 kg more: 45.5 + 2.1 = 47.6 kg.
+[WorkedStep] (b) Mei’s reading is 47.6 kg. Nurul’s reading is 1.6 kg more: 47.6 + 1.6 = 49.2 kg.
+[WorkedStep] (c) Every reading is 1.2 kg too high. Subtract 1.2 kg from each reading to find each actual weight.
+[WorkedStep] Lisa: 45.5 − 1.2 = 44.3 kg. Mei: 47.6 − 1.2 = 46.4 kg. Nurul: 49.2 − 1.2 = 48.0 kg.
+[WorkedStep] Check the differences: 46.4 − 44.3 = 2.1 kg, and 48.0 − 46.4 = 1.6 kg. The differences stay the same because we subtract 1.2 kg from all three readings.
+Practice 2I Question 4
+[Question] A shopkeeper sells 3 bottles of detergent at $6.80 each. The customer pays $30.
+[Question] (a)  Find the total cost.
+[Question] (b)  Find the change.
+Check your method
+[WorkedStep] (a)  3 × $6.80 = $20.40.
+[WorkedStep] (b)  $30.00 − $20.40 = $9.60. Check: $20.40 + $9.60 = $30.00.
+Practice 2I Question 5
+[Question] Fish costs $12.30 per kg and clams cost $15.50 per kg. Maria buys 2 kg of fish and 3 kg of clams.
+[Question] (a)  How much must she pay?
+[Question] (b)  She pays with $100. How much change does she receive?
+Check your method
+[WorkedStep] (a)  Fish: 2 × $12.30 = $24.60. Clams: 3 × $15.50 = $46.50. Total: $24.60 + $46.50 = $71.10.
+[WorkedStep] (b)  $100.00 − $71.10 = $28.90. Check: $71.10 + $28.90 = $100.00.
+[PanelizationEnd] END PANEL CH02-PAGE120-PANEL01
+[ProductionLabel] END TEACHING BLOCK T2.7D — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 121

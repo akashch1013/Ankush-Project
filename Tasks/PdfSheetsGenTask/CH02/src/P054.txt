@@ -1,0 +1,128 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE054
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 06B A; Visual beat CH02 06B B; Visual beat CH02 06B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 06B A; Visual beat CH02 06B B; Visual beat CH02 06B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 06B A; Visual beat CH02 06B B; Visual beat CH02 06B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 06B A; Visual beat CH02 06B B; Visual beat CH02 06B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 06 The next dosa
+[PaginationMetadata] Applies to: Visual beat CH02 06B A; Visual beat CH02 06B B; Visual beat CH02 06B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 06B Correct the physical stop
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Close three-quarter view of the recipe and the measuring-cup stop on the cool accessible side; brass tank and pale counter edge remain visible.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The ⅔ kg batch can supply four full ⅙ kg dosas. Heat OFF, tap closed. The stop begins at a larger mark and is moved only in beat C.
+[ProductionNote] Planning requirements. The stop belongs to serving volume calibrated for batter mass, not the stock-card clip. Show one actual stop and one corrected setting.
+[PanelizationHeading] PANEL CH02-PAGE054-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 06B A Four full dosas
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; Scene CH02 06B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; Scene CH02 06B; view; assigned beat stage only
+[ProductionNote] View. Close three-quarter view of the recipe and the measuring-cup stop on the cool accessible side; brass tank and pale counter edge remain visible.
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; Scene CH02 06B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; Scene CH02 06B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The ⅔ kg batch can supply four full ⅙ kg dosas. Heat OFF, tap closed. The stop begins at a larger mark and is moved only in beat C.
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; Scene CH02 06B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The stop belongs to serving volume calibrated for batter mass, not the stock-card clip. Show one actual stop and one corrected setting.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL01; Visual beat CH02 06B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06B A Four full dosas
+[ProductionNote] Moment and staging. Insert of the recipe record beside the waiting four plates. Show ⅔ ÷ ⅙ = 4 as the source result; Vihaan indicates the result with his right fingertip and rests his empty left hand on clear counter space. Do not pour yet.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Two thirds divided by one sixth is four. This measured batch can make four full dosas.
+[PanelizationEnd] END PANEL CH02-PAGE054-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE054-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 06B B The larger setting
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; Scene CH02 06B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; Scene CH02 06B; view; assigned beat stage only
+[ProductionNote] View. Close three-quarter view of the recipe and the measuring-cup stop on the cool accessible side; brass tank and pale counter edge remain visible.
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; Scene CH02 06B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; Scene CH02 06B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The ⅔ kg batch can supply four full ⅙ kg dosas. Heat OFF, tap closed. The stop begins at a larger mark and is moved only in beat C.
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; Scene CH02 06B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The stop belongs to serving volume calibrated for batter mass, not the stock-card clip. Show one actual stop and one corrected setting.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL02; Visual beat CH02 06B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06B B The larger setting
+[ProductionNote] Moment and staging. Navya compares the original ⅙ kg serving entry with the actual stop at a larger mark, right index finger indicating the wrong stop and left hand holding the book flat on the cool edge. Tara watches from the shut-off end. Freeze before adjustment.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Navya compares the recipe with the measuring cup’s stop. Someone has moved the stop to a larger mark.
+[PanelizationEnd] END PANEL CH02-PAGE054-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE054-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 06B C Fasten at one sixth
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; Scene CH02 06B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; Scene CH02 06B; view; assigned beat stage only
+[ProductionNote] View. Close three-quarter view of the recipe and the measuring-cup stop on the cool accessible side; brass tank and pale counter edge remain visible.
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; Scene CH02 06B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; Scene CH02 06B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The ⅔ kg batch can supply four full ⅙ kg dosas. Heat OFF, tap closed. The stop begins at a larger mark and is moved only in beat C.
+[PanelizationMetadata] SOURCE: Scene CH02 06B Correct the physical stop
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; Scene CH02 06B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The stop belongs to serving volume calibrated for batter mass, not the stock-card clip. Show one actual stop and one corrected setting.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE054-PANEL03; Visual beat CH02 06B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06B C Fasten at one sixth
+[ProductionNote] Moment and staging. Retain the control camera, background and character locations specified in Scene CH02 06B. Navya now moves and fastens the stop at ⅙ kg with her right hand; her left steadies the cool fixed bracket, clear of the moving cup. The book lies open without being held. Heat stays OFF and the supply is closed after the adjustment.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She returns it to the one-sixth-kilogram position and fastens it.
+[PanelizationEnd] END PANEL CH02-PAGE054-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 055

@@ -1,0 +1,14 @@
+Use case: ChandRush CH02 comic panel P010-2, visual beat CH02 03A B.
+Asset: one landscape (4:3) graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved raw background plate BagroundGenTask/ch02/out/plates/L02_C.png (the children's cool side of the Food Street recipe counter with blue cupboards and wall). Keep its architecture, materials, light and objects; the camera may move to a medium shot of the figure standing at the counter, with a cool moonlit grade. It carries no labels.
+- Image 2: character sheet of Tara. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Tara (right half of the frame, standing behind the marble counter, head about 22% of frame height): her open LEFT palm raised towards the UPPER-RIGHT frame edge, her RIGHT hand on the upright bell staff, looking towards screen-right (towards Ahana, off-frame), questioning expression.
+Props and states at this moment (exact):
+1. exactly 1 person (Tara). NO containers, pots, cards, bowls, scales or any items on the counter in frame; the counter top in frame is clear marble. NO numbers or labels anywhere.
+Physical inscriptions: none.
+Reserved empty areas for lettering (keep calm, low-detail background; no face, hand or key prop inside): the top-left 55% wide x 25% high: calm blue wall/lantern glow, no face or hand
+Composition: Tara right of centre, space to her left.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration, rich royal-blue lacquered wood, antique brass, cream marble, warm lamp key light with cool moonlight rim; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows. Characters keep fair skin as on their sheets.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature, sign, number or lettering of any kind; extra characters; extra limbs; mirrored outfits; the Gate or any crowd.

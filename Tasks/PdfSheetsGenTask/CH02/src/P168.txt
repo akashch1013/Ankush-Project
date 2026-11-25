@@ -1,0 +1,152 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE168
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 13B A; Visual beat CH02 13B B; Visual beat CH02 13B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 13B A; Visual beat CH02 13B B; Visual beat CH02 13B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 13B A; Visual beat CH02 13B B; Visual beat CH02 13B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 13B A; Visual beat CH02 13B B; Visual beat CH02 13B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 13 Review, then balance the loading table
+[PaginationMetadata] Applies to: Visual beat CH02 13B A; Visual beat CH02 13B B; Visual beat CH02 13B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 13B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 13B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 13B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 13B; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing; tipping stage only
+[ProductionNote] Tara holds that lever in CH02 13B B and CH02 13C.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 13B The loading table tips
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium across the circular two-tray table from the entrance side: packing bench behind-left, trolley near the lower tray and Return Walk door clear.
+[ProductionNote] Cast and positions. The broad helper stands at the outer rim beside the entrance-side tray, within easy reach of the final pack and clear of the trolley handle. Tara is beside its brake, staff right and left hand available. Ahana stands at the trolley handle, Navya opposite the two trays and Vihaan clear beside the packing bench. Tez stays behind the children, outside the wheel and tray arcs.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. All forty identical sealed packs have been loaded onto the two matching table trays according to a wrong card: 25 on the entrance-side tray, 15 on the far tray, both at equal distance from the centre. The brake was already applied; it restrains turning, but unequal loading still tips the supported tray assembly. The trolley’s lower tray remains empty.
+[ProductionNote] Planning requirements. Tara catches and holds the existing brake; do not invent an earlier release. Use the rotation latch and squeeze-operated tilt damper defined in Location CH02 L03. Tara’s squeeze checks the sudden dip while permitting slow settling as the loads are equalised; the rotation latch stays engaged. Keep full drinks upright while Ahana moves the trolley clear.
+[PanelizationHeading] PANEL CH02-PAGE168-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 13B A Unequal loading
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; Scene CH02 13B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; Scene CH02 13B; view; assigned beat stage only
+[ProductionNote] View. Medium across the circular two-tray table from the entrance side: packing bench behind-left, trolley near the lower tray and Return Walk door clear.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; Scene CH02 13B; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. The broad helper stands at the outer rim beside the entrance-side tray, within easy reach of the final pack and clear of the trolley handle. Tara is beside its brake, staff right and left hand available. Ahana stands at the trolley handle, Navya opposite the two trays and Vihaan clear beside the packing bench. Tez stays behind the children, outside the wheel and tray arcs.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; Scene CH02 13B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. All forty identical sealed packs have been loaded onto the two matching table trays according to a wrong card: 25 on the entrance-side tray, 15 on the far tray, both at equal distance from the centre. The brake was already applied; it restrains turning, but unequal loading still tips the supported tray assembly. The trolley’s lower tray remains empty.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; Scene CH02 13B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Tara catches and holds the existing brake; do not invent an earlier release. Use the rotation latch and squeeze-operated tilt damper defined in Location CH02 L03. Tara’s squeeze checks the sudden dip while permitting slow settling as the loads are equalised; the rotation latch stays engaged. Keep full drinks upright while Ahana moves the trolley clear.
+[PanelizationMetadata] SOURCE: Sequence 13 Review, then balance the loading table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL01; Visual beat CH02 13B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Tara holds that lever in CH02 13B B and CH02 13C.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 13B A Unequal loading
+[ProductionNote] Moment and staging. Freeze immediately after the broad helper releases its final pack onto the entrance-side tray. The pack rests on that lowered tray; the opposite tray is higher. Both wooden hands hover clear beside the table’s fixed rim, ready to steady it; neither supports the pack nor reaches beneath either tray. Do not show exact tiny counts in this medium; the next insert gives them. No pack is transferred between trays yet.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] But the round serving table begins to tip as the helper places the packs on it.
+[PanelizationEnd] END PANEL CH02-PAGE168-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE168-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 13B B Keep the trolley clear
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; Scene CH02 13B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; Scene CH02 13B; view; assigned beat stage only
+[ProductionNote] View. Medium across the circular two-tray table from the entrance side: packing bench behind-left, trolley near the lower tray and Return Walk door clear.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; Scene CH02 13B; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. The broad helper stands at the outer rim beside the entrance-side tray, within easy reach of the final pack and clear of the trolley handle. Tara is beside its brake, staff right and left hand available. Ahana stands at the trolley handle, Navya opposite the two trays and Vihaan clear beside the packing bench. Tez stays behind the children, outside the wheel and tray arcs.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; Scene CH02 13B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. All forty identical sealed packs have been loaded onto the two matching table trays according to a wrong card: 25 on the entrance-side tray, 15 on the far tray, both at equal distance from the centre. The brake was already applied; it restrains turning, but unequal loading still tips the supported tray assembly. The trolley’s lower tray remains empty.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; Scene CH02 13B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Tara catches and holds the existing brake; do not invent an earlier release. Use the rotation latch and squeeze-operated tilt damper defined in Location CH02 L03. Tara’s squeeze checks the sudden dip while permitting slow settling as the loads are equalised; the rotation latch stays engaged. Keep full drinks upright while Ahana moves the trolley clear.
+[PanelizationMetadata] SOURCE: Sequence 13 Review, then balance the loading table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL02; Visual beat CH02 13B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Tara holds that lever in CH02 13B B and CH02 13C.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 13B B Keep the trolley clear
+[ProductionNote] Moment and staging. Freeze after Ahana has pulled the trolley a short distance clear of the low tray edge: both her hands hold its handle and all capped cups remain upright. Tara’s left hand squeezes the tilt-damper lever in the already-latched brake housing described in Location CH02 L03; her right holds her planted staff. This pressure checks the sudden dip; the cradle remains at a shallow tilt within its travel stops and can settle slowly as the loads are equalised. The rotation latch remains engaged. Navya and Vihaan stand clear. The 25/15 load remains unchanged.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara catches the brake. Ahana pulls the trolley away from the low edge.
+[PanelizationEnd] END PANEL CH02-PAGE168-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE168-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 13B C Twenty-five and fifteen
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; Scene CH02 13B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; Scene CH02 13B; view; assigned beat stage only
+[ProductionNote] View. Medium across the circular two-tray table from the entrance side: packing bench behind-left, trolley near the lower tray and Return Walk door clear.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; Scene CH02 13B; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. The broad helper stands at the outer rim beside the entrance-side tray, within easy reach of the final pack and clear of the trolley handle. Tara is beside its brake, staff right and left hand available. Ahana stands at the trolley handle, Navya opposite the two trays and Vihaan clear beside the packing bench. Tez stays behind the children, outside the wheel and tray arcs.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; Scene CH02 13B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. All forty identical sealed packs have been loaded onto the two matching table trays according to a wrong card: 25 on the entrance-side tray, 15 on the far tray, both at equal distance from the centre. The brake was already applied; it restrains turning, but unequal loading still tips the supported tray assembly. The trolley’s lower tray remains empty.
+[PanelizationMetadata] SOURCE: Scene CH02 13B The loading table tips
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; Scene CH02 13B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Tara catches and holds the existing brake; do not invent an earlier release. Use the rotation latch and squeeze-operated tilt damper defined in Location CH02 L03. Tara’s squeeze checks the sudden dip while permitting slow settling as the loads are equalised; the rotation latch stays engaged. Keep full drinks upright while Ahana moves the trolley clear.
+[PanelizationMetadata] SOURCE: Sequence 13 Review, then balance the loading table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE168-PANEL03; Visual beat CH02 13B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Tara holds that lever in CH02 13B B and CH02 13C.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 13B C Twenty-five and fifteen
+[ProductionNote] Moment and staging. Exact overhead explanatory insert of the two matching trays at equal radius on this table. Entrance-side tray: exactly 25 identical packs in a 5-by-5 array; far tray: exactly 15 in a 3-by-5 array. Readable labels identify 25 and 15. Keep the central pivot and pale bench edge as anchors. Do not replace this with a different balance scale.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The table has two matching trays, one on each side of its centre. To turn level, it needs the same load on both. A wrong loading card has put twenty-five identical packs on one side and fifteen on the other.
+[PanelizationEnd] END PANEL CH02-PAGE168-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 169

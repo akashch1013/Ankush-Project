@@ -1,0 +1,48 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE100
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE100-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Practice 2G; Practice 2G Question 1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE100-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2G
+Some questions below contain brackets. Calculate what is inside each pair of brackets first. For example, in (4 + 2) − 3, first find 4 + 2 = 6; then find 6 − 3 = 3.
+A calculation such as 3.8 − 8.51 goes below zero because we subtract more than we started with. We will show the steps when we reach that question, then practise negative decimals in the next section.
+Practice 2G Question 1
+[Question] Estimate without a calculator, then evaluate.
+[Question] (a)  20.1 + 2.1
+[Question] (b)  77.8 + 3.2
+[Question] (c)  16.4 − 5.5
+[Question] (d)  66.02 − 12.11
+Check your method
+[WorkedStep] (a)  Estimate: 20 + 2 = 22. Exact: 20.1 + 2.1 = 22.2.
+[WorkedStep] (b)  Estimate: 78 + 3 = 81. Exact: 77.8 + 3.2 = 81.0 = 81.
+[WorkedStep] (c) Estimate: 16 − 6 = 10. For the exact answer, line up 16.4 and 5.5, as shown on the left.
+[WorkedStep] (d) Estimate: 66 − 12 = 54. Line up 66.02 and 12.11, as shown on the right. The small numbers record the borrowing.
+[ProductionLabel] DO NOT PRINT — Figure reference: V27g-R | The following caption sentence is printable unchanged.
+[Caption] Use the same column method for both subtractions.
+[ProductionNote] Production note V27g-R — Two solved vertical calculations, labelled (c) and (d): 16.4 − 5.5 = 10.9 and 66.02 − 12.11 = 53.91. For (c), replace ones 6 with 5 and tenths 4 with 14. For (d), replace ones 6 with 5, tenths 0 with 9 and hundredths 2 with 12. Cross out original changed digits and place replacements above their own columns. Align decimal points. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] Check: 53.91 + 12.11 = 66.02.
+[PanelizationEnd] END PANEL CH02-PAGE100-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 101

@@ -1,0 +1,73 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE072
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE072-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Your turn after Example 13
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Check your method
+[WorkedStep] Each small space on this line is 0.005. The first tick is 7.09. One small space to its right gives 7.09 + 0.005 = 7.095. Mark 7.095 there.
+[WorkedStep] The next tick is 7.10. Mark both 7.1 and 7.10 at that same point, because a final zero after the decimal does not change the value.
+[WorkedStep] Mark 7.16 on its labelled tick. Mark 7.23 halfway between the labelled ticks 7.22 and 7.24.
+[WorkedStep] Read left to right. Ascending order: 7.095, 7.1, 7.10, 7.16, 7.23. Since 7.1 = 7.10, those two may be written in either order.
+[ProductionLabel] DO NOT PRINT — Figure reference: V23 | The following caption sentence is printable unchanged.
+[Caption] Equal values share the same point.
+[ProductionNote] Production note V23 — Uniform scale from7.09 to7.24 with0.005 subdivisions. 7.095 must be left of the shared7.1=7.10 point; then7.16 and7.23. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+On a number line, a number farther right is greater. We can also compare decimals by their digits: compare the whole-number parts first, then tenths, then hundredths. Stop when the digits differ. Let’s do that with actual numbers.
+[PanelizationEnd] END PANEL CH02-PAGE072-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE072-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Example 14; Your turn after Example 14
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE072-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 14
+[Question] Which is greater in each pair?
+[Question] (a)  0.6 and 4/5
+[Question] (b)  3.18 and 16/5
+Let’s work it through
+[WorkedStep] (a)  Put both numbers in decimal form. To change fifths to tenths, 4/5 = (4 × 2)/(5 × 2) = 8/10 = 0.8. Both whole parts are zero. At the tenths place, 6 < 8, so 0.6 < 4/5.
+[Question] Think: change both 0.6 and 4/5 to fractions. Which is greater? Does this agree with the decimal method?
+Check your method
+[WorkedStep] 0.6 = 6/10 = (6 ÷ 2)/(10 ÷ 2) = 3/5. Since 3/5 < 4/5, the greater number is 4/5. Both methods agree.
+[WorkedStep] (b)  16/5 = (16 × 2)/(5 × 2) = 32/10 = 3.2. Write 3.2 as 3.20 to line up the places. Both numbers have 3 wholes. Compare their tenths next: 1 < 2, so 3.18 < 3.20. Therefore 3.18 < 16/5.
+[WorkedStep] A longer decimal is not automatically bigger. Compare from the left, place by place; stop at the first difference.
+Your turn after Example 14
+[Question] Which is greater, 1.92 or 1 1/2?
+Check your method
+[WorkedStep] Since 1/2 = 0.5, we have 1 1/2 = 1.50. Compare 1.92 with 1.50: the whole parts match, but 9 tenths is more than 5 tenths. The greater number is 1.92.
+[PanelizationEnd] END PANEL CH02-PAGE072-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 073

@@ -1,0 +1,83 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE102
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE102-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Practice 2G Question 4
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2G Question 4
+[Question] Estimate without a calculator, then evaluate. Keep the brackets.
+[Question] (a)  484.7 + 200.18 − 50.6
+[Question] (b)  194.2 − (3.8 − 8.51)
+[Question] (c)  −3.15 − (1.79 + 34.7)
+[Question] (d)  (14.99 + 36.17) − (3.98 + 5.49)
+Check your method
+[WorkedStep] (a)  A convenient estimate is 480 + 200 − 50 = 630. Exact: 484.70 + 200.18 = 684.88; 684.88 − 50.60 = 634.28.
+[WorkedStep] (b) First work inside the brackets. For an estimate, use 190 − (4 − 9). Since 4 − 9 = −5, we have 190 − (−5).
+[WorkedStep] Subtracting −5 means adding 5. Think of removing a debt of $5: your balance increases by $5. So our estimate is 190 + 5 = 195.
+[WorkedStep] Now use the original numbers. Inside the brackets, 3.80 − 8.51 goes below zero. The difference in size is 8.51 − 3.80 = 4.71, so 3.80 − 8.51 = −4.71.
+[WorkedStep] Put −4.71 in place of the brackets: 194.2 − (3.8 − 8.51) = 194.20 − (−4.71).
+[WorkedStep] Subtracting −4.71 means adding 4.71. Thus 194.20 − (−4.71) = 194.20 + 4.71 = 198.91. Check: 198.91 + (−4.71) = 194.20.
+[WorkedStep] (c) Estimate: −3 − (2 + 35) = −3 − 37 = −40. For the exact answer, first find 1.79 + 34.70 = 36.49.
+[WorkedStep] Now subtract 36.49 from −3.15. We are already 3.15 below zero and go another 36.49 below zero. Add those distances: 3.15 + 36.49 = 39.64. Therefore −3.15 − (1.79 + 34.7) = −3.15 − 36.49 = −39.64.
+[WorkedStep] (d) Estimate: (15 + 36) − (4 + 5) = 51 − 9 = 42. For the exact answer, calculate both brackets: 14.99 + 36.17 = 51.16, and 3.98 + 5.49 = 9.47.
+[WorkedStep] So (14.99 + 36.17) − (3.98 + 5.49) = 51.16 − 9.47 = 41.69.
+[PanelizationEnd] END PANEL CH02-PAGE102-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE102-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Practice 2G Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE102-PANEL02; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2G Question 5
+[Question] Evaluate.
+[Question] (a)  2.5 × 10²
+[Question] (b)  25.2 × 10⁴
+[Question] (c)  0.017 × 10⁵
+[Question] (d)  8 ÷ 10²
+[Question] (e)  285.3 ÷ 10³
+[Question] (f)  0.05 ÷ 10⁴
+Check your method
+[WorkedStep] (a)  10² = 100, so 2.5 × 100 = 250.
+[WorkedStep] (b)  10⁴ = 10 000, so 25.2 × 10 000 = 252 000.
+[WorkedStep] (c)  10⁵ = 100 000, so 0.017 × 100 000 = 1700.
+[WorkedStep] (d)  8 ÷ 100 = 0.08.
+[WorkedStep] (e)  285.3 ÷ 1000 = 0.2853.
+[WorkedStep] (f) Since 10⁴ = 10 × 10 × 10 × 10, divide by 10 four times. Watch the zeros:
+[WorkedStep] 0.05 ÷ 10 = 0.005; 0.005 ÷ 10 = 0.0005; 0.0005 ÷ 10 = 0.00005; 0.00005 ÷ 10 = 0.000005.
+[WorkedStep] So 0.05 ÷ 10 000 = 0.000005. Check: 0.000005 × 10 000 = 0.05.
+[PanelizationEnd] END PANEL CH02-PAGE102-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 103

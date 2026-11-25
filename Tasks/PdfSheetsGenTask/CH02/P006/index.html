@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH02 P006</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  .shot { position:absolute; margin:0; overflow:hidden; border-radius:3pt; border:.6pt solid rgba(214,166,78,.5); border-top:1pt solid #f7c684;
+          box-shadow:0 10pt 24pt rgba(2,5,14,.55); background:#0a1428; }
+  .shot .fill { position:absolute; }
+  .shot .fill img { position:absolute; left:0; top:0; width:100%; height:100%; display:block; }
+  .glass.strip { padding:8pt 11pt 9pt; border-radius:2pt; box-shadow:0 -4pt 12pt rgba(3,7,18,.25); }
+  .glass.strip::after { display:none; }
+  .glass.strip p { margin:0; font:400 14pt/18pt var(--sans); }
+  .tailsvg { position:absolute; left:0; top:0; overflow:visible; pointer-events:none; }
+  .tailsvg path { fill:#fbf6ea; }
+  .say.b { display:flex; align-items:center; padding:6pt 13pt 7pt; }
+  .hair { position:absolute; height:1pt; background:linear-gradient(90deg,#f7c684,rgba(247,198,132,.85)); box-shadow:0 0 6pt rgba(247,198,132,.6); }
+</style>
+</head>
+<body>
+<div class="page a4" id="page" data-chapter="CH02" data-page="P006">
+<div class="scene"><img src="assets/img/SCENE.jpg" alt=""><i class="shade-top"></i><i class="vignette"></i><i class="shade-bottom" style="height:300pt"></i><i style="position:absolute;left:0;top:0;width:864pt;height:648pt;background:linear-gradient(90deg,rgba(166,198,245,.22),rgba(166,198,245,0) 13%)"></i></div>
+<i class="bloom" style="left:150pt; top:-10pt; width:250pt; height:250pt; opacity:1"></i>
+<i class="bloom" style="left:280pt; top:90pt; width:300pt; height:230pt; opacity:0.8"></i>
+<div class="folio" style="right:24pt; top:24pt"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="9" fill="#0c1933" stroke="#cfe0fa" stroke-opacity=".55" stroke-width=".7"/><path d="M10 1 A9 9 0 0 1 10 19 A8.39 9 0 0 0 10 1 Z" fill="#e9f1fc"/></svg>06</div>
+<div class="glass " style="left:22pt; top:22pt; width:182pt; --x:22pt; --y:22pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><p class="voice" style="margin:0">The book is kept in a cupboard beneath the counter. The helper brings it out, along with the scale and weights it uses to measure ingredients. The children will not have to trust one loose label over another. They can check the actual food as well.</p></div>
+<figure class="shot" style="left:650pt; top:64pt; width:192pt; height:256pt"><div class="fill" style="left:-0.00pt; top:-0.00pt; width:192.00pt; height:256.00pt"><img src="assets/img/P006-2.jpg" alt=""></div></figure>
+<div class="glass frost strip" style="left:650pt; top:244pt; width:192pt; height:76pt; --x:650pt; --y:244pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><p>Before they begin, Ahana looks back towards the Gate.</p></div>
+<figure class="shot" style="left:22pt; top:390pt; width:333pt; height:236pt"><div class="fill" style="left:-0.00pt; top:-6.88pt; width:333.00pt; height:249.75pt"><img src="assets/img/P006-3.jpg" alt=""></div></figure>
+<figure class="shot" style="left:367pt; top:390pt; width:128pt; height:236pt"><div class="fill" style="left:-24.50pt; top:-0.00pt; width:177.00pt; height:236.00pt"><img src="assets/img/P006-4.jpg" alt=""></div></figure>
+<figure class="shot" style="left:507pt; top:390pt; width:333pt; height:236pt"><div class="fill" style="left:-0.00pt; top:-6.88pt; width:333.00pt; height:249.75pt"><img src="assets/img/P006-5.jpg" alt=""></div></figure>
+<i class="hair" style="left:22pt; top:390pt; width:830pt"></i>
+<div class="say b " style="left:24pt; top:340pt; width:200pt; height:76pt; box-sizing:border-box"><span>Those children are still waiting. Can we send food while we work?</span><svg class="tailsvg" style="width:200pt;height:76pt" viewBox="0 0 200 76"><path d="M86.0 74 Q89.0 94.9 100.0 112.0 Q97.0 89.2 104.0 74 Z"/></svg></div>
+<div class="say b " style="left:372pt; top:338pt; width:150pt; height:76pt; box-sizing:border-box"><span>As soon as a recipe and its portions are right.</span><svg class="tailsvg" style="width:150pt;height:76pt" viewBox="0 0 150 76"><path d="M79.0 74 Q82.0 94.9 91.0 112.0 Q90.0 89.2 97.0 74 Z"/></svg></div>
+<div class="say b " style="left:698pt; top:368pt; width:142pt; height:76pt; box-sizing:border-box"><span>We don’t need to finish every counter first.</span><svg class="tailsvg" style="width:142pt;height:76pt" viewBox="0 0 142 76"><path d="M2 52.0 Q-13.4 54.0 -26.0 68.0 Q-9.2 62.0 2 68.0 Z"/></svg></div>
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

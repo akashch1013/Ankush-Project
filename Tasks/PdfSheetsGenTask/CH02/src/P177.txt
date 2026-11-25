@@ -1,0 +1,156 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE177
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 15E A; Visual beat CH02 15F A; Visual beat CH02 15F B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 15E A; Visual beat CH02 15F A; Visual beat CH02 15F B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 15E A; Visual beat CH02 15F A; Visual beat CH02 15F B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 15E A; Visual beat CH02 15F A; Visual beat CH02 15F B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 15 An old photograph and a new problem
+[PaginationMetadata] Applies to: Visual beat CH02 15E A; continuity and reveal timing only | Visual beat CH02 15F A; Visual beat CH02 15F B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 15E; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 15E; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 15E; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 15E; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing; final admission groups
+[ProductionNote] The first forty later wait inside Entry Court; Ira, Kabir and the girl in green with her two friends remain among the next twenty-two.
+[PaginationSourceLabel] Carried forward from: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PaginationMetadata] Applies to: Scene CH02 15F; Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PaginationMetadata] Applies to: Scene CH02 15F; Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] An equipment gallery crosses the upper-right background, with near stair and far staff door; a rear walkway reaches the back of the counting arch. These establish geography only in Chapter 02. No adult Veer, costume repair, float test, greeting or counting-strip theft is shown yet. Keep the same full-moon night, warm work light and cool roof edges.
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Visual beat CH02 15F A only; packing-bench background and current empty drawing clip
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Visual beat CH02 15F A only; packing-bench background and current empty drawing clip
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Visual beat CH02 15F A only; packing-bench background and current empty drawing clip
+[ProductionNote] After dispatch its former clip is empty.
+[PaginationSourceLabel] Carried forward from: Scene CH02 02D The reply reaches Food Street
+[PaginationMetadata] Applies to: Visual beat CH02 15F A only; packing-bench camera; current travelling props and empty drawing clip remain governed by the assigned beat
+[ProductionNote] View. Medium at the pale packing bench and clip above it, with the Return Walk post beside the bench.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 15E Keep the friends together
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Exterior medium of the Gate’s service entrance and nearby waiting group, blue doors between pale piers, bench right and planter left.
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The Gate helper has received Tara’s authorisation via Pip. The first forty are assigned to Entry Court. Ira, Kabir, the girl in green and her two friends remain outside in the next group of twenty-two. Food/drink recipients are not identical to admission groups.
+[ProductionNote] Planning requirements. No full sixty-two-person admission occurs in Chapter 02. Show a few foreground people and suggested queue depth; records carry exact 40 and 22 rather than forcing a countable crowd.
+[PanelizationHeading] PANEL CH02-PAGE177-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 15E A The next group stays together
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15E Keep the friends together
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; Scene CH02 15E; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15E Keep the friends together
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; Scene CH02 15E; view; assigned beat stage only
+[ProductionNote] View. Exterior medium of the Gate’s service entrance and nearby waiting group, blue doors between pale piers, bench right and planter left.
+[PanelizationMetadata] SOURCE: Scene CH02 15E Keep the friends together
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; Scene CH02 15E; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15E Keep the friends together
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; Scene CH02 15E; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The Gate helper has received Tara’s authorisation via Pip. The first forty are assigned to Entry Court. Ira, Kabir, the girl in green and her two friends remain outside in the next group of twenty-two. Food/drink recipients are not identical to admission groups.
+[PanelizationMetadata] SOURCE: Scene CH02 15E Keep the friends together
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; Scene CH02 15E; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. No full sixty-two-person admission occurs in Chapter 02. Show a few foreground people and suggested queue depth; records carry exact 40 and 22 rather than forcing a countable crowd.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL01; Visual beat CH02 15E A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The first forty later wait inside Entry Court; Ira, Kabir and the girl in green with her two friends remain among the next twenty-two.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15E A The next group stays together
+[ProductionNote] Moment and staging. Ira and Kabir stand beside the green Gate helper passing news to their group, notebook closed in Kabir’s left hand and right hand open in explanation. The girl in green waits with both friends, whose drinks are still in hand. The helper keeps them together beside a group record showing 22. Pip is near the doorway with empty clip after delivery. Do not separate the friends or move Ira’s saved cup drawing out of her purse.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ira and Kabir stay behind briefly to pass on the news. The girl in green waits with two friends who are still finishing their drinks. The Gate helper puts them in the next group of twenty-two rather than separating them.
+[PanelizationEnd] END PANEL CH02-PAGE177-PANEL01
+[SceneHeading] Scene CH02 15F The next place opens
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE177-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 15F A Collect the travelling props
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; current Food Street equipment and closed-box state only
+[ProductionNote] Food Street’s cooking and drinks remain operational behind them.
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; current closed-box state only
+[ProductionNote] The blue-lidded box remains closed on the recipe counter with its photograph inside.
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; concealed information and Chapter 03 actions excluded
+[ProductionNote] Keep Veer absent from this Chapter 02 reveal. No greeting, costume repair, float test or theft occurs until Chapter 03.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] After dispatch its former clip is empty.
+[PanelizationMetadata] SOURCE: Scene CH02 02D The reply reaches Food Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL02; Visual beat CH02 15F A; retained camera only; Visual beat CH02 15F A current props and state
+[ProductionNote] View. Medium at the pale packing bench and clip above it, with the Return Walk post beside the bench.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15F A Collect the travelling props
+[ProductionNote] Moment and staging. Silent transition at Food Street’s packing bench. Use the background in Location CH02 L03 and the camera specified in Scene CH02 02D. Ahana lifts the portable lamp with her right hand; Tara stands nearby with the staff retrieved in her right hand, left hand free. Their evidence remains secured and the sketchbook packed. The move to the far shutters occurs between this image and Visual beat CH02 15F B; show only the packing-bench location here.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE177-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE177-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 15F B The shutters rise
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; Scene CH02 15F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; Scene CH02 15F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; Scene CH02 15F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; Scene CH02 15F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; Scene CH02 15F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] An equipment gallery crosses the upper-right background, with near stair and far staff door; a rear walkway reaches the back of the counting arch. These establish geography only in Chapter 02. No adult Veer, costume repair, float test, greeting or counting-strip theft is shown yet. Keep the same full-moon night, warm work light and cool roof edges.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE177-PANEL03; Visual beat CH02 15F B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15F B The shutters rise
+[ProductionNote] Moment and staging. At the far threshold, freeze the powered shutter partway up, with the trio and Tara safely back from its moving edge. Ahana holds the lamp right, left hand at her side; Tara holds staff right. Tez stays beside Ahana. Reserve the full elephant and clown reveal for the next image.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] At Food Street’s far end, the powered shutters rise.
+[PanelizationEnd] END PANEL CH02-PAGE177-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 178

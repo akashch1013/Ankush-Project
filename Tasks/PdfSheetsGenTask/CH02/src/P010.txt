@@ -1,0 +1,129 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE010
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 03A A; Visual beat CH02 03A B; Visual beat CH02 03A C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 03A A; Visual beat CH02 03A B; Visual beat CH02 03A C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 03A A; Visual beat CH02 03A B; Visual beat CH02 03A C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 03A A; Visual beat CH02 03A B; Visual beat CH02 03A C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 03A A; Visual beat CH02 03A B; Visual beat CH02 03A C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03A; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03A; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 03 Check the stock
+[ProductionLabel] Production sequence reference CH02-03. Non-printing background and continuity.
+[SceneHeading] Scene CH02 03A Half of which whole
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium across the cool recipe counter, with the brass tank and blue wall behind two differently sized containers.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The supply remains closed. The helper brings two geometrically similar containers of different full capacity, each with a HALF USED card. Each visibly holds half its own capacity; the larger amount is larger.
+[ProductionNote] Planning requirements. Do not make the containers equal in capacity or imply that two halves of different wholes must be equal. These containers are not the later one-litre bottle and jug.
+[PanelizationHeading] PANEL CH02-PAGE010-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 03A A Two half-used containers
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; Scene CH02 03A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; Scene CH02 03A; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool recipe counter, with the brass tank and blue wall behind two differently sized containers.
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; Scene CH02 03A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; Scene CH02 03A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The supply remains closed. The helper brings two geometrically similar containers of different full capacity, each with a HALF USED card. Each visibly holds half its own capacity; the larger amount is larger.
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; Scene CH02 03A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Do not make the containers equal in capacity or imply that two halves of different wholes must be equal. These containers are not the later one-litre bottle and jug.
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL01; Visual beat CH02 03A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03A A Two half-used containers
+[ProductionNote] Moment and staging. The helper has placed the two containers side by side on the cool counter, both wooden hands released. Ahana and the others look at their visibly different full sizes. Keep both HALF USED cards readable; do not attach numerical masses not supplied by the story.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The food helper brings the two containers marked HALF USED. One is much larger than the other.
+[PanelizationEnd] END PANEL CH02-PAGE010-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE010-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 03A B Tara asks about the whole
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; Scene CH02 03A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; Scene CH02 03A; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool recipe counter, with the brass tank and blue wall behind two differently sized containers.
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; Scene CH02 03A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; Scene CH02 03A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The supply remains closed. The helper brings two geometrically similar containers of different full capacity, each with a HALF USED card. Each visibly holds half its own capacity; the larger amount is larger.
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; Scene CH02 03A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Do not make the containers equal in capacity or imply that two halves of different wholes must be equal. These containers are not the later one-litre bottle and jug.
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL02; Visual beat CH02 03A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03A B Tara asks about the whole
+[ProductionNote] Moment and staging. Tara turns her open left palm between the two containers, right hand on her staff, and looks towards Ahana. The children remain on the cool side. No additional measuring action occurs.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth | Source speech attribution: Tara asks.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Half of which container?
+[PanelizationEnd] END PANEL CH02-PAGE010-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE010-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 03A C Ahana sees the difference
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; Scene CH02 03A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; Scene CH02 03A; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool recipe counter, with the brass tank and blue wall behind two differently sized containers.
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; Scene CH02 03A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; Scene CH02 03A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The supply remains closed. The helper brings two geometrically similar containers of different full capacity, each with a HALF USED card. Each visibly holds half its own capacity; the larger amount is larger.
+[PanelizationMetadata] SOURCE: Scene CH02 03A Half of which whole
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; Scene CH02 03A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Do not make the containers equal in capacity or imply that two halves of different wholes must be equal. These containers are not the later one-litre bottle and jug.
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE010-PANEL03; Visual beat CH02 03A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03A C Ahana sees the difference
+[ProductionNote] Moment and staging. Retain the camera, background, container positions and character locations specified in Scene CH02 03A. Ahana looks from the smaller container to the larger one with recognition, right index finger indicating the larger half-filled area without touching food. Her left hand rests on the clear counter edge. Tara lowers her left hand.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana sees why the full size matters: half of the larger container is a larger amount.
+[PanelizationEnd] END PANEL CH02-PAGE010-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 011

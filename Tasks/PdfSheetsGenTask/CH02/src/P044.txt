@@ -1,0 +1,127 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE044
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 05B D; Visual beat CH02 05B E; Visual beat CH02 05B F; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 05B D; Visual beat CH02 05B E; Visual beat CH02 05B F; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 05B D; Visual beat CH02 05B E; Visual beat CH02 05B F; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 05B D; Visual beat CH02 05B E; Visual beat CH02 05B F; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Scene CH02 05B Measured filling and cold batter
+[PaginationSourceLabel] Carried forward from: Scene CH02 05B Measured filling and cold batter
+[PaginationSourceLabel] Carried forward from: Scene CH02 05B Measured filling and cold batter
+[PaginationSourceLabel] Carried forward from: Scene CH02 05B Measured filling and cold batter
+[PaginationSourceLabel] Carried forward from: Scene CH02 05B Measured filling and cold batter
+[PaginationSourceLabel] Carried forward from: Sequence 05 Five trays and one small trial
+[PaginationMetadata] Applies to: Visual beat CH02 05B D; Visual beat CH02 05B E; Visual beat CH02 05B F; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 05B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 05B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 05B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing; cold flow trial and its recovery only
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE044-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B D Controlled cold flow
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; Scene CH02 05B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; Scene CH02 05B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; Scene CH02 05B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; Scene CH02 05B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; Scene CH02 05B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 05 Five trays and one small trial
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL01; Visual beat CH02 05B D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 05B D Controlled cold flow
+[ProductionNote] Moment and staging. Silent close view of cold flow. Before this image, the helper loads the single measured 2/15 kg trial into the empty tank and places the emptied trial bowl beneath the outlet. Heat is OFF. The measuring cup is swung aside on its cleaning hinge, exposing the tank supply spout directly over the bowl. The helper’s right hand holds the cup aside by its cool outer bracket; its left rests on the cool back edge. The long serving handle stays at rest and is not used for this test. The bowl stands unsupported on the cold plate. Tara’s left hand holds the supply tap open, staff right. Freeze with a thin stream entering the bowl and visible trial batter still upstream. All visible batter belongs to the same 2/15 kg charge; no full-dose calibration is implied.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE044-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE044-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B E The valve stops the flow
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; Scene CH02 05B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; Scene CH02 05B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; Scene CH02 05B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; Scene CH02 05B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; Scene CH02 05B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 05 Five trays and one small trial
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B D Controlled cold flow
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; retained close camera only; Visual beat CH02 05B E stopped flow
+[ProductionNote] Moment and staging. Silent close view of cold flow.
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B D Controlled cold flow
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL02; Visual beat CH02 05B E; retained bowl placement only
+[ProductionNote] The bowl stands unsupported on the cold plate.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 05B E The valve stops the flow
+[ProductionNote] Moment and staging. Separate stopped-flow result using the camera and bowl placement in Visual beat CH02 05B D. Tara’s left hand has closed the supply tap; her right holds the staff. The helper still holds the measuring cup aside by its cool outer bracket with its right hand, left hand on the cool back edge. The exposed supply spout is directly above the bowl. There is no stream, although some of the same measured trial remains visibly above the closed supply tap. This residual batter proves shutoff rather than an exhausted charge. The bowl and retained batter together remain the original 2/15 kg, without new numerical labels. Heat stays OFF; the portion stop is uncorrected.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara lets the small amount of batter pass into the test bowl and closes the valve. The flow stops when the valve closes. Now they can set the amount released for each full dosa.
+[PanelizationEnd] END PANEL CH02-PAGE044-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE044-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B F Recover the complete cold trial
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; Scene CH02 05B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; Scene CH02 05B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; Scene CH02 05B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; Scene CH02 05B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; Scene CH02 05B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 05 Five trays and one small trial
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE044-PANEL03; Visual beat CH02 05B F; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 05B F Recover the complete cold trial
+[ProductionNote] Moment and staging. Silent result at the cold dispenser. Following the shutoff demonstration in Visual beat CH02 05B E, the helper drains the residual trial into its original bowl while heat stays OFF, then closes the supply tap and reseats the empty measuring cup beneath the tank spout. Draw only the completed state: tank and reseated cup empty, supply tap closed, serving handle at rest and cup outlet closed, the full original 2/15 kg trial together in its bowl on the dry back shelf, helper’s hands clear. Tara holds staff right. No new trial is performed; this recovered batter stays separate from the new 2/3 kg batch in Scene CH02 06A.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE044-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 045

@@ -1,0 +1,167 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE060
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 07B A; Visual beat CH02 07B B; Visual beat CH02 07B C; Visual beat CH02 07B D; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 07B A; Visual beat CH02 07B B; Visual beat CH02 07B C; Visual beat CH02 07B D; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 07B A; Visual beat CH02 07B B; Visual beat CH02 07B C; Visual beat CH02 07B D; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 07B A; Visual beat CH02 07B B; Visual beat CH02 07B C; Visual beat CH02 07B D; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 07B A; Visual beat CH02 07B B; Visual beat CH02 07B C; Visual beat CH02 07B D; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 07 Food reaches the waiting children
+[PaginationMetadata] Applies to: Visual beat CH02 07B A; Visual beat CH02 07B B; Visual beat CH02 07B C; Visual beat CH02 07B D; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 07B; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 07B; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 07B; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 07B The first food reaches the Gate
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE060-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 07B A Ira reads the update
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; Scene CH02 07B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; Scene CH02 07B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; Scene CH02 07B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; Scene CH02 07B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; Scene CH02 07B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL01; Visual beat CH02 07B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07B A Ira reads the update
+[ProductionNote] Moment and staging. Ira holds the new note in her left hand at chest height and reads it to the waiting children; her right hand rests on the bench edge. Pip perches with empty clip. Kabir looks up from his notebook, held left with pencil right. Keep the note lettering too small to repeat its full text in this view.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] At the Gate, Ira reads it aloud.
+[PanelizationEnd] END PANEL CH02-PAGE060-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE060-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 07B B Guide the food to those waiting longest
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; Scene CH02 07B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; Scene CH02 07B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; Scene CH02 07B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; Scene CH02 07B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; Scene CH02 07B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL02; Visual beat CH02 07B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07B B Guide the food to those waiting longest
+[ProductionNote] Moment and staging. The saffron assistant arrives holding one wrap tray level in both hands. Ira points with her right hand towards the nearest waiting group; the folded update is secure in her left. Kabir stands clear of the service path. The green Gate helper supervises from the doorway.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] When an assistant arrives with the first tray, she guides it towards the children who have waited longest.
+[PanelizationEnd] END PANEL CH02-PAGE060-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE060-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 07B C Looking for a drink
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; Scene CH02 07B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; Scene CH02 07B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; Scene CH02 07B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; Scene CH02 07B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; Scene CH02 07B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL03; Visual beat CH02 07B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07B C Looking for a drink
+[ProductionNote] Moment and staging. The girl in green smiles at the arriving food, then looks towards the still-absent drinks. Freeze on her searching gaze. Ira turns towards her, right hand lowered and left holding the folded note, expression reassuring. The food assistant remains behind the tray; the girl’s friends stay beside her.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The girl in green smiles at the food, then looks for a drink.
+[ProductionNote] DO NOT PRINT — Speaker: Ira | Tail target: Ira’s visible mouth | Source speech attribution: Ira tells her.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] They’re working on that.
+[PanelizationEnd] END PANEL CH02-PAGE060-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE060-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 07B D Not forgotten
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; Scene CH02 07B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; Scene CH02 07B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; Scene CH02 07B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; Scene CH02 07B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 07B The first food reaches the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; Scene CH02 07B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 07B C Looking for a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE060-PANEL04; Visual beat CH02 07B D; retained group positions
+[ProductionNote] The food assistant remains behind the tray; the girl’s friends stay beside her.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07B D Not forgotten
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and group positions specified in Visual beat CH02 07B C. Ira inclines her head towards the girl and changes her empty right hand to a gentle open-palm reassurance. Her left still holds the folded update. The girl meets her gaze. No drink appears early.
+[ProductionNote] DO NOT PRINT — Speaker: Ira | Tail target: Ira’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] You haven’t been forgotten.
+[PanelizationEnd] END PANEL CH02-PAGE060-PANEL04
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 061

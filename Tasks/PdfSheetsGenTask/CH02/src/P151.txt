@@ -1,0 +1,58 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE151
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE151-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Practice 2L Question 6; Practice 2L Question 7
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE151-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2L Question 6
+[Question] Benny spends 8 hours in the office, including a 1-hour lunch break and a 1/2-hour tea break. He works for the remaining time. Find the percentage of the 8 hours spent on
+[Question] (a)  lunch
+[Question] (b)  tea break
+[Question] (c)  work
+Check your method
+[WorkedStep] (a) Lunch takes 1 of the 8 hours: 1/8 × 100% = (100 ÷ 8)% = 12.5%.
+[WorkedStep] (b) The tea break is 1/2 hour = 0.5 hour. Its share is 0.5/8 × 100% = 50/8% = 6.25%.
+[WorkedStep] (c) Work time = 8 − 1 − 0.5 = 6.5 hours. Its share is 6.5/8 × 100% = 650/8% = 81.25%.
+[WorkedStep] Check: 12.5% + 6.25% + 81.25% = 100%. We divide by the full 8 hours in every part, including the breaks in that total.
+Practice 2L Question 7
+[Question] The pet table lists these numbers of families in a town: goldfish 100, hamster 150, rabbit 250, cat 500.
+[Question] (a)  Find the percentage keeping cats.
+[Question] (b)  Find the percentage keeping goldfish.
+[Question] (c)  Find the difference between the percentages keeping hamsters and rabbits.
+| Pet | Number of families |
+| Goldfish | 100 |
+| Hamster | 150 |
+| Rabbit | 250 |
+| Cat | 500 |
+[ProductionNote] Production note V42 — Preserve the four categories and counts; do not add a total to the question table. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Check your method
+[WorkedStep] (a) For this exercise, assume each family appears in just one of the four pet groups. Add the counts to find the total: 100 + 150 + 250 + 500 = 1000 families.
+[WorkedStep] Cats: 500/1000 × 100% = 50%.
+[WorkedStep] (b)  Goldfish: 100/1000 × 100% = 10%.
+[WorkedStep] (c)  Hamsters: 150/1000 × 100% = 15%. Rabbits: 250/1000 × 100% = 25%.
+[WorkedStep] Difference: 25% − 15% = 10 percentage points. We use “percentage points” for the gap between two percentages.
+[WorkedStep] In a real survey, one family might keep both a cat and a rabbit. Adding the pet-group counts would then count that family twice. We would need the number of different families before finding percentages of all families.
+[PanelizationEnd] END PANEL CH02-PAGE151-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 152

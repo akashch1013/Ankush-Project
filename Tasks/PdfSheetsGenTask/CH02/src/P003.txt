@@ -1,0 +1,174 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE003
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 01C A; Visual beat CH02 01C B; Visual beat CH02 01D A; Visual beat CH02 01D B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 01C A; Visual beat CH02 01C B; Visual beat CH02 01D A; Visual beat CH02 01D B; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 01C A; Visual beat CH02 01C B; Visual beat CH02 01D A; Visual beat CH02 01D B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 01C A; Visual beat CH02 01C B; Visual beat CH02 01D A; Visual beat CH02 01D B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 01C A; Visual beat CH02 01C B; Visual beat CH02 01D A; Visual beat CH02 01D B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 01 A kitchen with conflicting instructions
+[PaginationMetadata] Applies to: Visual beat CH02 01C A; Visual beat CH02 01C B; continuity and reveal timing only | Visual beat CH02 01D A; Visual beat CH02 01D B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 01C; Scene CH02 01D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 01C; Scene CH02 01D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 01C Two instructions for one dish
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium across the cool recipe counter; the blue wall, cupboard front and brass batter tank identify the left-hand side of Food Street.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights remain stored inside the closed cupboard until Visual beat CH02 01G A; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The food helper holds one loose instruction in each hand. The book is still inside the cupboard. The supply tap has not yet been closed by Tara.
+[ProductionNote] Planning requirements. Do not reveal the later stock-card fractions or the V in this introductory view.
+[PanelizationHeading] PANEL CH02-PAGE003-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 01C A The helper’s dilemma
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; Scene CH02 01C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; Scene CH02 01C; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool recipe counter; the blue wall, cupboard front and brass batter tank identify the left-hand side of Food Street.
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; Scene CH02 01C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; Scene CH02 01C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights remain stored inside the closed cupboard until Visual beat CH02 01G A; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The food helper holds one loose instruction in each hand. The book is still inside the cupboard. The supply tap has not yet been closed by Tara.
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; Scene CH02 01C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Do not reveal the later stock-card fractions or the V in this introductory view.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL01; Visual beat CH02 01C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01C A The helper’s dilemma
+[ProductionNote] Moment and staging. The food helper faces Tara with one instruction raised in each wooden hand, elbows bent and painted eyes worried. Tara watches from the shut-off end, left hand relaxed. The children listen from the cool side. Its first statement points to the already-present food, without starting another pour.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Behind the recipe counter stands a wooden helper in a saffron apron and an ivory cap. It holds two different instructions for the same dish.
+[ProductionNote] DO NOT PRINT — Speaker: Food helper | Tail target: Food helper’s visible mouth | Source speech attribution: it tells Tara.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I have food.
+[PanelizationEnd] END PANEL CH02-PAGE003-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE003-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 01C B Which card to follow
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; Scene CH02 01C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; Scene CH02 01C; view; assigned beat stage only
+[ProductionNote] View. Medium across the cool recipe counter; the blue wall, cupboard front and brass batter tank identify the left-hand side of Food Street.
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; Scene CH02 01C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; Scene CH02 01C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights remain stored inside the closed cupboard until Visual beat CH02 01G A; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The food helper holds one loose instruction in each hand. The book is still inside the cupboard. The supply tap has not yet been closed by Tara.
+[PanelizationMetadata] SOURCE: Scene CH02 01C Two instructions for one dish
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; Scene CH02 01C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Do not reveal the later stock-card fractions or the V in this introductory view.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL02; Visual beat CH02 01C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01C B Which card to follow
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character locations specified in Scene CH02 01C. The food helper lowers its left-hand card slightly and angles the right-hand card towards Tara, head tilted between them. Both cards remain held. The others keep their places and look at the cards.
+[ProductionNote] DO NOT PRINT — Speaker: Food helper | Tail target: Food helper’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I don’t know which cards to follow.
+[PanelizationEnd] END PANEL CH02-PAGE003-PANEL02
+[SceneHeading] Scene CH02 01D The mismatched dosas
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Low medium along the cool plate shelf towards the brass tank and measuring cup; show the separate cooking plate behind the counter.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights remain stored inside the closed cupboard until Visual beat CH02 01G A; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. An oversized cooked dosa overhangs its small plate; a tiny cooked dosa sits beside it. Neither is raw batter. The portion stop is still wrong.
+[ProductionNote] Planning requirements. The captions about one measured cup and cooking describe the intended process. Keep the still at the existing faulty output; do not perform a corrected pour before T2.3B.
+[PanelizationHeading] PANEL CH02-PAGE003-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 01D A Too much and too little
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; Scene CH02 01D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; Scene CH02 01D; view; assigned beat stage only
+[ProductionNote] View. Low medium along the cool plate shelf towards the brass tank and measuring cup; show the separate cooking plate behind the counter.
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; Scene CH02 01D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; Scene CH02 01D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights remain stored inside the closed cupboard until Visual beat CH02 01G A; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. An oversized cooked dosa overhangs its small plate; a tiny cooked dosa sits beside it. Neither is raw batter. The portion stop is still wrong.
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; Scene CH02 01D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The captions about one measured cup and cooking describe the intended process. Keep the still at the existing faulty output; do not perform a corrected pour before T2.3B.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL03; Visual beat CH02 01D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01D A Too much and too little
+[ProductionNote] Moment and staging. Ahana leans slightly towards the dry shelf, hands resting apart on its clear front edge, looking at the oversized dosa. The helper stands behind the tank, hands off the handle. Retain the tiny dosa beside the large one. Make tank, measuring cup and separate cooking surface distinct.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana looks at a cooked dosa hanging over a plate far too small for it. Beside it is a tiny one. Above the cooking surface stands a brass batter dispenser: a tank with a measuring cup beneath it. Each pull should release one measured cup of batter onto the hot plate. The food helper cooks the dosa, then moves it onto a serving plate.
+[PanelizationEnd] END PANEL CH02-PAGE003-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE003-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 01D B Tez considers the tiny portion
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; Scene CH02 01D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; Scene CH02 01D; view; assigned beat stage only
+[ProductionNote] View. Low medium along the cool plate shelf towards the brass tank and measuring cup; show the separate cooking plate behind the counter.
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; Scene CH02 01D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; Scene CH02 01D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights remain stored inside the closed cupboard until Visual beat CH02 01G A; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. An oversized cooked dosa overhangs its small plate; a tiny cooked dosa sits beside it. Neither is raw batter. The portion stop is still wrong.
+[PanelizationMetadata] SOURCE: Scene CH02 01D The mismatched dosas
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; Scene CH02 01D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The captions about one measured cup and cooking describe the intended process. Keep the still at the existing faulty output; do not perform a corrected pour before T2.3B.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE003-PANEL04; Visual beat CH02 01D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01D B Tez considers the tiny portion
+[ProductionNote] Moment and staging. Use a lower crop of the plate shelf with Tez’s visible face below its front edge. Tez stays on four paws, head lifted towards the tiny dosa and ears cocked. Ahana looks down at him with a slight smile; her hands remain at the cool edge. Tez addresses the group.
+[ProductionNote] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s visible mouth | Source speech attribution: Tez asks.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Is this one for an ant?
+[PanelizationEnd] END PANEL CH02-PAGE003-PANEL04
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 004

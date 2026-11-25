@@ -1,0 +1,432 @@
+[Title] ChandRush Chapter 02
+Location Image Register
+[Subtitle] V04  Location reference images  26 October 2026
+Twenty-four location image descriptions, with camera views, visible equipment states, image titles, filenames and individually specified labels.
+## Master references
+| Reference name | Image identity |
+| Food Street master | The approved entrance view from Lantern Street, including the intact brass bowl beside the nearest cart wheel. |
+| Old Blue Gate master | The approved exterior with the left-leaf service door, separate equipment exit, left planter and right bench. |
+| Covered Return Walk master | The covered passage along the fair’s left boundary, with the Food Street junction and route towards Entry Court. |
+| Parade Ground master | The yard beyond Food Street, with the left visitor lane, central rehearsal loop and supported blue elephant at the right. |
+## Spatial layout
+The spatial reference is the existing ChandRush fair map used for Chapter 01. Food Street, Old Blue Gate and their connecting routes occupy the same fair geography.
+In Food Street, left and right are defined from Lantern Street looking towards the far Parade opening. Cooking is left, drinks right, the packing bench and Return Walk door near-left, and the loading table central. At Old Blue Gate, left and right are defined from the exterior waiting lane facing the main doors.
+## Image appearance
+Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Chapter 01 master references: dimensional materials, cinematic depth, rich indigo timber, warm brass, cream stone and pale paving. Fixed amber lamps contrast with cool full-moon light. Ornament, surface texture and architectural proportions retain the masters’ richness and scale.
+# Image index
+| ID | Location and view | Master reference |
+| L01_A | Entrance obstructed | Food Street |
+| L01_B | Entrance cleared | Food Street |
+| L02_A | Recipe counter working view | Food Street |
+| L02_B | Recipe and weighing work surface | Food Street |
+| L02_C | Cool filling preparation area | Food Street |
+| L02_D | Dispenser controls before adjustment | Food Street |
+| L02_E | Cold test configuration | Food Street |
+| L02_F | Corrected serving configuration | Food Street |
+| L02_G | Low plate shelf view | Food Street |
+| L03_A | Packing bench and empty trolley | Food Street |
+| L03_B | Recovered stock corner | Food Street |
+| L03_C | Empty loading table mechanism | Food Street |
+| L03_D | Unequal tray loads 25 and 15 | Food Street |
+| L03_E | Balanced tray loads 20 and 20 | Food Street |
+| L03_F | Remaining tray loads 12 and 12 | Food Street |
+| L03_G | Trolley ready for dispatch | Food Street |
+| L05_A | Drink counter working view | Food Street |
+| L05_B | Low drink counter view | Food Street |
+| L05_C | Dry weighing and preparation end | Food Street |
+| L04_A | Service doorway working view | Old Blue Gate |
+| L04_B | Bench writing and waiting view | Old Blue Gate |
+| L06_A | Delivery route towards Entry Court | Covered Return Walk / Food Street |
+| L07_A | View from Food Street threshold | Parade Ground / Food Street |
+| L07_B | Elephant work area | Parade Ground |
+# 01  Entrance obstructed
+Location L01_A  |  Food Street — Master from Lantern Street
+Filename CH02_L01_A_Food_Street_Entrance_Obstructed.png
+Master reference Food Street master
+Image title FOOD STREET — MASTER FROM LANTERN STREET
+ENTRANCE OBSTRUCTED
+Camera and framing 4:3 landscape wide view from the Lantern Street threshold straight into Food Street, at the master’s camera height and vanishing point. Both entrance posts, the near-left bench and side doorway, the nearest cart wheel, the central table and the far shutter opening are within the frame.
+Location and construction Food Street is the covered lane shown in the master. Looking from Lantern Street towards the far Parade opening, cooking is on the left, drinks on the right, the packing bench and Return Walk door are near-left, and the round loading table is central. Tall indigo posts, brass brackets, saffron and teal awnings, pale irregular paving and cream counter slabs retain the master’s proportions and positions. The round table has two matching trays on a central tilting cradle above its fixed pedestal. The trolley beside the packing bench has a 4×4 upper cup carrier and a separate lower snack shelf.
+Visible arrangement The crooked wooden cart blocks the entrance in its master position. One intact brass bowl is tipped on its side against the lower-left outer edge of the nearest wheel. Its smooth continuous rim touches the wheel, most of the bowl projects left, and small contact shadows join bowl, wheel and paving. The cart’s other bowls and wooden supports retain their master positions. A portable brass lamp stands on the packing bench’s entrance corner. The near entrance shutters are raised; the far Parade shutters are fully closed with blue-and-brass panels. Both loading-table trays are empty, with the entrance-side tray slightly lower at its shallow travel stop. The trolley holds sixteen empty cups above and an empty tray below.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The bowl rim, wheel contact, cart supports and floor beside the cart remain unobscured by the title, callouts and leader lines.
+| Exact label | Callout position and leader target |
+| CART CLEARING POSITION | Lower-right callout to the clear paving beside the cart’s accessible carrying edge, outside the wheel footprint. |
+| BOWL RECOVERY POINT | Lower-centre callout to the paving immediately beside the trapped bowl rim; the rim and its contact shadow remain visible. |
+| LAMP SET-DOWN POINT | Left-margin callout to the dry bench corner supporting the portable brass lamp. |
+# 02  Entrance cleared
+Location L01_B  |  Food Street — Master from Lantern Street
+Filename CH02_L01_B_Food_Street_Entrance_Cleared.png
+Master reference Food Street master
+Image title FOOD STREET — MASTER FROM LANTERN STREET
+ENTRANCE CLEARED
+Camera and framing 4:3 landscape wide view from the Lantern Street threshold straight into Food Street, at the master’s camera height and vanishing point. Both entrance posts, the near-left packing bench and Return Walk doorway, the central table and the far shutter opening are within the frame.
+Location and construction Food Street is the covered lane shown in the master. Looking from Lantern Street towards the far Parade opening, cooking is on the left, drinks on the right, the packing bench and Return Walk door are near-left, and the round loading table is central. The master’s indigo posts, brass brackets, saffron and teal awnings, pale paving and cream counters retain their dimensions. The round table has two matching trays on a centrally pivoted cradle above its fixed pedestal. The blue-and-brass delivery trolley stands beside the packing bench with a 4×4 upper cup carrier and separate lower snack shelf.
+Visible arrangement The entrance paving is clear. The crooked cart is parked lengthways against the near-left wall, before the packing bench and clear of the Return Walk doorway. Its formerly trapped intact bowl and the other fallen bowls are gathered on the dry bench, leaving the walking surface clear. The portable brass lamp stands at the bench’s entrance corner. A separate ordinary wooden handcart occupies a side parking space by the entrance wall, clear of the crooked cart and delivery trolley. The trolley holds sixteen empty cups and an empty lower tray. Both central table trays are empty and the entrance-side tray is shallowly lower. Near shutters are raised and far Parade shutters closed.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The labels sit beside the walking and standing spaces; the route and doorway floor remain readable.
+| Exact label | Callout position and leader target |
+| GROUP STANDING AREA | Lower-centre callout to the clear paving inside the entrance, beyond the parked cart footprint. |
+| DELIVERY ROUTE | Lower-right callout to the open aisle between the entrance and packing area, passing beside the central table. |
+| DELIVERY EXIT | Left-margin callout to the level, unobstructed Return Walk threshold beside the packing bench. |
+# 03  Recipe counter working view
+Location L02_A  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_A_Food_Street_Recipe_Counter_Working_View.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+RECIPE COUNTER WORKING VIEW
+Camera and framing 4:3 landscape medium-wide view from the customer aisle towards the cooking counter’s blue timber backdrop. The entrance end is frame-left and the dispenser end frame-right. The full front slab edge, cupboard doors, dry work area, filling area, dispenser and plate shelf are visible, with a clear strip of paving below.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. The front paving gives access to the cupboard and cool counter edge; the working aisle behind the cooking area is clear. One brass tank stands on fixed supports above a single adjustable measuring cup and a separate cooking plate. A narrow inspection window on the tank’s cool-facing lower side reveals its interior above the supply tap while preserving the brass silhouette. The cup has a cleaning hinge on its Parade-facing side, attached to the tank support, a cool outer grip bracket and an adjustable fill stop. A supply tap between tank and cup is reachable from the cool entrance end. A long handle extends towards the cool front edge; its linkage isolates tank feed before opening the cup outlet. At rest the handle is raised and the outlet is shut. A separate heater switch serves the cooking plate behind the guard. The dry plate shelf is beside that plate, outside the heated area.
+Visible arrangement The original recipe book, a two-pan beam balance, seven equal ¼ kg weights and one batter stock tray occupy the dry end. A closed blue-lidded box rests above the cupboard. Two covered filling bowls and five empty sharing trays occupy the separate filling area. One oversized cooked dosa overhangs its small plate; one tiny cooked dosa rests on another plate on the dry shelf. The dispenser tank and cup are empty, the fill stop sits above a lower unlabelled tick, the supply tap is closed and the heater is off. The raised handle and shut cup outlet are visible. The fixed lamp lights the worktop.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The callouts leave the cupboard handles, dispenser controls, plates and counter edge visible.
+| Exact label | Callout position and leader target |
+| CHILDREN STAND HERE | Lower-margin callout to the continuous clear paving along the cool counter front. |
+| COOKING HELPER STANDS HERE | Right-margin callout to the working aisle behind the guarded cooking plate. |
+| CUPBOARD ACCESS | Left-margin callout to the floor directly in front of the cupboard doors. |
+| BOX EXAMINATION POSITION | Upper-left callout to the accessible dry slab beside the closed blue box. |
+# 04  Recipe and weighing work surface
+Location L02_B  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_B_Food_Street_Recipe_Weighing_Work_Surface.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+RECIPE AND WEIGHING WORK SURFACE
+Camera and framing 4:3 landscape high three-quarter view from the customer aisle, looking down at the dry entrance end of the cooking counter. The entrance end is frame-left and the dispenser direction frame-right. The cream front edge, indigo cupboard front, blue timber joint and a small portion of the brass tank base anchor the close view.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. An open recipe book sits at the entrance-side end. A traditional beam balance with two suspended pans and a tare adjustment stands beside it towards the dispenser. One shallow batter stock tray is beside the balance; a small brass card clip is fixed to that tray’s rim. The clip is separate from the measuring-cup controls. A flat patch of dry slab remains clear at the front.
+Visible arrangement The open book displays 1¾ kg. Two loose stock cards beside the tray read 7/4 kg and 5/4 kg. Exactly seven equal weights, each marked ¼ kg, stand in a single countable row beside the balance; both balance pans are empty. The stock tray contains batter. The blue-lidded box above the cupboard is closed at frame-left. All cards and weights rest fully on the stone, with clear spacing between the book, balance and tray.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The book amount, both stock-card values and all seven weights remain unobscured.
+| Exact label | Callout position and leader target |
+| RECIPE READING POSITION | Lower-left callout to the clear front slab edge beside the open book. |
+| WEIGHING POSITION | Lower-centre callout to the accessible front edge opposite the balance. |
+| STOCK CARD CHECK | Right-margin callout to the rim beside the tray’s brass card clip, leaving both card faces clear. |
+# 05  Cool filling preparation area
+Location L02_C  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_C_Food_Street_Cool_Filling_Preparation_Area.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+COOL FILLING PREPARATION AREA
+Camera and framing 4:3 landscape medium three-quarter view from the customer aisle onto the cool filling area of the cooking counter. The entrance and dry cupboard end are frame-left; the dispenser direction is frame-right. The pale slab edge, blue cupboard fronts, timber backdrop and edge of the tank base are visible.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. The filling area is a dry portion of the slab between the book area and guarded cooking area. Two covered ingredient bowls stand at the back of this zone. A larger mixing bowl occupies the middle, with five shallow sharing trays spread in one countable row along the front. A separate small batter-trial bowl rests towards the dispenser end, clear of the filling vessels. The cool front edge and rear working aisle remain accessible.
+Visible arrangement The covered filling bowls carry physical labels 1¾ kg and 2½ kg. The central mixing bowl is empty, with a blank total label. All five sharing trays are empty and separate. The trial bowl is empty. The recipe book and two-pan balance remain at the dry entrance end. The brass tank and measuring cup are empty, the tank supply tap is closed and the heater is off. Every vessel rests flat on the slab.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. Callouts leave the two mass labels, empty mixing bowl and five distinct tray outlines visible.
+| Exact label | Callout position and leader target |
+| FILLING WORK POSITION | Lower-left callout to the clear front edge opposite the two covered filling bowls. |
+| MIXING POSITION | Lower-centre callout to the slab beside the near rim of the larger mixing bowl. |
+| PORTIONING POSITION | Lower-right callout to the reachable front working edge beside the row of five trays. |
+# 06  Dispenser controls before adjustment
+Location L02_D  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_D_Food_Street_Dispenser_Controls_Unadjusted.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+DISPENSER CONTROLS BEFORE ADJUSTMENT
+Camera and framing 4:3 landscape medium three-quarter view from the cool customer side of the cooking counter, with the entrance end frame-left. The tank, measuring cup, cooking plate, dry plate shelf and full long handle fit within the frame. The cream front edge, indigo timber joint and tank supports remain visible. The supply tap and handle grip face the camera across the cool edge; the hot plate lies farther back behind its guard.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. One brass tank stands on fixed supports above a single adjustable measuring cup and a separate cooking plate. A narrow inspection window on the tank’s cool-facing lower side reveals its interior above the supply tap while preserving the brass silhouette. The cup has a cleaning hinge on its Parade-facing side, attached to the tank support, a cool outer grip bracket and an adjustable fill stop. A supply tap between tank and cup is reachable from the cool entrance end. A long handle extends towards the cool front edge; its linkage isolates tank feed before opening the cup outlet. At rest the handle is raised and the outlet is shut. A separate heater switch serves the cooking plate behind the guard. The dry plate shelf is beside that plate, outside the heated area.
+Visible arrangement The tank and measuring cup are empty. The portion stop is fixed above a lower unlabelled calibration tick. The supply tap is open; the long handle rests raised and the cup outlet is closed. The cooking plate is empty and the heater switch is in its on position. Two separate plates on the adjacent dry shelf hold one oversized cooked dosa and one tiny cooked dosa. The foreground standing strip and both control grips remain clear; the plate and its hot surround are beyond the guard.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The leader lines stop beside the grips and stop mechanism, leaving their shape and contact surfaces visible.
+| Exact label | Callout position and leader target |
+| HANDLE OPERATING POSITION | Lower-centre callout to clear paving in front of the long handle, on the cool side of the guard. |
+| SHUT-OFF REACH | Left-margin callout to the cool supply-tap grip at the entrance end. |
+| STOP ADJUSTMENT POINT | Upper-left callout to the measuring cup’s adjustable stop, clear of the lower tick. |
+| HELPER WORKING POSITION | Right-margin callout to the rear working aisle beside the cooking plate. |
+# 07  Cold test configuration
+Location L02_E  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_E_Food_Street_Dispenser_Cold_Test_Configuration.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+COLD TEST CONFIGURATION
+Camera and framing 4:3 landscape close three-quarter view from the cool customer side, with the entrance end frame-left. The tank’s lower body, supply tap and spout, complete cup hinge, long handle and cooking plate fit in the frame. The cream front edge and blue timber joint identify the counter. The camera is outside the counter at an angle that exposes the bowl interior and the space directly under the supply spout.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. One brass tank stands on fixed supports above a single adjustable measuring cup and a separate cooking plate. A narrow inspection window on the tank’s cool-facing lower side reveals its interior above the supply tap while preserving the brass silhouette. The cup has a cleaning hinge on its Parade-facing side, attached to the tank support, a cool outer grip bracket and an adjustable fill stop. A supply tap between tank and cup is reachable from the cool entrance end. A long handle extends towards the cool front edge; its linkage isolates tank feed before opening the cup outlet. At rest the handle is raised and the outlet is shut. A separate heater switch serves the cooking plate behind the guard. The dry plate shelf is beside that plate, outside the heated area. The measuring cup is swung towards the Parade end on its attached cleaning hinge. The hinge remains visibly fixed to the tank support; its cool grip bracket is accessible. The exposed tank spout is vertically above the trial bowl on the cooking plate.
+Visible arrangement The heater is off and the plate is cold. One trial bowl rests flat on the plate directly below the spout. The supply tap is closed, with a dry gap between spout and bowl. A shallow amount of trial batter is visible in the bowl; some batter remains visibly upstream above the closed tap. These are parts of one 2/15 kg trial charge, without separate quantity inscriptions. The cup is empty, swung aside and supported by its hinge. The handle rests raised and the portion stop remains above the lower unlabelled tick.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The tap, residual batter, dry gap below the spout, supporting hinge and bowl contact remain clear of callouts.
+| Exact label | Callout position and leader target |
+| SHUT-OFF REACH | Left-margin callout to the accessible supply-tap grip. |
+| CUP SUPPORT GRIP | Right-margin callout to the swung cup’s cool outer bracket, clear of its hinge joint. |
+| TRIAL BOWL POSITION | Lower-margin callout to the plate immediately beside the bowl base, leaving the contact shadow visible. |
+# 08  Corrected serving configuration
+Location L02_F  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_F_Food_Street_Dispenser_Corrected_Serving.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+CORRECTED SERVING CONFIGURATION
+Camera and framing 4:3 landscape medium three-quarter view from the cool customer side of the cooking counter, with the entrance end frame-left. The tank, measuring cup, cooking plate, dry plate shelf and full long handle fit within the frame. The cream front edge, indigo timber joint and tank supports remain visible. The supply tap and handle grip face the camera across the cool edge; the hot plate lies farther back behind its guard.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. One brass tank stands on fixed supports above a single adjustable measuring cup and a separate cooking plate. A narrow inspection window on the tank’s cool-facing lower side reveals its interior above the supply tap while preserving the brass silhouette. The cup has a cleaning hinge on its Parade-facing side, attached to the tank support, a cool outer grip bracket and an adjustable fill stop. A supply tap between tank and cup is reachable from the cool entrance end. A long handle extends towards the cool front edge; its linkage isolates tank feed before opening the cup outlet. At rest the handle is raised and the outlet is shut. A separate heater switch serves the cooking plate behind the guard. The dry plate shelf is beside that plate, outside the heated area.
+Visible arrangement The cup is seated beneath the tank spout and its hinge is secured. The portion stop is fixed at the lower setting marked ⅙ kg. The long handle rests raised, the supply tap is closed and the cup outlet is shut. The empty tank and cup contain no new batter. The heater is on and the cooking surface is empty. Four clean empty receiving plates wait on the dry shelf, separate from the two plates holding the old oversized and tiny dosas. One trial bowl containing the recovered 2/15 kg test batter rests on the dry back shelf, away from the serving plates. The cool operating strip and handle grip are clear.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The six separate plates, heater control, ⅙ kg stop and handle grip remain unobscured.
+| Exact label | Callout position and leader target |
+| HANDLE OPERATING POSITION | Lower-centre callout to clear paving in front of the long handle, on the cool side of the guard. |
+| SHUT-OFF REACH | Left-margin callout to the cool supply-tap grip at the entrance end. |
+| STOP ADJUSTMENT POINT | Upper-left callout to the stop at the ⅙ kg setting, leaving the inscription readable. |
+| PLATE HANDOVER POINT | Right-margin callout to the cool dry shelf edge beside the four empty receiving plates. |
+# 09  Low plate shelf view
+Location L02_G  |  Food Street — Recipe Counter and Dosa Dispenser
+Filename CH02_L02_G_Food_Street_Low_Plate_Shelf_View.png
+Master reference Food Street master
+Image title FOOD STREET — RECIPE COUNTER AND DOSA DISPENSER
+LOW PLATE SHELF VIEW
+Camera and framing 4:3 landscape low three-quarter view along the cooking counter’s dry plate shelf from the customer aisle. The camera is just above the shelf surface, high enough to see both dosa tops, and tilted gently down to include the paving below. The entrance end is frame-left. The front lip, cupboard base and lower part of the brass dispenser remain visible.
+Location and construction This is the physical-left counter when looking from the Lantern Street entrance towards the Parade end. Its cream stone slab, indigo cupboard fronts, brass corner plates, blue timber backdrop and fixed warm work lamp match the Food Street master. The dry book area is at the entrance end, the filling area next to it, and the dispenser and cooking area farther along. The dry plate shelf stands beside the guarded cooking plate at the height and depth established by the master’s counter. Its cream front lip, indigo supports and cupboard base retain those proportions. The dispenser has one fixed brass tank with a narrow inspection window above its supply tap, one hinged measuring cup, a cool-side long handle and a separate guarded cooking plate. Clear paving extends below the shelf and towards the viewer.
+Visible arrangement One oversized cooked dosa overhangs its small plate; one tiny cooked dosa sits on a second plate beside it. Both plates rest fully on the dry shelf. The tank and cup are empty, the portion stop sits above a lower unlabelled tick, the supply tap is closed and the long handle rests raised. The foreground paving and the reachable cool front lip are clear. Warm task light falls across the shelf and floor.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The two dosa sizes, shelf contact and two separate floor positions remain visible beneath the annotations.
+| Exact label | Callout position and leader target |
+| SMALL ANIMAL POSITION | Lower-right callout to the clear paving below the shelf, away from the support legs. |
+| CHILD STANDING POSITION | Lower-left callout to a separate clear floor patch beside the animal position. |
+| COOL HAND REST | Left-margin callout to the pale front lip directly above the child’s standing position. |
+# 10  Packing bench and empty trolley
+Location L03_A  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_A_Food_Street_Packing_Bench_Empty_Trolley.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+PACKING BENCH AND EMPTY TROLLEY
+Camera and framing 4:3 landscape medium-wide view from the entrance aisle towards the near-left packing bench and Return Walk doorway. The bench and doorway occupy the left background and the round loading table the right background. A moderately elevated three-quarter view shows the trolley handle, sixteen upper cup positions, lower shelf opening and wheel contacts.
+Location and construction Food Street is the covered lane shown in the master. Looking from Lantern Street towards the far Parade opening, cooking is on the left, drinks on the right, the packing bench and Return Walk door are near-left, and the round loading table is central. The packing bench has the master’s cream stone top and weathered timber supports beside the blue-and-brass Return Walk jamb. A dry writing corner lies at its entrance end; one small empty wall clip is above it. The crooked cart is parked lengthways against the entrance wall before the bench. The blue-and-brass trolley retains the master’s wheelbase, wheels, handle and ornamental side frame. Its upper carrier has sixteen cup sockets arranged in four rows of four. A separate lower shelf supports one removable snack tray, with an accessible loading opening beneath the upper carrier. MAXIMUM LOAD 4.5 kg is fixed to the lower shelf; 0.5 kg is marked on the removable tray.
+Visible arrangement Sixteen empty cups occupy the upper carrier and one empty snack tray rests flat on the lower shelf. The portable brass lamp and intact recovered bowl stand at the bench’s entrance corner beside, rather than on, the clear writing patch. A covered stock tray stands in the accessible corner behind the parked cart. Both central-table trays are empty, with the entrance-side tray slightly lower on its shallow travel stop. The Return Walk threshold is level and clear, and the trolley leaves sufficient passage beside it.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The sixteen cup sockets, separate lower shelf, weight markings and doorway opening remain readable.
+| Exact label | Callout position and leader target |
+| ORDER WRITING POSITION | Upper-left callout to the clear dry bench patch beside the lamp and bowl. |
+| TROLLEY HANDLING POSITION | Lower-centre callout to the paving directly behind the trolley handle. |
+| LOWER SHELF LOADING POSITION | Lower-right callout to clear floor beside the open side of the snack shelf. |
+| DELIVERY EXIT | Left-margin callout to the level Return Walk doorway threshold. |
+# 11  Recovered stock corner
+Location L03_B  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_B_Food_Street_Packing_Recovered_Stock_Corner.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+RECOVERED STOCK CORNER
+Camera and framing 4:3 landscape oblique medium-close view from the entrance aisle into the near-left corner behind the parked crooked cart. The cart wheel and timber edge frame the foreground; the cream packing-bench end and blue Return Walk jamb remain visible behind the stock tray. The camera is high enough to see the tray interior and its four packs.
+Location and construction Food Street is the covered lane shown in the master. Looking from Lantern Street towards the far Parade opening, cooking is on the left, drinks on the right, the packing bench and Return Walk door are near-left, and the round loading table is central. The crooked cart is parked lengthways against the entrance wall before the packing bench. The recovered-stock tray rests on the low packing ledge behind the cart, reachable from the aisle through a clear gap. Its near rim is exposed for steadying. The cream bench, weathered timber supports, brass-edged doorway and pale paving retain the master’s proportions. A separate stock shelf stands above the bench.
+Visible arrangement The open tray contains exactly four sealed fruit-and-cracker packs in a 2×2 arrangement. Its loose lid rests flat beside it on the ledge. The separate stock shelf in the background carries a small record reading 36 PACKS. The cart wheel rests on the paving with no bowl beneath it. The floor patch beside the wheel and the aisle approach to the tray are clear; the tray and its lid remain outside the doorway.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. All four recovered packs and the separate 36 PACKS record remain visible and clearly distinct.
+| Exact label | Callout position and leader target |
+| TRAY ACCESS POSITION | Lower-right callout to the aisle-side paving at the clear approach to the low tray. |
+| TRAY STEADYING POINT | Right-margin callout to the accessible near tray rim, beside rather than over the four packs. |
+| SMALL ANIMAL POSITION | Lower-left callout to the floor patch beside the wheel, outside its footprint. |
+# 12  Empty loading table mechanism
+Location L03_C  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_C_Food_Street_Loading_Table_Empty.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+EMPTY LOADING TABLE MECHANISM
+Camera and framing 4:3 landscape medium three-quarter view from the Lantern Street side of the central loading table. The entrance-side tray is nearest the camera; the far tray points towards the closed Parade end. The pale packing-bench edge and Return Walk doorway appear along the left edge of the view, nearer the entrance than the table. The whole pedestal, brake housing and paving around the table are visible.
+Location and construction Food Street is the covered lane shown in the master. Looking from Lantern Street towards the far Parade opening, cooking is on the left, drinks on the right, the packing bench and Return Walk door are near-left, and the round loading table is central. The master’s round indigo-and-brass loading table stands in the central lane. Its fixed pedestal supports a rotating head and a centrally pivoted two-tray cradle. Two matching shallow rectangular brass trays sit at equal distances on opposite sides of the pivot: one towards Lantern Street and one towards the Parade end. Mechanical stops limit the cradle to a shallow tilt. A brake housing on the packing-bench side has a rotation latch and a separate squeeze lever for the tilt damper. The latch stops rotation; the damper slows tilt without fixing the cradle angle. A clear route runs around the tray edges and towards the near-left packing area. The delivery trolley is parked beside that area, outside the trays’ sweep; it has a sixteen-socket upper carrier and separate lower snack shelf.
+Visible arrangement Both brass trays are empty. The entrance-side tray rests slightly lower at the cradle’s shallow mechanical stop; the opposite tray is higher. The rotation latch is engaged, while the separate tilt-damper squeeze lever is released. The trolley carries sixteen empty upper cups and an empty lower snack tray. The table’s pedestal and trolley wheels make firm contact with the paving. The Return Walk threshold and the table’s outer handling route are clear.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The tilted tray edges, central pivot, separate controls and clear outer floor route remain unobscured.
+| Exact label | Callout position and leader target |
+| BRAKE OPERATOR POSITION | Left-margin callout to clear paving beside the brake housing on the packing-bench side. |
+| BRAKE HAND CONTACT | Upper-left callout with short leaders ending beside the rotation latch and separate squeeze lever. |
+| PACK TRANSFER ROUTE | Right-margin callout to the clear outer route around the tray edges. |
+| OBSERVERS STAND HERE | Lower-margin callout to the near-side paving beyond the tray movement area. |
+# 13  Unequal tray loads 25 and 15
+Location L03_D  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_D_Food_Street_Loading_Table_25_15.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+UNEQUAL TRAY LOADS 25 AND 15
+Camera and framing 4:3 landscape, high three-quarter view from the Lantern Street side, centred on the pivot and looking down at about 60 degrees. The entrance-side tray occupies the lower half of the frame and the Parade-side tray the upper half. Both tray rims and every pack are visible. A narrow strip of the pale packing bench appears at the lower-left frame edge, on the entrance side of the table; the brake housing is visible on the table’s left. The trolley lies outside this close framing.
+Location and construction The master’s round indigo-and-brass loading table stands in the central lane. Its fixed pedestal supports a rotating head and a centrally pivoted two-tray cradle. Two matching shallow rectangular brass trays sit at equal distances on opposite sides of the pivot: one towards Lantern Street and one towards the Parade end. Mechanical stops limit the cradle to a shallow tilt. A brake housing on the packing-bench side has a rotation latch and a separate squeeze lever for the tilt damper. The latch stops rotation; the damper slows tilt without fixing the cradle angle. The cream bench edge, indigo timber and pale paving correspond to the Food Street master. Both tray surfaces are large enough for a single-layer 5×5 pack array with a narrow clear rim; the matching trays retain equal dimensions.
+Visible arrangement Exactly 25 identical sealed fruit-and-cracker packs occupy the entrance-side tray in five rows of five. Exactly 15 occupy the far tray in three rows of five. Each pack lies flat, separated enough for counting. The entrance-side tray is lower and the far tray higher within the shallow travel limits. Small physical tags on the outer tray rims read 25 and 15. The rotation latch is engaged and the separate tilt-damper lever is depressed. Both trays remain attached to the cradle, with clear space around the pivot.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. All forty packs, both physical count tags, the central pivot and the difference in tray height remain visible.
+| Exact label | Callout position and leader target |
+| BRAKE HAND CONTACT | Left-margin callout to the depressed squeeze lever beside the pivot support. |
+| PACK PICK-UP SIDE | Lower-margin callout to the accessible outer rim of the lower 25-pack tray. |
+| PACK RECEIVING SIDE | Upper-right callout to the outer rim of the higher 15-pack tray. |
+# 14  Balanced tray loads 20 and 20
+Location L03_E  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_E_Food_Street_Loading_Table_20_20.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+BALANCED TRAY LOADS 20 AND 20
+Camera and framing 4:3 landscape, high three-quarter view from the Lantern Street side, centred on the pivot and looking down at about 60 degrees. The entrance-side tray occupies the lower half of the frame and the Parade-side tray the upper half. Both tray rims and every pack are visible. A narrow strip of the pale packing bench appears at the lower-left frame edge, on the entrance side of the table; the brake housing is visible on the table’s left. The trolley lies outside this close framing.
+Location and construction The master’s round indigo-and-brass loading table stands in the central lane. Its fixed pedestal supports a rotating head and a centrally pivoted two-tray cradle. Two matching shallow rectangular brass trays sit at equal distances on opposite sides of the pivot: one towards Lantern Street and one towards the Parade end. Mechanical stops limit the cradle to a shallow tilt. A brake housing on the packing-bench side has a rotation latch and a separate squeeze lever for the tilt damper. The latch stops rotation; the damper slows tilt without fixing the cradle angle. The cream bench edge, indigo timber and pale paving correspond to the Food Street master. Both matching trays are large enough for a single-layer 5×5 pack array with a narrow clear rim; their dimensions do not shrink to fit the smaller occupied area.
+Visible arrangement Each tray holds exactly twenty identical sealed fruit-and-cracker packs in four rows of five, all in a single layer with countable gaps. Both tray surfaces are level and at equal height. Small physical tags on their outer rims read 20 and 20. The rotation latch is engaged and the separate tilt-damper lever is depressed. The central pivot and a margin of bare tray surface around each array are visible. All forty packs rest on the two table trays.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. Both 4×5 arrays, level tray edges and physical 20 tags remain unobscured.
+| Exact label | Callout position and leader target |
+| BRAKE HAND CONTACT | Left-margin callout to the depressed squeeze lever beside the pivot support. |
+| NEAR TRAY HANDLING POSITION | Lower-margin callout to the accessible entrance-side outer tray rim. |
+| FAR TRAY HANDLING POSITION | Upper-right callout to the accessible Parade-side outer tray rim. |
+# 15  Remaining tray loads 12 and 12
+Location L03_F  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_F_Food_Street_Loading_Table_12_12.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+REMAINING TRAY LOADS 12 AND 12
+Camera and framing 4:3 landscape, high three-quarter view from the Lantern Street side, centred on the pivot and looking down at about 60 degrees. The entrance-side tray occupies the lower half of the frame and the Parade-side tray the upper half. Both tray rims and every pack are visible. A narrow strip of the pale packing bench appears at the lower-left frame edge, on the entrance side of the table; the brake housing is visible on the table’s left. The trolley lies outside this close framing.
+Location and construction The master’s round indigo-and-brass loading table stands in the central lane. Its fixed pedestal supports a rotating head and a centrally pivoted two-tray cradle. Two matching shallow rectangular brass trays sit at equal distances on opposite sides of the pivot: one towards Lantern Street and one towards the Parade end. Mechanical stops limit the cradle to a shallow tilt. A brake housing on the packing-bench side has a rotation latch and a separate squeeze lever for the tilt damper. The latch stops rotation; the damper slows tilt without fixing the cradle angle. The cream bench edge, indigo timber and pale paving correspond to the Food Street master. Both matching trays remain large enough for a single-layer 5×5 pack array with a narrow clear rim; the smaller loads leave more bare tray surface.
+Visible arrangement Each tray holds exactly twelve identical sealed fruit-and-cracker packs in three rows of four. The two arrays are centred on their trays with countable gaps between packs. Both tray surfaces are level and at equal height. Small physical tags on the outer rims read 12 and 12. The rotation latch is engaged and the separate tilt-damper lever is depressed. Twenty-four packs are visible on this table, with clear space around the pivot and bare tray margins.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. Both 3×4 arrays, level tray edges, bare margins and physical 12 tags remain visible.
+| Exact label | Callout position and leader target |
+| BRAKE HAND CONTACT | Left-margin callout to the depressed squeeze lever beside the pivot support. |
+| NEAR PACK PICK-UP SIDE | Lower-margin callout to the accessible outer edge of the entrance-side tray. |
+| FAR PACK PICK-UP SIDE | Upper-right callout to the accessible outer edge of the Parade-side tray. |
+# 16  Trolley ready for dispatch
+Location L03_G  |  Food Street — Packing Bench and Balanced Loading Table
+Filename CH02_L03_G_Food_Street_Packing_Trolley_Ready_For_Dispatch.png
+Master reference Food Street master
+Image title FOOD STREET — PACKING BENCH AND BALANCED LOADING TABLE
+TROLLEY READY FOR DISPATCH
+Camera and framing 4:3 landscape three-quarter view from the central aisle towards the near-left packing bench and Return Walk doorway. The loaded trolley dominates the foreground, with its handle, top carrier, lower loading opening and wheel contacts visible. The camera is moderately above the upper carrier, showing its cup rows while retaining an oblique view into the lower shelf. The round table is outside the right edge of this framing.
+Location and construction Food Street is the covered lane shown in the master. Looking from Lantern Street towards the far Parade opening, cooking is on the left, drinks on the right, the packing bench and Return Walk door are near-left, and the round loading table is central. The master’s cream packing bench, weathered timber supports, brass-edged Return Walk doorway and pale paving establish the background. The blue-and-brass trolley retains the master’s wheelbase, wheels, handle and ornamental side frame. Its upper carrier has sixteen cup sockets arranged in four rows of four. A separate lower shelf supports one removable snack tray, with an accessible loading opening beneath the upper carrier. MAXIMUM LOAD 4.5 kg is fixed to the lower shelf; 0.5 kg is marked on the removable tray. A clear floor patch lies behind the handle and a level delivery route leads beside the bench through the Return Walk door.
+Visible arrangement Exactly sixteen upright, capped quarter-litre cups occupy the upper carrier in four rows of four. One removable snack tray sits fully supported on the lower shelf and holds sixteen sealed packs in a single 4×4 layer. The upper carrier naturally hides part of the lower array; the lower tray rim, front packs and shelf support remain visible through its loading opening. The cup caps are closed. The wall clip above the dry bench and the trolley’s note clip are empty. The trolley is stationary with every wheel touching the paving.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The upper 4×4 cup arrangement, lower loading opening, load-limit marking and wheel contacts remain visible.
+| Exact label | Callout position and leader target |
+| TROLLEY PUSHING POSITION | Lower-left callout to the clear paving directly behind the handle. |
+| LOWER SHELF CHECK | Lower-right callout to the accessible lower-shelf support and tray rim. |
+| DELIVERY ROUTE | Left-margin callout to the clear paving between the trolley and Return Walk threshold. |
+# 17  Drink counter working view
+Location L05_A  |  Food Street — Drink and Weighing Counter
+Filename CH02_L05_A_Food_Street_Drink_Counter_Working_View.png
+Master reference Food Street master
+Image title FOOD STREET — DRINK AND WEIGHING COUNTER
+DRINK COUNTER WORKING VIEW
+Camera and framing 4:3 landscape medium-wide view from the customer aisle facing the drink counter’s blue timber backdrop. In this view the Lantern Street entrance direction is frame-right and the Parade direction frame-left. The two recipe jugs, brass urn, reserve shelf, dry end and a clear strip of foreground paving fit within the frame.
+Location and construction This is the physical-right counter when looking from Lantern Street towards the Parade end. Its cream stone slab, indigo timber panels, brass trim, teal glazed vessels and broad brass urn match the Food Street master. The fixed work lamp is above-left in the front-facing counter view. The two recipe jugs stand together on the slab; the urn has a reachable front tap and a clear trolley bay beside it. The dry weighing end lies farther towards the Parade end, beyond the jugs and away from the urn outlet. The recipe jugs have equal capacities and retain the master’s teal silhouettes. Narrow vertical sight windows face the aisle so their liquid levels are visible without changing the overall vessel shapes. The brass urn has a front-facing calibrated sight tube. A low reachable shelf carries the capped reserve bottle; a small transfer jug stands on the dry slab.
+Visible arrangement The left recipe jug contains 0.75 L and the right recipe jug 0.7 L, shown on their readable level scales. A small physical recipe card beside them reads ¾ L. The urn’s sight tube reads 3.9 L and its tap is closed. The capped reserve bottle has 1 L capacity and a 0.60 L liquid level. The small transfer jug is empty. The trolley bay beside the urn is clear, and the pale front edge is dry and accessible.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The two jug levels, recipe card, urn scale and reserve level remain clear of annotation leaders.
+| Exact label | Callout position and leader target |
+| JUG CHECKING POSITION | Lower-left callout to clear paving in front of the pair of recipe jugs. |
+| URN OPERATING POSITION | Lower-right callout to the clear floor within reach of the urn’s front tap. |
+| TROLLEY FILLING BAY | Right-margin callout to the empty paving immediately beside the urn working position. |
+| RESERVE BOTTLE REACH | Upper-margin callout to the reachable shelf edge directly below the capped bottle. |
+# 18  Low drink counter view
+Location L05_B  |  Food Street — Drink and Weighing Counter
+Filename CH02_L05_B_Food_Street_Low_Drink_Counter_View.png
+Master reference Food Street master
+Image title FOOD STREET — DRINK AND WEIGHING COUNTER
+LOW DRINK COUNTER VIEW
+Camera and framing 4:3 landscape low medium three-quarter view from the entrance end of the drink counter. The camera is below the counter top, showing the paving, indigo support, cream stone front lip and front-facing sides of the recipe jugs above. The jug handles and vertical sight windows face towards the customer aisle. Their open tops are not required in this low view.
+Location and construction This is the physical-right counter when looking from Lantern Street towards the Parade end. Its cream stone slab, indigo timber panels, brass trim, teal glazed vessels and broad brass urn match the Food Street master. The fixed work lamp is above-left in the front-facing counter view. The two recipe jugs stand together on the slab; the urn has a reachable front tap and a clear trolley bay beside it. The dry weighing end lies farther towards the Parade end, beyond the jugs and away from the urn outlet. The counter retains its master height, slab thickness and support positions. The equal-capacity teal recipe jugs stand together on the slab above the cool front edge, with narrow readable sight windows on their aisle-facing sides. The fixed work-lamp bracket and part of the brass urn establish the continuing counter behind them.
+Visible arrangement Both recipe jugs contain 0.75 L, each reading 0.75 L on its own calibrated sight window, with small physical 0.75 L check tags. Their bodies, handles and bases match the teal master vessels. The nearby urn tap is closed. The foreground paving is clear beside the counter support, with separate standing spaces for a child and a small animal. The reachable stone lip above those spaces is dry and free of utensils.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The two floor patches, hand-rest edge and front-facing jug level windows remain unobscured.
+| Exact label | Callout position and leader target |
+| SMALL ANIMAL POSITION | Lower-left callout to the clear paving beside, rather than beneath, the counter support. |
+| CHILD STANDING POSITION | Lower-right callout to the adjacent clear patch, separated from the animal position. |
+| COOL HAND REST | Right-margin callout to the stone front lip directly above the child’s standing patch. |
+# 19  Dry weighing and preparation end
+Location L05_C  |  Food Street — Drink and Weighing Counter
+Filename CH02_L05_C_Food_Street_Dry_Weighing_Preparation_End.png
+Master reference Food Street master
+Image title FOOD STREET — DRINK AND WEIGHING COUNTER
+DRY WEIGHING AND PREPARATION END
+Camera and framing 4:3 landscape medium three-quarter view from the customer aisle towards the dry weighing end of the drink counter. The pale front edge, indigo front-panel joint and fixed lamp bracket remain within the frame. The brass urn and reserve bottle lie beyond the wet end of this close framing.
+Location and construction This is the physical-right counter when looking from Lantern Street towards the Parade end. Its cream stone slab, indigo timber panels, brass trim, teal glazed vessels and broad brass urn match the Food Street master. The fixed work lamp is above-left in the front-facing counter view. The two recipe jugs stand together on the slab; the urn has a reachable front tap and a clear trolley bay beside it. The dry weighing end lies farther towards the Parade end, beyond the jugs and away from the urn outlet. The dry work area is a continuous part of that cream slab. A compact gram-reading scale has one flat weighing platform and a reachable tare button. A clean bowl sits beside it, with a flat blank record surface at the front. A separate transparent one-litre mixing jug stands at the supply-board end; it is a handled jug with a pouring lip, distinct from the capped reserve bottle.
+Visible arrangement The scale platform is empty and the display reads 0 g. The bowl beside it is empty. The record surface is blank. The mixing jug is empty, with its 1 L capacity mark and a target line labelled ¾ OF CAPACITY at three-quarters of its usable capacity. Its matching small board has an empty percentage field followed by %. The dry slab gives clear access to the scale button, record surface and mixing jug.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Food Street master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The 0 g display, tare button, jug target line and blank percentage field remain visible.
+| Exact label | Callout position and leader target |
+| WEIGHING POSITION | Lower-left callout to the accessible front edge opposite the scale platform. |
+| TARE CONTROL REACH | Left-margin callout to the physical tare button, clear of the display. |
+| RECORD WRITING POSITION | Lower-centre callout to the blank flat record surface. |
+| MIXING JUG FILL POSITION | Lower-right callout to the reachable slab beside the mixing jug. |
+# 20  Service doorway working view
+Location L04_A  |  Old Blue Gate — Exterior Waiting Lane
+Filename CH02_L04_A_Old_Blue_Gate_Service_Doorway_Working_View.png
+Master reference Old Blue Gate master
+Image title OLD BLUE GATE — EXTERIOR WAITING LANE
+SERVICE DOORWAY WORKING VIEW
+Camera and framing 4:3 landscape exterior medium-wide view from the waiting lane facing the main Gate, at the master’s orientation. Both main leaves, the service door in the left leaf, the left stone pier and planter, the right bench and ample foreground paving are visible. The separate equipment exit remains at the far-left edge.
+Location and construction The exterior faces the two monumental indigo timber leaves between pale carved-stone piers. Brass celestial ornament, layered blue-and-gold arches, burgundy drapery, the two carved figures, warm lanterns and the round full-moon ornament match the Old Blue Gate master. Seen from outside, the small service door is cut into the left main leaf; the separate equipment exit is farther left, beyond the stone pier. The planter remains left and the blue-and-brass bench remains right. The small service door retains its master height, frame width and existing hinges. Its threshold is flush with the exterior paving. A clear handover space lies immediately outside it; a separate trolley stopping bay lies beside that space, away from the swing of the service door.
+Visible arrangement The main Gate leaves are closed. The small left-leaf service door is open inward on its existing hinges, revealing a narrow lit interior threshold. The separate equipment exit beyond the left pier is closed. The bench seat, planter-side approach, handover space and foreground waiting lane are clear. Warm lantern light reaches the stone paving beneath cool blue night shadows.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Old Blue Gate master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. Callouts leave the service-door hinges and threshold, main-door join, equipment exit and carved figures unobscured.
+| Exact label | Callout position and leader target |
+| SERVICE HELPER POSITION | Upper-left callout to the lit inner floor immediately behind the small service opening. |
+| RECIPIENT STANDING POSITION | Lower-left callout to paving immediately outside that opening. |
+| TROLLEY STOPPING BAY | Lower-centre callout to the clear bay beside the handover point, outside the doorway width. |
+| WAITING GROUP AREA | Lower-right callout to the open foreground lane, separate from the handover bay. |
+# 21  Bench writing and waiting view
+Location L04_B  |  Old Blue Gate — Exterior Waiting Lane
+Filename CH02_L04_B_Old_Blue_Gate_Bench_Writing_Waiting_View.png
+Master reference Old Blue Gate master
+Image title OLD BLUE GATE — EXTERIOR WAITING LANE
+BENCH WRITING AND WAITING VIEW
+Camera and framing 4:3 landscape exterior oblique medium view towards the bench on the right of the Gate. The near seat corner, curved bench arm, paving in front, right stone pier and a section of the blue main leaf appear in the frame. The camera is slightly above seat height so the flat seat surface and adjacent standing floor are visible.
+Location and construction The exterior faces the two monumental indigo timber leaves between pale carved-stone piers. Brass celestial ornament, layered blue-and-gold arches, burgundy drapery, the two carved figures, warm lanterns and the round full-moon ornament match the Old Blue Gate master. Seen from outside, the small service door is cut into the left main leaf; the separate equipment exit is farther left, beyond the stone pier. The planter remains left and the blue-and-brass bench remains right. The bench retains the master’s slatted blue seat and back, brass edging, curved brass arms and original legs resting on the stone paving beside the right pier. The near seat corner provides a dry support surface. A clear approach lies directly in front of that corner, with a second floor patch beside the near bench arm.
+Visible arrangement The visible main Gate leaf is closed. The bench seat is clear, including a flat patch large enough for a sheet of paper. The paving in front of the near corner is open for a child to bend or sit beside the writing surface. The separate patch beside the arm leaves the bench approach unobstructed. The nearby lantern casts warm light across the seat, with a cool blue rim on the brass and stone.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Old Blue Gate master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The writing patch, seat edge and standing floor remain clear of labels and leader lines.
+| Exact label | Callout position and leader target |
+| NOTE WRITING POSITION | Left-margin callout to the flat near seat corner used as the writing surface. |
+| SECOND CHILD POSITION | Lower-right callout to clear paving beside the bench arm, outside the writer’s approach. |
+| NOTE COLLECTION POINT | Right-margin callout to the exposed outer seat edge beside the writing patch. |
+# 22  Delivery route towards Entry Court
+Location L06_A  |  ChandRush — Covered Return Walk
+Filename CH02_L06_A_Covered_Return_Walk_Towards_Entry_Court.png
+Master reference Covered Return Walk master; Food Street master
+Image title CHANDRUSH — COVERED RETURN WALK
+DELIVERY ROUTE TOWARDS ENTRY COURT
+Camera and framing 4:3 landscape directional view from just outside Food Street’s Return Walk doorway, looking along the covered passage towards Entry Court. The Food Street jamb appears in the foreground and several roof posts recede towards the Entry Court approach. The viewing direction and passage bends follow the Covered Return Walk master.
+Location and construction The Covered Return Walk master supplies the passage width, outer boundary wall, open fair-facing colonnade, post spacing, blue timber roof, warm bracket lamps and Entry Court approach. Food Street opens onto this passage along the fair’s left boundary. Its foreground doorway has the indigo timber, brass edging, jamb thickness and pale paving level of the Food Street master. The outer wall and open colonnade remain on their master sides; the route continues beyond the doorway without a step.
+Visible arrangement The pale paved route is clear along its full visible length, wide enough for a delivery trolley with a walking strip alongside. The Food Street side door is open. The Entry Court approach is visible at the far end of this stretch; the opposite direction towards Moon Square lies behind the camera. Warm light pools beneath the fixed bracket lamps, and cool full-moon light enters through the open colonnade.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Covered Return Walk master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The doorway threshold, central travel path and separate walking strip remain unobscured.
+| Exact label | Callout position and leader target |
+| DELIVERY START POINT | Lower-margin callout to the level paving immediately outside Food Street’s doorway. |
+| TROLLEY TRAVEL ROUTE | Side-margin callout to the clear centre of the passage leading towards Entry Court. |
+| ESCORT WALKING SIDE | Opposite-side callout to the continuous walking strip alongside the trolley route, inside the covered passage. |
+# 23  View from Food Street threshold
+Location L07_A  |  Parade Ground — Rehearsal Yard and Visitor Lane
+Filename CH02_L07_A_Parade_Ground_From_Food_Street_Threshold.png
+Master reference Parade Ground master; Food Street master
+Image title PARADE GROUND — REHEARSAL YARD AND VISITOR LANE
+VIEW FROM FOOD STREET THRESHOLD
+Camera and framing 4:3 landscape wide view from the far Food Street threshold into the Parade Ground. The raised shutter and its jambs frame the near top and sides. The camera looks straight into the yard from the position established by the Parade Ground master, with the left visitor lane, central rehearsal loop and right elephant work area visible.
+Location and construction The Parade Ground master fixes the yard dimensions and building positions. Seen from Food Street, the roped pedestrian lane runs along the physical left towards the Moon Square counting arch, the rehearsal loop occupies the centre, and the blue elephant work area lies on the right. The costume bench stands beside the left lane outside the loop. The upper-right equipment gallery, near stair, far staff door and rear walkway retain their master distances. The threshold matches the Food Street master’s indigo shutter frame, brass edging and pale paving level.
+Visible arrangement The far Food Street shutter is fully raised. The rehearsal loop and pedestrian lane are clear. The blue elephant float is stationary on visibly undersized wheels and the master’s temporary supports; wheels and supports contact the paving. A clear inspection patch lies beside the float outside the supports. Warm work lamps illuminate the yard beneath cool full-moon edges on the roof and gallery.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Parade Ground master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The three labelled areas remain separate, with the rope boundary and float support contacts visible.
+| Exact label | Callout position and leader target |
+| THRESHOLD STANDING AREA | Lower-centre callout to the clear paving just inside the raised shutter frame. |
+| PEDESTRIAN ROUTE | Left-margin callout to the walkway inside the left rope boundary. |
+| FLOAT INSPECTION POSITION | Right-margin callout to clear paving beside the elephant’s work area, outside its supports. |
+# 24  Elephant work area
+Location L07_B  |  Parade Ground — Rehearsal Yard and Visitor Lane
+Filename CH02_L07_B_Parade_Ground_Elephant_Work_Area.png
+Master reference Parade Ground master
+Image title PARADE GROUND — REHEARSAL YARD AND VISITOR LANE
+ELEPHANT WORK AREA
+Camera and framing 4:3 landscape ground-level medium three-quarter view from the accessible outer edge of the right-hand elephant work area. The elephant’s lower body, small wheels, complete support feet and clear adjacent floor dominate the frame. The central rehearsal loop and distant left visitor lane remain visible as background anchors.
+Location and construction The blue elephant float retains the Parade Ground master’s scale, body silhouette, blue finish, brass details, wheel positions and temporary supports. Each support meets the ground beneath its real load-bearing point. The work area stays on the right when viewed from Food Street. The central loop lies beyond it; the roped pedestrian lane and costume bench remain across the yard on the left. Gallery and roof edges retain their distant master positions.
+Visible arrangement The float remains stationary in its unrepaired supported arrangement. Its wheels are visibly too small for the body. Wheel treads and support feet touch the pale paving with grounded shadows. An open inspection patch lies outside the support footprint; a separate performer’s standing patch lies beside the float with space around it. Warm work light falls from the master’s fixed lamp direction and cool moonlight outlines the upper surfaces.
+Appearance Premium semi-realistic painterly 2.5D graphic-novel illustration matching the Parade Ground master: dimensional materials, rich indigo timber, warm brass and pale stone; fixed amber lamps with cool full-moon light. The master’s architectural proportions, ornament density, texture scale and light direction remain intact.
+## Title and labels
+The exact two-line image title sits in a slim ivory band above the 4:3 scenic frame. The callouts listed below use small dark-indigo text on ivory, with fine short leader lines. The two standing patches, undersized wheels and every visible support contact remain unobscured.
+| Exact label | Callout position and leader target |
+| INSPECTION GROUP POSITION | Lower-left callout to the broad clear patch outside the temporary support footprint. |
+| PERFORMER STANDING POSITION | Lower-right callout to the separate clear patch beside the float, away from wheel and support contacts. |

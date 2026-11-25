@@ -1,0 +1,185 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE173
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 14D A; Visual beat CH02 14E A; Visual beat CH02 14E B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 14D A; Visual beat CH02 14E A; Visual beat CH02 14E B; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 14D A; Visual beat CH02 14E A; Visual beat CH02 14E B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 14D A; Visual beat CH02 14E A; Visual beat CH02 14E B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 14D A; Visual beat CH02 14E A; Visual beat CH02 14E B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 14 The first full delivery
+[PaginationMetadata] Applies to: Visual beat CH02 14D A; continuity and reveal timing only | Visual beat CH02 14E A; Visual beat CH02 14E B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 14D; Scene CH02 14E; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 14D; Scene CH02 14E; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 14D; Scene CH02 14E; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 14D; Scene CH02 14E; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing; original drawing custody only
+[ProductionNote] Ira’s original drawing travels from the packing bench to the Gate on the first trolley. Ira keeps it in her purse there; it does not return to Food Street with the empty trolley. Later messages use new paper.
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 14E; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 14E; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 14E; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 14E; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 14E; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing; first urn load has already been served
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 14D It worked all the way to the Gate
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the pale packing bench, with its now-empty drawing clip and the clear Return Walk doorway.
+[ProductionNote] Cast and positions. Ahana, Navya and Vihaan stand together at the packing bench; Navya is beside the bench, not an absent trolley. Tara stands beside the loading table with staff right. Tez stays beside Ahana. Pip perches at the bench after delivering the receipt. The broad helper and first trolley are still on Return Walk, off-frame; their completed return is established in Visual beat CH02 14E A. The two saffron assistants continue ordinary service.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The drawing clip above the bench is empty following Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The original cup drawing is now with Ira at the Gate; its bench clip is empty. Pip has brought Ira’s new receipt. The first trolley is returning with the broad helper and is not simultaneously shown at the Gate.
+[ProductionNote] Planning requirements. The confirmation belongs to Ahana at Food Street. The outside recipients are not visible behind her.
+[PanelizationHeading] PANEL CH02-PAGE173-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 14D A A complete delivery
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14D It worked all the way to the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; Scene CH02 14D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14D It worked all the way to the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; Scene CH02 14D; view; assigned beat stage only
+[ProductionNote] View. Medium at the pale packing bench, with its now-empty drawing clip and the clear Return Walk doorway.
+[PanelizationMetadata] SOURCE: Scene CH02 14D It worked all the way to the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; Scene CH02 14D; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. Ahana, Navya and Vihaan stand together at the packing bench; Navya is beside the bench, not an absent trolley. Tara stands beside the loading table with staff right. Tez stays beside Ahana. Pip perches at the bench after delivering the receipt. The broad helper and first trolley are still on Return Walk, off-frame; their completed return is established in Visual beat CH02 14E A. The two saffron assistants continue ordinary service.
+[PanelizationMetadata] SOURCE: Scene CH02 14D It worked all the way to the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; Scene CH02 14D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The drawing clip above the bench is empty following Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The original cup drawing is now with Ira at the Gate; its bench clip is empty. Pip has brought Ira’s new receipt. The first trolley is returning with the broad helper and is not simultaneously shown at the Gate.
+[PanelizationMetadata] SOURCE: Scene CH02 14D It worked all the way to the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; Scene CH02 14D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The confirmation belongs to Ahana at Food Street. The outside recipients are not visible behind her.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL01; Visual beat CH02 14D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] Ira’s original drawing travels from the packing bench to the Gate on the first trolley. Ira keeps it in her purse there; it does not return to Food Street with the empty trolley. Later messages use new paper.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14D A A complete delivery
+[ProductionNote] Moment and staging. Ahana holds Ira’s new receipt open in both hands at chest height and turns it towards Navya and Vihaan, smiling with relief. Both read beside her, hands free. Pip perches with its clip empty. Tara watches from the table, staff right, and Tez stays by Ahana. Do not repeat the entire note as a caption or speech bubble.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] When Ahana reads the reply, she shows Navya and Vihaan.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] It worked all the way to the Gate.
+[PanelizationEnd] END PANEL CH02-PAGE173-PANEL01
+[SceneHeading] Scene CH02 14E The helpers take over
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the left cooking counter, Location CH02 L05 for the right drink counter and Location CH02 L03 for the packing bench and doorway. Carry these scoped location descriptions with the scene.
+[ProductionNote] View. Wide across the Food Street packing area, keeping the left cooking counter, right drinks counter and Return Walk doorway in their fixed geography.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The drawing clip above the bench is empty following Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper has returned the emptied first trolley along Return Walk before this view. The original drawing remains with Ira; the first-trip tag is removed to the dispatch book before reuse. Twelve packs remain on each balanced table tray. New rounds use fresh checked supplies; do not refill from the half-litre bottle by implication.
+[ProductionNote] Planning requirements. Give the broad helper time and a route to return before it clears the recipe counter in Scene CH02 15A. The trio’s job is complete enough to leave ordinary service to the crew.
+[PanelizationHeading] PANEL CH02-PAGE173-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 14E A Handover for the next round
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; Scene CH02 14E; setting; assigned beat stage only
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the left cooking counter, Location CH02 L05 for the right drink counter and Location CH02 L03 for the packing bench and doorway. Carry these scoped location descriptions with the scene.
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; Scene CH02 14E; view; assigned beat stage only
+[ProductionNote] View. Wide across the Food Street packing area, keeping the left cooking counter, right drinks counter and Return Walk doorway in their fixed geography.
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; Scene CH02 14E; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; Scene CH02 14E; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The drawing clip above the bench is empty following Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper has returned the emptied first trolley along Return Walk before this view. The original drawing remains with Ira; the first-trip tag is removed to the dispatch book before reuse. Twelve packs remain on each balanced table tray. New rounds use fresh checked supplies; do not refill from the half-litre bottle by implication.
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; Scene CH02 14E; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Give the broad helper time and a route to return before it clears the recipe counter in Scene CH02 15A. The trio’s job is complete enough to leave ordinary service to the crew.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL02; Visual beat CH02 14E A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[ProductionNote] Ira’s original drawing travels from the packing bench to the Gate on the first trolley. Ira keeps it in her purse there; it does not return to Food Street with the empty trolley. Later messages use new paper.
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14E A Handover for the next round
+[ProductionNote] Moment and staging. The broad helper releases the returned empty trolley handle to one saffron assistant, whose two hands take it. The other assistant waits beside the balanced table. The trio watch from the bench with hands free. The upper carrier is empty until a separately prepared new round is loaded; the original drawing is absent.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The smaller assistants take over the trolley’s next round.
+[PanelizationEnd] END PANEL CH02-PAGE173-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE173-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 14E B Service continues without the trio
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; Scene CH02 14E; setting; assigned beat stage only
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the left cooking counter, Location CH02 L05 for the right drink counter and Location CH02 L03 for the packing bench and doorway. Carry these scoped location descriptions with the scene.
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; Scene CH02 14E; view; assigned beat stage only
+[ProductionNote] View. Wide across the Food Street packing area, keeping the left cooking counter, right drinks counter and Return Walk doorway in their fixed geography.
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; Scene CH02 14E; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; Scene CH02 14E; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The drawing clip above the bench is empty following Visual beat CH02 14A A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The broad helper has returned the emptied first trolley along Return Walk before this view. The original drawing remains with Ira; the first-trip tag is removed to the dispatch book before reuse. Twelve packs remain on each balanced table tray. New rounds use fresh checked supplies; do not refill from the half-litre bottle by implication.
+[PanelizationMetadata] SOURCE: Scene CH02 14E The helpers take over
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; Scene CH02 14E; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Give the broad helper time and a route to return before it clears the recipe counter in Scene CH02 15A. The trio’s job is complete enough to leave ordinary service to the crew.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[ProductionNote] Ira’s original drawing travels from the packing bench to the Gate on the first trolley. Ira keeps it in her purse there; it does not return to Food Street with the empty trolley. Later messages use new paper.
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE173-PANEL03; Visual beat CH02 14E B; Location CH02 L06 geography only; assigned beat state
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14E B Service continues without the trio
+[ProductionNote] Moment and staging. The second assistant carries a fresh wrap tray towards Return Walk in both hands. The first assistant has parked the empty trolley beside the packing bench after Visual beat CH02 14E A and is now the drink assistant. Use Location CH02 L05 for its right-counter work and Location CH02 L02 for the food helper’s left-counter work. This drink assistant uses the corrected recipe jugs at the right counter. The food helper cooks at the left counter. Ahana, Navya and Vihaan stand together away from the serving controls. Show a single ordinary service moment; no extra exact batch quantities are invented.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] More wraps are leaving on trays, and the drink helper is using the corrected quantities. The three children no longer have to supervise every serving.
+[PanelizationEnd] END PANEL CH02-PAGE173-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 174

@@ -1,0 +1,64 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE071
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE071-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Example 13
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Let’s work it through
+[WorkedStep] First mark 8.1, 8.2, 8.3, 8.4 and 8.5 at equal spaces. Each large space is 0.1. Divide each large space into 10 equal small spaces; each small space is 0.01.
+[WorkedStep] Mark 8.1 and 8.4 on their labelled ticks. For 8.15, start at 8.10 and move 5 small spaces: 8.10 + 0.05 = 8.15. This is halfway between 8.1 and 8.2.
+[WorkedStep] For 8.32, start at 8.30 and move 2 small spaces: 8.30 + 0.02 = 8.32. The completed number line shows all four points.
+[WorkedStep] Reading left to right gives 8.1 < 8.15 < 8.32 < 8.4.
+[WorkedStep] Ascending order: 8.1, 8.15, 8.32, 8.4.
+[ProductionLabel] DO NOT PRINT — Figure reference: V21 | The following caption sentence is printable unchanged.
+[Caption] Read the marked values from left to right.
+[ProductionNote] Production note V21 — Equal tenths from 8.1 to 8.5; ten equal subdivisions per tenth. Mark8.1,8.15,8.32,8.4 at their exact positions. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelizationEnd] END PANEL CH02-PAGE071-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE071-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Your turn after Example 13
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE071-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 13
+[Question] Show 7.1, 7.10, 7.23, 7.095 and 7.16 on a number line. Arrange them in ascending order.
+[ProductionLabel] DO NOT PRINT — Figure reference: V22 | The following caption sentence is printable unchanged.
+[Caption] Use the scale carefully.
+[ProductionNote] Production note V22 — Uniform scale from7.09 to7.24 with0.005 subdivisions. No requested point is marked. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[Caption] Pause here. Complete the question before turning to the worked answer.
+[PanelizationEnd] END PANEL CH02-PAGE071-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 072

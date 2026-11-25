@@ -1,0 +1,89 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE162
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; only the location anchors named by this independent inset
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Companion inset CH02 Q15; only the location anchors named by this independent inset
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE162-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Revision Question 12; Revision Question 13
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Revision Question 12
+[Question] Use a calculator. Give answers to 2 decimal places where necessary.
+[Question] (a)  1.8 × (92 − 2)
+[Question] (b)  4.2 × 8 − 8.8 × 4
+[Question] (c)  (5.9 + 5.95) ÷ 3
+[Question] (d)  (60.31 − 20.22) ÷ (3 + 5)
+Check your method
+[WorkedStep] (a)  Bracket: 92 − 2 = 90. Then 1.8 × 90 = 162.
+[WorkedStep] (b) Multiply first: 4.2 × 8 = 33.6 and 8.8 × 4 = 35.2. Then subtract: 33.6 − 35.2 = −1.6.
+[WorkedStep] (c)  Bracket: 5.90 + 5.95 = 11.85. Then 11.85 ÷ 3 = 3.95.
+[WorkedStep] (d)  Brackets: 60.31 − 20.22 = 40.09 and 3 + 5 = 8. Then 40.09 ÷ 8 = 5.01125 ≈ 5.01.
+Revision Question 13
+[Question] Fill the three boxes in 4.2 □ 8 □ 8.8 □ 4 with +, − and × to get the greatest possible value. Use each operation exactly once.
+Check your method
+[WorkedStep] We must use +, − and × once each. There are 3 choices for the first box, then 2 unused operations for the second, then 1 for the last. That makes 3 × 2 × 1 = 6 possible arrangements.
+[WorkedStep] Let’s check all 6. In each expression, multiply first, then do addition and subtraction from left to right. Keep the numbers 4.2, 8, 8.8 and 4 in their given positions.
+[WorkedStep] 4.2 + 8 − 8.8 × 4 = 4.2 + 8 − 35.2 = 12.2 − 35.2 = −23.
+[WorkedStep] 4.2 + 8 × 8.8 − 4 = 4.2 + 70.4 − 4 = 70.6.
+[WorkedStep] 4.2 − 8 + 8.8 × 4 = 4.2 − 8 + 35.2 = −3.8 + 35.2 = 31.4.
+[WorkedStep] 4.2 − 8 × 8.8 + 4 = 4.2 − 70.4 + 4 = −66.2 + 4 = −62.2.
+[WorkedStep] 4.2 × 8 + 8.8 − 4 = 33.6 + 8.8 − 4 = 38.4.
+[WorkedStep] 4.2 × 8 − 8.8 + 4 = 33.6 − 8.8 + 4 = 28.8.
+[WorkedStep] The greatest value is 70.6, using +, ×, − in that order. We have checked all 6 possible arrangements.
+[PanelizationEnd] END PANEL CH02-PAGE162-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE162-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q15
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; independent inset; only the location anchors named by this independent inset
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE162-PANEL02; Companion inset CH02 Q15; independent inset; only the location anchors named by this independent inset
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q15
+[ProductionLabel] DO NOT PRINT — Independent companion moment after the completed teaching passage immediately before this labelled inset. Full setting: Location CH02 L03. No plot progression or equipment-state change.
+[ProductionNote] Staging. Navya stands at the dry packing bench with both empty hands resting apart on its clear edge, facing the reader with quiet satisfaction. Use the blue doorway post and warm lamp glow. The tipping incident has not occurred and no packs move during this inset.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Checking every possibility takes away the guesswork.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE162-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 163

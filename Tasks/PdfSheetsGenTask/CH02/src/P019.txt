@@ -1,0 +1,78 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE019
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Companion inset CH02 Q01; only the location anchors named by this independent inset
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE019-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Example 4; Your turn after Example 4
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 4
+[Question] Arrange 7/5, 31/15 and 11/6 in descending order.
+Let’s work it through
+[WorkedStep] Write the fractions as mixed numbers: 7/5 = 1 2/5, 31/15 = 2 1/15, and 11/6 = 1 5/6.
+[WorkedStep] The number 2 1/15 is greater than 2; the other two numbers are less than 2. So 31/15 comes first in descending order.
+[WorkedStep] Now compare the fraction parts of 1 2/5 and 1 5/6: 2/5 and 5/6. We need a common denominator for 5 and 6.
+[WorkedStep] Multiples of 5: 5, 10, 15, 20, 25, 30. Multiples of 6: 6, 12, 18, 24, 30. The first shared multiple is 30.
+[WorkedStep] 2/5 = (2 × 6)/(5 × 6) = 12/30.
+[WorkedStep] 5/6 = (5 × 5)/(6 × 5) = 25/30.
+[WorkedStep] Since 25/30 > 12/30, we have 1 5/6 > 1 2/5. So 11/6 comes before 7/5.
+[WorkedStep] Descending order: 31/15, 11/6, 7/5.
+Your turn after Example 4
+[Question] Arrange 17/9, 23/10 and 14/5 in descending order.
+Check your method
+[WorkedStep] 17/9 = 1 8/9; 23/10 = 2 3/10; 14/5 = 2 4/5.
+[WorkedStep] Compare 2 3/10 and 2 4/5. Change 4/5 to tenths: 4/5 = (4 × 2)/(5 × 2) = 8/10.
+[WorkedStep] Since 8/10 > 3/10, the order is 2 8/10 > 2 3/10 > 1 8/9.
+[WorkedStep] Descending order in the original fractions: 14/5, 23/10, 17/9.
+[PanelizationEnd] END PANEL CH02-PAGE019-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE019-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q01
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL02; Companion inset CH02 Q01; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL02; Companion inset CH02 Q01; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL02; Companion inset CH02 Q01; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL02; Companion inset CH02 Q01; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL02; Companion inset CH02 Q01; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE019-PANEL02; Companion inset CH02 Q01; independent inset; only the location anchors named by this independent inset
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q01
+[ProductionLabel] DO NOT PRINT — Independent companion moment after the completed teaching passage immediately before this labelled inset. Full setting: Location CH02 L02. No plot progression or equipment-state change.
+[ProductionNote] Staging. Navya stands beside the dry recipe-book corner, right palm open and left hand empty on the clear edge, smiling towards the reader. Crop the unresolved stock-card values out. The brass tank base and blue wall can extend beside the inset.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Same amount. Different way of writing it.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE019-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 020

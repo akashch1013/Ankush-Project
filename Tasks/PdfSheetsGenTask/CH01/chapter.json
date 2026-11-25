@@ -1,0 +1,449 @@
+{
+ "chapter": "CH01",
+ "prepared": "2026-11-23T17:54:38",
+ "reference_dir": "Reference/Chap1 Corrected",
+ "sources": {
+  "manuscript": "Reference/Chap1 Corrected/CH01-PANELIZED-MANUSCRIPT-V02.docx",
+  "register": "Reference/Chap1 Corrected/CH01-LOCATION-IMAGE-REGISTER-V10.docx",
+  "sha": {
+   "manuscript": "1d17d9e1cd19",
+   "register": "d227ec25ff38"
+  },
+  "versions": {
+   "manuscript": 2,
+   "register": 10
+  },
+  "images": [
+   "Reference/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20(1).jpeg",
+   "Reference/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20(2).jpeg",
+   "Reference/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20(3).jpeg",
+   "Reference/Chap1 Corrected/WhatsApp Image 2026-11-03 at 08.55.20.jpeg"
+  ],
+  "other_docs": []
+ },
+ "files": {
+  "manuscript_txt": "PdfSheetsGenTask/CH01/manuscript.txt",
+  "register_txt": "PdfSheetsGenTask/CH01/register.txt",
+  "src": "PdfSheetsGenTask/CH01/src/",
+  "survey": "PdfSheetsGenTask/CH01/survey.txt",
+  "index": "PdfSheetsGenTask/CH01/index.json",
+  "mathscan": "PdfSheetsGenTask/CH01/mathscan.txt",
+  "pages": "PdfSheetsGenTask/CH01/pages.json",
+  "review": "PdfSheetsGenTask/CH01/review.json",
+  "artifacts": "PdfSheetsGenTask/CH01/artifacts.json"
+ },
+ "workspaces": {
+  "backgrounds": "BagroundGenTask/",
+  "plates": "BagroundGenTask/out/plates/",
+  "panels": "FInalChangesTask/CH01/",
+  "library": "FInalChangesTask/library/",
+  "output": "Output/CH01/"
+ },
+ "pages": {
+  "count": 107,
+  "first": "P001",
+  "last": "P107",
+  "kinds": {
+   "story": 43,
+   "story+math": 8,
+   "text-heavy": 12,
+   "teaching": 23,
+   "math-heavy": 21
+  },
+  "index_sha": {
+   "P001": "5849ea5347",
+   "P002": "b52929e883",
+   "P003": "9ede07bc03",
+   "P004": "ac41edc77c",
+   "P005": "57e0987483",
+   "P006": "e466a08107",
+   "P007": "bba39a93d7",
+   "P008": "944c4d751a",
+   "P009": "d49d8565a7",
+   "P010": "a5d40dfe83",
+   "P011": "bab2b16493",
+   "P012": "3e7aa8cc9f",
+   "P013": "3e36db29e6",
+   "P014": "3645a4d942",
+   "P015": "59d63568aa",
+   "P016": "e708380ef6",
+   "P017": "4b471a3d63",
+   "P018": "e7c1ee0af5",
+   "P019": "411ee62c49",
+   "P020": "0285d84f29",
+   "P021": "0b4f24658b",
+   "P022": "44bcf0fe74",
+   "P023": "3e0910c691",
+   "P024": "d079e70437",
+   "P025": "c1b739d14e",
+   "P026": "af3d6205a0",
+   "P027": "38905dd26d",
+   "P028": "2c60e663c2",
+   "P029": "0fecbb663f",
+   "P030": "0cfa30c213",
+   "P031": "e8abe2eef1",
+   "P032": "ee1f789d7a",
+   "P033": "cd0bb04b9c",
+   "P034": "ea8586e98a",
+   "P035": "5342bba20b",
+   "P036": "f47195d6f7",
+   "P037": "1b205e1016",
+   "P038": "0a3567f9f9",
+   "P039": "1e0fc69c5c",
+   "P040": "8f561092bb",
+   "P041": "c3f9f2b039",
+   "P042": "a255f687d9",
+   "P043": "2a55e838c8",
+   "P044": "70ace731be",
+   "P045": "f94b0a13dd",
+   "P046": "a3db22da63",
+   "P047": "51f9f7cbf4",
+   "P048": "25b615cc02",
+   "P049": "1f05787bca",
+   "P050": "d6b214d168",
+   "P051": "5ce7830b84",
+   "P052": "bdf5251a34",
+   "P053": "883aa8ae1a",
+   "P054": "48532e0662",
+   "P055": "ff4f6baef6",
+   "P056": "1532fd6a47",
+   "P057": "20c120db39",
+   "P058": "3165c6cb89",
+   "P059": "b657989544",
+   "P060": "f31715b83c",
+   "P061": "bbf04b1370",
+   "P062": "bb15be05ac",
+   "P063": "88b88d591e",
+   "P064": "21308dc5f0",
+   "P065": "4e3e6acc4c",
+   "P066": "26b7cc129b",
+   "P067": "8bdc739208",
+   "P068": "cb931b66c0",
+   "P069": "eca056ed5c",
+   "P070": "e75cb642fb",
+   "P071": "4981de3acf",
+   "P072": "5b0de3c033",
+   "P073": "a82d314e29",
+   "P074": "6176a82df8",
+   "P075": "b5aa956b34",
+   "P076": "ef55b13333",
+   "P077": "8a2356303b",
+   "P078": "2bd9a7aa9c",
+   "P079": "f136623d37",
+   "P080": "81025c6df0",
+   "P081": "bfcfb87601",
+   "P082": "f297ada65a",
+   "P083": "1b6f47f1ad",
+   "P084": "d919ba4533",
+   "P085": "872ac15652",
+   "P086": "7c77fd9b94",
+   "P087": "202d09082d",
+   "P088": "597fc119aa",
+   "P089": "b3adabd62f",
+   "P090": "a3137c6382",
+   "P091": "8db4a3456f",
+   "P092": "c2e3641fb1",
+   "P093": "b8885932d1",
+   "P094": "91d7d45a42",
+   "P095": "55ca4d46ae",
+   "P096": "858733eeb1",
+   "P097": "2ccbe1548e",
+   "P098": "181ca4a1bd",
+   "P099": "baf5e1c53d",
+   "P100": "c84803c345",
+   "P101": "4ed0627747",
+   "P102": "a04b72c79d",
+   "P103": "b831ae58f9",
+   "P104": "41ae94c63e",
+   "P105": "bb1a63b0e2",
+   "P106": "21e5418934",
+   "P107": "5bbf4c3ced"
+  }
+ },
+ "register": {
+  "masters": [
+   {
+    "name": "Lantern Street master from Entry Court",
+    "identity": "The approved view from Entry Court, with the near-left goods lift, continuous right-wall bench, left mirror opposite the cube station and distant Food Street shutters.",
+    "image": null
+   },
+   {
+    "name": "Old Blue Gate exterior master",
+    "identity": "The approved exterior pavilion with the full-moon ornament, left-leaf service door, separate equipment exit, left planter and right bench.",
+    "image": null
+   },
+   {
+    "name": "Food Street master from Lantern Street",
+    "identity": "The approved Food Street entrance view with the crooked cart and intact brass bowl beside its nearest wheel.",
+    "image": null
+   }
+  ],
+  "records": [
+   {
+    "id": "M01-D01",
+    "title": "Low entrance cart view",
+    "master": "Lantern Street",
+    "filename": "CH01_M01_D01_Lantern_Street_Master_from_Entry_Court_Low_entrance_cart_view.png",
+    "plate": "BagroundGenTask/out/plates/M01-D01.png"
+   },
+   {
+    "id": "M01-D02",
+    "title": "Bench and secured arch fittings",
+    "master": "Lantern Street",
+    "filename": "CH01_M01_D02_Lantern_Street_Master_from_Entry_Court_Bench_and_secured_arch_fittings.png",
+    "plate": "BagroundGenTask/out/plates/M01-D02.png"
+   },
+   {
+    "id": "M01-D03",
+    "title": "Restored reverse wide",
+    "master": "Lantern Street",
+    "filename": "CH01_M01_D03_Lantern_Street_Master_from_Entry_Court_Restored_reverse_wide.png",
+    "plate": "BagroundGenTask/out/plates/M01-D03.png"
+   },
+   {
+    "id": "M01-D04",
+    "title": "Restored approach to closed Food shutters",
+    "master": "Lantern Street / Food Street",
+    "filename": "CH01_M01_D04_Lantern_Street_Master_from_Entry_Court_Restored_approach_to_closed_Food_shutters.png",
+    "plate": "BagroundGenTask/out/plates/M01-D04.png"
+   },
+   {
+    "id": "S01-B01",
+    "title": "Street level lift bay",
+    "master": "Lantern Street",
+    "filename": "CH01_S01_B01_Lantern_Street_Goods_Lift_Bay_and_Controller_Street_level_lift_bay.png",
+    "plate": "BagroundGenTask/out/plates/S01-B01.png"
+   },
+   {
+    "id": "S01-D01",
+    "title": "Guarded downward shaft view",
+    "master": "Lantern Street",
+    "filename": "CH01_S01_D01_Lantern_Street_Goods_Lift_Bay_and_Controller_Guarded_downward_shaft_view.png",
+    "plate": "BagroundGenTask/out/plates/S01-D01.png"
+   },
+   {
+    "id": "S01-D02",
+    "title": "Controller operating close view",
+    "master": "Lantern Street",
+    "filename": "CH01_S01_D02_Lantern_Street_Goods_Lift_Bay_and_Controller_Controller_operating_close_view.png",
+    "plate": "BagroundGenTask/out/plates/S01-D02.png"
+   },
+   {
+    "id": "S01-D03",
+    "title": "Open unequal correction wheels",
+    "master": "Lantern Street",
+    "filename": "CH01_S01_D03_Lantern_Street_Goods_Lift_Bay_and_Controller_Open_unequal_correction_wheels.png",
+    "plate": "BagroundGenTask/out/plates/S01-D03.png"
+   },
+   {
+    "id": "S01-D04",
+    "title": "Four equal correction settings",
+    "master": "Lantern Street",
+    "filename": "CH01_S01_D04_Lantern_Street_Goods_Lift_Bay_and_Controller_Four_equal_correction_settings.png",
+    "plate": "BagroundGenTask/out/plates/S01-D04.png"
+   },
+   {
+    "id": "S01-D05",
+    "title": "Loaded car at street landing",
+    "master": "Lantern Street",
+    "filename": "CH01_S01_D05_Lantern_Street_Goods_Lift_Bay_and_Controller_Loaded_car_at_street_landing.png",
+    "plate": "BagroundGenTask/out/plates/S01-D05.png"
+   },
+   {
+    "id": "S02-B01",
+    "title": "Lower landing with waiting cart",
+    "master": "Lantern Street",
+    "filename": "CH01_S02_B01_Lower_Store_of_the_Lantern_Street_Goods_Lift_Lower_landing_with_waiting_cart.png",
+    "plate": "BagroundGenTask/out/plates/S02-B01.png"
+   },
+   {
+    "id": "S02-D01",
+    "title": "Open lower loading threshold",
+    "master": "Lantern Street",
+    "filename": "CH01_S02_D01_Lower_Store_of_the_Lantern_Street_Goods_Lift_Open_lower_loading_threshold.png",
+    "plate": "BagroundGenTask/out/plates/S02-D01.png"
+   },
+   {
+    "id": "S03-B01",
+    "title": "Timing mechanism at start",
+    "master": "Lantern Street",
+    "filename": "CH01_S03_B01_Lantern_Street_Timing_Bench_Left_End_Timing_mechanism_at_start.png",
+    "plate": "BagroundGenTask/out/plates/S03-B01.png"
+   },
+   {
+    "id": "S03-D01",
+    "title": "Shared opening at twelve",
+    "master": "Lantern Street",
+    "filename": "CH01_S03_D01_Lantern_Street_Timing_Bench_Left_End_Shared_opening_at_twelve.png",
+    "plate": "BagroundGenTask/out/plates/S03-D01.png"
+   },
+   {
+    "id": "S03-D02",
+    "title": "Bird at the end stop",
+    "master": "Lantern Street",
+    "filename": "CH01_S03_D02_Lantern_Street_Timing_Bench_Left_End_Bird_at_the_end_stop.png",
+    "plate": "BagroundGenTask/out/plates/S03-D02.png"
+   },
+   {
+    "id": "S04-B01",
+    "title": "Projector kit preparation bench",
+    "master": "Lantern Street",
+    "filename": "CH01_S04_B01_Lantern_Street_Projector_Kit_Bench_Centre_Projector_kit_preparation_bench.png",
+    "plate": "BagroundGenTask/out/plates/S04-B01.png"
+   },
+   {
+    "id": "S04-D01",
+    "title": "Exact sample kit overhead",
+    "master": "Lantern Street",
+    "filename": "CH01_S04_D01_Lantern_Street_Projector_Kit_Bench_Centre_Exact_sample_kit_overhead.png",
+    "plate": "BagroundGenTask/out/plates/S04-D01.png"
+   },
+   {
+    "id": "S04-D02",
+    "title": "Assembled projector on test rail",
+    "master": "Lantern Street",
+    "filename": "CH01_S04_D02_Lantern_Street_Projector_Kit_Bench_Centre_Assembled_projector_on_test_rail.png",
+    "plate": "BagroundGenTask/out/plates/S04-D02.png"
+   },
+   {
+    "id": "S05-B01",
+    "title": "Sealed cartons with mismatched cards",
+    "master": "Lantern Street",
+    "filename": "CH01_S05_B01_Lantern_Street_Sealed_Hook_Rack_Right_End_Sealed_cartons_with_mismatched_cards.png",
+    "plate": "BagroundGenTask/out/plates/S05-B01.png"
+   },
+   {
+    "id": "S05-D01",
+    "title": "Exposed dust at the original card clip",
+    "master": "Lantern Street",
+    "filename": "CH01_S05_D01_Lantern_Street_Sealed_Hook_Rack_Right_End_Exposed_dust_at_the_original_card_clip.png",
+    "plate": "BagroundGenTask/out/plates/S05-D01.png"
+   },
+   {
+    "id": "S06-B01",
+    "title": "Crooked mirror tiles",
+    "master": "Lantern Street",
+    "filename": "CH01_S06_B01_Lantern_Street_Square_Mirror_Recess_Crooked_mirror_tiles.png",
+    "plate": "BagroundGenTask/out/plates/S06-B01.png"
+   },
+   {
+    "id": "S06-D01",
+    "title": "Empty mirror frame and staged tiles",
+    "master": "Lantern Street",
+    "filename": "CH01_S06_D01_Lantern_Street_Square_Mirror_Recess_Empty_mirror_frame_and_staged_tiles.png",
+    "plate": "BagroundGenTask/out/plates/S06-D01.png"
+   },
+   {
+    "id": "S06-D02",
+    "title": "Completed nine by nine mirror",
+    "master": "Lantern Street",
+    "filename": "CH01_S06_D02_Lantern_Street_Square_Mirror_Recess_Completed_nine_by_nine_mirror.png",
+    "plate": "BagroundGenTask/out/plates/S06-D02.png"
+   },
+   {
+    "id": "S06-D03",
+    "title": "Low completed mirror viewpoint",
+    "master": "Lantern Street",
+    "filename": "CH01_S06_D03_Lantern_Street_Square_Mirror_Recess_Low_completed_mirror_viewpoint.png",
+    "plate": "BagroundGenTask/out/plates/S06-D03.png"
+   },
+   {
+    "id": "S06-D04",
+    "title": "Illuminated inner rim mark",
+    "master": "Lantern Street",
+    "filename": "CH01_S06_D04_Lantern_Street_Square_Mirror_Recess_Illuminated_inner_rim_mark.png",
+    "plate": "BagroundGenTask/out/plates/S06-D04.png"
+   },
+   {
+    "id": "S07-B01",
+    "title": "Uneven cube towers",
+    "master": "Lantern Street",
+    "filename": "CH01_S07_B01_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Uneven_cube_towers.png",
+    "plate": "BagroundGenTask/out/plates/S07-B01.png"
+   },
+   {
+    "id": "S07-D01",
+    "title": "Completed four by four by four cube",
+    "master": "Lantern Street",
+    "filename": "CH01_S07_D01_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Completed_four_by_four_by_four_cube.png",
+    "plate": "BagroundGenTask/out/plates/S07-D01.png"
+   },
+   {
+    "id": "S07-D02",
+    "title": "Five readiness lights and raised handle",
+    "master": "Lantern Street",
+    "filename": "CH01_S07_D02_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Five_readiness_lights_and_raised_handle.png",
+    "plate": "BagroundGenTask/out/plates/S07-D02.png"
+   },
+   {
+    "id": "S07-D03",
+    "title": "Low moonline and closed crooked cover",
+    "master": "Lantern Street",
+    "filename": "CH01_S07_D03_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Low_moonline_and_closed_crooked_cover.png",
+    "plate": "BagroundGenTask/out/plates/S07-D03.png"
+   },
+   {
+    "id": "S07-D04",
+    "title": "Open disconnected moonline joint",
+    "master": "Lantern Street",
+    "filename": "CH01_S07_D04_Lantern_Street_Cube_Plinth_Handle_and_Moonline_Joint_Open_disconnected_moonline_joint.png",
+    "plate": "BagroundGenTask/out/plates/S07-D04.png"
+   },
+   {
+    "id": "M02-D01",
+    "title": "Mumbai waiting lane wide",
+    "master": "Old Blue Gate",
+    "filename": "CH01_M02_D01_Old_Blue_Gate_Exterior_Waiting_Lane_Mumbai_waiting_lane_wide.png",
+    "plate": "BagroundGenTask/out/plates/M02-D01.png"
+   },
+   {
+    "id": "M03-D01",
+    "title": "Closer obstructed Food Street threshold",
+    "master": "Food Street / Lantern Street",
+    "filename": "CH01_M03_D01_Food_Street_Master_from_Lantern_Street_Closer_obstructed_Food_Street_threshold.png",
+    "plate": "BagroundGenTask/out/plates/M03-D01.png"
+   }
+  ]
+ },
+ "locations": {},
+ "cast": {
+  "Ahana": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+   "pages": 43,
+   "speaks": 16
+  },
+  "Navya": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+   "pages": 45,
+   "speaks": 12
+  },
+  "Tara": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+   "pages": 44,
+   "speaks": 17
+  },
+  "Tez": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+   "pages": 44,
+   "speaks": 6
+  },
+  "Vihaan": {
+   "sheet": "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+   "pages": 44,
+   "speaks": 10
+  }
+ },
+ "status": {
+  "sources": "ok",
+  "register": "ok",
+  "plates": "ok",
+  "masters": "agent: match each master to an image",
+  "locations": "agent: map manuscript locations to register records",
+  "characters": "ok",
+  "maths": "agent: 29 FAIL lines in mathscan.txt",
+  "agent_review": "todo"
+ },
+ "resolved": {},
+ "changes": null,
+ "notes": []
+}

@@ -1,0 +1,57 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE109
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7C
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7C
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7C; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE109-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7C; Practice 2H; Practice 2H Question 1; Practice 2H Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE109-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2H
+Practice 2H Question 1
+[Question] Evaluate.
+[Question] (a)  −2.81 + (−54.6)
+[Question] (b)  −106.26 − (−8.33)
+[Question] (c)  (−3 + 41) + 40.1
+[Question] (d)  8.76 − (−2.14)
+[Question] (e)  60.2 − 29.4 + (−10.3)
+[Question] (f)  15.98 − (−1.61) + (−3.6)
+Check your method
+[WorkedStep] (a) Both added numbers are negative. Add their distances below zero and keep the minus sign: −2.81 + (−54.6) = −(2.81 + 54.60) = −57.41.
+[WorkedStep] (b) Change subtraction of −8.33 to addition of 8.33: −106.26 − (−8.33) = −106.26 + 8.33 = −97.93. We are still below zero because 8.33 < 106.26.
+[WorkedStep] (c) Calculate the brackets: −3 + 41 = 38. So (−3 + 41) + 40.1 = 38 + 40.1 = 78.1.
+[WorkedStep] (d) Subtracting −2.14 means adding 2.14: 8.76 − (−2.14) = 8.76 + 2.14 = 10.90 = 10.9.
+[WorkedStep] (e) First find 60.2 − 29.4 = 30.8. Then add −10.3, which means subtract 10.3: 30.8 + (−10.3) = 30.8 − 10.3 = 20.5.
+[WorkedStep] (f) Subtracting −1.61 adds 1.61; adding −3.6 subtracts 3.6. So 15.98 − (−1.61) + (−3.6) = 15.98 + 1.61 − 3.60 = 17.59 − 3.60 = 13.99.
+Practice 2H Question 2
+[Question] Use 1.7587 + 2.5879 = 4.3466 to find each value.
+[Question] (a)  −1.7587 + (−2.5879)
+[Question] (b)  1.7587 − (−2.5879)
+[Question] (c)  4.3466 + (−2.5879)
+[Question] (d)  −4.3466 − (−1.7587)
+Check your method
+[WorkedStep] (a) The question gives 1.7587 + 2.5879 = 4.3466. Both numbers in this part are negative, so −1.7587 + (−2.5879) = −(1.7587 + 2.5879) = −4.3466.
+[WorkedStep] (b) Subtracting −2.5879 means adding 2.5879: 1.7587 − (−2.5879) = 1.7587 + 2.5879 = 4.3466. That is exactly the sum given in the question.
+[WorkedStep] (c) The total 4.3466 contains 1.7587 and 2.5879. Remove 2.5879 and 1.7587 remains: 4.3466 + (−2.5879) = 4.3466 − 2.5879 = 1.7587.
+[WorkedStep] (d) First change subtraction of −1.7587 to addition: −4.3466 − (−1.7587) = −4.3466 + 1.7587. Since 4.3466 − 1.7587 = 2.5879, the result is still 2.5879 below zero: −2.5879.
+[PanelizationEnd] END PANEL CH02-PAGE109-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 110

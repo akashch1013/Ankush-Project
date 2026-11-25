@@ -1,0 +1,187 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE172
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 14B A; Visual beat CH02 14B B; Visual beat CH02 14C A; Visual beat CH02 14C B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 14B A; Visual beat CH02 14B B; Visual beat CH02 14C A; Visual beat CH02 14C B; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 14B A; Visual beat CH02 14B B; Visual beat CH02 14C A; Visual beat CH02 14C B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 14B A; Visual beat CH02 14B B; Visual beat CH02 14C A; Visual beat CH02 14C B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 14B A; Visual beat CH02 14B B; Visual beat CH02 14C A; Visual beat CH02 14C B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 14 The first full delivery
+[PaginationMetadata] Applies to: Visual beat CH02 14B A; Visual beat CH02 14B B; continuity and reveal timing only | Visual beat CH02 14C A; Visual beat CH02 14C B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 14B; Scene CH02 14C; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 14B; Scene CH02 14C; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 14B; Scene CH02 14C; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 14B Everyone in the first group receives a drink
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Exterior medium at the service doorway, bench right and planter left as viewed from the waiting lane.
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The broad helper has brought the same loaded trolley from Return Walk through Entry Court to the supervised service doorway. The first sixteen names are on Kabir’s list. The original cup drawing is clipped to the trolley; the first-trip tag remains attached.
+[ProductionNote] Planning requirements. The first drink group includes Ira, Kabir and the girl in green, but their admission group will be the later twenty-two. Serving does not trigger admission.
+[PanelizationHeading] PANEL CH02-PAGE172-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 14B A Ira shows the stopping place
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; Scene CH02 14B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; Scene CH02 14B; view; assigned beat stage only
+[ProductionNote] View. Exterior medium at the service doorway, bench right and planter left as viewed from the waiting lane.
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; Scene CH02 14B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; Scene CH02 14B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The broad helper has brought the same loaded trolley from Return Walk through Entry Court to the supervised service doorway. The first sixteen names are on Kabir’s list. The original cup drawing is clipped to the trolley; the first-trip tag remains attached.
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; Scene CH02 14B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The first drink group includes Ira, Kabir and the girl in green, but their admission group will be the later twenty-two. Serving does not trigger admission.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL01; Visual beat CH02 14B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14B A Ira shows the stopping place
+[ProductionNote] Moment and staging. The trolley is parked at the stopping place Ira indicates with her right hand; her left is empty. The broad helper stands beside the stationary trolley, feet braced, and extends one full cup with its right hand into the hands of a waiting child; its left steadies the trolley’s fixed rail. Kabir watches that handover and marks the matching list entry with pencil right, notebook left. The green helper supervises the service doorway. The girl in green and her two friends wait together; her completed receipt is the next beat. Do not show the broad helper also holding the trolley handle with both hands.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] At the waiting line, Ira shows it where to stop. Kabir ticks off the names as the drinks arrive.
+[PanelizationEnd] END PANEL CH02-PAGE172-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE172-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 14B B A full cup for the girl
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; Scene CH02 14B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; Scene CH02 14B; view; assigned beat stage only
+[ProductionNote] View. Exterior medium at the service doorway, bench right and planter left as viewed from the waiting lane.
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; Scene CH02 14B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; Scene CH02 14B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The broad helper has brought the same loaded trolley from Return Walk through Entry Court to the supervised service doorway. The first sixteen names are on Kabir’s list. The original cup drawing is clipped to the trolley; the first-trip tag remains attached.
+[PanelizationMetadata] SOURCE: Scene CH02 14B Everyone in the first group receives a drink
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; Scene CH02 14B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The first drink group includes Ira, Kabir and the girl in green, but their admission group will be the later twenty-two. Serving does not trigger admission.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL02; Visual beat CH02 14B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14B B A full cup for the girl
+[ProductionNote] Moment and staging. The girl in green has received a full cup and raises it in her right hand towards Pip at chest height, left hand supporting its base. She looks up gratefully. Ira stands beside her, hands lowered; Kabir continues the list. The helper remains at the trolley. Keep her two friends together nearby; do not imply she speaks through the bird’s mouth.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The girl in green gets a full cup and raises it towards the bird.
+[ProductionNote] DO NOT PRINT — Speaker: Girl in green | Tail target: Girl in green’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Tell them thank you.
+[PanelizationEnd] END PANEL CH02-PAGE172-PANEL02
+[SceneHeading] Scene CH02 14C A new receipt note
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Close medium at the exterior Gate bench, with blue door timber and the pale right pier visible beyond.
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The first sixteen drinks and snack packs have been delivered. Ira removes and keeps her original cup drawing. Her receipt is written on a different fresh sheet. Pip carries that new note only. The trolley is ready to return for its next round.
+[ProductionNote] Planning requirements. The old drawing must not remain clipped at Food Street, remain on the departing trolley or become the new receipt sheet.
+[PanelizationHeading] PANEL CH02-PAGE172-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 14C A Ira keeps her drawing
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; Scene CH02 14C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; Scene CH02 14C; view; assigned beat stage only
+[ProductionNote] View. Close medium at the exterior Gate bench, with blue door timber and the pale right pier visible beyond.
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; Scene CH02 14C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; Scene CH02 14C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The first sixteen drinks and snack packs have been delivered. Ira removes and keeps her original cup drawing. Her receipt is written on a different fresh sheet. Pip carries that new note only. The trolley is ready to return for its next round.
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; Scene CH02 14C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The old drawing must not remain clipped at Food Street, remain on the departing trolley or become the new receipt sheet.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL03; Visual beat CH02 14C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14C A Ira keeps her drawing
+[ProductionNote] Moment and staging. Single close medium at the Gate bench: Ira’s left hand holds her purse open while her right slides the original cup-and-16 drawing inside, its cup symbol still recognisable above the purse edge. Any transfer between hands is already complete. The trolley’s drawing clip is empty. Pip waits on the bench with empty clip; Kabir holds his closed notebook in his left hand, pencil secured. The new receipt sheet remains separate and blank.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ira’s cup drawing has travelled back with the trolley.
+[PanelizationEnd] END PANEL CH02-PAGE172-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE172-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 14C B The receipt for Food Street
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; Scene CH02 14C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; Scene CH02 14C; view; assigned beat stage only
+[ProductionNote] View. Close medium at the exterior Gate bench, with blue door timber and the pale right pier visible beyond.
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; Scene CH02 14C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; Scene CH02 14C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The large blue doors remain shut to general admission until the final authorisation. The small service doorway permits supervised messages and food delivery. The separate equipment exit beyond the left pier is not this door. Food-delivery groups do not determine admission groups. Ira’s cup drawing and each later written message are separate sheets. The first sixteen drinks and snack packs have been delivered. Ira removes and keeps her original cup drawing. Her receipt is written on a different fresh sheet. Pip carries that new note only. The trolley is ready to return for its next round.
+[PanelizationMetadata] SOURCE: Scene CH02 14C A new receipt note
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; Scene CH02 14C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The old drawing must not remain clipped at Food Street, remain on the departing trolley or become the new receipt sheet.
+[PanelizationMetadata] SOURCE: Sequence 14 The first full delivery
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE172-PANEL04; Visual beat CH02 14C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 14C B The receipt for Food Street
+[ProductionNote] Moment and staging. Ira writes on a new sheet laid on the bench, right hand using the pencil and left holding the paper flat. Her cup drawing is secured in her purse. Put the exact receipt text on this fresh sheet. Pip waits beside it with empty clip, ready to take it after writing; no invented signature or extra wording.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She keeps it and writes a new note for Pip:
+[ProductionNote] DO NOT PRINT — Surface: Ira’s new receipt note for Pip
+[PrintField] SURFACE TEXT — PRINT ONLY THIS ON THE NAMED SHEET
+[SurfaceCopy] First drinks delivered. Everyone in the group got one. The next people are ready.
+[PanelizationEnd] END PANEL CH02-PAGE172-PANEL04
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 173

@@ -1,0 +1,47 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE110
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7C
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7C
+[PaginationMetadata] Applies to: Teaching block T2.7C; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7C; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE110-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7C; Practice 2H Question 3; Practice 2H Question 4; Practice 2H Question 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7C
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 11A Combine the existing withdrawals
+[PanelizationMetadata] APPLIES TO: CH02-PAGE110-PANEL01; Teaching block T2.7C; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2H Question 3
+[Question] Muthu claims that 8.76 − (−3.14) = 8.76 − 3.14. Is he correct? If not, explain how to calculate it.
+Check your method
+[WorkedStep] Muthu is not correct. In 8.76 − (−3.14), subtracting −3.14 means adding 3.14:
+[WorkedStep] 8.76 − (−3.14) = 8.76 + 3.14 = 11.90 = 11.9.
+[WorkedStep] His calculation, 8.76 − 3.14 = 5.62, moves down by 3.14. The original calculation moves up by 3.14, so it cannot have that answer.
+Practice 2H Question 4
+[Question] The average temperature in Beijing is −11.7°C on one day and drops to −19.2°C the next day. Find the difference.
+Check your method
+[WorkedStep] The first temperature, −11.7°C, is 11.7°C below zero. The next temperature, −19.2°C, is 19.2°C below zero. Find how much farther below zero it is: 19.2 − 11.7 = 7.5.
+[WorkedStep] The temperature drops by 7.5°C. Check: −11.7 − 7.5 = −19.2. If we write the change with a sign, it is −7.5°C; the minus sign shows the drop.
+Practice 2H Question 5
+[Question] Sherry’s travel card shows −$0.80 at the end of Friday. She uses it only for travel between home and school, costing $1.05 each day. What was the balance at the start of Monday?
+Check your method
+[WorkedStep] There are five school days from Monday to Friday. Total fares = 5 × $1.05 = $5.25.
+[WorkedStep] The card has lost $5.25 in fares by Friday. To find Monday’s starting balance, add those fares back to Friday’s balance: −$0.80 + $5.25 = $4.45.
+[WorkedStep] Check forwards: $4.45 − $5.25 = −$0.80. The $1.05 is the fare for a whole day of travel, so we use 5 × $1.05, not 10 × $1.05.
+[PanelizationEnd] END PANEL CH02-PAGE110-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 111

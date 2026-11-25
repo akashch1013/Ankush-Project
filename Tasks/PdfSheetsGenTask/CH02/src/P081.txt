@@ -1,0 +1,44 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE081
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE081-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Example 17
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE081-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[WorkedStep] (b) We need 0.39 to 1 decimal place. That means choosing between 0.3 and 0.4. Halfway between them is 0.35.
+[WorkedStep] The blue point 0.39 lies between 0.35 and 0.4. It is closer to 0.4, so 0.39 ≈ 0.4 to 1 d.p.
+[ProductionLabel] DO NOT PRINT — Figure reference: V25b-R | The following caption sentence is printable unchanged.
+[Caption] 0.39 is nearer 0.4 than 0.3.
+[ProductionNote] Production note V25b-R — Linear number line from0.3 to0.4, midpoint0.35, point0.39 placed to scale. Endpoints labelled to1 decimal places. Blue point and arrow identify the original number; midpoint is labelled halfway. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] (c) For 4.7897 to 3 decimal places, choose between 4.789 and 4.790. Halfway is 4.7895. The point 4.7897 is above that halfway value, so choose 4.790.
+[WorkedStep] We can also work with the digits. Keep the first 3 decimal digits, giving 4.789. The next digit is 7, so add 0.001: 4.789 + 0.001 = 4.790.
+[WorkedStep] Here the last kept digit was 9. Adding 1 thousandth gives 9 + 1 = 10 thousandths, equal to 1 hundredth. So the 8 hundredths becomes 9 hundredths, and the thousandths digit becomes 0.
+[WorkedStep] Answer: 4.7897 ≈ 4.790 to 3 d.p. Keep that final 0: 4.790 shows 3 decimal places.
+[ProductionLabel] DO NOT PRINT — Figure reference: V25c-R | The following caption sentence is printable unchanged.
+[Caption] 4.7897 is nearer 4.790 than 4.789.
+[ProductionNote] Production note V25c-R — Linear number line from4.789 to4.79, midpoint4.7895, point4.7897 placed to scale. Endpoints labelled to3 decimal places. Blue point and arrow identify the original number; midpoint is labelled halfway. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+For a quicker route, find the last place you need and look at the next digit. If it is 0–4, leave the last kept digit unchanged. If it is 5–9, round up. For example, to 2 d.p., 3.142 becomes 3.14, but 3.147 rounds up from 3.14 to 3.15. Leave out the extra digits.
+For the positive numbers here, an exact halfway value rounds upwards. That is why 0.35 would round to 0.4 rather than 0.3.
+[PanelizationEnd] END PANEL CH02-PAGE081-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 082

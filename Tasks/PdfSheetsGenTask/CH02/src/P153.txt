@@ -1,0 +1,136 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE153
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 12I A; Visual beat CH02 12I B; Visual beat CH02 12I C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 12I A; Visual beat CH02 12I B; Visual beat CH02 12I C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 12I A; Visual beat CH02 12I B; Visual beat CH02 12I C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 12I A; Visual beat CH02 12I B; Visual beat CH02 12I C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 12 A checked snack load and three percentages
+[PaginationMetadata] Applies to: Visual beat CH02 12I A; Visual beat CH02 12I B; Visual beat CH02 12I C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 12I; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 12I; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 12I; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 12I The first-trip share
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. High three-quarter view of the dispatch book and tag on the packing bench, with the full capped upper carrier and empty lower tray beside it.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. First-trip allocation 16/40 = 0.4 = 40%; later allocation 24/40 = 60%. All forty packs have not yet been loaded onto the round table. The lower snack tray stays empty until Scene CH02 13C.
+[ProductionNote] Planning requirements. The remaining twenty-four are an allocation for later trips, not an already completed physical removal. Keep the full batch available for the following 25/15 loading mistake.
+[PanelizationHeading] PANEL CH02-PAGE153-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 12I A Write the first-trip tag
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; Scene CH02 12I; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; Scene CH02 12I; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the dispatch book and tag on the packing bench, with the full capped upper carrier and empty lower tray beside it.
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; Scene CH02 12I; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; Scene CH02 12I; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. First-trip allocation 16/40 = 0.4 = 40%; later allocation 24/40 = 60%. All forty packs have not yet been loaded onto the round table. The lower snack tray stays empty until Scene CH02 13C.
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; Scene CH02 12I; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The remaining twenty-four are an allocation for later trips, not an already completed physical removal. Keep the full batch available for the following 25/15 loading mistake.
+[PanelizationMetadata] SOURCE: Sequence 12 A checked snack load and three percentages
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL01; Visual beat CH02 12I A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 12I A Write the first-trip tag
+[ProductionNote] Moment and staging. Ahana writes the completed source tag with her right hand while her left steadies it: FIRST TRIP: 16 PACKS — 40% OF THIS BATCH. Show the supporting 16/40 = 0.4 calculation in the dispatch book. Navya and Vihaan read from beside her. No earlier percentage tag is visible.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Sixteen divided by forty is 0.4. Multiplying by a hundred gives 40%. Ahana writes FIRST TRIP: 16 PACKS — 40% OF THIS BATCH.
+[PanelizationEnd] END PANEL CH02-PAGE153-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE153-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 12I B The rest will follow
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; Scene CH02 12I; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; Scene CH02 12I; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the dispatch book and tag on the packing bench, with the full capped upper carrier and empty lower tray beside it.
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; Scene CH02 12I; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; Scene CH02 12I; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. First-trip allocation 16/40 = 0.4 = 40%; later allocation 24/40 = 60%. All forty packs have not yet been loaded onto the round table. The lower snack tray stays empty until Scene CH02 13C.
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; Scene CH02 12I; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The remaining twenty-four are an allocation for later trips, not an already completed physical removal. Keep the full batch available for the following 25/15 loading mistake.
+[PanelizationMetadata] SOURCE: Sequence 12 A checked snack load and three percentages
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL02; Visual beat CH02 12I B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 12I B The rest will follow
+[ProductionNote] Moment and staging. Retain the bench camera and character positions specified in Scene CH02 12I. Ahana lays her pencil down, points with her now-free right hand towards the twenty-four-pack later allocation on the stock record and rests her left on the book’s clear edge. The full batch remains together for balanced loading. No packs vanish.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The other twenty-four packs are 60% of the batch. They will go on later trips while the food helpers prepare more.
+[PanelizationEnd] END PANEL CH02-PAGE153-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE153-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 12I C Attach the tag
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; Scene CH02 12I; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; Scene CH02 12I; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the dispatch book and tag on the packing bench, with the full capped upper carrier and empty lower tray beside it.
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; Scene CH02 12I; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; Scene CH02 12I; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. First-trip allocation 16/40 = 0.4 = 40%; later allocation 24/40 = 60%. All forty packs have not yet been loaded onto the round table. The lower snack tray stays empty until Scene CH02 13C.
+[PanelizationMetadata] SOURCE: Scene CH02 12I The first-trip share
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; Scene CH02 12I; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The remaining twenty-four are an allocation for later trips, not an already completed physical removal. Keep the full batch available for the following 25/15 loading mistake.
+[PanelizationMetadata] SOURCE: Sequence 12 A checked snack load and three percentages
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE153-PANEL03; Visual beat CH02 12I C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 12I C Attach the tag
+[ProductionNote] Moment and staging. The broad helper attaches the completed first-trip tag to the trolley’s fixed front rail, right hand at the clip and left steadying the rail. The lower snack tray is still empty. The round table waits beside it with brake applied. Hot-food helpers continue through the background route; this beat prepares the load rather than performing it.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper attaches the completed first-trip tag. The remaining packs stay for later rounds. Now it can load the waiting trolley from the round serving table.
+[PanelizationEnd] END PANEL CH02-PAGE153-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 154

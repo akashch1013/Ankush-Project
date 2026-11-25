@@ -1,0 +1,4 @@
+Use case: precise correction of Image 1, a ChandRush comic image (P001-1).
+Input images: Image 1 is the current image.
+Change only this: Preserve the current composition, character identities and poses, lighting, background and all objects. Change only the brass bowl by making exactly one bowl visibly wedged beneath the nearest cart wheel so the wheel is clearly pressing against its rim; keep the bowl intact and keep all other background bowls in their original places. No other changes.
+Keep everything else exactly as it is in Image 1: camera, framing, perspective, architecture, characters' faces, hair, clothing and proportions, materials, colours, lighting, every other object, every existing physical inscription and every empty area reserved for lettering. Output the same image with only that correction. Do not add any text, speech bubble, caption, label, arrow or watermark.

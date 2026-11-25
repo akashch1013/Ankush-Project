@@ -1,0 +1,18 @@
+Use case: ChandRush chandrush-ch02-panels comic panel P005-2, beat CH02 01F B.
+Asset: one high-quality graphic-novel panel illustration, letter-free.
+Input images, in order:
+- Image 1: approved raw location plate BagroundGenTask/ch02/out/plates/L02_D.png. Preserve its architecture, camera geography, royal-blue timber, brass, cream stone and lamp/moon lighting. Do not use composed/final plates.
+- Image 2: Tara character sheet; use only for face, hair, skin, proportions, outfit and colors. Ignore sheet layout and all labels.
+Characters and actions:
+- Food helper (behind brass dispenser): withdraws pointing finger and opens palm beside cup; tilts head towards two cooked portions. Only gesture/gaze/dialogue change.; gaze: cup or Tara; expression: concerned. Draw as a broad friendly WOODEN automaton with a carved wood face and visibly jointed carved wooden hands, saffron apron and ivory cap; not human.
+- Tara (right of dispenser): closes tap only in beat C; otherwise speaks or watches; gaze: helper; expression: focused. Use attached sheet for identity.
+Props and states at this exact beat:
+- Keep two cooked dosas aside and unchanged
+- No batter stream after shutoff
+- Do not show correct one-sixth setting or open original book before the final beat
+Physical inscriptions: none. Do not add any words, numbers, signs or markings.
+Reserved empty areas for later HTML captions/bubbles: bubble in upper-left (0.68×0.28 of panel). Keep faces, hands and essential props outside those areas.
+Composition: follow screen positions above, keep all essential action and faces inside the central 80%, coherent graphic-novel reading direction. Camera: medium along cool counter towards brass dispenser controls; supply tap and measuring cup clear.
+Style: warm, premium dimensional storybook illustration with soft 3D form and painterly finish, matching the approved P001 sample and the CH02 location plate; crisp contact shadows, rich blue night, amber lamp glow, antique brass, no pastel/cartoon treatment.
+
+Do not show: speech bubbles, captions, titles, labels, arrows, watermarks, signatures, extra characters, duplicate limbs, mirrored outfits or state from another beat.

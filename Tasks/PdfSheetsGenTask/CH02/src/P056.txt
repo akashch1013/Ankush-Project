@@ -1,0 +1,132 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE056
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 06D A; Visual beat CH02 06D B; Visual beat CH02 06D C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 06D A; Visual beat CH02 06D B; Visual beat CH02 06D C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 06D A; Visual beat CH02 06D B; Visual beat CH02 06D C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 06D A; Visual beat CH02 06D B; Visual beat CH02 06D C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 06D A; Visual beat CH02 06D B; Visual beat CH02 06D C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 06 The next dosa
+[PaginationMetadata] Applies to: Visual beat CH02 06D A; Visual beat CH02 06D B; Visual beat CH02 06D C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 06D Ahana tries the checked handle
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium on Ahana at the long safe handle, Navya beside her and Tara by the accessible shut-off. Keep the plate shelf and tank in the background.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; serving stop fastened at ⅙ kg; ⅔ kg batch restored across the tank and charged ⅙ kg cup. Supply tap open, cup outlet closed, handle at rest; the feed interlock prevents a continuous pour. Ahana’s right hand takes the long handle on the cool side. The original oversized dosa stays on its plate, visible beyond the empty plates.
+[ProductionNote] Planning requirements. No batter is released until Scene CH02 06E. Ahana’s concern is real, not comic incompetence.
+[PanelizationHeading] PANEL CH02-PAGE056-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 06D A Remembering the first plate
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; Scene CH02 06D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; Scene CH02 06D; view; assigned beat stage only
+[ProductionNote] View. Medium on Ahana at the long safe handle, Navya beside her and Tara by the accessible shut-off. Keep the plate shelf and tank in the background.
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; Scene CH02 06D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; Scene CH02 06D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; serving stop fastened at ⅙ kg; ⅔ kg batch restored across the tank and charged ⅙ kg cup. Supply tap open, cup outlet closed, handle at rest; the feed interlock prevents a continuous pour. Ahana’s right hand takes the long handle on the cool side. The original oversized dosa stays on its plate, visible beyond the empty plates.
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; Scene CH02 06D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. No batter is released until Scene CH02 06E. Ahana’s concern is real, not comic incompetence.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL01; Visual beat CH02 06D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06D A Remembering the first plate
+[ProductionNote] Moment and staging. Ahana holds the long handle with her right hand and rests her empty left hand on the cool guard edge. Her gaze goes towards the oversized dosa, brows slightly drawn. Navya stands beside her; Tara watches the shut-off. Ahana’s balloon points to her visible mouth.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana holds the dispenser’s long handle, safely away from the heat. She remembers the oversized dosa on the first plate.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] What if it pours too much again?
+[PanelizationEnd] END PANEL CH02-PAGE056-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE056-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 06D B A plan to stop it
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; Scene CH02 06D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; Scene CH02 06D; view; assigned beat stage only
+[ProductionNote] View. Medium on Ahana at the long safe handle, Navya beside her and Tara by the accessible shut-off. Keep the plate shelf and tank in the background.
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; Scene CH02 06D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; Scene CH02 06D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; serving stop fastened at ⅙ kg; ⅔ kg batch restored across the tank and charged ⅙ kg cup. Supply tap open, cup outlet closed, handle at rest; the feed interlock prevents a continuous pour. Ahana’s right hand takes the long handle on the cool side. The original oversized dosa stays on its plate, visible beyond the empty plates.
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; Scene CH02 06D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. No batter is released until Scene CH02 06E. Ahana’s concern is real, not comic incompetence.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL02; Visual beat CH02 06D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06D B A plan to stop it
+[ProductionNote] Moment and staging. Navya turns towards Ahana, right palm held open at waist height and left hand resting on the clear cool edge. Her expression is calm and practical. Ahana keeps her grip; the handle and cup remain unmoved.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We stop it.
+[PanelizationEnd] END PANEL CH02-PAGE056-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE056-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 06D C This amount has been checked
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; Scene CH02 06D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; Scene CH02 06D; view; assigned beat stage only
+[ProductionNote] View. Medium on Ahana at the long safe handle, Navya beside her and Tara by the accessible shut-off. Keep the plate shelf and tank in the background.
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; Scene CH02 06D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; Scene CH02 06D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Heat ON; serving stop fastened at ⅙ kg; ⅔ kg batch restored across the tank and charged ⅙ kg cup. Supply tap open, cup outlet closed, handle at rest; the feed interlock prevents a continuous pour. Ahana’s right hand takes the long handle on the cool side. The original oversized dosa stays on its plate, visible beyond the empty plates.
+[PanelizationMetadata] SOURCE: Scene CH02 06D Ahana tries the checked handle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; Scene CH02 06D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. No batter is released until Scene CH02 06E. Ahana’s concern is real, not comic incompetence.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE056-PANEL03; Visual beat CH02 06D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06D C This amount has been checked
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character locations specified in Scene CH02 06D. Navya changes her right palm to a point towards the verified serving mark, left hand still resting clear of the mechanism. Her gaze follows the mark. Ahana holds the handle right; Tara keeps the shut-off within reach.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We have checked the amount this time.
+[PanelizationEnd] END PANEL CH02-PAGE056-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 057

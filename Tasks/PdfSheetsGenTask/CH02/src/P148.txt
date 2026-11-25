@@ -1,0 +1,78 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE148
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; only the location anchors named by this independent inset
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Companion inset CH02 Q14; only the location anchors named by this independent inset
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE148-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Example 40; Your turn after Example 40
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 40
+[Question] Class A has 25 students and 10 receive gold awards in a fitness test. Class B has 40 students and 12 receive gold awards. Which class does better by the percentage receiving gold?
+Let’s work it through
+[WorkedStep] Class A has 10 gold-award students out of 25 students: 10/25 × 100% = 1000/25% = 40%.
+[WorkedStep] Class B has 12 gold-award students out of 40 students: 12/40 × 100% = 1200/40% = 30%.
+[WorkedStep] Since 40% > 30%, Class A does better by the percentage receiving gold. Class B has more gold awards, 12 rather than 10, but it also has more students, 40 rather than 25. That is why we compare each award count with its own class total.
+Your turn after Example 40
+[Question] A 100 g bag of chips contains 20 g of fibre. A 150 g bag of cereal contains 75 g of fibre. Which food contains a greater percentage of fibre?
+Check your method
+[WorkedStep] Chips: compare 20 g of fibre with the 100 g bag: 20/100 × 100% = 20%.
+[WorkedStep] Cereal: compare 75 g of fibre with the 150 g bag: 75/150 × 100% = 1/2 × 100% = 50%.
+[WorkedStep] Since 50% > 20%, cereal contains the greater percentage of fibre. Each denominator is the mass of that food’s own bag.
+[PanelizationEnd] END PANEL CH02-PAGE148-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE148-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q14
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; independent inset; only the location anchors named by this independent inset
+[ProductionNote] A near-entrance shelf and pale packing bench sit beside the Return Walk door.
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE148-PANEL02; Companion inset CH02 Q14; independent inset; only the location anchors named by this independent inset
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q14
+[ProductionLabel] DO NOT PRINT — Independent companion moment after the completed teaching passage immediately before this labelled inset. Full setting: Location CH02 L03. No plot progression or equipment-state change.
+[ProductionNote] Staging. Tara stands beside the packing bench, staff right and left palm gently open, looking at the reader. The Return Walk post and warm bracket light can extend into spare space. Keep the unanswered snack-share field outside the crop.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Always ask what the percentage is a share of.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE148-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 149

@@ -1,0 +1,80 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE084
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q07; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE084-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Example 19; Your turn after Example 19
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 19
+[Question] Use a calculator and round as requested.
+[Question] (a)  √2 to 3 decimal places
+[Question] (b)  √5 to 4 decimal places
+[Question] (c)  ∛9 to 5 decimal places
+Let’s work it through
+[WorkedStep] (a) The calculator gives √2 = 1.414213… . For 3 decimal places, keep 1.414. The next digit is 2, below 5, so leave 1.414 unchanged. Answer: √2 ≈ 1.414.
+[WorkedStep] (b) The calculator gives √5 = 2.236067… . For 4 decimal places, keep 2.2360. The next digit is 6, so add 0.0001: 2.2360 + 0.0001 = 2.2361. Answer: √5 ≈ 2.2361.
+[WorkedStep] (c) ∛9 = 2.080083… . Keep 2.08008 for 5 decimal places; the next digit is 3. So ∛9 ≈ 2.08008.
+Ali asks how to give √4 and ∛8 to two decimal places. Both equal 2 exactly: 2 × 2 = 4 and 2 × 2 × 2 = 8. Write 2.00 for each when two decimal places are requested. The zeros show the requested format; they do not change the value.
+Your turn after Example 19
+[Question] Use a calculator and round as requested.
+[Question] (a)  √15 to 2 decimal places
+[Question] (b)  ∛29 to 3 decimal places
+[Question] (c)  π to 4 decimal places
+Check your method
+[WorkedStep] (a)  √15 = 3.872983… . The third decimal digit is 2, so √15 ≈ 3.87.
+[WorkedStep] (b)  ∛29 = 3.072316… . The fourth decimal digit is 3, so ∛29 ≈ 3.072.
+[WorkedStep] (c)  π = 3.141592… . The fifth decimal digit is 9, so π ≈ 3.1416.
+[PanelizationEnd] END PANEL CH02-PAGE084-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE084-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q07
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL02; Companion inset CH02 Q07; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL02; Companion inset CH02 Q07; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL02; Companion inset CH02 Q07; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL02; Companion inset CH02 Q07; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL02; Companion inset CH02 Q07; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE084-PANEL02; Companion inset CH02 Q07; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q07
+[ProductionNote] Staging. Tez stands on four paws below the drink counter, head tilted and ears hopeful towards the reader. A pale counter leg and teal awning can extend into free space. No bowl is filled and the urn remains at its unresolved 3.9 L story state.
+[ProductionNote] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I was hoping rounding could refill a bowl.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE084-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 085

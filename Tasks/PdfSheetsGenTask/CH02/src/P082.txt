@@ -1,0 +1,75 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE082
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE082-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Your turn after Example 17
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 17
+[Question] Round as requested.
+[Question] (a)  10.215 to 2 decimal places
+[Question] (b)  0.948 to the nearest whole number
+[Question] (c)  4.95 to 1 decimal place
+Check your method
+[WorkedStep] (a) In 10.215, keep 10.21 for 2 decimal places. The next digit is 5, so add 0.01: 10.21 + 0.01 = 10.22. Thus 10.215 ≈ 10.22.
+[WorkedStep] (b) In 0.948, keep the whole-number part 0. The next digit, the tenths digit, is 9. Round up from 0 to 1: 0.948 ≈ 1.
+[WorkedStep] (c) In 4.95, keep 4.9 for 1 decimal place. The next digit is 5, so add 0.1: 4.9 + 0.1 = 5.0. Thus 4.95 ≈ 5.0. Write 5.0 to show 1 decimal place.
+[WorkedStep] If we start with a fraction, first divide its numerator by its denominator. Work out at least one more decimal digit than the question asks us to keep. That extra digit tells us whether to round up.
+[PanelizationEnd] END PANEL CH02-PAGE082-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE082-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Example 18; Your turn after Example 18
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE082-PANEL02; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 18
+[Question] Express each fraction as a decimal rounded as requested.
+[Question] (a)  1/6 to 1 decimal place
+[Question] (b)  22/7 to 2 decimal places
+Let’s work it through
+[WorkedStep] (a) For 1/6 to 1 decimal place, we need the first two decimal digits. Use 1 ÷ 6 = 0.1666… .
+[WorkedStep] Keep 0.1 and look at the next digit, 6. It tells us to round up: 0.1 + 0.1 = 0.2. So 1/6 ≈ 0.2 to 1 d.p.
+[WorkedStep] (b) For 22/7 to 2 decimal places, use 22 ÷ 7 = 3.142857… . Keep 3.14; the next digit is 2, so leave 3.14 unchanged.
+[WorkedStep] Thus 22/7 ≈ 3.14 to 2 d.p. Read one extra digit before rounding; the rest can wait.
+Your turn after Example 18
+[Question] Express each fraction as a decimal rounded as requested.
+[Question] (a)  5/7 to 1 decimal place
+[Question] (b)  8/3 to 2 decimal places
+Check your method
+[WorkedStep] (a) 5/7 = 5 ÷ 7 = 0.714285… . Keep 0.7; the next digit is 1. So 5/7 ≈ 0.7 to 1 d.p.
+[WorkedStep] (b) 8/3 = 8 ÷ 3 = 2.666… . Keep 2.66; the next digit is 6. Round up to get 8/3 ≈ 2.67 to 2 d.p.
+[PanelizationEnd] END PANEL CH02-PAGE082-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 083

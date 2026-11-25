@@ -1,0 +1,131 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE025
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 03C A; Visual beat CH02 03C B; Visual beat CH02 03C C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 03C A; Visual beat CH02 03C B; Visual beat CH02 03C C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 03C A; Visual beat CH02 03C B; Visual beat CH02 03C C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 03C A; Visual beat CH02 03C B; Visual beat CH02 03C C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 03 Check the stock
+[PaginationMetadata] Applies to: Visual beat CH02 03C A; Visual beat CH02 03C B; Visual beat CH02 03C C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03C; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03C; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 03C The measured stock
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. High three-quarter view of the book, stock cards and balance on the cool dry counter, retaining the pale front edge and brass tank base.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The book gives 1¾ kg; 7/4 kg is the matching stock card. Supply tap closed; portion stop unchanged. The food mass is measured with the tray’s tare accounted for by the balance, not by pretending the tray has no weight.
+[ProductionNote] Planning requirements. Use an exact insert for seven quarter-kilogram weights. All seven are equal and labelled ¼ kg. No extra food or weights appear.
+[PanelizationHeading] PANEL CH02-PAGE025-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 03C A Read the two fractions
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; Scene CH02 03C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; Scene CH02 03C; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the book, stock cards and balance on the cool dry counter, retaining the pale front edge and brass tank base.
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; Scene CH02 03C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; Scene CH02 03C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The book gives 1¾ kg; 7/4 kg is the matching stock card. Supply tap closed; portion stop unchanged. The food mass is measured with the tray’s tare accounted for by the balance, not by pretending the tray has no weight.
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; Scene CH02 03C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use an exact insert for seven quarter-kilogram weights. All seven are equal and labelled ¼ kg. No extra food or weights appear.
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL01; Visual beat CH02 03C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03C A Read the two fractions
+[ProductionNote] Moment and staging. Close insert of the original book entry and the two cards on the same pale counter. Vihaan’s right fingertip indicates the 7/4 card while his left rests clear of the labels. Keep both cards visible for comparison; this is the first confirmation after T2.1.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Seven quarters make one whole and three quarters, so 7/4 kilogram matches 1¾ kilograms. Five quarters would make only 1¼ kilograms.
+[PanelizationEnd] END PANEL CH02-PAGE025-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE025-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 03C B Seven quarter-kilogram weights
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; Scene CH02 03C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; Scene CH02 03C; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the book, stock cards and balance on the cool dry counter, retaining the pale front edge and brass tank base.
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; Scene CH02 03C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; Scene CH02 03C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The book gives 1¾ kg; 7/4 kg is the matching stock card. Supply tap closed; portion stop unchanged. The food mass is measured with the tray’s tare accounted for by the balance, not by pretending the tray has no weight.
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; Scene CH02 03C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use an exact insert for seven quarter-kilogram weights. All seven are equal and labelled ¼ kg. No extra food or weights appear.
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL02; Visual beat CH02 03C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03C B Seven quarter-kilogram weights
+[ProductionNote] Moment and staging. Show the original recipe-counter beam balance. Its tare slider is set to zero for this empty tray before weighing, and exactly seven equal ¼ kg weights balancing the food. The helper has released the pans; its hands hover clear. Ahana watches, hands free. The balance beam is level.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper weighs the tray. Seven quarter-kilogram weights balance it, confirming the book’s amount.
+[PanelizationEnd] END PANEL CH02-PAGE025-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE025-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 03C C Remove the false stock card
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; Scene CH02 03C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; Scene CH02 03C; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the book, stock cards and balance on the cool dry counter, retaining the pale front edge and brass tank base.
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; Scene CH02 03C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; Scene CH02 03C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The book gives 1¾ kg; 7/4 kg is the matching stock card. Supply tap closed; portion stop unchanged. The food mass is measured with the tray’s tare accounted for by the balance, not by pretending the tray has no weight.
+[PanelizationMetadata] SOURCE: Scene CH02 03C The measured stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; Scene CH02 03C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use an exact insert for seven quarter-kilogram weights. All seven are equal and labelled ¼ kg. No extra food or weights appear.
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 03C B Seven quarter-kilogram weights
+[PanelizationMetadata] APPLIES TO: CH02-PAGE025-PANEL03; Visual beat CH02 03C C; completed preceding weighing only; Visual beat CH02 03C C current tray position
+[ProductionNote] Moment and staging. Show the original recipe-counter beam balance. Its tare slider is set to zero for this empty tray before weighing, and exactly seven equal ¼ kg weights balancing the food.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03C C Remove the false stock card
+[ProductionNote] Moment and staging. Continue from the completed weighing in Visual beat CH02 03C B, retaining the counter layout specified in Scene CH02 03C. After the weighing result, the helper has returned the same tray to the dry counter, with its brass stock-card clip facing Ahana. Ahana lifts the loose 5/4-kilogram card away from that clip with her right hand; her left steadies only the dry clip base. The food remains in the same weighed tray; the seven quarter-kilogram weights stay on the balance beside it. Crop tightly enough to follow the removed card but reserve the dust and scratched mark for the next scene.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana lifts away the 5/4-kilogram card.
+[PanelizationEnd] END PANEL CH02-PAGE025-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 026

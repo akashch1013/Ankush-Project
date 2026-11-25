@@ -1,0 +1,178 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE059
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; Visual beat CH02 07A B; Visual beat CH02 07A C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; Visual beat CH02 07A B; Visual beat CH02 07A C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; Visual beat CH02 07A B; Visual beat CH02 07A C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; Visual beat CH02 07A B; Visual beat CH02 07A C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 07A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 07A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 07A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 07A; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 07A; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Scene CH02 06F The next dosa fits
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; left-counter camera, standing positions and checked operating state only; apply the new cooking action
+[PaginationSourceLabel] Carried forward from: Scene CH02 06F The next dosa fits
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; left-counter camera, standing positions and checked operating state only; apply the new cooking action
+[PaginationSourceLabel] Carried forward from: Scene CH02 06F The next dosa fits
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; left-counter camera, standing positions and checked operating state only; apply the new cooking action
+[PaginationSourceLabel] Carried forward from: Scene CH02 06F The next dosa fits
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; left-counter camera, standing positions and checked operating state only; apply the new cooking action
+[PaginationSourceLabel] Carried forward from: Visual beat CH02 06F C Dinner looks possible
+[PaginationMetadata] Applies to: Visual beat CH02 07A A; retained standing positions only; no repetition of the earlier action
+[ProductionNote] Moment and staging. Ahana has both hands free at the cool shelf edge and grins at the fitting dosa. Navya and Vihaan smile towards the result; Tara watches with quiet approval, staff right. Tez looks up from below the shelf. No one touches the hot plate.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 07 Food reaches the waiting children
+[ProductionLabel] Production sequence reference CH02-07. Non-printing background and continuity.
+[ProductionNote] Background — Location CH02 L04. Outside the Old Blue Gate, two weathered blue timber leaves stand between pale-stone piers, with brass ribs, moon-shaped openings and one round full-moon ornament above. Seen from the lane, the small service doorway is in the left leaf, the bench is right and the planter is left.
+[SceneHeading] Scene CH02 07A Food can leave now
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the cooking counter and Location CH02 L03 for the packing bench and Return Walk doorway. Carry these scoped location descriptions with the scene.
+[ProductionNote] View. Wide enough to connect the left cooking counter to the near packing bench and Return Walk doorway, without showing the outside Gate.
+[ProductionNote] Cast and positions. In CH02 07A A, Ahana, Navya and Vihaan remain on the cool side of the left cooking counter in their positions from CH02 06F C; Tara remains at the safe shut-off end with her staff in her right hand, and Tez stays below the shelf clear of feet. In CH02 07A B, the view follows the assistants at the packing doorway; the trio need not appear. Before CH02 07A C, the trio and Tara move along the clear lane to the packing area between images. Ahana stands at the bench’s entrance corner to write; Navya stands beside the parked trolley and Vihaan beside the dispatch book. Tara stands beside the central table, staff right; Tez stays clear of the wheels. CH02 07A C is a close view of Ahana’s hands and note, so these surrounding positions need not appear. The broad helper remains at the packing equipment. No character appears in two locations in one image.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The food helper now uses the checked recipe and ⅙ kg portion stop. The five prepared wrap trays are ready; further stock remains available. The sixteen-cup trolley stays at the packing bench, empty of drinks. Pip waits for a new note.
+[ProductionNote] Planning requirements. Food trays leave before the first drink trolley. The two assistants carry only manageable trays and return before their later work; the broad helper remains at Food Street.
+[PanelizationHeading] PANEL CH02-PAGE059-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 07A A The kitchen keeps serving
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; Scene CH02 07A; setting; assigned beat stage only
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the cooking counter and Location CH02 L03 for the packing bench and Return Walk doorway. Carry these scoped location descriptions with the scene.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; Scene CH02 07A; view; assigned beat stage only
+[ProductionNote] View. Wide enough to connect the left cooking counter to the near packing bench and Return Walk doorway, without showing the outside Gate.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; Scene CH02 07A; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. In CH02 07A A, Ahana, Navya and Vihaan remain on the cool side of the left cooking counter in their positions from CH02 06F C; Tara remains at the safe shut-off end with her staff in her right hand, and Tez stays below the shelf clear of feet. In CH02 07A B, the view follows the assistants at the packing doorway; the trio need not appear. Before CH02 07A C, the trio and Tara move along the clear lane to the packing area between images. Ahana stands at the bench’s entrance corner to write; Navya stands beside the parked trolley and Vihaan beside the dispatch book. Tara stands beside the central table, staff right; Tez stays clear of the wheels. CH02 07A C is a close view of Ahana’s hands and note, so these surrounding positions need not appear. The broad helper remains at the packing equipment. No character appears in two locations in one image.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; Scene CH02 07A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The food helper now uses the checked recipe and ⅙ kg portion stop. The five prepared wrap trays are ready; further stock remains available. The sixteen-cup trolley stays at the packing bench, empty of drinks. Pip waits for a new note.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; Scene CH02 07A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Food trays leave before the first drink trolley. The two assistants carry only manageable trays and return before their later work; the broad helper remains at Food Street.
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; recipe-counter setting
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; recipe-counter view; Visual beat CH02 07A A current view
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; retained standing positions
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; checked operating state at Scene CH02 06F completion only; Visual beat CH02 07A A subsequent cooking
+[PanelizationMetadata] SOURCE: Scene CH02 06F The next dosa fits
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; checked operation and helper ownership
+[PanelizationMetadata] SOURCE: Visual beat CH02 06F C Dinner looks possible
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL01; Visual beat CH02 07A A; retained standing positions only; Visual beat CH02 07A A current gestures and action
+[ProductionNote] Moment and staging. Ahana has both hands free at the cool shelf edge and grins at the fitting dosa. Navya and Vihaan smile towards the result; Tara watches with quiet approval, staff right. Tez looks up from below the shelf. No one touches the hot plate.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07A A The kitchen keeps serving
+[ProductionNote] Moment and staging. At the left counter described in Location CH02 L02, with the checked operating states from Scene CH02 06F, the food helper cooks a subsequent checked dosa, right-hand tool over the hot plate and left hand at the safe back edge. Ahana, Navya and Vihaan remain on the cool side in their positions from CH02 06F C, hands clear; Tara stays at the safe shut-off end, staff right, and Tez remains below the shelf. This ordinary continued cooking does not reuse the earlier failed dosa.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] With the portions checked, the food helper can keep cooking.
+[PanelizationEnd] END PANEL CH02-PAGE059-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE059-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 07A B Prepared wraps go out
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; Scene CH02 07A; setting; assigned beat stage only
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the cooking counter and Location CH02 L03 for the packing bench and Return Walk doorway. Carry these scoped location descriptions with the scene.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; Scene CH02 07A; view; assigned beat stage only
+[ProductionNote] View. Wide enough to connect the left cooking counter to the near packing bench and Return Walk doorway, without showing the outside Gate.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; Scene CH02 07A; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. In CH02 07A A, Ahana, Navya and Vihaan remain on the cool side of the left cooking counter in their positions from CH02 06F C; Tara remains at the safe shut-off end with her staff in her right hand, and Tez stays below the shelf clear of feet. In CH02 07A B, the view follows the assistants at the packing doorway; the trio need not appear. Before CH02 07A C, the trio and Tara move along the clear lane to the packing area between images. Ahana stands at the bench’s entrance corner to write; Navya stands beside the parked trolley and Vihaan beside the dispatch book. Tara stands beside the central table, staff right; Tez stays clear of the wheels. CH02 07A C is a close view of Ahana’s hands and note, so these surrounding positions need not appear. The broad helper remains at the packing equipment. No character appears in two locations in one image.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; Scene CH02 07A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The food helper now uses the checked recipe and ⅙ kg portion stop. The five prepared wrap trays are ready; further stock remains available. The sixteen-cup trolley stays at the packing bench, empty of drinks. Pip waits for a new note.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; Scene CH02 07A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Food trays leave before the first drink trolley. The two assistants carry only manageable trays and return before their later work; the broad helper remains at Food Street.
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L06 ChandRush — Covered Return Walk
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL02; Visual beat CH02 07A B; Location CH02 L06 geography only; assigned beat state
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07A B Prepared wraps go out
+[ProductionNote] Moment and staging. Cut to the packing doorway. A saffron assistant carries one prepared wrap tray level in both hands through Return Walk; the second waits with the next tray. Show one departure moment. The caption also describes their later return for dosas; do not draw the same assistant entering and leaving in one image. The food helper continues behind the left counter.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The smaller assistants carry the prepared wrap trays to the waiting children, then return for the dosas. The helpers have more food in their stores. They were held up by wrong records and wrong serving settings, not by a lack of ingredients.
+[PanelizationEnd] END PANEL CH02-PAGE059-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE059-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 07A C A new message for Ira
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; Scene CH02 07A; setting; assigned beat stage only
+[ProductionNote] Setting. Location CH02 L03: The near-entrance pale packing bench and stock shelf stand beside the Return Walk doorway. The sixteen-cup trolley has an upper carrier and separate lower snack shelf. A circular table with two matching trays equally far from its centre stands in the central clear lane. Same full-moon night. Warm task lamps and cool moonlit edges remain consistent; the current scene controls repaired and unrepaired states. Visible wider background: use Location CH02 L02 for the cooking counter and Location CH02 L03 for the packing bench and Return Walk doorway. Carry these scoped location descriptions with the scene.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; Scene CH02 07A; view; assigned beat stage only
+[ProductionNote] View. Wide enough to connect the left cooking counter to the near packing bench and Return Walk doorway, without showing the outside Gate.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; Scene CH02 07A; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. In CH02 07A A, Ahana, Navya and Vihaan remain on the cool side of the left cooking counter in their positions from CH02 06F C; Tara remains at the safe shut-off end with her staff in her right hand, and Tez stays below the shelf clear of feet. In CH02 07A B, the view follows the assistants at the packing doorway; the trio need not appear. Before CH02 07A C, the trio and Tara move along the clear lane to the packing area between images. Ahana stands at the bench’s entrance corner to write; Navya stands beside the parked trolley and Vihaan beside the dispatch book. Tara stands beside the central table, staff right; Tez stays clear of the wheels. CH02 07A C is a close view of Ahana’s hands and note, so these surrounding positions need not appear. The broad helper remains at the packing equipment. No character appears in two locations in one image.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; Scene CH02 07A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The original cup drawing is clipped above the bench until its explicit removal for dispatch. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The food helper now uses the checked recipe and ⅙ kg portion stop. The five prepared wrap trays are ready; further stock remains available. The sixteen-cup trolley stays at the packing bench, empty of drinks. Pip waits for a new note.
+[PanelizationMetadata] SOURCE: Scene CH02 07A Food can leave now
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; Scene CH02 07A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Food trays leave before the first drink trolley. The two assistants carry only manageable trays and return before their later work; the broad helper remains at Food Street.
+[PanelizationMetadata] SOURCE: Sequence 07 Food reaches the waiting children
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE059-PANEL03; Visual beat CH02 07A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 07A C A new message for Ira
+[ProductionNote] Moment and staging. Close view of the fresh update lying open and fully readable on the pale packing bench. Ahana’s right hand holds the pencil just clear of the completed writing; her left fingertips steady the blank margin. Pip waits beside the sheet with an empty clip. The original cup-and-16 drawing remains clipped above the bench. Print the exact SURFACE TEXT on the open sheet. Folding and flight occur between this image and Visual beat CH02 07B A, where Ira has received it; no Pip dialogue.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Pip takes a short update to Ira:
+[ProductionNote] DO NOT PRINT — Surface: the short update carried by Pip to Ira
+[PrintField] SURFACE TEXT — PRINT ONLY THIS ON THE NAMED SHEET
+[SurfaceCopy] Food is coming. We are checking the drinks next.
+[PanelizationEnd] END PANEL CH02-PAGE059-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 060

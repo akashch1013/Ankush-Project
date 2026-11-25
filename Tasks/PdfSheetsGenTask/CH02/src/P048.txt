@@ -1,0 +1,91 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE048
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3B
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3B
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.3B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE048-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.3B; Example 9
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[WorkedStep] (b) Keep 1/9 and turn 2/3 over: 1/9 ÷ 2/3 = 1/9 × 3/2.
+[WorkedStep] Divide 3 and 9 by 3, then multiply: (1 × 1)/(3 × 2) = 1/6.
+[WorkedStep] (c) The fractions 5/11 and 10/11 already have denominator 11. We have 5 pieces and a full group needs 10 of the same pieces. Since 5 ÷ 10 = 1/2, the answer should be 1/2.
+[WorkedStep] 5/11 ÷ 10/11 = 5/11 × 11/10 = 5/10 = 1/2.
+[PanelizationEnd] END PANEL CH02-PAGE048-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE048-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.3B; Your turn after Example 9
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL02; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 9
+[Question] Evaluate and simplify.
+[Question] (a)  10/12 ÷ 9/11
+[Question] (b)  7/8 ÷ 7/13
+[Question] (c)  2/11 ÷ 4/9
+Check your method
+[WorkedStep] (a) Turn 9/11 over: 10/12 ÷ 9/11 = 10/12 × 11/9. Divide 10 and 12 by 2:
+[WorkedStep] 10/12 × 11/9 = (5 × 11)/(6 × 9) = 55/54 = 1 1/54.
+[WorkedStep] The answer 1 1/54 is just over 1 group. That fits: 10/12 = 110/132 is slightly more than 9/11 = 108/132.
+[WorkedStep] (b) 7/8 ÷ 7/13 = 7/8 × 13/7. Divide both 7s by 7:
+[WorkedStep] = (1 × 13)/(8 × 1) = 13/8 = 1 5/8.
+[WorkedStep] (c) 2/11 ÷ 4/9 = 2/11 × 9/4. Divide 2 and 4 by 2:
+[WorkedStep] = (1 × 9)/(11 × 2) = 9/22.
+[PanelizationEnd] END PANEL CH02-PAGE048-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE048-PANEL03
+[PanelizationMetadata] SOURCE: Teaching block T2.3B; Your turn after Example 9
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE048-PANEL03; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Let’s compare three divisions with the same starting number, 6.
+6 ÷ 1/2 = 12. Dividing by 1/2, a positive fraction below 1, gives a number greater than 6.
+6 ÷ 3/2 = 6 × 2/3 = 4. Dividing by 3/2, a fraction greater than 1, gives a number smaller than 6.
+6 ÷ 2/2 = 6 ÷ 1 = 6. Dividing by 1 leaves the number unchanged.
+These size checks apply to positive starting amounts. Read the fraction you divide by before deciding whether the answer should be bigger or smaller.
+Our answer 15/32 in Example 9 was part of a group. But if a question asks how many full bottles we can fill, a part-filled bottle does not count as full. Watch for that word in the next question.
+[PanelizationEnd] END PANEL CH02-PAGE048-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 049

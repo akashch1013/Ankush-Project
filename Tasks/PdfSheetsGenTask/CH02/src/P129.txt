@@ -1,0 +1,63 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE129
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE129-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Practice 2J; Practice 2J Question 1; Practice 2J Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE129-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2J
+Practice 2J Question 1
+[Question] Express each percentage as a fraction in simplest form.
+[Question] (a)  5%
+[Question] (b)  32%
+[Question] (c)  112%
+[Question] (d)  150%
+[Question] (e)  2 1/2%
+[Question] (f)  12.5%
+Check your method
+[WorkedStep] (a)  5% = 5/100 = (5 ÷ 5)/(100 ÷ 5) = 1/20.
+[WorkedStep] (b)  32% = 32/100 = (32 ÷ 4)/(100 ÷ 4) = 8/25.
+[WorkedStep] (c)  112% = 112/100 = (112 ÷ 4)/(100 ÷ 4) = 28/25. This is 28/25 = 1 3/25.
+[WorkedStep] (d)  150% = 150/100 = (150 ÷ 50)/(100 ÷ 50) = 3/2. This is 3/2 = 1 1/2.
+[WorkedStep] (e)  2 1/2 = (2 × 2 + 1)/2 = 5/2. Now apply the percent sign: divide this number by 100.
+[WorkedStep] 2 1/2% = 5/2 × 1/100 = 5/200 = (5 ÷ 5)/(200 ÷ 5) = 1/40.
+[WorkedStep] (f) 12.5% = 12.5/100. Multiply top and bottom by 10: 12.5/100 = (12.5 × 10)/(100 × 10) = 125/1000.
+[WorkedStep] Simplify: 125/1000 = (125 ÷ 125)/(1000 ÷ 125) = 1/8.
+Practice 2J Question 2
+[Question] Express each percentage as a decimal.
+[Question] (a)  68%
+[Question] (b)  95%
+[Question] (c)  199%
+[Question] (d)  6 1/2%
+[Question] (e)  40 1/2%
+[Question] (f)  50.7%
+Check your method
+[WorkedStep] (a)  68% = 68 ÷ 100 = 0.68.
+[WorkedStep] (b)  95% = 95 ÷ 100 = 0.95.
+[WorkedStep] (c) 199% = 199 ÷ 100 = 1.99. Since 199% is more than 100%, its decimal is more than 1.
+[WorkedStep] (d) 6 1/2 = 6.5, so 6 1/2% = 6.5 ÷ 100 = 0.065.
+[WorkedStep] (e) 40 1/2 = 40.5, so 40 1/2% = 40.5 ÷ 100 = 0.405.
+[WorkedStep] (f)  50.7% = 50.7 ÷ 100 = 0.507.
+[PanelizationEnd] END PANEL CH02-PAGE129-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 130

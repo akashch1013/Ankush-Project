@@ -1,0 +1,277 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE078
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 08C A; Visual beat CH02 08C B; Visual beat CH02 08C C; Visual beat CH02 08D A; Visual beat CH02 08D B; Visual beat CH02 08D C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 08C A; Visual beat CH02 08C B; Visual beat CH02 08C C; Visual beat CH02 08D A; Visual beat CH02 08D B; Visual beat CH02 08D C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 08C A; Visual beat CH02 08C B; Visual beat CH02 08C C; Visual beat CH02 08D A; Visual beat CH02 08D B; Visual beat CH02 08D C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 08C A; Visual beat CH02 08C B; Visual beat CH02 08C C; Visual beat CH02 08D A; Visual beat CH02 08D B; Visual beat CH02 08D C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 08C A; Visual beat CH02 08C B; Visual beat CH02 08C C; Visual beat CH02 08D A; Visual beat CH02 08D B; Visual beat CH02 08D C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 08 Read the juice quantities
+[PaginationMetadata] Applies to: Visual beat CH02 08C A; Visual beat CH02 08C B; Visual beat CH02 08C C; continuity and reveal timing only | Visual beat CH02 08D A; Visual beat CH02 08D B; Visual beat CH02 08D C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 08C; Scene CH02 08D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 08C; Scene CH02 08D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 08C; Scene CH02 08D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 08C Top up only the smaller amount
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. High three-quarter view of the second recipe jug and dry checking record; pale counter edge and above-left lamp bracket anchor the shot.
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. The first jug remains at 0.75 L. The second begins at 0.7 L and is topped up to 0.75 L from the assistant’s pouring pot. This operation does not alter the large urn’s 3.9 L or the reserve bottle’s 0.60 L.
+[ProductionNote] Planning requirements. Write decimal amounts with their litre unit. Checks identify these two recipe jugs only.
+[PanelizationHeading] PANEL CH02-PAGE078-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 08C A Compare equal decimal places
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; Scene CH02 08C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; Scene CH02 08C; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the second recipe jug and dry checking record; pale counter edge and above-left lamp bracket anchor the shot.
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; Scene CH02 08C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; Scene CH02 08C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. The first jug remains at 0.75 L. The second begins at 0.7 L and is topped up to 0.75 L from the assistant’s pouring pot. This operation does not alter the large urn’s 3.9 L or the reserve bottle’s 0.60 L.
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; Scene CH02 08C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Write decimal amounts with their litre unit. Checks identify these two recipe jugs only.
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL01; Visual beat CH02 08C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08C A Compare equal decimal places
+[ProductionNote] Moment and staging. Navya writes 0.70 L < 0.75 L with her right hand while her left steadies the dry record card. The assistant holds its pot upright with both hands, waiting. Vihaan and Ahana look at the comparison. The second jug is still at 0.7 L.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] They write 0.7 as 0.70 and three quarters as 0.75. The first amount is smaller.
+[PanelizationEnd] END PANEL CH02-PAGE078-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE078-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 08C B Reach the recipe line
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; Scene CH02 08C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; Scene CH02 08C; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the second recipe jug and dry checking record; pale counter edge and above-left lamp bracket anchor the shot.
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; Scene CH02 08C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; Scene CH02 08C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. The first jug remains at 0.75 L. The second begins at 0.7 L and is topped up to 0.75 L from the assistant’s pouring pot. This operation does not alter the large urn’s 3.9 L or the reserve bottle’s 0.60 L.
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; Scene CH02 08C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Write decimal amounts with their litre unit. Checks identify these two recipe jugs only.
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL02; Visual beat CH02 08C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08C B Reach the recipe line
+[ProductionNote] Moment and staging. The assistant pours from its pot using both hands; freeze just as the second jug reaches the 0.75 L recipe line and the pot tilts back to stop. The first jug stays untouched. Navya’s pencil is now on the dry record card, both hands clear of the pouring area.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper tops up that jug to the recipe line.
+[PanelizationEnd] END PANEL CH02-PAGE078-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE078-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 08C C Mark both checked jugs
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; Scene CH02 08C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; Scene CH02 08C; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the second recipe jug and dry checking record; pale counter edge and above-left lamp bracket anchor the shot.
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; Scene CH02 08C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; Scene CH02 08C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. The first jug remains at 0.75 L. The second begins at 0.7 L and is topped up to 0.75 L from the assistant’s pouring pot. This operation does not alter the large urn’s 3.9 L or the reserve bottle’s 0.60 L.
+[PanelizationMetadata] SOURCE: Scene CH02 08C Top up only the smaller amount
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; Scene CH02 08C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Write decimal amounts with their litre unit. Checks identify these two recipe jugs only.
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL03; Visual beat CH02 08C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08C C Mark both checked jugs
+[ProductionNote] Moment and staging. Separate result view of the two 0.75 L jugs. The first jug’s label already carries a small check mark. Navya completes the check beside the second jug’s label with her right-hand pencil; her left steadies that dry label card without covering its quantity. The assistant has set down the pouring pot. Do not use the checks on the unfilled drink cups or large urn.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Navya puts a simple mark beside each checked jug. The assistants can now use them without starting the comparison again.
+[PanelizationEnd] END PANEL CH02-PAGE078-PANEL03
+[SceneHeading] Scene CH02 08D Tez asks for a simpler label
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Low medium at the right counter end with the checked recipe-jug labels above Tez and Ahana beside him.
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Both recipe jugs are now checked at 0.75 L. The sixteen drink cups remain empty. No liquid is promised or added to an extra cup in this exchange.
+[ProductionNote] Planning requirements. Tez’s joke does not change the first sixteen-serving order.
+[PanelizationHeading] PANEL CH02-PAGE078-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 08D A Just juice
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; Scene CH02 08D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; Scene CH02 08D; view; assigned beat stage only
+[ProductionNote] View. Low medium at the right counter end with the checked recipe-jug labels above Tez and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; Scene CH02 08D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; Scene CH02 08D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Both recipe jugs are now checked at 0.75 L. The sixteen drink cups remain empty. No liquid is promised or added to an extra cup in this exchange.
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; Scene CH02 08D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Tez’s joke does not change the first sixteen-serving order.
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL04; Visual beat CH02 08D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08D A Just juice
+[ProductionNote] Moment and staging. Tez stands on four paws below the counter, chin lifted towards the labels and ears hopeful. Ahana looks down at him, hands empty at her sides. The assistant works quietly behind the counter. Tail points to Tez’s mouth.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tez watches the labels.
+[ProductionNote] DO NOT PRINT — Speaker: Tez | Tail target: Tez’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Can mine just say juice?
+[PanelizationEnd] END PANEL CH02-PAGE078-PANEL04
+[PanelizationHeading] PANEL CH02-PAGE078-PANEL05
+[PanelizationMetadata] SOURCE: Visual beat CH02 08D B Ahana’s short answer
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; Scene CH02 08D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; Scene CH02 08D; view; assigned beat stage only
+[ProductionNote] View. Low medium at the right counter end with the checked recipe-jug labels above Tez and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; Scene CH02 08D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; Scene CH02 08D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Both recipe jugs are now checked at 0.75 L. The sixteen drink cups remain empty. No liquid is promised or added to an extra cup in this exchange.
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; Scene CH02 08D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Tez’s joke does not change the first sixteen-serving order.
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL05; Visual beat CH02 08D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08D B Ahana’s short answer
+[ProductionNote] Moment and staging. Ahana bends slightly towards Tez, smiling, right palm open at her waist and left hand on the cool counter edge. Tez looks up. His paws remain on the paving; there is no human-handed grip on a cup.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth | Source speech attribution: Ahana says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] It can.
+[PanelizationEnd] END PANEL CH02-PAGE078-PANEL05
+[PanelizationHeading] PANEL CH02-PAGE078-PANEL06
+[PanelizationMetadata] SOURCE: Visual beat CH02 08D C Once there is juice
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; Scene CH02 08D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; Scene CH02 08D; view; assigned beat stage only
+[ProductionNote] View. Low medium at the right counter end with the checked recipe-jug labels above Tez and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; Scene CH02 08D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; Scene CH02 08D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn occupies the near wet end. The capped one-litre reserve bottle stays on the reachable reserve shelf above that end until Tara lifts it in Visual beat CH02 10A A; Ahana places it beside the urn in Visual beat CH02 10A B. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Both recipe jugs are now checked at 0.75 L. The sixteen drink cups remain empty. No liquid is promised or added to an extra cup in this exchange.
+[PanelizationMetadata] SOURCE: Scene CH02 08D Tez asks for a simpler label
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; Scene CH02 08D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Tez’s joke does not change the first sixteen-serving order.
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Visual beat CH02 08D B Ahana’s short answer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE078-PANEL06; Visual beat CH02 08D C; retained camera, background and standing positions only; Visual beat CH02 08D C current gesture and gaze
+[ProductionNote] Moment and staging. Ahana bends slightly towards Tez, smiling, right palm open at her waist and left hand on the cool counter edge. Tez looks up. His paws remain on the paving; there is no human-handed grip on a cup.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08D C Once there is juice
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character positions specified in Visual beat CH02 08D B. Ahana changes her right palm to a small gesture towards the empty cup carrier still parked at the packing bench and glances that way, smile widening. Her left stays on the counter edge. Tez follows her gaze; no cup is filled.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] As soon as there is some in your cup.
+[PanelizationEnd] END PANEL CH02-PAGE078-PANEL06
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 079

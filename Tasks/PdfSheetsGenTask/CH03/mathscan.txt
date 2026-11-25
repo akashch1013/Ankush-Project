@@ -1,0 +1,1 @@
+# manuscript maths pre-scan: 33 statements hold. FAIL = evaluates false: a manuscript error, a deliberate mistake shown to students, or a scan artefact (words cut the statement). Read each in src/Pxxx.txt. SKIP = not evaluable

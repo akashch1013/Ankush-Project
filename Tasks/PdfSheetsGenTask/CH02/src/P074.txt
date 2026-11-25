@@ -1,0 +1,58 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE074
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE074-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Practice 2E; Practice 2E Question 1; Practice 2E Question 2
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE074-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2E
+Practice 2E Question 1
+[Question] Fill each box with <, > or =.
+[Question] (a)  8.3 □ 83/100
+[Question] (b)  9/5 □ 1.8
+[Question] (c)  1 1/10 □ 0.67
+[Question] (d)  3.25 □ 13/4
+[Question] (e)  4.13 □ 25/4
+[Question] (f)  66/20 □ 3.1
+Check your method
+[WorkedStep] (a)  83/100 = 0.83. Compare whole parts: 8 > 0. Therefore 8.3 > 83/100.
+[WorkedStep] (b)  9/5 = (9 × 2)/(5 × 2) = 18/10 = 1.8, so the symbol is =.
+[WorkedStep] (c)  1 1/10 = 1.1, which is greater than 0.67. The symbol is >.
+[WorkedStep] (d)  13/4 = (13 × 25)/(4 × 25) = 325/100 = 3.25, so the symbol is =.
+[WorkedStep] (e)  25/4 = (25 × 25)/(4 × 25) = 625/100 = 6.25. Since 4.13 < 6.25, the symbol is <.
+[WorkedStep] (f)  66/20 = (66 ÷ 2)/(20 ÷ 2) = 33/10 = 3.3. Since 3.3 > 3.1, the symbol is >.
+Practice 2E Question 2
+[Question] Arrange the numbers in ascending order.
+[Question] (a)  0.005, 5/10, 50/1000
+[Question] (b)  6.05, 605/1000, 6 5/10
+[Question] (c)  1.4, 4.54, 54/1000
+Check your method
+[WorkedStep] (a) Write 5/10 = 0.5 and 50/1000 = 0.050 = 0.05. Compare all three using 3 decimal places: 0.005 < 0.050 < 0.500.
+[WorkedStep] Ascending order: 0.005, 50/1000, 5/10.
+[WorkedStep] (b) 605/1000 = 0.605 and 6 5/10 = 6.5. Compare: 0.605 < 6.05 < 6.50.
+[WorkedStep] Ascending order: 605/1000, 6.05, 6 5/10.
+[WorkedStep] (c) Write 54/1000 = 0.054. The whole-number parts of 0.054, 1.4 and 4.54 are 0, 1 and 4. So 0.054 < 1.4 < 4.54.
+[WorkedStep] Ascending order: 54/1000, 1.4, 4.54.
+[PanelizationEnd] END PANEL CH02-PAGE074-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 075

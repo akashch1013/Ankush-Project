@@ -1,0 +1,67 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE070
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 08B Check the next jug
+[PaginationMetadata] Applies to: Teaching block T2.5; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 08B Check the next jug
+[PaginationMetadata] Applies to: Teaching block T2.5; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.5
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE070-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; 2.5 Comparing Fractions and Decimals; Comparing Decimals on a Number Line
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.5 Comparing Fractions and Decimals
+We found that 7.105 < 7.20, even though 7.105 has more decimal digits. The position of a digit matters, not the length of the number. Let’s show decimal sizes on a number line, then compare decimals with fractions.
+## Comparing Decimals on a Number Line
+[ProductionLabel] DO NOT PRINT — Figure reference: V19 | The following caption sentence is printable unchanged.
+[Caption] Look at the interval size before reading a number line.
+[ProductionNote] Production note V19 — Two uniform number lines: first 3.0 to 3.9 in steps of 0.1; second 3.20 to 3.30 in steps of 0.01. Label each tick; mark 3.1,3.3,3.6,3.7 and 3.21,3.22,3.25,3.30. Indicate second is a zoom, not the same physical unit scale. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Look at the top number line, from 3.0 to 3.9. Each space is 0.1. To reach 3.3 from 3.0, move 3 spaces: 3.0 → 3.1 → 3.2 → 3.3. That adds 0.1 + 0.1 + 0.1 = 0.3. On this line, 3.1 < 3.3 and 3.7 > 3.6: farther right means greater.
+The lower line enlarges only the part from 3.20 to 3.30. Each small space is now 0.01. So 3.21 is 1 space after 3.20; 3.22 is 2 spaces after it; 3.25 is 5 spaces after it. The value 3.30 is the same as 3.3 on the top line. So 3.21 < 3.22, 3.25 > 3.22, and 3.3 = 3.30 > 3.21.
+Check the size of a space on every number line. A longer drawing does not necessarily cover a larger number interval.
+[PanelizationEnd] END PANEL CH02-PAGE070-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE070-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Example 13
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE070-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 13
+[Question] Show 8.4, 8.32, 8.1 and 8.15 on a number line. Arrange them in ascending order.
+[ProductionLabel] DO NOT PRINT — Figure reference: V20 | The following caption sentence is printable unchanged.
+[Caption] Mark the values before checking.
+[ProductionNote] Production note V20 — Equal tenths from 8.1 to 8.5; ten equal subdivisions per tenth. Leave the requested points unmarked. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[Caption] Pause here. Complete the question before turning to the worked answer.
+[PanelizationEnd] END PANEL CH02-PAGE070-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 071

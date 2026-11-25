@@ -1,0 +1,78 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE042
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.3A; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3A
+[PaginationMetadata] Applies to: Teaching block T2.3A; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3A
+[PaginationMetadata] Applies to: Teaching block T2.3A; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.3A; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Companion inset CH02 Q03; only the location anchors named by this independent inset
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE042-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.3A; Your turn after Example 8
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 05A Two separate requests
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 05A Two separate requests
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL01; Teaching block T2.3A; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[WorkedStep] (b) Now calculate 6/11 × 22/30. Multiplying directly gives (6 × 22)/(11 × 30) = 132/330. There is a way to keep the numbers smaller: simplify before multiplying.
+[WorkedStep] Write the multiplication as one fraction: (6 × 22)/(11 × 30).
+[WorkedStep] Divide the top factor 6 and the bottom factor 30 by 6: 6 ÷ 6 = 1 and 30 ÷ 6 = 5. The other factors, 22 and 11, stay unchanged:
+[WorkedStep] (6 × 22)/(11 × 30) = (1 × 22)/(11 × 5).
+[WorkedStep] Now divide the top factor 22 and the bottom factor 11 by 11: 22 ÷ 11 = 2 and 11 ÷ 11 = 1:
+[WorkedStep] (1 × 22)/(11 × 5) = (1 × 2)/(1 × 5) = 2/5.
+[WorkedStep] This is called cancellation. We divided the numerator and denominator by the same number, so the fraction kept the same value. Each cancelled number was a factor, meaning a number being multiplied. This method does not let us cross out numbers that are being added.
+[WorkedStep] We can also simplify 22/30 first: 22/30 = (22 ÷ 2)/(30 ÷ 2) = 11/15. Then 6/11 × 11/15 = (6 × 1)/(1 × 15) = 6/15 = (6 ÷ 3)/(15 ÷ 3) = 2/5.
+Your turn after Example 8
+[Question] Evaluate and simplify.
+[Question] (a)  2/7 × 5/9
+[Question] (b)  12/39 × 13/60
+Check your method
+[WorkedStep] (a) Multiply top by top and bottom by bottom: 2/7 × 5/9 = (2 × 5)/(7 × 9) = 10/63.
+[WorkedStep] (b) Write 12/39 × 13/60 as (12 × 13)/(39 × 60).
+[WorkedStep] Divide 12 and 60 by 12, and 13 and 39 by 13. That leaves 1 and 1 on top, with 3 and 5 underneath:
+[WorkedStep] So (12 × 13)/(39 × 60) = (1 × 13)/(39 × 5) = (1 × 1)/(3 × 5) = 1/15.
+[PanelizationEnd] END PANEL CH02-PAGE042-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE042-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q03
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL02; Companion inset CH02 Q03; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL02; Companion inset CH02 Q03; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL02; Companion inset CH02 Q03; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL02; Companion inset CH02 Q03; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL02; Companion inset CH02 Q03; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE042-PANEL02; Companion inset CH02 Q03; independent inset; only the location anchors named by this independent inset
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q03
+[ProductionLabel] DO NOT PRINT — Independent companion moment after the completed teaching passage immediately before this labelled inset. Full setting: Location CH02 L02. No plot progression or equipment-state change.
+[ProductionNote] Staging. Vihaan stands on the cool side, right palm open and left hand resting empty on a clear counter corner. He faces the reader with a small knowing smile. Use the blue wall and brass tank edge; hide all pending trial-result labels.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Five copies and one fifth are very different orders.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE042-PANEL02
+[ProductionLabel] END TEACHING BLOCK T2.3A — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 043

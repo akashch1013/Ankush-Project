@@ -1,0 +1,149 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE104
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 10D A; Visual beat CH02 10D B; Visual beat CH02 10D C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 10D A; Visual beat CH02 10D B; Visual beat CH02 10D C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 10D A; Visual beat CH02 10D B; Visual beat CH02 10D C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 10D A; Visual beat CH02 10D B; Visual beat CH02 10D C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 10 Measure, transfer and check
+[PaginationMetadata] Applies to: Visual beat CH02 10D A; Visual beat CH02 10D B; Visual beat CH02 10D C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10D; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing; first urn load has already been served
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 10D Fill all sixteen cups
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium of the urn, four-by-four carrier and order record on the right counter, lamp above-left.
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Vihaan verifies 16 × 0.25 L = 4 L. The urn contains exactly 4 L before filling; all sixteen equal cups become full. After the filling, that first 4 L has left the urn. The reserve bottle stays at 0.50 L.
+[ProductionNote] Planning requirements. Use a measured filling action and a separate completed-carrier result. Later views must not show a full 4 L urn alongside these same sixteen full cups without a stated refill.
+[PanelizationHeading] PANEL CH02-PAGE104-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 10D A Independent check
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; Scene CH02 10D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; Scene CH02 10D; view; assigned beat stage only
+[ProductionNote] View. Medium of the urn, four-by-four carrier and order record on the right counter, lamp above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; Scene CH02 10D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; Scene CH02 10D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Vihaan verifies 16 × 0.25 L = 4 L. The urn contains exactly 4 L before filling; all sixteen equal cups become full. After the filling, that first 4 L has left the urn. The reserve bottle stays at 0.50 L.
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; Scene CH02 10D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use a measured filling action and a separate completed-carrier result. Later views must not show a full 4 L urn alongside these same sixteen full cups without a stated refill.
+[PanelizationMetadata] SOURCE: Sequence 10 Measure, transfer and check
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL01; Visual beat CH02 10D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 10D A Independent check
+[ProductionNote] Moment and staging. Vihaan points with his right finger to the completed check 16 × 0.25 L = 4 L on the dry order record; his empty left hand rests beside it. Ahana and Navya read it. The drink assistant waits behind the urn with hands clear.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Vihaan checks the drink order by multiplying sixteen by 0.25 litre. It comes to four litres.
+[PanelizationEnd] END PANEL CH02-PAGE104-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE104-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 10D B Fill the equal cups
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; Scene CH02 10D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; Scene CH02 10D; view; assigned beat stage only
+[ProductionNote] View. Medium of the urn, four-by-four carrier and order record on the right counter, lamp above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; Scene CH02 10D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; Scene CH02 10D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Vihaan verifies 16 × 0.25 L = 4 L. The urn contains exactly 4 L before filling; all sixteen equal cups become full. After the filling, that first 4 L has left the urn. The reserve bottle stays at 0.50 L.
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; Scene CH02 10D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use a measured filling action and a separate completed-carrier result. Later views must not show a full 4 L urn alongside these same sixteen full cups without a stated refill.
+[PanelizationMetadata] SOURCE: Sequence 10 Measure, transfer and check
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL02; Visual beat CH02 10D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 10D B Fill the equal cups
+[ProductionNote] Moment and staging. The drink assistant controls the urn tap with its right hand and holds one quarter-litre cup beneath it with its left. Previously filled cups occupy the carrier; remaining cups are empty. Ahana and Vihaan clear only dry spare utensils with both hands; Navya stays at the dry packet end. Do not ask for exact partial counts in this action crop.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper fills the cups while the others clear the counter for the next batch.
+[PanelizationEnd] END PANEL CH02-PAGE104-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE104-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 10D C The carrier is complete
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; Scene CH02 10D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; Scene CH02 10D; view; assigned beat stage only
+[ProductionNote] View. Medium of the urn, four-by-four carrier and order record on the right counter, lamp above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; Scene CH02 10D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; Scene CH02 10D; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Vihaan verifies 16 × 0.25 L = 4 L. The urn contains exactly 4 L before filling; all sixteen equal cups become full. After the filling, that first 4 L has left the urn. The reserve bottle stays at 0.50 L.
+[PanelizationMetadata] SOURCE: Scene CH02 10D Fill all sixteen cups
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; Scene CH02 10D; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Use a measured filling action and a separate completed-carrier result. Later views must not show a full 4 L urn alongside these same sixteen full cups without a stated refill.
+[PanelizationMetadata] SOURCE: Sequence 10 Measure, transfer and check
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE104-PANEL03; Visual beat CH02 10D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 10D C The carrier is complete
+[ProductionNote] Moment and staging. Silent result insert with exactly sixteen full ¼ L cups in four rows of four. The urn tap is shut and the original 4 L has been dispensed; show its lowered/empty level only if visible. The reserve bottle remains capped at 0.50 L. The drink assistant’s hands are clear of the cups. Capping follows later in Scene CH02 12C.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE104-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 105

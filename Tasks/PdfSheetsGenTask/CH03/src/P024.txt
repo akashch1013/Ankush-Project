@@ -1,0 +1,12 @@
+[PGLabel] NON-PRINTING PAGE ID: CH03-PAGE024
+[PGLabel] NON-PRINTING PRODUCTION CONTEXT
+[PGMeta] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PGMeta] Applies to: Teaching block T3.2; assigned teaching fields and figure ownership
+[PGLabel] Carried forward from: How to use this manuscript — The teacher addresses the reader directly.
+[PGMeta] Applies to: Teaching block T3.2; teaching pause only
+[PGLabel] Carried forward from: Teaching block T3.2
+[PGMeta] Applies to: Teaching block T3.2; assigned main mathematics only
+[PGLabel] END NON-PRINTING PRODUCTION CONTEXT
+| PANEL CH03-PAGE024-PANEL01 |
+| SOURCE: Teaching block T3.2 — Performance Task Let’s Bake NON-PRINTING CARRIED PRODUCTION CONTEXT SOURCE: How to use this manuscript APPLIES TO: CH03-PAGE024-PANEL01; assigned teaching fields Teaching headings, explanations, examples, questions, working, answers, tables, diagrams and caption sentences are reader-facing. Supplied paragraphs styled Production Note remain non-printing. Technical V identifiers are separated from figure captions into metadata. Every question, required visual and answer remains in source order; question blanks stay blank until the solution. SOURCE: How to use this manuscript APPLIES TO: CH03-PAGE024-PANEL01; assigned teaching pause The teacher addresses the reader directly. Lessons do not move characters, consume dangerous story time or repair equipment. SOURCE: Teaching block T3.2 APPLIES TO: CH03-PAGE024-PANEL01; assigned main mathematics only No character or scenic background is required behind the main mathematics. Keep question figures and intentional blanks distinct from completed answers. This block does not perform the story calculation for the characters. END NON-PRINTING CARRIED PRODUCTION CONTEXT ORIGINAL PANEL CONTENT Check your method There are 12 ÷ 4 = 3 groups of 4 people. Every ingredient must therefore be multiplied by 3. Tripling the flour but leaving the cocoa unchanged would give a different recipe! For the coffee, change 1 1/2 cups into halves first: one whole is 2/2, so 1 1/2 = (2 + 1)/2 = 3/2. Now we can multiply by 3, just as we do with the other ingredients. END PANEL CH03-PAGE024-PANEL01 |
+[PGHeading] ChandRush Chapter 03 Manuscript — PAGE 025

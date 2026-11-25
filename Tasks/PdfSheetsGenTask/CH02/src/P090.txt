@@ -1,0 +1,86 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE090
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.7A; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 10A The reserve bottle
+[PaginationMetadata] Applies to: Teaching block T2.7A; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 10A The reserve bottle
+[PaginationMetadata] Applies to: Teaching block T2.7A; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.7A
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE090-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7A; 2.7 Four Operations on Decimals; Adding and Subtracting Decimals; Example 20
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL01; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.7 Four Operations on Decimals
+Rounding can help us estimate a calculation before we find its exact answer. Now we will add, subtract, multiply and divide decimals.
+## Adding and Subtracting Decimals
+In a decimal addition, add the same places: tenths with tenths, hundredths with hundredths, and so on. Write the numbers one below the other with the decimal points in one column.
+A final zero can help us line up the digits. For example, 12.2 = 12.20. Both have 12 wholes and 2 tenths; the extra zero says there are 0 hundredths.
+Example 20
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  12.2 + 1.43
+[Question] (b)  25.2 + 1.623 + 1.2
+Let’s work it through
+[WorkedStep] (a) We need 12.2 + 1.43. Round 12.2 to 12 and 1.43 to 1 for an estimate: 12 + 1 = 13.
+[WorkedStep] For the exact sum, write 12.2 as 12.20. Set out 12.20 and 1.43 with their decimal points one below the other, as shown in the calculation.
+[ProductionLabel] DO NOT PRINT — Figure reference: V27a-R | The following caption sentence is printable unchanged.
+[Caption] The decimal points stay in one column.
+[ProductionNote] Production note V27a-R — Vertical calculation with fixed-width aligned digits: 12.20; + 1.43; 13.63. Show exact numbers and decimal places; read from the smallest place to the largest. Carry/regroup information must remain explicit in adjoining narration. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] Start on the right, at the hundredths column: 0 hundredths + 3 hundredths = 3 hundredths.
+[WorkedStep] Move left to tenths: 2 + 4 = 6 tenths. Then ones: 2 + 1 = 3 ones. Finally tens: 1 + 0 = 1 ten.
+[WorkedStep] Put the decimal point below the other decimal points. The answer is 13.63: 12.20 + 1.43 = 13.63. Check by subtracting: 13.63 − 1.43 = 12.20.
+[WorkedStep] (b) We need 25.2 + 1.623 + 1.2. Estimate with 25, 2 and 1: 25 + 2 + 1 = 28.
+[WorkedStep] For the exact sum, write 25.200 + 1.623 + 1.200. The final zeros give all three numbers 3 decimal places without changing their values.
+[ProductionLabel] DO NOT PRINT — Figure reference: V27b-R | The following caption sentence is printable unchanged.
+[Caption] The decimal points stay in one column.
+[ProductionNote] Production note V27b-R — Vertical calculation with fixed-width aligned digits: 25.200; 1.623; + 1.200; 28.023. Show exact numbers and decimal places; 10 tenths → 1 whole + 0 tenths. Include the new whole in the ones column. Carry/regroup information must remain explicit in adjoining narration. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] Start with thousandths: 0 + 3 + 0 = 3. Then hundredths: 0 + 2 + 0 = 2.
+[WorkedStep] Now tenths: 2 + 6 + 2 = 10 tenths. Since 10 tenths = 1 whole, write 0 in the tenths column and carry 1 into the ones column.
+[WorkedStep] Add the ones, including the carried 1: 5 + 1 + 1 + 1 = 8. The tens column gives 2 + 0 + 0 = 2.
+[WorkedStep] Answer: 25.200 + 1.623 + 1.200 = 28.023. This is close to our estimate of 28. The carried 1 is worth 1 whole, not 1 tenth.
+[PanelizationEnd] END PANEL CH02-PAGE090-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE090-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.7A; Your turn after Example 20
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE090-PANEL02; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 20
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  1.3 + 10.22
+[Question] (b)  12.52 + 6.829 + 2.3
+Check your method
+[WorkedStep] (a)  Estimate: 1 + 10 = 11. Align the places: 1.30 + 10.22 = 11.52.
+[WorkedStep] (b)  Estimate: 13 + 7 + 2 = 22. Align three decimal places: 12.520 + 6.829 = 19.349; 19.349 + 2.300 = 21.649.
+[PanelizationEnd] END PANEL CH02-PAGE090-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 091

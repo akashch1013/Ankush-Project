@@ -1,0 +1,53 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE160
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE160-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Revision Question 8; Revision Question 9
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE160-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Revision Question 8
+[Question] Express the fractions as decimals.
+[Question] (a)  14/16
+[Question] (b)  45/30
+[Question] (c)  117/26
+[Question] (d)  2 4/20
+Check your method
+[WorkedStep] (a)  14/16 = (14 ÷ 2)/(16 ÷ 2) = 7/8 = 7 ÷ 8 = 0.875.
+[WorkedStep] (b)  45/30 = (45 ÷ 15)/(30 ÷ 15) = 3/2 = 3 ÷ 2 = 1.5.
+[WorkedStep] (c)  117/26 = (117 ÷ 13)/(26 ÷ 13) = 9/2 = 9 ÷ 2 = 4.5.
+[WorkedStep] (d) Keep the whole-number part, 2. Convert the fraction part: 4/20 = (4 ÷ 4)/(20 ÷ 4) = 1/5 = (1 × 2)/(5 × 2) = 2/10 = 0.2. Therefore 2 4/20 = 2 + 0.2 = 2.2.
+Revision Question 9
+[Question] Convert to fractions in simplest form.
+[Question] (a)  0.945
+[Question] (b)  3.96
+[Question] (c)  0.075
+[Question] (d)  −1.45
+Check your method
+[WorkedStep] (a) The last digit is in the thousandths place: 0.945 = 945/1000 = (945 ÷ 5)/(1000 ÷ 5) = 189/200.
+[WorkedStep] (b) 3.96 = 396/100 = (396 ÷ 4)/(100 ÷ 4) = 99/25 = 3 24/25.
+[WorkedStep] (c) 0.075 = 75/1000 = (75 ÷ 25)/(1000 ÷ 25) = 3/40.
+[WorkedStep] (d)  The minus sign applies to the whole amount 1.45. First work with its size: 1.45 = 145/100 = (145 ÷ 5)/(100 ÷ 5) = 29/20. Put the minus sign back: −1.45 = −29/20.
+[WorkedStep] For a mixed number, 29 = 1 × 20 + 9, so −29/20 = −1 9/20. This notation means −(1 + 9/20), not −1 + 9/20. Check: −1 − 0.45 = −1.45.
+[PanelizationEnd] END PANEL CH02-PAGE160-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 161

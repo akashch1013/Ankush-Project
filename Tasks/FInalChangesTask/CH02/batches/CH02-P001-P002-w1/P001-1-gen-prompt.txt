@@ -1,0 +1,25 @@
+Use case: ChandRush CH02 comic panel P001-1, visual beat CH02 01A A.
+Asset: one 1024 x 768 px graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved background plate L01_A. Keep its architecture, materials, light and every fixed object exactly; the camera moves closer, to a medium shot at child eye height on the near-left packing bench's entrance corner, the crooked cart still blocking the entrance at right.
+- Image 2: character sheet of Ahana (curly dark shoulder-length hair, teal-blue jacket over coral-orange tee, charcoal cargo trousers, white-and-blue sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Tara (elderly woman, silver-white long braid over her shoulder, deep indigo embroidered robe with gold moon-and-bell motifs, ivory inner tunic and trousers, peacock-teal sash with brass bells, a tall bronze staff topped with a crescent moon holding a small bell, dark jutti shoes, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 4: character sheet of Navya (two long dark braids with fringe, maroon cropped jacket over striped cream top, denim cargo jeans, tan crossbody bag, cream sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 5: character sheet of Vihaan (short tousled black hair, mustard-yellow jacket over navy tee, slate-blue cargo trousers, deep-red backpack, white-and-navy sneakers, fair skin). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 6: character sheet of Tez (tiger cub with orange fur and black stripes, amber eyes, navy bandana with a small silver moon button). Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Ahana: screen-left foreground, at the bench's entrance corner (head about 20% of frame height); with her RIGHT hand she sets her small portable brass lantern upright on the marble bench corner while her LEFT hand steadies its base; gaze on the lamp; focused.
+2. Tara: screen-centre, at the threshold just right of Ahana; her LEFT hand tucks a thin clear protective sleeve holding a folded paper into the sash pocket at her waist; her RIGHT hand keeps the bell staff planted upright on the floor; gaze on the sleeve; calm, purposeful.
+3. Navya: background right, beside the crooked cart, hands free at her sides, looking at the cart; ready.
+4. Vihaan: background centre-right near the cart's nearest wheel, hands free, looking at the brass bowl trapped against that wheel; attentive.
+5. Tez: tiger cub sitting low behind Ahana, out of the wheel path, looking up at Ahana; alert.
+Props and states at this moment (exact):
+1. The crooked wooden cart still blocks the entrance, unmoved, at right.
+2. Exactly 1 (one) brass bowl is trapped against the cart's nearest wheel; the other bowls stay as in the plate.
+3. Lantern Street stays lit behind the entrance.
+4. The brass lantern is held by Ahana, not already on its own.
+Physical inscriptions: none (no signs, no numbers, no writing on the sleeve paper; the paper is blank)
+Reserved empty areas for lettering (calm low-detail background; no face, hand or key prop inside): none; the whole frame may be used
+Composition: Reading left to right: Ahana, Tara, then Navya and Vihaan in the background; all faces visible and not cut by the frame edge.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's brass lamps and moonlight.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or lettering; any digits or numbers; extra characters; duplicate carts, mirrored outfits, merged or extra people.

@@ -1,0 +1,124 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE043
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 05B A; Visual beat CH02 05B B; Visual beat CH02 05B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 05B A; Visual beat CH02 05B B; Visual beat CH02 05B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 05B A; Visual beat CH02 05B B; Visual beat CH02 05B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 05B A; Visual beat CH02 05B B; Visual beat CH02 05B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 05 Five trays and one small trial
+[PaginationMetadata] Applies to: Visual beat CH02 05B A; Visual beat CH02 05B B; Visual beat CH02 05B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 05B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 05B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 05B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing; cold flow trial and its recovery only
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 05B Measured filling and cold batter
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE043-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B A Keep the requests distinct
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; Scene CH02 05B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; Scene CH02 05B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; Scene CH02 05B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; Scene CH02 05B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; Scene CH02 05B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 05 Five trays and one small trial
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL01; Visual beat CH02 05B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 05B A Keep the requests distinct
+[ProductionNote] Moment and staging. Ahana points with her right index finger towards the wrap request and holds her left palm open beside the separate trial record. She looks between the labelled work areas. No food is being transferred in this explanatory still; show the now-known totals clearly.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Ahana separates the requests. Five wrap trays need five copies of one third: 5/3 kilograms of filling altogether. The small dispenser trial needs one fifth of two thirds: 2/15 kilogram of batter.
+[PanelizationEnd] END PANEL CH02-PAGE043-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE043-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B B Measured into different bowls
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; Scene CH02 05B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; Scene CH02 05B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; Scene CH02 05B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; Scene CH02 05B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; Scene CH02 05B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 05 Five trays and one small trial
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL02; Visual beat CH02 05B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 05B B Measured into different bowls
+[ProductionNote] Moment and staging. The helper has measured the filling and trial batter into separate labelled bowls. Its hands rest at the bowls’ dry rims. Tara stays at the shut-off end, staff right; Navya and Vihaan look at the labels. Do not merge the two masses.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper measures the two amounts into separate bowls.
+[PanelizationEnd] END PANEL CH02-PAGE043-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE043-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 05B C Five sharing trays
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; Scene CH02 05B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; Scene CH02 05B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; Scene CH02 05B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; Scene CH02 05B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 05B Measured filling and cold batter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; Scene CH02 05B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 05 Five trays and one small trial
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE043-PANEL03; Visual beat CH02 05B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 05B C Five sharing trays
+[ProductionNote] Moment and staging. The helper portions the measured filling into five distinct sharing trays at the cool work area, a serving spoon in its right hand and the source bowl supported by its left. Freeze at the completed five portions, each ⅓ kg. Keep the cold batter trial aside.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The wrap filling goes onto the five sharing trays.
+[PanelizationEnd] END PANEL CH02-PAGE043-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 044

@@ -1,0 +1,125 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE055
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 06C A; Visual beat CH02 06C B; Visual beat CH02 06C C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 06C A; Visual beat CH02 06C B; Visual beat CH02 06C C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 06C A; Visual beat CH02 06C B; Visual beat CH02 06C C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 06C A; Visual beat CH02 06C B; Visual beat CH02 06C C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 06 The next dosa
+[PaginationMetadata] Applies to: Visual beat CH02 06C A; Visual beat CH02 06C B; Visual beat CH02 06C C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06C; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 06C; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 06C Cold check before heat
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium of the cold outlet, original beam balance and batter tank from the cool working side.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Portion stop is fastened at ⅙ kg. The ⅔ kg batch remains the batch for four dosas. Use a second clean, empty check bowl; the completed 2/15 kg flow trial remains in its original bowl on the dry back shelf. Heat OFF until beat C.
+[ProductionNote] Planning requirements. Account for the test bowl’s tare. Return the clean measured check to this same batch before heating, so no serving is lost or created.
+[PanelizationHeading] PANEL CH02-PAGE055-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 06C A Weigh the cold serving
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; Scene CH02 06C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; Scene CH02 06C; view; assigned beat stage only
+[ProductionNote] View. Medium of the cold outlet, original beam balance and batter tank from the cool working side.
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; Scene CH02 06C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; Scene CH02 06C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Portion stop is fastened at ⅙ kg. The ⅔ kg batch remains the batch for four dosas. Use a second clean, empty check bowl; the completed 2/15 kg flow trial remains in its original bowl on the dry back shelf. Heat OFF until beat C.
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; Scene CH02 06C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Account for the test bowl’s tare. Return the clean measured check to this same batch before heating, so no serving is lost or created.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL01; Visual beat CH02 06C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06C A Weigh the cold serving
+[ProductionNote] Moment and staging. Completed cold serving check, heat OFF. After the stop is fixed in Visual beat CH02 06B C, the helper opens the supply tap with the handle at rest to charge the cup, closes the supply tap, then lowers the handle to release one measured cup into the second clean check bowl. These setup actions precede this image. Draw only the result: supply tap closed, handle returned to rest, outlet closed, and the check bowl on the original recipe-counter beam balance. Use the balance’s tare slider, first zeroed for this empty bowl, and exactly one supplied fractional weight marked 1/6 kg on the other pan; the beam is level. No electronic display and no drink-counter gram scale. Navya looks at the balanced beam with hands clear. Tara holds staff right. The remaining batch stays in the tank; the earlier 2/15 kg trial stays separate.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] They make one cold check into the small bowl and weigh the amount. It matches the recipe.
+[PanelizationEnd] END PANEL CH02-PAGE055-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE055-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 06C B Return the clean batter
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; Scene CH02 06C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; Scene CH02 06C; view; assigned beat stage only
+[ProductionNote] View. Medium of the cold outlet, original beam balance and batter tank from the cool working side.
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; Scene CH02 06C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; Scene CH02 06C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Portion stop is fastened at ⅙ kg. The ⅔ kg batch remains the batch for four dosas. Use a second clean, empty check bowl; the completed 2/15 kg flow trial remains in its original bowl on the dry back shelf. Heat OFF until beat C.
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; Scene CH02 06C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Account for the test bowl’s tare. Return the clean measured check to this same batch before heating, so no serving is lost or created.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL02; Visual beat CH02 06C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06C B Return the clean batter
+[ProductionNote] Moment and staging. Silent intermediate action. The helper lifts the clean test bowl with both hands and returns its batter to the same tank. The heater remains OFF. The ⅙ kg stop stays fastened; no child reaches across the plate.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE055-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE055-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 06C C Heat on, children clear
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; Scene CH02 06C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; Scene CH02 06C; view; assigned beat stage only
+[ProductionNote] View. Medium of the cold outlet, original beam balance and batter tank from the cool working side.
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; Scene CH02 06C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; Scene CH02 06C; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Portion stop is fastened at ⅙ kg. The ⅔ kg batch remains the batch for four dosas. Use a second clean, empty check bowl; the completed 2/15 kg flow trial remains in its original bowl on the dry back shelf. Heat OFF until beat C.
+[PanelizationMetadata] SOURCE: Scene CH02 06C Cold check before heat
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; Scene CH02 06C; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Account for the test bowl’s tare. Return the clean measured check to this same batch before heating, so no serving is lost or created.
+[PanelizationMetadata] SOURCE: Sequence 06 The next dosa
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE055-PANEL03; Visual beat CH02 06C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 06C C Heat on, children clear
+[ProductionNote] Moment and staging. Single heat-on moment after the clean checked batter is returned in Visual beat CH02 06C B. The same 2/3 kg batch is restored across tank and measuring cup. The empty check bowl already rests on the dry back shelf. The helper has returned the handle to rest, with cup outlet closed, and reopened the supply tap to charge the cup to its corrected 1/6 kg stop; excess batter remains in the tank. Freeze with the helper’s right finger at the heater switch, now ON, and left hand on the safe dry back edge. The cup is charged; no batter reaches the hot plate. Tara holds staff right, left free beside the supply shut-off. The trio remain behind the cool guard.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper returns the clean test batter to the same batch, closes the cup and turns on the cooking surface. The children remain on the cool side of the counter.
+[PanelizationEnd] END PANEL CH02-PAGE055-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 056

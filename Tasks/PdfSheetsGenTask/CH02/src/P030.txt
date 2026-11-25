@@ -1,0 +1,56 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE030
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.2; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.2
+[PaginationMetadata] Applies to: Teaching block T2.2; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.2
+[PaginationMetadata] Applies to: Teaching block T2.2; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.2; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE030-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.2; Example 5; Your turn after Example 5
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 04A Combine the wrap filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 04A Combine the wrap filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE030-PANEL01; Teaching block T2.2; paused story state only; main teaching has no scenic background
+[ProductionNote] Planning requirements. Keep the total 4¼ kg off the bowl and out of the setup until T2.2 is complete.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Now let’s add 3 1/6 and 2 1/6. We have two jobs: add the whole-number parts, then add the fraction parts.
+Example 5
+[Question] Evaluate each sum.
+[Question] (a)  3 1/6 + 2 1/6
+[Question] (b)  2 1/8 + 1 7/8
+Let’s work it through
+[WorkedStep] (a) Start with 3 1/6 + 2 1/6. Keep the whole numbers and fractions separate for a moment.
+[WorkedStep] First add the whole-number parts: 3 + 2 = 5.
+[WorkedStep] Next add the fraction parts: 1/6 + 1/6 = (1 + 1)/6 = 2/6.
+[WorkedStep] Put those results together: 3 1/6 + 2 1/6 = 5 2/6.
+[WorkedStep] Now simplify the fraction part, 2/6. Divide its top and bottom by 2: 2/6 = (2 ÷ 2)/(6 ÷ 2) = 1/3.
+[WorkedStep] So our answer is 5 2/6 = 5 1/3.
+[WorkedStep] Our total, 5 1/3, is a little more than 3 + 2 = 5, as we expected.
+[WorkedStep] (b) Now add 2 1/8 + 1 7/8. Add the whole-number parts: 2 + 1 = 3. Add the fraction parts: 1/8 + 7/8 = 8/8 = 1.
+[WorkedStep] The fraction parts have made 1 extra whole: 8/8 = 1. Add that to the 3 wholes.
+[WorkedStep] 2 1/8 + 1 7/8 = 3 + 8/8 = 3 + 1 = 4.
+[WorkedStep] Check with a nearby estimate: 2 1/8 is near 2 and 1 7/8 is near 2, so a total of 4 makes sense.
+Your turn after Example 5
+[Question] Evaluate and simplify.
+[Question] (a)  4 3/7 + 2 2/7
+[Question] (b)  4 3/5 + 1 4/5
+Check your method
+[WorkedStep] (a) 4 3/7 + 2 2/7 = (4 + 2) + (3 + 2)/7 = 6 5/7.
+[WorkedStep] (b) 4 3/5 + 1 4/5 = 5 + 7/5.
+[WorkedStep] Here 7/5 = 5/5 + 2/5 = 1 2/5, so the total is 5 + 1 2/5 = 6 2/5.
+[PanelizationEnd] END PANEL CH02-PAGE030-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 031

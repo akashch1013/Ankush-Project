@@ -1,0 +1,42 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE165
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE165-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Revision Question 20
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE165-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+We have found percentages such as 5 as a percentage of 10: 5/10 × 100% = 50%. In the next question, the percentage is given and we must find the amount.
+Start with 1%. It means 1/100, so divide the full amount by 100. For example, 1% of 80 = 80 ÷ 100 = 0.8. To find 10%, take 10 of those 1% shares: 10 × 0.8 = 8.
+We can also write 10% of 80 = 10/100 × 80 = 8. The word “of” asks us to take that fraction of the given amount. Let’s use this method with 5000 and then 600 mL.
+Revision Question 20
+[Question] Evaluate.
+[Question] (a)  30% of 5000
+[Question] (b)  45% of 600 mL
+Check your method
+[WorkedStep] (a)  30% means 30 out of 100 equal shares. One share of 5000 is 5000 ÷ 100 = 50. Take 30 shares: 50 × 30 = 1500.
+[WorkedStep] So 30% of 5000 = 1500. Check: 1500/5000 = 3/10 = 30%.
+[WorkedStep] (b) First find 1% of 600 mL: 600 ÷ 100 = 6 mL. Then take 45 of those shares: 45 × 6 mL = 270 mL.
+[WorkedStep] Check: 50% would be 300 mL. Five percent is 5 × 6 = 30 mL, so 45% should be 300 − 30 = 270 mL. It is.
+[PanelizationEnd] END PANEL CH02-PAGE165-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 166

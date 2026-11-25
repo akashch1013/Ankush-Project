@@ -1,0 +1,44 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE134
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.9; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 12F A separate mixing jug
+[PaginationMetadata] Applies to: Teaching block T2.9; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 12F A separate mixing jug
+[PaginationMetadata] Applies to: Teaching block T2.9; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.9
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE134-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.9; 2.9 Converting a Fraction or Decimal to a Percentage; Knowledge Building Task
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE134-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] FRIENDLY TEACHER BRIDGE — PRINT ONLY THIS
+[TeacherBridge] The jug isn’t asking for more drink—just another way to write its fill level. Let’s turn fractions and decimals into percentages.
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.9 Converting a Fraction or Decimal to a Percentage
+We have travelled from percentages to fractions and decimals. Now let’s reverse the journey. If 10 sweets out of 150 are green, the fraction is 10/150. How could we describe that share “out of 100”? We will try it with a collection, then turn the idea into a calculation.
+## Knowledge Building Task
+Work in a group of five if possible. Use a packet of sweets with five or more colours. Count all the sweets first, then count each colour. Do not eat any until the counts are recorded, or the whole may quietly get smaller!
+Open a spreadsheet. Each box is called a cell. Its name gives its column and row: F1 means column F, row 1. Put the total number of sweets in F1. Put the colour names across row 2, starting at B2, and each colour’s count directly below it in row 3.
+The sample uses five colours. If your packet has more, continue the colour columns to the right. Keep the total in F1; every sweet must appear in exactly one colour count.
+[ProductionLabel] DO NOT PRINT — Figure reference: V35 | The following caption sentence is printable unchanged.
+[Caption] This is an unfinished demonstration sheet: only the green count has been entered.
+[ProductionNote] Production note V35 — Recreate a readable spreadsheet fragment: totalF1=150; coloursB2:F2 Green Brown Yellow Red Orange; B3=10 other counts blank; green rows fraction1/15, decimal0.07, percentage6.67%; other calculated displays0 as source. Label incomplete example; preserve total150 and10 green. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelizationEnd] END PANEL CH02-PAGE134-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 135

@@ -1,0 +1,47 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE144
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE144-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Example 37; Your turn after Example 37
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE144-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+The two quantities in our fraction must use the same unit. For “9 cents as a percentage of $1.50”, first change $1.50 to 150 cents. Then compare 9 cents with 150 cents. Let’s do that carefully.
+Example 37
+[Question] Express each as a percentage.
+[Question] (a)  5 as a percentage of 10
+[Question] (b)  9 cents as a percentage of $1.50
+Let’s work it through
+[WorkedStep] (a)  The whole we compare with is 10. We have 5 of those 10, so the fraction is 5/10 = 1/2. Half of 100% is 50%, so 5 is 50% of 10.
+[WorkedStep] (b)  First match the units. We cannot compare 9 cents with the number 1.50 as though it also meant cents. One dollar is 100 cents, so $1.50 = 100 cents + 50 cents = 150 cents.
+[WorkedStep] The fraction is 9/150. Multiply by 100%: 9/150 × 100% = 900/150% = 6%, since 150 × 6 = 900. Check: 1% of 150 cents is 1.5 cents, and 6 × 1.5 cents = 9 cents.
+Your turn after Example 37
+[Question] Express each as a percentage.
+[Question] (a)  8 as a percentage of 20
+[Question] (b)  45 cm as a percentage of 1.2 m
+Check your method
+[WorkedStep] (a)  8/20 × 100% = 8 × (100 ÷ 20)% = 8 × 5% = 40%.
+[WorkedStep] (b) We are comparing 45 cm with 1.2 m. First change 1.2 m to centimetres: 1.2 × 100 cm = 120 cm.
+[WorkedStep] Now both lengths use centimetres. The fraction is 45/120, so the percentage is 45/120 × 100% = 4500/120% = 37.5%.
+[PanelizationEnd] END PANEL CH02-PAGE144-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 145

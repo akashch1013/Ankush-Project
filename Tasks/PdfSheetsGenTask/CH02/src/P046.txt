@@ -1,0 +1,49 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE046
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.3B; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 06A A batch and a serving size
+[PaginationMetadata] Applies to: Teaching block T2.3B; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 06A A batch and a serving size
+[PaginationMetadata] Applies to: Teaching block T2.3B; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.3B
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE046-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.3B; Your turn after Example 8
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE046-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] FRIENDLY TEACHER BRIDGE — PRINT ONLY THIS
+[TeacherBridge] Four plates are waiting. Let’s see how division counts servings, starting with apples before we return to the batter.
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+For division, ask how many groups we can make. Suppose we have 6 apples and put 2 apples in each group. Then 6 ÷ 2 = 3 groups.
+Now let each serving be 1/2 of an apple. Each apple gives 2 servings, so 6 apples give 6 × 2 = 12 servings. We write 6 ÷ 1/2 = 12.
+Each row in the next diagram represents the same 6 apples. A length of 1 stands for 1 apple. The colours mark the groups: 2 apples per group in the first row, 1/2 apple per group in the second row. We will use the third row next.
+[ProductionLabel] DO NOT PRINT — Figure reference: V12 | The following caption sentence is printable unchanged.
+[Caption] Divide 6 apples into groups of 2, 1/2 or 2/3 apple.
+[ProductionNote] Production note V12 — Three rows use the same total of six wholes: groups of 2 give 3; groups of 1/2 give 12; groups of 2/3 give 9. Draw exact partitions and braces, with no lost pieces. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Now look at the third row: each serving is 2/3 of an apple. Cut every apple into 3 equal parts. From 6 apples we get 6 × 3 = 18 one-third pieces.
+Each serving needs 2 of those pieces, so 18 ÷ 2 = 9 servings.
+6 ÷ 2/3 = (6 × 3) ÷ 2 = 18 ÷ 2 = 9.
+The calculation multiplied by 3, then divided by 2. We can write those two operations as multiplying by 3/2:
+6 × 3/2 = (6 × 3)/2 = 18/2 = 9.
+The fraction 3/2 is called the reciprocal of 2/3. To find it, swap the top and bottom numbers: 2 over 3 becomes 3 over 2.
+Check: 2/3 × 3/2 = (2 × 3)/(3 × 2) = 6/6 = 1. Any non-zero number multiplied by its reciprocal gives 1. Zero has no reciprocal.
+So 6 ÷ 2/3 = 6 × 3/2. The starting number, 6, stays unchanged. Only the fraction we divide by, 2/3, is turned over. Let’s use the same idea when the starting amount is a fraction.
+[PanelizationEnd] END PANEL CH02-PAGE046-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 047

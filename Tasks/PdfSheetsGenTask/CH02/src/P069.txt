@@ -1,0 +1,145 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE069
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 08B A; Visual beat CH02 08B B; Visual beat CH02 08B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 08B A; Visual beat CH02 08B B; Visual beat CH02 08B C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 08B A; Visual beat CH02 08B B; Visual beat CH02 08B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 08B A; Visual beat CH02 08B B; Visual beat CH02 08B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 08B A; Visual beat CH02 08B B; Visual beat CH02 08B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 08 Read the juice quantities
+[PaginationMetadata] Applies to: Visual beat CH02 08B A; Visual beat CH02 08B B; Visual beat CH02 08B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 08B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 08B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 08B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationSourceLabel] Carried forward from: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PaginationMetadata] Applies to: Scene CH02 08B; recipe-jug camera and framing only
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 08B Check the next jug
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium of the recipe-jug area established under View in Scene CH02 08A at the right-hand counter; the fixed lamp remains above-left.
+[PanelizationHeading] PANEL CH02-PAGE069-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 08B A The first jug is already right
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; Scene CH02 08B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; Scene CH02 08B; view; assigned beat stage only
+[ProductionNote] View. Medium of the recipe-jug area established under View in Scene CH02 08A at the right-hand counter; the fixed lamp remains above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; Scene CH02 08B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; Scene CH02 08B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; Scene CH02 08B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL01; Visual beat CH02 08B A; retained recipe-jug camera and fixed lamp only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08B A The first jug is already right
+[ProductionNote] Moment and staging. Close view of the verified ¾ L = 0.75 L record beside the first jug. Ahana relaxes her pointing hand and looks at the matching mark. The jug level does not rise; no liquid is added.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Three quarters and 0.75 are two ways of writing the same quantity. The jug is already at the recipe amount.
+[PanelizationEnd] END PANEL CH02-PAGE069-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE069-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 08B B The assistant pauses
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; Scene CH02 08B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; Scene CH02 08B; view; assigned beat stage only
+[ProductionNote] View. Medium of the recipe-jug area established under View in Scene CH02 08A at the right-hand counter; the fixed lamp remains above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; Scene CH02 08B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; Scene CH02 08B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; Scene CH02 08B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL02; Visual beat CH02 08B B; retained recipe-jug camera and fixed lamp only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08B B The assistant pauses
+[ProductionNote] Moment and staging. The assistant holds its pouring pot in both hands above the second jug, upright and not pouring. The second jug’s 0.7 L mark is clear; the first verified jug stays farther back. Navya looks at the two quantities with both hands on clear counter space.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The next jug holds 0.7 litre. The helper pauses with its pouring pot.
+[PanelizationEnd] END PANEL CH02-PAGE069-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE069-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 08B C Short or too much
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; Scene CH02 08B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; Scene CH02 08B; view; assigned beat stage only
+[ProductionNote] View. Medium of the recipe-jug area established under View in Scene CH02 08A at the right-hand counter; the fixed lamp remains above-left.
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; Scene CH02 08B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; Scene CH02 08B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; Scene CH02 08B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 08 Read the juice quantities
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE069-PANEL03; Visual beat CH02 08B C; retained recipe-jug camera and fixed lamp only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 08B C Short or too much
+[ProductionNote] Moment and staging. Retain the camera, vessel positions and character locations specified in Scene CH02 08B. The assistant lowers the upright pot slightly without pouring and turns its head towards the children, painted eyebrows raised. Both hands remain on the pot. The 0.7 L level has not changed.
+[ProductionNote] DO NOT PRINT — Speaker: Drink assistant | Tail target: Drink assistant’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The recipe still says three quarters of a litre. Is this jug short, or does it already have too much?
+[PanelizationEnd] END PANEL CH02-PAGE069-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 070

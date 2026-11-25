@@ -1,0 +1,52 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE091
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7A
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7A
+[PaginationMetadata] Applies to: Teaching block T2.7A; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7A; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE091-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7A; Example 21
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7A
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10A The reserve bottle
+[PanelizationMetadata] APPLIES TO: CH02-PAGE091-PANEL01; Teaching block T2.7A; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+For subtraction, line up the decimal points and work from right to left. If a top digit is too small to subtract from, borrow from the place on its left. We’ll show the changed digits above the calculation.
+Example 21
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  30.92 − 10.11
+[Question] (b)  17.625 − 2.3 − 14.162
+Let’s work it through
+[WorkedStep] (a) For 30.92 − 10.11, estimate using 31 and 10: 31 − 10 = 21.
+[WorkedStep] For the exact calculation, write 30.92 above 10.11 and line up their decimal points.
+[ProductionLabel] DO NOT PRINT — Figure reference: V27c-R | The following caption sentence is printable unchanged.
+[Caption] The decimal points stay in one column.
+[ProductionNote] Production note V27c-R — Vertical calculation with fixed-width aligned digits: 30.92; − 10.11; 20.81. Show exact numbers and decimal places; read from the smallest place to the largest. Carry/regroup information must remain explicit in adjoining narration. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] Subtract from right to left: hundredths 2 − 1 = 1; tenths 9 − 1 = 8; whole-number parts 30 − 10 = 20.
+[WorkedStep] 30.92 − 10.11 = 20.81. Check: 20.81 + 10.11 = 30.92.
+[WorkedStep] (b) We need 17.625 − 2.3 − 14.162. Estimate with 18, 2 and 14: 18 − 2 − 14 = 2.
+[WorkedStep] Work from left to right. First line up the places: 17.625 − 2.300 = 15.325.
+[WorkedStep] Now subtract 14.162 from 15.325. In the hundredths column, 2 is smaller than 6. Borrow from the 3 next door: the 3 becomes 2, and the 2 becomes 12. One tenth is ten hundredths, so the amount stays the same: 0.32 = 0.20 + 0.12.
+[ProductionLabel] DO NOT PRINT — Figure reference: V27d-R | The following caption sentence is printable unchanged.
+[Caption] Use the small replacement numbers when you subtract.
+[ProductionNote] Production note V27d-R — Vertical subtraction 15.325 − 14.162 = 1.163. Align the decimal points. Cross out the original tenths digit 3 and hundredths digit 2; write teal replacement numbers 2 and 12 directly above them. Keep all other digits unchanged. The replacement numbers show regrouping of the same amount. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[WorkedStep] Start on the right: 5 − 2 = 3. Then use the replacement numbers: 12 − 6 = 6 and 2 − 1 = 1. Finish with 5 − 4 = 1.
+[WorkedStep] So 17.625 − 2.3 − 14.162 = 15.325 − 14.162 = 1.163.
+[WorkedStep] Check by adding back both amounts taken away: 1.163 + 14.162 = 15.325, and 15.325 + 2.300 = 17.625.
+[PanelizationEnd] END PANEL CH02-PAGE091-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 092

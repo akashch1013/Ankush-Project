@@ -1,0 +1,80 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE049
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3B
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.3B
+[PaginationMetadata] Applies to: Teaching block T2.3B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.3B; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Companion inset CH02 Q04; only the location anchors named by this independent inset
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE049-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.3B; Example 10; Your turn after Example 10
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.3B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 06A A batch and a serving size
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL01; Teaching block T2.3B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 10
+[Question] Rina has 9/10 L of cooking oil. She pours it into bottles holding 1/6 L each. How many full bottles can she fill?
+Let’s work it through
+[WorkedStep] We have 9/10 L of oil. Each bottle holds 1/6 L. Divide the total oil by the amount for one bottle:
+[WorkedStep] Number of bottlefuls = 9/10 ÷ 1/6.
+[WorkedStep] 9/10 ÷ 1/6 = 9/10 × 6/1 = 54/10 = (54 ÷ 2)/(10 ÷ 2) = 27/5.
+[WorkedStep] Change 27/5 to a mixed number: 27 ÷ 5 = 5 remainder 2, so 27/5 = 5 2/5.
+[WorkedStep] This means 5 full bottles and 2/5 of another bottle. The question asks for full bottles, so the answer is 5.
+[WorkedStep] Let’s check the oil left. Five bottles use 5 × 1/6 = 5/6 L. Compare that with the 9/10 L available, using denominator 30:
+[WorkedStep] 5/6 = (5 × 5)/(6 × 5) = 25/30 L; 9/10 = (9 × 3)/(10 × 3) = 27/30 L.
+[WorkedStep] Oil left: 27/30 − 25/30 = 2/30 = 1/15 L. Six full bottles would need 6 × 1/6 = 1 L, more than our 9/10 L. So we must stop at 5 full bottles.
+[WorkedStep] In the picture, each rectangle is 1 bottle holding 1/6 L. Five are full. The sixth is 2/5 full. Here 2/5 describes a fraction of a bottle; the actual oil left is 1/15 L, not 2/5 L.
+[ProductionLabel] DO NOT PRINT — Figure reference: V14 | The following caption sentence is printable unchanged.
+[Caption] The leftover oil fills only part of the next bottle.
+[ProductionNote] Production note V14 — Six equal-capacity bottle bars, five fully filled and the sixth exactly two-fifths filled. Mark capacity 1/6 L; leftover is 1/15 L, not 2/5 L. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Your turn after Example 10
+[Question] Mr Li has 12/13 kg of rice. He packs it into bags holding 3/13 kg each. How many full bags can he fill?
+Check your method
+[WorkedStep] 12/13 ÷ 3/13 = 12/13 × 13/3 = 12/3 = 4.
+[WorkedStep] He fills 4 full bags, with no rice left. Check: 4 × 3/13 = 12/13 kg.
+[PanelizationEnd] END PANEL CH02-PAGE049-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE049-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q04
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL02; Companion inset CH02 Q04; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL02; Companion inset CH02 Q04; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL02; Companion inset CH02 Q04; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL02; Companion inset CH02 Q04; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL02; Companion inset CH02 Q04; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE049-PANEL02; Companion inset CH02 Q04; independent inset; only the location anchors named by this independent inset
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q04
+[ProductionLabel] DO NOT PRINT — Independent companion moment after the completed teaching passage immediately before this labelled inset. Full setting: Location CH02 L02. No plot progression or equipment-state change.
+[ProductionNote] Staging. Ahana leans lightly at the cool dry shelf, both hands empty and apart on the edge, looking at the reader thoughtfully. Use a soft glimpse of the saffron awning and pale shelf, with no real bottle added to the story stock.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] A part-filled bottle still isn’t a full bottle.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE049-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 050

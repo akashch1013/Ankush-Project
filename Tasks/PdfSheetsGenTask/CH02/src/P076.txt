@@ -1,0 +1,51 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE076
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE076-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Practice 2E Question 6; Practice 2E Question 7
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE076-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2E Question 6
+[Question] Eight swimmers finish a 50-metre freestyle race in these times. Rank them starting from the fastest. Times in seconds: Cheryl 41.58; Loraine 39.56; Daphne 45.87; Jane 49.31; Kimberly 45.01; Germaine 42.39; Brenda 43.05; Susan 42.86.
+| Swimmer | Time (s) |
+| Cheryl | 41.58 |
+| Loraine | 39.56 |
+| Daphne | 45.87 |
+| Jane | 49.31 |
+| Kimberly | 45.01 |
+| Germaine | 42.39 |
+| Brenda | 43.05 |
+| Susan | 42.86 |
+[ProductionNote] Production note V24 — Keep all eight swimmer/time pairs in the given order. Do not pre-sort the question table. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Check your method
+[WorkedStep] Fastest means the shortest time, so use ascending order. Compare whole seconds first, then tenths, then hundredths if they still match.
+[WorkedStep] 39.56 < 41.58 < 42.39 < 42.86 < 43.05 < 45.01 < 45.87 < 49.31.
+[WorkedStep] Ranking: Loraine, Cheryl, Germaine, Susan, Brenda, Kimberly, Daphne, Jane. Between 42.39 and 42.86, the whole seconds match but the tenths differ: 3 < 8. Between 45.01 and 45.87, compare tenths again: 0 < 8.
+Practice 2E Question 7
+[Question] Fresh Fruit Stall sells 3 pears for $2.00. Lucky Fruit Stall sells the same type of pears at 1 for $0.70. Which stall would you choose? Explain.
+Check your method
+[WorkedStep] Compare the same number of pears. Three at Lucky cost 3 × $0.70 = $2.10. Three at Fresh cost $2.00.
+[WorkedStep] Choose Fresh Fruit Stall. For the same 3 pears, you save $2.10 − $2.00 = $0.10.
+[PanelizationEnd] END PANEL CH02-PAGE076-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 077

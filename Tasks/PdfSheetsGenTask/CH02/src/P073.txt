@@ -1,0 +1,103 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE073
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.5
+[PaginationMetadata] Applies to: Teaching block T2.5; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.5; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q06; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE073-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Example 15; Your turn after Example 15
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL01; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 15
+[Question] Arrange 0.314, 310/1000 and 3 14/100 in ascending order.
+Let’s work it through
+[WorkedStep] First write the fractions as decimals: 310/1000 = 0.310, and 3 14/100 = 3 + 0.14 = 3.14.
+[WorkedStep] Compare 0.314, 0.310 and 3.14. The number 3.14 is greatest because it has 3 wholes, while the other two have 0 wholes.
+[WorkedStep] Now compare 0.310 and 0.314. Both have 3 tenths and 1 hundredth. Their thousandths digits differ: 0 < 4, so 0.310 < 0.314.
+[WorkedStep] Thus 0.310 < 0.314 < 3.14. In the original forms, the ascending order is 310/1000, 0.314, 3 14/100.
+Your turn after Example 15
+[Question] Arrange 0.123, 1 23/100 and 132/1000 in ascending order.
+Check your method
+[WorkedStep] 1 23/100 = 1.23 and 132/1000 = 0.132. Compare 0.123 < 0.132 < 1.23.
+[WorkedStep] Ascending order: 0.123, 132/1000, 1 23/100.
+[PanelizationEnd] END PANEL CH02-PAGE073-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE073-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.5; Example 16; Your turn after Example 16
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.5
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08B Check the next jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL02; Teaching block T2.5; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 16
+[Question] Arrange 5.25, 525/1000 and 5 3/4 in descending order.
+Let’s work it through
+[WorkedStep] Write 525/1000 = 0.525. For 5 3/4, change the fraction part: 3/4 = (3 × 25)/(4 × 25) = 75/100 = 0.75, so 5 3/4 = 5.75.
+[WorkedStep] Now compare 5.25, 0.525 and 5.75. Both 5.25 and 5.75 are greater than 0.525 because their whole-number part is 5, not 0. Between 5.25 and 5.75, compare tenths: 7 > 2, so 5.75 is greater.
+[WorkedStep] Descending order: 5.75 > 5.25 > 0.525. In the original forms: 5 3/4, 5.25, 525/1000.
+Your turn after Example 16
+[Question] Arrange 20.3, 203/1000 and 20 33/100 in descending order.
+Check your method
+[WorkedStep] 20.3 = 20.30; 203/1000 = 0.203; 20 33/100 = 20.33.
+[WorkedStep] Descending order: 20 33/100, 20.3, 203/1000.
+[PanelizationEnd] END PANEL CH02-PAGE073-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE073-PANEL03
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q06
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL03; Companion inset CH02 Q06; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL03; Companion inset CH02 Q06; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL03; Companion inset CH02 Q06; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL03; Companion inset CH02 Q06; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL03; Companion inset CH02 Q06; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE073-PANEL03; Companion inset CH02 Q06; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q06
+[ProductionNote] Staging. Navya stands at the dry right-counter edge with an empty right hand making a small comparison gesture and left hand resting clear. She looks towards the reader. Use the lamp bracket and blue wall; omit pending jug labels.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Those zeros are helping us compare.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE073-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 074

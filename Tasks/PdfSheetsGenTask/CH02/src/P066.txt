@@ -1,0 +1,74 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE066
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.4
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.4
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.4; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q05; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE066-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.4; Your turn after Example 12
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Your turn after Example 12
+[Question] Convert these decimals to fractions in simplest form.
+[Question] (a)  0.42
+[Question] (b)  12.5
+Check your method
+[WorkedStep] (a) The decimal 0.42 has 2 digits after the point, so it means 42 hundredths: 0.42 = 42/100 = (42 ÷ 2)/(100 ÷ 2) = 21/50.
+[WorkedStep] (b) Keep the 12 wholes in 12.5. The fraction part is 5/10 = (5 ÷ 5)/(10 ÷ 5) = 1/2. So 12.5 = 12 1/2.
+[WorkedStep] As an improper fraction, 12 1/2 = (12 × 2 + 1)/2 = 25/2.
+[WorkedStep] A calculator can check a fraction-to-decimal conversion. For 3/4, enter 3 ÷ 4, then press equals. The answer should be 0.75.
+[WorkedStep] Some scientific calculators also have a key that switches between a fraction and its decimal. Its label and position depend on the calculator. The picture shows the idea: 3/4 and 0.75 are two ways to write the same number.
+[ProductionLabel] DO NOT PRINT — Figure reference: V18 | The following caption sentence is printable unchanged.
+[Caption] Enter the fraction, read the decimal, then check the reverse conversion.
+[ProductionNote] Production note V18 — Recognisable generic scientific calculator with display, digits, decimal point, divide, equals and a labelled fraction/decimal function. Show 3 ÷ 4 then 0.75, and a separate conceptual toggle to 3/4. Label key arrangement illustrative; do not invent a universal hardware sequence. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelizationEnd] END PANEL CH02-PAGE066-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE066-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q05
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL02; Companion inset CH02 Q05; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL02; Companion inset CH02 Q05; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL02; Companion inset CH02 Q05; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL02; Companion inset CH02 Q05; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL02; Companion inset CH02 Q05; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE066-PANEL02; Companion inset CH02 Q05; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q05
+[ProductionNote] Staging. Tara stands at the cool drink-counter end, staff right, left palm open towards the reader and expression warm. Extend only the fixed lamp glow and pale counter edge; no jug level changes.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The number looks different. The amount hasn’t changed.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE066-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 067

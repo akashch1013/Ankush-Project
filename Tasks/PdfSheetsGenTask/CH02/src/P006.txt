@@ -1,0 +1,239 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE006
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 01G A; Visual beat CH02 01G B; Visual beat CH02 02A A; Visual beat CH02 02A B; Visual beat CH02 02A C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 01G A; Visual beat CH02 01G B; Visual beat CH02 02A A; Visual beat CH02 02A B; Visual beat CH02 02A C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 01G A; Visual beat CH02 01G B; Visual beat CH02 02A A; Visual beat CH02 02A B; Visual beat CH02 02A C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 01G A; Visual beat CH02 01G B; Visual beat CH02 02A A; Visual beat CH02 02A B; Visual beat CH02 02A C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 01G A; Visual beat CH02 01G B; Visual beat CH02 02A A; Visual beat CH02 02A B; Visual beat CH02 02A C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 01 A kitchen with conflicting instructions
+[PaginationMetadata] Applies to: Visual beat CH02 01G A; Visual beat CH02 01G B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 01G; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 01G; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L04 Old Blue Gate — Exterior Waiting Lane
+[PaginationMetadata] Applies to: Scene CH02 01G; Location CH02 L04 Old Blue Gate — Exterior Waiting Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 01G; Scene CH02 02A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 01G; Scene CH02 02A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 01G; Scene CH02 02A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 01G; Scene CH02 02A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing; opening unloaded table only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 01G; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 01G; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 01G A reliable record
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the dry recipe-counter end, cupboard below and warm task light above. The clear lane towards the entrance remains at frame edge.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Supply tap closed. The helper brings out the original book, balance and weights; the false loose cards remain separate.
+[ProductionNote] Planning requirements. The Gate is a destination in Ahana’s thoughts, not visible through the counter background.
+[PanelizationHeading] PANEL CH02-PAGE006-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 01G A The cupboard’s contents
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; Scene CH02 01G; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; Scene CH02 01G; view; assigned beat stage only
+[ProductionNote] View. Medium at the dry recipe-counter end, cupboard below and warm task light above. The clear lane towards the entrance remains at frame edge.
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; Scene CH02 01G; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; Scene CH02 01G; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Supply tap closed. The helper brings out the original book, balance and weights; the false loose cards remain separate.
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; Scene CH02 01G; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The Gate is a destination in Ahana’s thoughts, not visible through the counter background.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL01; Visual beat CH02 01G A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01G A The cupboard’s contents
+[ProductionNote] Moment and staging. Freeze after the helper has set the balance and weights on the dry counter and is placing the original recipe book beside them with both hands. The cupboard door is open below. The trio look at the reliable measuring equipment; Tara watches. Labels are not yet a solved comparison.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The book is kept in a cupboard beneath the counter. The helper brings it out, along with the scale and weights it uses to measure ingredients. The children will not have to trust one loose label over another. They can check the actual food as well.
+[PanelizationEnd] END PANEL CH02-PAGE006-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE006-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 01G B Ahana thinks of the waiting children
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; Scene CH02 01G; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; Scene CH02 01G; view; assigned beat stage only
+[ProductionNote] View. Medium at the dry recipe-counter end, cupboard below and warm task light above. The clear lane towards the entrance remains at frame edge.
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; Scene CH02 01G; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; Scene CH02 01G; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. Supply tap closed. The helper brings out the original book, balance and weights; the false loose cards remain separate.
+[PanelizationMetadata] SOURCE: Scene CH02 01G A reliable record
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; Scene CH02 01G; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. The Gate is a destination in Ahana’s thoughts, not visible through the counter background.
+[PanelizationMetadata] SOURCE: Sequence 01 A kitchen with conflicting instructions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL02; Visual beat CH02 01G B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 01G B Ahana thinks of the waiting children
+[ProductionNote] Moment and staging. Retain the dry-counter camera and positions specified in Scene CH02 01G. Ahana turns her head and shoulders towards Food Street’s entrance and the Return Walk direction, hands clear of the book. Tara notices her concern. The equipment stays on the counter; the helper closes the cupboard before leaving it unattended.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Before they begin, Ahana looks back towards the Gate.
+[PanelizationEnd] END PANEL CH02-PAGE006-PANEL02
+[SequenceHeading] Sequence 02 An order from the Gate
+[ProductionLabel] Production sequence reference CH02-02. Non-printing background and continuity.
+[ProductionNote] Background — Location CH02 L04. Outside the Old Blue Gate, two weathered blue timber leaves stand between pale-stone piers, with brass ribs, moon-shaped openings and one round full-moon ornament above. Seen from the lane, the small service doorway is in the left leaf, the bench is right and the planter is left.
+[SceneHeading] Scene CH02 02A Serve while the work continues
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium near the packing bench, facing Ahana and Tara with the Return Walk doorway behind Tara.
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The serving settings are not yet repaired. No delivery has left.
+[ProductionNote] Planning requirements. Ahana asks about the children outside. Her request does not promise that all counters will be repaired before food can leave.
+[PanelizationHeading] PANEL CH02-PAGE006-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 02A A The people still waiting
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; Scene CH02 02A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; Scene CH02 02A; view; assigned beat stage only
+[ProductionNote] View. Medium near the packing bench, facing Ahana and Tara with the Return Walk doorway behind Tara.
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; Scene CH02 02A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; Scene CH02 02A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The serving settings are not yet repaired. No delivery has left.
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; Scene CH02 02A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Ahana asks about the children outside. Her request does not promise that all counters will be repaired before food can leave.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL03; Visual beat CH02 02A A; location reference; opening unloaded table only; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02A A The people still waiting
+[ProductionNote] Moment and staging. Ahana faces Tara with an earnest expression, left palm open towards the Return Walk doorway and right hand relaxed at her side. Tara listens with staff right. Navya and Vihaan stand beside the bench; Tez looks up from clear paving.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Those children are still waiting. Can we send food while we work?
+[PanelizationEnd] END PANEL CH02-PAGE006-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE006-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 02A B Start with a checked recipe
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; Scene CH02 02A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; Scene CH02 02A; view; assigned beat stage only
+[ProductionNote] View. Medium near the packing bench, facing Ahana and Tara with the Return Walk doorway behind Tara.
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; Scene CH02 02A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; Scene CH02 02A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The serving settings are not yet repaired. No delivery has left.
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; Scene CH02 02A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Ahana asks about the children outside. Her request does not promise that all counters will be repaired before food can leave.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL04; Visual beat CH02 02A B; location reference; opening unloaded table only; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02A B Start with a checked recipe
+[ProductionNote] Moment and staging. Tara faces Ahana and raises her free left index finger gently, staff steady in her right. Her expression is reassuring. Ahana lowers her hand to listen. The trolley stays empty.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth | Source speech attribution: Tara says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] As soon as a recipe and its portions are right.
+[PanelizationEnd] END PANEL CH02-PAGE006-PANEL04
+[PanelizationHeading] PANEL CH02-PAGE006-PANEL05
+[PanelizationMetadata] SOURCE: Visual beat CH02 02A C No need to finish every counter
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; Scene CH02 02A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; Scene CH02 02A; view; assigned beat stage only
+[ProductionNote] View. Medium near the packing bench, facing Ahana and Tara with the Return Walk doorway behind Tara.
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; Scene CH02 02A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; Scene CH02 02A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The packing bench and Return Walk door remain near the entrance. The clip above the bench is empty. Ira’s drawing arrives only in Visual beat CH02 02D A. The upper carrier has sixteen cup places; the separate lower shelf takes one snack tray. The round two-tray loading table is a separate piece of equipment. The crooked cart is parked against the near-left wall clear of both doorways. Ahana’s portable lamp rests at the bench’s entrance corner. The serving settings are not yet repaired. No delivery has left.
+[PanelizationMetadata] SOURCE: Scene CH02 02A Serve while the work continues
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; Scene CH02 02A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Ahana asks about the children outside. Her request does not promise that all counters will be repaired before food can leave.
+[PanelizationMetadata] SOURCE: Sequence 02 An order from the Gate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE006-PANEL05; Visual beat CH02 02A C; location reference; opening unloaded table only; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 02A C No need to finish every counter
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character locations specified in Scene CH02 02A. Tara changes her raised left finger to an open palm towards the food helpers and turns her gaze to them. Her staff remains right. The children and trolley remain in their established places.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We don’t need to finish every counter first.
+[PanelizationEnd] END PANEL CH02-PAGE006-PANEL05
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 007

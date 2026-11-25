@@ -1,0 +1,45 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE146
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE146-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Example 39; Your turn after Example 39
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE146-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 39
+[Question] A basket contains 20 fruits. Eight are apples and the rest are oranges.
+[Question] (a)  What percentage are apples?
+[Question] (b)  What percentage are oranges?
+Let’s work it through
+[WorkedStep] (a) The basket contains 20 fruits in all, so use 20 underneath. The 8 apples represent 8/20 × 100% = 8 × (100 ÷ 20)% = 8 × 5% = 40%.
+[WorkedStep] (b) Count the oranges: 20 − 8 = 12. Their percentage is 12/20 × 100% = 12 × 5% = 60%.
+[WorkedStep] Or subtract the apples’ share from the whole basket: 100% − 40% = 60%. This works because every fruit is either an apple or an orange.
+Your turn after Example 39
+[Question] A shopping mall has 60 shops. Of these, 45 are eateries and the rest are non-eateries.
+[Question] (a)  What percentage are eateries?
+[Question] (b)  What percentage are non-eateries?
+Check your method
+[WorkedStep] (a) Eateries: 45/60 × 100% = (45 ÷ 15)/(60 ÷ 15) × 100% = 3/4 × 100% = 75%.
+[WorkedStep] (b) There are 60 − 45 = 15 non-eateries. Their percentage is 15/60 × 100% = 1/4 × 100% = 25%. Check: 100% − 75% = 25%.
+[PanelizationEnd] END PANEL CH02-PAGE146-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 147

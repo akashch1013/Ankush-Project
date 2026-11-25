@@ -1,0 +1,51 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE149
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE149-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Practice 2L; Practice 2L Question 1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE149-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2L
+Practice 2L Question 1
+[Question] Express each as a percentage.
+[Question] (a)  3 as a percentage of 10
+[Question] (b)  30 as a percentage of 60
+[Question] (c)  10 1/2 as a percentage of 21
+[Question] (d)  1 1/4 as a percentage of 24
+[Question] (e)  1.8 as a percentage of 18
+[Question] (f)  59.5 as a percentage of 238
+Check your method
+[WorkedStep] (a)  We compare 3 with 10, so put 10 underneath: 3/10 × 100% = 3 × (100 ÷ 10)% = 30%.
+[WorkedStep] (b)  30/60 = (30 ÷ 30)/(60 ÷ 30) = 1/2. Then 1/2 × 100% = 50%.
+[WorkedStep] (c) First change the mixed number: 10 1/2 = (10 × 2 + 1)/2 = 21/2.
+[WorkedStep] We are comparing this amount with 21, so divide by 21: 21/2 ÷ 21 = 21/2 × 1/21 = 21/42 = 1/2.
+[WorkedStep] Now convert to a percentage: 1/2 × 100% = 50%. Check: 21 ÷ 2 = 10 1/2, so the given amount is half of 21.
+[WorkedStep] (d) Change 1 1/4 to (1 × 4 + 1)/4 = 5/4. We need this amount as a share of 24, so divide by 24:
+[WorkedStep] 5/4 ÷ 24 = 5/4 × 1/24 = 5/96.
+[WorkedStep] Now change that share to a percentage: 5/96 × 100% = 500/96% = 125/24%, dividing 500 and 96 by 4.
+[WorkedStep] Since 125 ÷ 24 = 5 remainder 5, the answer is 5 5/24%.
+[WorkedStep] (e)  The amount is decimal, but the meaning is unchanged: 1.8/18 = (1.8 × 10)/(18 × 10) = 18/180 = 1/10. Then 1/10 × 100% = 10%.
+[WorkedStep] (f) Notice that 59.5 × 4 = 238. So 59.5 is one quarter of 238: 59.5/238 = 1/4. Then 1/4 × 100% = 25%.
+[PanelizationEnd] END PANEL CH02-PAGE149-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 150

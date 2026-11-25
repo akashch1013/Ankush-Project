@@ -1,0 +1,91 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE154
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 13A A; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 13A A; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 13A A; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 13A A; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 13A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L01 Food Street — Master from Lantern Street
+[PaginationMetadata] Applies to: Scene CH02 13A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PaginationMetadata] Applies to: Scene CH02 13A; Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 13 Review, then balance the loading table
+[ProductionLabel] Production sequence reference CH02-13. Non-printing background and continuity.
+[SceneHeading] Scene CH02 13A Check the completed order
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the packing bench with the capped carrier, tagged trolley and central loading table visible.
+[PanelizationHeading] PANEL CH02-PAGE154-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 13A A The crew checks while cooking continues
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; Scene CH02 13A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; Scene CH02 13A; view; assigned beat stage only
+[ProductionNote] View. Medium at the packing bench with the capped carrier, tagged trolley and central loading table visible.
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; Scene CH02 13A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; Scene CH02 13A; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; Scene CH02 13A; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 13 Review, then balance the loading table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L01 Food Street — Master from Lantern Street
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; physical left/right and route convention; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L03 Food Street — Packing Bench and Balanced Loading Table
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL01; Visual beat CH02 13A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 13A A The crew checks while cooking continues
+[ProductionNote] Moment and staging. Tara gestures towards the food helper with her free left palm, staff right, then freezes facing the completed order record. The trio stand together at the bench, hands clear of the capped cups. The helper continues cooking across the lane; the broad helper waits to load the table. No new spoken words are added.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The drink cups are capped and the first-trip tag is ready. Tara asks the helpers to keep cooking while the crew checks the completed order.
+[PanelizationEnd] END PANEL CH02-PAGE154-PANEL01
+[SceneHeading] Teaching block R02
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE154-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block R02; Chapter 2 Key Ideas; Fractions
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE154-PANEL02; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# Chapter 2 Key Ideas
+We have written amounts as fractions, decimals and percentages. For example, 1/2 = 0.5 = 50%: three ways to name the same half. Before the revision, let’s bring the main methods together with numbers you can follow.
+## Fractions
+For 2 1/4 + 1 1/2, first give the fraction parts the same denominator: 1/2 = (1 × 2)/(2 × 2) = 2/4.
+Add the whole-number parts, 2 + 1 = 3, and the fraction parts, 1/4 + 2/4 = 3/4. So 2 1/4 + 1 1/2 = 3 3/4.
+For 4 1/3 − 2 1/6, change 1/3 to sixths: 1/3 = (1 × 2)/(3 × 2) = 2/6. Now subtract the whole-number parts, 4 − 2 = 2, and the fraction parts, 2/6 − 1/6 = 1/6.
+Thus 4 1/3 − 2 1/6 = 4 2/6 − 2 1/6 = 2 1/6.
+For multiplication, multiply the top numbers and multiply the bottom numbers. Here is an example:
+5/6 × 7/8 = (5 × 7)/(6 × 8) = 35/48.
+For division, keep the first fraction unchanged and multiply by the reciprocal of the second fraction. In 4/9 ÷ 2/3, keep 4/9 and turn 2/3 into 3/2:
+4/9 ÷ 2/3 = 4/9 × 3/2 = (2 × 1)/(3 × 1) = 2/3. Here we divided 4 and 2 by 2, and 3 and 9 by 3.
+[PanelizationEnd] END PANEL CH02-PAGE154-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 155

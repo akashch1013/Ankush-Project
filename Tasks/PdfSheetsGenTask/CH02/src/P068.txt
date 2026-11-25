@@ -1,0 +1,87 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE068
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.4
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.4
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.4; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE068-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.4; Practice 2D Question 2; Practice 2D Question 3
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2D Question 2
+[Question] Express the decimals as fractions in simplest form.
+[Question] (a)  0.55
+[Question] (b)  0.215
+[Question] (c)  7.22
+[Question] (d)  100.6
+[Question] (e)  0.032
+[Question] (f)  25.35
+Check your method
+[WorkedStep] (a) Use the last decimal place to choose the denominator: 0.55 = 55/100 = (55 ÷ 5)/(100 ÷ 5) = 11/20.
+[WorkedStep] (b) 0.215 = 215/1000 = (215 ÷ 5)/(1000 ÷ 5) = 43/200.
+[WorkedStep] (c) Keep the 7 wholes. For the fraction part, 22/100 = (22 ÷ 2)/(100 ÷ 2) = 11/50. So 7.22 = 7 11/50.
+[WorkedStep] (d) 100.6 = 100 + 6/10 = 100 + (6 ÷ 2)/(10 ÷ 2) = 100 3/5.
+[WorkedStep] (e) Count all 3 decimal places, including the zero: 0.032 = 32/1000 = (32 ÷ 8)/(1000 ÷ 8) = 4/125.
+[WorkedStep] (f) 25.35 = 25 + 35/100 = 25 + (35 ÷ 5)/(100 ÷ 5) = 25 7/20.
+Practice 2D Question 3
+[Question] Express the decimals as improper fractions.
+[Question] (a)  2.25
+[Question] (b)  5.13
+[Question] (c)  12.6
+[Question] (d)  1.86
+[Question] (e)  106.5
+[Question] (f)  2.88
+Check your method
+[WorkedStep] (a) This time we need improper fractions. Include the whole-number digits: 2.25 = 225/100 = (225 ÷ 25)/(100 ÷ 25) = 9/4.
+[WorkedStep] (b) 5.13 = 513/100. No whole number greater than 1 divides both 513 and 100 exactly, so the fraction is already in simplest form.
+[WorkedStep] (c) 12.6 = 126/10 = (126 ÷ 2)/(10 ÷ 2) = 63/5.
+[WorkedStep] (d) 1.86 = 186/100 = (186 ÷ 2)/(100 ÷ 2) = 93/50.
+[WorkedStep] (e) 106.5 = 1065/10 = (1065 ÷ 5)/(10 ÷ 5) = 213/2.
+[WorkedStep] (f) 2.88 = 288/100 = (288 ÷ 4)/(100 ÷ 4) = 72/25.
+[PanelizationEnd] END PANEL CH02-PAGE068-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE068-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.4; Practice 2D Question 4
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE068-PANEL02; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2D Question 4
+[Question] Joseph argues that since 105 > 20, then 7.105 > 7.20. Explain why his argument is incorrect and give a corrected argument.
+Check your method
+[WorkedStep] Joseph compared 105 with 20 as if both were whole numbers. But in 7.105, the decimal part is 105/1000; in 7.20, it is 20/100. Those are different fractions.
+[WorkedStep] Give both fraction parts denominator 1000: 20/100 = (20 × 10)/(100 × 10) = 200/1000.
+[WorkedStep] So 7.20 = 7.200. Now compare 7.105 and 7.200: both have 7 wholes, but 105 thousandths is less than 200 thousandths. Therefore 7.105 < 7.20.
+[WorkedStep] A shorter check uses the tenths digits: 7.105 has 1 tenth, while 7.200 has 2 tenths. That already tells us 7.105 is smaller.
+[PanelizationEnd] END PANEL CH02-PAGE068-PANEL02
+[ProductionLabel] END TEACHING BLOCK T2.4 — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 069

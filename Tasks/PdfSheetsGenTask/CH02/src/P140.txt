@@ -1,0 +1,40 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE140
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.9; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE140-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.9; Practice 2K Question 3
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE140-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Check your method
+[WorkedStep] Row 1: 1/5 = (1 × 2)/(5 × 2) = 2/10 = 0.2; then 0.2 × 100% = 20%.
+[WorkedStep] Row 2: 0.52 = 52/100 = (52 ÷ 4)/(100 ÷ 4) = 13/25; 0.52 × 100% = 52%.
+[WorkedStep] Row 3: 1/4 = (1 × 25)/(4 × 25) = 25/100 = 0.25. So 2 1/4 = 2 + 0.25 = 2.25; then 2.25 × 100% = 225%.
+[WorkedStep] Row 4: 3.51 = 351/100 = 3 51/100; 3.51 × 100% = 351%.
+[WorkedStep] Row 5: 28% = 28/100 = (28 ÷ 4)/(100 ÷ 4) = 7/25; 28 ÷ 100 = 0.28.
+[WorkedStep] Row 6: 159% = 159/100 = 1 59/100; 159 ÷ 100 = 1.59.
+[ProductionLabel] DO NOT PRINT — Figure reference: V38 | The following caption sentence is printable unchanged.
+[Caption] Three forms for each value.
+[ProductionNote] Production note V38 — Preserve six rows and original given cells:1/5,0.52,2 1/4,3.51,28%,159%, in that order. Show all exact completed forms. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+[PanelizationEnd] END PANEL CH02-PAGE140-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 141

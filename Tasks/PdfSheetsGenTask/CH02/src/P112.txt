@@ -1,0 +1,157 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE112
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 11B A; Visual beat CH02 11B B; Visual beat CH02 11B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 11B A; Visual beat CH02 11B B; Visual beat CH02 11B C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 11B A; Visual beat CH02 11B B; Visual beat CH02 11B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 11B A; Visual beat CH02 11B B; Visual beat CH02 11B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 11B A; Visual beat CH02 11B B; Visual beat CH02 11B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 11 A clear record of the changes
+[PaginationMetadata] Applies to: Visual beat CH02 11B A; Visual beat CH02 11B B; Visual beat CH02 11B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 11B; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing; first urn load has already been served
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 11B Record the completed transfer
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Close three-quarter view of the two dry records and reserve bottle, with right-counter pale edge and lamp bracket visible.
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Bottle record: initial 0.85 L, −0.25 L and −0.10 L, total change −0.35 L, remainder 0.50 L. Urn transfer record: +0.10 L, COMPLETE. The urn’s post-transfer 4 L is historical; its juice is now in the sixteen cups.
+[ProductionNote] Planning requirements. Keep a negative change separate from physical contents. The COMPLETE mark prevents a repeated transfer. Do not refill either vessel during this scene.
+[PanelizationHeading] PANEL CH02-PAGE112-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 11B A Total removed from the bottle
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; Scene CH02 11B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; Scene CH02 11B; view; assigned beat stage only
+[ProductionNote] View. Close three-quarter view of the two dry records and reserve bottle, with right-counter pale edge and lamp bracket visible.
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; Scene CH02 11B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; Scene CH02 11B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Bottle record: initial 0.85 L, −0.25 L and −0.10 L, total change −0.35 L, remainder 0.50 L. Urn transfer record: +0.10 L, COMPLETE. The urn’s post-transfer 4 L is historical; its juice is now in the sixteen cups.
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; Scene CH02 11B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Keep a negative change separate from physical contents. The COMPLETE mark prevents a repeated transfer. Do not refill either vessel during this scene.
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL01; Visual beat CH02 11B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11B A Total removed from the bottle
+[ProductionNote] Moment and staging. Navya writes −0.25 + (−0.10) = −0.35 L in the record with her right hand; her left holds the paper flat. The capped bottle’s 0.50 L level agrees with the recorded remainder. The food helper and Tara read from behind the dry edge. The staff stays in Tara’s right hand.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Navya writes −0.25 + (−0.10) = −0.35 L. The two withdrawals have reduced the bottle’s contents by 0.35 litre altogether. Starting from 0.85 litre, that leaves 0.50 litre, matching the bottle’s present level.
+[PanelizationEnd] END PANEL CH02-PAGE112-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE112-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 11B B Mark the urn transfer complete
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; Scene CH02 11B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; Scene CH02 11B; view; assigned beat stage only
+[ProductionNote] View. Close three-quarter view of the two dry records and reserve bottle, with right-counter pale edge and lamp bracket visible.
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; Scene CH02 11B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; Scene CH02 11B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Bottle record: initial 0.85 L, −0.25 L and −0.10 L, total change −0.35 L, remainder 0.50 L. Urn transfer record: +0.10 L, COMPLETE. The urn’s post-transfer 4 L is historical; its juice is now in the sixteen cups.
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; Scene CH02 11B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Keep a negative change separate from physical contents. The COMPLETE mark prevents a repeated transfer. Do not refill either vessel during this scene.
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL02; Visual beat CH02 11B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11B B Mark the urn transfer complete
+[ProductionNote] Moment and staging. Navya writes +0.10 L and COMPLETE on the urn’s transfer record, right hand writing and left holding this second sheet. The bottle record is finished beside it. The urn tap is closed; no pouring jug is in anyone’s hand.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] She records the new +0.10 L beside the urn and marks the transfer COMPLETE.
+[PanelizationEnd] END PANEL CH02-PAGE112-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE112-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 11B C Do not pour it twice
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; Scene CH02 11B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; Scene CH02 11B; view; assigned beat stage only
+[ProductionNote] View. Close three-quarter view of the two dry records and reserve bottle, with right-counter pale edge and lamp bracket visible.
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; Scene CH02 11B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; Scene CH02 11B; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Equal-capacity recipe jugs occupy the far counter; the large juice urn and the separate one-litre reserve bottle occupy the near wet end. The ingredient scale and records are at the dry end, away from the pour. The lamp above-left is fixed. Ahana’s portable lamp remains at the packing bench. No utensil, quantity or label is transferred between food and juice by implication. Bottle record: initial 0.85 L, −0.25 L and −0.10 L, total change −0.35 L, remainder 0.50 L. Urn transfer record: +0.10 L, COMPLETE. The urn’s post-transfer 4 L is historical; its juice is now in the sixteen cups.
+[PanelizationMetadata] SOURCE: Scene CH02 11B Record the completed transfer
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; Scene CH02 11B; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. Keep a negative change separate from physical contents. The COMPLETE mark prevents a repeated transfer. Do not refill either vessel during this scene.
+[PanelizationMetadata] SOURCE: Sequence 11 A clear record of the changes
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE112-PANEL03; Visual beat CH02 11B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 11B C Do not pour it twice
+[ProductionNote] Moment and staging. Retain the camera, background, record placement and character locations specified in Scene CH02 11B. Navya puts her pencil on the dry record, raises her now-free right palm gently towards the next assistant and looks at it. Her left stays clear beside the sheet. The caption after her line belongs to this same image; neither vessel shows a negative liquid amount.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth | Source speech attribution: she tells the next assistant.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] No need to pour it again.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The signs describe changes; neither container has a negative amount of juice.
+[PanelizationEnd] END PANEL CH02-PAGE112-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 113

@@ -1,0 +1,46 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE118
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7D
+[PaginationMetadata] Applies to: Teaching block T2.7D; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7D; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE118-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7D; Practice 2I; Practice 2I Question 1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7D
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12B Check the lower shelf load
+[PanelizationMetadata] APPLIES TO: CH02-PAGE118-PANEL01; Teaching block T2.7D; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2I
+Practice 2I Question 1
+[Question] Use a calculator. Give answers to 2 decimal places where necessary, keeping unrounded values until the final step.
+[Question] (a)  2.16 ÷ 6 − 0.04
+[Question] (b)  391.4 − 1.26 ÷ 3
+[Question] (c)  1.14 + 3.86 ÷ 6
+[Question] (d)  77.49 ÷ (2 + 3)
+[Question] (e)  4.68 × (8 ÷ 2) − 11.6
+[Question] (f)  (8.09 − 1.2456) + 2.17 ÷ 3
+Check your method
+[WorkedStep] (a)  2.16 ÷ 6 = 0.36; 0.36 − 0.04 = 0.32.
+[WorkedStep] (b)  1.26 ÷ 3 = 0.42; 391.40 − 0.42 = 390.98.
+[WorkedStep] (c)  3.86 ÷ 6 = 0.643333…; 1.14 + 0.643333… = 1.783333… ≈ 1.78.
+[WorkedStep] (d) Brackets first: 2 + 3 = 5. Then 77.49 ÷ 5 = 15.498. Keep 15.49; the next digit is 8, so round up to 15.50. Keep the zero for 2 decimal places.
+[WorkedStep] (e)  8 ÷ 2 = 4; 4.68 × 4 = 18.72; 18.72 − 11.60 = 7.12.
+[WorkedStep] (f)  8.09 − 1.2456 = 6.8444. Also 2.17 ÷ 3 = 0.723333… . Total = 7.567733… ≈ 7.57.
+[PanelizationEnd] END PANEL CH02-PAGE118-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 119

@@ -1,0 +1,144 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE094
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 10C A; Visual beat CH02 10C B; Visual beat CH02 10C C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 10C A; Visual beat CH02 10C B; Visual beat CH02 10C C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 10C A; Visual beat CH02 10C B; Visual beat CH02 10C C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 10C A; Visual beat CH02 10C B; Visual beat CH02 10C C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 10C A; Visual beat CH02 10C B; Visual beat CH02 10C C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 10 Measure, transfer and check
+[PaginationMetadata] Applies to: Visual beat CH02 10C A; Visual beat CH02 10C B; Visual beat CH02 10C C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10C; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10C; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 10C; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 10C Check the order and match the units
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the right counter, then a dry-end insert with the ingredient scale; keep the wet and dry areas distinct.
+[PanelizationHeading] PANEL CH02-PAGE094-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 10C A Recall the quarter-cup reasoning
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; Scene CH02 10C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; Scene CH02 10C; view; assigned beat stage only
+[ProductionNote] View. Medium at the right counter, then a dry-end insert with the ingredient scale; keep the wet and dry areas distinct.
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; Scene CH02 10C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; Scene CH02 10C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; Scene CH02 10C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 10 Measure, transfer and check
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL01; Visual beat CH02 10C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 10C A Recall the quarter-cup reasoning
+[ProductionNote] Moment and staging. Vihaan faces Ahana beside the empty carrier, right hand indicating its four-cup grouping and left hand resting empty on the clear rail. Ahana looks at him with encouragement. The urn’s 4 L is the current physical result.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth | Source speech attribution: Vihaan says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We found the order’s four litres with quarter-cups.
+[PanelizationEnd] END PANEL CH02-PAGE094-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE094-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 10C B A second way to check
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; Scene CH02 10C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; Scene CH02 10C; view; assigned beat stage only
+[ProductionNote] View. Medium at the right counter, then a dry-end insert with the ingredient scale; keep the wet and dry areas distinct.
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; Scene CH02 10C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; Scene CH02 10C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; Scene CH02 10C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 10 Measure, transfer and check
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationMetadata] SOURCE: Visual beat CH02 10C A Recall the quarter-cup reasoning
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL02; Visual beat CH02 10C B; retained framing, character locations and left hand only; Visual beat CH02 10C B current right gesture and gaze
+[ProductionNote] Moment and staging. Vihaan faces Ahana beside the empty carrier, right hand indicating its four-cup grouping and left hand resting empty on the clear rail. Ahana looks at him with encouragement. The urn’s 4 L is the current physical result.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 10C B A second way to check
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character positions specified in Visual beat CH02 10C A. Vihaan opens his right palm towards the order card and turns his gaze to Navya; his left hand stays on the rail. No cups fill during this question.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Can multiplying sixteen by 0.25 check it another way?
+[PanelizationEnd] END PANEL CH02-PAGE094-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE094-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 10C C A kilogram packet beside a gram scale
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; Scene CH02 10C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; Scene CH02 10C; view; assigned beat stage only
+[ProductionNote] View. Medium at the right counter, then a dry-end insert with the ingredient scale; keep the wet and dry areas distinct.
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; Scene CH02 10C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; Scene CH02 10C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; Scene CH02 10C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 10 Measure, transfer and check
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE094-PANEL03; Visual beat CH02 10C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 10C C A kilogram packet beside a gram scale
+[ProductionNote] Moment and staging. Cut to the dry end after the food helper has handed over the sealed 0.6 kg ingredient packet. Navya holds the packet upright in both hands beside the empty gram scale, keeping its label unobscured, and speaks while looking over its top. The food helper stands beside her with both hands withdrawn and empty. No 600 g result is written yet. The bottle and urn are outside this tight crop.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The food helper also brings a sealed refill packet marked 0.6 kg to the dry end of the counter. Its scale reads grams. Navya turns the packet towards the others.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We need this amount in grams before the next batch.
+[PanelizationEnd] END PANEL CH02-PAGE094-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 095

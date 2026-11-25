@@ -1,0 +1,83 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE141
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.9; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE141-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.9; Practice 2K Question 4; Practice 2K Question 5; Practice 2K Question 6
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2K Question 4
+[Question] In a Mathematics exam, 3/4 of the marks come from the Short-Answer Question Section and 1/4 from the Long-Answer Question Section. What percentage comes from each?
+[Question] (a)  Short-Answer Question Section
+[Question] (b)  Long-Answer Question Section
+Check your method
+[WorkedStep] (a) Short-Answer Question Section: 3/4 × 100% = 3 × (100 ÷ 4)% = 3 × 25% = 75%.
+[WorkedStep] (b) Long-Answer Question Section: 1/4 × 100% = (100 ÷ 4)% = 25%. Check: 75% + 25% = 100%, covering all the marks.
+Practice 2K Question 5
+[Question] A box contains red and blue balls. Of all the balls, 9/20 are red and 11/20 are blue. What percentage is each colour?
+[Question] (a)  Red
+[Question] (b)  Blue
+Check your method
+[WorkedStep] (a) Red balls: 9/20 × 100% = 9 × (100 ÷ 20)% = 9 × 5% = 45%.
+[WorkedStep] (b) Blue balls: 11/20 × 100% = 11 × (100 ÷ 20)% = 11 × 5% = 55%. Check: 45% + 55% = 100%.
+Practice 2K Question 6
+[Question] Ida spends 1/5 of her allowance on food and 1/4 on her phone bill. What percentage is spent on each?
+[Question] (a)  Food
+[Question] (b)  Phone bill
+Check your method
+[WorkedStep] (a)  1/5 × 100% = 20%.
+[WorkedStep] (b) Phone bill: 1/4 × 100% = 25%.
+[PanelizationEnd] END PANEL CH02-PAGE141-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE141-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.9; Practice 2K Question 7
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE141-PANEL02; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2K Question 7
+[Question] Saiful must arrange 13%, 1/8, 26%, 1/4, 0.32, 5/8 and 60% in ascending order.
+[Question] (a)  How would you advise him to approach the problem?
+[Question] (b)  Arrange the numbers in ascending order.
+Check your method
+[WorkedStep] (a) Write every value as a percentage so that we compare the same kind of number. Leave 13%, 26% and 60% unchanged. Convert the fractions and the decimal as shown below. Use the original forms when writing the final order.
+[WorkedStep] (b) 1/8 × 100% = (100 ÷ 8)% = 12.5%.
+[WorkedStep] 1/4 × 100% = (100 ÷ 4)% = 25%.
+[WorkedStep] 0.32 × 100% = 32%.
+[WorkedStep] 5/8 × 100% = 5 × (100 ÷ 8)% = 5 × 12.5% = 62.5%.
+[WorkedStep] Compare: 12.5% < 13% < 25% < 26% < 32% < 60% < 62.5%.
+[WorkedStep] Ascending order: 1/8, 13%, 1/4, 26%, 0.32, 60%, 5/8.
+[PanelizationEnd] END PANEL CH02-PAGE141-PANEL02
+[ProductionLabel] END TEACHING BLOCK T2.9 — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 142

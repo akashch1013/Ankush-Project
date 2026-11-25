@@ -1,0 +1,40 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE147
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE147-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Comparing Two Quantities by Percentage
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE147-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Comparing Two Quantities by Percentage
+Nurul and Linda each save $300 a month. Does that mean each saves the same percentage of her income? We need their incomes to answer that.
+Nurul earns $3000 a month; Linda earns $600. Compare Nurul’s $300 with her $3000, and Linda’s $300 with her $600.
+In the diagram, each full bar represents 100% of that person’s income. The bars have the same drawn length, but they represent different amounts of money: $3000 for Nurul and $600 for Linda. The shaded part of each bar represents the $300 saved.
+[ProductionLabel] DO NOT PRINT — Figure reference: V41 | The following caption sentence is printable unchanged.
+[Caption] Both save $300. Compare it with each person’s income.
+[ProductionNote] Production note V41 — Two equal-length percentage bars represent separate wholes, labelled Nurul income$3000 and Linda income$600. Shade10% and50% respectively, both labelled saving$300. Explicitly state same bar length represents100% of each separate income, not equal dollars. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Nurul: 300/3000 × 100% = 1/10 × 100% = 10%.
+Linda: 300/600 × 100% = 1/2 × 100% = 50%.
+Linda saves the larger percentage: 50% > 10%. The same $300 is half of Linda’s $600, but only one tenth of Nurul’s $3000. This compares their savings with their incomes; it does not tell us whose expenses make saving easier.
+[PanelizationEnd] END PANEL CH02-PAGE147-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 148

@@ -1,0 +1,83 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE099
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q09; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE099-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Example 25; Your turn after Example 25
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 25
+[Question] Calculate.
+[Question] (a)  6.8 × 10²
+[Question] (b)  561 × 10⁴
+[Question] (c)  127.4 ÷ 10³
+[Question] (d)  53 285 ÷ 10⁴
+Let’s work it through
+[WorkedStep] (a) 10² = 100, so multiply by 10 twice: 6.8 → 68 → 680. Therefore 6.8 × 10² = 680.
+[WorkedStep] (b) 10⁴ means four factors of 10. Multiply by 10 at each arrow: 561 → 5610 → 56 100 → 561 000 → 5 610 000. So 561 × 10⁴ = 5 610 000.
+[WorkedStep] (c) Since 10³ = 1000, divide by 10 three times: 127.4 ÷ 10 = 12.74; 12.74 ÷ 10 = 1.274; 1.274 ÷ 10 = 0.1274. So 127.4 ÷ 1000 = 0.1274.
+[WorkedStep] (d) Since 10⁴ = 10 000, divide by 10 four times: 53 285 → 5328.5 → 532.85 → 53.285 → 5.3285. Each arrow means ÷ 10. So 53 285 ÷ 10 000 = 5.3285.
+Your turn after Example 25
+[Question] Calculate.
+[Question] (a)  4.5 × 10³
+[Question] (b)  27 × 10²
+[Question] (c)  12.8 ÷ 10³
+[Question] (d)  8508 ÷ 10⁴
+Check your method
+[WorkedStep] (a)  4.5 × 1000 = 4500. Multiplication makes the value 1000 times as large.
+[WorkedStep] (b)  27 × 100 = 2700.
+[WorkedStep] (c)  12.8 ÷ 1000 = 0.0128. Check: 0.0128 × 1000 = 12.8.
+[WorkedStep] (d)  8508 ÷ 10 000 = 0.8508. Check: 0.8508 × 10 000 = 8508.
+[PanelizationEnd] END PANEL CH02-PAGE099-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE099-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q09
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL02; Companion inset CH02 Q09; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL02; Companion inset CH02 Q09; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL02; Companion inset CH02 Q09; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL02; Companion inset CH02 Q09; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL02; Companion inset CH02 Q09; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE099-PANEL02; Companion inset CH02 Q09; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q09
+[ProductionNote] Staging. Navya faces the reader at the dry ingredient-counter end, right palm open and left hand empty on the clear edge. The scale silhouette may appear with its display hidden; do not reveal or weigh the pending 600 g story packet.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] The unit belongs in the answer too.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE099-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 100

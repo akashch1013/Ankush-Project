@@ -1,0 +1,54 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE096
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE096-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Example 23; Your turn after Example 23
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE096-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+For 21.9 ÷ 3, we will share 21 wholes and 9 tenths among 3 equal groups. Keeping the whole and decimal parts visible makes this division easier to follow.
+Example 23
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  21.9 ÷ 3
+[Question] (b)  50.8 ÷ 20
+Let’s work it through
+[WorkedStep] (a)  Choose a nearby multiple of 3: 21 ÷ 3 = 7 is a useful estimate.
+[WorkedStep] Share the 21 wholes: 21 ÷ 3 = 7 wholes per group.
+[WorkedStep] Share the 9 tenths: 9 ÷ 3 = 3 tenths per group, or 0.3.
+[WorkedStep] Add the two parts of each share: 7 + 0.3 = 7.3. So 21.9 ÷ 3 = 7.3. Check: 7.3 × 3 = 21.9.
+[WorkedStep] (b)  Estimate: 50 ÷ 20 = 2.5.
+[WorkedStep] Since 20 = 10 × 2, we can divide by 10, then by 2: 50.8 ÷ 20 = (50.8 ÷ 10) ÷ 2.
+[WorkedStep] First 50.8 ÷ 10 = 5.08. Now divide 5.08 by 2.
+[WorkedStep] The 5 ones give 2 ones to each share, leaving 5 − 4 = 1 one. Change that remaining one to 10 tenths. Since 5.08 has 0 tenths, there are 10 tenths to share: 10 ÷ 2 = 5 tenths per share.
+[WorkedStep] Finally, share the 8 hundredths: 8 ÷ 2 = 4 hundredths per share.
+[WorkedStep] Each share is 2 + 0.5 + 0.04 = 2.54. Therefore 50.8 ÷ 20 = 2.54. Check: 2.54 × 20 = 50.8.
+Your turn after Example 23
+[Question] Estimate without a calculator. Then evaluate.
+[Question] (a)  30.2 ÷ 2
+[Question] (b)  108.6 ÷ 60
+Check your method
+[WorkedStep] (a) Estimate: 30 ÷ 2 = 15. Share the whole and fraction parts: 30 ÷ 2 = 15 and 0.2 ÷ 2 = 0.1. So 30.2 ÷ 2 = 15 + 0.1 = 15.1.
+[WorkedStep] (b) Estimate 108.6 ÷ 60 with 108 ÷ 60 = 1.8. Since 60 = 6 × 10, divide by 6, then by 10.
+[WorkedStep] 108.6 ÷ 6 = 18.1, because 108 ÷ 6 = 18 and 0.6 ÷ 6 = 0.1. Then 18.1 ÷ 10 = 1.81. Check: 1.81 × 60 = 108.6.
+[PanelizationEnd] END PANEL CH02-PAGE096-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 097

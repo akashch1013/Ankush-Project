@@ -1,0 +1,68 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE028
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.2; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.2; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 04A Combine the wrap filling
+[PaginationMetadata] Applies to: Teaching block T2.2; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 04A Combine the wrap filling
+[PaginationMetadata] Applies to: Teaching block T2.2; paused story equipment and props only; no scenic background required for main teaching
+[ProductionNote] Planning requirements. Keep the total 4¼ kg off the bowl and out of the setup until T2.2 is complete.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.2
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE028-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.2; 2.2 Addition of Mixed Numbers
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 04A Combine the wrap filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 04A Combine the wrap filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL01; Teaching block T2.2; paused story state only; main teaching has no scenic background
+[ProductionNote] Planning requirements. Keep the total 4¼ kg off the bowl and out of the setup until T2.2 is complete.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.2 Addition of Mixed Numbers
+So far, we have compared fractions. Now let’s add them. Start with 1/6 + 2/6.
+Each full rectangle in the next picture represents 1 whole, cut into 6 equal parts. One blue part shows 1/6. Two gold parts show 2/6.
+Put the coloured parts together. We have 1 + 2 = 3 parts, and each part is still one sixth, 1/6, of the whole. So the total is 3/6.
+[ProductionLabel] DO NOT PRINT — Figure reference: V06a-R | The following caption sentence is printable unchanged.
+[Caption] Count equal pieces to get 3/6.
+[ProductionNote] Production note V06a-R — Two starting bars each represent the same whole and show 1/6 and 2/6. The second state uses exactly 6 equal parts and shows 1 + 2 pieces. Blue is the first amount, gold added pieces; red crosses indicate removed pieces. Result 3/6. Every reference whole has identical width in both stages. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+1/6 + 2/6 = (1 + 2)/6 = 3/6. Three of six equal pieces cover half the whole. In symbols, 3/6 = (3 ÷ 3)/(6 ÷ 3) = 1/2.
+[PanelizationEnd] END PANEL CH02-PAGE028-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE028-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.2; 2.2 Addition of Mixed Numbers
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.2
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 04A Combine the wrap filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 04A Combine the wrap filling
+[PanelizationMetadata] APPLIES TO: CH02-PAGE028-PANEL02; Teaching block T2.2; paused story state only; main teaching has no scenic background
+[ProductionNote] Planning requirements. Keep the total 4¼ kg off the bowl and out of the setup until T2.2 is complete.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Now try 5/12 − 1/12. Each full rectangle in this picture is cut into 12 equal parts. Start with the 5 blue parts, 5/12. Cross out 1 part, 1/12. There are 5 − 1 = 4 parts left, so the answer is 4/12.
+[ProductionLabel] DO NOT PRINT — Figure reference: V06b-R | The following caption sentence is printable unchanged.
+[Caption] Count equal pieces to get 4/12.
+[ProductionNote] Production note V06b-R — Two starting bars each represent the same whole and show 5/12 and 1/12. The second state uses exactly 12 equal parts and shows 5 − 1 pieces. Blue is the first amount, gold added pieces; red crosses indicate removed pieces. Result 4/12. Every reference whole has identical width in both stages. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+5/12 − 1/12 = (5 - 1)/12 = 4/12 = (4 ÷ 4)/(12 ÷ 4) = 1/3.
+[PanelizationEnd] END PANEL CH02-PAGE028-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 029

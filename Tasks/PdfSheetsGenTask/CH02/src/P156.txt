@@ -1,0 +1,47 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE156
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block R02
+[PaginationMetadata] Applies to: Teaching block R02; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block R02; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE156-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block R02; Chapter 2 Revision; Revision Question 1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block R02
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 13A Check the completed order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE156-PANEL01; Teaching block R02; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+# Chapter 2 Revision
+Try each question before reading its worked answer. If you get stuck, ask what you need to do: compare numbers, add amounts, change their form or find a percentage. Then choose the method that fits.
+Revision Question 1
+[Question] Circle the greater fraction in each pair.
+[Question] (a)  5/4, 7/6
+[Question] (b)  6/5, 13/10
+[Question] (c)  8/7, 27/20
+[Question] (d)  12/13, 20/17
+Check your method
+[WorkedStep] (a)  Use denominator 12 for both fractions: 5/4 = (5 × 3)/(4 × 3) = 15/12, 7/6 = (7 × 2)/(6 × 2) = 14/12.
+[WorkedStep] Since 15/12 > 14/12, circle 5/4, the greater fraction.
+[WorkedStep] (b)  Use denominator 10 for both fractions: 6/5 = (6 × 2)/(5 × 2) = 12/10.
+[WorkedStep] Since 12/10 < 13/10, circle 13/10, the greater fraction.
+[WorkedStep] (c) Use denominator 140: 8/7 = (8 × 20)/(7 × 20) = 160/140, 27/20 = (27 × 7)/(20 × 7) = 189/140.
+[WorkedStep] Since 160/140 < 189/140, circle 27/20, the greater fraction.
+[WorkedStep] (d) Compare each fraction with 1. Since 12 < 13, 12/13 < 1. Since 20 > 17, 20/17 > 1.
+[WorkedStep] So 12/13 < 1 < 20/17. Circle 20/17. No common denominator is needed here.
+[PanelizationEnd] END PANEL CH02-PAGE156-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 157

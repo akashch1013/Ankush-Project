@@ -1,0 +1,124 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE011
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 03B A; Visual beat CH02 03B B; Visual beat CH02 03B C; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 03B A; Visual beat CH02 03B B; Visual beat CH02 03B C; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 03B A; Visual beat CH02 03B B; Visual beat CH02 03B C; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 03B A; Visual beat CH02 03B B; Visual beat CH02 03B C; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 03B A; Visual beat CH02 03B B; Visual beat CH02 03B C; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 03 Check the stock
+[PaginationMetadata] Applies to: Visual beat CH02 03B A; Visual beat CH02 03B B; Visual beat CH02 03B C; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 03B Two cards for the batter tray
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. High three-quarter view of the dry recipe counter, original book on the left of one batter tray and both loose cards beside that same tray. The pale front edge and brass tank base anchor the crop.
+[PanelizationHeading] PANEL CH02-PAGE011-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 03B A The conflicting records
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; Scene CH02 03B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; Scene CH02 03B; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the dry recipe counter, original book on the left of one batter tray and both loose cards beside that same tray. The pale front edge and brass tank base anchor the crop.
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; Scene CH02 03B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; Scene CH02 03B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; Scene CH02 03B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL01; Visual beat CH02 03B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03B A The conflicting records
+[ProductionNote] Moment and staging. The helper sets the single batter tray beside the open book with both hands. Both loose cards lie separately against the tray’s brass clip. Ahana, Vihaan and Navya look down; Tara stays at the accessible end. Render the exact three given amounts clearly.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The helper then places a batter tray beside its original book. The entry reads 1¾ kilograms. Two loose cards for the same tray read 7/4 kilograms and 5/4 kilograms.
+[PanelizationEnd] END PANEL CH02-PAGE011-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE011-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 03B B Both cannot be true
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; Scene CH02 03B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; Scene CH02 03B; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the dry recipe counter, original book on the left of one batter tray and both loose cards beside that same tray. The pale front edge and brass tank base anchor the crop.
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; Scene CH02 03B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; Scene CH02 03B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; Scene CH02 03B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL02; Visual beat CH02 03B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03B B Both cannot be true
+[ProductionNote] Moment and staging. Medium of Vihaan at the book side, retaining the counter background and object placement specified in Scene CH02 03B. He points with his right index finger between the two cards; his empty left hand rests on the clear front edge away from lettering. He looks towards Tara.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth | Source speech attribution: Vihaan says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] They cannot both describe this tray.
+[PanelizationEnd] END PANEL CH02-PAGE011-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE011-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 03B C Check the book and the balance
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; Scene CH02 03B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; Scene CH02 03B; view; assigned beat stage only
+[ProductionNote] View. High three-quarter view of the dry recipe counter, original book on the left of one batter tray and both loose cards beside that same tray. The pale front edge and brass tank base anchor the crop.
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; Scene CH02 03B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; Scene CH02 03B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; Scene CH02 03B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 03B B Both cannot be true
+[PanelizationMetadata] APPLIES TO: CH02-PAGE011-PANEL03; Visual beat CH02 03B C; retained camera and standing position only
+[ProductionNote] Moment and staging. Medium of Vihaan at the book side, retaining the counter background and object placement specified in Scene CH02 03B.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03B C Check the book and the balance
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera and character positions specified in Visual beat CH02 03B B, and the book, tray and card placement specified in Scene CH02 03B. Vihaan opens his right palm towards the unused balance and turns his gaze to the helper. His left hand remains empty on the clear edge. No solution is visible.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Which card matches the book? We can use the balance to check.
+[PanelizationEnd] END PANEL CH02-PAGE011-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 012

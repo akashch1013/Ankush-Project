@@ -1,0 +1,40 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE083
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE083-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Your turn after Example 18
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE083-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+The sign √ means “square root”. For √9, ask, “Which non-negative number multiplied by itself gives 9?” Since 3 × 3 = 9, we have √9 = 3.
+The sign ∛ means “cube root”. For ∛8, ask, “Which number times itself times itself gives 8?” Since 2 × 2 × 2 = 8, we have ∛8 = 2. The small 3 belongs to the root sign; it is not a number to multiply by.
+Some roots, such as √2, have long decimal values. A scientific calculator can find them. Pi, written π, is another number with a long decimal: π = 3.14159… . Use the calculator’s π key so you keep more digits than you would by typing 3.14.
+[ProductionLabel] DO NOT PRINT — Figure reference: V26 | The following caption sentence is printable unchanged.
+[Caption] Read enough digits to decide the rounding. Keep the full value until the last step.
+[ProductionNote] Production note V26 — Show recognisable generic calculator with display and labelled square-root, cube-root, pi, square, sign-change and bracket functions. Adjacent example display √2 =1.414213562… with third decimal digit kept and fourth inspected. Key locations illustrative, not model-specific instructions. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+To find √2, clear the previous calculation, choose the square-root function and enter 2. Before pressing equals, check that the screen shows √2. The result begins 1.414213… . The picture shows which digits to keep for 3 decimal places.
+For a cube root such as ∛9, choose the cube-root function and enter 9. If your calculator uses a root template, put 3 in the small index position. Check that the display shows ∛9. The order of key presses can differ between calculators, so check the expression on the screen.
+The small 2 in π² means π × π. Use the π key and the square function; do not first replace π with 3.14.
+We can check a root’s size without all its decimal digits. Since 1 × 1 = 1 and 2 × 2 = 4, and 1 < 2 < 4, the number √2 must lie between 1 and 2.
+[PanelizationEnd] END PANEL CH02-PAGE083-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 084

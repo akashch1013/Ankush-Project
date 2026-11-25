@@ -1,0 +1,115 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE174
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 15A A; Visual beat CH02 15B A; Visual beat CH02 15B B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 15A A; Visual beat CH02 15B A; Visual beat CH02 15B B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 15A A; Visual beat CH02 15B A; Visual beat CH02 15B B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 15A A; Visual beat CH02 15B A; Visual beat CH02 15B B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 15A; Scene CH02 15B; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SequenceHeading] Sequence 15 An old photograph and a new problem
+[ProductionLabel] Production sequence reference CH02-15. Non-printing background and continuity.
+[ProductionNote] Background — Location CH02 L04. Outside the Old Blue Gate, two weathered blue timber leaves stand between pale-stone piers, with brass ribs, moon-shaped openings and one round full-moon ornament above. Seen from the lane, the small service doorway is in the left leaf, the bench is right and the planter is left.
+[ProductionNote] Background — Location CH02 L07. Beyond Food Street’s far shutters is a broad rehearsal yard: empty moving loop central, roped pedestrian lane on physical left towards Moon Square’s counting arch, elephant work area and temporary supports on physical right, costume bench outside the loop beside the lane.
+[SceneHeading] Scene CH02 15A A blue-lidded box
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the dry recipe-counter end, with the original book, blue wall and cupboard front as anchors.
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The broad helper is back from the Gate and now clears dry recipe-counter objects. It has left the delivery trolley with the assistants. A blue-lidded box sits at the dry end, black dust beside it and a V scratched through its paint. Cooking continues separately.
+[ProductionNote] Planning requirements. No photo is visible until the box is opened. Dust remains unexplained. The portable lamp stays at the packing bench until the transition to the far shutters.
+[PanelizationHeading] PANEL CH02-PAGE174-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 15A A Tez notices the mark
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15A A blue-lidded box
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; Scene CH02 15A; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15A A blue-lidded box
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; Scene CH02 15A; view; assigned beat stage only
+[ProductionNote] View. Medium at the dry recipe-counter end, with the original book, blue wall and cupboard front as anchors.
+[PanelizationMetadata] SOURCE: Scene CH02 15A A blue-lidded box
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; Scene CH02 15A; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15A A blue-lidded box
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; Scene CH02 15A; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. The original book, balance and fractional weights occupy the cool dry counter; batter and wrap filling are separate foods in separate vessels. The cooking plate is behind the counter. Ahana’s lamp rests on the near packing bench; her sketchbook is packed. Tara’s evidence sleeve is secured in her sash pocket. No character reaches over the hot plate. The broad helper is back from the Gate and now clears dry recipe-counter objects. It has left the delivery trolley with the assistants. A blue-lidded box sits at the dry end, black dust beside it and a V scratched through its paint. Cooking continues separately.
+[PanelizationMetadata] SOURCE: Scene CH02 15A A blue-lidded box
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; Scene CH02 15A; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. No photo is visible until the box is opened. Dust remains unexplained. The portable lamp stays at the packing bench until the transition to the far shutters.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL01; Visual beat CH02 15A A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15A A Tez notices the mark
+[ProductionNote] Moment and staging. The broad helper moves an empty dry bowl aside with both hands, exposing the blue-lidded box without opening it. Tez stands on four paws beside the counter and looks up at the black dust and scratched V, ears alert. Ahana follows his gaze; Tara turns towards the box. No one touches the hot cooking surface.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] While the broad helper clears the recipe counter, Tez notices black dust beside a blue-lidded box. A V has been scratched through the paint.
+[PanelizationEnd] END PANEL CH02-PAGE174-PANEL01
+[SceneHeading] Scene CH02 15B The damaged photograph
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE174-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 15B A Open the box
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; Scene CH02 15B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; Scene CH02 15B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; Scene CH02 15B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; Scene CH02 15B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; Scene CH02 15B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL02; Visual beat CH02 15B A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15B A Open the box
+[ProductionNote] Moment and staging. Silent action. Tara places her right hand on the lid and steadies the box with her left, opening it on the dry counter. Her staff is visibly supported against the blue wall as specified in Scene CH02 15B. The children lean only slightly closer from the cool side.
+[ProductionLabel] Silent visual beat: no printable text.
+[PanelizationEnd] END PANEL CH02-PAGE174-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE174-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 15B B Three children and one lost face
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; Scene CH02 15B; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; Scene CH02 15B; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; Scene CH02 15B; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; Scene CH02 15B; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15B The damaged photograph
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; Scene CH02 15B; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE174-PANEL03; Visual beat CH02 15B B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15B B Three children and one lost face
+[ProductionNote] Moment and staging. Exact close insert of the old recipe record and photograph inside the box. The photograph contains Tara and exactly three children; one boy’s facial area is scratched out and the name Veer remains visible beneath him. Tara’s left fingertips hold the box edge, right hand holding the open lid. Do not lift the photograph out or add a flashback event.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Inside are an old recipe record and a photograph. Tara stands beside three children in it. One boy’s face has been scratched away. His name is still visible: Veer.
+[PanelizationEnd] END PANEL CH02-PAGE174-PANEL03
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 175

@@ -1,0 +1,50 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE145
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.10
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE145-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; Example 38; Your turn after Example 38
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE145-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[WorkedStep] For a group of equal items, we can also find one item’s percentage first. Let’s compare that route with the fraction method.
+Example 38
+[Question] In a class of 25 students, 10 wear spectacles. Find each percentage using two methods, and compare the methods.
+[Question] (a)  Students who wear spectacles
+[Question] (b)  Students who do not wear spectacles
+Let’s work it through
+[WorkedStep] (a)  Method 1 uses a fraction of the class. Ten of the 25 students wear spectacles, so 10/25 × 100% = 10 × (100 ÷ 25)% = 10 × 4% = 40%.
+[WorkedStep] Method 2 finds one student's share first. All 25 students represent 100%. Divide equally: 100% ÷ 25 = 4% per student. Then 10 students represent 10 × 4% = 40%.
+[WorkedStep] (b) Method 1: first count the students without spectacles. There are 25 − 10 = 15. Their percentage is 15/25 × 100% = 15 × (100 ÷ 25)% = 15 × 4% = 60%.
+[WorkedStep] Method 2: the whole class is 100%, and 40% wear spectacles. So the percentage without spectacles is 100% − 40% = 60%. This is shorter once we know 40%.
+[WorkedStep] Both methods give 60%. Check: 40% + 60% = 100%, so the two groups include all 25 students.
+Your turn after Example 38
+[Question] In a class of 40 students, 28 belong to the swimming team. Find each percentage using two methods.
+[Question] (a)  Students in the swimming team
+[Question] (b)  Students not in the swimming team
+Check your method
+[WorkedStep] (a) Method 1: compare the 28 team members with all 40 students: 28/40 × 100% = 2800/40% = 70%.
+[WorkedStep] Method 2: 1 student represents 100% ÷ 40 = 2.5%. So 28 students represent 28 × 2.5% = 70%.
+[WorkedStep] (b) Method 1: 40 − 28 = 12 students are not in the team. Their percentage is 12/40 × 100% = 1200/40% = 30%.
+[WorkedStep] Method 2: subtract the team’s percentage from 100%: 100% − 70% = 30%. Check: 70% + 30% = 100%.
+[PanelizationEnd] END PANEL CH02-PAGE145-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 146

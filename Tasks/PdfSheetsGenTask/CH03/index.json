@@ -1,0 +1,969 @@
+{
+ "P001": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01"
+  ],
+  "sha": "6c66dac599",
+  "characters": [
+   "Ahana",
+   "Tara",
+   "Tez"
+  ]
+ },
+ "P002": {
+  "panels": 0,
+  "speakers": [
+   "Tara"
+  ],
+  "locations": [
+   "CH03 L01"
+  ],
+  "sha": "7d93540fd7",
+  "characters": [
+   "Ahana",
+   "Tara",
+   "Tez"
+  ]
+ },
+ "P003": {
+  "panels": 0,
+  "speakers": [
+   "Tez"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "9df6fcbbf8",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P004": {
+  "panels": 0,
+  "speakers": [
+   "Navya"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "3ca46bbcaf",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P005": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "0ab2bf3135",
+  "characters": []
+ },
+ "P006": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "08224cd683",
+  "characters": []
+ },
+ "P007": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "f1939db606",
+  "characters": []
+ },
+ "P008": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "31a1152b3b",
+  "characters": []
+ },
+ "P009": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "10e66bbcda",
+  "characters": []
+ },
+ "P010": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "1438e449ba",
+  "characters": []
+ },
+ "P011": {
+  "panels": 0,
+  "speakers": [
+   "Navya"
+  ],
+  "locations": [
+   "CH03 L02",
+   "CH03 L01"
+  ],
+  "sha": "8e68b175e3",
+  "characters": [
+   "Navya"
+  ]
+ },
+ "P012": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "cd3903889d",
+  "characters": []
+ },
+ "P013": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "e8012587a7",
+  "characters": []
+ },
+ "P014": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "aaa79fc303",
+  "characters": []
+ },
+ "P015": {
+  "panels": 0,
+  "speakers": [
+   "Ahana"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "e86a598db3",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P016": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "5767cf207b",
+  "characters": []
+ },
+ "P017": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "a39098f389",
+  "characters": []
+ },
+ "P018": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "7976c2b7a3",
+  "characters": []
+ },
+ "P019": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "d3f7c5ea50",
+  "characters": []
+ },
+ "P020": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "62326f0de6",
+  "characters": []
+ },
+ "P021": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "aff4369579",
+  "characters": []
+ },
+ "P022": {
+  "panels": 0,
+  "speakers": [
+   "Tez"
+  ],
+  "locations": [
+   "CH03 L02",
+   "CH03 L01"
+  ],
+  "sha": "67acfd1c33",
+  "characters": [
+   "Tez"
+  ]
+ },
+ "P023": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "e5ed5fd938",
+  "characters": []
+ },
+ "P024": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "173f39ee53",
+  "characters": []
+ },
+ "P025": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "91c1dc4b80",
+  "characters": []
+ },
+ "P026": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "6c60e5e132",
+  "characters": []
+ },
+ "P027": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "c36f9f1883",
+  "characters": []
+ },
+ "P028": {
+  "panels": 0,
+  "speakers": [
+   "Ahana"
+  ],
+  "locations": [
+   "CH03 L02",
+   "CH03 L01"
+  ],
+  "sha": "47ab428757",
+  "characters": [
+   "Ahana"
+  ]
+ },
+ "P029": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "cf64abc133",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P030": {
+  "panels": 0,
+  "speakers": [
+   "Tez"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "94645b1ed4",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P031": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L05",
+   "CH03 L02"
+  ],
+  "sha": "e2f4fd4c6a",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P032": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "193159d128",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Tara",
+   "Tez"
+  ]
+ },
+ "P033": {
+  "panels": 0,
+  "speakers": [
+   "Ahana"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "fd64d52bc1",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P034": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L02"
+  ],
+  "sha": "3a52e39cd7",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Tara",
+   "Veer"
+  ]
+ },
+ "P035": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "3026d6013c",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Tara",
+   "Tez"
+  ]
+ },
+ "P036": {
+  "panels": 0,
+  "speakers": [
+   "Ira"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "5f023d84e9",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P037": {
+  "panels": 0,
+  "speakers": [
+   "Navya",
+   "Tara",
+   "Vihaan"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "d7b6dab449",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P038": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "d8afe6d75a",
+  "characters": []
+ },
+ "P039": {
+  "panels": 0,
+  "speakers": [
+   "Vihaan"
+  ],
+  "locations": [
+   "CH03 L03",
+   "CH03 L01"
+  ],
+  "sha": "3b01113825",
+  "characters": [
+   "Vihaan"
+  ]
+ },
+ "P040": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "d0c3da84a6",
+  "characters": [
+   "Navya",
+   "Tara",
+   "Vihaan"
+  ]
+ },
+ "P041": {
+  "panels": 0,
+  "speakers": [
+   "Ahana"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "4fe64a506c",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Tara"
+  ]
+ },
+ "P042": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "7df35150be",
+  "characters": []
+ },
+ "P043": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "dec0775a5d",
+  "characters": []
+ },
+ "P044": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "ec9d42e820",
+  "characters": []
+ },
+ "P045": {
+  "panels": 0,
+  "speakers": [
+   "Tez"
+  ],
+  "locations": [
+   "CH03 L03",
+   "CH03 L01"
+  ],
+  "sha": "d1cfd32f61",
+  "characters": [
+   "Tez"
+  ]
+ },
+ "P046": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "5c5b15f786",
+  "characters": []
+ },
+ "P047": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "22567722d2",
+  "characters": []
+ },
+ "P048": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "21d559292a",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara"
+  ]
+ },
+ "P049": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "59a3760458",
+  "characters": []
+ },
+ "P050": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "fe2bb32fc9",
+  "characters": []
+ },
+ "P051": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "164788429e",
+  "characters": []
+ },
+ "P052": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "96556e3e6f",
+  "characters": []
+ },
+ "P053": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "b7f1aa2877",
+  "characters": []
+ },
+ "P054": {
+  "panels": 0,
+  "speakers": [
+   "Navya"
+  ],
+  "locations": [
+   "CH03 L03",
+   "CH03 L01"
+  ],
+  "sha": "ea690a0bcb",
+  "characters": [
+   "Navya"
+  ]
+ },
+ "P055": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [],
+  "sha": "1cb607a564",
+  "characters": []
+ },
+ "P056": {
+  "panels": 0,
+  "speakers": [
+   "Vihaan"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "9967ac5375",
+  "characters": [
+   "Ira",
+   "Tara",
+   "Vihaan"
+  ]
+ },
+ "P057": {
+  "panels": 0,
+  "speakers": [
+   "Tara",
+   "Veer"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "36fb3d1218",
+  "characters": [
+   "Ahana",
+   "Tara",
+   "Tez",
+   "Veer"
+  ]
+ },
+ "P058": {
+  "panels": 0,
+  "speakers": [
+   "Ahana",
+   "Tara",
+   "Veer"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "c7d1cf53ae",
+  "characters": [
+   "Ahana",
+   "Tara",
+   "Tez",
+   "Veer"
+  ]
+ },
+ "P059": {
+  "panels": 0,
+  "speakers": [
+   "Tara",
+   "Veer"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "7f3c302c8a",
+  "characters": [
+   "Ahana",
+   "Tara",
+   "Tez",
+   "Veer"
+  ]
+ },
+ "P060": {
+  "panels": 0,
+  "speakers": [
+   "Navya",
+   "Veer"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "a0280bb413",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P061": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "5840ec3101",
+  "characters": [
+   "Tara",
+   "Veer"
+  ]
+ },
+ "P062": {
+  "panels": 0,
+  "speakers": [
+   "Tara"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "6f70472637",
+  "characters": [
+   "Tara",
+   "Veer"
+  ]
+ },
+ "P063": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "d223918e5e",
+  "characters": [
+   "Ahana",
+   "Tara",
+   "Veer"
+  ]
+ },
+ "P064": {
+  "panels": 0,
+  "speakers": [
+   "Ahana"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "f8c9632bf4",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P065": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L04"
+  ],
+  "sha": "60042b58bb",
+  "characters": [
+   "Tara",
+   "Veer"
+  ]
+ },
+ "P066": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "d7de92657c",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P067": {
+  "panels": 0,
+  "speakers": [
+   "Ahana",
+   "Tez"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "3abd91afa9",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P068": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L05"
+  ],
+  "sha": "499e5ce8ca",
+  "characters": [
+   "Navya",
+   "Tara",
+   "Veer"
+  ]
+ },
+ "P069": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "a241e937c8",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P070": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L01",
+   "CH03 L03"
+  ],
+  "sha": "fd2716b5fe",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Tara",
+   "Tez",
+   "Veer"
+  ]
+ },
+ "P071": {
+  "panels": 0,
+  "speakers": [
+   "Navya"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L05"
+  ],
+  "sha": "09c9bde64f",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P072": {
+  "panels": 0,
+  "speakers": [
+   "Ahana",
+   "Veer"
+  ],
+  "locations": [
+   "CH03 L01",
+   "CH03 L05"
+  ],
+  "sha": "971e2b0457",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P073": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L05",
+   "CH03 L01"
+  ],
+  "sha": "9dfd1c7544",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P074": {
+  "panels": 0,
+  "speakers": [
+   "Navya",
+   "Tara"
+  ],
+  "locations": [
+   "CH03 L05",
+   "CH03 L01"
+  ],
+  "sha": "b4b96dad96",
+  "characters": [
+   "Ahana",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P075": {
+  "panels": 0,
+  "speakers": [
+   "Tara",
+   "Vihaan"
+  ],
+  "locations": [
+   "CH03 L05",
+   "CH03 L01"
+  ],
+  "sha": "6918eb1bc7",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Veer",
+   "Vihaan"
+  ]
+ },
+ "P076": {
+  "panels": 0,
+  "speakers": [],
+  "locations": [
+   "CH03 L06"
+  ],
+  "sha": "e3838cd488",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ },
+ "P077": {
+  "panels": 0,
+  "speakers": [
+   "Ira",
+   "Navya"
+  ],
+  "locations": [
+   "CH03 L06"
+  ],
+  "sha": "d1e08990c9",
+  "characters": [
+   "Ahana",
+   "Ira",
+   "Navya",
+   "Tara",
+   "Tez",
+   "Vihaan"
+  ]
+ }
+}

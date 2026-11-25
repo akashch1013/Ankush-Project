@@ -1,0 +1,54 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE020
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.1
+[PaginationMetadata] Applies to: Teaching block T2.1; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.1; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE020-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.1; Practice 2A; Practice 2A Question 1
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.1
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 03B Two cards for the batter tray
+[PanelizationMetadata] APPLIES TO: CH02-PAGE020-PANEL01; Teaching block T2.1; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+## Practice 2A
+Try each question before checking its solution. When a question asks you to explain, give your reason as well as your answer.
+We used the direct method after Example 1: 7/6 = (7 × 3)/(6 × 3) = 21/18. Let’s use the same idea below: make the denominators match, then compare the top numbers.
+Practice 2A Question 1
+[Question] Circle the greater fraction in each pair.
+[Question] (a)  11/7, 33/28
+[Question] (b)  11/9, 29/18
+[Question] (c)  27/10, 37/15
+[Question] (d)  9/2, 14/3
+[Question] (e)  19/10, 15/8
+[Question] (f)  19/12, 31/15
+Check your method
+[WorkedStep] (a)  Use denominator 28 for both fractions: 11/7 = (11 × 4)/(7 × 4) = 44/28.
+[WorkedStep] Since 44/28 > 33/28, circle 11/7, the greater fraction.
+[WorkedStep] (b)  Use denominator 18 for both fractions: 11/9 = (11 × 2)/(9 × 2) = 22/18.
+[WorkedStep] Since 22/18 < 29/18, circle 29/18, the greater fraction.
+[WorkedStep] (c)  Use denominator 30 for both fractions: 27/10 = (27 × 3)/(10 × 3) = 81/30, 37/15 = (37 × 2)/(15 × 2) = 74/30.
+[WorkedStep] Since 81/30 > 74/30, circle 27/10, the greater fraction.
+[WorkedStep] (d)  Use denominator 6 for both fractions: 9/2 = (9 × 3)/(2 × 3) = 27/6, 14/3 = (14 × 2)/(3 × 2) = 28/6.
+[WorkedStep] Since 27/6 < 28/6, circle 14/3, the greater fraction.
+[WorkedStep] (e)  Use denominator 40 for both fractions: 19/10 = (19 × 4)/(10 × 4) = 76/40, 15/8 = (15 × 5)/(8 × 5) = 75/40.
+[WorkedStep] Since 76/40 > 75/40, circle 19/10, the greater fraction.
+[WorkedStep] (f) Compare with 2 first: 19/12 = 1 7/12 < 2, while 31/15 = 2 1/15 > 2.
+[WorkedStep] So circle 31/15, the greater fraction.
+[PanelizationEnd] END PANEL CH02-PAGE020-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 021

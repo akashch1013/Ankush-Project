@@ -1,0 +1,71 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE062
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.4; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.4; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PaginationMetadata] Applies to: Teaching block T2.4; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PaginationMetadata] Applies to: Teaching block T2.4; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.4
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE062-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.4; 2.4 Fractions and Decimals
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL01; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] FRIENDLY TEACHER BRIDGE — PRINT ONLY THIS
+[TeacherBridge] The recipe speaks in fractions; the jug speaks in decimals. Let’s learn to read both.
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.4 Fractions and Decimals
+Fractions such as 1/10, 1/100 and 1/1000 can also be written as decimals: 0.1, 0.01 and 0.001. The dot is the decimal point.
+Let’s read 123.456 using the place-value table. The position of each digit tells us its value. Read the headings first: hundreds, tens, ones, tenths, hundredths, thousandths.
+| Hundreds | Tens | Ones | Tenths | Hundredths | Thousandths |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 100 | 20 | 3 | 4/10 | 5/100 | 6/1000 |
+[Caption] 123.456 — read the place names from left to right; the decimal point belongs between ones and tenths.
+[ProductionNote] Production note V15 — The table represents 123.456. Place a visible decimal-point marker between ones and tenths. Keep the digit and its value vertically aligned. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+In 123.456, read the digits before the point: 1 hundred = 100, 2 tens = 20, and 3 ones = 3.
+Now read the digits after the point: 4 tenths = 4/10 = 0.4; 5 hundredths = 5/100 = 0.05; 6 thousandths = 6/1000 = 0.006.
+[PanelizationEnd] END PANEL CH02-PAGE062-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE062-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.4; 2.4 Fractions and Decimals
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.4
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 08A Fractions on the recipe, decimals on the jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE062-PANEL02; Teaching block T2.4; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Look at the next diagram. Its first full bar represents 1 whole. Split it into 10 equal parts; the blue part is 1/10 = 0.1.
+The second row enlarges that blue tenth so we can see inside it. Split the tenth into 10 equal parts. Each new part is 1/100 = 0.01 of the original whole, because 10 × 10 = 100.
+The third row enlarges one hundredth. Split it into 10 equal parts again. Each new part is 1/1000 = 0.001 of the original whole. The drawing gets larger so we can see the cuts; the amount has not grown.
+[ProductionLabel] DO NOT PRINT — Figure reference: V16 | The following caption sentence is printable unchanged.
+[Caption] One whole splits into ten tenths. One tenth splits into ten hundredths.
+[ProductionNote] Production note V16 — Staged strip model: same whole; highlight one tenth; enlarge it as an explicitly labelled zoom with ten hundredths. A further zoom shows one hundredth divided into ten thousandths. Braces and labels must prevent the zoomed piece being mistaken for a new whole. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+123.456 = 100 + 20 + 3 + 4/10 + 5/100 + 6/1000
+[PanelizationEnd] END PANEL CH02-PAGE062-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 063

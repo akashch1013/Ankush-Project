@@ -1,0 +1,175 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE088
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 09C A; Visual beat CH02 09C B; Visual beat CH02 09C C; Visual beat CH02 09C D; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 09C A; Visual beat CH02 09C B; Visual beat CH02 09C C; Visual beat CH02 09C D; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 09C A; Visual beat CH02 09C B; Visual beat CH02 09C C; Visual beat CH02 09C D; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 09C A; Visual beat CH02 09C B; Visual beat CH02 09C C; Visual beat CH02 09C D; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 09C A; Visual beat CH02 09C B; Visual beat CH02 09C C; Visual beat CH02 09C D; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 09 About four is not exactly four
+[PaginationMetadata] Applies to: Visual beat CH02 09C A; Visual beat CH02 09C B; Visual beat CH02 09C C; Visual beat CH02 09C D; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 09C; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 09C; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Scene CH02 09C; Location CH02 L05 Food Street — Drink and Weighing Counter geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 09C Catch the mistake before dispatch
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the end of the empty carrier, with the urn behind Vihaan and Ahana beside him.
+[PanelizationHeading] PANEL CH02-PAGE088-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 09C A The person at the end of the order
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; Scene CH02 09C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; Scene CH02 09C; view; assigned beat stage only
+[ProductionNote] View. Medium at the end of the empty carrier, with the urn behind Vihaan and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; Scene CH02 09C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; Scene CH02 09C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; Scene CH02 09C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL01; Visual beat CH02 09C A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09C A The person at the end of the order
+[ProductionNote] Moment and staging. Vihaan lowers his gaze to the sixteenth empty cup, both hands now resting apart on the clear carrier rail. His face turns thoughtful and concerned. Ahana has withdrawn her reaching hand; Navya lowers her pointing hand. No pouring occurs.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Vihaan looks at the last empty cup. Rounding the number has not put any more juice into the urn. If they pour now, someone will receive less than the others.
+[PanelizationEnd] END PANEL CH02-PAGE088-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE088-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 09C B Vihaan admits it
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; Scene CH02 09C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; Scene CH02 09C; view; assigned beat stage only
+[ProductionNote] View. Medium at the end of the empty carrier, with the urn behind Vihaan and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; Scene CH02 09C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; Scene CH02 09C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; Scene CH02 09C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL02; Visual beat CH02 09C B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09C B Vihaan admits it
+[ProductionNote] Moment and staging. Retain the camera and character locations specified in Scene CH02 09C. Vihaan looks up towards Ahana, right hand lowered to his side and left hand empty on the rail. His shoulders relax from their earlier confident pose.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] I said enough too soon.
+[PanelizationEnd] END PANEL CH02-PAGE088-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE088-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 09C C The order is still here
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; Scene CH02 09C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; Scene CH02 09C; view; assigned beat stage only
+[ProductionNote] View. Medium at the end of the empty carrier, with the urn behind Vihaan and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; Scene CH02 09C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; Scene CH02 09C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; Scene CH02 09C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL03; Visual beat CH02 09C C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09C C The order is still here
+[ProductionNote] Moment and staging. Ahana faces Vihaan with a reassuring expression, left hand lightly on the stationary carrier handle and right palm open towards him. Vihaan listens. Navya and Tara remain nearby, and Tez stays clear of the wheels.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth | Source speech attribution: Ahana replies.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We haven’t sent it.
+[PanelizationEnd] END PANEL CH02-PAGE088-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE088-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 09C D They can fix it
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; Scene CH02 09C; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; Scene CH02 09C; view; assigned beat stage only
+[ProductionNote] View. Medium at the end of the empty carrier, with the urn behind Vihaan and Ahana beside him.
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; Scene CH02 09C; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; Scene CH02 09C; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 09C Catch the mistake before dispatch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; Scene CH02 09C; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 09 About four is not exactly four
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE088-PANEL04; Visual beat CH02 09C D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[ProductionNote] No two-dial siphon or extra pour is added.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 09C D They can fix it
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character positions specified in Scene CH02 09C. Ahana changes her right open palm to a small point towards the urn, left hand still on the stationary handle, and turns her gaze towards the work ahead. Vihaan follows her gaze. The actual quantities do not change.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We can still fix it.
+[PanelizationEnd] END PANEL CH02-PAGE088-PANEL04
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 089

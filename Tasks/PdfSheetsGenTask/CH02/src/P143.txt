@@ -1,0 +1,42 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE143
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.10; assigned teaching content
+[PaginationMetadata] Applies to: Teaching block T2.10; teaching pause
+[PaginationSourceLabel] Carried forward from: Scene CH02 12H Sixteen out of this batch
+[PaginationMetadata] Applies to: Teaching block T2.10; paused story equipment and props only; no scenic background required for main teaching
+[PaginationSourceLabel] Carried forward from: Scene CH02 12H Sixteen out of this batch
+[PaginationMetadata] Applies to: Teaching block T2.10; paused story equipment and props only; no scenic background required for main teaching
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Teaching block T2.10
+[ProductionLabel] DO NOT PRINT — Teaching scope and carry-forward instructions
+[PanelizationHeading] PANEL CH02-PAGE143-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.10; 2.10 Expressing a Quantity as a Percentage of Another
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.10
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12H Sixteen out of this batch
+[PanelizationMetadata] APPLIES TO: CH02-PAGE143-PANEL01; Teaching block T2.10; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[PrintField] TEACHING COPY BEGINS — ALL SUPPLIED LEARNER CONTENT FOLLOWS; PRODUCTION NOTES REMAIN NON-PRINTING
+# 2.10 Expressing a Quantity as a Percentage of Another
+We have changed given fractions into percentages. Next we will build the fraction ourselves. Suppose 2 counters are selected from a group of 10 counters. The diagram shows all 10 counters; the 2 selected counters are coloured differently.
+All 10 counters make the total, so put 10 underneath. The 2 selected counters go on top: 2 out of 10 is 2/10.
+[ProductionLabel] DO NOT PRINT — Figure reference: V39 | The following caption sentence is printable unchanged.
+[Caption] 2 selected counters out of 10: 2/10 = 20%.
+[ProductionNote] Production note V39 — Show two selected counters among ten, plus a labelled bar where10 corresponds to100% and2 to20%. Label top quantity2 and reference10; retain equal counter sizes. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+2 as a percentage of 10 = 2/10 × 100% = 2 × 10% = 20%.
+Always finish the question “percentage of what?” In “2 as a percentage of 10”, the answer is “of 10”, so 10 goes underneath.
+For example, 50% of 40 minutes means half of 40 minutes: 40 ÷ 2 = 20 minutes. But 50% of 80 marks means half of 80 marks: 80 ÷ 2 = 40 marks. The same 50% can describe different amounts because the starting amounts differ.
+[PanelizationEnd] END PANEL CH02-PAGE143-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 144

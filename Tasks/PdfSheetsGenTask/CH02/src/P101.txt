@@ -1,0 +1,56 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE101
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.7B
+[PaginationMetadata] Applies to: Teaching block T2.7B; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.7B; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE101-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.7B; Practice 2G Question 2; Practice 2G Question 3
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.7B
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 10C Check the order and match the units
+[PanelizationMetadata] APPLIES TO: CH02-PAGE101-PANEL01; Teaching block T2.7B; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2G Question 2
+[Question] Estimate without a calculator, then evaluate.
+[Question] (a)  13.9 + 3.42 + 1.08
+[Question] (b)  123.4 + 30.2 + 2
+[Question] (c)  165.27 − 38.9 − 57.3
+[Question] (d)  79.154 − 3.857 − 12.24
+Check your method
+[WorkedStep] (a)  Estimate: 14 + 3 + 1 = 18. Exact: 13.90 + 3.42 = 17.32; 17.32 + 1.08 = 18.40.
+[WorkedStep] (b)  Estimate: 123 + 30 + 2 = 155. Exact: 123.4 + 30.2 = 153.6; 153.6 + 2 = 155.6.
+[WorkedStep] (c)  Estimate: 165 − 39 − 57 = 69. Exact: 165.27 − 38.90 = 126.37; 126.37 − 57.30 = 69.07.
+[WorkedStep] (d)  Estimate: 79 − 4 − 12 = 63. Exact: 79.154 − 3.857 = 75.297; 75.297 − 12.240 = 63.057.
+Practice 2G Question 3
+[Question] Estimate without a calculator, then evaluate.
+[Question] (a)  149.37 × 2
+[Question] (b)  28.34 × 11
+[Question] (c)  9.876 × 4 × 100
+[Question] (d)  4.9 ÷ 2
+[Question] (e)  20.58 ÷ 6
+[Question] (f)  42.3 ÷ 60
+Check your method
+[WorkedStep] (a) Estimate: 150 × 2 = 300. Exact: 149.37 × 2 = 149.37 + 149.37 = 298.74.
+[WorkedStep] (b)  Estimate: 30 × 10 = 300. Exact: 28.34 × 10 + 28.34 = 283.4 + 28.34 = 311.74.
+[WorkedStep] (c)  Estimate: 10 × 4 × 100 = 4000. Exact: 9.876 × 4 = 39.504; 39.504 × 100 = 3950.4.
+[WorkedStep] (d)  Estimate: 5 ÷ 2 = 2.5. Exact: 4.90 ÷ 2 = 2.45. Check: 2.45 × 2 = 4.90.
+[WorkedStep] (e) Estimate: 18 ÷ 6 = 3. For the exact answer, count hundredths: 20.58 is 2058 hundredths. Share them equally: 2058 ÷ 6 = 343 hundredths. So 20.58 ÷ 6 = 3.43.
+[WorkedStep] (f) Estimate: 42 ÷ 60 = 0.7. Since 60 = 6 × 10, divide by 6, then by 10: 42.3 ÷ 6 = 7.05; 7.05 ÷ 10 = 0.705. So 42.3 ÷ 60 = 0.705.
+[PanelizationEnd] END PANEL CH02-PAGE101-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 102

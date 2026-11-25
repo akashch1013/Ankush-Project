@@ -1,0 +1,77 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE128
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; caption ownership and reading order
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; speech ownership
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; current staging and silent transitions
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; assigned moment only
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; inscriptions and text ownership
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.8
+[PaginationMetadata] Applies to: Teaching block T2.8; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.8; teaching pause
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; independent companion moments
+[PaginationSourceLabel] Carried forward from: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PaginationMetadata] Applies to: Companion inset CH02 Q12; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE128-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.8; Example 34; Your turn after Example 34
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.8
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12D Read the bottle’s percentage card
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL01; Teaching block T2.8; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Example 34
+[Question] Amy buys a loaf of bread with a promotional label saying “extra 25%”.
+[Question] (a)  What does “extra 25%” mean?
+[Question] (b)  Express 25% as a fraction in simplest form.
+Let’s work it through
+[WorkedStep] (a) “Extra 25%” means the shop adds an amount equal to 25% of the original loaf. In the diagram, the full gold bar represents 1 original loaf. It is divided into 4 equal parts. The teal part is the extra bread.
+[WorkedStep] (b) Write 25% as a fraction: 25% = 25/100 = (25 ÷ 25)/(100 ÷ 25) = 1/4. So the extra bread is 1/4 of the original loaf.
+[WorkedStep] The original loaf contains 4 quarters. Add the extra quarter: 4/4 + 1/4 = 5/4 = 1 1/4 times the original amount.
+[WorkedStep] In percentages, the new total is 100% + 25% = 125% of the original loaf. The 25% labels only the added bread; 125% labels all the bread in the new loaf.
+[ProductionLabel] DO NOT PRINT — Figure reference: V32 | The following caption sentence is printable unchanged.
+[Caption] Add 1/4 of the original loaf: 1 + 1/4 = 1 1/4.
+[ProductionNote] Production note V32 — One usual loaf is a gold bar. Add one teal quarter of that same whole. Total length is1.25times the usual length; do not confuse extra25% with total25%. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Your turn after Example 34
+[Question] A washing-powder packet claims “10% more powder”. Express 10% as a fraction in simplest form.
+Check your method
+[WorkedStep] 10% = 10/100 = (10 ÷ 10)/(100 ÷ 10) = 1/10. So the extra powder is 1/10 of the usual amount. The new total is 10/10 + 1/10 = 11/10 = 1 1/10 times the usual amount.
+[PanelizationEnd] END PANEL CH02-PAGE128-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE128-PANEL02
+[PanelizationMetadata] SOURCE: Companion inset CH02 Q12
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL02; Companion inset CH02 Q12; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL02; Companion inset CH02 Q12; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL02; Companion inset CH02 Q12; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL02; Companion inset CH02 Q12; inscriptions and text ownership
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL02; Companion inset CH02 Q12; independent inset; independent companion moments
+[PanelizationMetadata] SOURCE: Location CH02 L05 Food Street — Drink and Weighing Counter
+[PanelizationMetadata] APPLIES TO: CH02-PAGE128-PANEL02; Companion inset CH02 Q12; independent inset; only the location anchors named by this independent inset
+[ProductionNote] The work lamp is above-left. Dry records and an ingredient scale occupy the end away from the pour.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Companion inset CH02 Q12
+[ProductionNote] Staging. Ahana stands at the cool counter with both palms open at different heights and a thoughtful smile towards the reader. Use the fixed lamp and pale edge, without a new container or altered liquid level.
+[ProductionNote] DO NOT PRINT — Speaker: Ahana | Tail target: Ahana’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Half of a little and half of a lot can look very different.
+[ProductionLabel] END COMPANION INSET — CONTINUE THE TEACHING IN SOURCE ORDER
+[PanelizationEnd] END PANEL CH02-PAGE128-PANEL02
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 129

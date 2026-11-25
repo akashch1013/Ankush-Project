@@ -1,0 +1,11 @@
+{
+  "chapter": "CH03",
+  "book": "ChandRush: The Midnight Mela",
+  "chapter_label": "Chapter 3",
+  "sources": {
+    "manuscript": "Reference/Chap3/CH03-PANELIZED-MANUSCRIPT-V02.docx",
+    "register": "Reference/Chap3/CH03-LOCATION-IMAGE-REGISTER-V06.docx",
+    "plates": "BagroundGenTask/ch03/out/plates/"
+  },
+  "pages": []
+}

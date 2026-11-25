@@ -1,0 +1,39 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE136
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.9
+[PaginationMetadata] Applies to: Teaching block T2.9; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.9; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE136-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.9; Knowledge Building Task
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.9
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 12F A separate mixing jug
+[PanelizationMetadata] APPLIES TO: CH02-PAGE136-PANEL01; Teaching block T2.9; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Check your method
+All the colours together make all the sweets: 150/150 = 1 whole = 100%. So the percentages add to 100% before rounding.
+Our unfinished sample shows only 10 green sweets, so it does not yet total 100%. Once every count is entered, rounding may make the displayed percentages total 99.99% or 100.01%. Check the counts and the unrounded values before declaring a sweet missing!
+Now look at the next rectangle. It represents 1 whole, and exactly half is shaded. The shaded amount can be written as 1/2, as 0.5, or as 50%. The picture stays the same; only its name changes.
+[ProductionLabel] DO NOT PRINT — Figure reference: V36 | The following caption sentence is printable unchanged.
+[Caption] The shaded half is 1/2 = 0.5 = 50%.
+[ProductionNote] Production note V36 — One rectangle with exactly one half shaded. Beneath show1/2=0.5=50%; a second line shows0.5×100%=50%. Distinguish percent sign from plain multiplication by100; do not show different shaded quantities. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority.
+Why multiply a fraction by 100%? One whole is 100%, so half a whole is 1/2 × 100% = 50%. Three quarters of a whole is 3/4 × 100% = 75%.
+Keep the % sign with 50: 1/2 = 50%, because 50% means 50/100. The number 50 on its own would mean 50 wholes!
+[PanelizationEnd] END PANEL CH02-PAGE136-PANEL01
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 137

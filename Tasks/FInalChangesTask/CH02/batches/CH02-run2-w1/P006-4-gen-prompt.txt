@@ -1,0 +1,18 @@
+Use case: ChandRush CH02 comic panel P006-4, visual beat CH02 02A B.
+Asset: one portrait (3:4) graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved raw background plate BagroundGenTask/ch02/out/plates/L03_A.png (Food Street packing bench, Return Walk doorway). Keep its architecture, materials, light and objects; the camera may move to a medium-close two-shot. It carries no labels.
+- Image 2: character sheet of Tara. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Ahana. Use ONLY for identity: face, hair, skin tone, body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Tara (right half, head about 20% of frame height): facing Ahana, raises her free LEFT index finger gently, brass bell staff held steady upright in her RIGHT hand, reassuring warm expression, gaze at Ahana.
+2. Ahana (left, partly in frame, back three-quarter turned towards Tara, face in profile or three-quarter visible): has lowered her hand, listening, gaze at Tara.
+Props and states at this moment (exact):
+1. Return Walk doorway glowing warmly behind Tara.
+2. An edge of the empty brass trolley may show at the lower edge; its carrier holds nothing.
+3. exactly 2 people.
+Physical inscriptions: none. Do not paint any words, numbers or markings; the plate's small brass plaques must stay unreadable or out of frame.
+Reserved empty areas for lettering (keep calm, low-detail background; no face, hand or key prop inside): the top 25% of the frame across the central 60% width (above Tara's head): calm doorway arch/roof, no face
+Composition: Tara right, Ahana left; both faces visible.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration, rich royal-blue lacquered wood, antique brass, cream marble, warm lamp key light with cool moonlight rim; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows. Characters keep fair skin as on their sheets.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature, sign, number or lettering of any kind; extra characters; extra limbs; mirrored outfits; the Gate or any crowd.

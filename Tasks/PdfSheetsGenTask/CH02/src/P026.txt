@@ -1,0 +1,189 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE026
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 03D A; Visual beat CH02 03D B; Visual beat CH02 03D C; Visual beat CH02 03D D; Visual beat CH02 03D E; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 03D A; Visual beat CH02 03D B; Visual beat CH02 03D C; Visual beat CH02 03D D; Visual beat CH02 03D E; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 03D A; Visual beat CH02 03D B; Visual beat CH02 03D C; Visual beat CH02 03D D; Visual beat CH02 03D E; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 03D A; Visual beat CH02 03D B; Visual beat CH02 03D C; Visual beat CH02 03D D; Visual beat CH02 03D E; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 03D A; Visual beat CH02 03D B; Visual beat CH02 03D C; Visual beat CH02 03D D; Visual beat CH02 03D E; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Sequence 03 Check the stock
+[PaginationMetadata] Applies to: Visual beat CH02 03D A; Visual beat CH02 03D B; Visual beat CH02 03D C; Visual beat CH02 03D D; Visual beat CH02 03D E; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PaginationMetadata] Applies to: Scene CH02 03D; Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[SceneHeading] Scene CH02 03D Keep the evidence separate
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[PanelizationHeading] PANEL CH02-PAGE026-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 03D A Dust beneath the clip
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; Scene CH02 03D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; Scene CH02 03D; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; Scene CH02 03D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; Scene CH02 03D; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; Scene CH02 03D; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL01; Visual beat CH02 03D A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03D A Dust beneath the clip
+[ProductionNote] Moment and staging. Tight insert of the now-exposed brass stock-card clip attached to the weighed tray, now resting on the pale recipe counter. Show black dust beneath it and a scratched V in the brass. Ahana holds the removed card just clear with her right hand. Do not add another V to the book or food.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] There is black dust beneath its clip. A V is scratched into the brass.
+[PanelizationEnd] END PANEL CH02-PAGE026-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE026-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 03D B A measured label
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; Scene CH02 03D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; Scene CH02 03D; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; Scene CH02 03D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; Scene CH02 03D; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; Scene CH02 03D; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL02; Visual beat CH02 03D B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03D B A measured label
+[ProductionNote] Moment and staging. Use the medium across the dry counter specified under View in Scene CH02 03D. Tara secures the false card in her evidence sleeve using her left hand; her right keeps the staff upright. The food helper fixes the measured 1¾-kilogram label to the tray with its right hand and steadies the dry clip with its left. Ahana has released the card and withdrawn both hands.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara keeps the false card. The helper attaches the measured 1¾-kilogram label to the tray.
+[PanelizationEnd] END PANEL CH02-PAGE026-PANEL02
+[PanelizationHeading] PANEL CH02-PAGE026-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 03D C Stock known, serving still unchecked
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; Scene CH02 03D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; Scene CH02 03D; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; Scene CH02 03D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; Scene CH02 03D; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; Scene CH02 03D; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL03; Visual beat CH02 03D C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03D C Stock known, serving still unchecked
+[ProductionNote] Moment and staging. The helper faces the crew, right hand open towards the verified stock label and left hand resting at the clear back edge. Tara’s evidence is pocketed. Keep the closed supply tap visible beyond the tray and the portion stop still in its original wrong position. The caption after the speech belongs to this same visual.
+[ProductionNote] DO NOT PRINT — Speaker: Food helper | Tail target: Food helper’s visible mouth | Source speech attribution: it says.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Now I know how much this tray holds.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] The dispenser stays closed. Its serving stop is a separate setting and has not yet been checked.
+[PanelizationEnd] END PANEL CH02-PAGE026-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE026-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 03D D Navya guards the recipe pile
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; Scene CH02 03D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; Scene CH02 03D; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; Scene CH02 03D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; Scene CH02 03D; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; Scene CH02 03D; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL04; Visual beat CH02 03D D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03D D Navya guards the recipe pile
+[ProductionNote] Moment and staging. Medium of Navya in her established position, right index finger indicating the original-book pile and empty left hand resting on clear counter space. She looks towards Tara, serious. The evidence sleeve is safely pocketed and the measured tray label stays attached.
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Keep the false card out of the recipe pile.
+[PanelizationEnd] END PANEL CH02-PAGE026-PANEL04
+[PanelizationHeading] PANEL CH02-PAGE026-PANEL05
+[PanelizationMetadata] SOURCE: Visual beat CH02 03D E No accidental reuse
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; Scene CH02 03D; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; Scene CH02 03D; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; Scene CH02 03D; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; Scene CH02 03D; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 03D Keep the evidence separate
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; Scene CH02 03D; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 03 Check the stock
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L02 Food Street — Recipe Counter and Dosa Dispenser
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Visual beat CH02 03D D Navya guards the recipe pile
+[PanelizationMetadata] APPLIES TO: CH02-PAGE026-PANEL05; Visual beat CH02 03D E; retained camera, standing position and left hand only; Visual beat CH02 03D E current right gesture and gaze
+[ProductionNote] Moment and staging. Medium of Navya in her established position, right index finger indicating the original-book pile and empty left hand resting on clear counter space.
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 03D E No accidental reuse
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera and character positions specified in Visual beat CH02 03D D, and the counter and evidence states specified in Scene CH02 03D. Navya changes her right pointing hand to a small palm-out caution gesture and turns her gaze to the food helper. Her left stays empty on the clear counter edge.
+[ProductionNote] DO NOT PRINT — Speaker: Navya | Tail target: Navya’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] We don’t want anyone using it again.
+[PanelizationEnd] END PANEL CH02-PAGE026-PANEL05
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 027

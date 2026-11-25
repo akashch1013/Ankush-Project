@@ -1,0 +1,71 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE086
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned teaching content
+[PaginationSourceLabel] Carried forward from: Teaching block T2.6
+[PaginationMetadata] Applies to: Teaching block T2.6; assigned continuation only
+[PaginationMetadata] Applies to: Teaching block T2.6; teaching pause
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE086-PANEL01
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Practice 2F Question 6; Practice 2F Question 7
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL01; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2F Question 6
+[Question] Albert spends 52 hours using a computer in one week of 7 days. Find the average number of hours each day, rounded to the nearest whole number.
+Check your method
+[WorkedStep] An average asks what the daily time would be if we shared the total equally across all 7 days. So divide 52 hours by 7. Since 7 × 7 = 49, that gives 7 hours with 3 hours left to share. Continuing the division gives 52 ÷ 7 = 7.428571… hours per day.
+[WorkedStep] The tenths digit is 4, so the average is approximately 7 hours per day. This is an average; it does not mean he used it for exactly 7 hours on every day.
+Practice 2F Question 7
+[Question] One sheet of paper is 0.0385167 mm thick. Round this to 5 decimal places.
+Check your method
+[WorkedStep] In 0.0385167, count 5 places after the point: 0, 3, 8, 5, 1. Keep 0.03851. The next digit is 6, so add 0.00001: 0.03851 + 0.00001 = 0.03852.
+[WorkedStep] Answer: 0.0385167 mm ≈ 0.03852 mm. Keep the first 0 after the point: it shows there are no tenths.
+[PanelizationEnd] END PANEL CH02-PAGE086-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE086-PANEL02
+[PanelizationMetadata] SOURCE: Teaching block T2.6; Practice 2F Question 8; Practice 2F Question 9
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — The friendly teacher narrator addresses the reader directly.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; assigned teaching content and native mathematical objects
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; teaching pause
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Teaching block T2.6
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; assigned teaching passage; story pause only
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationMetadata] SOURCE: Scene CH02 09A Sixteen equal drinks
+[PanelizationMetadata] APPLIES TO: CH02-PAGE086-PANEL02; Teaching block T2.6; paused story state only; main teaching has no scenic background
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+Practice 2F Question 8
+[Question] Mazen says that √(4□) is a whole number, where □ is one missing digit. What could the digit be?
+Check your method
+[WorkedStep] The box in 4□ is the missing ones digit. So 4□ could be 40, 41, 42, and so on up to 49. We need one of these numbers to have a whole-number square root.
+[WorkedStep] Check the nearby squares: 6 × 6 = 36, 7 × 7 = 49, and 8 × 8 = 64. Only 49 lies from 40 to 49.
+[WorkedStep] So put 9 in the box: 4□ becomes 49, and √49 = 7.
+Practice 2F Question 9
+[Question] Samson says that √80 rounds to 7.9 to 1 decimal place. Explain whether he is correct.
+Check your method
+[WorkedStep] He is not correct. Since 8² = 64 and 80 > 64, √80 must be greater than 8. An answer of 7.9 is too small.
+[WorkedStep] For the corrected rounded value, √80 = 8.944271… . The hundredths digit is 4, so √80 ≈ 8.9 to 1 d.p.
+[PanelizationEnd] END PANEL CH02-PAGE086-PANEL02
+[ProductionLabel] END TEACHING BLOCK T2.6 — STORY RESUMES BELOW
+[PaginationPageHeading] ChandRush Chapter 02 Manuscript — PAGE 087

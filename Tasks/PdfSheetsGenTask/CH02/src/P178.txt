@@ -1,0 +1,244 @@
+[PaginationMetadata] NON-PRINTING PAGE ID: CH02-PAGE178
+[PaginationContextHeading] NON-PRINTING PRODUCTION CONTEXT
+[PaginationMetadata] Carried-forward instructions are context only, not additional printable copy or visuals.
+[PaginationMetadata] Applies to: Visual beat CH02 15F C; Visual beat CH02 15F D; Visual beat CH02 15G A; Visual beat CH02 15G B; caption ownership and reading order
+[PaginationMetadata] Applies to: Visual beat CH02 15F C; Visual beat CH02 15F D; Visual beat CH02 15G A; Visual beat CH02 15G B; speech ownership
+[PaginationMetadata] Applies to: Visual beat CH02 15F C; Visual beat CH02 15F D; Visual beat CH02 15G A; Visual beat CH02 15G B; current staging and silent transitions
+[PaginationMetadata] Applies to: Visual beat CH02 15F C; Visual beat CH02 15F D; Visual beat CH02 15G A; Visual beat CH02 15G B; assigned moment only
+[PaginationMetadata] Applies to: Visual beat CH02 15F C; Visual beat CH02 15F D; Visual beat CH02 15G A; Visual beat CH02 15G B; inscriptions and text ownership
+[PaginationSourceLabel] Carried forward from: Scene CH02 15F The next place opens
+[PaginationSourceLabel] Carried forward from: Scene CH02 15F The next place opens
+[PaginationSourceLabel] Carried forward from: Scene CH02 15F The next place opens
+[PaginationSourceLabel] Carried forward from: Scene CH02 15F The next place opens
+[PaginationSourceLabel] Carried forward from: Scene CH02 15F The next place opens
+[PaginationSourceLabel] Carried forward from: Sequence 15 An old photograph and a new problem
+[PaginationMetadata] Applies to: Visual beat CH02 15F C; Visual beat CH02 15F D; continuity and reveal timing only | Visual beat CH02 15G A; Visual beat CH02 15G B; continuity and reveal timing only
+[PaginationSourceLabel] Carried forward from: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PaginationMetadata] Applies to: Scene CH02 15F; Scene CH02 15G; Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationSourceLabel] Carried forward from: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PaginationMetadata] Applies to: Scene CH02 15F; Scene CH02 15G; Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane geography and applicable equipment only; assigned beat controls view, state and reveal timing
+[PaginationContextHeading] END NON-PRINTING PRODUCTION CONTEXT
+[PanelizationHeading] PANEL CH02-PAGE178-PANEL01
+[PanelizationMetadata] SOURCE: Visual beat CH02 15F C An elephant on the wrong wheels
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; Scene CH02 15F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; Scene CH02 15F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; Scene CH02 15F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; Scene CH02 15F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; Scene CH02 15F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL01; Visual beat CH02 15F C; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15F C An elephant on the wrong wheels
+[ProductionNote] Moment and staging. Separate wide through the now-open shutters into the yard. The huge blue elephant stands on wheels visibly too small for its body in the physical-right work area, held by established supports. The empty loop and protected left walking lane remain distinct. The children appear only as foreground observers; no one enters the loop.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Beyond them stands a huge blue elephant float on wheels much too small for its body.
+[PanelizationEnd] END PANEL CH02-PAGE178-PANEL01
+[PanelizationHeading] PANEL CH02-PAGE178-PANEL02
+[PanelizationMetadata] SOURCE: Visual beat CH02 15F D Hands lost in sleeves
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; caption ownership and reading order
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; Scene CH02 15F; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; Scene CH02 15F; view; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; Scene CH02 15F; cast and positions; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; Scene CH02 15F; props and state progression; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15F The next place opens
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; Scene CH02 15F; planning requirements; assigned beat stage only
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL02; Visual beat CH02 15F D; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15F D Hands lost in sleeves
+[ProductionNote] Moment and staging. Medium of the real wooden clown beside the stationary blue elephant, with the costume bench outside the loop and part of the right-side support visible. He lifts both arms, but both hands disappear inside the oversized sleeves. His wooden identity and outfit remain consistent. He has no dialogue. The trio stay at the Food Street threshold off-frame.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] A wooden clown beside it lifts his arms, but his hands disappear inside two enormous sleeves.
+[PanelizationEnd] END PANEL CH02-PAGE178-PANEL02
+[SceneHeading] Scene CH02 15G Veer knew what to change
+[ProductionLabel] Production instructions are non-printing. Exact reader text is assigned beneath each visual beat.
+[ProductionNote] View. Medium at the open Food Street-to-Parade threshold, looking obliquely into the yard. Keep the supported blue elephant on physical right and roped lane on physical left in the background.
+[ProductionNote] Cast and positions. Vihaan stands beside Ahana at the threshold, facing Tara. Tara stands beside Navya, right hand on staff and left free. Ahana holds the lamp in her right hand, left at her side; Tez stays by her feet. Nobody has entered the rehearsal loop.
+[ProductionNote] Props and state progression. Shutters open; elephant and clown still unrepaired. Food service continues behind. The first forty are authorised for Entry Court; the next twenty-two remain with the Gate helper. No adult Veer face is visible.
+[ProductionNote] Planning requirements. End on Tara’s exact supplied line. Chapter 03 begins the new work; do not solve its costume or float problem here.
+[PanelizationHeading] PANEL CH02-PAGE178-PANEL03
+[PanelizationMetadata] SOURCE: Visual beat CH02 15G A Was he good at costumes
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; Scene CH02 15G; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; Scene CH02 15G; view; assigned beat stage only
+[ProductionNote] View. Medium at the open Food Street-to-Parade threshold, looking obliquely into the yard. Keep the supported blue elephant on physical right and roped lane on physical left in the background.
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; Scene CH02 15G; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. Vihaan stands beside Ahana at the threshold, facing Tara. Tara stands beside Navya, right hand on staff and left free. Ahana holds the lamp in her right hand, left at her side; Tez stays by her feet. Nobody has entered the rehearsal loop.
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; Scene CH02 15G; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Shutters open; elephant and clown still unrepaired. Food service continues behind. The first forty are authorised for Entry Court; the next twenty-two remain with the Gate helper. No adult Veer face is visible.
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; Scene CH02 15G; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. End on Tara’s exact supplied line. Chapter 03 begins the new work; do not solve its costume or float problem here.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL03; Visual beat CH02 15G A; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15G A Was he good at costumes
+[ProductionNote] Moment and staging. Vihaan turns his head towards Tara, right hand open towards the clown’s sleeve direction and left hand empty against his backpack strap. He speaks with wary humour. Ahana and Navya look towards Tara; her staff remains planted.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Vihaan looks at Tara.
+[ProductionNote] DO NOT PRINT — Speaker: Vihaan | Tail target: Vihaan’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Was Veer good at costumes too?
+[PanelizationEnd] END PANEL CH02-PAGE178-PANEL03
+[PanelizationHeading] PANEL CH02-PAGE178-PANEL04
+[PanelizationMetadata] SOURCE: Visual beat CH02 15G B Tara looks into the yard
+[PanelizationLabel] NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationMetadata] SOURCE: Global production rules — Production notes and field labels are non-printing.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; caption ownership and reading order
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; speech ownership and tail targets
+[PanelizationMetadata] SOURCE: Global production rules — Separate speaking beats are distinct drawable moments.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; current staging and silent transitions
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; assigned moment only
+[PanelizationMetadata] SOURCE: Global production rules — SURFACE TEXT belongs only to the named note or sign.
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; inscriptions and text ownership
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; Scene CH02 15G; setting; assigned beat stage only
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; Scene CH02 15G; view; assigned beat stage only
+[ProductionNote] View. Medium at the open Food Street-to-Parade threshold, looking obliquely into the yard. Keep the supported blue elephant on physical right and roped lane on physical left in the background.
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; Scene CH02 15G; cast and positions; assigned beat stage only
+[ProductionNote] Cast and positions. Vihaan stands beside Ahana at the threshold, facing Tara. Tara stands beside Navya, right hand on staff and left free. Ahana holds the lamp in her right hand, left at her side; Tez stays by her feet. Nobody has entered the rehearsal loop.
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; Scene CH02 15G; props and state progression; assigned beat stage only
+[ProductionNote] Props and state progression. Shutters open; elephant and clown still unrepaired. Food service continues behind. The first forty are authorised for Entry Court; the next twenty-two remain with the Gate helper. No adult Veer face is visible.
+[PanelizationMetadata] SOURCE: Scene CH02 15G Veer knew what to change
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; Scene CH02 15G; planning requirements; assigned beat stage only
+[ProductionNote] Planning requirements. End on Tara’s exact supplied line. Chapter 03 begins the new work; do not solve its costume or float problem here.
+[PanelizationMetadata] SOURCE: Sequence 15 An old photograph and a new problem
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; sequence continuity and reveal timing; assigned beat stage only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationMetadata] SOURCE: Location CH02 L07 Parade Ground — Rehearsal Yard and Visitor Lane
+[PanelizationMetadata] APPLIES TO: CH02-PAGE178-PANEL04; Visual beat CH02 15G B; location reference; geography and equipment at the assigned stage; assigned beat view and state only
+[PanelizationEnd] END NON-PRINTING CARRIED PRODUCTION CONTEXT
+[PanelizationLabel] ORIGINAL PANEL CONTENT
+[BeatHeading] Visual beat CH02 15G B Tara looks into the yard
+[ProductionNote] Moment and staging. Separate speaking panel retaining the camera, background and character foot positions specified in Scene CH02 15G. Tara turns her gaze from Vihaan towards the yard, brows firm, and rests her free left hand against her sash. Her right keeps the staff planted. Vihaan lowers his right hand and follows her gaze. No new action occurs behind them.
+[PrintField] CAPTION TEXT — PRINT ONLY THIS
+[CaptionCopy] Tara looks towards the parade yard.
+[ProductionNote] DO NOT PRINT — Speaker: Tara | Tail target: Tara’s visible mouth
+[PrintField] SPEECH BUBBLE TEXT — PRINT ONLY THIS
+[DialogueCopy] Good enough to know exactly what he has changed.
+[PanelizationEnd] END PANEL CH02-PAGE178-PANEL04
+[SequenceHeading] Source and addition record
+[ProductionLabel] Revision V04 — non-printing correction record
+[ProductionNote] Production-only continuity corrections: assistants wait before the first food dispatch in Scenes 01B, 02A, 02B and 02D; the same trolley moves to the drink counter before 09A and returns before 11C; the original drawing stays with Ira after delivery; the weighed tray and its attached clip retain one location through 03C–03D; the loading helper stands within reach of the entrance-side tray; the tilt damper restrains sudden movement without rigidly locking later levelling; the five-pack transfer follows the clear outer route; the single snack tray is seated on the lower shelf before loading, with each child’s source tray specified. No story, teaching, bridge, scene or visual beat is added, removed or reordered.
+[ProductionLabel] Revision V03 — non-printing correction record
+[ProductionNote] Added five short reader-facing bridges at T2.3B, T2.4, T2.7B, T2.7C and T2.9. Scoped CH02 07A character positions to each beat, retaining the cooking-counter continuity from CH02 06F C before the move to the packing bench. Clarified the single visible pose in CH02 08C C, 10C C, 10E B and 13B A. No scene, visual beat, source story text, teaching content or supplied diagram is added, removed or reordered.
+[ProductionLabel] Revision V02 — non-printing correction record
+[ProductionNote] Corrected premature prop states, Tara’s staff staging, returning-trolley staging, readable notes, exact continuity references and wider-location references. Defined the existing table brake, cold-flow test, dispenser controls and beam-balance check. Added only CH02 05B F, a silent recovery result needed to account for the trial before the new batch. Clarified static handovers and final poses. Separated technical figure IDs from unchanged caption sentences. All source narration, dialogue and fifteen teaching insertions remain in order; no teaching wording, example, quantity, diagram or method is rewritten. The V02 corrections are retained in this revision.
+[ProductionLabel] Production record only. None of this section is learner copy.
+[ProductionHeading] Sources and scope
+[ProductionNote] Adventure source: CHANDRUSH-DETAILED-BOOK-WISE-STORY-V-16(5).docx. All 124 Chapter 02 STORY paragraphs are represented in source order. V16’s global descriptions, chapter continuity briefs, opening/ending context and reveal/object/timing reference inform this chapter. Only Chapter 02 adventure passages are included; the separate prologue and other chapters are continuity references.
+[ProductionNote] Teaching source: CH02-FRIENDLY-TEACHER-MATHS-DRAFT-10-REVISED.docx, supplied by the author for this integration. Its source title is Chapter 2 Fractions Decimals and Percentages; descriptor Friendly Teacher Maths; status Draft 10 Revised · Review Draft — Awaiting approval. This manuscript follows the author’s instruction to use that supplied version and does not claim a separate approval or replace the teaching source.
+[ProductionNote] Format and handoff model: CH01-INTEGRATED-MANUSCRIPT-V04(2).docx and the author’s instructions in this conversation. Older Chapter 01 page-production assets and older story versions do not override V16. Character appearance is specified once; approved assets can subsequently be called by name.
+[ProductionNote] The complete learner teaching stream is copied once, without name/object substitutions, from the opening pie explanation through the final reflection. All 47 embedded diagrams, five source tables and all native Word mathematics objects are preserved. Original teaching-production and source-issue notes are retained in the final non-printing appendix.
+[ProductionHeading] Boundary and conflict decisions
+[ProductionNote] T2.1 includes the opening equal-share material before the numbered 2.1 heading. T2.3A ends after the complete Your turn after Example 8. T2.3B starts with “For division, ask how many groups we can make.” This preserves the entire introductory division model and reciprocal reasoning that precede the Dividing a Fraction by a Fraction heading.
+[ProductionNote] T2.7A ends after the last check in the Your turn after Example 21. T2.7B continues through all Practice 2G, including its source negative-number and bracket questions, stopping before Negative Decimals. T2.7C includes all Practice 2H. T2.7D includes Combined Operations and all Practice 2I. No practice is moved, omitted or duplicated.
+[ProductionNote] Author-approved correction, 20 October 2026: V16’s CH02-11 production instruction delayed the 0.50 L remainder until after T2.7C although the story reveals it after T2.7A. This manuscript follows the story: 0.50 L is visible after T2.7A; T2.7C newly combines −0.25 L and −0.10 L as −0.35 L. Story and teaching wording remain unchanged by that correction.
+[ProductionNote] R02 preserves Chapter 2 Key Ideas, all twenty-two Revision questions and their solutions, the complete 64-point Self Check and both final reflection paragraphs. The supplied draft has no separate closing performance task to invent. Its two Knowledge Building Tasks remain at their original positions in Sections 2.8 and 2.9. Pre-existing textbook/answer-key qualifications remain in the source appendix; integration does not silently reverse them.
+[ProductionHeading] Printable additions and attribution treatment
+[ProductionNote] Six short friendly-teacher bridges appear at T2.1, T2.3B, T2.4, T2.7B, T2.7C and T2.9. The five additions in V03 introduce the unchanged lessons without revealing the pending story answers. No extra return bridge is needed because each teaching block resumes the next supplied story passage.
+[ProductionNote] Fifteen independent companion quotes are added at completed teaching boundaries and listed below. They do not advance events, alter quantities or reveal pending story answers. No original example names, objects, methods, quantities, units or currency symbols are substituted.
+[ProductionNote] Bare speech attributions move to non-printing metadata, in accordance with the author’s Chapter 01 treatment. Spoken words and meaningful narration remain. Outer prose quotation marks are omitted and attribution commas become full stops. Ahana’s interrupted question “Is this ready, or does it need more?” is joined into one grammatical speech field. The three supplied written messages are assigned to their named sheets rather than repeated in speech bubbles.
+[ProductionHeading] Staging additions
+[ProductionNote] Production-only staging makes hands, supports, camera directions and intermediate actions explicit. The lamp and evidence are secured before the opening cart work; Tara’s staff is supported for two-handed box and writing actions; both travelling props are retrieved before the final threshold. Every repeated speaking image has a specified changed pose, expression or gaze while retaining named positions and background.
+[ProductionNote] Silent intermediate beats distinguish cold flow from stopped flow, return of the clean test batter from heating, the checked 0.10 L measurement from its pour and result, cooking from the finished dosa, and dispatch from travel and arrival. The original cup drawing is visibly moved onto the first trolley and later secured by Ira; every subsequent message uses fresh paper.
+[ProductionNote] The rotation latch remains applied from CH02 01B C to CH02 13D A. Tara’s later squeeze of the same brake housing restrains the tilt damper, as defined in Location CH02 L03. No hidden rotation-latch release is inserted. The controlled cradle levels as the load becomes equal. Exact pack diagrams retain 25/15, 20/20 and 12/12, with sixteen on the trolley.
+[ProductionNote] The first 4 L urn load is consumed by sixteen 0.25 L cups. Later views distinguish its historical transfer record from its present emptied state. Recipe-jug top-ups, reserve-bottle transfer, separate mixing-jug capacity and ingredient mass never share an implied supply or an extra pour.
+[ProductionNote] Pip stages the unnamed messenger action for the final Gate report and Tara’s written authorisation. No new report wording or spoken line is supplied. The broad helper returns along the established route before its next Food Street task.
+[ProductionHeading] Coverage and continuity verification
+[ProductionNote] The manuscript assigns all 320 source text units from all 124 Chapter 02 story paragraphs once and in order across 67 scenes and 200 visual beats. Bare attributions are accounted for separately as metadata. Every teaching body element from source position 3 through 2316 is assigned once and in order across fifteen insertions; original source positions are internal audit references, not page-creation instructions.
+[ProductionNote] Verified story quantities: 1¾ = 7/4, false 5/4; filling 1¾ + 2½ = 4¼ kg; five ⅓ kg trays need 5/3 kg; ⅕ of ⅔ kg is 2/15 kg; ⅔ ÷ ⅙ gives four full dosas; ¾ L = 0.75 L > 0.70 L; 16 × 0.25 L = 4 L; 3.9 L + 0.10 L = 4 L; reserve 0.85 − 0.25 − 0.10 = 0.50 L; total withdrawal −0.35 L; 0.6 kg = 600 g; 0.5 + 16 × 0.22 = 4.02 kg, 0.48 kg below 4.5 kg; 50% bottle capacity, 75% separate jug capacity; 16/40 = 40%, 24/40 = 60%; table 25/15 → 20/20 → 12/12 with sixteen dispatched.
+[ProductionNote] Continuity checked: repaired Lantern Street remains repaired; the original cooked dosa never changes size; food starts leaving before drinks are complete; first drink group and later admission groups stay distinct; the original cup drawing has one location at a time; all human characters are fair-skinned; Tez’s faded stripes persist; the photograph remains in its box; no premature adult Veer, motive, Bell ring, public parade, costume repair or float test is introduced.
+[ProductionHeading] Added companion quotes
+[ProductionNote] CH02 Q01 — Navya: “Same amount. Different way of writing it.” Position: Teaching block T2.1, after the completed Your turn after Example 4.
+[ProductionNote] CH02 Q02 — Tez: “I’m following the fractions. My nose is following the filling.” Position: Teaching block T2.2, after the completed Your turn after Example 7.
+[ProductionNote] CH02 Q03 — Vihaan: “Five copies and one fifth are very different orders.” Position: Teaching block T2.3A, after the completed Your turn after Example 8.
+[ProductionNote] CH02 Q04 — Ahana: “A part-filled bottle still isn’t a full bottle.” Position: Teaching block T2.3B, after the completed Your turn after Example 10.
+[ProductionNote] CH02 Q05 — Tara: “The number looks different. The amount hasn’t changed.” Position: Teaching block T2.4, after calculator illustration V18 and its production note, before Practice 2D.
+[ProductionNote] CH02 Q06 — Navya: “Those zeros are helping us compare.” Position: Teaching block T2.5, after the completed Your turn after Example 16.
+[ProductionNote] CH02 Q07 — Tez: “I was hoping rounding could refill a bowl.” Position: Teaching block T2.6, after the completed Your turn after Example 19.
+[ProductionNote] CH02 Q08 — Ahana: “Line up the points. Then let the digits do their jobs.” Position: Teaching block T2.7A, after the completed Your turn after Example 21.
+[ProductionNote] CH02 Q09 — Navya: “The unit belongs in the answer too.” Position: Teaching block T2.7B, after the completed Your turn after Example 25.
+[ProductionNote] CH02 Q10 — Vihaan: “Two minus signs deserve a second look.” Position: Teaching block T2.7C, after the completed Your turn after Example 26.
+[ProductionNote] CH02 Q11 — Tez: “Brackets first. Dinner next, I hope.” Position: Teaching block T2.7D, after the completed Your turn after Example 28.
+[ProductionNote] CH02 Q12 — Ahana: “Half of a little and half of a lot can look very different.” Position: Teaching block T2.8, after the completed Your turn after Example 34.
+[ProductionNote] CH02 Q13 — Vihaan: “One amount, three names. I can manage that.” Position: Teaching block T2.9, after the completed Your turn after Example 36.
+[ProductionNote] CH02 Q14 — Tara: “Always ask what the percentage is a share of.” Position: Teaching block T2.10, after the completed Your turn after Example 40.
+[ProductionNote] CH02 Q15 — Navya: “Checking every possibility takes away the guesswork.” Position: Teaching block R02, after the complete solution of Revision Question 13.
+[ProductionHeading] Original teaching production and verification notes
+[ProductionLabel] The following source record is retained as non-printing context, including its review status and original source qualifications. It is not dialogue, narration, or a new approval request.
+[ProductionNote] Production and Verification Notes
+[ProductionNote] Status: Review Draft — Awaiting approval. Draft 10 Revised is the focused revision of the supplied CH02-FRIENDLY-TEACHER-MATHS-DRAFT-10(3).docx, authorised after the whole-draft teaching review. It applies Skill 01 Math Draft Writer V3 and the user’s feedback on visible working, consistent methods and unnecessary repetition. It is not an approved replacement project source.
+[ProductionNote] Sources: CHAPTER 02.pdf, printed pages 30–88, and the relevant ANSWERS PAGE.pdf pages. This limited revision preserves the supplied draft’s source sequence, questions, values, units, activities, Key Ideas, Revision and Self-check. A comparison with the input confirms that all question paragraphs and task headings remain present and in order. Changed teaching was checked against the relevant source pages; changed calculations and regrouping were independently recalculated. The earlier draft’s complete source audit is carried forward, not represented as a newly repeated full mathematical audit.
+[ProductionNote] Benchmarks consulted during the review and revision: Chapter 01 Friendly Teacher Draft 10, including the opening, first sign-rule teaching and practice; Chapter 08 Friendly Narrator Draft 07, including the two-pencil opening, complementary angles, set-square and compass construction, and worked visual questions. Their useful qualities are retained alongside the newer feedback.
+[ProductionNote] Main changes: replaced lengthy decimal-borrowing narration with aligned subtraction showing changed digits; kept the same subtraction method in Practice 2G; separated the steps in Practice 2I Question 2; trimmed repeated place-value narration and optional alternative conversion checks. Source-supplied alternative methods and explicit two-method tasks remain. The full learner text was reviewed for the agreed patterns; most passages were retained. Word and PDF come from the same revised file, and the rendered pages were inspected for legible mathematics, figures and page flow.
+[ProductionNote] Integration rule: the eventual ChandRush manuscript may adapt a familiar setting or distribute an explanation across narration and action. It must preserve the mathematical meaning, intermediate reasoning, task requirements, conditions, worked solutions and essential visual relationships. Do not delete the teaching merely because its original object is difficult to place in the story. Use the unique visual IDs and the nearby production notes when replacing instructional drawings. Production notes are not speech balloons or learner narration.
+[ProductionNote] Source issues and editorial decisions
+[ProductionNote] Earlier corrections retained and checked: Key Ideas uses 4/9 ÷ 2/3 = 2/3, and Practice 2H Question 6 uses the source name Abdul.
+[ProductionNote] Practice 2C Question 3(b), printed 45; answer key 362. The expression is 4/5 − 2/3 ÷ 4/8. Division gives 4/3; subtraction gives 12/15 -20/15 = -8/15. The supplied key prints+8/15. This draft teaches−8/15, checked independently.
+[ProductionNote] Recurring-decimal note, printed 46. The source calls every non-terminating decimal recurring. The draft defines recurring as having a repeating digit/block. It does not claim that all infinite decimals repeat.
+[ProductionNote] Improper fraction, printed 31. The source’s introductory sentence describes numerator greater than denominator. The draft also includes equality, for example 4/4=1, and distinguishes division by 1 from division by a fraction greater than 1.
+[ProductionNote] Practice 2E Question 7 and 8(b); key 363. The source asks about pears; the key says mangoes. The draft retains pears. Part 8(b) asks descending order, whereas the key’s last line repeats ascending order. The draft gives descending order and explains it using twentieths.
+[ProductionNote] Practice 2I Question 2; key 363. The question gives no rounding requirement. The draft supplies exact values−8/3 for(a–c) and−188/61 for(d), with the key’s one-decimal approximations identified as approximations. It rejects the key’s overbroad claim that order does not matter for multiplication/division.
+[ProductionNote] Practice 2L Question 7; key 364. The intended answer uses 1000 as the total by treating pet categories as separate groups. The question does not explicitly rule out overlapping families. The draft states the assumption and explains that an overlapping survey would need a distinct-family total. The difference 25%−15% is described as 10 percentage points.
+[ProductionNote] Self-check, printed 87–88. The source assigns 4 points to Question 15(a,b) and 16(a,b), although Question 15 has no subparts. Its category scores sum to 65 while the printed total is 61. This draft uses Question 15 and 16(a,b), worth 3, and a consistent overall total 64. This is an editorial correction, not a claim of prior author approval.
+[ProductionNote] Savings comparison, printed 80–81. Preserved the values and percentage comparison. Replaced the personal judgement “thriftier” with the supported statement that Linda saves the larger percentage of her income.
+[ProductionNote] Sweets spreadsheet, printed 75. Preserved the task and demonstration values. Clarified incomplete entries and exact stored values versus rounded displays. Use =B$3/$F$1 so copying down retains count row 3 and copying across retains total F1. This also corrects Draft 07’s copy-down instruction. Real observations must be supplied by the learner; none have been invented.
+[ProductionNote] Rounding notation and decimal precision. Used≈ when rounding changes a value and preserved requested trailing zeros. Monetary source symbols and numerical values remain dollars/cents; these were not silently localised to rupees.
+[ProductionNote] Visuals are mathematical teaching drawings, not final graphic-novel artwork. They use clear teaching colours and exact partitions, counts and scales; each has a nearby instruction to apply current ChandRush styling only where it preserves comprehension. Essential question diagrams remain unsolved, with solution figures separated. A later layout must preserve that separation. No essential visual is intentionally left as a placeholder.
+[ProductionNote] The source conflicts and editorial decisions listed above remain visible for review. No required source was missing. No child reading trial is claimed. This version is an editorial review draft; it does not designate itself as an approved replacement source.
