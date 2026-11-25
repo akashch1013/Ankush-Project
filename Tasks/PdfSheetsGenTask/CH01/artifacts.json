@@ -5,7 +5,8 @@
   "math": "PASS 2026-11-25 (no maths; s2 art)",
   "pdf": "Output/CH01/CH01-P001.pdf",
   "design": "opener: midnight arch splash",
-  "version": "1795623631-d320"
+  "version": "1795626492-1d07",
+  "note": "v3: arch image now published (svg href was not collected before)"
  },
  "P005": {
   "url": "https://claude.ai/artifact/58DKypPxPLNDExB9NwQrYM",
@@ -41,7 +42,8 @@
   "math": "PASS 2026-11-24 (story page, no maths)",
   "pdf": "Output/CH01/CH01-P107.pdf",
   "design": "B1 story (Food Street)",
-  "version": "1795537684-b919"
+  "version": "1795626580-5cd0",
+  "balloons": "pipeline/balloon.py (seamless tails) 2026-11-25"
  },
  "P005-B1-rejected": {
   "pdf": "Output/CH01/CH01-P005-B1-rejected.pdf",
@@ -53,7 +55,8 @@
   "math": "PASS 2026-11-25 (s2 panels 3-4; strip +2..-8)",
   "pdf": "Output/CH01/CH01-P003.pdf",
   "design": "lift shaft: aubergine→amber, brass gate border",
-  "version": "1795623666-3f8c"
+  "version": "1795626507-ef48",
+  "balloons": "pipeline/balloon.py (seamless tails) 2026-11-25"
  },
  "P002": {
   "url": "https://claude.ai/artifact/3eJZD45Q69bSgaQeEYjotk",
@@ -61,7 +64,8 @@
   "math": "PASS 2026-11-25 (story, no maths; s2 art)",
   "pdf": "Output/CH01/CH01-P002.pdf",
   "design": "cub-eye letterbox; slate + cart-timber border",
-  "version": "1795623625-9fdb"
+  "version": "1795626499-847f",
+  "balloons": "pipeline/balloon.py (seamless tails) 2026-11-25"
  },
  "P004": {
   "url": "https://claude.ai/artifact/Rtoc9cVQWgqxspd46odpSB",
@@ -69,10 +73,19 @@
   "math": "PASS 2026-11-25 (strip +2..-8)",
   "pdf": "Output/CH01/CH01-P004.pdf",
   "design": "job sheet: royal-blue lacquer, full-height strip insert",
-  "version": "1795587629-6ad1"
+  "version": "1795626573-18ae",
+  "balloons": "pipeline/balloon.py (seamless tails) 2026-11-25"
  },
  "BOOK-P001-P005": {
   "pdf": "Output/CH01/CH01-Book-P001-P005.pdf",
-  "pdf_share": "Output/CH01/CH01-Book-P001-P005-share.pdf"
+  "pdf_share": "Output/CH01/CH01-Book-P001-P005-share.pdf",
+  "note": "= CH01-P001-P005.pdf (lossless join), rebuilt 2026-11-25 with seamless tails"
+ },
+ "SET-P001-P005": {
+  "url": "https://claude.ai/artifact/PXsGpYhedjCnTzFV8gLZV1",
+  "file_path": "PdfSheetsGenTask/CH01/sets/P001-P005/artifact.html",
+  "pdf": "Output/CH01/CH01-P001-P005.pdf",
+  "contact": "PdfSheetsGenTask/CH01/sets/P001-P005/contact.png",
+  "version": "1795626536-3215"
  }
 }

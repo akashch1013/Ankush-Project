@@ -2,6 +2,7 @@
 """CH01 P107 (story finale) page generator: B1 family, Food Street border (peacock teal, canopy seam,
 brass bracket, hanging lantern). Writes PdfSheetsGenTask/CH01/P107/index.html. Run from anywhere."""
 import math, pathlib
+import sys as _sys; _sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent)); from common import bln
 
 OUT = pathlib.Path(__file__).resolve().parents[2] / "CH01" / "P107" / "index.html"
 
@@ -59,6 +60,13 @@ B4tip = at("P107-4", 1098, 238)
 B5 = dict(x=494, y=338, w=214, h=66)
 tara5_mouth = at("P107-5", 1122, 252)
 B5tip = at("P107-5", 1086, 262)
+
+BALLOONS = bln([   # reading order; one outline per balloon + tail (pipeline/balloon.py)
+    dict(text="Please tell me he hasn’t ruined dinner.", at=[B2["x"], B2["y"]], w=B2["w"], h=B2["h"], maxw=B2["w"] - 22, tip=B2tip, bend=-.06),
+    dict(text="Come.", at=[B4["x"], B4["y"]], w=B4["w"], h=B4["h"], shape="oval", tip=B4tip),
+    dict(text="I’ll tell you what I know. But first, nobody touches those serving controls.", at=[B5["x"], B5["y"]], w=B5["w"], h=B5["h"],
+         maxw=B5["w"] - 24, shape="round", radius=24, tip=B5tip),
+])
 
 def tails_svg():
     out = []
@@ -208,18 +216,12 @@ BODY = f'''
 
 <!-- ========== P107-2: caption breaks the top frame; Tez's balloon in the calm upper-left ========== -->
 <div class="cap" style="left:608pt; top:20pt"><span class="nw">Tez’s ears drop.</span></div>
-{balloon(B2, '<span style="padding:0 10pt">Please tell me he hasn’t ruined dinner.</span>', "st")}
 
 <!-- ========== P107-3 caption ========== -->
 <div class="cap" style="left:32pt; top:342pt; width:118pt">Tara takes the evidence sleeve from Ahana.</div>
 
 <!-- ========== P107-4 / P107-5 Tara ========== -->
-{balloon(B4, '<span>Come.</span>', "ov")}
-{balloon(B5, '<span style="padding:0 12pt">I’ll tell you what I know. But first, nobody touches those serving controls.</span>', "st")}
-
-<svg class="tails" viewBox="0 0 864 648" aria-hidden="true">
-  {tails_svg()}
-</svg>
+{BALLOONS}
 '''
 
 HTML = f'''<!doctype html>

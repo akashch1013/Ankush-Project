@@ -1,0 +1,25 @@
+{
+ "_note": "Character references for image calls. Folder is relative to Tasks/. Read-only: never edit or rename these files. Filenames of the newer sheets do not say who is on them; this map does. 'heights' = the height chart to attach (last) when 2+ characters share a panel.",
+ "folder": "CHANDRUSH CHARACTERS",
+ "characters": {
+  "Ahana":   {"sheet": "AHANA CHARACTER SHEET.png",  "heights": "children", "id": "short loose black curls, teal-blue jacket, coral-orange T-shirt, charcoal cargo trousers, navy backpack, blue-and-white trainers"},
+  "Vihaan":  {"sheet": "VIHAAN CHARACTER SHEET.png", "heights": "children", "id": "thick tousled black hair, mustard-yellow jacket, navy T-shirt, slate-blue cargo trousers, deep-red backpack"},
+  "Navya":   {"sheet": "NAVYA CHARACTER SHEET.png",  "heights": "children", "id": "two black braids, maroon cropped overshirt over ivory-and-navy striped top, blue cargo jeans, tan cross-body satchel"},
+  "Tara":    {"sheet": "TARA CHARACTER SHEET.png",   "heights": "children", "id": "elder; long silver-white braid, deep-indigo robe with gold moon-and-bell borders, ivory inner clothes, peacock-teal shawl and sash, tall dark staff with brass crescent-and-bell top; ALWAYS calm and wise (Warm / Thoughtful / Reassuring / Watchful / Resolute), never animated"},
+  "Tez":     {"sheet": "TEZ CHARACTER SHEET.png",    "heights": "children", "id": "tiger cub; amber eyes, cream muzzle/chest/paws, black-ringed tail, navy triangular scarf with thin silver edge and round silver moon clasp; four paws, no hands"},
+  "Kabir":   {"sheet": "Profile figure with a black wristwatch.png", "heights": "children", "id": "boy; dark hair, rust-red hoodie, charcoal joggers, pale trainers, black wristwatch, writing pad"},
+  "Ira":     {"sheet": "Ira’s Refined Four-View Character Sheet.png", "heights": "children", "id": "small girl; black ponytail, light-blue denim jacket, white T-shirt, dark leggings, small cross-body bag"},
+  "Pip":     {"sheet": "Pip the brass bird reference sheet.png", "heights": "children", "id": "small brass mechanical bird; copper-red wings, blue glass eyes; may carry a folded note in its beak"},
+  "Veer":    {"sheet": "Tarnished silver ticket on vintage service sheet.png", "heights": "characters", "id": "adult man; wavy dark hair with grey, long burgundy coat, dark waistcoat, cane; props on sheet: old silver service ticket, workshop key, small padlock key"},
+  "Veer (clown disguise)": {"sheet": "Open-cuff tan costume glove detail.png", "heights": "characters", "id": "Veer disguised: red-and-gold ruffled jacket, blue-and-gold checked trousers, pointed hat, tan gloves, clown face paint"},
+  "Wooden clown": {"sheet": "Lanky Character Sheet with Split Checked Trousers.png", "heights": "characters", "id": "tall lanky wooden clown; red-and-yellow top, blue-and-gold checked split trousers, pointed hat, curled shoes"},
+  "Wooden fair helpers": {"sheet": "Wooden Fair Helpers Reference Sheet.png", "heights": "helpers", "id": "honey-wood jointed figures: gate helper (green vest), carrying helper (blue vest, broad), game helper (red vest), repair helper (brown apron), escort helper (plain), seating helper (plain tunic)"},
+  "Wooden kitchen helpers": {"sheet": "Pear-shaped wooden kitchen helper face.png", "heights": "helpers", "id": "honey-wood food helper (orange apron, cap) and two food assistants (cream tunic, orange sash)"},
+  "Supporting cast": {"sheet": "Two Silver Horses, One Lowering Its Head.png", "heights": "characters", "id": "girl in green, boy in the orange cap, prize-wheel boy, young Veer (age 12), two silver-grey carousel horses"}
+ },
+ "heights": {
+  "children":   "size reference children + tara.png",
+  "characters": "size reference characters + tara.png",
+  "helpers":    "size reference wooden helpers + tara.png"
+ }
+}

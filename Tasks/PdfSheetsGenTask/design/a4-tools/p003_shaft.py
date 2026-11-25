@@ -10,6 +10,7 @@ Field: aubergine at the top -> store-lamp umber at the foot. Border: the brass s
 latch at the entry), the lower store's timber landing as the page floor, a blank brass level plate at the finish.
 """
 import math, pathlib
+import sys as _sys; _sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent)); from common import bln
 
 OUT = pathlib.Path(__file__).resolve().parents[2] / "CH01" / "P003" / "index.html"
 
@@ -91,6 +92,13 @@ PL = at("P003-2", 437, 941); PR = at("P003-2", 522, 976)
 
 SH = P["P003-2"]
 SHX0, SHX1, SHY0, SHY1 = SH["x"], SH["x"] + SH["w"], SH["y"], SH["y"] + SH["h"]
+
+BALLOONS = bln([   # Tara, panels 3 and 4; one outline per balloon + tail (pipeline/balloon.py)
+    dict(text="That helper took the supplies down before the trouble began.", at=[B3["x"], B3["y"]], w=B3["w"], h=B3["h"],
+         maxw=B3["w"] - 24, tip=B3tip),
+    dict(text="Someone sent the empty lift back up and changed the return instructions. The helper’s still down there with the supplies.",
+         at=[B4["x"], B4["y"]], w=B4["w"], h=B4["h"], maxw=B4["w"] - 24, shape="round", radius=22, tip=B4tip),
+])
 
 BORDER = f'''
 <svg class="blk" style="left:0; top:0; width:864pt; height:648pt; z-index:0" viewBox="0 0 864 648" aria-hidden="true">
@@ -250,12 +258,7 @@ BODY = f'''
 <div class="cap" style="left:{SHX0 + 9:.1f}pt; top:{SHY0 + 12}pt; width:{158}pt">Far below, the wooden helper in the blue waistcoat stands beside its cart of supplies. It is tapping a metal box to attract attention.</div>
 
 <!-- ========== 3 / 4: Tara's balloons on the art above her head, tails to her mouth ========== -->
-{balloon(B3, '<span style="padding:0 13pt">That helper took the supplies down before the trouble began.</span>')}
-{balloon(B4, '<span style="padding:0 9pt">Someone sent the empty lift back up and changed the return instructions. The helper’s still down there with the supplies.</span>')}
-<svg class="tails" viewBox="0 0 864 648" aria-hidden="true">
-  {tail(*B3base, B3tip, bend=3)}
-  {tail(*B4base, B4tip, bend=3)}
-</svg>
+{BALLOONS}
 '''
 
 HTML = f'''<!doctype html>

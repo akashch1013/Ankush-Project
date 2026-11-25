@@ -28,7 +28,8 @@ Rules enforced here:
   * No immediate (non-batch) call unless --immediate-approved is given, which is only allowed when the user
     explicitly asked for it in the conversation.
   * quality 'max' refuses without --allow-max (user approval). Default quality is 'high'.
-  * At most 3 calls per item (gen + fixes); --force only with the user's approval.
+  * At most 3 calls per item (gen + fixes). Hard limit in code: nothing (not --force, not jobs.json) allows a 4th call.
+    After the 3rd result: qc pass, or `accept ID --note` and move on.
   * The API key is read from OPENAI_API_KEY / CHATGPT_API or BagroundGenTask/.env and never printed.
 
 SCHEMA of jobs.json:
@@ -78,6 +79,8 @@ FIX = ("Use case: precise correction of Image 1, a ChandRush comic image ({rid})
 
 # ---------------------------------------------------------------- basics
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))   # promptlint, cast
+
 def now():
     return dt.datetime.now().isoformat(timespec="seconds")
 
@@ -105,7 +108,7 @@ class WS:
         self.jobs.setdefault("model", "gpt-image-2.5-sunburst")
         self.jobs.setdefault("quality", "high")
         self.jobs.setdefault("size", "1024x768")
-        self.jobs.setdefault("max_calls", 3)
+        self.jobs["max_calls"] = min(int(self.jobs.get("max_calls", 3)), 3)   # hard ceiling: 3 calls per image, never more
         self.items = self.jobs["items"]
         st = load_json(self.p("state.json"), {"items": {}, "fix_queue": {}})
         for rid in self.items:
@@ -376,7 +379,7 @@ def batch_build(ws, a):
     for rid in ids:
         ws.item(rid)
         rs = ws.st["items"][rid]
-        cap = ws.calls(rid) >= ws.jobs["max_calls"] and not a.force
+        cap = ws.calls(rid) >= ws.jobs["max_calls"]
         try:
             if rid in ws.st["fix_queue"]:
                 if cap:
@@ -396,6 +399,14 @@ def batch_build(ws, a):
             if waiting:
                 skipped.append(f"{rid}: waits for {', '.join(waiting)}")
                 continue
+            if not getattr(a, "no_lint", False):
+                from promptlint import lint_item
+                fails, warns = lint_item(ws.dir, rid, ws.item(rid))
+                for w in warns:
+                    print(f"warn {rid}: {w}")
+                if fails:
+                    skipped.append(f"{rid}: prompt lint FAIL (fix the prompt first, it costs a call):\n      - " + "\n      - ".join(fails))
+                    continue
             jobs.append(make_job(ws, rid, "gen", allow_max=a.allow_max))
         except RuntimeError as e:
             skipped.append(str(e))
@@ -553,7 +564,7 @@ def cmd_fix(ws, a):
     ws.item(a.id)
     if not os.path.exists(ws.p("out", f"{a.id}.png")):
         sys.exit(f"{a.id} has no image yet")
-    if ws.calls(a.id) >= ws.jobs["max_calls"] and not a.force:
+    if ws.calls(a.id) >= ws.jobs["max_calls"]:
         sys.exit(f"{a.id}: {ws.jobs['max_calls']}-call cap reached -> `accept {a.id} --note ...`")
     for r in a.ref:
         if not os.path.exists(ws.ref_file(r)):
@@ -619,7 +630,7 @@ def cmd_gen(ws, a):
                  "Use --immediate-approved only if the user explicitly asked for an immediate call.")
     key = load_key()
     for rid in a.ids:
-        if ws.calls(rid) >= ws.jobs["max_calls"] and not a.force:
+        if ws.calls(rid) >= ws.jobs["max_calls"]:
             print(f"SKIP {rid}: call cap")
             continue
         job = make_job(ws, rid, "gen", allow_max=a.allow_max)
@@ -645,6 +656,7 @@ def main():
     s.add_argument("name", nargs="?")
     s.add_argument("ids", nargs="*")
     s.add_argument("--ready", action="store_true")
+    s.add_argument("--no-lint", dest="no_lint", action="store_true", help="skip promptlint (only for spot art the lint misreads)")
     s.add_argument("--wave", type=int)
     s.add_argument("--every", type=int, default=60)
     s.add_argument("--max-hours", type=float, default=24)

@@ -48,3 +48,11 @@ TAIL = """</div>
 </body>
 </html>
 """
+
+def bln(spec, z=8):
+    """seamless speech balloons (body + tail drawn as one outline): see pipeline/balloon.py for the spec."""
+    import sys as _s
+    _s.path.insert(0, T + "pipeline")
+    from balloon import balloons_html, report
+    print(report(spec), file=_s.stderr)
+    return balloons_html(spec, z)

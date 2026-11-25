@@ -20,26 +20,22 @@ Item IDs:
 
 **Before making an item, check that it isn't a reuse.** A zoomed detail panel can be cut from an existing image with the `.panel.zoom` CSS, and `library/` may already hold the prop or vignette. Reuse is free.
 
-## 2. References: which images, in which order
-The order is fixed. Declare each image in the prompt by its number:
-1. **Image 1 = the background plate** from stage 1, always the *raw* plate (`BagroundGenTask/out/plates/<ID>.png`, `ch02/out/plates/`, `ch03/out/plates/`). Never use the composed `out/final/` version, which has a title band and callouts that would leak.
-2. **Image 2…n = one character sheet for every character visible in the panel**, in the order they are named in the prompt:
+## 2. References: which images, in which order (user, 2026-11-25)
+Character references live in **`Tasks/CHANDRUSH CHARACTERS/`** (read-only). The newer sheets' filenames don't say who is on them, so always use the map in `pipeline/cast.json` (`python3 pipeline/cast.py list`). The order is fixed. Declare every image in the prompt as `Image n:`.
+1. **Image 1 = the raw background plate** (`BagroundGenTask/out/plates/<ID>.png`, `ch02/out/plates/`, `ch03/out/plates/`). Never use `out/final/` (title band, callouts) or `archive/`.
+2. **Image 2…n = the sheet of EVERY visible named character**, background figures included, in the order the prompt names them. The cast is Ahana, Vihaan, Navya, Tara, Tez, Kabir, Ira, Pip, Veer, Veer (clown disguise), the wooden clown, the wooden fair helpers, the wooden kitchen helpers and the supporting cast. Never describe a character instead of attaching their sheet.
+3. **Then the height chart** (`size reference … + tara.png`) whenever 2+ characters share the panel, so relative heights stay right.
+4. **Last, optional: `item:<previous panel>`** for continuity of a held prop, machine state or pose (the item then waits for that panel: wave 2).
 
-| Character | Sheet (relative to Tasks/) |
-|---|---|
-| Ahana | `../Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png` |
-| Navya | `../Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png` |
-| Vihaan | `../Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png` |
-| Tara | `../Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png` |
-| Tez (tiger cub) | `../Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png` |
-
-   A character with no sheet (e.g. Ira, Kabir, Veer, visitors) is described from the manuscript's *Characters visible in this chapter* text. When their first panel is approved, crop a clean full-figure view into `library/characters/<NAME>-ref.png` and use that crop as their reference from then on.
-3. **Last, optional: `item:<previous panel>`** when continuity of a held prop, a machine state or a pose matters across consecutive panels. This makes the item wait for that panel's approval (wave 2+).
-
-Do not attach more than 5 images. If 4 or more characters are visible, attach sheets only for the 3 most prominent, and describe the others in words.
+Get the refs list and the matching `Image n` lines from the tool, never by hand:
+```
+python3 pipeline/cast.py refs BagroundGenTask/out/plates/M01-D01.png Ahana Tez Tara      # -> jobs.json "refs"
+python3 pipeline/cast.py lines Ahana Tez Tara                                             # -> the Image 2..n prompt lines
+```
+Up to 10 images per call is fine. Identity is worth more than the extra input tokens.
 
 ## 3. Size and quality
-- Match the size to the panel's box (aspect from `pages.json`):
+- Match the size to the panel's box. The box comes from the page's art brief, which is fixed **before** any art (PAGE-DESIGN §5), so generate at the panel's own aspect and keep cropping small:
 
 | Panel aspect (w/h) | Size |
 |---|---|
@@ -90,11 +86,33 @@ Always include:
 - every count and inscription, exactly;
 - continuity with the previous panel (same outfit details, same machine state).
 
-## 7. Loop
-1. Write the prompt + CHECKS. Run `check` and `dry-run <ID>` once, and read the sent prompt and ref order.
-2. Build and submit: the **samples** are the first 2 panels of a new chapter, in their own batch (`batch build <CHxx>-samples P001-1 P001-2`). After the user approves them, run the rest in waves (`batch build <CHxx>-w1 --ready`). Run `batch wait` in the background.
-3. QC every image like an art director: Read it, `zoom` faces, hands, counts and inscriptions, and compare with the sheets. Then `qc <ID> pass --note "<what was verified>"`.
-4. To fix:
-   - A local defect: `fix <ID> "<one precise change: place, wrong state, right state>"` (add `--ref` of the character sheet for identity fixes). Fixes are queued and sent with the next `--ready` batch.
-   - A wrong composition: revise the prompt, then `qc <ID> fail --regen`.
-5. Cap: at 3 calls → `accept <ID> --note "<defect>"` and move on. Only huge errors (wrong maths/count, wrong character, missing key action) are worth flagging to the master. Minor art flaws are accepted.
+## 7. First-time-right prompts (each image has only 3 calls)
+Before marking an item ready, check every point:
+1. **Stage it in the plate.** Look at the plate. Every object keeps its exact shape, position and orientation. Decide where each character must stand so the beat happens there. Say "screen-left/right" for sides and hands.
+2. **Continuity.** Look at the previous and next panels' images (`out/`): same outfits, held props, machine states and positions.
+3. **Identity.** Attach every visible character's sheet (cast.py) plus the height chart. Tara is always calm and wise, never animated. All humans have fair skin (CH01 author note).
+4. **Words space.** Copy the page brief's text zones into "Reserved empty areas" with panel fractions. Those areas stay calm and low-detail: no face, hand or key prop inside.
+5. **Counts and states.** Write "exactly N (word)" for counted things, and what is NOT there yet.
+6. **No lettering** of any kind. Blank cards or plates where exact text will be overlaid.
+7. **CHECKS (6–12)**, one per risk above.
+8. Run `python3 pipeline/promptlint.py --ws FInalChangesTask/<CHxx> <IDs>` (free). `batch build` refuses any item that FAILs the lint.
+
+## 8. Loop: one batch per wave for ALL requested pages
+1. Write every prompt for every requested page first: all pages, all panels, all spot art. Lint them.
+2. **One combined batch per wave:** `batch build <CHxx>-<run>-w1 --ready` takes every ready item of every page in one batch. Submit it, then run `batch wait` in the background.
+   - Items that reference another item (`item:`) wait for wave 2.
+   - Text-only (no-ref) spot art uses another endpoint, so it goes in its own small batch submitted at the same time.
+   - Never submit one batch per page.
+3. **QC** every image like an art director:
+   - Read it.
+   - `zoom` faces against the sheets, then hands, counts and inscriptions.
+   - Confirm the reserved areas are empty and nothing is lettered.
+   - Then record the verdict: `qc <ID> pass --note "<what was verified>"`.
+4. **Fixes:**
+   - A local defect: `fix <ID> "<one precise change: place, wrong state, right state>"` (add `--ref` of the sheet for identity).
+   - A wrong composition: rewrite the prompt, then `qc <ID> fail --regen`.
+
+   Then **one combined wave-2 batch** (`--ready`) carries every fix and every wave-2 item together. Wave 3 the same way.
+5. **Hard cap of 3 calls per image** (enforced in imggen.py: nothing allows a 4th). After the 3rd result, pass it or `accept <ID> --note "<defect>"`.
+   - Minor art flaws are accepted.
+   - Flag to the master only wrong maths or counts, a wrong character, or a missing key action.

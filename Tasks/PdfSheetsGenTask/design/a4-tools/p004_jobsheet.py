@@ -6,7 +6,7 @@
 # Vihaan's fingertip in P004-2. The painted strips in the art stay unlabelled (P004-2 has only 10 painted ticks).
 import sys
 sys.path.insert(0, "/home/akasdh/Desktop/Projects/ComicAgent/Tasks/PdfSheetsGenTask/design/a4-tools")
-from common import sync_assets, TAIL
+from common import sync_assets, TAIL, bln
 
 T = "/home/akasdh/Desktop/Projects/ComicAgent/Tasks/"
 PD = T + "PdfSheetsGenTask/CH01/P004"
@@ -94,6 +94,16 @@ def bal(B, text, cls="", pad=10):
     rad = "50%" if "ov" in cls else f"{r:.1f}pt"
     return (f'<div class="bal{cls}" style="left:{B["x"]:.2f}pt; top:{B["y"]:.2f}pt; width:{B["w"]:.2f}pt; height:{B["h"]:.2f}pt; border-radius:{rad}">'
             f'<span style="padding:0 {pad}pt">{text}</span></div>')
+
+BALLOONS = bln([   # reading order; one outline per balloon + tail, "Yes." linked to Tara's next balloon
+    dict(text="Eight marks below the street.", at=[BV["x"], BV["y"]], w=BV["w"], h=BV["h"], maxw=BV["w"] - 20,
+         tip=(V_MOUTH[0] - 6, V_MOUTH[1] + 1)),
+    dict(text="Yes.", at=[BY["x"], BY["y"] - 2]),
+    dict(text="The numbers tell us where the lift is compared with this landing.", at=[BT["x"] + 14, BT["y"] + 10], w=BT["w"], h=BT["h"],
+         maxw=BT["w"] - 24, shape="round", radius=26, link=1, tip=(T_MOUTH[0] - 9, T_MOUTH[1] + 1)),
+    dict(text="How can we choose movements that will reach the store?", at=[BA["x"], BA["y"]], w=BA["w"], h=BA["h"],
+         maxw=BA["w"] - 24, shape="round", radius=28, tip=(A_MOUTH[0] - 12, A_MOUTH[1] - 1)),
+])
 
 tails = [
     stail(BV["x"] + BV["w"] - 3, BV["y"] + 20, BV["y"] + 32, V_MOUTH[0] - 6, V_MOUTH[1] + 1),
@@ -238,20 +248,12 @@ body = f"""<div class="page jobsheet" id="page" data-chapter="CH01" data-page="P
 
 <!-- P004-2: caption → Vihaan → caption, all ON the art (box face, left of Vihaan; jacket at the foot) -->
 <div class="cap abs" style="left:{P2['x'] + 5}pt; top:{B_T + 5}pt; width:{0.565 * W2 - 5:.2f}pt; z-index:2; padding:4pt 8pt 5pt">Beside the shaft, a numbered strip shows the lift’s position. Street level is marked 0. Positive numbers are above it. Negative numbers are below. The store is at −8.</div>
-{bal(BV, "Eight marks below the street.")}
 <div class="cap abs" style="left:{P2['x'] + 0.43 * W2:.2f}pt; bottom:{648 - B_B + 5}pt; width:{0.57 * W2 - 5:.2f}pt; z-index:2; padding:4pt 8pt 5pt">Vihaan follows the strip with his finger.</div>
 
 <!-- P004-3: Tara, one speaking beat in two linked balloons -->
-{bal(BY, "Yes.", " ov", 0)}
-{bal(BT, "The numbers tell us where the lift is compared with this landing.")}
 
 <!-- P004-4: Ahana's question -->
-{bal(BA, "How can we choose movements that will reach the store?")}
-
-<svg class="tails" viewBox="0 0 864 648" aria-hidden="true">
-  {''.join(tails)}
-  {neck}
-</svg>
+{BALLOONS}
 
 """
 

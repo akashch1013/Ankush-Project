@@ -22,6 +22,10 @@
   render PAGE_DIR                        check, then print Output/CHxx/CHxx-Pxxx.pdf and PAGE_DIR/preview.png
   artifact PAGE_DIR                      build PAGE_DIR/artifact.html (CSS + fonts inlined, no html/head/body wrapper)
                                          and print the Artifact publish arguments (file_path, files, title, icon)
+  set CH01 P001-P005 [--name NAME]       ALL requested pages as ONE deliverable: Output/CH01/CH01-<NAME>.pdf (lossless join,
+                                         manuscript order) + PdfSheetsGenTask/CH01/sets/<NAME>/artifact.html (every sheet
+                                         stacked, CSS/ids namespaced per page) and its publish arguments. Pages: P001-P005,
+                                         P001,P003 or P001-P003,P107. Default deliverable of every multi-page request.
 
 A page is ready only when `render` prints OK (1 page, 864 x 648 pt) and mathcheck has 0 failures.
 """
@@ -242,7 +246,9 @@ def cmd_artifact(a):
     with open(dst, "w", encoding="utf-8") as fh:
         fh.write(out)
     files, total = {}, os.path.getsize(dst)
-    for ref in sorted(set(re.findall(r'src="(assets/img/[^"]+)"', body))):
+    # every way a page can point at its art: <img src>, SVG <image href>/xlink:href, CSS url()
+    refs = re.findall(r'(?:src|href)="(assets/img/[^"]+)"', body) + re.findall(r'url\(["\']?(assets/img/[^"\')]+)', body + styles)
+    for ref in sorted(set(refs)):
         full = os.path.join(page_dir, ref)
         if not os.path.exists(full):
             sys.exit(f"missing {ref}")
@@ -254,6 +260,121 @@ def cmd_artifact(a):
                       "title": f"ChandRush {ch} Page {int(pg[1:])}", "icon": "book"}, indent=1))
     print(f"# artifact.html {os.path.getsize(dst) / 2**20:.1f} MB, {len(files)} image(s), total {total / 2**20:.1f} MB",
           file=sys.stderr)
+
+
+def page_range(spec):
+    """'P001-P005' or 'P001,P003,P007' or 'P001-P003,P107' -> ['P001', ...] (manuscript ids, never renumbered)"""
+    out = []
+    for part in spec.split(","):
+        part = part.strip().upper()
+        if "-" in part:
+            a, b = part.split("-")
+            out += [f"P{n:03d}" for n in range(int(a.lstrip("P")), int(b.lstrip("P")) + 1)]
+        elif part:
+            out.append(part if part.startswith("P") else f"P{int(part):03d}")
+    return out
+
+
+def cmd_set(a):
+    """All requested pages in ONE deliverable: a combined PDF (lossless join of the page PDFs, manuscript order)
+    and ONE artifact page that shows every sheet stacked (each page's CSS and SVG ids namespaced, so nothing clashes)."""
+    import base64
+    ch = a.chapter.upper()
+    pages = [p for p in page_range(a.pages)]
+    base_dir = os.path.join(TASKS, "PdfSheetsGenTask", ch)
+    missing = [p for p in pages if not os.path.exists(os.path.join(TASKS, "Output", ch, f"{ch}-{p}.pdf"))]
+    if missing:
+        sys.exit("render these first: " + " ".join(missing))
+    name = a.name or (f"{pages[0]}-{pages[-1]}" if len(pages) > 1 else pages[0])
+    # 1. combined PDF: pdfunite copies the page objects as they are (no re-encoding, no rasterising)
+    pdf = os.path.join(TASKS, "Output", ch, f"{ch}-{name}.pdf")
+    subprocess.run(["pdfunite"] + [os.path.join(TASKS, "Output", ch, f"{ch}-{p}.pdf") for p in pages] + [pdf], check=True)
+    # 2. one artifact with every sheet
+    set_dir = os.path.join(base_dir, "sets", name)
+    os.makedirs(set_dir, exist_ok=True)
+    first = os.path.join(base_dir, pages[0])
+    css = open(os.path.join(first, "assets", "base.css"), encoding="utf-8").read()
+    kit = os.path.join(first, "assets", "kit.css")
+    if os.path.exists(kit):
+        css += "\n" + open(kit, encoding="utf-8").read()
+
+    def font(m):
+        return "url(data:font/ttf;base64," + base64.b64encode(open(os.path.join(first, "assets", m.group(1)), "rb").read()).decode() + ")"
+    css = re.sub(r'url\("(fonts/[^"]+)"\)', font, css)
+    css = re.sub(r"html,\s*body\s*\{[^}]*\}", "", css)          # the set page owns html/body
+    sheets, files, scoped = [], {}, []
+    for p in pages:
+        d = os.path.join(base_dir, p)
+        src = open(os.path.join(d, "index.html"), encoding="utf-8").read()
+        st = "\n".join(re.findall(r"<style>(.*?)</style>", src, re.S))
+        body = re.search(r"<body[^>]*>(.*)</body>", src, re.S).group(1)
+        body = re.sub(r"<script\b.*?</script>", "", body, flags=re.S)
+        ids = set(re.findall(r'\bid="([^"]+)"', body))
+        for i in sorted(ids, key=len, reverse=True):
+            new = f"{p}-{i}"
+            body = re.sub(rf'\bid="{re.escape(i)}"', f'id="{new}"', body)
+            body = re.sub(rf'url\(#{re.escape(i)}\)', f"url(#{new})", body)
+            body = re.sub(rf'href="#{re.escape(i)}"', f'href="#{new}"', body)
+            st = re.sub(rf'url\(#{re.escape(i)}\)', f"url(#{new})", st)
+        body = re.sub(r'(src|href)="assets/', rf'\1="{p}/assets/', body)
+        body = re.sub(r'url\((["\']?)assets/', rf'url(\1{p}/assets/', body)
+        st = re.sub(r'url\((["\']?)assets/', rf'url(\1{p}/assets/', st)
+        st = re.sub(r"/\*.*?\*/", "", st, flags=re.S)
+
+        def scope(m, p=p):
+            sel = m.group(1)
+            if sel.strip().startswith("@"):
+                return m.group(0)
+            return ",".join(f"#s-{p} {x.strip()}" for x in sel.split(",")) + " {"
+        scoped.append(re.sub(r"([^{}]+)\{", scope, st))
+        sheets.append(f'<section class="sheet" id="s-{p}">{body.strip()}</section>')
+        refs = re.findall(rf'(?:src|href)="({p}/assets/img/[^"]+)"', body) + re.findall(rf'url\(["\']?({p}/assets/img/[^"\')]+)', body + st)
+        for ref in sorted(set(refs)):
+            full = os.path.join(base_dir, ref)
+            files[ref] = os.path.relpath(full, os.getcwd())
+    title = f"ChandRush {ch} " + (f"Pages {int(pages[0][1:])}–{int(pages[-1][1:])}" if len(pages) > 1 else f"Page {int(pages[0][1:])}")
+    out = (f"<title>{title}</title>\n<style>\n{css}\n" + "\n".join(scoped) + """
+html, body { margin: 0; padding: 0; background: #0b1120; }
+.set { display: flex; flex-direction: column; align-items: center; gap: 28px; padding-block: 28px; }
+.sheet { position: relative; }
+.sheet .page { box-shadow: 0 6px 28px rgba(0,0,0,.55); }
+@media print { .set { gap: 0; padding: 0; } .sheet { break-after: page; } .sheet .page { box-shadow: none; } }
+</style>
+<div class="set">
+""" + "\n".join(sheets) + """
+</div>
+<script>
+  (function () {
+    var ps = document.querySelectorAll(".sheet > .page");
+    function fit() {
+      var w = document.documentElement.clientWidth - 24;
+      ps.forEach(function (p) { p.style.zoom = 1; p.style.zoom = Math.min(1, w / p.offsetWidth); });
+    }
+    window.addEventListener("resize", fit); fit();
+  })();
+</script>
+""")
+    dst = os.path.join(set_dir, "artifact.html")
+    open(dst, "w", encoding="utf-8").write(out)
+    if os.path.getsize(dst) > 16 * 2**20:
+        sys.exit("artifact.html is over 16 MB")
+    # contact sheet of the previews: the master reviews every page in one image (cheap), zooms only where needed
+    try:
+        from PIL import Image
+        ims = [Image.open(os.path.join(base_dir, p, "preview.png")).convert("RGB") for p in pages]
+        cols = 2 if len(ims) > 1 else 1
+        w = 900 if cols == 2 else 1320
+        th = [im.resize((w, int(im.height * w / im.width))) for im in ims]
+        h = max(t.height for t in th)
+        sheet = Image.new("RGB", (cols * w + (cols - 1) * 12, ((len(th) + cols - 1) // cols) * (h + 12)), (11, 17, 32))
+        for i, t in enumerate(th):
+            sheet.paste(t, ((i % cols) * (w + 12), (i // cols) * (h + 12)))
+        sheet.save(os.path.join(set_dir, "contact.png"))
+        print(f"contact sheet {os.path.join(set_dir, 'contact.png')}", file=sys.stderr)
+    except Exception as e:
+        print(f"(no contact sheet: {e})", file=sys.stderr)
+    print(f"PDF  {pdf}  ({len(pages)} pages)", file=sys.stderr)
+    print(json.dumps({"file_path": os.path.relpath(dst, os.getcwd()), "files": files, "title": title, "icon": "book"}, indent=1))
 
 
 def main():
@@ -277,9 +398,10 @@ def main():
     s = sub.add_parser("check"); s.add_argument("page_dir")
     s = sub.add_parser("render"); s.add_argument("page_dir"); s.add_argument("--dpi", type=int, default=110)
     s = sub.add_parser("artifact"); s.add_argument("page_dir")
+    s = sub.add_parser("set"); s.add_argument("chapter"); s.add_argument("pages"); s.add_argument("--name")
     a = ap.parse_args()
     {"new": cmd_new, "img": cmd_img, "numberline": cmd_numberline, "backdrop": cmd_backdrop, "scene": cmd_scene, "cutout": cmd_cutout, "check": cmd_check, "render": cmd_render,
-     "artifact": cmd_artifact}[a.cmd](a)
+     "artifact": cmd_artifact, "set": cmd_set}[a.cmd](a)
 
 
 if __name__ == "__main__":

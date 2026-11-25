@@ -38,7 +38,8 @@
           "reserve": [{"for": "caption", "where": "upper-left", "w": 0.32, "h": 0.30},
                       {"for": "bubble", "where": "upper-right", "w": 0.30, "h": 0.22}],
           "captions": ["Exact CAPTION TEXT paragraph(s), verbatim"],
-          "bubbles": [{"speaker": "Vihaan", "text": "Exact Dialogue Copy, verbatim", "where": "upper-right", "tail_to": "Vihaan's mouth"}]
+          "bubbles": [{"speaker": "Vihaan", "text": "Exact Dialogue Copy, verbatim", "where": "upper-right", "tail_to": "Vihaan's mouth",
+                       "link": "previous balloon of the same speaker in this beat (optional)"}]
         },
         {"id": "P001-2", "beat": "CH02 01A B", "box": [30, 378, 330, 110],
          "art": {"kind": "zoom", "of": "P001-1", "focus": [0.62, 0.58], "z": 2.4}},
@@ -58,14 +59,16 @@
       "spot_art": [{"item": "V-TEZ-02", "kind": "vignette", "desc": "Tez sitting, paws together, sly grin, Lantern Street fragment"}],
       "notes": "anything the builder must know (continuity, what must not be shown yet)",
       "art": {"idea": "…", "stage": "…", "ornament": "…", "hero": "…", "objects": {}, "illustrate": "…",
-              "companion": "…", "colour": "…", "delights": ["…"], "folio": "moonclock --t 0.364", "varies": "…"}
+              "companion": "…", "colour": "…", "delights": ["…"], "folio": "moonclock --t 0.364", "varies": "…",
+              "variation": {"kind": "story", "grid": "…", "border_build": "…", "field": "…", "…": "written by pipeline/vary.py --write"}}
     }
   ]
 }
 ```
 
 Rules:
-- `art` (top level of a page, not `panels[].art`) is the art-direction brief: see `PdfSheetsGenTask/design/ART-DIRECTION.md` §10. The art-director (or the master for 1–2 pages) writes it before the build.
+- `art` (top level of a page, not `panels[].art`) is the art-direction brief: see `PdfSheetsGenTask/design/PAGE-DESIGN.md`. `art.variation` comes from `pipeline/vary.py --write`. The art-director (or the master for 1–2 pages) writes the brief before any art is made.
+- **Layout first:** each panel's `box` and `reserve` are final **before** the panel art is generated, because the image is made at that aspect with calm areas where the words go. Size each text block with `python3 pipeline/balloon.py --measure "<text>" --maxw <w>` (a caption is about the same size + 4 pt) and turn it into a `reserve` fraction of the panel.
 - `panels[].art.kind`:
   - `new`: panel-artist makes item `art.item` in `FInalChangesTask/<CHxx>/`.
   - `zoom`: a crop of another panel's art, made with CSS (free).

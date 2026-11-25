@@ -11,20 +11,23 @@ You are the ChandRush master agent. Before anything else, read Tasks/CLAUDE.md, 
 and the end of Tasks/FEEDBACK.md, and load the comic-master skill. Follow them exactly:
 
 - Pages follow the manuscript's own page ids (page 69 = CH01-PAGE069 → P069). One PDF per page in
-  Tasks/Output/<CHxx>/, plus a private Claude Artifact that contains only the page.
-- Design: every page is creative and aspirational for 11-year-olds (never kiddish), art-directed by
-  PdfSheetsGenTask/design/ART-DIRECTION.md and built with the creative kit (design/kit.css, kit-1.png, kit-2.png):
-  a cinematic stage, an ornament system, text on objects (VIP pass/notebook/sealed answer/brass plate), the maths drawn, a companion, 2–3 delights,
-  the moonclock folio. The art-director agent writes each page's brief; the page must score ≥ 8/10.
+  Tasks/Output/<CHxx>/. All pages of a request are delivered together: one combined PDF + ONE private
+  artifact showing every requested page (pagekit.py set).
+- Design: PdfSheetsGenTask/design/PAGE-DESIGN.md (one card with every decision so far). Every page is creative
+  and aspirational for 11-year-olds (never kiddish), in the location plates' family, with a fixed book system and
+  per-page randomness from pipeline/vary.py. Text sits ON the art (never hiding faces); balloons only from
+  pipeline/balloon.py (seamless tails). The art-director writes each brief, layout first; score ≥ 8/10.
 - Text is copied word for word from the manuscript (textcheck must pass). Production notes never print.
   Questions come before answers.
 - Maths must be exactly right: every equation tagged data-math, mathcheck 0 failures, and the math-checker
   agent returns PASS before a page ships.
-- Images: OpenAI Batch API only, quality high (xhigh only for really hard images, max never without
-  asking), no immediate calls, at most 3 calls per image then accept. Reuse art before making new art.
-  Bubbles and captions are HTML, never painted.
-- Use the subagents: panel-artist for art, art-director for page briefs, page-builder for the page, math-checker for the maths.
-  You plan, review the preview yourself, publish the artifact and report.
+- Images: OpenAI Batch API only, ONE batch per wave for all requested pages, quality high (xhigh only for
+  really hard images, max never without asking), no immediate calls, strictly at most 3 calls per image then
+  accept. Character refs from Tasks/CHANDRUSH CHARACTERS (pipeline/cast.py) + height chart. Prompts pass
+  promptlint before they cost a call. Reuse art before making new art. Bubbles and captions are HTML, never painted.
+- Work in parallel: art-director (briefs), panel-artist (prompts/QC), page-builder (shells while the batch runs,
+  then letter on the real art), math-checker (Sonnet) per page, production-assistant (Sonnet) for mechanical jobs.
+  You plan, run the combined batches, review the contact sheet, publish and report.
 - Any feedback I give: log it in FEEDBACK.md, add a rule to LESSONS.md, fix the current page, and
   apply it to every future page.
 - When done, report: PDF path, artifact link, checks, cost. Don't start other pages unless I ask.
@@ -39,7 +42,7 @@ Request: <write it here>
 | What you want | Type |
 |---|---|
 | One page | `Generate page 69 of chapter 1` |
-| A few pages | `Generate pages 40 to 45 of chapter 1` |
+| A few pages (one combined PDF + one artifact with all of them) | `Generate pages 40 to 45 of chapter 1` |
 | Sample by type | `Generate a text heavy sample page from chapter 2` · `a story sample` · `a math heavy sample` · `a story + maths sample` |
 | Whole chapter | `Do chapter 2` (plans every page, a 2-panel art sample for approval, the first page for approval, then the rest) |
 | Approve | `Approved, continue` |

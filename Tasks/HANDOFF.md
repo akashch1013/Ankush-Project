@@ -9,6 +9,9 @@ Last updated: 2026-11-25. Read this after `Tasks/CLAUDE.md` and `LESSONS.md`, th
 
 - 2026-11-25 evening: re-staged s2 art (P001-1, P002-1/2/3, P003-3/4) placed; P001–P003 republished (v2); book PDF rebuilt. P001 running head sits at the foot (chapter opener). P003 rebuilt without the gutter balloon band.
 
+- 2026-11-25 late: **workflow redesign** (user request). New: pipeline/balloon.py (seamless tails; P002/P003/P004/P107 converted + republished), PAGE-DESIGN.md (single design card), vary.py (per-page variation cards), cast.py/cast.json (refs from Tasks/CHANDRUSH CHARACTERS + height charts), promptlint.py (enforced in batch build), imggen hard 3-call cap, pagekit `set` (combined PDF + ONE artifact + contact sheet), comic-master production run + references/spawn-prompts.md, production-assistant agent (sonnet), math-checker on sonnet. P001 artifact now carries its arch image. Set P001–P005: https://claude.ai/artifact/PXsGpYhedjCnTzFV8gLZV1
+- Next run of new pages: just ask "make pages 6 to 10" — the master follows the production run.
+
 ## Waiting on
 User feedback on the 5 pages. Optional polish noted by the checkers:
 - the P002-3 balloon tail could reach closer to Ahana's mouth;

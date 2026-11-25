@@ -7,6 +7,7 @@ Border: the culprit cart. Timber corner block + the handle as the top arm, its g
 where Tez bumped it; a brass pinstripe carries on round the page; a quarter cart wheel finishes.
 Writes PdfSheetsGenTask/CH01/P002/index.html."""
 import math, pathlib
+import sys as _sys; _sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent)); from common import bln
 
 OUT = pathlib.Path(__file__).resolve().parents[2] / "CH01" / "P002" / "index.html"
 
@@ -68,6 +69,12 @@ C2 = dict(x=P["P002-2"]["x"] + 6, y=T2B - 6 - 29)
 # P002-3 Ahana: one-line stadium in the sky where she glances, covering the moon (image x .49-.97, y .08-.17)
 B3 = dict(x=664, y=314, w=158, h=30)
 B3_tip = at("P002-3", .468, .222)               # on the curls right of her face, toward her mouth (.39,.32)
+
+BALLOONS = bln([   # reading order; one outline per balloon + tail (pipeline/balloon.py)
+    dict(text="Are you all right?", at=[B2a["x"], B2a["y"]], w=B2a["w"], h=B2a["h"], tip=B2a_tip),
+    dict(text="I knew that was there.", at=[B2b["x"], B2b["y"]], w=B2b["w"], h=B2b["h"], maxw=92, tip=B2b_tip, bend=-.12),
+    dict(text="I was asking the cart.", at=[B3["x"], B3["y"]], w=B3["w"], h=B3["h"], tip=B3_tip),
+])
 
 def tails_svg():
     out = []
@@ -238,16 +245,10 @@ HTML = f'''<!doctype html>
 <div class="cap" style="left:{C1["x"]}pt; top:{C1["y"]}pt">Tez walks into a parked cart handle.</div>
 
 <!-- ========== P002-2: Ahana asks first (top), Tez answers (right), caption on the paving ========== -->
-{balloon(B2a, '<span class="nw">Are you all right?</span>', "st")}
-{balloon(B2b, '<span style="width:86pt">I knew that was there.</span>', "st")}
 <div class="cap" style="left:{C2["x"]}pt; top:{C2["y"]}pt">Ahana catches the handle. She lifts the lamp higher.</div>
 
 <!-- ========== P002-3: the joke, to the cart ========== -->
-{balloon(B3, '<span class="nw">I was asking the cart.</span>', "st")}
-
-<svg class="tails" viewBox="0 0 864 648" aria-hidden="true">
-  {tails_svg()}
-</svg>
+{BALLOONS}
 
 </div>
 <script>

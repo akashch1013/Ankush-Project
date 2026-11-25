@@ -1,7 +1,7 @@
 ---
 name: math-checker
 description: ChandRush independent maths verifier. Checks one finished comic page (HTML, rendered preview, panel art) for mathematical correctness, data-math tag fidelity, question-before-answer and answer leaks, and numbers painted in the art. Read-only; returns PASS or an exact fix list. Spawned by the comic master after each page render.
-model: opus
+model: sonnet
 tools: Read, Bash, Grep, Glob
 skills:
   - comic-math-check
