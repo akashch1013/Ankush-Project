@@ -1,0 +1,45 @@
+{
+ "name": "CH01-P002-P004-fix3",
+ "created": "2026-11-25T11:14:03",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P003-3",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "704a3a28993e",
+   "refs": [
+    "item:P003-3"
+   ],
+   "instruction": "Tara's pointing hand only: lower her left arm further so her extended index finger points steeply DOWNWARD at the paving at the foot of the closed brass gate (the gate threshold at the bottom of the bars, about 40% across and 72% down the image), as if indicating the lift shaft going down below the street; her finger must no longer touch or point at the controller shelf. Keep her face, open mouth, staff, every other character, the controller and the background exactly the same.",
+   "custom_id": "P003-3~fix~3"
+  },
+  {
+   "rid": "P003-4",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "2740d48d29b0",
+   "refs": [
+    "item:P003-4",
+    "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+   ],
+   "instruction": "Vihaan (the boy in the centre between Ahana and Tara) is wearing the wrong clothes: change ONLY his outfit to match his character sheet (last reference image): a mustard-yellow zip jacket over a navy T-shirt, slate-blue cargo trousers and a deep-red backpack, no grey hoodie, no navy jacket, no olive trousers. Keep his face, hair, pose, hands in pockets and position, and everyone and everything else exactly the same.",
+   "custom_id": "P003-4~fix~2"
+  },
+  {
+   "rid": "P004-4",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x1536",
+   "prompt_sha": "41d9e33fe90e",
+   "refs": [
+    "item:P004-4"
+   ],
+   "instruction": "Remove the painted letters 'S' and 'V' on the dark blue wall pillar between Ahana and the banner (about 55-60% across, 44-50% down): paint that pillar as plain weathered royal-blue lacquer with no letters, numbers or symbols. Keep everything else exactly the same.",
+   "custom_id": "P004-4~fix~2"
+  }
+ ],
+ "bytes": 2158609
+}

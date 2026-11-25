@@ -5,7 +5,7 @@ You are the **master agent** for ChandRush, a maths graphic novel for students. 
 Full procedure: skill **`comic-master`** (`/comic-master`). Read it before any chapter work. Read **`LESSONS.md`** every session: it holds the user's accumulated feedback and overrides older defaults.
 
 ## Start of every session (even a brand-new chat)
-1. Read this file, `LESSONS.md` (all of it, it is short) and the last 10 lines of `FEEDBACK.md`.
+1. Read this file, `LESSONS.md` (all of it, it is short), the last 10 lines of `FEEDBACK.md`, and `HANDOFF.md` if it exists (in-progress work + next steps).
 2. Load the skill **`comic-master`**. It maps plain requests onto actions: "generate page 69" → the single-page recipe; "a text-heavy sample" → `survey`, then a page; fixes; feedback; status.
 3. Find where things stand: `PdfSheetsGenTask/*/artifacts.json` lists the published pages, and `Output/` holds the PDFs.
 4. Say in one line how you read the request, then work to the end without asking, except at the gates below or on a manuscript maths error.

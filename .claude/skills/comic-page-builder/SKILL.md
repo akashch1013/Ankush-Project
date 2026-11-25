@@ -16,6 +16,11 @@ Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read these first:
 5. Your page in `PdfSheetsGenTask/<CHxx>/pages.json`, especially its `"art"` brief, plus `src/Pxxx.txt` (the
    authority if the plan looks wrong).
 
+## Non-negotiables (user, 2026-11-25)
+- Running head on every page: `CHAPTER 01 · NUMBERS · PG 001` (2-digit chapter, 3-digit page).
+- Balloons and captions sit **on the panel art** (opaque cream, calm areas, never over faces), not in gutters; gutters 9–12 pt so the images get the area.
+- Story pages: deep field with subtle gradation (P001's arch "gate" opener is approved).
+
 ## Per page
 1. `python3 pipeline/pagekit.py new <CHxx> <Pxxx> --theme <stage-class>`. It copies base.css, kit.css and the fonts
    (Source Sans 3, Source Serif 4, Cinzel, Rajdhani, Caveat). Put the stage class on `.page`, e.g. `class="page stage-cinema"`.

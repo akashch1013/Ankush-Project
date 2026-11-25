@@ -1,0 +1,16 @@
+interface:
+  display_name: Skill 03 Automated Page Production
+  short_description: Design and assemble story and maths pages in InDesign
+  default_prompt: Use $skill-03-automated-page-production to design and assemble the
+    assigned pages from the manuscript, design manual and master or sub-location images
+    in my project sources. Carry the location colours and art style through the maths
+    graphics and page design.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -29,7 +29,7 @@
    ]
   },
   "P107-1": {
-   "status": "review",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -63,17 +63,22 @@
      "usd": 0.0273
     }
    ],
-   "note": "",
+   "note": "attempt 2: identities from behind OK (Tara braid/robe/staff, Ahana curls/teal/navy pack, Vihaan mustard/red pack, Navya braids/maroon/tan satchel); 4 humans + 3 wooden helpers behind left counter; Tara staff RIGHT, Ahana lamp RIGHT + sleeve LEFT (fixed), Vihaan hand at neck, Navya arms folded; tipped intact bowl at wheel lower-left; dosa overhang; shutter raised; no lettering. FLAG: helpers + dosa sit in caption band x.22-.70 y<.33; upper-right x.44-.92 y<.25 calmer",
    "qc": [
     {
      "at": "2026-11-23T18:50:34",
      "verdict": "fail",
      "note": "attempt 1: identity (back views), staff in Tara's RIGHT, lamp in Ahana's RIGHT, Vihaan hand at neck, Navya arms folded, tipped intact bowl at the wheel's lower-left outer edge in the central gap, other bowls, oversized dosa, 3 wooden helpers behind the left counter, plain lintel, no lettering: all OK. DEFECT: the paper sleeve is on Ahana's RIGHT side beside the lamp instead of in her LEFT hand -> local fix queued. NOTE: helpers (x .29-.43, y .20-.30) and dosa top sit in the planned caption band x .22-.70; upper-right x .44-.92 is calm (caption placement flag for master)"
+    },
+    {
+     "at": "2026-11-24T19:06:30",
+     "verdict": "pass",
+     "note": "attempt 2: identities from behind OK (Tara braid/robe/staff, Ahana curls/teal/navy pack, Vihaan mustard/red pack, Navya braids/maroon/tan satchel); 4 humans + 3 wooden helpers behind left counter; Tara staff RIGHT, Ahana lamp RIGHT + sleeve LEFT (fixed), Vihaan hand at neck, Navya arms folded; tipped intact bowl at wheel lower-left; dosa overhang; shutter raised; no lettering. FLAG: helpers + dosa sit in caption band x.22-.70 y<.33; upper-right x.44-.92 y<.25 calmer"
     }
    ]
   },
   "P107-2": {
-   "status": "review",
+   "status": "accepted",
    "attempts": [
     {
      "n": 1,
@@ -108,19 +113,41 @@
      ],
      "instruction": null,
      "usd": 0.0462
+    },
+    {
+     "n": 3,
+     "kind": "gen",
+     "via": "batch:CH01-P107-r3",
+     "at": "2026-11-24T21:46:46",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "55a411e33f32",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0463
     }
    ],
-   "note": "",
+   "note": "ACCEPTED AT CALL CAP: 3 calls: children's crowns at y≈.24 (Ahana), .26 (Vihaan), .29 (Navya), Tara .20 — still inside the planned caption+bubble reserve (top 32%), though improved from .19; calm area is y 0-.22 from the left edge to 70% width (lanterns/canopy, no faces). Tez pale-grey shoulder stripes barely visible (stripes read indigo-blue). Everything else OK: Tez identity/expression (droopy ears, open mouth, scarf+moon clasp), Ahana lamp RIGHT + sleeve LEFT, Navya hand at chin, Vihaan grimace, Tara back view staff RIGHT, intact tipped bowl at wheel lower-left, cart and bowls untouched, no lettering",
    "qc": [
     {
      "at": "2026-11-23T18:50:34",
      "verdict": "fail",
      "note": "attempt 1: Tez identity/expression excellent (indigo-blue stripes), but (a) the 3 children's faces fill the top lettering band (y .14-.36), (b) Tara holds the staff in her LEFT hand, (c) no pale-grey shoulder stripes, (d) geography: the brass sill runs in front of Tez (y .84-.91) so Tez, bowls and children are inside Food Street, the children even past the cart wheel. Prompt v2: explicit depth order, small low group, Tara 3/4 back view with staff in RIGHT hand on her outer side, faded stripes named"
+    },
+    {
+     "at": "2026-11-24T19:06:41",
+     "verdict": "fail",
+     "note": "attempt 2: Tez excellent (scarf, clasp, droopy ears, open mouth, indigo stripes), hands OK (Ahana lamp R/sleeve L, Tara staff R, Navya hand at chin), tipped bowl at wheel lower-left OK; FAIL: children's heads y .19-.31 inside the caption+bubble reserve (top 32%) again; prompt v3: children ~25% tall, crowns at 42%, explicit 'no head above 40%' -> final (3rd) call"
     }
    ]
   },
   "P107-3": {
-   "status": "review",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -157,24 +184,722 @@
      "usd": 0.0463
     }
    ],
-   "note": "",
+   "note": "attempt 2: identities OK; 4 humans + Tez; Ahana LEFT hand passes sleeve, lamp RIGHT; Tara (3/4 back) LEFT hand receives, staff RIGHT; one unmarked sleeve; gazes to Tara; nothing cleared; no lettering. Minor: Vihaan x.05-.20 partly outside the .19-.89 crop; Tara head top y.05 (upper-centre x.40-.68 y<.22 is the calm bubble area); tipped bowl at wheel lower-RIGHT not lower-left; Tez stripes blue with only faint grey",
    "qc": [
     {
      "at": "2026-11-23T18:50:34",
      "verdict": "fail",
      "note": "attempt 1: identities, Tez, Ahana's hands (lamp RIGHT, sleeve LEFT) and background good, but (a) Tara's hands mirrored: staff in her LEFT hand, sleeve taken with her RIGHT (violates the custody rule P107-4/5 inherit), (b) Tara's head y .08-.27 and staff top fill the P107-4/5 bubble band, (c) group spans x .08-.89 (Vihaan outside the P107-3 crop .19-.89), (d) tipped bowl on the wheel's lower-right, (e) children slightly too tall vs Tara, no pale-grey stripes. Prompt v2: over-the-shoulder 3/4 back view of Tara (near LEFT hand takes the sleeve, staff in far RIGHT hand on her outer side), head top 28 %, group 20-87 %"
+    },
+    {
+     "at": "2026-11-24T19:06:30",
+     "verdict": "pass",
+     "note": "attempt 2: identities OK; 4 humans + Tez; Ahana LEFT hand passes sleeve, lamp RIGHT; Tara (3/4 back) LEFT hand receives, staff RIGHT; one unmarked sleeve; gazes to Tara; nothing cleared; no lettering. Minor: Vihaan x.05-.20 partly outside the .19-.89 crop; Tara head top y.05 (upper-centre x.40-.68 y<.22 is the calm bubble area); tipped bowl at wheel lower-RIGHT not lower-left; Tez stripes blue with only faint grey"
     }
    ]
   },
   "P107-4": {
-   "status": "todo",
-   "attempts": [],
-   "note": ""
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P107-r3",
+     "at": "2026-11-24T21:46:46",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "c03c424599e4",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "item:P107-3"
+     ],
+     "instruction": null,
+     "usd": 0.0501
+    }
+   ],
+   "note": "attempt 1: continuity with P107-3 excellent (camera, background, children/Tez positions, outfits, cart, tipped bowls, dosa); Ahana left hand empty, lamp RIGHT; Tez/Navya/Vihaan look at Tara; one sleeve, one lamp, one staff; 5 fingers; Tara calm, lips parted, slight smile; reserve x.40-.68 y<.24 calm (canopy, moon); no lettering. DEVIATION: Tara has turned to face front (P107-3 was 3/4 back), so the sleeve is in her RIGHT hand and the staff in her LEFT (mirrored vs pages.json); she looks at the children rather than past them into the lane. Sleeve custody (with Tara) preserved.",
+   "qc": [
+    {
+     "at": "2026-11-24T21:47:37",
+     "verdict": "pass",
+     "note": "attempt 1: continuity with P107-3 excellent (camera, background, children/Tez positions, outfits, cart, tipped bowls, dosa); Ahana left hand empty, lamp RIGHT; Tez/Navya/Vihaan look at Tara; one sleeve, one lamp, one staff; 5 fingers; Tara calm, lips parted, slight smile; reserve x.40-.68 y<.24 calm (canopy, moon); no lettering. DEVIATION: Tara has turned to face front (P107-3 was 3/4 back), so the sleeve is in her RIGHT hand and the staff in her LEFT (mirrored vs pages.json); she looks at the children rather than past them into the lane. Sleeve custody (with Tara) preserved."
+    }
+   ]
   },
   "P107-5": {
-   "status": "todo",
-   "attempts": [],
-   "note": ""
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P107-r3",
+     "at": "2026-11-24T21:46:46",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "d9cd14cf8676",
+     "refs": [
+      "BagroundGenTask/out/plates/M03-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "item:P107-3"
+     ],
+     "instruction": null,
+     "usd": 0.05
+    }
+   ],
+   "note": "attempt 1: continuity with P107-3/4 excellent; Tara looks down at the children, chin lowered, firm; forearm draws the sleeve against her waist; staff planted; no pointing; Ahana solemn, lamp RIGHT, left hand empty; Tez ears low looking up; Navya/Vihaan serious, hands still; one sleeve/lamp/staff; nobody touches cart/counters; reserve x.40-.68 y<.24 calm; all within central 90% except Tara's staff/robe at x≈.93-.98; no lettering. DEVIATION: same front-facing turn as P107-4, so the sleeve is held by her RIGHT forearm and the staff by her LEFT hand (mirrored vs pages.json).",
+   "qc": [
+    {
+     "at": "2026-11-24T21:47:37",
+     "verdict": "pass",
+     "note": "attempt 1: continuity with P107-3/4 excellent; Tara looks down at the children, chin lowered, firm; forearm draws the sleeve against her waist; staff planted; no pointing; Ahana solemn, lamp RIGHT, left hand empty; Tez ears low looking up; Navya/Vihaan serious, hands still; one sleeve/lamp/staff; nobody touches cart/counters; reserve x.40-.68 y<.24 calm; all within central 90% except Tara's staff/robe at x≈.93-.98; no lettering. DEVIATION: same front-facing turn as P107-4, so the sleeve is held by her RIGHT forearm and the staff by her LEFT hand (mirrored vs pages.json)."
+    }
+   ]
+  },
+  "P001-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "167555922760",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0458
+    }
+   ],
+   "note": "Identity ok (Ahana curls/teal/navy pack, Vihaan mustard/red pack, Navya braids/maroon/satchel, Tara braid/robe/staff RIGHT, Tez blue stripes+scarf); lamp in Ahana RIGHT; Tez short of the handle tip with paving between; cart parked; main lanterns dark, only wall sconce + hand lamp warm; no lettering. Deviation: Tez body sits at x .16-.31, y .62-.84 so the lower-left calm zone is only y .85-.97 (page y 544-606); kids walk abreast, Tara beside Navya at right edge rather than behind.",
+   "qc": [
+    {
+     "at": "2026-11-24T22:43:07",
+     "verdict": "pass",
+     "note": "Identity ok (Ahana curls/teal/navy pack, Vihaan mustard/red pack, Navya braids/maroon/satchel, Tara braid/robe/staff RIGHT, Tez blue stripes+scarf); lamp in Ahana RIGHT; Tez short of the handle tip with paving between; cart parked; main lanterns dark, only wall sconce + hand lamp warm; no lettering. Deviation: Tez body sits at x .16-.31, y .62-.84 so the lower-left calm zone is only y .85-.97 (page y 544-606); kids walk abreast, Tara beside Navya at right edge rather than behind."
+    }
+   ]
+  },
+  "P002-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w2",
+     "at": "2026-11-25T11:11:00",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "9daf13236fbf",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0387
+    }
+   ],
+   "note": "Tez identity OK (amber eyes, ears, navy scarf silver edge + moon clasp), stripes dark indigo, pale-grey patch behind scarf; forehead on shaft just above grip, eyes closed, 4 paws grounded, no impact marks; Ahana only as charcoal cargo leg + blue/white trainer right of Tez (x.84-.95), tail brushes her leg; cart empty, handle sloping; dim far legs at right edge only; no lettering. Reserved 0-.37x.28-.38 is cart slats (dark wood), not plain wall - acceptable for 1-line caption",
+   "qc": [
+    {
+     "at": "2026-11-25T11:13:49",
+     "verdict": "pass",
+     "note": "Tez identity OK (amber eyes, ears, navy scarf silver edge + moon clasp), stripes dark indigo, pale-grey patch behind scarf; forehead on shaft just above grip, eyes closed, 4 paws grounded, no impact marks; Ahana only as charcoal cargo leg + blue/white trainer right of Tez (x.84-.95), tail brushes her leg; cart empty, handle sloping; dim far legs at right edge only; no lettering. Reserved 0-.37x.28-.38 is cart slats (dark wood), not plain wall - acceptable for 1-line caption"
+    }
+   ]
+  },
+  "P002-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "2531c1db3b90",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0455
+    }
+   ],
+   "note": "Ahana bends to Tez, Tez answers face-to-face, Vihaan behind-left, Navya right, Tara behind with staff in her right hand; cart unmoved; lanterns dark. Accepted: Ahana's lamp is in her LEFT hand and her RIGHT hand on the handle (mirror of brief); Tara head (x.33-.39,y.09-.2) + staff top and Vihaan's hair intrude into upper-left balloon zone.",
+   "qc": [
+    {
+     "at": "2026-11-24T22:43:07",
+     "verdict": "pass",
+     "note": "Ahana bends to Tez, Tez answers face-to-face, Vihaan behind-left, Navya right, Tara behind with staff in her right hand; cart unmoved; lanterns dark. Accepted: Ahana's lamp is in her LEFT hand and her RIGHT hand on the handle (mirror of brief); Tara head (x.33-.39,y.09-.2) + staff top and Vihaan's hair intrude into upper-left balloon zone."
+    }
+   ]
+  },
+  "P002-3": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "e70032eb6111",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0506
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P001-P004-w2",
+     "at": "2026-11-25T11:11:00",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "02ae0bb59b47",
+     "refs": [
+      "item:P002-3",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": "Ahana's eyes and face: turn her gaze to the LEFT so she looks sideways at the weathered wooden cart at the left edge of the frame with a dry, deadpan half-smile (eyes clearly cutting left, not towards the lamp or Tez). Keep everything else exactly the same.",
+     "usd": 0.0371
+    }
+   ],
+   "note": "fix worked: Ahana eyes cut LEFT to cart, deadpan half-smile; LEFT hand on handle shaft, RIGHT holds brass lamp up, 5 fingers; Tez lower right looking up at her, ears up, scarf+clasp; Vihaan + Navya partly behind, outfits match P002-2; 4 characters; no lettering. Heads intrude top band from y.135 (planned .18): calm y0-.13, x.05-.66",
+   "qc": [
+    {
+     "at": "2026-11-25T11:13:49",
+     "verdict": "pass",
+     "note": "fix worked: Ahana eyes cut LEFT to cart, deadpan half-smile; LEFT hand on handle shaft, RIGHT holds brass lamp up, 5 fingers; Tez lower right looking up at her, ears up, scarf+clasp; Vihaan + Navya partly behind, outfits match P002-2; 4 characters; no lettering. Heads intrude top band from y.135 (planned .18): calm y0-.13, x.05-.66"
+    }
+   ]
+  },
+  "P003-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w2",
+     "at": "2026-11-25T11:11:00",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "67cc55a398fd",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0454
+    }
+   ],
+   "note": "Tara raised near arm on wall-lamp knob, staff other hand; Ahana lamp lit hand, back view, not touching gate; Tez beside her indigo stripes; Vihaan mustard/red pack, Navya maroon/braids/satchel, both back-to-camera; one empty car behind closed gate; strip blank with ticks, 3 plaques (faint scratch marks, no legible text), 2 red lamps, cover closed; no numerals. Figures larger than planned: Ahana crown y.29, Vihaan .33 -> calm area only y.15-.28, x0-.55",
+   "qc": [
+    {
+     "at": "2026-11-25T11:13:49",
+     "verdict": "pass",
+     "note": "Tara raised near arm on wall-lamp knob, staff other hand; Ahana lamp lit hand, back view, not touching gate; Tez beside her indigo stripes; Vihaan mustard/red pack, Navya maroon/braids/satchel, both back-to-camera; one empty car behind closed gate; strip blank with ticks, 3 plaques (faint scratch marks, no legible text), 2 red lamps, cover closed; no numerals. Figures larger than planned: Ahana crown y.29, Vihaan .33 -> calm area only y.15-.28, x0-.55"
+    }
+   ]
+  },
+  "P003-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "a19e662d58e2",
+     "refs": [
+      "BagroundGenTask/out/plates/S02-B01.png",
+      "BagroundGenTask/out/plates/S01-D01.png",
+      "FInalChangesTask/library/characters/HELPER-STYLE-P107-crop.png"
+     ],
+     "instruction": null,
+     "usd": 0.0318
+    }
+   ],
+   "note": "Single wooden helper: honey wood grain, painted eyes, brass joints, blue waistcoat; one hand on small metal box at gate post, other on supply-cart handle; cart on landing with lamp-picture lid; level plate blank; shaft empty, no car; top 20% near-black; guard bars at edges; no lettering.",
+   "qc": [
+    {
+     "at": "2026-11-24T22:43:07",
+     "verdict": "pass",
+     "note": "Single wooden helper: honey wood grain, painted eyes, brass joints, blue waistcoat; one hand on small metal box at gate post, other on supply-cart handle; cart on landing with lamp-picture lid; level plate blank; shaft empty, no car; top 20% near-black; guard bars at edges; no lettering."
+    }
+   ]
+  },
+  "P003-3": {
+   "status": "accepted",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "35cc67b425f6",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0512
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P001-P004-w2",
+     "at": "2026-11-25T11:11:00",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "052d3fbd8410",
+     "refs": [
+      "item:P003-3"
+     ],
+     "instruction": "Tara's pointing arm: instead of pointing sideways at the controller buttons, her index finger points steeply DOWN through the closed gate bars towards the floor of the shaft (arm lowered, finger aimed down at the bottom of the gate). Keep her face, mouth, staff, every other character, the controller and the background exactly the same.",
+     "usd": 0.0309
+    },
+    {
+     "n": 3,
+     "kind": "fix",
+     "via": "batch:CH01-P002-P004-fix3",
+     "at": "2026-11-25T11:32:28",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "704a3a28993e",
+     "refs": [
+      "item:P003-3"
+     ],
+     "instruction": "Tara's pointing hand only: lower her left arm further so her extended index finger points steeply DOWNWARD at the paving at the foot of the closed brass gate (the gate threshold at the bottom of the bars, about 40% across and 72% down the image), as if indicating the lift shaft going down below the street; her finger must no longer touch or point at the controller shelf. Keep her face, open mouth, staff, every other character, the controller and the background exactly the same.",
+     "usd": 0.031
+    }
+   ],
+   "note": "ACCEPTED AT CALL CAP: 3 calls: Tara's finger points steeply DOWN but at the controller face just above the 2 red lamps / beside the strip's lower end (≈.51,.51), not through the gate bars; her pointing hand is screen-left (her right), staff in her screen-right hand (swapped vs plan). Figures larger than planned: Tara head top y≈.19, face .21-.30 inside planned top-27% reserve; wall lamp .08-.25. Everything else OK: 4 humans + Tez, Ahana lamp lit by the gate (back view), Vihaan mustard/red pack hands in pockets, Navya hand at chin, Tez indigo stripes seen from behind, one empty car behind closed gate, strip blank with ticks, 3 blank plaques, 2 red lamps, cover closed, no lettering"
+  },
+  "P003-4": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w2",
+     "at": "2026-11-25T11:11:00",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "4d1d12f60ccf",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0513
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P002-P004-fix3",
+     "at": "2026-11-25T11:32:28",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "2740d48d29b0",
+     "refs": [
+      "item:P003-4",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": "Vihaan (the boy in the centre between Ahana and Tara) is wearing the wrong clothes: change ONLY his outfit to match his character sheet (last reference image): a mustard-yellow zip jacket over a navy T-shirt, slate-blue cargo trousers and a deep-red backpack, no grey hoodie, no navy jacket, no olive trousers. Keep his face, hair, pose, hands in pockets and position, and everyone and everything else exactly the same.",
+     "usd": 0.0369
+    }
+   ],
+   "note": "fix worked: Vihaan now mustard jacket, navy T, slate cargo, red backpack (matches P003-3). Tara open palm (screen-left hand) toward controller shelf/slots, staff held in front; mouth open; but gaze to camera-left not Navya (minor). Ahana lamp lit, Navya satchel closed, Tez sitting indigo stripes scarf+clasp; 4 humans + Tez; one empty car behind closed gate; strip blank ticks, 3 blank plaques, 2 red lamps, cover closed; no lettering. Figures larger than planned: heads at y.20-.33 inside planned top-38% reserve",
+   "qc": [
+    {
+     "at": "2026-11-25T11:33:04",
+     "verdict": "pass",
+     "note": "fix worked: Vihaan now mustard jacket, navy T, slate cargo, red backpack (matches P003-3). Tara open palm (screen-left hand) toward controller shelf/slots, staff held in front; mouth open; but gaze to camera-left not Navya (minor). Ahana lamp lit, Navya satchel closed, Tez sitting indigo stripes scarf+clasp; 4 humans + Tez; one empty car behind closed gate; strip blank ticks, 3 blank plaques, 2 red lamps, cover closed; no lettering. Figures larger than planned: heads at y.20-.33 inside planned top-38% reserve"
+    }
+   ]
+  },
+  "P004-1": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "2719d0676c69",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0454
+    }
+   ],
+   "note": "Face-on bay; Navya hands clasped behind back at shelf; Vihaan studies strip; Ahana lamp lit; Tara back view cropped, staff right hand; Tez sitting by Ahana; strip blank with 11 equal ticks; 3 blank plaques; slots empty; cards on shelf blank; 2 red lamps; lower cover closed; one empty car behind closed gate. Minor: faint S-like ornament on the wall right of Navya (x~.71,y~.4); Navya's braids read slightly doubled.",
+   "qc": [
+    {
+     "at": "2026-11-24T22:43:07",
+     "verdict": "pass",
+     "note": "Face-on bay; Navya hands clasped behind back at shelf; Vihaan studies strip; Ahana lamp lit; Tara back view cropped, staff right hand; Tez sitting by Ahana; strip blank with 11 equal ticks; 3 blank plaques; slots empty; cards on shelf blank; 2 red lamps; lower cover closed; one empty car behind closed gate. Minor: faint S-like ornament on the wall right of Navya (x~.71,y~.4); Navya's braids read slightly doubled."
+    }
+   ]
+  },
+  "P004-2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w1",
+     "at": "2026-11-24T22:41:23",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "181b6d91a1a1",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0507
+    }
+   ],
+   "note": "Vihaan profile, mouth open, index finger beside lower strip; Tara face visible upper centre-right (x .57-.74,y .06-.27), open palm towards paving; Navya at right edge hand at chin; strip blank with 10 equal ticks (NOT 11); slots empty, shelf cards blank, 2 red lamps, cover closed. Accepted: Tara's staff in her LEFT hand; Ahana and Tez out of frame; scene is dense, planned calm zones are not clean (see report).",
+   "qc": [
+    {
+     "at": "2026-11-24T22:43:07",
+     "verdict": "pass",
+     "note": "Vihaan profile, mouth open, index finger beside lower strip; Tara face visible upper centre-right (x .57-.74,y .06-.27), open palm towards paving; Navya at right edge hand at chin; strip blank with 10 equal ticks (NOT 11); slots empty, shelf cards blank, 2 red lamps, cover closed. Accepted: Tara's staff in her LEFT hand; Ahana and Tez out of frame; scene is dense, planned calm zones are not clean (see report)."
+    }
+   ]
+  },
+  "P004-4": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P004-w2",
+     "at": "2026-11-25T11:11:00",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "30870baf2ab6",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0452
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P002-P004-fix3",
+     "at": "2026-11-25T11:32:28",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "41d9e33fe90e",
+     "refs": [
+      "item:P004-4"
+     ],
+     "instruction": "Remove the painted letters 'S' and 'V' on the dark blue wall pillar between Ahana and the banner (about 55-60% across, 44-50% down): paint that pillar as plain weathered royal-blue lacquer with no letters, numbers or symbols. Keep everything else exactly the same.",
+     "usd": 0.0272
+    }
+   ],
+   "note": "fix worked: 'S V' letters removed, pillar plain. Ahana face turned right to others, mouth open asking, open palm (screen-left hand) toward 2 blank cards on shelf, lamp cradled in other hand (hands swapped vs plan, minor); Vihaan hands down; Tara behind upper right smiling, staff top visible; Navya right edge; Tez sitting looking up at Ahana, indigo stripes; 4 humans + Tez; gate jamb + blank strip at left; 2 red lamps, lower panel closed; no lettering. Tara head at y.21 inside planned top-32% reserve",
+   "qc": [
+    {
+     "at": "2026-11-25T11:33:04",
+     "verdict": "pass",
+     "note": "fix worked: 'S V' letters removed, pillar plain. Ahana face turned right to others, mouth open asking, open palm (screen-left hand) toward 2 blank cards on shelf, lamp cradled in other hand (hands swapped vs plan, minor); Vihaan hands down; Tara behind upper right smiling, staff top visible; Navya right edge; Tez sitting looking up at Ahana, indigo stripes; 4 humans + Tez; gate jamb + blank strip at left; 2 red lamps, lower panel closed; no lettering. Tara head at y.21 inside planned top-32% reserve"
+    }
+   ]
+  },
+  "P001-1s2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w1",
+     "at": "2026-11-25T18:03:07",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "c6c17f9d2707",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0582
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w2",
+     "at": "2026-11-25T21:28:53",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "8ba3c6eb4a71",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0588
+    }
+   ],
+   "note": "attempt 2: geometry/order/hands/count OK; moon + globe lanterns sit in top reserve edge (dark, acceptable)",
+   "qc": [
+    {
+     "at": "2026-11-25T18:05:37",
+     "verdict": "fail",
+     "note": "attempt 1: Tez walks beside the shaft, level with/past the grip (grip at left edge x .01-.09), not behind it on the handle line; moon + globe lanterns inside top band. Everything else good (geometry, identities, lamp RIGHT, staff RIGHT, Tara calm). Prompt revised: camera turned slightly left, Tez behind the grip on the shaft's extension."
+    },
+    {
+     "at": "2026-11-25T21:29:52",
+     "verdict": "pass",
+     "note": "attempt 2: geometry/order/hands/count OK; moon + globe lanterns sit in top reserve edge (dark, acceptable)"
+    }
+   ]
+  },
+  "P002-1s2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w1",
+     "at": "2026-11-25T18:03:07",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "734c3af7c1db",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0388
+    }
+   ],
+   "note": "attempt 1: plate geometry kept (one shaft rising from the round crossbar grip up-right to the cart front, cart against left wall, lane recedes right, no new handle); Tez forehead pressed on the crossbar grip lying on the paving, eyes squeezed shut, no injury marks, 4 paws, scarf+moon clasp; Ahana only charcoal cargo legs + blue/white trainers right of Tez (x .73-.92); Tez crown below her knee; nobody else; lanterns dark; no lettering. Stripes very dark navy/black per sheet (no visible pale-grey neck stripes). Calm caption area bottom-left x 0-.28, y .62-.76 (wet paving).",
+   "qc": [
+    {
+     "at": "2026-11-25T18:05:08",
+     "verdict": "pass",
+     "note": "attempt 1: plate geometry kept (one shaft rising from the round crossbar grip up-right to the cart front, cart against left wall, lane recedes right, no new handle); Tez forehead pressed on the crossbar grip lying on the paving, eyes squeezed shut, no injury marks, 4 paws, scarf+moon clasp; Ahana only charcoal cargo legs + blue/white trainers right of Tez (x .73-.92); Tez crown below her knee; nobody else; lanterns dark; no lettering. Stripes very dark navy/black per sheet (no visible pale-grey neck stripes). Calm caption area bottom-left x 0-.28, y .62-.76 (wet paving)."
+    }
+   ]
+  },
+  "P002-2s2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w1",
+     "at": "2026-11-25T18:03:07",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "b95b8179325e",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0575
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P001-P003-s2-w2",
+     "at": "2026-11-25T21:28:53",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "0251c288b022",
+     "refs": [
+      "item:P002-2s2",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": "Ahana's LEFT hand currently rests on Tez's neck/scarf at about (0.31, 0.68). Move only that hand: her left arm reaches a little further down and LEFT past Tez's head and her left hand grips the wooden handle shaft just above its round crossbar grip, at about (0.17, 0.74), fingers wrapped around the shaft. Tez is no longer touched. Keep everything else exactly: the cart, the single handle and grip unchanged, Tez's pose and face, the raised lamp in her right hand, Vihaan, Tara, Navya, lighting and background.",
+     "usd": 0.0336
+    }
+   ],
+   "note": "attempt 2 fix landed: Ahana hand on shaft above grip, Tez untouched; hands mirror-ambiguous vs sheet L/R but consistent with P002-3s2; grip nudges bottom-left reserve slightly",
+   "qc": [
+    {
+     "at": "2026-11-25T21:29:52",
+     "verdict": "pass",
+     "note": "attempt 2 fix landed: Ahana hand on shaft above grip, Tez untouched; hands mirror-ambiguous vs sheet L/R but consistent with P002-3s2; grip nudges bottom-left reserve slightly"
+    }
+   ]
+  },
+  "P002-3s2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w1",
+     "at": "2026-11-25T18:03:07",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "90bc3c51ed7c",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0443
+    },
+    {
+     "n": 2,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w2",
+     "at": "2026-11-25T21:28:53",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "0852734e12c1",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0446
+    }
+   ],
+   "note": "attempt 2 kept per user: eyes glance right to Tez not left to cart; moon in upper-right reserve (cover with caption or crop)",
+   "qc": [
+    {
+     "at": "2026-11-25T18:05:38",
+     "verdict": "fail",
+     "note": "attempt 1: handle re-angled: shaft slopes DOWN-RIGHT from the cart with an extra stub to the grip (plate: rises up-right from grip to cart). Ahana/Tez/glance/smile fine. Prompt revised: grip lower-left, shaft rising up-right, no stub."
+    },
+    {
+     "at": "2026-11-25T21:34:23",
+     "verdict": "pass",
+     "note": "attempt 2 kept per user: eyes glance right to Tez not left to cart; moon in upper-right reserve (cover with caption or crop)"
+    }
+   ]
+  },
+  "P003-3s2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w1",
+     "at": "2026-11-25T18:03:07",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "727adafbc46e",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "item:P003-1"
+     ],
+     "instruction": null,
+     "usd": 0.0697
+    }
+   ],
+   "note": "attempt 1: Tara matches sheet + P003-1 (silver braid over shoulder, indigo robe moon-bell borders, teal shawl/sash, crescent pendant, fair warm complexion), calm grave look DOWN, mouth closed; LEFT index finger points down through the GATE bars at (.25,.44), well left of the controller (x .58-.74) - does not read as selecting a value; staff bell top beside her at x .58 (holding hand hidden behind Vihaan); Ahana back view by gate lamp lit; Vihaan by strip; Navya by slots hand at chin; Tez sitting; one empty car, closed gate; strip blank with ticks, 3 blank plaques, 2 red lamps, cover closed; minor decorative S-like scroll on wall at (.82,.31) as in P004-1.",
+   "qc": [
+    {
+     "at": "2026-11-25T18:05:08",
+     "verdict": "pass",
+     "note": "attempt 1: Tara matches sheet + P003-1 (silver braid over shoulder, indigo robe moon-bell borders, teal shawl/sash, crescent pendant, fair warm complexion), calm grave look DOWN, mouth closed; LEFT index finger points down through the GATE bars at (.25,.44), well left of the controller (x .58-.74) - does not read as selecting a value; staff bell top beside her at x .58 (holding hand hidden behind Vihaan); Ahana back view by gate lamp lit; Vihaan by strip; Navya by slots hand at chin; Tez sitting; one empty car, closed gate; strip blank with ticks, 3 blank plaques, 2 red lamps, cover closed; minor decorative S-like scroll on wall at (.82,.31) as in P004-1."
+    }
+   ]
+  },
+  "P003-4s2": {
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P001-P003-s2-w1",
+     "at": "2026-11-25T18:03:07",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "dfdba133de3d",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "item:P003-1"
+     ],
+     "instruction": null,
+     "usd": 0.0697
+    }
+   ],
+   "note": "attempt 1: Tara same identity, calm Reassuring face with faint smile, mouth closed; LEFT open palm at (.55,.43) towards shelf/slots under the strip (open palm, no finger); staff in RIGHT hand (screen-left); head turned towards Vihaan/Navya; Ahana lamp lit faces Tara; Vihaan + Navya right, Tez sitting; positions close to P003-3s2 (Tara shifted ~.06 left, Vihaan ~.1 right); controller blank, 2 red lamps, cover closed; no lettering.",
+   "qc": [
+    {
+     "at": "2026-11-25T18:05:08",
+     "verdict": "pass",
+     "note": "attempt 1: Tara same identity, calm Reassuring face with faint smile, mouth closed; LEFT open palm at (.55,.43) towards shelf/slots under the strip (open palm, no finger); staff in RIGHT hand (screen-left); head turned towards Vihaan/Navya; Ahana lamp lit faces Tara; Vihaan + Navya right, Tez sitting; positions close to P003-3s2 (Tara shifted ~.06 left, Vihaan ~.1 right); controller blank, 2 red lamps, cover closed; no lettering."
+    }
+   ]
   }
  },
  "fix_queue": {}

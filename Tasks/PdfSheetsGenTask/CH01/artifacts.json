@@ -1,11 +1,23 @@
 {
+ "P001": {
+  "url": "https://claude.ai/artifact/GqsbmUi3DeX8JX31U22a66",
+  "file_path": "PdfSheetsGenTask/CH01/P001/artifact.html",
+  "math": "PASS 2026-11-25 (no maths; s2 art)",
+  "pdf": "Output/CH01/CH01-P001.pdf",
+  "design": "opener: midnight arch splash",
+  "version": "1795623631-d320"
+ },
  "P005": {
   "url": "https://claude.ai/artifact/58DKypPxPLNDExB9NwQrYM",
   "file_path": "PdfSheetsGenTask/CH01/P005/artifact.html",
-  "math": "PASS 2026-11-22 (A3 restyle)",
+  "math": "PASS 2026-11-25 (Two Towns redesign)",
   "pdf": "Output/CH01/CH01-P005.pdf",
-  "design": "A3",
-  "version": "1795354277-d57c"
+  "design": "book-design: Two Towns, One Line (12-col grid, hero band + thermometer)",
+  "version": "1795585548-944d"
+ },
+ "P005-A3-old": {
+  "pdf": "Output/CH01/CH01-P005-A3-old.pdf",
+  "note": "previous A3 version, local only"
  },
  "P039": {
   "url": "https://claude.ai/artifact/QM4hGuQD9NC6sALB2bZmCA",
@@ -22,5 +34,45 @@
   "pdf": "Output/CH01/CH01-P039-A3-v1.pdf",
   "design": "A3",
   "version": "1795354286-7922"
+ },
+ "P107": {
+  "url": "https://claude.ai/artifact/SkoaQGsdKm7HbmXgWKkmrB",
+  "file_path": "PdfSheetsGenTask/CH01/P107/artifact.html",
+  "math": "PASS 2026-11-24 (story page, no maths)",
+  "pdf": "Output/CH01/CH01-P107.pdf",
+  "design": "B1 story (Food Street)",
+  "version": "1795537684-b919"
+ },
+ "P005-B1-rejected": {
+  "pdf": "Output/CH01/CH01-P005-B1-rejected.pdf",
+  "note": "rejected 2026-11-25, local only"
+ },
+ "P003": {
+  "url": "https://claude.ai/artifact/8E8NEiAWrDUFZr9BfELyY9",
+  "file_path": "PdfSheetsGenTask/CH01/P003/artifact.html",
+  "math": "PASS 2026-11-25 (s2 panels 3-4; strip +2..-8)",
+  "pdf": "Output/CH01/CH01-P003.pdf",
+  "design": "lift shaft: aubergine→amber, brass gate border",
+  "version": "1795623666-3f8c"
+ },
+ "P002": {
+  "url": "https://claude.ai/artifact/3eJZD45Q69bSgaQeEYjotk",
+  "file_path": "PdfSheetsGenTask/CH01/P002/artifact.html",
+  "math": "PASS 2026-11-25 (story, no maths; s2 art)",
+  "pdf": "Output/CH01/CH01-P002.pdf",
+  "design": "cub-eye letterbox; slate + cart-timber border",
+  "version": "1795623625-9fdb"
+ },
+ "P004": {
+  "url": "https://claude.ai/artifact/Rtoc9cVQWgqxspd46odpSB",
+  "file_path": "PdfSheetsGenTask/CH01/P004/artifact.html",
+  "math": "PASS 2026-11-25 (strip +2..-8)",
+  "pdf": "Output/CH01/CH01-P004.pdf",
+  "design": "job sheet: royal-blue lacquer, full-height strip insert",
+  "version": "1795587629-6ad1"
+ },
+ "BOOK-P001-P005": {
+  "pdf": "Output/CH01/CH01-Book-P001-P005.pdf",
+  "pdf_share": "Output/CH01/CH01-Book-P001-P005-share.pdf"
  }
 }

@@ -1,0 +1,52 @@
+{
+ "name": "CH01-P001-P003-s2-w2",
+ "created": "2026-11-25T18:05:38",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P001-1s2",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "8ba3c6eb4a71",
+   "refs": [
+    "BagroundGenTask/out/plates/M01-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P001-1s2~gen~2"
+  },
+  {
+   "rid": "P002-3s2",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "0852734e12c1",
+   "refs": [
+    "BagroundGenTask/out/plates/M01-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P002-3s2~gen~2"
+  },
+  {
+   "rid": "P002-2s2",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "0251c288b022",
+   "refs": [
+    "item:P002-2s2",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+   ],
+   "instruction": "Ahana's LEFT hand currently rests on Tez's neck/scarf at about (0.31, 0.68). Move only that hand: her left arm reaches a little further down and LEFT past Tez's head and her left hand grips the wooden handle shaft just above its round crossbar grip, at about (0.17, 0.74), fingers wrapped around the shaft. Tez is no longer touched. Keep everything else exactly: the cart, the single handle and grip unchanged, Tez's pose and face, the raised lamp in her right hand, Vihaan, Tara, Navya, lighting and background.",
+   "custom_id": "P002-2s2~fix~2"
+  }
+ ],
+ "bytes": 5866563
+}

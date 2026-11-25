@@ -1,0 +1,2042 @@
+Promise { <state>: "pending" }
+
+Pass A (no search): 11 skills debugger eval code:57:11
+after "a": 1635 debugger eval code:62:13
+after "b": 1713 debugger eval code:62:13
+after "c": 1851 debugger eval code:62:13
+after "d": 1899 debugger eval code:62:13
+after "e": 1959 debugger eval code:62:13
+after "f": 1963 debugger eval code:62:13
+after "g": 1976 debugger eval code:62:13
+after "h": 1987 debugger eval code:62:13
+after "i": 2000 debugger eval code:62:13
+after "j": 2000 debugger eval code:62:13
+after "k": 2000 debugger eval code:62:13
+after "l": 2005 debugger eval code:62:13
+after "m": 2007 debugger eval code:62:13
+after "n": 2008 debugger eval code:62:13
+after "o": 2009 debugger eval code:62:13
+after "p": 2009 debugger eval code:62:13
+after "q": 2009 debugger eval code:62:13
+after "r": 2009 debugger eval code:62:13
+after "s": 2009 debugger eval code:62:13
+after "t": 2009 debugger eval code:62:13
+after "u": 2009 debugger eval code:62:13
+after "v": 2009 debugger eval code:62:13
+after "w": 2009 debugger eval code:62:13
+after "x": 2009 debugger eval code:62:13
+after "y": 2009 debugger eval code:62:13
+Selected language is null, API call will not happen. pminternship-1.js:1416:39
+    sendBatch https://pminternship.mca.gov.in/assets/js/pminternship-1.js:1416
+after "z": 2009 debugger eval code:62:13
+
+✅ TOTAL 2009 skills debugger eval code:67:11
+, B.E/BTech in Civil Engineering
+. Analytical Skills 2. Communication Skills", sales and marketing
+.net
+.Net
+" 1 Physically and medically fit 2. Working knowledge in MS Excel  "
+"1. Ability to speak local language  2. Good interpersonal skills  3. Interst in Sales 4. 12th"
+"1. Analytical Skills 2. Communication Skills"
+"1. Analytical Skills 2. Communication Skills" 3. Technical Aptitude
+"1. Analytical Skills 2. Communication Skills", Attention to detail, Multi Tasking, Active Listening, Flexibility
+"1. Can ride Bike or Scooter 2. Have valid driving licence"
+"1. Collaboration 2. Leadership 3. Financial Accumen"
+"1. Communication Skills                          2. Analytical Skills"
+"1. Communication Skills   2. Problem Solving"
+"1. Communication Skills 2. Analytical Skills", 2. Good in excel and data management
+"Attention to detail, Multi Tasking, Active Listening, Flexibility"
+"Basic arithmetic Communication Skills Basic English"
+"Basic arithmetic Communication Skills Basic English"Q
+"Commercial knowledge / payment reconciliation / customer Registration "
+"Customer relationship and influencing skills / product knowledge / customer enrolment.  "
+"Forklift Certification Attention to Detail Spatial Awareness Physical Stamina Communication Skills"
+"Forklift Certification forklifts safely and effectively Attention to Detail Spatial Awareness Physical Stamina"
+"Good Communication skill Computer Knowlegge Knowledge related to Environment Management Plan"
+"Mechanical Skills Problem-Solving Attention to Detail Time Management Safety Awareness"
+"Organizational Skills Attention to Detail Communication Skills Basic Computer Skills"
+"Providing Support for Commercial Review FA Verification Project Status Updation  MIS Preparation "
+"Retail Outlet Interaction With Customer Document Handling"
+"Technical Expertise Safety Awareness Problem-Solving Physical Stamina Communication Skills"
+"Technical Proficiency Analytical Skills Attention to Detail. Problem-Solving Communication Skills"
+"Technical Proficiency Analytical Skills Attention to Detail. Problem-Solving. Safety Awareness"
+"Technical Proficiency Attention to Detail Analytical Skills Communication Skills Time Management"
+"Technical Proficiency Attention to Detail Problem-Solving Time Management. Safety Awareness"
+"Technical Proficiency Attention to Detail Quality Control Problem-Solving Safety Awareness"
+"Technical Proficiency Attention to Detail Safety Awareness Problem-Solving Equipment Maintenance"
+"Technical Proficiency Problem-Solving Attention to Detail Physical Stamina Customer Service"
+"Technical Skills Attention to Detail Physical Stamina Problem-Solving Communication Skills"
+"Technical Skills Attention to Detail Problem-Solving Time Management Safety Awareness"
+"Technical Skills Attention to Detail Problem-Solving- Skills  Time Management Safety Awareness"
+* MS Excel * MS Office * Accounting * Tally * Communication Skills * Analytical Skills * Financial Accounting
+1. Ability to speak local language
+1. Ability to speak local language  2. Good interpersonal skills  3. Interst in Sales 4. 12th
+1. Ability to speak local language 2. Good Interpersonal Skills 3. Interest in Sales
+1. Ability to speak local language 2. Good interpersonal skills 3. Interst in Sales 4. 12th
+1. Ability to speak local language and hindi 2. Basic ability to read and write english. 3. Good Interpersonal skills
+1. Ability to speak local Language, 2. Good interpersonal Skills, 3. Interest in Sales
+1. Ability to speak local language, 2. Good interpersonal Skills, 3. MS office, 4. Interest in Sales
+1. Ability to speak local language, 2. Good interpersonal Skills, 3. MS Office, 4. Interest in sales
+1. Ability to speak local language, 2. Technical orientation
+1. Ability to speak read & write English.  2. Good interpersonal skills.  3. Subject knowledge of graduation 4. Ethical
+1. Ability to speak read & write English. 2. Good interpersonal skills. 3. Subject knowledge of graduation 4. Ethical
+1. Analytical Skills  2. Communication Skills 3. Technical Aptitude
+1. Analytical Skills 2. Communication Skills", Attention to detail, Multi Tasking, Active Listening, Flexibility
+1. Analytical Skills 2. Communication Skills", basic computer knowledge, customer handling
+1. Analytical Skills 2. Communication Skills", Basic knowledge of Finance and Accounts
+1. Analytical Skills, 2. Communication Skills, 3. Technical Skills
+1. Basic finance knowledge 2. MS Excel skills 3. Analytical ability 4. Attention to detail 5. Teamwork 6. Quick learner
+1. Collaboration 2. Leadership 3. Financial Accumen
+1. Communication Skills                          2. Analytical Skills
+1. Communication Skills                          2. Analytical Skills"
+1. Communication Skills                          2. Problem Solving
+1. Communication Skills                          2. Problem Solving.
+1. Communication skills 2. Knife skills 3. culinary basics
+1. Communication Skills 2. Problem Solving.
+1. Content operations 2. Proof Reading 3. Online research
+1. Customer handling, 2. Analytical Skills 3. Computer skills
+1. Effective communcation skills
+1. Excellent english communication 2. Customer service
+1. ITI -Electrical & Electronics, 3. ITI - Electronics & Communication Preferred Skills
+1. MS Office
+1. Organizational Skills
+1. Organizational Skills, 2.Communication skills, 3.MS Office Proficiency, 4.HR operations and query handling
+1.Ability to speak local language 2.Good Interpersonal Skills 3.Interest in Skills
+1.Communication in English language ( verbal and written) . 2. Knowledge of MS office. 3.Good Communication skill
+1.Inventory Management Knowledge 2. Excel Proficiency  3.vendor management 4.Communication Skills
+1.MS office
+10 ITI
+10th
+10th and 12th
+10th and Above
+10TH OR 12TH WITH ITI
+10th Pass  ITI with Basic Industrial Safety  Knowledge
+10th Pass with Backhoe Loader
+10th, 12th, HM Diploma, HM Degree, Skill certificate holder
+12 PCB or PCM
+12th
+12th & above
+12th +
+12th and above
+12th and above good communication skils
+12th and Above, Good communication Skill, Ability to speak local language, Interest in sales, Good interpersonal Skill,
+12th and above, good communication skills
+12th pass, local language proficiency, experience in animal husbandry practices
+12th, 1. Ability to speak local language, 10th, ITI - Boiler Operation (Operator Advance Machines Tools)
+12th, 1. Ability to speak local language, 10th, ITI - Fitter
+12th, 1. Ability to speak local language, 10th, ITI - Rigger
+12th, 1. Ability to speak local language, 10th, ITI Welder
+12th, 1. Ability to speak local language, 10th, ITI-Instrument Mechanic
+12th, 1. Ability to speak local language, ITI -Electrical & Electronics, 10th
+12th, Good english communication
+12th, Good English Communication, Attention to Detail, Basic Computer Skill
+12th, Good English Communication. Attention to Detail, Basic Computer Skills
+12th, Interpersonal Skills, Communcation skills, language skills - Local lang & English, Hindi, Selling skills
+2. Good in excel and data management
+2. Inter-personal skills
+2. Technical orientation
+2.Communication skills
+3. Excel and data entry/management
+3. Interest in Field Jobs
+3. Interest in Field Jobs,
+3.MS Office Proficiency
+4-wheeler driving license
+4. Aptitude for Field Work
+4. Digital literacy
+4. Learnability
+4. Problem Solving Skills
+4.HR operations and query handling
+5. Customer Orientation
+5. Customer Orientation,
+8th pass
+Ability to analyse complex data
+Ability to analyze data and provide meaningful insights
+Ability to analyze production and safety-related data
+Ability to assess lifting scenarios and implement effective solutions.
+Ability to build lasting relationships with clients and internal teams.
+Ability to communicate the product or service clearly and persuasively.
+Ability to explain things in simple, clear language
+Ability to find solutions and learn
+Ability to influence potential customers, handle objections, and close sales through effective persuasion techniques.
+Ability to learn
+ability to learn , adapt and basic knowledge of MS office and Excel,
+Ability to learn and apply knowldge, good command over technical subject.
+Ability to manage multiple tasks and prioritize effectively in a warehouse setting
+Ability to negotiate and resolve conflicts
+Ability to read & learn
+Ability to read & write
+Ability to read and understand the process to meet the production targets and Quality.
+Ability to read and write
+ability to read and write  english and kannada
+Ability to read electrical drawings and wiring diagrams
+Ability to read, write and speak Hindi & English Language
+Ability to read,write & speak Hindi & English
+Ability to speak & learn
+Ability to speak & write
+Ability to speak English
+Ability to Speak in English
+Ability to speak in local language, can work in teams setting, team player
+Ability to speak local language
+Ability to speak local language and techinically sound
+Ability to speak local language, 10th, Heavy Motor Transport Vehicle Driving License
+Ability to speak local language, any graduate
+Ability to speak local language, English communication, MS Office Computer Skill, Interpersonal Skills, etc,
+ability to speak local language, knowledge of working on MS Excel
+ability to speak local language, sales driven
+Ability to speak local languages
+Ability to speak read & write English. 2. Good interpersonal skills. 3. Subject knowledge of graduation 4. Ethical
+Ability to speak read and writer english with finance background
+Ability to use electrical hand tools and testing instruments
+Ability to use hand and power tools safely
+Ability to use welding machines, hand tools, and measuring instruments
+Ability to Work in MS OFFICE
+Abilty to read & write
+Able to understand drawings.  Good communication skills
+AC Maintenance
+Academic knowledge
+Accountability
+accounting
+ACCOUNTING & FINANCE
+Accounting and Finance
+Accounting and Financial Management, Analytical Skills, Statistical Analysis & Management Principles
+accounting ERP system
+Accounting Standard, Indirect Tax, Income Tax, thorough knowledge of MS-Office
+Accounting, Bookkeeping, Cash Management,Bank Reconcilaition
+Accounting, Tally, MS Excel
+accounts payable
+Accouting Statndards, Income Tax acts & rules, Companies Act, MS Excel, Power Point,
+Active Listening
+Active listening sales driven Sales negotiation skills Effective communication and ability to speak the Local language
+Adaptability
+Adaptability, Analytical Skills, Accountability
+Adaptability, Flexibility, Accountability, Communication, Teamwork, Adaptability, Collaboration, Basic Troubleshooting
+Adaptable
+Adaptibility & Teamwork
+Adherance to compliance process
+administration
+administration skills
+Adobe Illustrator
+Advance Excel, Any Graduate
+Advanced Excel
+Advanced skills in MS Office package- Word/ Excel and Powerpoint
+Aerospace Engineering
+AI and machine learning concepts
+AI solution
+AI,
+AI, communication skill
+AI/ML
+Air Conditioner
+air conditioning and refrigeration
+Air Copnditio Installation
+All Electrical, All Machenical, All Metallurgy, All Electronics, All Welder & Fitter
+All Electrical, All Machenical, All Metallurgy, All Electronics, All Welders & Fitters
+Analysis in Lab, Good with Communication, Teamplayer
+Analytical Chemistry
+Analytical Skills
+Analytical Skills 2. Communication Skills", Attention to detail, Multi Tasking, Active Listening, Flexibility
+Analytical Skills 2. Communication Skills", basic computer knowledge, customer handling
+Analytical Skills 2. Communication Skills", sales and marketing
+Analytical Skills Ability to diagnose and troubleshoot electrical issues to ensure minimal downtime
+Analytical Skills Communication Skills
+Analytical Skills, Communication Skills, Learning Ability
+Analytical Skills, Communication Skills, Learning Agility
+analytical skills, communication skills, MS Excel
+Analytical thinking  Basic process understanding  Documentation abilities  Data analysis capabilities
+angular
+Angular
+Anlytical chemistry
+Any Degree
+Any Degree and course in Lab Technician
+any degree with computer knowledge
+Any Diploma
+Any Engineering
+any graduate
+Any Graduate
+Any Graduation with Good Communication Skills (Local Language must)
+Any Graduation, NCC Certificate
+any ITI
+anydiploma
+anygraduate
+anyITI
+API Manufacturing
+application knowledges
+Arc Welding
+Architecture
+art work
+Articleship
+Artificial Intelligence & Data Science
+Artificial Intelligence and Machine Learning
+Artificial Intelligence and Mechine Learning
+Arts, Commerce, Science, Computer Applications
+ASP.Net
+ASPEN Working skill
+assesmbly
+asset management
+ATTE1
+attendant
+Attendant Operator (Chemical Plant)
+Attention to Detail
+Attention to Detail Precision in performing inspections and repairs to maintain system integrity
+Attention to detail, Multi Tasking, Active Listening, Flexibility
+Attention to details
+attitude to learn
+attitue to learn
+Audit & accounting
+Auditing
+AUTO ELECTRICAIN
+autocad
+Automobile Engineering
+automobile skills
+Automobile, Testing, Vehicle Validation, Research & Development
+Auxiliary Nurse Midwife
+Awareness of Security Sector
+Awareness of workplace safety practices
+B Com
+B Sc Agriculture
+b tech
+B Tech
+B Tech,
+B Tech, ITI
+B,COM
+B. Tech Civil
+B. tech Oil Technology
+B.A, B.SC, B.Com
+B.A. + 10th and 12th
+B.Arts
+B.C.A.
+B.com
+B.Com -Bachelor of Commerce
+B.COM/M.COM
+B.COM/M.Com/BBA/MBA
+B.E
+B.E CIVIL
+B.E. B. Tech (Mechanical / Electrical / Electronics & Instrumentation) B Tech / Polytechnic in Polymer Science
+B.E. Chemical
+B.E./ B. Tech Boichemical/ Chemical
+B.E./ B. Tech Chemical
+B.E./ B. Tech Electrical & Automation
+B.E./ B. Tech Mechanical
+B.E./ B.Tech Oil Technology
+B.E./B.Tech, Electrical and Electronics Engineering
+B.E./B.TECH/DIPLOMA IN CIVIL ENGINEERING
+B.E./BTech (CS/IT)
+B.E.Chemical
+B.E/B.TECH - AERONAUTICAL
+B.E/B.TECH - AEROSPACE
+B.E/B.TECH - ELECTRICAL AND ELECTRONICS
+B.E/B.TECH - ELECTRONICS AND COMMUNICATION
+B.E/B.tech in Electrical  Engineering
+B.E/B.tech in Mechanical Engineering
+B.E/B.tech in Metallurgy
+B.E/BTech in Civil Engineering
+B.E/BTech in Electrical & Electronics Engineering
+B.E/BTech in Electrical & Electronics Engineering , B.E/BTech in Civil Engineering
+b.pharm
+B.Sc
+B.Sc Chemical
+b.sc food technology
+B.Sc Geology
+B.Sc. Chemistry
+B.Sc. Chemistry, 1. Ability to speak local language, 12 PCB or PCM, 10th
+B.Sc. Chemistry, 1. Ability to speak local language, 12th, 10th
+B.Sc. in Chemistry
+B.Sc./M.Sc. in Chemistry, Biochemistry, or Food Science
+B.Sc/M.sc Chemistry
+B.tech Mechanical
+B.TECH/B.E
+B.tech/B.E/Diploma
+b.voc
+BA english
+Bachelor Computer Application
+Bachelor in Journalism
+BACHELOR IN PHARMACY
+Bachelor in science (CS/IT)
+Bachelor in Science (CS/IT)
+bachelor of arts
+Bachelor of Arts Economics
+Bachelor of Arts Geography
+Bachelor of Arts Hindi
+Bachelor of Business Administration
+Bachelor of Computer Application.
+bachelor of engineering
+Bachelor of ENGLISH
+bachelor of laws
+bachelor of science
+Bachelor of science Chemistry
+Bachelor of science Computer Science
+Bachelor of science Environment Science
+Bachelor of Science Mathematics
+Bachelor of science Nutrition and Dietetics
+Bachelor of science Physics
+Bachelor of social work, Human Resource Management
+Bachelor of social work, Human Resource Management, Basic computer know how, 1. Ability to speak local language
+Bachelor's or Master's degree in Chemical Engineering, Cement Technology, or related field
+balance sheet
+Bank Reconcilaition
+bank reconciliation
+Banking & Mortgage knowledge
+Banking Knowledge
+Basic accounting knowledge
+basic accounting process
+Basic Arithmetic Communication Skills Basic English
+Basic arithmetic Communication Skills Basic English.
+Basic AutoCAD
+Basic automation
+Basic chemical Engg calculation, heat & mass transfer concepts and knowledge of refining operations
+Basic Chemical Engineering and refinery operations  knowledge
+Basic Civil Engineering
+Basic Civil Engineering, 3. Interest in Field Jobs, 4. Learnability
+basic civil knowledge
+Basic communication, willingness to learn
+basic compuer literacy
+Basic computer know how
+Basic Computer Know how
+Basic computer know how, 1. Ability to speak local language
+basic computer knowledge
+Basic computer knowledge to handle office work in Finance Department
+Basic computer knowledge to handle office work.
+Basic Computer Knowledge, MS Excel, PowerPoint, Word & documentation
+basic computer literacy
+Basic Computer Skill, Elementary Calculation Skills
+Basic computer skills
+Basic computer skills, Communication skills
+Basic computer skills, Comunication skills
+basic comuter literacy
+Basic curiosity  about how construction and building materials work
+Basic curiosity about how construction and building materials work
+Basic Electrical Engineering
+Basic Electrical Knowledge
+basic engineering skills
+Basic engineering skills
+BASIC ENGINNERING SKILLS
+Basic excel
+Basic excel and communication skills
+Basic Excel, analytical skills, interest in data analysis
+Basic experience in any Finance related Domain with knowledge of accounting concepts and procedures
+Basic fault-finding and troubleshooting skills
+Basic functional knowledge of chemistry, good communication skills, attention to detail
+Basic functional knowledge of plastic technology, good communication skills, attention to detail
+Basic interpersonal skills, adaptability, ethics, and cultural awareness
+Basic knowlede of Computers and MS Office
+Basic knowledge about electrical engg
+Basic knowledge about Mchanical engg
+Basic knowledge of AutoCAD and construction practices
+Basic knowledge of automobiles
+basic knowledge of CAD Software
+Basic Knowledge of Cement
+Basic Knowledge of chemical
+Basic knowledge of chemicals
+Basic knowledge of civil
+basic knowledge of civil engineering
+Basic knowledge of Civil engineering
+Basic knowledge of computer
+Basic knowledge of Computer and MS-Office
+Basic knowledge of Computers and MS Office
+Basic knowledge of Databases
+Basic knowledge of Electrical Circuits
+Basic knowledge of electrical wiring and installation
+Basic Knowledge of environmental science
+Basic knowledge of Environmental science / Engineering.
+Basic knowledge of Finance and Accounts
+Basic knowledge of Finance and Accounts (preferably Accounts Payable)
+basic knowledge of fitter
+Basic knowledge of machines / working principles
+Basic knowledge of mechanical
+Basic knowledge of mechanical/electrical systems
+Basic knowledge of MIG, TIG, and Arc welding
+Basic knowledge of MS Excel, PowerPoint and Word
+Basic knowledge of MS Excel, PowerPoint and Word.
+Basic knowledge of MS Office
+Basic Knowledge of MS Office
+Basic Knowledge of PC Hardware IT Tools Antivirus PC Hardware Troubleshooting Knowledge of Windows
+Basic knowledge of plumbing
+Basic knowledge of plumbing systems and tools
+Basic knowledge of Programming
+basic knowledge of Refrigeration and Air Conditioning
+Basic knowledge of Travel & Tourism packages
+Basic knowledge of Travel & Tourism packages.
+Basic knowledge of vehicle
+Basic knowledge on computer Network & Hardware
+Basic knowledge on computer Network & Hardware.
+Basic knowledge on mechanics
+BASIC KNOWLEDGE ON PATIENT NURSING ACTIVITIES
+BASIC KNOWLEDGE ON PATIENT NURSING ACTIVITIES , nursing
+Basic knowledge to environmental science
+basic knwledge of plumbing
+Basic Mechanical Knowledge
+Basic mechanical skills
+BASIC MS OFFICE COMPUTER SKILL
+Basic of Electrical Engineering
+Basic of Mechanical Engineering
+Basic oral and writing knowledge / Communication skill
+Basic oral and writing knowledge / Communication skill Basic oral and writing knowledge / Communication skill
+Basic oral and writing knowledge Communication skill
+Basic Project Management Skills
+basic report writing
+Basic skills in metal cutting, grinding, fitting, and fabrication
+Basic skills of TIG MIG Welding
+basic software skills
+Basic subjective Technical knowledge
+Basic Supervisory Skills
+Basic Techincal Literacy
+Basic technical knowhow for positioning at mechanical garage
+Basic technical knowhow for positioning at mechanical garage.
+Basic technical knowledge of Civil Engineering
+Basic technical knowledge of Electrical Panels and Circuits
+Basic technical knowledge of Instrumentation
+Basic technical knowledge of Machines/Compressors
+Basic technical knowledge of the engineering to handle above work.
+basic technical knowledge of Tools, Equipments,  Manufacturing Process & Safety
+basic technical literacy
+Basic Technical literacy
+Basic Technical Literacy
+Basic technical skills
+BASIC TECHNICAL SKILLS
+Basic technical skills / equipment, operations & maintenance.
+basic technical skils
+Basic technical understanding
+BASIC TEHCNICAL SKILLS
+BASIC TOOL KNOWLEDGE
+Basic Troubleshooting
+Basic Troubleshooting, record keeping, Chemical Safety Knowledge,, Teamworking
+Basic Troubleshooting, record keeping, Chemical Safety Knowledge,Teamworking
+Basic understanding of Chemical principles and processes
+Basic understanding of computer applications like SAP  Concur InContact
+Basic understanding of electrical circuits and components
+basic understanding of electrical systems
+Basic understanding of electrical systems
+Basic understanding of electrical systems,
+Basic Understanding of Engineering Drawings, Measurement Tools, Use of Mechanical Tools, Knowledge of Materials
+Basic understanding of financial statements, annual reports
+Basic understanding of instrumentation systems
+Basic understanding of mechanical systems
+Basic understanding of Microsoft excel and PowerPoint
+Basic understanding of mining methods and operations
+Basic understanding of MS Office
+Basic understanding of networking, firewalls, and security protocols.
+Basic understanding of OSHA, EPA, and other relevant regulations
+Basic understanding of social media
+Basics in food and beverages
+basics of accounts
+Basics of Civil Engnieering
+Basics of Electrical Engnieering
+Basics of Instrumentation Engnieering
+Basics of Mechanical Engnieering, NDT
+Basics of Mechanical Engnieering, Welding technology
+Basics of Mechanical, Mechatronics, Electrical and Electronics Engineering
+BBA
+bba in human resource
+BBA- HR
+BBA- Supply chain management
+BBI
+BBM
+BCA
+BCA/ DCA/COPA
+BCA/IT/CS DIPLOMA 3 YEARS
+BCA/MCA
+BCMS
+bcom
+BCOM, BA Economics
+Bcom, Mcom
+BE
+BE AERONAUTICAL ENGINEERING
+BE AEROSPACE ENGINEERING
+BE Civil
+BE ELCTRONICS AND COMMUNICATION
+BE Electrical
+BE ELECTRONICS
+BE Mechanical
+BE or Diploma (Mechanical/ Electrical/ Civil/IT)
+BE/B TECH IN ANY BRANCH
+BE/B TECH MECHANICAL ENGINEERING
+BE/B. TECH Mechanical Engineering
+BE/B.TECH
+BE/B.TECH Civil Engineering
+BE/B.TECH Electrical Engineering
+BE/B.TECH ELECTRONICS AND TELECOMMUNICATION
+BE/B.TECH Electronics Engineering
+BE/B.TECH Fire and Safety Engineering
+BE/B.Tech, Electrical and Electronics Engineering
+Billing
+biochemical assays
+biotechnology
+Bookkeeping
+Books keeping practises, Accounting practises
+Branch Operations
+Branding
+bsa
+Bsc
+BSc (Chemistry) with Analytical Skills
+Bsc Biochemistry
+bsc biotechnology
+bsc chemistry
+bsc fire safety
+BSC food technology or Chemistry
+BSc Nursing, general medicine
+bsc physics
+Bsc(PCM)
+btech
+Btech pursuing
+Bug Tracking
+Building management
+business administration
+Business Administration
+business analyst
+Business Analytical Skills
+business development
+Business Management
+C&I Maintenance
+C#
+C++
+CA Articleship
+Ca Inter
+CA Intermediate
+CAD
+CAE
+cao
+Capability to perform physically demanding tasks associated with lifting and rigging.
+Cargo Logistics
+Carpentary
+Cash Management
+Catering and Caretaking Services
+Catering Services
+Catia
+cell culture
+CENTRAL AIR CONDITION PLANT MECHANIC
+Ceramic
+Certificate in Medical Laboratory Technology CMLT
+Certification or Diploma in Industrial Safety
+chef
+Chef
+Chemcial Engineering
+Chemical & Physical analysis
+Chemical analysis
+chemical dosing and preparation
+Chemical Engineering
+Chemical Engineering, Cement Technology, or related field
+Chemical Safety Knowledge,
+chemist
+Chemistry
+Chemistry / Chemical
+Chemistry Honors
+CIPET
+circuit design
+Civil Administraion
+Civil drawings
+Civil Engineering
+CIVIL ENGINEERING WORKS IN POWER PLANT
+Civil Maintenance
+civil related works
+civil structure
+Civil Works
+Clear & Confident Speech.
+Client Handling
+Client onboarding
+CMA
+cma inter
+CNC Operation
+CNC Programming
+CNG operations and maintenance
+CO2,/GHG science 5. CCUS Value Chain & Technology basics
+Cold mill operations
+Collaborate with procurement teams to ensure timely delivery of materials and services.
+Collaboration
+Collaboration, Humility and Service Orientation
+Collaboration, Humility and Service Orientation.
+collection
+Collections
+colletion
+Comforatble interacting with people in person or over calls
+comfortable in initiating conversation with prospective clients
+Comfortable interacting with people in peron or over calls
+commerce
+Commerce
+commerce, Basic knowledge of Finance and Accounts DESCRIPTION
+Commercial knowledge / payment reconciliation / customer Registration
+Commercial operations, Payment reconciliation, Customer registration, SAP basics, Billing knowledge, Data management
+commis
+communication
+Communication
+communication  skills
+Communication / complaint redressal skills / customer feedback
+Communication / selling Skills
+Communication / selling Skills to promote SPEED, UFILL, QOC, SBI Cards, etc.
+Communication & Leadership
+communication aptitude
+COMMUNICATION ENGINEERING
+communication in english
+communication skill,
+Communication skill.
+Communication Skills
+Communication Skills  Relationship Building  Sales Skills  Problem-Solving  Technology Skills
+Communication Skills 2. Problem Solving", Accounting and Finance, B Com
+Communication skills and basic computer knowledge
+Communication Skills Influencing Skills Marketing Acumen Collaboration & Teamwork
+Communication Skills Relationship Building Sales Skills Problem-Solving Technology Skills
+communication skills,
+Communication Skills, Basic Computer Knowledge, Teamwork, Time Management, Problem Solving
+Communication Skills, Business Analysis, Microsoft Office Suite
+Communication Skills, Fluent English, Telecalling, Pressure Handling
+Communication skills, Hindi speaking, Management skills
+Communication skills, Inter-personal skills, Multi-tasking, Flexibility, Creativity, Integrity, Ownership, Teamwork
+Communication, analytical Skill, Accountability, integrity, Advanced Excel
+Communication, Analytical Skills, Accountability, Integrity, Advanced Excel, Data Entry
+Communication, Attention to Detail, Analytical Skills, Multitasking
+Communication, Community Engagement
+Communication, Menu Knowledge, Multitasking, Attention to Detail, Time Management, sales skills.
+Communication, Problem Solving, Analytical Skills
+Communication, Problem Solving, Analytical Skills, Two-Wheeler Driving
+Communication, Sales, Persuasiveness
+Communication, Teamwork, Adaptability, Collaboration, Basic Troubleshooting
+COMMUNICATIONSKILLS
+communictaion
+COMPANY LAW
+Compensation and Benefits
+compliance
+Computer Applications
+computer engineering
+Computer friendly and MS excel
+Computer Knowledge
+computer knowlege
+Computer Literate, Hindi & English communication
+Computer Maintenance
+Computer Opearation
+COMPUTER OPERATOR AND PROGRAMMING
+Computer Proficiency
+computer science
+Computer Science/IT
+COMPUTER SCIENCE/IT, ATTENTION TO DETAIL, ANALYTICAL SKILLS,
+computer Skill
+Computer skill
+Computer Skills,
+Computing Knowledge
+Comunication
+Comunication Skill
+concret
+concret tools
+concrete casting
+concrete mixing
+concrete ratio
+concrete tools
+Confident
+Conflict Management
+Conflict Resolution
+Construction and operation  Safety
+construction management, planning, execution, computer skill
+content creation
+contract
+Contract and procurement
+contract management
+Conversant in English Language
+coordination
+coordinator
+Coporate Communications
+coreldraw
+Corporate Communication, Public Relations,
+Corporate Social Responsibility
+COST ACCOUNTANTS
+Creative Ability
+Creative Ability Technical Skills Attention to Detail Knowledge of Safety Practices Time Management
+Creative Ability, Technical Skills, Attention to DetailKnowledge of Safety Practices, Time Management
+creative design
+creative mindset
+Creative Writing
+Creativity
+creativity and interest in food branding and consumer behavior.
+CREO
+Critical Thinking
+Critical thinking skills
+Critical Thinking, Communication, Adaptability, Attention to detail
+crypography
+CSS
+culinary
+CURIOSITY
+Customer  service
+Customer Centricity
+Customer dealing
+Customer dealing, ticket booking
+customer handling
+Customer handling
+Customer Orientation
+customer outreach
+Customer Quality
+customer reconciliation
+Customer Relations
+Customer relationship and influencing skills / product knowledge / customer enrolment.
+Customer relationship and influencing skills / product knowledge / Market knowledge
+Customer relationship and influencing skills / product knowledge / Market knowledge / MS Excel
+customer relationship management
+Customer retention
+Customer Service
+Customer service orientation
+Customer Service Orientation
+Customer Service, Operations, Sales, Business Development, Finance, KYC Verification, BFSI
+customer support
+customer survey
+cybersecurity
+D.Pharma
+Dairy Diploma
+data amanagement
+Data Analystics
+Data Analytics
+Data Analytics, Problem Solving
+Data Entry
+Data entry in excel and able to make calculations
+data entry operations
+Data Entry Operator
+Data Entry Operator, 1. Analytical Skills 2. Communication Skills", basic computer knowledge, customer handling
+Data Handling
+Data Management
+Data Preprocessing
+data safety
+data science
+Data Structures, Algorithms, Object-Oriented Programming (OOP), and Operating Systems.
+Data Visualisation
+Database
+Database Management
+Datascience Analyst
+DBMS
+DCS
+DCS Operation
+Decision Making
+Decision-making under pressure
+DEEE
+degree
+Degree or diploma in pharmacy
+DEGREE/DIPLOMA IN HOTEL MANAGEMENT
+Delegation
+Design and Development
+Desktop Engineer
+Detail-orientation
+Develop and update project schedules using project management tools
+Dexerity
+Dexterity
+Diagnosing
+Diagnosis
+Diagnostic Skills
+dial gauge operations
+Diesel Mechanic
+Digital
+digital marketing
+Digital Transformation, Information Gathering, Marketing and CRM Platform
+Diplom mechanical
+diploma
+Diploma
+DIPLOMA - ELECTRICAL AND ELECTRONICS
+Diploma (Mechanical / Production / Materials)
+Diploma / Certificate course in Tourism & Travel from an Institute / Travel Agency with duration of at least 06 months.
+diploma and ITI
+diploma automobile
+Diploma Chemical
+diploma chemical engineer
+Diploma Civil
+Diploma Civil ,
+Diploma Civil , Diploma Electrical Engineering
+Diploma Civil Engineering
+DIPLOMA COMPUTER
+Diploma Computer Science
+diploma COPA
+Diploma CSE/IT/Hardware /Networking
+Diploma ECE
+Diploma electrical
+Diploma Electrical , Electronics , Mechotranics
+Diploma Electrical Engineering
+Diploma Electrician
+diploma electronics
+Diploma Electronics and Communication
+DIPLOMA ELETRICAL
+Diploma Engineer/Diploma Electrical
+diploma in aeronautical engineering
+Diploma in automobile
+Diploma in Ceramic Engg.
+Diploma in Civil
+diploma in civil engineering
+Diploma in Civil Engineering
+Diploma in Electrical / Electronics
+DIPLOMA IN ELECTRICAL & ELECTRONICS ENGINEERING
+Diploma In Electrical Engineering
+Diploma in Electrical Engineering, Knowledge in Computer Operations
+DIPLOMA IN ELECTRONICS & COMMUNICATION ENGG.
+Diploma in Fire Safety  Diploma in Safety
+diploma in fisheries
+Diploma in Mechanical
+Diploma in Mechanical Engineering
+Diploma in Mechanical Engineering, BE/BTECH Mechanical Engineering
+DIPLOMA IN MEDICAL LAB TECHNICIAN
+Diploma in Metallurgical Engineering
+diploma in mining
+DIPLOMA IN MINING AND MINE SURVEYING
+diploma in mining, Overman
+Diploma in Pharmacy
+Diploma in Plastic Technology
+Diploma in Safety
+Diploma in Survey
+Diploma Instrumentation
+Diploma Mech/ Elect., Btech. / BE Mech./ Elect.
+Diploma Mechanical
+Diploma Metallurgy
+DIPLOMA MINING
+diploma nursing
+Diploma Production Engineering
+Diploma, Any Diploma/ Any Degree
+Diploma/ B.tech /BE
+Diploma/ B.tech /BE/BSC/MSC
+Diploma/ B.tech/BE
+Diploma/ Graduate Technocommercial
+Diplomacy
+Discipliene, Dedication, ability to learn and apply knowledge
+Distribution transformer
+Document Verification
+Documentation
+Dot NetFullStack   Developer
+drafting skill
+drafting,
+Draftsman Chemical
+Draftsmanship
+draughtsman
+Draughtsman Civil
+Draughtsman Mechanical
+Drilling
+Drving
+eager to work in shifts
+Earthmoving Machinery Training
+ECE
+Economics
+Education Logistics,
+Effective communcation skills , Basic computer knowledge to handle office work
+Effective communication and interpersonal skills, Customer Relationship Mgmt  & MS Office (Excel, Word, Powerpoint)
+Effluent Treatment Processes
+ehs
+ELCTRICAL SKILLS
+Elecrical
+electical
+electrical
+Electrical Certification
+Electrical Design
+Electrical Engineering
+Electrical Engineering, Basics of Electrical Engnieering, electrical
+Electrical equipment maintenance
+Electrical Installation
+Electrical installation and maintenance technicians
+Electrical Maintenance
+Electrical Maintenance, 1. Ability to speak local language
+Electrical Mining
+ELECTRICAL SKILLS IN POWER PLANT
+Electrical Wiring
+ELECTRICAL/MECHANICAL/ELECTRONICS ETC
+Electrical/Mechanical/Electronics/Fitter/Machinist etc
+Electrical/Mechanical/Electronics/Instrumentation etc
+ELECTRICIAL ENGINEERING
+Electrician
+Electrician certificate holder
+Electrician or wireman
+Electricity distribution
+Electronic Mechanic
+electronics
+ELECTRONICS AND COMMUNICATIONS
+electronics and telecommunication
+Electronics Engineering
+Electronics technicians
+Electroplating
+Electrrican
+Email Campaigns
+emergency management
+Emotional Intelligence
+Emotional Resilience
+Employee life cycle management
+Employee Life cycle management,
+Employee relation
+Engine assembly fitter, Automotive, Machinist, Quality, Welder, Electrician
+Engineer Quality
+engineering
+Engineering Any
+engineering knowhow
+Engineering Knowledge
+engineering maitenance
+engineering trades
+ENGLISH
+English communication skills
+English language proficiency
+English Speaking Skills
+English Writing Skills
+Environment Control
+environmental management
+Environmental/Climate Science understanding
+equipment alignment
+equipment knowledge
+Equipment Maintenance
+equipment operation
+Equipment Testing
+Equipment Testing, Diagnostic Skills, Welding and Fabrication
+estate management
+ETP
+ETP water management
+Event Management skills
+excel
+Excel and data entry/management,
+ExceL Profecient
+Excel Skills
+Excellent communication and interpersonal skills
+Excellent Communication skills
+Excellent Communication skills, Bi-lingual with ability to converse in Telugu and English, knowledge of MS Office
+Excellent documentation Skills
+Excellent Email writing skills
+Excellent in MS Office like Excel, Powerpoint
+Excellent People skills and Communication skills. MS Office
+Excellent Spoken and written communication
+Excellent verbal and written communication skills
+Experience with content management systems (CMS) or social media management tools is beneficial.
+Extrovert
+Eye for Detail
+factory security and survelliance
+Familiarity with ESG reporting frameworks and metrics (e.g., GRI, SASB, TCFD) is a plus
+FAQsFAQ for CandidatesFAQ for Candidates (Hindi)FAQ for CompaniesFAQ for States
+farming
+farming practices
+Feature Engineering
+fianance and accounting
+field sales
+file management
+Finance & Accounts
+Finance and Accounting Skills
+Financial Accumen
+Financial acumen, Communication skills, Multi-tasking, Flexibility, Creativity, Integrity, Ownership, Teamwork
+Financial economics
+financial literacy to make decisions on financial matters
+FInancial Modelling
+Fire and Safety
+Fire and Safety Maintenance
+Fire and Safety, Certification or Diploma in Industrial Safety
+Fire extinguisher inspection and maintenance
+Fire pump testing and maintenance
+Fireman
+Fitter
+fitter fabrication
+Fitter machinist welder turner DLM MMV
+Fitter operations
+Fitter operations, basic knowledge of fitter
+Fitter or welder
+Fitter or welder, Operations and Maintenance, Basic technical knowledge of Machines/Compressors
+FITTER WORKS
+Fitter, Mechanical, Maintenance
+fitter/welder/electrical/operator
+Fitting, machining, measuring instruments handling, assembly work, maintenance, and basic technical drawing reading
+Flexibility
+flexibity
+Flexible to travel
+flow rate and water quality control
+Fluent Communication
+fluent in Hindi English and Tamil
+food & beverage
+Food Quality
+food service
+Food technology
+Footwear Construction
+Forklift Certification
+four wheeler Driving
+fresher
+Front office Management, Customer Relations
+Front Office Managment
+frontline sales
+Gain hands-on experience in financial products, services, and customer relationship management.
+Gas Welding
+gauge knowledge
+General administration
+General Awareness of petroleum sector
+GENERAL NURSING and MIDWIFERY
+Generative AI
+Geographical Knowledge
+Geographical Knowledge, Good Communication Skills,Negotiation Skills
+Geological mapping
+geologocal mapping
+Goal Setting
+Goal-oriented and self-driven with a proven track record in meeting sales targets.
+god communication
+golf
+good  verbal and written communication skills in english
+Good academic record
+Good at learning skills, knowlege of excel
+Good communication
+Good Communication
+Good Communication , basic Knowledge of Excel , Word, Internet explorer, better understanding
+Good communication , Client interaction, presentation, Active Listening
+Good communication / Typing Skills / Basic Excel
+Good communication and interpersonal skills
+Good Communication and negotitation skills
+Good communication oral & written skill, Electrical Knowledge
+Good Communication skill
+good communication skills
+good communication skills & graduate
+GOOD COMMUNICATION SKILLS ALONG WITH COMPUTER KNOWLEDGE
+Good Communication Skills and Presentable Good Convincing Skills with Computer Knowledge
+Good communication skills, good interpersonal skils, having theoritical knowledhge of chemistry
+GOOD COMMUNICATION SKILLS, INTREST IN BANKING SALES
+Good Communication Skills, Knowledge of MS Office,
+Good Communication Skills, Sales Acumen, Team Collaboration
+Good communication skills, understanding of local language, basic computer knowledge and MS Excel knowledge
+Good Communication Skills,Compassionate & Diligence
+Good communication,
+good communications
+good communications skills
+good communications skills, MS Excel and Accounting concepts
+Good computer skills, including MS, Excel, SAP  Ability to identify and resolve problems  Willingness to work in shifts
+good english communication skills
+Good finance, MIS and report preparation skill
+Good in excel and data management, 1. Ability to speak read & write english
+Good in excel and data management, 1. Ability to speak read & write english . Good interpersonal skills
+Good Inter Personal Skills
+Good Interpersanal Skills
+Good interpersonal skills . interested in manufacturing technology and interested in digital and computers any ITI
+Good Interpersonal Skills.
+Good knowledge on software tools
+Good organizational and time management abilities
+Good organizational and time management abilities.
+Good Presentation Skills in MS Powerpoint
+Good problem-solving and troubleshooting abilities
+good skiils
+Good Technical knowledge
+Good Technical Skills
+good typing skills
+Good understanding of Financials, communication skill, analysis of financials
+Good understanding of MS Excel, Word and PPT will be required along with accounting background.
+good vocal and written communication skills, presentation skills
+Good with MS office (MS Excel)
+Good with MS office (MS Excel),Poses knowledge about basic banking products, Should poses good problem solving skill
+GPIO
+graduate
+Graduate Engineer
+Graduate in Commerce/Finance/Business Management, Basic Excel / Word
+Graduate in Electrical Engineering with Attention to detail, Multi Tasking, Active Listening, Flexibility
+GRADUATE VIZ.BCOM/BBA/BCA ETC
+Graduate with better communication skills both at comprehension and writing
+graduate,
+graduation
+Graduation , good communication skill , analytical skill ,
+graduation any
+Graduation Preferably with a Finance background.  B.A.  Economics, BBA, BFM, B.Com etc.
+graduation, btech, be
+Graphic Designer
+graphics
+Grinding
+grooming
+gst
+GST
+GST and TDS
+Guest handling
+Guidelines
+GUJRATI
+Handling capacity of minimum 3-4 sub contractors in daily at site
+Handling of Tools and Tackles, Materials etc.
+Handling School Students
+Hands on Google sheet, Word, Excel & PPT,
+Hands-on experience in IT hardware / Network
+Hardware maintenence
+Hardware/Networking knowledge will be an added advantage
+have a knowledge about chemical industry and basics of paint manufacturing
+Having basic knowledge of food/bakery recipes & method of preparation.
+Hazard Identification
+health and safety
+Heavy Motor Transport Vehicle Driving License
+helper
+Higher Secondary Exam
+HINDI
+Hindi Literature
+Hindi Shorthand
+Hindi Translation
+HIndi Writing
+Horticulture
+horticuture
+hospital liaison
+Hospital Management
+Hospitality Management
+Hospitality/Typing/ Catering Services
+hostel management services
+Hotel Management & Catering
+Hotel Managment
+house keeping
+housekeeping
+HR
+HR SKILLS
+hris
+HSC
+HSE
+HTML
+Human Resource Information Systems
+Human Resource Management
+Human Resource Management,
+Hydrant line flushing and operation
+implementation
+INCLINATION TO LEARN
+Incoming Quality
+Industrial Relations
+Industrial Safety
+Industrial safety and fire safey knowledge
+Infleuncing
+influencing
+Information Technology
+information technology maintenance
+Information Technology related skills
+Information Technology related skills, Technical skills, Analytical skills, Project Management
+Information Technology related skills, Technical skills, Analytical skills, Project Management.
+informaton technology
+infuencing
+Infuencing
+Initiative
+Innovation
+innovative
+Instrument
+instrument calibration
+Instrument design
+Instrument maitennace
+Instrument Mechanic
+INSTRUMENT TECHNICIAN
+Instrumentation
+Instrumentation & Contril
+Instrumentation Engineerin
+Instrumentation Engineering
+Instrumentation Maintenance,
+Integrity
+Integrity, Advanced Excel, Accounting and Finance, SAP
+Inter Vocational
+interest in farming & training
+Interest in Field Jobs
+interest in field operations
+Interest in HR
+interest in plant or manufacturing work
+Interest in Sales
+Interest in Sports Activity
+Interest in Strategic Marketing and related functions
+Interest in the social development sector
+interested in manufacturing technology and interested in digital and computers any ITI
+Interested in production/quality
+Intern should have good knowledge of mechanical engineering, computer knowledge and communication skills
+Intern should possess good communication skills for correspondance
+Intern should work in any site location or project location based on business need.
+Interpersonal skills
+Interpersonal Skills
+Interpersonal skills, Good communication skills, Basic accounting skills
+interpersonal skills, good communication skills, MS Office
+interpersonalSkills
+interpreter
+Interst in Sales
+Interview coordination
+Intrumentation
+Inventory Management
+Inventory Management Knowledge 2. Excel Proficiency 3.vendor management 4.Communication Skills
+IoT
+ISMS
+IT Change Management
+IT engineer
+IT Literacy
+IT processes
+IT Support
+IT-MMV
+IT/Computer Science
+ITI
+ITI  Fitter Mechanical Trade or 10th Pass  with Relevant Technical Skill Training
+ITI  Fitter Trade 10th Pass with  Mechanical Fitting Skill Training
+ITI  Fitter Welder Pipe Fabrication Trade or  10th Pass with Relevant Skill Training
+ITI  Mechanic,  Fitter, Diesel Mechanic or 10th  Pass with Hydraulics Skill Training
+ITI  Plumber Trade  10th Pass with Plumbing Skill  Training.
+ITI  Welder Trade 10th Pass with Welding Skill  Training
+ITI - Boiler Operation (Operator Advance Machines Tools)
+ITI - Electronics & Communication
+ITI - Fitter
+ITI - FITTER / RADIO MECHANIC
+ITI - Mechanical
+ITI - Rigger
+ITI -Electrical & Electronics
+ITI -Electrical & Electronics, 3. ITI - Electronics & Communication
+ITI -ELECTRICIAN
+ITI ,Fitter, Mechanic, Electrical or 10th Pass with Technical Skill Training
+ITI (Electrician, Fitter, Welder, Diesel Mechanic, Turner, COPA, ICTSM
+ITI (Fitter/Turner/Machinist)
+ITI / 10th Pass with Basic Knowledge of  Industrial Equipment Operations
+ITI / 10th Pass with Basic Knowledge of Heavy Equipment Operations
+ITI / 10th Pass with Heavy Earthmoving  Machinery Skill Training
+ITI / 10th Pass with Heavy Equipment Operation / Machinery Skill Training
+ITI / 10th Pass with Industrial Machinery or Waste Management Training
+ITI / 10th Pass with Mechanical or  Industrial Machinery Training
+ITI & Graduate
+ITI 10th Pass with Mechanical or Industrial  Machinery Operation Training
+ITI AC technician
+ITI and diploma
+ITI and Diploma
+ITI and Diploma , Technician
+iti any
+ITI AOCP
+ITI Carpenter
+ITI Certificate in Diesel Mechanic Trade
+ITI Certificate in Mechanical Fitter Trade
+ITI Cetificate in Motor Winder Trade
+ITI civil
+iti cnc programmer & operator
+ITI Computer
+ITI Copa
+ITI diesel mechanic
+ITI Diesel Mechanic Trade 10th Pass with  Engine Maintenance Skill Training
+iti diseal mechanic
+ITI Draughtsman Mechanical
+ITI DTPO
+ITI electrical
+ITI Electrical
+ITI ELectrical, Fitter, MMV, MEV,EM
+ITI Electrical, ITI Wireman, ITI Jointer
+iti electrician
+ITI Electrician including Auto electrician
+ITI ELECTRICIAN INCLUDING AUTO ELECTRICIAN
+ITI Electronic Mechanic
+ITI ELECTRONICS
+iti electronics and communication
+ITI ELECTRONICS, DIPLOMA IN ELECTRONICS & COMMUNICATION ENGG.
+ITI Electroplater
+ITI Engineering Trades
+ITI Fitter
+ITI FITTER
+ITI Fitter / Mechanic
+ITI Fitter, ITI Welder, Assembly ITIrac
+ITI Fitter,/Turner/Machinist
+ITI GRINDER
+ITI IMCP
+ITI in Electrical/ Wireman
+ITI IN FITTER TRADE
+ITI in Machinist, Turner, Fitter, MMTM Trades
+ITI in mechanical
+ITI in Mechanical and Electrical Freshers
+ITI instrument / Electronics mechanic
+ITI Instrument Mechanic
+ITI Instrumentation
+ITI Instrumentation,Electronics,Fitter or  10th Pass with Technical Skill Training
+iti IT
+ITI Jointer
+ITI machinist
+ITI maintenance
+ITI Marine Fitter
+iti mechanic
+ITI Mechanic Auto Electrical and Electronics
+ITI Mechanic Mining Machinery
+ITI Mechanic Motor Vehicle
+ITI Mechanic, Fitter, Diesel Mechanic or 10th  Pass with Hydraulics Skill Training
+ITI Mechanic, Fitter, Electrical or 10th  Pass with Industrial Machinery Training
+ITI Mechanical
+ITI MECHANICAL FITTER
+ITI mining
+ITI MOTOR MECHINC
+ITI MOTOR WINDER
+ITI or Diploma
+ITI Painter
+ITI Painter General
+ITI Pipe Fitter
+ITI Plumber
+ITI RACM
+iti refrigeration and AC
+ITI REFRIGERATION AND AIR CONDITIONING
+ITI RFM
+ITI RIGGER
+ITI Sheet Metal Worker
+ITI Ship Wright Wood
+ITI SMW
+ITI SPINNING TECHNICIAN
+iti surveyor
+iti telecom
+iti tool & die maker
+ITI Trade Electrician
+ITI turner
+ITI Welder
+ITI Wireman
+ITI-Computer Operator
+ITI-copa
+ITI-Electrician
+ITI-Fitter
+ITI-Instrument Mechanic
+ITI-MABP
+ITI-MABR
+ITI-Machinist
+ITI-MMCP, ITI-IMCP, ITI-Fitter, ITI-Electrician, ITI-Welder, ITI-Grinder
+ITI-MMV
+ITI-other
+ITI-Plumber, Pipe Fitter, Water Supply & Sanitary Engineering, Building Construction & Plumbing
+ITI-Rigger
+ITI-Welder
+ITI,Diploma,Degree
+ITI( Fitter, Welder, Electrician, RAC
+iti/12th
+Java
+Java docker
+Java Full  Stack Development
+Javascript
+Jetty Tankage Operations
+Jewellery Designing
+Knolwedge on Desktop Support
+Knowledge in computer languages C, C++, Dot net, Java, Python
+Knowledge in computer operations
+Knowledge in Computer Operations
+Knowledge in descriptive statistics
+Knowledge in software development,designing, development, and debugging
+Knowledge of banking procedures, policies, principles, functions, and regulations preferred
+knowledge of chemical properties, analysis & testing
+Knowledge of Economics
+Knowledge of Electrical engineering. Basic Knowledge of MV system.
+Knowledge of electrical safety procedures and PPE
+Knowledge of FIFO/FEFO inventory practices
+knowledge of GMP & GDP
+knowledge of invoice verification and documentation processes.
+Knowledge of Local language
+KNOWLEDGE OF LOCAL LANGUAGE
+Knowledge of manufacturing processes and production support
+Knowledge of MS Office
+Knowledge of preventive, predictive, and breakdown maintenance
+Knowledge of Quality Control (QC) and Quality Assurance (QA) processes
+Knowledge of Safety Practice
+Knowledge of safety practices and regulations in a chemical environment (eg., MSDS, PPE)
+Knowledge of safety regulations and practices to ensure safe lifting operations.
+Knowledge of safety systems / types of safety fittings in LNG Plants
+Knowledge of safety systems / types of safety fittings in LPG plants.
+Knowledge of store operations and inventory management
+Knowledge of tool, die, mold, jig, and fixture design
+knowledge of welding process
+knowledge on power generation/ distribution with basic computer knowledge
+KNOWLEGE OF LOCAL LANGUAGE
+laboratory assistant
+Laboratory Assistant (Chemical Plant)
+Labour Laws
+Labour management
+Landscaping
+large number modules (LLM)
+Law
+Lead Attendance
+lead generation
+Leadership
+Leadership, Multitasking, Integrity, parts Knowledge, Machines Know How, Civil Maintenance
+Lean principle
+Learnability
+Learnability, Communication,Politeness, Hardwork, Process Orientation, Customer Service
+learning and development
+Learning attitude and passion
+Legal Research and Analysis, Writing Skills, Attention to Detail, Legal Knowledge.
+Library
+licensing
+Literacy skills
+LITERATE
+Logic sequences
+Logistics
+m com
+M Pharm
+M PHARMACY
+M S Office & English Communication skills
+M. Pharm
+M.Sc.Chemistry
+M.Tech
+MACHANIC MOTOR VEHICLE
+Machine Maintenance
+Machine Maintenance, Attention to detail, Multi Tasking, Active Listening, Flexibility
+Machine operations
+machine operator
+Machinery Operation
+Machines Know How
+Machines Knw how
+Machining
+Machinisit
+Maintenance
+Maintenance of Automation Systems
+Maintenance of Communication Systems
+Maintenance of Electronic Equipment
+Maintenance Wireman Operations
+Manage construction activities at the site, ensuring adherence to project specifications, codes and safety regulations
+Management Graduate
+Managing team
+Manpower planning,
+manufacturing
+Marathi Speaking Skills
+marine enginnering
+Marine Fitter
+marine painter
+market research
+marketing
+Mason or plumbing
+Mass Communication
+Master in Computer Application
+Masters in Bussiness and Administration
+Material Cutting
+MATERIAL HANDLING
+material management
+Material Selection
+Materials Management
+Mathematical Calculation
+Mathematical Skills
+Mathematics
+matix
+MBA
+MBA (Supply Chain)
+mba in finance
+MBA in Human Resource
+mba marketing
+MBA Operations
+MCA
+Measure
+Measures
+Mechancial Engineering
+Mechanic Diesel
+Mechanic Motor Vehicle
+Mechanical ,Civil & Electrical
+mechanical diploma
+Mechanical Engineer
+mechanical engineering
+Mechanical Maintenance
+Mechanical maintenance technicians
+Mechanical Maintenance, Electrical Maintenance, Computer Knowledge
+Mechanical Skills
+Mechanical, Electrical, Electronics, Automation, Instrumentaion
+Mechanical, Electrical, Electronics, Fitter
+Mechanical/ Electrical/ electronics/ fitter
+Mechanical/ Production / Metallurgy
+Mechanical/Electrical/Electronics/Robotics/Aeronautical
+mechanics
+mechanist
+mechatronics
+Medication Management-BLS Skills
+Metal Preparation
+METALLURGY
+Metering
+microbiology
+microcontrollers
+Microsoft Excel
+Microsoft Excel Coding
+MIG
+mig welder
+mill settings
+Milling
+mine surveying
+minimum 60% required
+Minimum 60% requried
+mining
+MIS
+MIS coordinator
+MIS Knowledge Healthcare
+MIS Report knowledge in Healthcare
+MIS, Finance, Finance Data, Data Entry
+MIS, MIS Tools, Data Entry, Data Analysis
+MIS, Power BI
+mixing
+Monitor and track site expenditures to ensure budget compliance.
+MOTOR MECHANIC
+motor vehicle
+MOTOR WINDER
+MPHARMA
+MPHW
+MS  Excel
+MS Certification
+MS Excel
+MS Excel / documentation
+MS Excel / documentation skills
+MS Excel Google Sheets Canva PowerPoint social media awareness
+MS Excel, Good communication skills, attention to detail
+MS Excel, VB, Power BI
+MS Office
+MS Office     * Quantity Surveying     * Site Supervision     * Communication Skills     * Project Management
+MS Office (MS Excel, MS word, MS Powerpoint), Communication skill, Good mathematical/ calculation skills
+MS Office suite
+MS Office Suite proficiency  Basic SQL knowledge  Process mapping understanding  Digital collaboration tools
+MS Office,  Basic understanding of financial markets
+MS Office, "1. Communication Skills 2. Problem Solving", 1. Communication Skills 2. Analytical Skills
+MS Office, Power Point Presentation, Data Entry, Typing
+MS Office, SQL, Exposure to Data analysis and reporting tools would be an added advantage
+MS word
+MS-Excel.
+msc
+Msc Biochemistry
+MSC Chemistry
+MSC DATA SCIENCE
+msoffice
+MSSQL
+MSW
+MULTIPLE
+multiple customer handling
+multitaking
+multitasking
+Multitasking
+Multitasking, negotiation along with business acumen and good networking abilities
+multitasking, negotiation, hiring and training along with business acumen and good networking abilities
+MUST HAVE BASIC KNOWLEDGE OF ELECTRICAL
+MUST HAVE BASIC KNOWLEDGE OF LATHE AND SHAPER MACHINES
+MUST HAVE THE BASIC KNOWLEDGE OF MECHANICAL TOOLS AND TACKLES
+Must possess Technical Proficiency Attention to Detail Physical Stamina Problem-Solving Collaboration
+Mutual fund
+mutual fund operations
+mutual fund sales
+naval archticture
+Need Basic Knowledge on Civil supervision.
+Need Good Analytical and supervision skills in site locations. should know the local language
+Need Good Analytical and supervision skills in site locations. should know the local language.
+Negotiation Skills
+Network Maintenance
+Network security
+Networking
+new
+new one
+NISM- VA
+Nism-VA
+non technical
+not applicable
+nursery
+nursing
+Nutrition and Dietetics
+NX
+observation skills
+OFFICE ADMINISTARTION
+OFFICE ADMINISTRATION
+Office Assistant
+Office Management
+Office package
+ohc
+Oil Refinery,
+Open to Learn
+Open to work in rotational shifts
+Operation and Maintenance
+operation management
+operation of pumps and compressors
+Operations
+Operations and Maintenance
+Operations Management, basic safety checks
+Operator,Quality Inspectors
+Oracle
+order management
+Organic Chemistry
+organisation skills
+Organizational Skills
+Organizational Skills Attention to Detail Communication Skills. Basic Computer Skills
+Overman
+packaging operations
+paint application
+paint mixing
+Paint technology
+Painter
+Paniting
+paradigm
+Partner Companies
+parts Knowledge
+Passion for editing
+Passion for Sales
+Passion for student engagement and social impact.
+Passion for Technology
+passion to learn accounting
+passion to learn graphic desigining
+pathology
+Patience
+Patient dealing
+payroll
+Payroll Accounting
+People Management
+Performance and Talent Management,
+Persuasion
+pharmaceuticals
+pharmaceuticals, field sales
+Pharmacist
+Pharmacopoeia
+Pharmacovigilance
+Pharmacy
+photoshop
+physic & Mathematics
+physical & mental fitness
+Physical Stamina
+Physical Stamina-
+physically & medically fit
+physically and medically fit
+Physics
+physiotherapy
+Pick and Place Machine, SPI, AOI, Reflow Oven, Solder Paste Printing, Electronic Components, PCB Inspection
+PIP
+Pipe Fitter
+Pipe line maintenance assistance
+planning
+Planning and marketing related works
+planning production
+Plant Machinery Operations & Handling
+Plant Machinery Operations & Handling, Process Safety
+plant safety
+PLC
+PLM
+plumber
+plumbing works
+Polymer engineer
+Polymer Graduate
+portals knowledge
+Possesses basic skills in using Microsoft Excel, Word, and PowerPoint
+Postgraduates in any discipline
+Power BI
+Power Distribution
+Power Plant
+POWER PLANT ELECTRICAL
+POWER PLANT MECHANICAL WORKS
+Power Point Presentation
+pre press
+Precision
+Presentation Skills
+Previous internship or coursework as Business Analyst or in program finance management
+Previous internship or coursework in communications or public relations is a plus.
+Previous internship or coursework related to sustainability, corporate responsibility, or ESG factors is advantageous
+printing and Packaging
+Printing technologist
+Problem Solving
+Problem solving mindset with attention to detail
+Problem solving with good domain knowledge
+Problem solving with good technical skills
+Problem Solving, Analytical Skills, Electrical Engineering, Electronics Engineering, Machine Maintenance, Production
+Problem Solving, Analytical Skills, Electrical Engineering, Electronics Engineering, Production
+Problem Solving, Decision Making, Analytical Skills, Electrical Engineering, Machine Maintenance
+Problem-Solving
+Problem-solving and observation skills in field conditions
+Problem-Solving Capability to implement effective solutions for electrical-related challenges
+Problem-Solving- Ability
+Problem-Solving- Capability
+Problem-Solving- Skills
+process engineering
+Process Improvement
+Process Safety
+Procurement and Logistics
+procurement operations
+product design
+Production
+production engineering
+production planning
+Production supervision and documentation work
+Production technicians
+Production,
+Production, Logistics & Warehouse Operations
+Proficent in Computer Skills
+Proficiency in CAD software
+Proficiency in Computer Skills
+Proficiency in English and at least any one Regional Language
+Proficiency in English and Regional Languages
+Proficiency in MS Office (Excel, Word, PowerPoint)
+Proficiency in written & spoken English Excellent communications skill,  MS Office, Teamplayer
+Proficiency in written & spoken English Interpersonal skills Communication skills Basic awareness of MS Office
+Proficiency in written & spoken English, Interpersonal skills, Communication skills, Basic awareness of MS Office
+Proficiency in written & spoken English, MS Office
+Proficient in English (written & oral), Hindi and Regional Language
+Proficient Microsoft Office package skills e.g. Excel, Outlook, PowerPoint etc
+Proficient with MS Excel
+Proficieny in Specific Trade is must. Clarity in Communciation Skill , Basic Computer Knowledge
+Program Management
+Programming
+PROGRAMMING KNOWLEDGE, BASIC PROGRAMMING FUNDAMENTALS
+Project Management
+Project management assistant
+Project Management Skills
+promotional skills
+Public Speaking
+pump fitting
+pump operation
+PUMP OPERATOR
+Purchase & Stores, Purchase and Procurement
+Purchase and Procurement
+purchase order
+Purchase, Procurement & Stores
+Pursuing BBA
+python
+QA
+QA Documentation
+QC Lab
+qualirty
+Quality analysis and documentation work
+Quality analysis and documentation work, quality assurance
+quality assurance
+Quality Control
+Quality controlar
+ratio
+raw materials handling
+RCC
+Read & Write Marathi, Hindi & Engllish
+read write speak
+Reading and writing ability
+Reading and writing skills , Communication skills and customer centricity
+Ready to learn
+Ready to travel within city
+Receipt and Dispatch
+record keeping
+record to report
+Recruitment and Onboarding
+refinery
+Refractory Application & Services
+Refractory Lining
+refrigeration and AC
+Regional language knowledge  Basic manufacturing knowledge  Quality management awareness
+Regular Arts and Science Degree
+Regular checks of SCBA and other safety equipment
+Relational/Non Relation Database Knowledge
+Relationship building skill
+Relationship manager
+relevant subject knowledge
+RELEVANT TECHNICAL SKILLS
+renewable energy
+repair
+REPAIR AND MAINTENANCE
+report writing
+requires you to take an ethical stance on matters relating to community, diversity and respect for others
+Research & Development
+Research & Development,
+resource optimization
+Resourcefulness
+Responsible for training operators/ARTs on various SOPs and ensure high productivity.
+result oriented
+Retail Outlet
+retail sales
+rf connectivity
+Rhino
+Risk Management
+RMC
+robot operator
+Robotics
+room cleaning
+Rotary
+safety
+Safety Awareness
+Safety Officer
+Safety Procedures
+sales
+Sales & Marketing
+Sales and Communication Skills
+sales and manufacturing
+sales and marketing
+Sales Campaign
+Sales Campaigns
+sales commumnication
+sales communication
+Sales Excellence
+Sales Executive
+sales management
+sales officer
+Sales order entry
+Sales Support
+Sales, Broadband Sales, DTH Sales
+Sales, Communication, MS Office, etc
+Sales, Communication, MS Office, etc.
+SAMPLING
+Sampling and Testing
+SAP
+SAP Certification
+SAP-Technical
+SCADA operations
+Science
+science stream
+Science stream preferred
+Science, Food Quality, Equipment Testing
+SCM
+script writing
+SDET
+SDLC
+Secretarial Practice
+Secretarial Services
+self driven
+Self-awareness
+Self-motivation
+Selling
+Selling,
+server maintenance
+Service Orientation
+Servicenow
+Servicing
+Serving as a fire watch during hot work activities to ensure fire safety
+Sheet Metal Worker
+shift incharge
+ship repair
+shipbuilding technology
+shop floor
+short-hand(Hindi)
+should be disciplined and well behaved
+Should be Good Communication Skills and Presentable Good Convincing Skills with Computer Knowledge
+Should have basic skill set of AI and how to perform UAT
+site assistant
+Site Maintenance
+Site Supervisor
+six month computer certificate
+skilled
+Skills in ensuring that fabricated components meet industry standards and regulations.
+Smart Phone Proficiency
+social media management
+Social Work
+soft services
+Software development
+Software Installation
+Software Maintenance
+Software Testing
+Software upgradation
+solar operations management
+solar panel cleaning and maintenance
+soldering
+SolidWorks
+some experience in accounts payable
+SOP
+sourcing
+Spatial Awareness
+Spring Boot
+SQL
+SQL Server
+Stakeholder Management
+Statistics
+statutory  Audit
+stock control, excel, communication
+store management
+stores and inventory management
+Storytelling, Voice Modulation, Basic Computer, Communication Skills
+Strategic Thinking
+Street Smart
+Stress Management
+Strong ability to coordinate with team members and operators for safe and efficient operations.
+Strong analytical and quantitative skills
+Strong analytical skills, attention to detail, and excellent communication abilities.
+Strong communication (both verbal and written) and attention to detail
+Strong communication (both verbal and written) and attention to detail.
+Strong communication and interpersonal skills
+strong networking and relationship-building skills
+Strong writing and typing skills in English & Hindi
+structuring
+Supervision
+Supplier Quality
+supply chain Management
+surface coating
+SURVEILLANCE
+Survey Works & Pilling supervision
+surveying
+swan
+system support
+Tableau
+tally
+Tally Prime
+Taxation
+Teaching
+Team player
+Team work
+Team Working
+Teamwork
+Teamworking
+technical
+Technical Drawing
+Technical Expertise
+Technical Expertise, Safety Awareness, Problem-Solving, Physical Stamina, Communication Skills
+Technical Inspection
+technical knowledge
+Technical knowledge, Electrical & SS tubing works for CNG stations, Checking feasibility of PNG connection
+technical learning
+Technical Literacy
+technical operation
+Technical orientation
+technical proficiency
+Technical Proficiency
+Technical Proficiency-
+Technical Proficiency, Analytical Skills, Attention to Detail, Problem-Solving, Communication Skills
+Technical Proficiency, Analytical Skills, Attention to Detail, Problem-Solving, Safety Awareness
+Technical Proficiency, Analytical Skills, Attention to Detail, Problem, Safety Awareness
+Technical Proficiency, Attention to Detail, Analytical Skills, Communication Skills, Time Management
+Technical Proficiency, Attention to Detail, Quality Control, Problem-Solving, Safety Awareness
+Technical Proficiency, Attention to Detail, Safety Awareness, Problem-Solving, Equipment Maintenance
+Technical Proficiency, Attention to Detail,Safety Awareness, Problem-Solving, Equipment Maintenance
+Technical Proficiency,Problem-Solving, Attention to Detai, Physical Stamina, Customer Service
+technical services
+Technical Skills, Analytical Skills, Software Testing, Project Management
+Technical Skills, Attention to Detail, Physical Stamina Problem-Solving Communication Skills
+Technical Skills, Attention to Detail, Problem-Solving, Time Management, Safety Awareness
+technical skils
+Technical Support
+technician
+Technological orientation
+technology
+Telecalling
+telecom maintenance
+tendering
+Terminal Operations
+Testing
+Testing & Validation
+testing and monitoring
+textile
+Textile and Processing
+think cell
+Thorough knowlege on MS-office
+Ticket booking
+TIG
+tig welder
+Time Management
+Time Management, Basic Computer Knowledge, Punctuality, Communication, and Interpersonal Skills
+Time Management, record keeping, Labour Laws
+TMT bar winding
+tool room
+Tools
+touch up
+TPM
+Track project progress, identify delays, and propose corrective actions
+Training
+Training & Development
+Training Operations Management
+Transformers
+Translation
+trash beam alignment
+trouble shooting
+Troubleshooting
+Troubleshooting, Install, Configuration
+turner
+Turning
+Tutorials/Guidance Videos
+Two-Wheeler Driving
+Typing
+uality Control, Machine Maintenance, Production, Electrical Maintenance
+UART
+Undergraduate (BE / B.Tech) Civil Engineering
+understanding ability
+Understanding and adherence to safety protocols to ensure a safe working environment.
+Understanding of Basic accounting concepts (Like accruals, provisions, revenue recognition etc
+Understanding of finance terms, Interpersonal skills, MS Office
+Understanding of GD&T (Geometric Dimensioning and Tolerancing)
+Understanding of Incoming, In-process, and Final Inspection
+Understanding of Integrated layouts like Industrials, Commercial & Hospital projects (Civil )
+Understanding of material receipt, storage, and issue processes
+Understanding of PLC and SCADA basics
+Understanding of surveying tools is desirable
+Understanding of switches, sockets, lighting, cables, and electrical panels
+Understanding of welding safety procedures and PPE
+US Healthcare Knowledge
+Utility
+ux/ui designer
+validation
+VAPT
+varnish
+vast knowledge of ms o
+VBA
+vendor development
+vendor management
+Verbal aptitude
+Very good communication skill
+Vessel Coordination
+Video Editing
+videography,
+VISAUL ARTS
+VLSI
+waste management
+Web  Programming
+web applications
+Web Basics
+web programming
+weding pipe
+welder
+welder only
+WELDER WORKS
+Welding and Fabrication
+Welding Techniques
+welding technology
+Welding Tools Operation
+Well Groomed
+Well-versed with MS Office
+Willing to travel
+Willing to work in rotational shifts
+Willingness to do field-based work
+Willingness to learn
+Willingness to learn and follow instructions
+Willingness to learn and grow in the L&D domain
+Willingness to Sell
+Willingness to travel locally
+Willingness to visit government offices.
+Willingness to work in the Field Job
+willng to travel
+wireman
+wood work technician
+Work Ethic
+Work Ethic, MS Office, Advanced Excel, Power Point Presentation, Data Entry

@@ -1,0 +1,92 @@
+{
+ "name": "CH01-P001-P004-w2",
+ "created": "2026-11-24T22:49:16",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P002-1",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "9daf13236fbf",
+   "refs": [
+    "BagroundGenTask/out/plates/M01-D01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P002-1~gen~1"
+  },
+  {
+   "rid": "P002-3",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "02ae0bb59b47",
+   "refs": [
+    "item:P002-3",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+   ],
+   "instruction": "Ahana's eyes and face: turn her gaze to the LEFT so she looks sideways at the weathered wooden cart at the left edge of the frame with a dry, deadpan half-smile (eyes clearly cutting left, not towards the lamp or Tez). Keep everything else exactly the same.",
+   "custom_id": "P002-3~fix~2"
+  },
+  {
+   "rid": "P003-1",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "67cc55a398fd",
+   "refs": [
+    "BagroundGenTask/out/plates/S01-B01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P003-1~gen~1"
+  },
+  {
+   "rid": "P003-3",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "052d3fbd8410",
+   "refs": [
+    "item:P003-3"
+   ],
+   "instruction": "Tara's pointing arm: instead of pointing sideways at the controller buttons, her index finger points steeply DOWN through the closed gate bars towards the floor of the shaft (arm lowered, finger aimed down at the bottom of the gate). Keep her face, mouth, staff, every other character, the controller and the background exactly the same.",
+   "custom_id": "P003-3~fix~2"
+  },
+  {
+   "rid": "P003-4",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1024x1024",
+   "prompt_sha": "4d1d12f60ccf",
+   "refs": [
+    "BagroundGenTask/out/plates/S01-B01.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P003-4~gen~1"
+  },
+  {
+   "rid": "P004-4",
+   "kind": "gen",
+   "quality": "high",
+   "size": "1024x1536",
+   "prompt_sha": "30870baf2ab6",
+   "refs": [
+    "BagroundGenTask/out/plates/S01-B01.png",
+    "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+   ],
+   "instruction": null,
+   "custom_id": "P004-4~gen~1"
+  }
+ ],
+ "bytes": 9143234
+}

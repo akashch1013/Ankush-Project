@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P005</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  /* B1 light page: calm cream field, Lantern Street moonline border (silver cold / brass warm), precision gauge hero */
+  .page.lightup { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; }
+  .lightup .blk { position: absolute; }
+  .lightup p { margin: 0 0 8pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .lightup .mt { color: #1F6F6B; font-weight: 700; }
+  .lightup .mr { color: #B5603A; font-weight: 700; }
+  .nw { white-space: nowrap; }
+  i.pl { font-style: normal; }
+  .sh { font-family: "Source Sans 3", sans-serif; font-weight: 600; color: #121a33; font-size: 18pt; line-height: 22pt;
+        margin: 0 0 6pt; display: flex; align-items: center; white-space: nowrap; }
+  .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .cap { background: #FFFDF6; border: .6pt solid #b3722f; padding: 5pt 8pt; box-sizing: border-box;
+         font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt; color: #1d2433;
+         box-shadow: 0 1.5pt 4pt rgba(91, 74, 46, .22); }
+  .pause { background: #E9EEF0; border-left: 1pt solid #b3722f; padding: 8pt 10pt; box-sizing: border-box; }
+  .pause p { margin: 0; }
+  .pause b { font-weight: 600; }
+  .ans { background: #EFE6D2; padding: 12pt; box-sizing: border-box; border-top: .8pt solid #b3722f; }
+  .eq { font-family: "Source Sans 3", sans-serif; font-size: 24pt; line-height: 30pt; font-weight: 600; color: #1d2433;
+        white-space: nowrap; margin: 4pt 0 10pt; }
+  .eq .op { font-weight: 400; }
+  .tag { position: absolute; width: 52pt; height: 22pt; box-sizing: border-box; border: .8pt solid #b3722f; border-radius: 2pt;
+         display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 14pt; line-height: 18pt;
+         box-shadow: 0 1pt 2.5pt rgba(91, 74, 46, .25), inset 0 0 0 1.2pt rgba(255, 255, 255, .55); }
+  .tag.warm { background: #FFFDF6; color: #B5603A; }
+  .tag.cold { background: #E3ECF4; color: #1F6F6B; }
+  .zero { font-weight: 600; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .fol { font-family: "Source Sans 3", sans-serif; font-weight: 600; font-size: 11pt; line-height: 13pt; color: #1d2433; letter-spacing: .4pt; }
+  .vig { position: absolute; display: block; }
+  .ahana { position: absolute; display: block; }
+  .ledge { position: absolute; display: block;
+           -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 78%, rgba(0,0,0,.45) 89%, transparent 98%);
+                   mask-image: linear-gradient(to bottom, #000 0%, #000 78%, rgba(0,0,0,.45) 89%, transparent 98%); }
+  .nl { display: block; overflow: visible; margin: 4pt 0 14pt; }
+</style>
+</head>
+<body>
+<div class="page lightup" id="page" data-chapter="CH01" data-page="P005">
+
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="bBrass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <linearGradient id="bBrassR" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".3" stop-color="#b3722f"/><stop offset=".6" stop-color="#d9a55a"/><stop offset="1" stop-color="#f3d58f"/></linearGradient>
+    <radialGradient id="bSilver" cx=".38" cy=".34" r=".75"><stop offset="0" stop-color="#ffffff"/><stop offset=".45" stop-color="#d6e1ee"/><stop offset="1" stop-color="#7f93ad"/></radialGradient>
+    <radialGradient id="bGlow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f7c684" stop-opacity=".35"/><stop offset=".55" stop-color="#f7c684" stop-opacity=".12"/><stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bMoon" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fff6da"/><stop offset=".6" stop-color="#f1d79a"/><stop offset="1" stop-color="#c99a4c"/></radialGradient>
+    <filter id="bSoft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.3"/></filter>
+  </defs>
+
+  <!-- finish glow spilling onto the cream -->
+  <circle cx="842" cy="626" r="28" fill="url(#bGlow)"/>
+
+  <!-- the moonline, cold: TOP and LEFT runs in silver -->
+  <path d="M26 12 H844 M12 26 V628" fill="none" stroke="#9fb3cc" stroke-width="1.1"/>
+  <path d="M27 13.5 H844 M13.5 27 V628" fill="none" stroke="#e6eef8" stroke-width=".45"/>
+  <!-- warm: RIGHT and BOTTOM runs in brass, broken at the folio -->
+  <path d="M852 20 V616 M820 636 H448 M406 636 H20" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+  <path d="M850.5 20 V616 M820 634.5 H448 M406 634.5 H20" fill="none" stroke="#f3d58f" stroke-width=".45"/>
+
+  <!-- joining plates where cold meets warm: top-right (852,12), bottom-left (12,636) -->
+  <g>
+    <rect x="844" y="8" width="16" height="8" rx="1" fill="url(#bBrass)" stroke="#5a3510" stroke-width=".5"/>
+    <path d="M846 12 H858" stroke="#dfe8f2" stroke-width=".7"/>
+    <circle cx="846.6" cy="12" r="1" fill="#6e4318"/><circle cx="857.4" cy="12" r="1" fill="#6e4318"/>
+  </g>
+  <g>
+  </g>
+
+  <!-- ENTRY top-left: silver crescent-moon-and-star medallion -->
+  <circle cx="17" cy="17.4" r="10.4" fill="#5d7290" fill-opacity=".25" filter="url(#bSoft)"/>
+  <circle cx="16" cy="16" r="10" fill="#1b2a44" stroke="url(#bSilver)" stroke-width="1.6"/>
+  <circle cx="16" cy="16" r="7.4" fill="none" stroke="#9fb3cc" stroke-width=".4"/>
+  <path d="M17.6 9.6 A6.6 6.6 0 1 0 17.6 22.4 A5.2 5.2 0 1 1 17.6 9.6 Z" fill="#f1d79a"/>
+  <path d="M20.6 12.2 L21.3 14.4 L23.5 15.1 L21.3 15.8 L20.6 18 L19.9 15.8 L17.7 15.1 L19.9 14.4 Z" fill="#e6eef8"/>
+
+  <!-- FINISH bottom-right: brass kit-box corner cap -->
+  <g transform="translate(864 648) scale(-1 -1)">
+    <path d="M1.6 1.6 H35 V14 L29 20 H20 V29 L14 35 H1.6 Z" fill="#3d240b" fill-opacity=".25" transform="translate(-1.4 -1.6)" filter="url(#bSoft)"/>
+    <path d="M0 0 H34 V13 L28 19 H19 V28 L13 34 H0 Z" fill="url(#bBrassR)" stroke="#5a3510" stroke-width=".6"/>
+    <path d="M33.4 1 V12.6 L27.6 18.4 H18.4 V27.6 L12.6 33.4" fill="none" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".6"/>
+    <circle cx="8.4" cy="8.4" r="2.6" fill="#7a4a18"/><circle cx="8.4" cy="8.4" r="1.8" fill="#d7a256"/><circle cx="9.1" cy="9.2" r=".8" fill="#fff0c4"/>
+  </g>
+
+  <!-- folio: moon 5/107 lit (waxing, lit on the right) in a brass ring -->
+  <circle cx="422" cy="636" r="8" fill="#1b2a44" stroke="#b3722f" stroke-width=".9"/>
+  <circle cx="422" cy="636" r="5.4" fill="#2c3c58"/>
+  <path d="M422 630.6 A5.4 5.4 0 0 1 422 641.4 A4.895 5.4 0 0 0 422 630.6 Z" fill="url(#bMoon)"/>
+</svg>
+<div class="blk fol" style="left:433pt; top:629.5pt">5</div>
+
+<!-- ========== atmosphere left of the tube: Sam's warm town (top), Sarah's frozen town (bottom), from M01-D01 ========== -->
+<img class="vig" src="assets/img/TOWNW.png" alt="" style="left:368pt; top:52pt; width:65pt; height:160pt">
+<img class="vig" src="assets/img/TOWNC.png" alt="" style="left:368pt; top:436pt; width:65pt; height:160pt">
+
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt; z-index:2" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="gGlass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8aa0b8" stop-opacity=".55"/><stop offset=".18" stop-color="#dfe8f2" stop-opacity=".35"/>
+      <stop offset=".34" stop-color="#ffffff" stop-opacity=".75"/><stop offset=".48" stop-color="#ffffff" stop-opacity=".15"/>
+      <stop offset=".8" stop-color="#b9c8d8" stop-opacity=".25"/><stop offset="1" stop-color="#6f8299" stop-opacity=".6"/></linearGradient>
+    <linearGradient id="gBrassH" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6e4318"/><stop offset=".22" stop-color="#b3722f"/><stop offset=".42" stop-color="#f3d58f"/>
+      <stop offset=".62" stop-color="#c98f45"/><stop offset="1" stop-color="#5a3510"/></linearGradient>
+    <radialGradient id="gBulb" cx=".36" cy=".34" r=".72">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".95"/><stop offset=".28" stop-color="#dfe9f4"/>
+      <stop offset=".75" stop-color="#9fb3cc"/><stop offset="1" stop-color="#5d7290"/></radialGradient>
+    <radialGradient id="gHaze" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#f7c684" stop-opacity=".30"/><stop offset=".6" stop-color="#f7c684" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gChill" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#a6c6f5" stop-opacity=".22"/><stop offset="1" stop-color="#a6c6f5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gBeadT" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#f1b48e"/><stop offset=".55" stop-color="#B5603A"/><stop offset="1" stop-color="#7a3a1e"/></radialGradient>
+    <radialGradient id="gBeadC" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#9fd3cd"/><stop offset=".55" stop-color="#1F6F6B"/><stop offset="1" stop-color="#0f3f3c"/></radialGradient>
+    <filter id="fSoft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
+
+  <!-- lamp haze pools behind the warm half; moon chill behind the cold half -->
+  <ellipse cx="448" cy="186" rx="46" ry="150" fill="url(#gHaze)"/>
+  <ellipse cx="448" cy="470" rx="40" ry="140" fill="url(#gChill)"/>
+
+  <!-- soft shadow the gauge casts on the paper (key light from the upper left) -->
+  <rect x="440.0" y="52" width="22" height="552" rx="11" fill="#5b4a2e" fill-opacity=".14" filter="url(#fSoft)"/>
+  <circle cx="451" cy="613" r="15" fill="#5b4a2e" fill-opacity=".16" filter="url(#fSoft)"/>
+
+  <!-- glass tube -->
+  <rect x="437.0" y="48" width="22" height="552" rx="11" fill="#eef3f8" fill-opacity=".55"/>
+  <rect x="437.0" y="48" width="22" height="552" rx="11" fill="url(#gGlass)" stroke="#6b7a8c" stroke-width=".6"/>
+  <path d="M443.2 62 V586" stroke="#ffffff" stroke-width="1.6" stroke-opacity=".85" stroke-linecap="round"/>
+  <path d="M455.8 70 V580" stroke="#ffffff" stroke-width=".5" stroke-opacity=".5"/>
+  <!-- the bore -->
+  <path d="M448 60 V596" stroke="#9fb3cc" stroke-width="2.4" stroke-opacity=".45" stroke-linecap="round"/>
+
+  <!-- rime creeping up the left edge from the bulb, stopping at the 0 bar -->
+  <path d="M437.7 596.0 L440.8 590.3 M439.2 593.1 l1.7 0.9 M438.1 590.0 L443.9 584.2 M441.0 587.1 l1.8 1.6 M437.5 584.5 L440.3 579.2 M438.9 581.9 l2.9 2.0 M437.6 576.1 L442.9 566.9 M440.2 571.5 l2.4 1.8 M437.9 567.2 L443.5 556.8 M440.7 562.0 l2.5 1.5 M438.3 561.8 L442.3 554.3 M440.3 558.0 l2.8 1.6 M438.3 555.5 L444.0 548.3 M441.1 551.9 l2.8 1.5 M437.4 548.5 L441.9 542.0 M439.6 545.3 l2.0 1.9 M437.5 543.5 L439.9 540.6 M438.7 542.1 l2.3 1.5 M437.7 536.7 L443.7 526.2 M440.7 531.4 l1.8 1.7 M437.6 530.1 L441.2 526.2 M439.4 528.1 l2.3 2.1 M438.1 524.4 L440.6 520.3 M439.3 522.3 l2.4 1.1 M437.3 517.2 L440.1 513.1 M438.7 515.2 l2.5 2.1 M437.2 505.8 L442.3 501.7 M439.7 503.7 l1.9 2.2 M437.9 495.2 L441.7 492.0 M439.8 493.6 l2.7 1.2 M437.7 488.3 L441.6 481.2 M439.6 484.8 l2.9 1.3 M438.1 482.5 L440.5 478.4 M439.3 480.5 l2.0 1.2 M437.4 476.1 L443.4 467.4 M440.4 471.8 l1.6 0.9 M437.2 469.0 L442.1 460.5 M439.7 464.7 l2.2 1.1 M438.1 455.7 L440.8 452.1 M439.5 453.9 l2.1 2.2 M437.2 445.8 L440.4 441.2 M438.8 443.5 l2.1 1.1 M437.2 432.5 L442.6 425.1 M439.9 428.8 l1.9 1.1 M437.4 424.3 L440.5 421.4 M438.9 422.9 l1.6 2.1 M438.3 412.9 L444.3 404.0 M441.3 408.5 l2.5 1.9 M437.5 399.8 L441.6 392.2 M439.5 396.0 l2.8 2.1 M438.2 384.6 L441.7 380.5 M439.9 382.6 l2.5 1.9 M437.5 372.6 L442.2 367.2 M439.9 369.9 l2.9 2.1 M438.0 364.5 L443.9 359.7 M441.0 362.1 l1.6 2.1 M437.3 355.7 L443.2 348.8 M440.2 352.3 l1.8 1.7 M437.5 342.5 L442.5 338.2 M440.0 340.4 l1.5 2.1 M438.2 334.5 L443.7 324.3 M441.0 329.4 l2.7 2.0" fill="none" stroke="#ffffff" stroke-opacity=".75" stroke-width=".45" stroke-linecap="round"/>
+  <path d="M437.8 598 V328.0" stroke="#ffffff" stroke-opacity=".55" stroke-width="1.2"/>
+
+  <!-- engraved scale: every 1 (.5pt, 5pt) and every 5 (.8pt, 9pt), right side, unlabelled but 0 -->
+  <g>
+    <path d="M459.6 588.0 H468.6" stroke="#3a3326" stroke-width="0.8"/>
+    <path d="M459.6 570.4 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 552.8 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 535.2 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 517.6 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 500.0 H468.6" stroke="#3a3326" stroke-width="0.8"/>
+    <path d="M459.6 482.4 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 464.8 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 447.2 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 429.6 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 412.0 H468.6" stroke="#3a3326" stroke-width="0.8"/>
+    <path d="M459.6 394.4 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 376.8 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 359.2 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 341.6 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 306.4 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 288.8 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 271.2 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 253.6 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 236.0 H468.6" stroke="#3a3326" stroke-width="0.8"/>
+    <path d="M459.6 218.4 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 200.8 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 183.2 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 165.6 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 148.0 H468.6" stroke="#3a3326" stroke-width="0.8"/>
+    <path d="M459.6 130.4 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 112.8 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 95.2 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 77.6 H464.6" stroke="#3a3326" stroke-width="0.5"/>
+    <path d="M459.6 60.0 H468.6" stroke="#3a3326" stroke-width="0.8"/>
+  </g>
+
+  <!-- the moonline: a silver 0 bar across the tube, 10pt out each side -->
+  <path d="M427.0 324.0 H469.0" stroke="#7f93ad" stroke-width="1.1"/>
+  <path d="M427.0 323.1 H469.0" stroke="#e6eef8" stroke-width=".45"/>
+  <circle cx="427.0" cy="324.0" r="1.4" fill="#9fb3cc"/><circle cx="469.0" cy="324.0" r="1.4" fill="#9fb3cc"/>
+
+  <!-- brass collar, top: finial, cap, ring -->
+  <path d="M448 30 V36" stroke="#8a5a22" stroke-width="1"/>
+  <circle cx="448" cy="29" r="2.4" fill="#d7a256" stroke="#6e4318" stroke-width=".5"/>
+  <path d="M439 44 C439 38 443 36 448 36 C453 36 457 38 457 44 Z" fill="url(#gBrassH)" stroke="#5a3510" stroke-width=".5"/>
+  <rect x="433" y="44" width="30" height="10" rx="2" fill="url(#gBrassH)" stroke="#5a3510" stroke-width=".5"/>
+  <path d="M434 46 H462" stroke="#fff0c4" stroke-width=".5" stroke-opacity=".8"/>
+  <rect x="435" y="54" width="26" height="4" fill="#9a6526"/>
+
+  <!-- brass collar, bottom, and the glass bulb -->
+  <rect x="435" y="590" width="26" height="4" fill="#9a6526"/>
+  <rect x="433" y="593" width="30" height="8" rx="2" fill="url(#gBrassH)" stroke="#5a3510" stroke-width=".5"/>
+  <path d="M434 595 H462" stroke="#fff0c4" stroke-width=".5" stroke-opacity=".8"/>
+  <circle cx="448" cy="611" r="12.5" fill="url(#gBulb)" stroke="#5d7290" stroke-width=".6"/>
+  <ellipse cx="444" cy="606.5" rx="3.6" ry="2.4" fill="#ffffff" fill-opacity=".9"/>
+
+  <!-- reading beads: 12 (warm) and -12 (cold) -->
+  <circle cx="448" cy="112.8" r="5.2" fill="url(#gBeadT)" stroke="#7a3a1e" stroke-width=".5"/>
+  <circle cx="446.4" cy="111.0" r="1.4" fill="#fff1e2" fill-opacity=".85"/>
+  <circle cx="448" cy="535.2" r="5.2" fill="url(#gBeadC)" stroke="#0f3f3c" stroke-width=".5"/>
+  <circle cx="446.4" cy="533.4" r="1.4" fill="#e8fbf8" fill-opacity=".85"/>
+
+  <!-- leaders from the 12 and -12 ticks to their tags -->
+  <path d="M468.6 112.8 H476" stroke="#B5603A" stroke-width=".6"/>
+  <path d="M468.6 535.2 H476" stroke="#1F6F6B" stroke-width=".6"/>
+</svg>
+
+<div class="blk zero" style="left:473.0pt; top:315.0pt; z-index:3">0</div>
+<div class="tag warm" style="left:476pt; top:101.8pt; z-index:3">12°C</div>
+<div class="tag cold" style="left:476pt; top:524.2pt; z-index:3">−12°C</div>
+
+<!-- ========== A1 welcome caption ========== -->
+<div class="blk cap" style="left:36pt; top:36pt; width:320pt">Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe.</div>
+
+<!-- ========== A2 intro ========== -->
+<div class="blk" id="intro" style="left:36pt; top:190pt; width:320pt">
+  <p>Why is <i class="pl" data-math="−12 < 12"><b class="mt nw">−12°C</b> colder than <b class="mr nw">12°C</b></i>? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.</p>
+  <p style="margin:0">We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number.</p>
+</div>
+
+<!-- ========== A3 Ahana, behind the street's blue-stone ledge, fading into the paper ========== -->
+<img class="ahana" src="assets/img/AHANA.png" alt="" style="left:128pt; top:392pt; width:192pt; height:216.7pt">
+<img class="ledge" src="assets/img/LEDGE.png" alt="" style="left:-6pt; top:538pt; width:340pt; height:112.5pt">
+
+<!-- bottom-left joining plate, riveted over the ledge's foot where the silver and brass runs meet -->
+<svg class="blk" style="left:0; top:626pt; width:28pt; height:20pt; z-index:3" viewBox="0 626 28 20" aria-hidden="true">
+  <defs><linearGradient id="jB" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#6e4318"/></linearGradient></defs>
+  <rect x="4.6" y="633.2" width="16" height="8" rx="1" fill="#3d240b" fill-opacity=".25"/>
+  <rect x="4" y="632" width="16" height="8" rx="1" fill="url(#jB)" stroke="#5a3510" stroke-width=".5"/>
+  <path d="M6 636 H18" stroke="#dfe8f2" stroke-width=".7"/>
+  <circle cx="6.6" cy="636" r="1" fill="#6e4318"/><circle cx="17.4" cy="636" r="1" fill="#6e4318"/>
+</svg>
+
+<!-- ========== C1 Numbers below zero ========== -->
+<div class="blk" id="q" style="left:544pt; top:36pt; width:292pt">
+  <div class="sh">Numbers below zero</div>
+  <p style="margin:0">Sam’s town is at <b class="mr nw">12°C</b>. Sarah’s town is at <b class="mt nw">−12°C</b>. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?</p>
+</div>
+
+<!-- ========== C2 Pause and think ========== -->
+<div class="blk pause" id="pt" style="left:544pt; top:170pt; width:292pt">
+  <p><b>Pause and think.</b> Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?</p>
+</div>
+
+<!-- ========== C3 Check your thinking ========== -->
+<div class="blk ans" id="ans" style="left:544pt; top:290pt; width:292pt">
+  <div class="sh">Check your thinking</div>
+  <p style="margin-bottom:6pt"><b class="mr nw">12°C</b> is 12 degrees above zero; <b class="mt nw">−12°C</b> is 12 degrees below zero. Sam’s town is warmer. From <b class="mt nw">−12°C</b>, a rise of 10°C takes Sarah’s town to <b class="mt nw">−2°C</b>:</p>
+  <div class="eq" data-math="−12 + 10 = −2"><span class="mt">−12</span> <span class="op">+</span> 10 <span class="op">=</span> <span class="mt">−2</span></div>
+  <svg class="nl" data-math="−12 + 10 = −2" width="268pt" height="64pt" viewBox="0 0 268 64" aria-hidden="true">
+    <defs><marker id="ah" viewBox="0 0 8 8" refX="6.5" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#1F6F6B"/></marker></defs>
+    <path d="M1 40 H267" stroke="#1d2433" stroke-width=".9"/>
+    <path d="M2 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M13 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M24 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M35 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M46 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M57 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M68 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M79 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M90 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M101 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M112 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M123 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M134 34 V46" stroke="#1d2433" stroke-width="1"/><path d="M145 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M156 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M167 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M178 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M189 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M200 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M211 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M222 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M233 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M244 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M255 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/><path d="M266 35.5 V44.5" stroke="#1d2433" stroke-width="0.5"/>
+    <path d="M2 33 C20 10 94 10 111 32" fill="none" stroke="#1F6F6B" stroke-width="1.3" marker-end="url(#ah)"/>
+    <text x="57.0" y="14" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="13" fill="#1F6F6B">+10</text>
+    <circle cx="2" cy="40" r="3.6" fill="#EFE6D2" stroke="#1F6F6B" stroke-width="1.4"/>
+    <circle cx="112" cy="40" r="3.8" fill="#1F6F6B"/>
+    <circle cx="266" cy="40" r="3.8" fill="#B5603A"/>
+    <g font-family="Source Sans 3" font-size="14" fill="#1d2433"><text x="2" y="60" text-anchor="middle">−12</text><text x="112" y="60" text-anchor="middle">−2</text><text x="134" y="60" text-anchor="middle">0</text><text x="266" y="60" text-anchor="middle">12</text></g>
+  </svg>
+  <p style="margin:0"><i class="pl" data-math="−2 < 12"><b class="mt nw">−2°C</b> is still colder than Sam’s <b class="mr nw">12°C</b></i>. Sarah’s town has warmed up, but it has not caught up with Sam’s.</p>
+</div>
+
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

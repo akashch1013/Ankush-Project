@@ -10,6 +10,12 @@ Work from `/home/akasdh/Desktop/Projects/ComicAgent/Tasks`. Read these first, in
 2. `FInalChangesTask/PANEL-GUIDE.md`: binding. It covers references, sizes, the prompt skeleton, maths-in-art rules, CHECKS and the loop.
 3. The chapter's `PdfSheetsGenTask/<CHxx>/pages.json` (only your pages).
 
+## Non-negotiables (user, 2026-11-25)
+- **The plate's geometry is fixed.** Never add, move, re-angle or reshape a background object (cart, handle, gate, controller) to make a beat work. Stage the characters inside the given plate so the beat happens naturally there; keep the plate's camera direction unless the brief says otherwise.
+- **Continuity:** before writing a prompt, look at the previous and next pages' images (`out/`) and plan positions, props and states so nothing jumps.
+- **Characters exactly from their sheets.** Attach the sheet of every visible named character, background figures included; never re-imagine from the manuscript description. Tara is always calm and wise (sheet expressions), never animated.
+- Reserve calm areas for balloons and captions **inside** the art: they are laid on the image, not in gutters.
+
 ## Procedure
 1. For your pages, list the panels with `art.kind == "new"` and the `spot_art` not already in `FInalChangesTask/library/` (check its `jobs.json`/`out/`).
 2. For each item:

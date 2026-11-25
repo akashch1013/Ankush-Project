@@ -9,6 +9,2262 @@
  },
  "pages": [
   {
+   "page": "P001",
+   "pattern": "free composition; nearest grid S1 (single establishing splash with chapter title)",
+   "theme": "story page, manual V09 + B1 border family (Lantern Street materials: royal-blue lacquer, brass, pale paving)",
+   "title": "The Street That Would Not Light",
+   "purpose": "story: Scene CH01 01A, the chapter opener. One establishing wide from the Entry Court arch down dark Lantern Street: Ahana leads with the brass work lamp, Tez one pace ahead, Vihaan, Navya and Tara behind. Wonder limited by darkness. Chapter title, then the opening caption.",
+   "beats": [
+    "CH01 01A A"
+   ],
+   "panels": [
+    {
+     "id": "P001-1",
+     "beat": "CH01 01A A",
+     "box": [
+      24,
+      96,
+      816,
+      516
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P001-1",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "M01-D01",
+      "plate": "BagroundGenTask/out/plates/M01-D01.png",
+      "camera": "from the Entry Court arch end, same direction as the plate but pulled back a few steps and raised to standing-child eye height so the broad lane keeps its depth and curve: parked empty cart and its sloping handle against the near-left stall wall (left third), the lift's brass gate behind it, the continuous right-wall bench on the right, the paving curving away to the CLOSED Food Street shutters at the far bend. The group occupies the lower-centre foreground on the pale reflective paving, on the open-lane side of the cart."
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "lower centre, foreground, just inside the arch, leading; three-quarter back view with her profile visible",
+       "action": "walks forward holding the brass work lamp LOW in her RIGHT hand so its warm pool lights their first steps; left hand free at her side",
+       "gaze": "into the dark street",
+       "expression": "wonder, cautious",
+       "holding": "brass work lamp (right hand); navy backpack on her back (cream sketchbook inside, not visible)"
+      },
+      {
+       "name": "Tez",
+       "position": "one pace ahead of Ahana on the paving, between her and the cart handle tip, three-quarter side view",
+       "action": "walks towards the tip of the parked cart's sloping handle; leave clearly visible paving between his forehead and the wood (he has not reached it yet); the cart is farther into the lane than Tez, on his route before the lift",
+       "gaze": "ahead into the lane",
+       "expression": "curious, eager",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      },
+      {
+       "name": "Vihaan",
+       "position": "on Ahana's LEFT, half a pace behind her, three-quarter back view",
+       "action": "follows, looking up at the dark arches",
+       "gaze": "into the dark street",
+       "expression": "awed",
+       "holding": "nothing in hand; his invitation is in a secure pocket (not visible)"
+      },
+      {
+       "name": "Navya",
+       "position": "on Ahana's RIGHT, half a pace behind her, three-quarter back view",
+       "action": "follows, satchel closed at her hip",
+       "gaze": "into the dark street",
+       "expression": "alert, observant",
+       "holding": "satchel (closed, strap across her body)"
+      },
+      {
+       "name": "Tara",
+       "position": "one step behind the three children, centre, tallest figure",
+       "action": "walks behind them, staff upright in her RIGHT hand",
+       "gaze": "into the dark street",
+       "expression": "watchful, grave",
+       "holding": "staff (right hand)"
+      }
+     ],
+     "extras": "none; the lower-store helper is not visible from this view. No crowd, no Bell, the fair has not opened.",
+     "props_state": [
+      "main lantern arches DARK; all five indicators dark (too distant to read anyway); silver moonline unlit, metallic not glowing",
+      "the parked empty street cart rests against the left stall wall outside the route, its handle sloping down towards the entrance (as in the plate); it is distinct from the supply cart below",
+      "lift car empty at street level behind the closed brass gate (distant, no readable markings)",
+      "Food Street shutters closed at the far bend",
+      "only the portable lamp and fixed work lamps give warm light; cool moonlight edges roofs and canopy gaps",
+      "equipment too distant to reveal any solution; reflective stone paving beneath all feet"
+     ],
+     "painted_text": [],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "title",
+       "where": "top band across the dark arches/sky, upper-centre",
+       "w": 0.62,
+       "h": 0.14
+      },
+      {
+       "for": "caption",
+       "where": "upper-left under the title, over the dark upper wall above the cart",
+       "w": 0.42,
+       "h": 0.2
+      }
+     ],
+     "captions": [
+      "The work lamp lights only a small circle of Lantern Street. Tall arches stretch across the lane, but their lanterns are dark. On either side stand blue-painted stalls with closed shutters."
+     ],
+     "bubbles": [],
+     "shape": "Mughal four-centred (pointed) arch crown. Sides vertical from y=612 up to y=176, then curving to the apex at (432,96). Clip-path on .pnl. Square bottom corners.",
+     "art_brief": {
+      "shape": "Mughal four-centred (pointed) arch crown. Sides vertical from y=612 up to y=176, then curving to the apex at (432,96). Clip-path on .pnl. Square bottom corners.",
+      "image": "new 1536x1024 (aspect 1.5). Scale to 816pt wide (=544pt tall) with top offset -14pt so the arch clip shows the dark arch soffit and the bottom keeps the paving.",
+      "composition": "Wide from just inside the Entry Court arch looking down the curving lane (M01-D01 camera, Lantern Street master). Main arches and lanterns DARK, stall shutters closed, moon high in the far canopy gap giving cold rim light. The crew is near camera, lower centre-right (page x 430–760, y 380–612): Ahana leads holding the brass work lamp at chest height (lamp at about page (560,440)); its warm circle on the wet pale paving is about 260pt wide. Vihaan on her left, Navya on her right, Tara one step behind with her staff. Tez ahead of Ahana walks left toward the TIP of the parked empty cart's handle, with visible paving between his forehead and the wood. Cart parked lengthways against the near-left stall wall, page x 150–380, y 380–495 (keep its wheels above y 495). Lift recess near-left beyond the cart, bench along the right wall, Food Street shutters closed at the far bend. Main arches unlit, moonline unlit.",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 494,
+        "w": 320,
+        "h": 112,
+        "art_must_be": "unlit dark paving and the shadowed foot of the left stall wall, low detail, no character, cart wheel or lamp highlight"
+       },
+       {
+        "for": "arch crown (no text, but keep it dark and simple so the clip edge reads)",
+        "x": 180,
+        "y": 96,
+        "w": 504,
+        "h": 70,
+        "art_must_be": "dark arch soffit / night canopy, no bright lantern"
+       }
+      ]
+     }
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Chapter 01 opening page (splash). Reading order: chapter title FIRST, then the opening caption (unnamed narrator). The title is the printable 'CHAPTER TITLE — PRINT ONLY THIS' field; it is HTML, never painted. Keep the street broad with depth and scale (not a small room). Tez must not yet touch the handle (that is P002-1). Ahana, Navya and Vihaan are equally tall upright; their crowns reach just below Tara's chest. Bending changes pose, not body size. Paint NO numerals or lettering anywhere: the position strip, control plaques, threshold plate, −8 landing plate, last-change window and card faces are painted blank (ticks on the strip are fine); the reference plates carry painted numbers/labels that must NOT be copied. No Bell in this street. Speaker names and production notes never print.",
+   "art": {
+    "idea": "The book opens at the threshold. The page is the Entry Court arch itself. The reader stands with the crew under the arch, looking into a long dark lane where one hand lamp makes the only warm circle. The arch is the page shape, the title is set over it like the gateway's lintel inscription, and the whole sheet is the darkest page of the chapter. Everything after this gets lighter.",
+    "role_in_opener": "1/5: darkness. Single-panel splash. Silence and scale: wonder held back by the dark.",
+    "system": "Book system (identical on every page, do not vary): V09 type (captions Source Serif 4 Regular 14/18 on caption paper #F7F1E3, .6pt brass #b3722f border, 5pt/8pt padding, soft shadow; speech Source Sans 3 Semibold 14/18 in ivory #FFFDF6 balloons, .8pt ink #1d2433 outline, curved P107-style tails ending short of the mouth; no speaker names). Panel frames 1pt brass + .5pt inner dark line + drop shadow, gutters 10pt, trim clearance 24pt. Border built in one full-sheet SVG like P107: rules 0.5–1.1pt, a pinstripe 12pt inside the trim broken at entry, folio and finish; strongest accent at entry (top-left) and finish (bottom-right). Moonclock folio bottom centre exactly as P107: brass ring r8 at (422,636), waxing moon lit fraction = page/107 (lit on the right), number Source Sans 3 Semibold 11pt at left:433pt top:629.5pt.",
+    "field": {
+     "colour": "midnight: radial gradient #122A45 at the centre (432,360) to #070f20 at the corners",
+     "why": "the darkest page of the book; the arch and the lamp do all the work"
+    },
+    "border": {
+     "material": "Entry Court arch: dark indigo lacquer with brass beading (M01-D01 arches, unlit)",
+     "construction": "Brass beading follows the panel's arch crown 7pt outside the panel edge (1.1pt #b3722f, plus a .45pt #f3d58f highlight 2pt inside it). It runs down both sides to the bottom corners and stops 30pt short of the folio. Pinstripe .8pt #6f6040 (dull brass: the street is unlit) 12pt inside the trim, broken at the title, folio and finish lamp.",
+     "entry": "Top-left spandrel: a small brass bracket corner joint (P107 construction, scaled to 38pt), with its curved brace reaching the arch's left haunch.",
+     "top_arm": "None along the top: the title holds the top band.",
+     "spandrel_object": "Top-right spandrel: one UNLIT hanging lantern (dark smoked glass #1b2740, brass cap and finial, the P107 lantern drawing at 1.4x, no glow). It hangs on a .7pt chain from a short brass bracket arm out of the right trim at (846,24), with the lantern body at about x 806–822, y 70–100. One cold moon glint (a 1.2pt #cfe0fa dot at 40%) sits on its glass.",
+     "finish": "Bottom-right: a small brass work lamp on a bracket at (812,628) with the ONLY warm glow on the border, a radial #f7c684 pool r 30pt at 55% fading to 0, spilling onto the field toward the folio.",
+     "extra": "The moonline: a .6pt dull pewter line (#5d6b80) runs along the bottom margin at y=622 from x=40 to x=400 and ends at the folio. It is unlit here; later pages light it silver."
+    },
+    "grid": [
+     {
+      "panel": "P001-1",
+      "box_pt": {
+       "x": 24,
+       "y": 96,
+       "w": 816,
+       "h": 516
+      },
+      "shape": "Mughal four-centred (pointed) arch crown. Sides vertical from y=612 up to y=176, then curving to the apex at (432,96). Clip-path on .pnl. Square bottom corners.",
+      "image": "new 1536x1024 (aspect 1.5). Scale to 816pt wide (=544pt tall) with top offset -14pt so the arch clip shows the dark arch soffit and the bottom keeps the paving.",
+      "composition": "Wide from just inside the Entry Court arch looking down the curving lane (M01-D01 camera, Lantern Street master). Main arches and lanterns DARK, stall shutters closed, moon high in the far canopy gap giving cold rim light. The crew is near camera, lower centre-right (page x 430–760, y 380–612): Ahana leads holding the brass work lamp at chest height (lamp at about page (560,440)); its warm circle on the wet pale paving is about 260pt wide. Vihaan on her left, Navya on her right, Tara one step behind with her staff. Tez ahead of Ahana walks left toward the TIP of the parked empty cart's handle, with visible paving between his forehead and the wood. Cart parked lengthways against the near-left stall wall, page x 150–380, y 380–495 (keep its wheels above y 495). Lift recess near-left beyond the cart, bench along the right wall, Food Street shutters closed at the far bend. Main arches unlit, moonline unlit.",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 494,
+        "w": 320,
+        "h": 112,
+        "art_must_be": "unlit dark paving and the shadowed foot of the left stall wall, low detail, no character, cart wheel or lamp highlight"
+       },
+       {
+        "for": "arch crown (no text, but keep it dark and simple so the clip edge reads)",
+        "x": 180,
+        "y": 96,
+        "w": 504,
+        "h": 70,
+        "art_must_be": "dark arch soffit / night canopy, no bright lantern"
+       }
+      ]
+     }
+    ],
+    "lettering": [
+     {
+      "order": 1,
+      "role": "chapter title",
+      "text": "The Street That Would Not Light",
+      "box_pt": {
+       "x": 112,
+       "y": 30,
+       "w": 640,
+       "h": 48
+      },
+      "on": "field (top band above the arch apex)",
+      "style": "V09 chapter title: Source Serif 4 Semibold 36/40, centred, moon-ivory #E6ECF5, letter-spacing .3pt. Under it, a .6pt brass hairline 120pt wide centred at y=84 that drops into the arch apex as a tiny brass finial (a 6pt drop at (432,88)). Only the word 'Light' carries a faint ember text-shadow (0 0 7pt rgba(247,198,132,.45)): the one spark not yet caught."
+     },
+     {
+      "order": 2,
+      "role": "caption",
+      "text": "The work lamp lights only a small circle of Lantern Street. Tall arches stretch across the lane, but their lanterns are dark. On either side stand blue-painted stalls with closed shutters.",
+      "box_pt": {
+       "x": 40,
+       "y": 502,
+       "w": 300,
+       "h": 96
+      },
+      "on": "caption paper over calm zone 1 (bottom-left of the panel)",
+      "style": "standard caption (system). About 5 lines at 284pt inner width."
+     }
+    ],
+    "hero": "The lane itself: one warm lamp circle in a long blue-black street under the arch. The title sits above it.",
+    "illustrate": "none (story page). No numbers anywhere, and the five indicator lamps far down the lane stay distant, dark and unreadable.",
+    "companion": "none: the cast is in the scene.",
+    "colour": "Almost monochrome midnight indigo + cold moon rim (#a6c6f5) on the arches. The only warm notes are Ahana's lamp circle in the panel and the work-lamp pool at the finish corner: warm against cold, at a 90/10 ratio.",
+    "delights": [
+     "The single UNLIT lantern hanging in the top-right spandrel, smoked glass with one cold moon glint: the street's problem, drawn in the border.",
+     "The title's word 'Light' holds a faint ember glow while the rest stays moon-cold.",
+     "The folio moon is a hairline new crescent (1/107 lit) and the moonline in the bottom margin is dull pewter: the book's light starts at zero."
+    ],
+    "folio": "moon 1/107 lit (hairline crescent), '1'",
+    "art_sources": {
+     "plate_ref": "BagroundGenTask/out/plates/M01-D01.png (raw, Image 1; regrade dark: main arches and lanterns unlit)",
+     "character_sheets": [
+      "AHANA",
+      "TEZ",
+      "VIHAAN",
+      "NAVYA",
+      "TARA"
+     ]
+    },
+    "needs_new_art": true,
+    "needs_new_art_what": "P001-1: one wide dark-lane splash (no existing art shows the crew entering the unlit street). 1536x1024, quality high, letter-free, with the calm zones above.",
+    "never": [
+     "no chapter number or book name added (not in the manuscript)",
+     "no glow on the main arches",
+     "no text over the lane art except the opaque caption in its calm zone"
+    ]
+   }
+  },
+  {
+   "page": "P002",
+   "pattern": "free composition; nearest grid S3 (wide strip over two equal panels)",
+   "theme": "story page, manual V09 + B1 border family (Lantern Street materials: royal-blue lacquer, brass, pale paving)",
+   "title": "",
+   "purpose": "story: Scene CH01 01B, a light beat. Tez walks into the parked cart handle; Ahana checks on him (“Are you all right?” / “I knew that was there.”), then jokes to the cart. No comic injury.",
+   "beats": [
+    "CH01 01B A",
+    "CH01 01B B",
+    "CH01 01B C"
+   ],
+   "panels": [
+    {
+     "id": "P002-1",
+     "beat": "CH01 01B A",
+     "box": [
+      24,
+      24,
+      816,
+      226
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P002-1",
+      "size": "1536x1024",
+      "crop_note": "wide strip panel (~3.3:1): the panel shows the central horizontal band around Tez's head, the handle grip and Ahana's shin (object-position ≈ 50% 62%); compose the action in the middle 40% of the image height"
+     },
+     "background": {
+      "record": "M01-D01",
+      "plate": "BagroundGenTask/out/plates/M01-D01.png",
+      "camera": "cub-eye level, very low across the pale reflective paving, from the open-lane side, side-on to Tez: the cart's rising wooden handle crosses the frame from its low grip near the paving up to the cart body against the left stall wall; edge of the lamp pool on the paving"
+     },
+     "characters": [
+      {
+       "name": "Tez",
+       "position": "centre, side-on, all four paws grounded",
+       "action": "has just walked into the handle: his lowered forehead touches the rising wooden shaft just above its ground-level grip; body still in walking stance",
+       "gaze": "down at the shaft, eyes half-closed in surprise",
+       "expression": "startled, faintly affronted (not hurt)",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      },
+      {
+       "name": "Ahana",
+       "position": "only her near shin and shoe visible, one step behind Tez's flank in the same depth band (screen-left of him, entrance side)",
+       "action": "mid-step; the warm pool from the brass lamp in her RIGHT hand falls on the paving around Tez (lamp itself may be just out of frame or at the top edge)",
+       "gaze": "n/a (face out of frame)",
+       "expression": "n/a",
+       "holding": "brass work lamp (right hand), mostly out of frame"
+      }
+     ],
+     "extras": "the other characters are out of frame (approaching from the entrance side); use Ahana's adjacent leg and Tez's grounded paws to set his scale (crown just below her knee).",
+     "props_state": [
+      "the cart stays parked against the left stall wall, empty, outside the route; its handle is the original sloping handle (unchanged from M01-D01)",
+      "arches dark; moonline unlit"
+     ],
+     "painted_text": [],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left of the visible band, over the dark stall wall above the handle",
+       "w": 0.34,
+       "h": 0.22
+      }
+     ],
+     "captions": [
+      "Tez walks into a parked cart handle."
+     ],
+     "bubbles": [],
+     "shape": "Letterbox, square corners: the low cub-eye strip.",
+     "art_brief": {
+      "shape": "Letterbox, square corners: the low cub-eye strip.",
+      "image": "new 1536x1024, composed so the action lives in a horizontal band (rows 22%–78%). The builder crops 816x226 out of a 816-wide scale (544 tall) at offset -150pt.",
+      "composition": "Cub-eye level, very low across the pale reflective paving. Side-on: Tez's lowered forehead touches the rising wooden shaft just above its low grip at about page x 470–560. The handle slopes up-left to the cart body against the near-left stall wall (page x 120–420). Ahana's near shin and shoe one step behind Tez's flank (page x 590–640). The rest of the group as legs and lamp light from the right. Dark arch and wall above.",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 30,
+        "w": 290,
+        "h": 44,
+        "art_must_be": "dark upper stall wall, low detail"
+       }
+      ]
+     }
+    },
+    {
+     "id": "P002-2",
+     "beat": "CH01 01B B",
+     "box": [
+      24,
+      260,
+      480,
+      348
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P002-2",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "M01-D01",
+      "plate": "BagroundGenTask/out/plates/M01-D01.png",
+      "camera": "medium side view from the open-lane side of the action (camera stays on the lane side all page), low-ish at child chest height, looking across at the near-left stall wall: the parked cart body and wheels against the wall, its original wooden handle sloping down towards the entrance; one dark arch and the lift wall edge as anchors; paving leading past the cart into the lane"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "centre, midground, on the open (lane) side of the handle, face visible in three-quarter view",
+       "action": "bends towards Tez; her LEFT hand rests on (steadies) the handle shaft above its low grip; her RIGHT hand raises the brass lamp higher",
+       "gaze": "Tez",
+       "expression": "concerned, kind",
+       "holding": "brass work lamp raised (right hand); left hand on the cart handle; navy backpack on"
+      },
+      {
+       "name": "Tez",
+       "position": "beside Ahana's shin, lower centre, three-quarter view so his face and mouth are visible",
+       "action": "stands on four paws, chin lifted, answering her",
+       "gaze": "Ahana",
+       "expression": "embarrassed but unhurt, dignified",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      },
+      {
+       "name": "Vihaan",
+       "position": "just behind Ahana's LEFT shoulder",
+       "action": "watches",
+       "gaze": "Tez",
+       "expression": "amused, not mocking (small smile)",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "to Ahana's RIGHT",
+       "action": "watches",
+       "gaze": "Tez",
+       "expression": "attentive",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Tara",
+       "position": "a pace behind the group, background, tallest",
+       "action": "stands with staff upright",
+       "gaze": "the group",
+       "expression": "calm, faint patience",
+       "holding": "staff (right hand)"
+      }
+     ],
+     "extras": "none",
+     "props_state": [
+      "cart stays parked; Ahana only steadies the handle, it does not move",
+      "lamp now raised higher: a wider warm pool than P002-1",
+      "arches dark"
+     ],
+     "painted_text": [],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top-left",
+       "w": 0.5,
+       "h": 0.14
+      },
+      {
+       "for": "bubble",
+       "where": "upper area above Ahana's head (her line, read first)",
+       "w": 0.42,
+       "h": 0.18
+      },
+      {
+       "for": "bubble",
+       "where": "middle-right above Tez, below Ahana's balloon (his reply, read second)",
+       "w": 0.4,
+       "h": 0.16
+      }
+     ],
+     "captions": [
+      "Ahana catches the handle. She lifts the lamp higher."
+     ],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "Are you all right?",
+       "where": "upper area, above Ahana",
+       "tail_to": "Ahana's mouth"
+      },
+      {
+       "speaker": "Tez",
+       "text": "I knew that was there.",
+       "where": "below/right of Ahana's balloon, above Tez",
+       "tail_to": "Tez's mouth"
+      }
+     ],
+     "shape": "Rectangle.",
+     "art_brief": {
+      "shape": "Rectangle.",
+      "image": "new 1536x1024, scale 348/1024 tall, centred crop.",
+      "composition": "Medium side view from the same aisle. Ahana left of centre bends toward Tez, her left hand on the shaft above its low grip, lamp raised high in her right (lamp at about page (250,318)). Tez on the right of centre (page x 300–420, head at y≈500), chin lifted, looking up at her. Both faces visible. Vihaan behind her left shoulder, Navya to her right, Tara a pace behind, all dimmer.",
+      "calm_zones_pt": [
+       {
+        "for": "Ahana balloon",
+        "x": 32,
+        "y": 268,
+        "w": 190,
+        "h": 46,
+        "art_must_be": "dark upper wall / arch, left of the raised lamp"
+       },
+       {
+        "for": "Tez balloon",
+        "x": 326,
+        "y": 420,
+        "w": 172,
+        "h": 64,
+        "art_must_be": "dark stall wall above Tez's head"
+       },
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 544,
+        "w": 262,
+        "h": 58,
+        "art_must_be": "unlit paving left of Ahana's feet"
+       }
+      ]
+     }
+    },
+    {
+     "id": "P002-3",
+     "beat": "CH01 01B C",
+     "box": [
+      514,
+      260,
+      326,
+      348
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P002-3",
+      "size": "1536x1024",
+      "continuity": "item:P002-2 (same camera, background, foot positions, lamp height and props; only Ahana's gaze and the others' expressions change)"
+     },
+     "background": {
+      "record": "M01-D01",
+      "plate": "BagroundGenTask/out/plates/M01-D01.png",
+      "camera": "identical to P002-2; keep the cart wood clearly in frame so the joke has a visible target"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "identical to P002-2",
+       "action": "keeps the handle in her LEFT hand and the raised lamp in her RIGHT; only her gaze turns to the parked cart as she delivers the punchline to Tez",
+       "gaze": "the parked cart",
+       "expression": "deadpan, teasing half-smile",
+       "holding": "brass work lamp raised (right hand); left hand on the handle"
+      },
+      {
+       "name": "Tez",
+       "position": "identical, beside the same shin",
+       "action": "stands facing Ahana, chin up",
+       "gaze": "Ahana",
+       "expression": "maintaining his dignity (slightly put-out)",
+       "holding": "nothing; faded pale-grey neck stripes as before"
+      },
+      {
+       "name": "Vihaan",
+       "position": "identical",
+       "action": "stifles a grin",
+       "gaze": "Ahana",
+       "expression": "amused, not mocking",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "identical",
+       "action": "watches",
+       "gaze": "Tez",
+       "expression": "small smile",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Tara",
+       "position": "identical, a pace behind",
+       "action": "stands with staff",
+       "gaze": "the group",
+       "expression": "calm",
+       "holding": "staff (right hand)"
+      }
+     ],
+     "extras": "none",
+     "props_state": [
+      "cart parked and unchanged; no comic injury"
+     ],
+     "painted_text": [],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper area above Ahana's head",
+       "w": 0.42,
+       "h": 0.18
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "I was asking the cart.",
+       "where": "upper area, above Ahana",
+       "tail_to": "Ahana's mouth"
+      }
+     ],
+     "shape": "Rectangle, a tighter two-shot.",
+     "art_brief": {
+      "shape": "Rectangle, a tighter two-shot.",
+      "image": "new 1024x1024 (or 1024x1536 cropped). Scale to 348pt tall.",
+      "composition": "Hold the two-shot, closer. Ahana's face in three-quarter profile, eyes cutting to the cart at the LEFT edge (cart wood visible at the left of frame), a dry half-smile. Her left hand stays on the handle and the lamp stays up in her right. Tez at the lower right looks up at her, ears pricked.",
+      "calm_zones_pt": [
+       {
+        "for": "Ahana balloon",
+        "x": 522,
+        "y": 268,
+        "w": 210,
+        "h": 52,
+        "art_must_be": "dark wall top, above Ahana's head"
+       }
+      ]
+     }
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Match M01-D01 throughout: cart body and wheels against the left stall wall, original wooden handle sloping down towards the entrance; keep the camera on the open-lane side of the action for the whole page. P002-2: Ahana speaks first, Tez answers; both mouths framed; balloon tails point to mouths without covering eyes. P002-3 is the same two-shot; Ahana looks at the cart (not Tez) for the joke. P002-1 has narration only. No comic injury. Ahana, Navya and Vihaan are equally tall upright; their crowns reach just below Tara's chest. Bending changes pose, not body size. Paint NO numerals or lettering anywhere: the position strip, control plaques, threshold plate, −8 landing plate, last-change window and card faces are painted blank (ticks on the strip are fine); the reference plates carry painted numbers/labels that must NOT be copied. Speaker names never print.",
+   "art": {
+    "idea": "A beat of comedy at cub-eye level. The border is built from the culprit: the parked cart. Its timber handle runs along the top margin as the page's arm, and a cart wheel turns into the finish corner. The low letterbox first panel puts the reader's eye at Tez's height.",
+    "role_in_opener": "2/5: still night, first warmth. The hand lamp is lifted higher, so the field is lighter and greyer than P001's midnight.",
+    "system": "Book system (identical on every page, do not vary): V09 type (captions Source Serif 4 Regular 14/18 on caption paper #F7F1E3, .6pt brass #b3722f border, 5pt/8pt padding, soft shadow; speech Source Sans 3 Semibold 14/18 in ivory #FFFDF6 balloons, .8pt ink #1d2433 outline, curved P107-style tails ending short of the mouth; no speaker names). Panel frames 1pt brass + .5pt inner dark line + drop shadow, gutters 10pt, trim clearance 24pt. Border built in one full-sheet SVG like P107: rules 0.5–1.1pt, a pinstripe 12pt inside the trim broken at entry, folio and finish; strongest accent at entry (top-left) and finish (bottom-right). Moonclock folio bottom centre exactly as P107: brass ring r8 at (422,636), waxing moon lit fraction = page/107 (lit on the right), number Source Sans 3 Semibold 11pt at left:433pt top:629.5pt.",
+    "field": {
+     "colour": "blue slate: radial #42567a at (300,300) to #2c3a52 at the corners (V09 slate #384961 family)",
+     "why": "cooler and lighter than P001. A lamp-pool glow on the field (delight 2) starts the warm-up."
+    },
+    "border": {
+     "material": "The parked street cart: weathered timber (#6b4a2e with .4pt #8a6440 grain hairlines) with brass corner straps and rivets (M01-D01 cart, S01-D01 brass straps)",
+     "entry": "Top-left: a timber corner block 30x30pt with a brass L-strap (brass gradient as in P107, 1pt dark edge) and 2 rivets.",
+     "top_arm": "The cart handle: a 5pt timber rail leaving the corner block and running along the top margin, sloping gently down from (34,9) to (500,15) (the handle's slope). It ends in a brass ferrule cap at x 496–506, right above the gutter between P002-2 and P002-3.",
+     "pinstripe": ".8pt brass #c9a24a, 12pt inside the trim, from x=520 along the top, down the right side and along the bottom. Broken at the folio and the wheel.",
+     "finish": "Bottom-right: a quarter of a spoked timber cart wheel (r 34pt, centre (864,648) outside the trim, so only a quarter shows): 5 visible spokes, an iron/brass tyre 2pt, a brass hub cap at the corner.",
+     "left_side": "No rule on the left below the corner block: the panels take that edge."
+    },
+    "grid": [
+     {
+      "panel": "P002-1",
+      "box_pt": {
+       "x": 24,
+       "y": 24,
+       "w": 816,
+       "h": 226
+      },
+      "shape": "Letterbox, square corners: the low cub-eye strip.",
+      "image": "new 1536x1024, composed so the action lives in a horizontal band (rows 22%–78%). The builder crops 816x226 out of a 816-wide scale (544 tall) at offset -150pt.",
+      "composition": "Cub-eye level, very low across the pale reflective paving. Side-on: Tez's lowered forehead touches the rising wooden shaft just above its low grip at about page x 470–560. The handle slopes up-left to the cart body against the near-left stall wall (page x 120–420). Ahana's near shin and shoe one step behind Tez's flank (page x 590–640). The rest of the group as legs and lamp light from the right. Dark arch and wall above.",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 30,
+        "w": 290,
+        "h": 44,
+        "art_must_be": "dark upper stall wall, low detail"
+       }
+      ]
+     },
+     {
+      "panel": "P002-2",
+      "box_pt": {
+       "x": 24,
+       "y": 260,
+       "w": 480,
+       "h": 348
+      },
+      "shape": "Rectangle.",
+      "image": "new 1536x1024, scale 348/1024 tall, centred crop.",
+      "composition": "Medium side view from the same aisle. Ahana left of centre bends toward Tez, her left hand on the shaft above its low grip, lamp raised high in her right (lamp at about page (250,318)). Tez on the right of centre (page x 300–420, head at y≈500), chin lifted, looking up at her. Both faces visible. Vihaan behind her left shoulder, Navya to her right, Tara a pace behind, all dimmer.",
+      "calm_zones_pt": [
+       {
+        "for": "Ahana balloon",
+        "x": 32,
+        "y": 268,
+        "w": 190,
+        "h": 46,
+        "art_must_be": "dark upper wall / arch, left of the raised lamp"
+       },
+       {
+        "for": "Tez balloon",
+        "x": 326,
+        "y": 420,
+        "w": 172,
+        "h": 64,
+        "art_must_be": "dark stall wall above Tez's head"
+       },
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 544,
+        "w": 262,
+        "h": 58,
+        "art_must_be": "unlit paving left of Ahana's feet"
+       }
+      ]
+     },
+     {
+      "panel": "P002-3",
+      "box_pt": {
+       "x": 514,
+       "y": 260,
+       "w": 326,
+       "h": 348
+      },
+      "shape": "Rectangle, a tighter two-shot.",
+      "image": "new 1024x1024 (or 1024x1536 cropped). Scale to 348pt tall.",
+      "composition": "Hold the two-shot, closer. Ahana's face in three-quarter profile, eyes cutting to the cart at the LEFT edge (cart wood visible at the left of frame), a dry half-smile. Her left hand stays on the handle and the lamp stays up in her right. Tez at the lower right looks up at her, ears pricked.",
+      "calm_zones_pt": [
+       {
+        "for": "Ahana balloon",
+        "x": 522,
+        "y": 268,
+        "w": 210,
+        "h": 52,
+        "art_must_be": "dark wall top, above Ahana's head"
+       }
+      ]
+     }
+    ],
+    "lettering": [
+     {
+      "order": 1,
+      "panel": "P002-1",
+      "role": "caption",
+      "text": "Tez walks into a parked cart handle.",
+      "box_pt": {
+       "x": 36,
+       "y": 34,
+       "w": 270,
+       "h": 28
+      },
+      "style": "standard caption, one line (nowrap)"
+     },
+     {
+      "order": 2,
+      "panel": "P002-2",
+      "role": "speech (Ahana)",
+      "text": "Are you all right?",
+      "box_pt": {
+       "x": 40,
+       "y": 272,
+       "w": 170,
+       "h": 34
+      },
+      "style": "compact stadium; tail down-right to Ahana's mouth"
+     },
+     {
+      "order": 3,
+      "panel": "P002-2",
+      "role": "speech (Tez)",
+      "text": "I knew that was there.",
+      "box_pt": {
+       "x": 334,
+       "y": 426,
+       "w": 156,
+       "h": 52
+      },
+      "style": "tight ellipse, 2 lines (a lively save-face line); short tail down to Tez's mouth. Tails do not cross."
+     },
+     {
+      "order": 4,
+      "panel": "P002-2",
+      "role": "caption",
+      "text": "Ahana catches the handle. She lifts the lamp higher.",
+      "box_pt": {
+       "x": 36,
+       "y": 552,
+       "w": 250,
+       "h": 46
+      },
+      "style": "standard caption, 2 lines"
+     },
+     {
+      "order": 5,
+      "panel": "P002-3",
+      "role": "speech (Ahana)",
+      "text": "I was asking the cart.",
+      "box_pt": {
+       "x": 530,
+       "y": 274,
+       "w": 190,
+       "h": 34
+      },
+      "style": "compact stadium, one line; tail to Ahana's mouth"
+     }
+    ],
+    "hero": "Panel 1's low letterbox: Tez's forehead meeting the handle, with the sloping wood leading the eye in from the border arm above.",
+    "illustrate": "none (story page).",
+    "companion": "none: the cast is in the scene.",
+    "colour": "Slate night with the hand lamp's gold rising. Warm gold is concentrated on Ahana's raised lamp and its echo on the field (delight 2). Timber brown and brass in the border are new to the book here.",
+    "delights": [
+     "The border's cart-handle arm ends in its brass ferrule right above where Tez bumped it: the culprit signs the page.",
+     "A soft lamp-gold glow (#f7c684 radial, r 70pt, 35% to 0) sits on the slate field at the P002-1/P002-2 gutter above Ahana's raised lamp: she 'lifts the lamp higher' and the light climbs out of the panel.",
+     "A quarter cart wheel rolls into the finish corner, hub cap on the trim corner."
+    ],
+    "folio": "moon 2/107 lit, '2'",
+    "art_sources": {
+     "plate_ref": "BagroundGenTask/out/plates/M01-D01.png (cart + lane, arches unlit)",
+     "character_sheets": [
+      "AHANA",
+      "TEZ",
+      "VIHAAN",
+      "NAVYA",
+      "TARA"
+     ]
+    },
+    "needs_new_art": true,
+    "needs_new_art_what": "P002-1 (cub-eye bump, letterbox-safe), P002-2 (Ahana checks on Tez, two-shot), P002-3 (closer two-shot, Ahana glances at the cart). New story moments. No comic injury marks.",
+    "never": [
+     "no cartoon impact stars or motion lines",
+     "no text over the lamp highlight or faces"
+    ]
+   }
+  },
+  {
+   "page": "P003",
+   "pattern": "free composition; nearest grid S4 (wide + tall cutaway over a 2-beat strip)",
+   "theme": "story page, manual V09 + B1 border family (Lantern Street materials: royal-blue lacquer, brass, pale paving)",
+   "title": "",
+   "purpose": "story: Scenes CH01 01C–01D. The knock leads them to the lift in the left wall; Tara turns up the fixed lamp. Far below, the wooden helper taps a metal box beside its supply cart at the −8 store. Tara explains: the helper took the supplies down; someone sent the empty lift back up and changed the return instructions.",
+   "beats": [
+    "CH01 01C A",
+    "CH01 01D A",
+    "CH01 01D B",
+    "CH01 01D C"
+   ],
+   "panels": [
+    {
+     "id": "P003-1",
+     "beat": "CH01 01C A",
+     "box": [
+      24,
+      24,
+      566,
+      266
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-1",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "street-side medium facing the recessed shaft in the left wall, a little wider than the plate: the brass gate on the left, the blue-and-brass controller on its right with the warm wall lamp above it; the group on the safe paving in the foreground; the entrance cart is parked behind their approach (out of frame or a sliver at the frame edge)"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "screen-right, nearest the fixed wall lamp above the controller, three-quarter view",
+       "action": "frozen mid-action: her LEFT hand on the fixed lamp's control, turning it up; staff upright in her RIGHT hand",
+       "gaze": "the shaft / the gate",
+       "expression": "alert, listening",
+       "holding": "staff (right hand); left hand on the lamp control"
+      },
+      {
+       "name": "Ahana",
+       "position": "screen-left of centre, beside the closed gate (not touching it)",
+       "action": "turns towards the shaft, portable brass lamp in her right hand",
+       "gaze": "down through the gate bars towards the sound",
+       "expression": "intent, listening",
+       "holding": "brass work lamp (right hand); navy backpack on"
+      },
+      {
+       "name": "Tez",
+       "position": "beside Ahana on the paving, clear of the sliding gate opening",
+       "action": "ears pricked towards the shaft",
+       "gaze": "the shaft",
+       "expression": "alert",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      },
+      {
+       "name": "Vihaan",
+       "position": "centre, approaching the controller on safe paving",
+       "action": "turns towards the shaft",
+       "gaze": "the shaft",
+       "expression": "curious",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "centre-right, approaching the controller on safe paving, beside Vihaan",
+       "action": "turns towards the shaft",
+       "gaze": "the shaft",
+       "expression": "focused",
+       "holding": "satchel (closed)"
+      }
+     ],
+     "extras": "none; the helper is below and out of frame",
+     "props_state": [
+      "single empty car stopped at the street's 0 level behind the CLOSED brass safety gate",
+      "only the fixed work lamp brightens (warmer, larger pool); main street arches stay dark",
+      "controller: lower catch cover closed, two red warning lamps lit, card rail and shelf clear, last-change window blank",
+      "nobody leans through the guard; no second car"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      },
+      {
+       "text": "0",
+       "on": "blank brass threshold plate set in the paving at the foot of the street gate",
+       "how": "SVG overlay"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top-left over the dark upper gate canopy / left wall",
+       "w": 0.46,
+       "h": 0.26
+      }
+     ],
+     "captions": [
+      "The knock comes again. This time they can hear where it comes from. There’s a lift in the left wall. Tara turns up a fixed lamp beside it."
+     ],
+     "bubbles": [],
+     "shape": "Rectangle.",
+     "art_brief": {
+      "shape": "Rectangle.",
+      "image": "new 1536x1024, scale 566/1536, crop the middle band (offset -60pt).",
+      "composition": "Street-side medium facing the recessed shaft in the left wall (S01-B01). Closed brass gate centre-left (page x 150–380), the blue-and-brass controller at its right jamb (x 390–450) under the warm wall lamp. Tara at the right (x 460–580) with her left hand on the fixed lamp, staff upright in her right. Ahana beside the closed gate with her hand lamp, Tez beside her. Vihaan and Navya approach the controller, partly back-to-camera in the lower foreground. Empty car at street level behind the bars. The main street beyond stays dark. Controller buttons and strip painted BLANK (no words, no numerals).",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 32,
+        "w": 346,
+        "h": 94,
+        "art_must_be": "dark upper left-wall bay and arch shadow above the gate; the gate's crest stays below y 130 or is cropped out"
+       }
+      ]
+     }
+    },
+    {
+     "id": "P003-2",
+     "beat": "CH01 01D A",
+     "box": [
+      600,
+      24,
+      240,
+      584
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-2",
+      "size": "1024x1536",
+      "crop_note": "tall panel; keep the helper's head, both hands, the metal box and the cart within the middle 75% of the image height"
+     },
+     "background": {
+      "record": "S02-B01",
+      "plate": "BagroundGenTask/out/plates/S02-B01.png",
+      "camera": "steep downward cutaway from behind the street guard (brass guard ribs crossing the top/foreground, as in the geometry of S01-D01) down the empty shaft to the guarded −8 lower-store landing: timber landing edge, lower brass safety barrier, the −8 landing plate and the lower warm lamp, as in S02-B01. The car is at 0 ABOVE the camera and is NOT in this crop: the shaft below is empty (do not copy the car at −5 from S01-D01). Optional 2nd geometry reference: BagroundGenTask/out/plates/S01-D01.png (shaft view only; ignore its car and its painted numbers)"
+     },
+     "characters": [
+      {
+       "name": "Broad wooden helper (blue waistcoat)",
+       "position": "centre of the lower landing, small with depth, seen from above, feet on the lower landing",
+       "action": "taps the metal box to attract attention: one hand poised against the metal box, the other resting at its supply cart",
+       "gaze": "up the shaft",
+       "expression": "patient, expectant (painted eyes)",
+       "holding": "nothing; carved wood with visible grain, painted eyes, round brass joints, a separate wooden thumb, blue waistcoat"
+      }
+     ],
+     "extras": "Tara and the children are above and outside this crop.",
+     "props_state": [
+      "the supply cart stands entirely on the −8 lower landing (low four-wheeled timber platform, brass corner straps, rear handle, secured closed supply boxes; one box lid with a painted blue-and-gold lamp picture), as in S02-B01",
+      "a small plain metal box within the helper's tapping reach beside the cart / lower gate post",
+      "lower safety gate closed; lower lamp lit; shaft empty",
+      "−8 landing plate painted BLANK"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "−8",
+       "on": "blank brass landing plate in the lower-landing floor beside the lower gate",
+       "how": "SVG overlay, true minus sign; small, perspective-matched"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top, over the dark upper shaft / guard ribs",
+       "w": 0.9,
+       "h": 0.24
+      }
+     ],
+     "captions": [
+      "Far below, the wooden helper in the blue waistcoat stands beside its cart of supplies. It is tapping a metal box to attract attention."
+     ],
+     "bubbles": [],
+     "shape": "Tall narrow shaft panel (full height). Its side frame edges are drawn as brass gate rails (delight 1).",
+     "art_brief": {
+      "shape": "Tall narrow shaft panel (full height). Its side frame edges are drawn as brass gate rails (delight 1).",
+      "image": "new 1024x1536 portrait. Scale 584/1536 tall (= 389pt wide) and crop the centre 240pt (offset -74pt): compose for a central vertical strip.",
+      "composition": "A steep look DOWN the shaft from behind the street guard. Foreground brass guard bars converge along the far left and right edges only; the centre top stays deep dark shaft interior. At the bottom (page y 380–600): the broad wooden helper in a blue waistcoat (painted eyes, wood grain, brass joints, separate wooden thumb), one hand poised against a metal box, the other at the supply cart (low four-wheeled timber platform, brass corner straps, closed supply boxes) on the guarded lower timber landing, lit warm by its fixed lamp. A blank brass level plate on the landing edge (no numerals painted).",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 606,
+        "y": 30,
+        "w": 228,
+        "h": 112,
+        "art_must_be": "near-black shaft interior, no bars, no lamp"
+       }
+      ],
+      "overlay": "The builder overlays '−8' (Source Sans 3 Semibold 10pt, dark engraved ink #2a1d10) on the painted blank level plate, as manuscript Props require the −8 landing mark. Position it from the final art."
+     }
+    },
+    {
+     "id": "P003-3",
+     "beat": "CH01 01D B",
+     "box": [
+      24,
+      300,
+      278,
+      308
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-3",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "street-level medium from the safe paving facing the physical-left wall bay as in S01-B01: closed brass gate filling the left of the bay, the blue controller fixed immediately against its right jamb beneath the warm wall lamp (gate edge, jamb and casing in one wall plane), the single empty car at 0 behind the bars; the only depth behind the gate is the shaft and car. No freestanding console, no aisle, no second lift. Camera pulled back from the plate enough to fit the group on the paving in the foreground"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "centre, behind the children on safe paving, tallest, face and mouth clearly visible above the children's heads",
+       "action": "speaks; her LEFT index finger points down through the closed guard towards the lower store; staff upright in her RIGHT hand",
+       "gaze": "down the shaft",
+       "expression": "serious, explaining",
+       "holding": "staff (right hand)"
+      },
+      {
+       "name": "Ahana",
+       "position": "screen-left, nearest the gate",
+       "action": "stands with her lamp, listening",
+       "gaze": "down through the gate",
+       "expression": "attentive",
+       "holding": "brass work lamp (right hand)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "beside the controller's position strip, centre-right",
+       "action": "listens",
+       "gaze": "Tara",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "beside the controller's card slots, screen-right",
+       "action": "listens",
+       "gaze": "Tara",
+       "expression": "thoughtful",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Tez",
+       "position": "behind the children's feet on clear paving",
+       "action": "sits, ears up",
+       "gaze": "the gate",
+       "expression": "alert",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      }
+     ],
+     "extras": "the helper remains below and outside this crop",
+     "props_state": [
+      "empty car at 0 behind the closed gate; all feet on the street landing",
+      "lower catch cover closed; red warning lamps on; card rail, slots and shelf empty; last-change window blank",
+      "fixed lamp turned up (as P003-1)"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      },
+      {
+       "text": "0",
+       "on": "blank brass threshold plate set in the paving at the foot of the street gate",
+       "how": "SVG overlay"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-centre above Tara's head (used by P003-4 too, same camera)",
+       "w": 0.5,
+       "h": 0.24
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "That helper took the supplies down before the trouble began.",
+       "where": "upper-centre, above Tara",
+       "tail_to": "Tara's mouth"
+      }
+     ],
+     "shape": "Rectangle.",
+     "art_brief": {
+      "shape": "Rectangle.",
+      "image": "new 1024x1024 (or 1024x1536 cropped), scale to 308pt tall.",
+      "composition": "Street-level medium beside the fixed lamp and controller. Tara behind the children, staff in her right hand, left index finger pointing DOWN through the guard, eyes down the shaft. Her face at about page y 420–460, right of centre. Ahana nearest the gate with her lamp, Vihaan by the strip, Navya by the slots, Tez behind their feet. All feet on the street paving.",
+      "calm_zones_pt": [
+       {
+        "for": "Tara balloon",
+        "x": 30,
+        "y": 306,
+        "w": 266,
+        "h": 72,
+        "art_must_be": "dark wall top / upper gate shadow"
+       }
+      ]
+     }
+    },
+    {
+     "id": "P003-4",
+     "beat": "CH01 01D C",
+     "box": [
+      312,
+      300,
+      278,
+      308
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P003-4",
+      "size": "1536x1024",
+      "continuity": "item:P003-3 (same camera, crop, background, feet and staff hand; only Tara's free hand, gaze and expression change)"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "identical to P003-3"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "identical to P003-3 (feet and staff hand fixed)",
+       "action": "speaks; her LEFT hand changes from pointing down the shaft to an OPEN PALM towards the controller's card slots right of the gate; staff stays in her RIGHT hand",
+       "gaze": "Navya",
+       "expression": "more purposeful",
+       "holding": "staff (right hand)"
+      },
+      {
+       "name": "Ahana",
+       "position": "identical",
+       "action": "holds position and lamp",
+       "gaze": "Tara",
+       "expression": "concerned",
+       "holding": "brass work lamp (right hand)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "identical, beside the strip",
+       "action": "holds position",
+       "gaze": "Tara",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Navya",
+       "position": "identical, beside the slots",
+       "action": "holds position, meets Tara's look",
+       "gaze": "Tara",
+       "expression": "focused",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Tez",
+       "position": "identical, behind their feet",
+       "action": "holds position",
+       "gaze": "Tara",
+       "expression": "alert",
+       "holding": "nothing"
+      }
+     ],
+     "extras": "none; do not move Tara to the lower store or repeat the helper image",
+     "props_state": [
+      "unchanged from P003-3"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      },
+      {
+       "text": "0",
+       "on": "blank brass threshold plate set in the paving at the foot of the street gate",
+       "how": "SVG overlay"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper area above Tara's head, wide (two sentences)",
+       "w": 0.62,
+       "h": 0.3
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "Someone sent the empty lift back up and changed the return instructions. The helper’s still down there with the supplies.",
+       "where": "upper area, above Tara",
+       "tail_to": "Tara's mouth"
+      }
+     ],
+     "shape": "Rectangle, same size as P003-3: the same camera, a second beat.",
+     "art_brief": {
+      "shape": "Rectangle, same size as P003-3: the same camera, a second beat.",
+      "image": "new, same camera and crop as P003-3.",
+      "composition": "Same feet and camera. Tara turns to Navya and opens her free palm toward the controller slots; more purposeful. Her mouth and the cabinet beside the gate are in one shot; her face sits lower than in P003-3 (page y 440–480) to leave room for the longer balloon.",
+      "calm_zones_pt": [
+       {
+        "for": "Tara balloon",
+        "x": 318,
+        "y": 306,
+        "w": 266,
+        "h": 112,
+        "art_must_be": "dark wall top"
+       }
+      ]
+     }
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "The tapping comes from below. One car only (at 0, empty); no second car; nobody leans through the guard; no character changes level. P003-2 carries narration only. Tara is visible with mouth in both speaking beats (P003-3/4), balloon tails at her mouth; P003-4 keeps P003-3's camera, feet and staff hand. 'Tara explains.' is non-printing speaker metadata, not a caption. Preserve the helper's painted eyes, wood grain, brass joints and separate wooden thumb. Ahana, Navya and Vihaan are equally tall upright; their crowns reach just below Tara's chest. Bending changes pose, not body size. Paint NO numerals or lettering anywhere: the position strip, control plaques, threshold plate, −8 landing plate, last-change window and card faces are painted blank (ticks on the strip are fine); the reference plates carry painted numbers/labels that must NOT be copied. Overlays (exact HTML/SVG): position strip +2…−8 (equal spacing, 0 at the threshold), threshold '0', lower landing '−8'. Do not show card values, the lower wheels or the hidden −2 card.",
+   "art": {
+    "idea": "The knock comes from below, so the page is a shaft. A full-height narrow panel on the right drops the reader's eye down the lift shaft to the helper. The field darkens from aubergine at the top to warm store-timber at the foot, because the only new light is down there. The border is the brass safety gate: its rail runs down the left edge, and the lower-store timber landing is the page's floor.",
+    "role_in_opener": "3/5: the light moves. The page's warmth is at the bottom, pulling the eye down.",
+    "system": "Book system (identical on every page, do not vary): V09 type (captions Source Serif 4 Regular 14/18 on caption paper #F7F1E3, .6pt brass #b3722f border, 5pt/8pt padding, soft shadow; speech Source Sans 3 Semibold 14/18 in ivory #FFFDF6 balloons, .8pt ink #1d2433 outline, curved P107-style tails ending short of the mouth; no speaker names). Panel frames 1pt brass + .5pt inner dark line + drop shadow, gutters 10pt, trim clearance 24pt. Border built in one full-sheet SVG like P107: rules 0.5–1.1pt, a pinstripe 12pt inside the trim broken at entry, folio and finish; strongest accent at entry (top-left) and finish (bottom-right). Moonclock folio bottom centre exactly as P107: brass ring r8 at (422,636), waxing moon lit fraction = page/107 (lit on the right), number Source Sans 3 Semibold 11pt at left:433pt top:629.5pt.",
+    "field": {
+     "colour": "vertical gradient: #3a2f48 (aubergine, V09 #46364F family) at y=0, #46364F at y=300, warm umber #5a3c26 at y=648",
+     "why": "a new hue for the run (P001 midnight, P002 slate). The warm foot is the lower store's lamp."
+    },
+    "border": {
+     "material": "Brass safety gate + lift rails (S01-B01 gate ribs) and the lower store's timber landing (S02-B01)",
+     "entry": "Top-left: a brass gate latch block (14x22pt brass gradient, a 3pt round knob, 2 rivets) at (6,8).",
+     "left_rail": "From the latch down the left margin to y=600: a double vertical brass rail (1.1pt #b3722f at x=11 and .6pt #f3d58f at x=14), the gate's side rail.",
+     "pinstripe": ".8pt brass along the top from x=60 to x=840 and down the right side, broken around the folio and the finish.",
+     "floor": "Bottom margin: the lower-store timber landing edge, a 7pt honey-timber strip (#8a5a2b to #6b4320, .4pt grain hairlines) along y=630–637 from x=24 to x=400 and from x=444 to x=780 (broken at the folio), with one brass strap at x=180 and one at x=640.",
+     "finish": "Bottom-right: a small blank brass level plate (22x12pt, 2 rivets, NO number) fixed to the landing's end, under a warm glow (#f7c684 radial r 40pt at 40%) rising from the foot of the shaft panel."
+    },
+    "grid": [
+     {
+      "panel": "P003-1",
+      "box_pt": {
+       "x": 24,
+       "y": 24,
+       "w": 566,
+       "h": 266
+      },
+      "shape": "Rectangle.",
+      "image": "new 1536x1024, scale 566/1536, crop the middle band (offset -60pt).",
+      "composition": "Street-side medium facing the recessed shaft in the left wall (S01-B01). Closed brass gate centre-left (page x 150–380), the blue-and-brass controller at its right jamb (x 390–450) under the warm wall lamp. Tara at the right (x 460–580) with her left hand on the fixed lamp, staff upright in her right. Ahana beside the closed gate with her hand lamp, Tez beside her. Vihaan and Navya approach the controller, partly back-to-camera in the lower foreground. Empty car at street level behind the bars. The main street beyond stays dark. Controller buttons and strip painted BLANK (no words, no numerals).",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 32,
+        "y": 32,
+        "w": 346,
+        "h": 94,
+        "art_must_be": "dark upper left-wall bay and arch shadow above the gate; the gate's crest stays below y 130 or is cropped out"
+       }
+      ]
+     },
+     {
+      "panel": "P003-2",
+      "box_pt": {
+       "x": 600,
+       "y": 24,
+       "w": 240,
+       "h": 584
+      },
+      "shape": "Tall narrow shaft panel (full height). Its side frame edges are drawn as brass gate rails (delight 1).",
+      "image": "new 1024x1536 portrait. Scale 584/1536 tall (= 389pt wide) and crop the centre 240pt (offset -74pt): compose for a central vertical strip.",
+      "composition": "A steep look DOWN the shaft from behind the street guard. Foreground brass guard bars converge along the far left and right edges only; the centre top stays deep dark shaft interior. At the bottom (page y 380–600): the broad wooden helper in a blue waistcoat (painted eyes, wood grain, brass joints, separate wooden thumb), one hand poised against a metal box, the other at the supply cart (low four-wheeled timber platform, brass corner straps, closed supply boxes) on the guarded lower timber landing, lit warm by its fixed lamp. A blank brass level plate on the landing edge (no numerals painted).",
+      "calm_zones_pt": [
+       {
+        "for": "caption",
+        "x": 606,
+        "y": 30,
+        "w": 228,
+        "h": 112,
+        "art_must_be": "near-black shaft interior, no bars, no lamp"
+       }
+      ],
+      "overlay": "The builder overlays '−8' (Source Sans 3 Semibold 10pt, dark engraved ink #2a1d10) on the painted blank level plate, as manuscript Props require the −8 landing mark. Position it from the final art."
+     },
+     {
+      "panel": "P003-3",
+      "box_pt": {
+       "x": 24,
+       "y": 300,
+       "w": 278,
+       "h": 308
+      },
+      "shape": "Rectangle.",
+      "image": "new 1024x1024 (or 1024x1536 cropped), scale to 308pt tall.",
+      "composition": "Street-level medium beside the fixed lamp and controller. Tara behind the children, staff in her right hand, left index finger pointing DOWN through the guard, eyes down the shaft. Her face at about page y 420–460, right of centre. Ahana nearest the gate with her lamp, Vihaan by the strip, Navya by the slots, Tez behind their feet. All feet on the street paving.",
+      "calm_zones_pt": [
+       {
+        "for": "Tara balloon",
+        "x": 30,
+        "y": 306,
+        "w": 266,
+        "h": 72,
+        "art_must_be": "dark wall top / upper gate shadow"
+       }
+      ]
+     },
+     {
+      "panel": "P003-4",
+      "box_pt": {
+       "x": 312,
+       "y": 300,
+       "w": 278,
+       "h": 308
+      },
+      "shape": "Rectangle, same size as P003-3: the same camera, a second beat.",
+      "image": "new, same camera and crop as P003-3.",
+      "composition": "Same feet and camera. Tara turns to Navya and opens her free palm toward the controller slots; more purposeful. Her mouth and the cabinet beside the gate are in one shot; her face sits lower than in P003-3 (page y 440–480) to leave room for the longer balloon.",
+      "calm_zones_pt": [
+       {
+        "for": "Tara balloon",
+        "x": 318,
+        "y": 306,
+        "w": 266,
+        "h": 112,
+        "art_must_be": "dark wall top"
+       }
+      ]
+     }
+    ],
+    "reading_order_aid": "P003-1 and P003-2 share the top edge with an 8pt gutter. P003-1 and P003-3/4 are separated by a 10pt gutter, so the eye goes P1 → P2 (down the shaft) → back to P3 → P4. The caption at the TOP of the shaft states 'Far below', which pulls the eye down before the return.",
+    "lettering": [
+     {
+      "order": 1,
+      "panel": "P003-1",
+      "role": "caption",
+      "text": "The knock comes again. This time they can hear where it comes from. There’s a lift in the left wall. Tara turns up a fixed lamp beside it.",
+      "box_pt": {
+       "x": 34,
+       "y": 34,
+       "w": 338,
+       "h": 82
+      },
+      "style": "standard caption, 4 lines"
+     },
+     {
+      "order": 2,
+      "panel": "P003-2",
+      "role": "caption",
+      "text": "Far below, the wooden helper in the blue waistcoat stands beside its cart of supplies. It is tapping a metal box to attract attention.",
+      "box_pt": {
+       "x": 610,
+       "y": 34,
+       "w": 220,
+       "h": 100
+      },
+      "style": "standard caption, 5 lines"
+     },
+     {
+      "order": 3,
+      "panel": "P003-3",
+      "role": "speech (Tara)",
+      "text": "That helper took the supplies down before the trouble began.",
+      "box_pt": {
+       "x": 34,
+       "y": 310,
+       "w": 258,
+       "h": 60
+      },
+      "style": "wide flat stadium (measured explanation), 2–3 lines; tail to Tara's mouth"
+     },
+     {
+      "order": 4,
+      "panel": "P003-4",
+      "role": "speech (Tara)",
+      "text": "Someone sent the empty lift back up and changed the return instructions. The helper’s still down there with the supplies.",
+      "box_pt": {
+       "x": 322,
+       "y": 310,
+       "w": 258,
+       "h": 100
+      },
+      "style": "wide flat stadium, 4–5 lines; tail to Tara's mouth"
+     }
+    ],
+    "hero": "The shaft panel: a full-height drop from the dark top to the warm-lit wooden helper at the bottom.",
+    "illustrate": "none (story page). Level marks on the shaft upright are painted as unlabelled equal ticks at most; no numerals in the art.",
+    "companion": "none: the cast is in the scene. The helper's first appearance is the page's surprise.",
+    "colour": "Aubergine night above, store-lamp amber below: cold at the top, warm at the bottom. Brass gate rails in the border. Ahana's hand lamp and the bay's wall lamp are the mid-page warm accents.",
+    "delights": [
+     "The shaft panel's left and right frame edges are drawn as brass gate rails (1.1pt + .45pt highlight). Three short horizontal brass ribs cross the gutter only at its top, as if looking past the street guard.",
+     "Warm store light leaks out of the bottom of the shaft panel onto the umber field and the timber landing in the margin.",
+     "The page's floor is the lower-store timber landing: the reader 'arrives' at the bottom where the helper waits."
+    ],
+    "folio": "moon 3/107 lit, '3'. It sits in the break of the timber landing.",
+    "art_sources": {
+     "plate_ref": [
+      "BagroundGenTask/out/plates/S01-B01.png (P003-1, -3, -4; erase painted numerals and button words)",
+      "BagroundGenTask/out/plates/S02-B01.png (P003-2; plate blank)"
+     ],
+     "character_sheets": [
+      "TARA",
+      "AHANA",
+      "VIHAAN",
+      "NAVYA",
+      "TEZ"
+     ],
+     "helper": "no character sheet exists for the wooden helper; describe it from the manuscript (broad, wooden, blue waistcoat, painted eyes, brass joints, separate wooden thumb)."
+    },
+    "needs_new_art": true,
+    "needs_new_art_what": "P003-1 (Tara turns up the lamp at the bay), P003-2 (steep shaft view to the helper; portrait 1024x1536, composed for a 240pt-wide centre strip), P003-3 and P003-4 (same camera, two Tara beats). The helper has never been drawn: P003-2 sets its look for the chapter, so use xhigh only if a first high attempt fails the brief.",
+    "never": [
+     "no second car",
+     "no children leaning through the guard",
+     "no −8 or other numerals painted"
+    ]
+   }
+  },
+  {
+   "page": "P004",
+   "pattern": "free composition; nearest grid S5 (wide establishing over a 3-beat strip from one camera)",
+   "theme": "story page, manual V09 + B1 border family (Lantern Street materials: royal-blue lacquer, brass, pale paving)",
+   "title": "",
+   "purpose": "story: Scenes CH01 01E–02A, leading into T1.1A. The crew sees the whole job at the lift bay (car at 0, control box, numbered cards); then the position strip: Vihaan traces to −8, Tara confirms the reference point, Ahana asks how to choose the movements (the question that opens the teaching).",
+   "beats": [
+    "CH01 01E A",
+    "CH01 02A A",
+    "CH01 02A B",
+    "CH01 02A C"
+   ],
+   "panels": [
+    {
+     "id": "P004-1",
+     "beat": "CH01 01E A",
+     "box": [
+      24,
+      24,
+      500,
+      266
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-1",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "establish the entire bay almost face-on from the safe paving: observers nearest camera in the foreground, the closed street gate and the attached controller together in the middle distance, the single EMPTY car directly behind the bars at 0; warm wall lamp above the controller"
+     },
+     "characters": [
+      {
+       "name": "Navya",
+       "position": "beside the controller's card slots/shelf, screen-right of centre, three-quarter view",
+       "action": "studies the loose cards, hands deliberately away from START (clasped behind her back)",
+       "gaze": "the cards on the shelf",
+       "expression": "concentrating",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "centre, between the gate and the controller",
+       "action": "looks from the slots to the numbered strip, following how a card relates to the car's movement",
+       "gaze": "the position strip",
+       "expression": "working it out",
+       "holding": "nothing"
+      },
+      {
+       "name": "Ahana",
+       "position": "centre-left, slightly nearer camera, near the gate",
+       "action": "holds the brass lamp up so the children's hands and the controller are readable",
+       "gaze": "the controller",
+       "expression": "intent",
+       "holding": "brass work lamp (right hand); navy backpack on"
+      },
+      {
+       "name": "Tara",
+       "position": "nearest camera at the screen-right edge, behind the children, tallest, three-quarter back view cropped at mid-thigh",
+       "action": "supervises, staff upright",
+       "gaze": "the children's hands at the controller",
+       "expression": "watchful",
+       "holding": "staff (right hand)"
+      },
+      {
+       "name": "Tez",
+       "position": "on the paving beside Ahana, foreground-left",
+       "action": "waits, sitting",
+       "gaze": "the lift car",
+       "expression": "curious",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      }
+     ],
+     "extras": "none; the helper and supply cart are below at −8, out of view",
+     "props_state": [
+      "single EMPTY car stopped at 0 behind the CLOSED sliding street gate",
+      "a few loose movement cards lie on the controller's existing shelf, faces BLANK/unreadable (no values painted, none shown face-up legibly); card rail slots EMPTY; the hidden −2 return card is not shown",
+      "top controls: three buttons with three BLANK brass plaques (START, HOLD, CANCEL LAST CHANGE are overlays)",
+      "last-change window: a small blank dark display, clearly not a second lift car",
+      "lower correction cover CLOSED (wheels not visible); two red warning lamps on",
+      "main arches dark"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      },
+      {
+       "text": "START",
+       "on": "first blank brass plaque beside the top control button",
+       "how": "HTML/SVG, small engraved-brass caps"
+      },
+      {
+       "text": "HOLD",
+       "on": "second blank brass plaque",
+       "how": "HTML/SVG, small engraved-brass caps"
+      },
+      {
+       "text": "CANCEL LAST CHANGE",
+       "on": "third blank brass plaque",
+       "how": "HTML/SVG, small engraved-brass caps (two lines allowed: CANCEL / LAST CHANGE)"
+      },
+      {
+       "text": "0",
+       "on": "blank brass threshold plate set in the paving at the foot of the street gate",
+       "how": "SVG overlay"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left over the dark upper gate canopy / left wall (first paragraph)",
+       "w": 0.36,
+       "h": 0.32
+      },
+      {
+       "for": "caption",
+       "where": "upper-right over the dark wall/arches right of the lamp (second paragraph)",
+       "w": 0.32,
+       "h": 0.26
+      }
+     ],
+     "captions": [
+      "A small lift car stands behind a brass safety gate at street level. Next to it is a control box with a row of slots. Numbered cards fit into those slots. Each card tells the lift how far to move and in which direction.",
+      "The children can now see their first job. They must send the empty car down to the helper, let it load the supplies and bring it back."
+     ],
+     "bubbles": [],
+     "shape": "Rectangle.",
+     "art_brief": {
+      "shape": "Rectangle.",
+      "image": "new 1536x1024, scale 500/1536 wide (=333pt tall), crop offset -40pt.",
+      "composition": "Establish the whole bay almost face-on: observers' backs and paving nearest camera, the closed brass gate and the attached controller together in the middle distance, the single empty car directly behind the bars at street level. Navya by the card slots, hands away from START. Vihaan looking from the slots to the strip. Ahana's lamp lights hands and controller. Tara behind, supervising with her staff. Tez on the paving by Ahana. Loose blank movement cards on the shelf. Controller faces, buttons and strip painted BLANK (no numerals, no words).",
+      "calm_zones_pt": [],
+      "note": "No lettering on this panel's art: its captions sit on the field (job-sheet column)."
+     }
+    },
+    {
+     "id": "P004-2",
+     "beat": "CH01 02A A",
+     "box": [
+      86,
+      300,
+      300,
+      308
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-2",
+      "size": "1536x1024",
+      "crop_note": "near-square panel: show Vihaan's fingertip on the strip, his profile and the gate jamb at left (object-position ≈ 40% 45%); P004-3 is a zoom of this image on Tara, so keep Tara's face, free hand and the strip's 0 mark in the image"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "strip-side close three-quarter view of the controller and its vertical position strip, anchored by the edge of the closed brass gate at the LEFT frame edge (keep this jamb at the same edge in P004-2/3/4) and the warm wall lamp above; the controller shelf on the casing beside the gate; group close around the controller on the street paving"
+     },
+     "characters": [
+      {
+       "name": "Vihaan",
+       "position": "foreground right of the gate jamb, beside the strip, face in profile turned towards the other children/Tara",
+       "action": "speaks; traces down the OUTSIDE of the numbered strip with his index finger, fingertip resting beside the bottom mark (−8)",
+       "gaze": "Tara (profile)",
+       "expression": "realising",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "behind Vihaan, upper-right midground, tallest",
+       "action": "watches his hand; staff in her RIGHT hand; her free LEFT hand already open, palm down-and-out towards the paving/0 threshold (so P004-3 can be a zoom of this image)",
+       "gaze": "Vihaan's fingertip on the strip",
+       "expression": "attentive, approving",
+       "holding": "staff (right hand)"
+      },
+      {
+       "name": "Ahana",
+       "position": "left, nearest the gate",
+       "action": "holds the brass lamp at chest height, lighting the strip",
+       "gaze": "the strip",
+       "expression": "focused",
+       "holding": "brass work lamp (right hand, chest height); left hand free"
+      },
+      {
+       "name": "Navya",
+       "position": "right edge, at the controller shelf",
+       "action": "faces the cards, thinking, both hands free",
+       "gaze": "the cards",
+       "expression": "thinking",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Tez",
+       "position": "behind their feet on clear paving, low",
+       "action": "sits",
+       "gaze": "Vihaan",
+       "expression": "curious",
+       "holding": "nothing; Tez: per TEZ CHARACTER SHEET; navy scarf with moon clasp; ONLY the two shoulder stripes nearest the neck on each flank faded pale grey, all other markings blue; crown just below a standing child's knee"
+      }
+     ],
+     "extras": "none; helper and cart still below at −8 (not shown)",
+     "props_state": [
+      "car empty and stopped at 0 (a sliver behind the bars is enough)",
+      "position strip painted BLANK with equal-spaced ticks; labels are overlays",
+      "card slots EMPTY: −5 and −3 are NOT in the slots; no route arrow; loose blank cards on the shelf",
+      "lower wheel panel closed"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      },
+      {
+       "text": "0",
+       "on": "blank brass threshold plate set in the paving at the foot of the street gate",
+       "how": "SVG overlay"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top, full width (first caption)",
+       "w": 0.95,
+       "h": 0.24
+      },
+      {
+       "for": "bubble",
+       "where": "middle-left near Vihaan's face",
+       "w": 0.45,
+       "h": 0.14
+      },
+      {
+       "for": "caption",
+       "where": "bottom-left (second caption, read after the balloon)",
+       "w": 0.6,
+       "h": 0.1
+      }
+     ],
+     "captions": [
+      "Beside the shaft, a numbered strip shows the lift’s position. Street level is marked 0. Positive numbers are above it. Negative numbers are below. The store is at −8.",
+      "Vihaan follows the strip with his finger."
+     ],
+     "bubbles": [
+      {
+       "speaker": "Vihaan",
+       "text": "Eight marks below the street.",
+       "where": "near Vihaan, between the two captions in reading order",
+       "tail_to": "Vihaan's mouth"
+      }
+     ],
+     "shape": "Rectangle. Its left edge sits 10pt from the strip insert, so the insert reads as the strip pulled out of the picture.",
+     "art_brief": {
+      "shape": "Rectangle. Its left edge sits 10pt from the strip insert, so the insert reads as the strip pulled out of the picture.",
+      "image": "new 1024x1024, scale to 308pt tall, crop to 300 wide.",
+      "composition": "Close three-quarter of the controller and its vertical position strip. The strip is along the LEFT third (page x 96–140), its enamel face blank with equal unlabelled ticks. The gate edge is beside it. Vihaan's face in profile on the right (page x 270–350, y 470–530), his arm reaching left with his index finger resting low on the strip (y≈520). Ahana's lamp lights the strip from off-frame. Wall lamp above the crop.",
+      "calm_zones_pt": [
+       {
+        "for": "caption 1",
+        "x": 92,
+        "y": 306,
+        "w": 288,
+        "h": 108,
+        "art_must_be": "dark upper controller housing / blue wall, no lamp"
+       },
+       {
+        "for": "Vihaan balloon",
+        "x": 196,
+        "y": 418,
+        "w": 184,
+        "h": 52,
+        "art_must_be": "dark wall above Vihaan's head"
+       },
+       {
+        "for": "caption 2",
+        "x": 92,
+        "y": 556,
+        "w": 212,
+        "h": 48,
+        "art_must_be": "the dark lower controller housing below his hand"
+       }
+      ]
+     }
+    },
+    {
+     "id": "P004-3",
+     "beat": "CH01 02A B",
+     "box": [
+      396,
+      300,
+      216,
+      308
+     ],
+     "art": {
+      "kind": "zoom",
+      "of": "P004-2",
+      "focus": [
+       0.66,
+       0.4
+      ],
+      "z": 1.7,
+      "note": "tighter on Tara (face, open free hand towards the 0 threshold, staff) with the strip and the gate jamb kept at the LEFT edge as in P004-2"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "identical to P004-2 (zoomed)"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "as P004-2, now dominant in the crop",
+       "action": "answers from behind Vihaan, free LEFT hand open towards the 0 landing/paving; staff in her RIGHT hand",
+       "gaze": "manuscript: turns from Vihaan's finger to the street's 0 mark (zoom keeps P004-2's gaze; see notes)",
+       "expression": "affirming, calm",
+       "holding": "staff (right hand)"
+      }
+     ],
+     "props_state": [
+      "unchanged from P004-2"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      },
+      {
+       "text": "0",
+       "on": "blank brass threshold plate set in the paving at the foot of the street gate",
+       "how": "SVG overlay"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left, short (“Yes.”), read first",
+       "w": 0.24,
+       "h": 0.12
+      },
+      {
+       "for": "bubble",
+       "where": "upper area beside/below the first, near Tara's head",
+       "w": 0.6,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "Yes.",
+       "where": "upper-left, first",
+       "tail_to": "Tara's mouth"
+      },
+      {
+       "speaker": "Tara",
+       "text": "The numbers tell us where the lift is compared with this landing.",
+       "where": "upper area, second (linked to the first)",
+       "tail_to": "Tara's mouth"
+      }
+     ],
+     "shape": "Tall rectangle.",
+     "art_brief": {
+      "shape": "Tall rectangle.",
+      "image": "ZOOM of P004-2 (no new call); builder crops/zooms P004-2 to fit this box",
+      "composition": "Same strip-side camera, the gate jamb at the same frame edge as P004-2. Tara behind Vihaan, eyes from his finger to the street mark, free left hand open toward the paving, staff in her right. Her face at page y 455–495.",
+      "calm_zones_pt": [
+       {
+        "for": "Tara balloons",
+        "x": 402,
+        "y": 306,
+        "w": 204,
+        "h": 130,
+        "art_must_be": "dark wall top"
+       }
+      ]
+     }
+    },
+    {
+     "id": "P004-4",
+     "beat": "CH01 02A C",
+     "box": [
+      622,
+      300,
+      218,
+      308
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P004-4",
+      "size": "1536x1024",
+      "continuity": "item:P004-2 (same strip-side camera, background, group positions and props; only Ahana's head/left hand and Vihaan's pointing hand change)",
+      "crop_note": "show Ahana's speaking face and the controller shelf with the cards, on the same side of the gate"
+     },
+     "background": {
+      "record": "S01-B01",
+      "plate": "BagroundGenTask/out/plates/S01-B01.png",
+      "camera": "identical to P004-2"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "identical to P004-2",
+       "action": "asks the group: turns her face towards the others and opens her free LEFT hand towards the unselected cards on the controller shelf; lamp steady in her RIGHT hand",
+       "gaze": "the others",
+       "expression": "questioning, eager",
+       "holding": "brass work lamp (right hand)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "identical",
+       "action": "lowers his pointing hand",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "nothing"
+      },
+      {
+       "name": "Tara",
+       "position": "identical",
+       "action": "listens, staff in her right hand",
+       "gaze": "Ahana",
+       "expression": "encouraging, letting them think",
+       "holding": "staff (right hand)"
+      },
+      {
+       "name": "Navya",
+       "position": "identical, at the cards",
+       "action": "listens",
+       "gaze": "Ahana",
+       "expression": "thinking",
+       "holding": "satchel (closed)"
+      },
+      {
+       "name": "Tez",
+       "position": "identical, behind their feet",
+       "action": "sits",
+       "gaze": "Ahana",
+       "expression": "curious",
+       "holding": "nothing"
+      }
+     ],
+     "extras": "none",
+     "props_state": [
+      "unchanged: slots empty, no −5/−3 cards in slots, cards on the shelf blank and unselected, no route arrow, lower panel closed, car at 0"
+     ],
+     "painted_text": [],
+     "overlay_text": [
+      {
+       "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8",
+       "labels": [
+        "+2",
+        "+1",
+        "0",
+        "−1",
+        "−2",
+        "−3",
+        "−4",
+        "−5",
+        "−6",
+        "−7",
+        "−8"
+       ],
+       "on": "the controller's vertical position strip, painted as a BLANK cream strip with equal-spaced tick marks only",
+       "how": "exact SVG overlay, top to bottom +2, +1, 0, −1 … −8, equal spacing, true minus signs (U+2212); 0 aligned with the street threshold. If the strip is shorter than ~60 pt on the sheet, leave it as ticks only (no labels)"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper area above Ahana's head",
+       "w": 0.6,
+       "h": 0.24
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "How can we choose movements that will reach the store?",
+       "where": "upper area, above Ahana",
+       "tail_to": "Ahana's mouth"
+      }
+     ],
+     "shape": "Tall rectangle.",
+     "art_brief": {
+      "shape": "Tall rectangle.",
+      "image": "new 1024x1536 portrait, same scale.",
+      "composition": "Ahana turns her face to the others, lamp steady in her right hand, free left hand open toward the blank unselected cards on the controller shelf (shelf on the same side as her face). Vihaan lowers his hand; Tara and Navya listen. Her face at page y 420–460.",
+      "calm_zones_pt": [
+       {
+        "for": "Ahana balloon",
+        "x": 628,
+        "y": 306,
+        "w": 206,
+        "h": 92,
+        "art_must_be": "dark wall top"
+       }
+      ]
+     }
+    }
+   ],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "This is the question view before T1.1A (P005): no solution may show. Do NOT put −5 and −3 in the slots, no solved route arrow, do not expose the hidden −2 return card or the lower correction wheels. Card faces on the shelf are painted blank and get NO overlays here. P004-1's two caption paragraphs are ONE caption group on one visual (two boxes allowed, no second panel). P004-2: caption → Vihaan's balloon → caption, in that order. P004-3: Tara's “Yes.” and her explanation are one continuous speaking beat, two balloons in order; 'Tara replies.' never prints. P004-4 is Ahana's own speaking image. Exact overlays (HTML/SVG over blank painted surfaces): position strip +2, +1, 0, −1 … −8 with equal spacing and 0 at the street threshold; START / HOLD / CANCEL LAST CHANGE plaques; threshold '0'. If the strip is unreadable at panel scale, the builder may add a small exact SVG strip insert (+2 … −8, 0 = street, −8 = store) — manuscript allows a separate exact strip insert; it must not mark any route. Ahana, Navya and Vihaan are equally tall upright; their crowns reach just below Tara's chest. Bending changes pose, not body size. Paint NO numerals or lettering anywhere: the position strip, control plaques, threshold plate, −8 landing plate, last-change window and card faces are painted blank (ticks on the strip are fine); the reference plates carry painted numbers/labels that must NOT be copied.",
+   "art": {
+    "idea": "The job sheet. The crew finally sees the machine, and the page becomes the controller. Royal-blue lacquer, a brass card rail across the top, and the two narration captions set as a job sheet clipped beside the establishing panel instead of over the art. The maths starts here as an object: the position strip is drawn exactly as a brass-and-enamel insert beside Vihaan's panel, readable in a way no painting can be.",
+    "role_in_opener": "4/5: the lamps are up. This is the most saturated, brightest dark page, ready for the light P005.",
+    "system": "Book system (identical on every page, do not vary): V09 type (captions Source Serif 4 Regular 14/18 on caption paper #F7F1E3, .6pt brass #b3722f border, 5pt/8pt padding, soft shadow; speech Source Sans 3 Semibold 14/18 in ivory #FFFDF6 balloons, .8pt ink #1d2433 outline, curved P107-style tails ending short of the mouth; no speaker names). Panel frames 1pt brass + .5pt inner dark line + drop shadow, gutters 10pt, trim clearance 24pt. Border built in one full-sheet SVG like P107: rules 0.5–1.1pt, a pinstripe 12pt inside the trim broken at entry, folio and finish; strongest accent at entry (top-left) and finish (bottom-right). Moonclock folio bottom centre exactly as P107: brass ring r8 at (422,636), waxing moon lit fraction = page/107 (lit on the right), number Source Sans 3 Semibold 11pt at left:433pt top:629.5pt.",
+    "field": {
+     "colour": "royal lacquer: radial #2a59a8 at (430,330) to #1a3a72 at the corners, with a faint diagonal lacquer sheen (as P107)",
+     "why": "the controller's own blue (S01-D02). The first saturated colour of the book."
+    },
+    "border": {
+     "material": "The blue-and-brass controller (S01-B01, S01-D02): brass edging, card rail, ruby warning lamps",
+     "entry": "Top-left: a brass escutcheon plate 40x24pt with rounded corners and 2 slotted screws.",
+     "top_arm": "The movement-card rail: a 6pt brass channel (brass gradient, a 1pt dark groove line along its centre) along the top margin from x=48 to x=520 at y=8–14, with a rounded end cap at x=520. It is one continuous channel: NO individual slots or cards drawn.",
+     "pinstripe": ".8pt gold #c9a24a, 12pt inside the trim, broken at the caption clip, the folio and the finish.",
+     "finish": "Bottom-right: two small ruby warning lamps (r 4pt, #8e1f1a core with a #d2453a highlight, dim, brass bezels .8pt) at (806,630) and (826,630) on a short brass plate. Dim, not glowing."
+    },
+    "grid": [
+     {
+      "panel": "P004-1",
+      "box_pt": {
+       "x": 24,
+       "y": 24,
+       "w": 500,
+       "h": 266
+      },
+      "shape": "Rectangle.",
+      "image": "new 1536x1024, scale 500/1536 wide (=333pt tall), crop offset -40pt.",
+      "composition": "Establish the whole bay almost face-on: observers' backs and paving nearest camera, the closed brass gate and the attached controller together in the middle distance, the single empty car directly behind the bars at street level. Navya by the card slots, hands away from START. Vihaan looking from the slots to the strip. Ahana's lamp lights hands and controller. Tara behind, supervising with her staff. Tez on the paving by Ahana. Loose blank movement cards on the shelf. Controller faces, buttons and strip painted BLANK (no numerals, no words).",
+      "calm_zones_pt": [],
+      "note": "No lettering on this panel's art: its captions sit on the field (job-sheet column)."
+     },
+     {
+      "panel": "job-sheet column (captions of P004-1)",
+      "box_pt": {
+       "x": 536,
+       "y": 32,
+       "w": 304,
+       "h": 250
+      },
+      "shape": "two caption-paper boxes stacked, on the field"
+     },
+     {
+      "panel": "strip insert (SVG maths)",
+      "box_pt": {
+       "x": 24,
+       "y": 300,
+       "w": 52,
+       "h": 308
+      },
+      "shape": "a vertical brass channel with an enamel face"
+     },
+     {
+      "panel": "P004-2",
+      "box_pt": {
+       "x": 86,
+       "y": 300,
+       "w": 300,
+       "h": 308
+      },
+      "shape": "Rectangle. Its left edge sits 10pt from the strip insert, so the insert reads as the strip pulled out of the picture.",
+      "image": "new 1024x1024, scale to 308pt tall, crop to 300 wide.",
+      "composition": "Close three-quarter of the controller and its vertical position strip. The strip is along the LEFT third (page x 96–140), its enamel face blank with equal unlabelled ticks. The gate edge is beside it. Vihaan's face in profile on the right (page x 270–350, y 470–530), his arm reaching left with his index finger resting low on the strip (y≈520). Ahana's lamp lights the strip from off-frame. Wall lamp above the crop.",
+      "calm_zones_pt": [
+       {
+        "for": "caption 1",
+        "x": 92,
+        "y": 306,
+        "w": 288,
+        "h": 108,
+        "art_must_be": "dark upper controller housing / blue wall, no lamp"
+       },
+       {
+        "for": "Vihaan balloon",
+        "x": 196,
+        "y": 418,
+        "w": 184,
+        "h": 52,
+        "art_must_be": "dark wall above Vihaan's head"
+       },
+       {
+        "for": "caption 2",
+        "x": 92,
+        "y": 556,
+        "w": 212,
+        "h": 48,
+        "art_must_be": "the dark lower controller housing below his hand"
+       }
+      ]
+     },
+     {
+      "panel": "P004-3",
+      "box_pt": {
+       "x": 396,
+       "y": 300,
+       "w": 216,
+       "h": 308
+      },
+      "shape": "Tall rectangle.",
+      "image": "new 1024x1536 portrait, scale 216/1024 (=324pt tall), offset -8pt.",
+      "composition": "Same strip-side camera, the gate jamb at the same frame edge as P004-2. Tara behind Vihaan, eyes from his finger to the street mark, free left hand open toward the paving, staff in her right. Her face at page y 455–495.",
+      "calm_zones_pt": [
+       {
+        "for": "Tara balloons",
+        "x": 402,
+        "y": 306,
+        "w": 204,
+        "h": 130,
+        "art_must_be": "dark wall top"
+       }
+      ]
+     },
+     {
+      "panel": "P004-4",
+      "box_pt": {
+       "x": 622,
+       "y": 300,
+       "w": 218,
+       "h": 308
+      },
+      "shape": "Tall rectangle.",
+      "image": "new 1024x1536 portrait, same scale.",
+      "composition": "Ahana turns her face to the others, lamp steady in her right hand, free left hand open toward the blank unselected cards on the controller shelf (shelf on the same side as her face). Vihaan lowers his hand; Tara and Navya listen. Her face at page y 420–460.",
+      "calm_zones_pt": [
+       {
+        "for": "Ahana balloon",
+        "x": 628,
+        "y": 306,
+        "w": 206,
+        "h": 92,
+        "art_must_be": "dark wall top"
+       }
+      ]
+     }
+    ],
+    "lettering": [
+     {
+      "order": 1,
+      "panel": "P004-1",
+      "role": "caption",
+      "text": "A small lift car stands behind a brass safety gate at street level. Next to it is a control box with a row of slots. Numbered cards fit into those slots. Each card tells the lift how far to move and in which direction.",
+      "box_pt": {
+       "x": 536,
+       "y": 32,
+       "w": 304,
+       "h": 120
+      },
+      "style": "standard caption, 6 lines, on the field. A brass clip (14x26pt, brass gradient, 1 rivet) at x 520–534, y 44–70 bites both the caption's left edge and P004-1's right frame: delight 1."
+     },
+     {
+      "order": 2,
+      "panel": "P004-1",
+      "role": "caption",
+      "text": "The children can now see their first job. They must send the empty car down to the helper, let it load the supplies and bring it back.",
+      "box_pt": {
+       "x": 536,
+       "y": 162,
+       "w": 304,
+       "h": 84
+      },
+      "style": "standard caption, 4 lines; same group (8pt gap, no clip)"
+     },
+     {
+      "order": 3,
+      "panel": "P004-2",
+      "role": "caption",
+      "text": "Beside the shaft, a numbered strip shows the lift’s position. Street level is marked 0. Positive numbers are above it. Negative numbers are below. The store is at −8.",
+      "box_pt": {
+       "x": 96,
+       "y": 310,
+       "w": 280,
+       "h": 100
+      },
+      "style": "standard caption, 5 lines; '0' and '−8' as .m nowrap spans in ink (no colour)"
+     },
+     {
+      "order": 4,
+      "panel": "P004-2",
+      "role": "speech (Vihaan)",
+      "text": "Eight marks below the street.",
+      "box_pt": {
+       "x": 200,
+       "y": 420,
+       "w": 176,
+       "h": 48
+      },
+      "style": "soft stadium, 2 lines; tail down to Vihaan's mouth"
+     },
+     {
+      "order": 5,
+      "panel": "P004-2",
+      "role": "caption",
+      "text": "Vihaan follows the strip with his finger.",
+      "box_pt": {
+       "x": 96,
+       "y": 560,
+       "w": 204,
+       "h": 44
+      },
+      "style": "standard caption, 2 lines"
+     },
+     {
+      "order": 6,
+      "panel": "P004-3",
+      "role": "speech (Tara)",
+      "text": "Yes.",
+      "box_pt": {
+       "x": 410,
+       "y": 312,
+       "w": 58,
+       "h": 32
+      },
+      "style": "small ellipse, joined by a 6pt ivory neck to the next balloon (one continuous beat)"
+     },
+     {
+      "order": 7,
+      "panel": "P004-3",
+      "role": "speech (Tara)",
+      "text": "The numbers tell us where the lift is compared with this landing.",
+      "box_pt": {
+       "x": 406,
+       "y": 350,
+       "w": 196,
+       "h": 78
+      },
+      "style": "wide flat stadium, 3 lines; tail to Tara's mouth"
+     },
+     {
+      "order": 8,
+      "panel": "P004-4",
+      "role": "speech (Ahana)",
+      "text": "How can we choose movements that will reach the store?",
+      "box_pt": {
+       "x": 632,
+       "y": 312,
+       "w": 198,
+       "h": 76
+      },
+      "style": "soft stadium, 3 lines; tail to Ahana's mouth"
+     }
+    ],
+    "hero": "The position strip insert, exact and gleaming, beside Vihaan's pointing panel. The establishing bay comes second.",
+    "illustrate": {
+     "what": "SVG position strip insert (the manuscript's 'exact strip insert'): data only, no route, no solution.",
+     "box_pt": {
+      "x": 24,
+      "y": 300,
+      "w": 52,
+      "h": 308
+     },
+     "construction": "Brass channel (brass gradient, 1pt #5a3510 outline, rx 4pt) with a cream enamel face #F3EBDC inset 7pt left/right and 10pt top/bottom. 11 equally spaced marks: +2, +1, 0, −1, −2, −3, −4, −5, −6, −7, −8, top to bottom, spacing 26pt (first at y=322, last at y=582). Each mark has a 6pt ink tick (.6pt) at the face's right edge and its label right-aligned at x≈58, Source Sans 3 Semibold 13pt ink #1d2433 (true minus U+2212, '+' on positives). The '0' mark is the street: its tick runs out as a 1pt brass hairline across the gutter to x=86 (the edge of P004-2) and its label is 14pt. '−8' (the store) has a lamp-gold #f7c684 dot r 2.5pt on its tick, with a faint glow: Vihaan's finger target.",
+     "rules": "No arrows, no route, no highlighted −5/−3, no lift-car glyph moving. Tag with data-figure, not data-math (no equation)."
+    },
+    "companion": "none: the cast is in the scene.",
+    "colour": "Royal-blue lacquer and brass everywhere (the controller's colours). Warm accents: lamp gold on the −8 dot, ruby in the warning lamps. Cream enamel and the caption paper are the light notes that preview P005's light field.",
+    "delights": [
+     "A brass clip pins the job-sheet captions to the establishing panel: the narration is clipped onto the machine.",
+     "The strip insert's 0 tick runs out as a brass street-level hairline into Vihaan's panel, and −8 carries a tiny lamp-gold glint.",
+     "Two dim ruby warning lamps in the finish corner: a quiet foreshadow of the controller's hidden panel."
+    ],
+    "folio": "moon 4/107 lit, '4'",
+    "art_sources": {
+     "plate_ref": [
+      "BagroundGenTask/out/plates/S01-B01.png (P004-1; blank the strip, buttons and floor plate)",
+      "BagroundGenTask/out/plates/S01-D02.png (P004-2..4 controller close; blank all numerals and words)"
+     ],
+     "character_sheets": [
+      "VIHAAN",
+      "TARA",
+      "AHANA",
+      "NAVYA",
+      "TEZ"
+     ]
+    },
+    "needs_new_art": true,
+    "needs_new_art_what": "P004-1 (whole bay face-on, crew, blank controller), P004-2 (Vihaan's finger on the blank strip), P004-3 (Tara open hand to street level), P004-4 (Ahana asks, hand to blank cards). Strip numerals are NOT painted: they live only in the SVG insert.",
+    "never": [
+     "no painted numerals or button words on the controller",
+     "no cards in slots",
+     "no −2 return card or lower wheel panel visible"
+    ]
+   }
+  },
+  {
    "page": "P005",
    "pattern": "free composition (art-directed); nearest grid T1",
    "theme": "stage-cinema",
@@ -42,7 +2298,8 @@
       "style": "transparent cut-out, .pop stepping out over the edge of the intro sheet; silent (no aside on this page)"
      },
      "captions": [],
-     "bubbles": []
+     "bubbles": [],
+     "note_merge": "superseded: Ahana is grounded on a ledge fading into the paper (art.companion), not a .pop over the intro"
     }
    ],
    "teaching": [
@@ -86,29 +2343,162 @@
    ],
    "notes": "Reading order: welcome caption → intro paragraphs → 'Numbers below zero' → Sam/Sarah question → Pause and think → Check your thinking (answer, equation, closing line). The two question blocks come before the answer flap. Question figure (thermometer diorama) shows ONLY 12°C and −12°C; the −2°C result and the +10 rise appear only inside/after the Check your thinking flap. 'Why is −12°C colder than 12°C?' is part of intro1 (a rhetorical question): print it as prose. Only equation: −12 + 10 = −2 (data-math). No added words: figure labels may only be 12°C, −12°C, 0 (and −2°C, 10 inside the answer flap).",
    "art": {
-    "idea": "Mission briefing: two cities, one precision gauge. The chapter's first lesson opens as the crew's wax-sealed briefing letter; Sam's warm city and Sarah's frozen city are read off one brass precision thermometer, like an instrument in an engineer's lab.",
-    "stage": "stage-cinema (moonlight top-right, ember haze bottom-left) + .skyline low behind the folio",
-    "ornament": ".deco-frame around the page + .lightstring (warm bokeh) along the top edge (replaces the marigold garland)",
-    "hero": "the precision gauge (keep the verified geometry: −15…15 at 7.6 pt/°C, 0 line, 12 and −12 tabs at their exact ticks): glass tube with brass collar fittings and fine engraved ticks; readout tags '12°C' / '−12°C' as small brass-edged plates with thin leader lines; on the warm side a sleek lamp-gold-lit CITY SKYLINE (Lantern Street style) silhouette (towers, lit windows, heat shimmer lines above); on the cold side an moonlit blue-white frozen city silhouette (snow-capped rooftops, frost, fine snow particles). No cute houses, no chai cup, no coat, no cartoon snowflakes.",
-    "objects": {
-     "caption": ".letter + .mounts + .wax (the briefing letter)",
-     "intro": ".sheet (ivory, brass inner line)",
-     "section title": ".h-title: 'Numbers' brass + .alt 'below zero' ice",
-     "question": ".ticket (VIP pass) with .stub ico i-thermo",
-     "pause": ".ticket.teal with .stub ico i-moon",
-     "answers": ".flap with .seal (ico i-eye ink), .label.royal 'Check your thinking', answer prose, .eq, then the number line as an illuminated rail"
+    "idea": "Lights up: the first lesson. The page turns from the dark street to calm warm paper (B1 Ledger Plate family), and the cold/warm story moves into the border and the hero. Two towns are read off one brass precision gauge standing full height down the middle of the page, frost on its cold half and lamp haze on its warm half. The border is Lantern Street's own moonline: cold silver along the top and left, warm brass along the right and bottom, meeting at the street's flat joining plates.",
+    "role_in_opener": "5/5: full light. The first light page after four dark ones. Calm reading, no busy image behind any text (LESSONS 2026-11-23/24).",
+    "system": "Book system (identical on every page, do not vary): V09 type (captions Source Serif 4 Regular 14/18 on caption paper #F7F1E3, .6pt brass #b3722f border, 5pt/8pt padding, soft shadow; speech Source Sans 3 Semibold 14/18 in ivory #FFFDF6 balloons, .8pt ink #1d2433 outline, curved P107-style tails ending short of the mouth; no speaker names). Panel frames 1pt brass + .5pt inner dark line + drop shadow, gutters 10pt, trim clearance 24pt. Border built in one full-sheet SVG like P107: rules 0.5–1.1pt, a pinstripe 12pt inside the trim broken at entry, folio and finish; strongest accent at entry (top-left) and finish (bottom-right). Moonclock folio bottom centre exactly as P107: brass ring r8 at (422,636), waxing moon lit fraction = page/107 (lit on the right), number Source Sans 3 Semibold 11pt at left:433pt top:629.5pt. Teaching page: V09 exactly (Source Sans 3 14/18 prose, subheads Source Sans 3 Semibold 18pt, display maths 24pt, teal #1F6F6B tracked / terracotta #B5603A second role). No display fonts, no Caveat.",
+    "supersedes": "The old A3/A4 P005 art brief and preview (dark glass over the street plate): replace them entirely.",
+    "field": {
+     "colour": "warm cream paper #F7F1E3, flat, full sheet",
+     "why": "teaching. The light page closes the darkness-to-light run."
     },
-    "illustrate": "(1) the gauge (question data only: 12, −12, 0), painterly brass-and-glass on a royal lacquer panel. (2) inside the flap: the exact −12…12 number line as a brass rail with lamp-gold and moonlight markers: hollow royal ring at −12, solid royal at −2, copper at 12, a royal arc '+10'.",
-    "companion": "Ahana cut-out .pop over the intro sheet's lower-right corner (keep). Silent.",
-    "colour": "A3 plate family: royal night + brass; lamp gold = warm (Sam, 12), moonlight #a6c6f5 = cold (Sarah, −12); royal .mt (#1f4f9a) tracks Sarah's temperature in the answer; copper .mr for Sam's 12.",
-    "delights": [
-     "heat-shimmer strokes rising over the warm skyline",
-     "frost crystals creeping up the cold half of the gauge's backboard",
-     "a brass drafting pencil (not a cartoon pencil) lying across the letter and sheet: 'Keep a pencil nearby'"
+    "border": {
+     "material": "Lantern Street's silver moonline and its flat brass joining plate (M01 setting), plus brass gauge fittings",
+     "construction": "A frame line 12pt inside the trim. TOP and LEFT runs: the moonline, a 1.1pt silver #9fb3cc line with a .45pt #e6eef8 highlight 1.5pt inside. RIGHT and BOTTOM runs: 1.1pt brass #b3722f with a .45pt #f3d58f highlight. Cold meets warm at two flat joining plates: top-right at (852,12) and bottom-left at (12,636), each a 16x8pt brass plate with a silver inlay line and 2 rivets. Bottom run broken at the folio.",
+     "entry": "Top-left: a silver crescent-moon-and-star medallion (r 10pt, the banners' emblem in moon-silver and pale gold) at (16,16).",
+     "finish": "Bottom-right: a brass corner cap (P039 kit-box cap construction, 34pt, warm gradient) with a soft lamp-gold glow (r 28pt, 35%) spilling onto the cream.",
+     "outer_band": "None: the cream runs to the trim (bright opener rule, V09 §2). The frame lines carry the material."
+    },
+    "grid": [
+     {
+      "block": "A1 welcome caption",
+      "box_pt": {
+       "x": 36,
+       "y": 36,
+       "w": 320,
+       "h": 140
+      },
+      "object": "caption paper (ivory #FFFDF6, .6pt brass border, soft shadow): the same caption object as the story pages, now on cream"
+     },
+     {
+      "block": "A2 intro (2 paragraphs)",
+      "box_pt": {
+       "x": 36,
+       "y": 190,
+       "w": 320,
+       "h": 186
+      },
+      "object": "plain prose on the field, Source Sans 3 14/18, 8pt paragraph gap"
+     },
+     {
+      "block": "A3 companion",
+      "box_pt": {
+       "x": 24,
+       "y": 392,
+       "w": 300,
+       "h": 232
+      },
+      "object": "Ahana cut-out on a ledge (see companion)"
+     },
+     {
+      "block": "B hero gauge (SVG)",
+      "box_pt": {
+       "x": 372,
+       "y": 36,
+       "w": 156,
+       "h": 576
+      },
+      "object": "the precision gauge"
+     },
+     {
+      "block": "C1 subhead + question",
+      "box_pt": {
+       "x": 544,
+       "y": 36,
+       "w": 292,
+       "h": 124
+      }
+     },
+     {
+      "block": "C2 Pause and think",
+      "box_pt": {
+       "x": 544,
+       "y": 170,
+       "w": 292,
+       "h": 108
+      },
+      "object": "cool paper #E9EEF0 panel, 1pt brass left rule, padding 8pt/10pt"
+     },
+     {
+      "block": "C3 Check your thinking (answer block)",
+      "box_pt": {
+       "x": 544,
+       "y": 292,
+       "w": 292,
+       "h": 320
+      },
+      "object": "warm answer paper #EFE6D2 (as P039 'Check your method'), padding 12pt"
+     }
     ],
-    "folio": "moonclock --t 0.047 bottom-left",
-    "varies": "cinema stage + deco-frame + lightstring; P039 is a jali stage with a jali-band and a nameplate",
-    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (M01-D01, S03-B01)."
+    "lettering_order": [
+     "1 welcome caption (A1): Source Serif 4 Regular 14/18",
+     "2 intro para 1, then para 2 (A2): 'Why is −12°C colder than 12°C?' is printed as prose, with −12°C teal and 12°C terracotta",
+     "3 subhead 'Numbers below zero' (C1): Source Sans 3 Semibold 18pt ink #121a33 + a 30pt brass dash",
+     "4 question para 'Sam’s town is at 12°C…' (C1)",
+     "5 'Pause and think. …' (C2): the lead words in Semibold",
+     "6 subhead 'Check your thinking' (C3), answer para, equation, number line, closing line"
+    ],
+    "hero": "The precision gauge: a full-height brass-and-glass thermometer standing between the lesson and the question, the first drawn maths of the book.",
+    "illustrate": [
+     {
+      "what": "QUESTION figure: precision gauge (SVG, painterly gradients)",
+      "box_pt": {
+       "x": 372,
+       "y": 36,
+       "w": 156,
+       "h": 576
+      },
+      "geometry": "Glass tube centre x=448, width 22pt, from y=48 to y=600, brass collar fittings top and bottom (brass gradient) and a round bulb at the foot. Scale −15…15: 15 at y=60, −15 at y=588 (17.6pt per °C), so 0 at y=324, 12 at y=112.8, −12 at y=535.2. Fine engraved ticks every 1° (.5pt, 5pt long) and every 5° (.8pt, 9pt long) on the tube's right side, unlabelled except '0'. The 0 line is a 1.1pt silver bar across the tube and out 10pt each side, the moonline crossing the gauge.",
+      "labels": "ONLY: '0' (Source Sans 3 Semibold 14pt ink, right of the tube at y=324); a tag '12°C' (terracotta #B5603A text on a brass-edged ivory plate, 52x22pt) right of the tube at y=112.8 with a .6pt leader to the tick; a tag '−12°C' (teal #1F6F6B on a brass-edged pale-ice plate #E3ECF4) right of the tube at y=535.2. Two small reading beads in the tube at 12 (terracotta) and −12 (teal). No −2, no +10, no arrow in this figure.",
+      "atmosphere": "Left of the tube (x 372–430), two feathered painterly vignettes with NO labels, kept under 40% contrast so the ticks dominate: top (y 60–210), Sam's warm town, a lamp-lit pavilion-and-arch skyline crop from M01-D01 (upper-right pavilions) graded warm; bottom (y 440–590), Sarah's cold town, the same crop graded cold with frost and snow (reuse design/a4-tools/p005_scene.py's frost grade). Both fade irregularly into the cream.",
+      "placement": "beside the question (C1/C2), before the answer block"
+     },
+     {
+      "what": "ANSWER figure: number line inside C3 only (SVG)",
+      "box_pt": {
+       "x": 556,
+       "y": 470,
+       "w": 268,
+       "h": 62
+      },
+      "geometry": "−12 to 12, 11pt per unit (x from 562 to 826), ticks every 1 (.5pt), labels ONLY −12, −2, 0, 12 (Source Sans 3 14pt). Points: −12 teal hollow ring, −2 teal solid, 12 terracotta solid. A teal arc from −12 to −2 with the label '+10' above it (teal, 13pt Semibold). 0 tick 1pt taller.",
+      "placement": "after the answer paragraph and the equation, before the closing line"
+     }
+    ],
+    "equation": "'−12 + 10 = −2' as display maths in C3, Source Sans 3 Semibold 24pt, data-math. −12 and −2 teal (Sarah's tracked temperature), 10 and the operators/equals in ink.",
+    "companion": {
+     "who": "Ahana (library C-AHANA-LEAN-01, silent: no aside in the manuscript)",
+     "entrance": "LEDGE, not pop. She stands at the lower-left on P-LEDGE-LONG-01, which enters from the left trim at y≈600. The ledge and her pillar fade irregularly into the cream (V09 §6), with a contact shadow. She is in the lower-left (P039 put Tez lower-right) and turns toward the gauge.",
+     "box_pt": {
+      "x": 24,
+      "y": 392,
+      "w": 300,
+      "h": 232
+     },
+     "clearance": "≥ 12pt from the intro text and the gauge's vignette; nothing of her overlaps the gauge."
+    },
+    "colour": "Cream reading field. Teal = Sarah's cold tracked temperature (and the moon-silver border runs), terracotta + lamp gold = Sam's warm side (and the brass border runs). Greyscale-safe because the tags differ by plate tint and the beads by fill.",
+    "delights": [
+     "Fine rime crystals creep up the gauge's glass from the bulb on its LEFT edge only, as white-blue hairlines (#ffffff at 35%, no star shapes), and stop exactly at the silver 0 bar. They stay clear of the ticks and tags.",
+     "Lamp-gold haze (#f7c684 radial at 18%) pools behind the warm half of the tube above 0, so the gauge itself is half lamp-lit and half moonlit.",
+     "The border is the street's moonline: silver top-left, brass bottom-right, locked together at two flat joining plates, so cold meets warm at the page edge."
+    ],
+    "folio": "moon 5/107 lit, '5' in ink #1d2433 on cream, brass ring",
+    "art_sources": {
+     "reuse": [
+      "FInalChangesTask/library/C-AHANA-LEAN-01.png",
+      "FInalChangesTask/library/P-LEDGE-LONG-01.png",
+      "BagroundGenTask/out/plates/M01-D01.png (crop for the two vignettes, warm + frost grade)"
+     ],
+     "tools": "design/a4-tools/p005_scene.py frost grade, pagekit.py img"
+    },
+    "needs_new_art": false,
+    "plan_conflict_note": "pages.json P005-2 says Ahana '.pop stepping out over the edge of the intro sheet'. This brief changes the entrance to a grounded ledge-fade (V09 §6), to vary from the story pages and keep text calm. The master should update the plan's style line when merging.",
+    "never": [
+     "no plate or scene behind any text",
+     "no −2 or +10 in the gauge",
+     "no countable decoration near the number line or gauge",
+     "no display fonts"
+    ]
    }
   },
   {

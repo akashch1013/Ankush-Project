@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P107</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  /* B1 family, story re-material for Food Street: peacock-teal lacquer field, light matte reading shapes */
+  .page.foodst { background: radial-gradient(ellipse 75% 70% at 50% 48%, #2b6665 0%, #245857 55%, #183f3e 100%);
+                 color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; }
+  .foodst .blk { position: absolute; }
+  .pnl { position: absolute; overflow: hidden; background: #0c1f1f;
+         box-shadow: 0 2.5pt 7pt rgba(4, 18, 18, .55); }
+  .pnl img { position: absolute; display: block; max-width: none; }
+  .pnl::after { content: ""; position: absolute; inset: 0; border: 1pt solid #b3722f; border-radius: inherit;
+                box-shadow: inset 0 0 0 .5pt #0c1f1f, inset 0 0 10pt rgba(5, 20, 20, .35); pointer-events: none; }
+  .pnl.arch { border-top-left-radius: 170pt 130pt; }
+  /* warm Lantern Street light entering the doorway panel from behind the group */
+  .pnl.arch::before { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 70pt; z-index: 1;
+                      background: linear-gradient(to top, rgba(247, 198, 132, .22), rgba(247, 198, 132, 0)); pointer-events: none; }
+
+  .cap { position: absolute; background: #F7F1E3; border: .6pt solid #b3722f; padding: 5pt 8pt;
+         font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt; color: #1d2433;
+         box-shadow: 0 1.5pt 4pt rgba(10, 25, 25, .35); }
+  .bal { position: absolute; background: #FFFDF6; border: .8pt solid #1d2433; display: flex; align-items: center;
+         justify-content: center; text-align: center; box-sizing: border-box;
+         font-family: "Source Sans 3", sans-serif; font-weight: 600; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .bal.ov { border-radius: 50%; }
+  .bal span { display: block; }
+  .nw { white-space: nowrap; }
+  .tails { position: absolute; left: 0; top: 0; width: 864pt; height: 648pt; overflow: visible; pointer-events: none; }
+  .fol { font-family: "Source Sans 3", sans-serif; font-weight: 600; font-size: 11pt; line-height: 13pt; color: #F7F1E3; letter-spacing: .4pt; }
+</style>
+</head>
+<body>
+<div class="page foodst" id="page" data-chapter="CH01" data-page="P107">
+
+<!-- ========== panels ========== -->
+<div class="pnl arch" style="left:24pt; top:24pt; width:566pt; height:300pt"><img src="assets/img/P107-1.jpg" alt="" style="left:0.00pt; top:-8.00pt; width:566.00pt; height:377.33pt"></div>
+<div class="pnl" style="left:600pt; top:24pt; width:240pt; height:300pt"><img src="assets/img/P107-2.jpg" alt="" style="left:0.00pt; top:-9.00pt; width:240.00pt; height:360.00pt"></div>
+<div class="pnl" style="left:24pt; top:334pt; width:250pt; height:274pt"><img src="assets/img/P107-3.jpg" alt="" style="left:-128.44pt; top:0.00pt; width:411.00pt; height:274.00pt"></div>
+<div class="pnl" style="left:284pt; top:334pt; width:176pt; height:274pt"><img src="assets/img/P107-4.jpg" alt="" style="left:-227.44pt; top:0.00pt; width:411.00pt; height:274.00pt"></div>
+<div class="pnl" style="left:470pt; top:334pt; width:370pt; height:274pt"><img src="assets/img/P107-5.jpg" alt="" style="left:-40.94pt; top:0.00pt; width:411.00pt; height:274.00pt"></div>
+
+<!-- ========== border ========== -->
+
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <linearGradient id="brassR" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".3" stop-color="#b3722f"/><stop offset=".6" stop-color="#d9a55a"/><stop offset="1" stop-color="#f3d58f"/></linearGradient>
+    <linearGradient id="lantern" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".35" stop-color="#d9a55a"/><stop offset=".55" stop-color="#f3d58f"/><stop offset="1" stop-color="#7a4a18"/></linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f7c684" stop-opacity=".75"/><stop offset=".45" stop-color="#f7c684" stop-opacity=".22"/><stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+    <radialGradient id="spill" cx=".5" cy="0" r=".9"><stop offset="0" stop-color="#f7c684" stop-opacity=".30"/><stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+    <radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fff6da"/><stop offset=".6" stop-color="#f1d79a"/><stop offset="1" stop-color="#c99a4c"/></radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.3"/></filter>
+  </defs>
+
+  <!-- lacquer sheen: a faint diagonal highlight on the teal -->
+  <path d="M0 0 H300 L0 260 Z" fill="#3f8584" fill-opacity=".10"/>
+  <path d="M864 648 H600 L864 420 Z" fill="#0d2c2b" fill-opacity=".25"/>
+
+  <!-- Lantern Street light spilling out of the doorway panel onto the gutter -->
+  <ellipse cx="300" cy="329" rx="250" ry="14" fill="url(#spill)"/>
+
+  <!-- saffron-brass pinstripe 12 pt inside the trim; broken at the entry seam, the folio and the finish lantern -->
+  <path fill="none" stroke="#c9a24a" stroke-width=".8"
+        d="M484 12 H852 V606 M844 636 M772 636 H448 M416 636 H12 V162"/>
+
+  <!-- ===== entry, top-left: brass post-bracket corner joint ===== -->
+  <g>
+    <path d="M1.6 1.6 H47 V12 L40 19 H19 V40 L12 47 H1.6 Z" fill="#081c1b" fill-opacity=".35" transform="translate(1.4 1.6)" filter="url(#soft)"/>
+    <path d="M0 0 H46 V12 L39 19 H19 V39 L12 46 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+    <path d="M45.4 1 V11.6 L38.6 18.4 H18.4 V38.6 L11.6 45.4" fill="none" stroke="#5a3510" stroke-width=".9" stroke-opacity=".7"/>
+    <path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/>
+    <circle cx="9.5" cy="9.5" r="3.1" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.2" fill="#d7a256"/><circle cx="8.7" cy="8.6" r=".9" fill="#fff0c4"/>
+  </g>
+  <!-- the doorway moulding: a brass echo of the arch, from the bracket's foot to the top margin -->
+  <path d="M15 152 A179 137 0 0 1 194 15" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+  <path d="M17.2 152 A176.8 134.8 0 0 1 194 17.2" fill="none" stroke="#f3d58f" stroke-width=".45" stroke-opacity=".6"/>
+  <circle cx="15" cy="154" r="2" fill="#b3722f" stroke="#6e4318" stroke-width=".4"/>
+  <!-- curved brace from the bracket into the arch corner -->
+  <path d="M19 39 C40 44 52 52 58 66" fill="none" stroke="#b3722f" stroke-width="1"/>
+  <circle cx="58.4" cy="67.4" r="1.8" fill="#b3722f" stroke="#6e4318" stroke-width=".4"/>
+  <!-- canopy seam along the top margin: two scalloped curves (saffron over brass) and a curled brass terminal -->
+  <path d="M194 15 H214" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+  <rect x="211" y="11.6" width="4" height="7.4" rx="1.4" fill="#b3722f" stroke="#6e4318" stroke-width=".4"/>
+  <path d="M214 10.5 Q235.3 16.5 256.7 10.5 Q278.0 16.5 299.3 10.5 Q320.7 16.5 342.0 10.5 Q363.3 16.5 384.7 10.5 Q406.0 16.5 427.3 10.5 Q448.7 16.5 470.0 10.5" fill="none" stroke="#e0913a" stroke-width="1"/>
+  <path d="M214 13.7 Q235.3 19.7 256.7 13.7 Q278.0 19.7 299.3 13.7 Q320.7 19.7 342.0 13.7 Q363.3 19.7 384.7 13.7 Q406.0 19.7 427.3 13.7 Q448.7 19.7 470.0 13.7" fill="none" stroke="#c9a24a" stroke-width=".6"/>
+  <path d="M470 10.5 C477 10.5 480 15.5 477 17.9 C474.6 19.7 472 17.7 473.4 15.7" fill="none" stroke="#b3722f" stroke-width="1"/>
+
+  <!-- ===== top-right, bottom-left: small plain corner ticks ===== -->
+  <path d="M846 6 H858 V18" fill="none" stroke="#c9a24a" stroke-width="1.1"/><circle cx="858" cy="6" r="1.4" fill="#c9a24a"/>
+  <path d="M6 630 V642 H18" fill="none" stroke="#c9a24a" stroke-width="1.1"/><circle cx="6" cy="642" r="1.4" fill="#c9a24a"/>
+
+  <!-- ===== finish, bottom-right: smaller bracket joint, short return arm, hanging lantern (the chapter's last light) ===== -->
+  <g transform="translate(864 648) scale(-1 -1)">
+    <path d="M1.6 1.6 H37 V10 L31 16 H16 V31 L10 37 H1.6 Z" fill="#081c1b" fill-opacity=".3" transform="translate(-1.4 -1.6)" filter="url(#soft)"/>
+    <path d="M0 0 H36 V10 L30 16 H16 V30 L10 36 H0 Z" fill="url(#brassR)" stroke="#5a3510" stroke-width=".6"/>
+    <path d="M35.4 1 V9.6 L29.6 15.4 H15.4 V29.6 L9.6 35.4" fill="none" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".6"/>
+    <circle cx="8" cy="8" r="2.6" fill="#7a4a18"/><circle cx="8" cy="8" r="1.8" fill="#d7a256"/>
+  </g>
+  <path d="M855 614 H776 C770 614 768 618 771 620.6 C773.4 622.4 776 620.6 775 618.6" fill="none" stroke="#b3722f" stroke-width="1"/>
+  <path d="M855 615.4 H778" fill="none" stroke="#f3d58f" stroke-width=".45" stroke-opacity=".6"/>
+  <circle cx="808" cy="630" r="26" fill="url(#glow)"/>
+  <path d="M808 614 V620" stroke="#8a5a22" stroke-width=".7"/>
+  <circle cx="808" cy="620.6" r="1.4" fill="none" stroke="#b3722f" stroke-width=".6"/>
+  <!-- lantern: domed cap, glass body with brass ribs, base finial -->
+  <path d="M801.6 625 C802 621.8 804.6 621.6 808 621.6 C811.4 621.6 814 621.8 814.4 625 Z" fill="url(#lantern)" stroke="#6e4318" stroke-width=".5"/>
+  <path d="M802.6 625 H813.4 L812.2 636 H803.8 Z" fill="#ffd98c" stroke="#7a4a18" stroke-width=".5"/>
+  <path d="M804.6 625.6 H811.4 L810.6 635.4 H805.4 Z" fill="#fff3c8"/>
+  <path d="M806.2 625 L806.4 636 M809.8 625 L809.6 636" stroke="#9a6526" stroke-width=".5"/>
+  <path d="M803.4 636 H812.6 L811 638.6 H805 Z" fill="url(#lantern)" stroke="#6e4318" stroke-width=".4"/>
+  <path d="M808 638.6 V641.4" stroke="#b3722f" stroke-width=".8"/><circle cx="808" cy="642" r=".9" fill="#b3722f"/>
+
+  <!-- ===== folio: the moon is full on the chapter's last page (107/107), set in a brass ring ===== -->
+  <circle cx="422" cy="636" r="8" fill="#0d2c2b" stroke="#c9a24a" stroke-width=".7"/>
+  <circle cx="422" cy="636" r="5.4" fill="url(#moonG)"/>
+  <circle cx="420.4" cy="634.6" r="1.2" fill="#e2c486" fill-opacity=".7"/><circle cx="423.8" cy="637.6" r=".8" fill="#e2c486" fill-opacity=".6"/>
+</svg>
+<div class="blk fol" style="left:433pt; top:629.5pt">107</div>
+
+
+<!-- ========== P107-1: caption in the calm upper right ========== -->
+<div class="cap" style="left:274pt; top:32pt; width:290pt">Power reaches the shutters. They rise, revealing Food Street. Bowls have fallen. A cart blocks the entrance. A dosa hangs over a plate far too small to hold it.</div>
+
+<!-- ========== P107-2: caption breaks the top frame; Tez's balloon in the calm upper-left ========== -->
+<div class="cap" style="left:608pt; top:20pt"><span class="nw">Tez’s ears drop.</span></div>
+<div class="bal" style="left:604pt; top:52pt; width:180pt; height:46pt; border-radius:23.0pt"><span style="padding:0 10pt">Please tell me he hasn’t ruined dinner.</span></div>
+
+<!-- ========== P107-3 caption ========== -->
+<div class="cap" style="left:32pt; top:342pt; width:118pt">Tara takes the evidence sleeve from Ahana.</div>
+
+<!-- ========== P107-4 / P107-5 Tara ========== -->
+<div class="bal" style="left:287pt; top:360pt; width:58pt; height:32pt; border-radius:50%"><span>Come.</span></div>
+<div class="bal" style="left:494pt; top:338pt; width:214pt; height:66pt; border-radius:33.0pt"><span style="padding:0 12pt">I’ll tell you what I know. But first, nobody touches those serving controls.</span></div>
+
+<svg class="tails" viewBox="0 0 864 648" aria-hidden="true">
+  <path d="M734.0 97.8 Q741.1 146.2 738.3 194.3 Q745.6 146.1 747.0 97.8" fill="#FFFDF6" stroke="#1d2433" stroke-width=".8" stroke-linejoin="round"/><path d="M734.0 96.6 L747.0 96.6" stroke="#FFFDF6" stroke-width="2.2"/>
+  <path d="M344.8 376.6 Q345.8 388.0 350.4 397.7 Q343.5 392.3 338.7 385.7" fill="#FFFDF6" stroke="#1d2433" stroke-width=".8" stroke-linejoin="round"/><path d="M344.2 375.5 L338.1 384.7" stroke="#FFFDF6" stroke-width="2.2"/>
+  <path d="M707.7 375.4 Q711.7 391.3 719.7 404.1 Q708.4 399.4 699.6 392.7" fill="#FFFDF6" stroke="#1d2433" stroke-width=".8" stroke-linejoin="round"/><path d="M706.9 374.4 L698.8 391.8" stroke="#FFFDF6" stroke-width="2.2"/>
+</svg>
+
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>
