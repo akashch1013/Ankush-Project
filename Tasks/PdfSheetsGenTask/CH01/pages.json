@@ -9,6 +9,704 @@
   },
   "pages": [
     {
+      "page": "P001",
+      "category": "opener",
+      "pattern": "free composition; nearest grid S5 opener (title + one hero panel inside a gate arch)",
+      "theme": "story opener, manual V09 type + B1 border family; deep indigo page with subtle gradation and a gate/arch frame (Entry Court arch) around the hero",
+      "title": "The Street That Would Not Light",
+      "purpose": "story (chapter opener): the crew steps from Entry Court into dark Lantern Street; one establishing image; title, then the narrator caption.",
+      "beats": [
+        "CH01 01A A"
+      ],
+      "panels": [
+        {
+          "id": "P001-1",
+          "beat": "CH01 01A A",
+          "box": [
+            48,
+            104,
+            768,
+            512
+          ],
+          "shape": "gate arch: the panel's top edge is the Entry Court arch (round or slightly pointed), springing at about one third of the panel height; the art's top corners are expendable",
+          "art": {
+            "kind": "new",
+            "item": "P001-1",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "M01-D01",
+            "plate": "BagroundGenTask/out/plates/M01-D01.png",
+            "camera": "same as the plate M01-D01 (no pull-back, no re-framing): keep the plate's exact framing and every object as painted (the parked cart at left with its sloping handle reaching toward the camera, the lift's brass gate, the stalls, the far shutters); the whole group is staged on the open near paving of the plate, the street running away BEHIND them; do not add, move, extend or reshape any object"
+          },
+          "characters": [
+            {
+              "name": "Tez",
+              "position": "screen-left, near midground, one pace ahead of Ahana, in line with the parked cart's handle",
+              "action": "walks towards the free tip of the cart's sloping handle, on that line; visible paving still between his forehead and the wood",
+              "gaze": "ahead into the dark lane (not at the handle)",
+              "expression": "bold, curious",
+              "holding": "nothing"
+            },
+            {
+              "name": "Ahana",
+              "position": "near foreground, left of centre, three-quarter back view (profile visible)",
+              "action": "leads just inside the arch, brass work lamp held low in her right hand so its pool lights their first steps and reaches the handle tip",
+              "gaze": "into the dark street",
+              "expression": "wonder held in check",
+              "holding": "brass work lamp (right hand); navy backpack on (cream sketchbook inside, not visible)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "near foreground, on Ahana's left (screen-left of her), a half step behind",
+              "action": "follows, looking into the lane",
+              "gaze": "the dark arches",
+              "expression": "intrigued",
+              "holding": "invitation secure in a pocket (not visible)"
+            },
+            {
+              "name": "Navya",
+              "position": "near foreground, on Ahana's right (screen-right of her)",
+              "action": "follows, satchel closed at her hip",
+              "gaze": "the closed stalls",
+              "expression": "alert, observant",
+              "holding": "satchel (closed)"
+            },
+            {
+              "name": "Tara",
+              "position": "one step behind the children, screen-right of centre, tallest figure",
+              "action": "walks with her staff upright in her right hand",
+              "gaze": "down the lane",
+              "expression": "calm, wise, watchful",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "parked empty street cart against the near-left stall wall exactly as in M01-D01, handle sloping down towards the entrance, its tip at the edge of the lamp pool",
+            "lift gate closed, car empty at street level 0",
+            "all five indicators dark; main arches dark; moonline unlit",
+            "stall shutters closed; the fair has not opened; no Bell"
+          ],
+          "painted_text": [],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "lower-right, over the open pale paving of the lane",
+              "w": 0.32,
+              "h": 0.22
+            }
+          ],
+          "captions": [
+            "The work lamp lights only a small circle of Lantern Street. Tall arches stretch across the lane, but their lanterns are dark. On either side stand blue-painted stalls with closed shutters."
+          ],
+          "bubbles": []
+        }
+      ],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 001 (LESSONS 2026-11-25). Title prints before the caption in reading order. Wonder limited by darkness: keep the street deep, the lamp pool small and warm. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: this exact cart/handle geometry is reused by P002 (Tez walks into the same handle) and P003 (cart stays parked behind their approach). Equipment details too distant to reveal solutions. Lower-store helper not visible."
+    },
+    {
+      "page": "P002",
+      "category": "action-story",
+      "pattern": "free composition; nearest grid S4 (wide low strip over two panels)",
+      "theme": "story page, manual V09 type + B1 border family (Lantern Street materials: royal-blue lacquer, gold pinstripe, brass)",
+      "title": "",
+      "purpose": "story: comic beat. Tez walks into the parked cart handle, Ahana checks on him, he saves face, she jokes to the cart.",
+      "beats": [
+        "CH01 01B A",
+        "CH01 01B B",
+        "CH01 01B C"
+      ],
+      "panels": [
+        {
+          "id": "P002-1",
+          "beat": "CH01 01B A",
+          "box": [
+            24,
+            24,
+            816,
+            262
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P002-1",
+            "size": "1536x1024",
+            "crop": "wide strip: keep the action in the middle 60% of the height"
+          },
+          "background": {
+            "record": "M01-D01",
+            "plate": "BagroundGenTask/out/plates/M01-D01.png",
+            "camera": "same cart, same spot, camera dropped to cub-eye height on the open-lane side, facing the left stall wall: the cart is side-on against the wall, its handle sloping down to screen-left (towards the entrance), cart body screen-right; lift wall and one dark arch behind as anchors; nothing moved or added"
+          },
+          "characters": [
+            {
+              "name": "Tez",
+              "position": "left of centre, side-on, facing screen-right",
+              "action": "his lowered forehead touches the rising wooden shaft just above its ground-level grip (no injury); the handle's continuous slope up to the cart body is visible",
+              "gaze": "down, eyes shut for a beat",
+              "expression": "bump, dignity dented",
+              "holding": "nothing"
+            },
+            {
+              "name": "Ahana",
+              "position": "screen-left edge, only her near shin and shoe, one step behind his flank in the same depth band",
+              "action": "mid-step",
+              "gaze": "-",
+              "expression": "-",
+              "holding": "lamp light falls from above-left"
+            }
+          ],
+          "props_state": [
+            "parked cart and handle exactly as in M01-D01 (no new handle)",
+            "lamp pool warm around Tez and the handle tip",
+            "main arches dark"
+          ],
+          "painted_text": [],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-right, over the dark wall above the cart body",
+              "w": 0.3,
+              "h": 0.22
+            }
+          ],
+          "captions": [
+            "Tez walks into a parked cart handle."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P002-2",
+          "beat": "CH01 01B B",
+          "box": [
+            24,
+            294,
+            470,
+            330
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P002-2",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "M01-D01",
+            "plate": "BagroundGenTask/out/plates/M01-D01.png",
+            "camera": "medium side view from the same aisle (open-lane side), a little higher than P002-1; same cart and handle, lift wall and dark arch behind"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "centre, three-quarter front, on the open side of the handle",
+              "action": "bends beside Tez, left hand resting on the shaft above its low grip, brass lamp raised in her right hand",
+              "gaze": "Tez",
+              "expression": "concerned, kind",
+              "holding": "lamp (right), handle (left)"
+            },
+            {
+              "name": "Tez",
+              "position": "lower left of Ahana, beside her shin",
+              "action": "stands with chin lifted, chest out",
+              "gaze": "up at Ahana",
+              "expression": "pretending nothing happened",
+              "holding": "nothing"
+            },
+            {
+              "name": "Vihaan",
+              "position": "just behind Ahana's left shoulder",
+              "action": "watches",
+              "gaze": "Tez",
+              "expression": "amused but not mocking",
+              "holding": "-"
+            },
+            {
+              "name": "Navya",
+              "position": "to Ahana's right, midground",
+              "action": "watches",
+              "gaze": "Tez",
+              "expression": "attentive",
+              "holding": "satchel"
+            },
+            {
+              "name": "Tara",
+              "position": "a pace behind the children, background right",
+              "action": "stands with staff",
+              "gaze": "the group",
+              "expression": "calm, wise, faintly amused",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "Ahana's left hand on the existing handle",
+            "lamp raised higher than on P001",
+            "cart unchanged"
+          ],
+          "painted_text": [],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-left",
+              "w": 0.34,
+              "h": 0.16
+            },
+            {
+              "for": "bubble",
+              "where": "mid-left above Tez",
+              "w": 0.34,
+              "h": 0.14
+            },
+            {
+              "for": "caption",
+              "where": "bottom-right over paving",
+              "w": 0.4,
+              "h": 0.16
+            }
+          ],
+          "captions": [
+            "Ahana catches the handle. She lifts the lamp higher."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "Are you all right?",
+              "where": "upper-left",
+              "tail_to": "Ahana's mouth"
+            },
+            {
+              "speaker": "Tez",
+              "text": "I knew that was there.",
+              "where": "mid-left",
+              "tail_to": "Tez's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P002-3",
+          "beat": "CH01 01B C",
+          "box": [
+            502,
+            294,
+            338,
+            330
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P002-3",
+            "size": "1024x1024"
+          },
+          "background": {
+            "record": "M01-D01",
+            "plate": "BagroundGenTask/out/plates/M01-D01.png",
+            "camera": "held two-shot, closer, same side and height as P002-2; cart wood in frame so the joke has a target"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "right of centre",
+              "action": "keeps the handle in her left hand and the lamp in her right; only her gaze turns to the cart body for the punchline",
+              "gaze": "the parked cart",
+              "expression": "deadpan, dry humour",
+              "holding": "lamp (right), handle (left)"
+            },
+            {
+              "name": "Tez",
+              "position": "lower left, beside the same shin, facing her",
+              "action": "looks up at her",
+              "gaze": "Ahana",
+              "expression": "mock-offended",
+              "holding": "nothing"
+            }
+          ],
+          "props_state": [
+            "cart wood visible at frame edge"
+          ],
+          "painted_text": [],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-left",
+              "w": 0.48,
+              "h": 0.18
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "I was asking the cart.",
+              "where": "upper-left",
+              "tail_to": "Ahana's mouth"
+            }
+          ]
+        }
+      ],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 002 (LESSONS 2026-11-25). Balloons and captions sit on the art; gutters 6-10 pt (LESSONS 2026-11-25). In 002.02 Ahana's bubble reads first, then Tez's; tails to mouths without covering eyes. No comic injury. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: the SAME cart and handle as P001 (M01-D01), camera always on the open-lane side; next page P003 the group turns to the lift on the left wall, cart stays parked behind them."
+    },
+    {
+      "page": "P004",
+      "category": "dialogue-story",
+      "pattern": "free composition; nearest grid S4 (establishing panel + three-beat conversation)",
+      "theme": "story page, manual V09 type + B1 border family (lift-bay materials: brass gate ribs, blue lacquer, warm wall lamp)",
+      "title": "",
+      "purpose": "story: the crew sees the whole lift job, Vihaan reads the numbered strip, Tara confirms 0 is the landing, Ahana asks how to choose the movements (leads into the teaching on P005).",
+      "beats": [
+        "CH01 01E A",
+        "CH01 02A A",
+        "CH01 02A B",
+        "CH01 02A C"
+      ],
+      "panels": [
+        {
+          "id": "P004-1",
+          "beat": "CH01 01E A",
+          "box": [
+            24,
+            24,
+            524,
+            346
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P004-1",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "same as plate (almost face-on to the bay from the safe paving), pulled back a step so the observers stand nearest camera"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "right foreground, beside the controller's card slots",
+              "action": "studies the loose cards, hands away from START",
+              "gaze": "the cards",
+              "expression": "focused",
+              "holding": "-"
+            },
+            {
+              "name": "Vihaan",
+              "position": "centre foreground",
+              "action": "looks from the slots to the car",
+              "gaze": "car behind the bars",
+              "expression": "working it out",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "left-centre foreground, three-quarter back",
+              "action": "holds the lamp so hands and controller are readable",
+              "gaze": "the controller",
+              "expression": "intent",
+              "holding": "brass lamp (right)"
+            },
+            {
+              "name": "Tez",
+              "position": "on the paving beside Ahana",
+              "action": "waits, sitting",
+              "gaze": "the gate",
+              "expression": "curious",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "behind the children (nearest camera edge, screen-right), tallest",
+              "action": "supervises, staff upright",
+              "gaze": "the children",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "closed brass street gate; single empty car stopped flush at 0 behind the bars",
+            "controller fixed against the gate's right jamb under the warm wall lamp: START, HOLD, CANCEL LAST CHANGE are the plate's own inscriptions",
+            "movement cards loose on the small shelf, faces blank or turned away (no numbers readable); slots empty",
+            "last-change window blank; lower correction cover closed; both red warning lamps on",
+            "no hidden −2 return card visible"
+          ],
+          "painted_text": [
+            "START",
+            "HOLD",
+            "CANCEL LAST CHANGE (plate inscriptions only)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left over the gate's upper bars",
+              "w": 0.46,
+              "h": 0.4
+            },
+            {
+              "for": "caption",
+              "where": "upper-right over the wall/lamp and lane",
+              "w": 0.36,
+              "h": 0.28
+            }
+          ],
+          "captions": [
+            "A small lift car stands behind a brass safety gate at street level. Next to it is a control box with a row of slots. Numbered cards fit into those slots. Each card tells the lift how far to move and in which direction.",
+            "The children can now see their first job. They must send the empty car down to the helper, let it load the supplies and bring it back."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P004-2",
+          "beat": "CH01 02A A",
+          "box": [
+            556,
+            24,
+            284,
+            346
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P004-2",
+            "size": "1024x1536"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "close three-quarter view of the controller and its vertical position strip (S01-D02-like framing but with S01-B01's state), gate edge and jamb at the left edge, warm wall lamp above"
+          },
+          "characters": [
+            {
+              "name": "Vihaan",
+              "position": "left-centre, face in profile",
+              "action": "traces down the outside of the numbered strip with his index finger, finger resting at the lowest mark",
+              "gaze": "the strip, then Tara",
+              "expression": "concentrating",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "upper right, behind Vihaan, tall",
+              "action": "watches his finger; her free left hand half-opens towards the street landing (the 0 level at the paving); staff in right hand",
+              "gaze": "Vihaan's finger",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Ahana",
+              "position": "right edge, partly cropped",
+              "action": "holds the lamp at chest height lighting the strip",
+              "gaze": "the strip",
+              "expression": "intent",
+              "holding": "lamp (right)"
+            },
+            {
+              "name": "Navya",
+              "position": "far edge at the cards (may be cropped)",
+              "action": "stands at the cards",
+              "gaze": "cards",
+              "expression": "thinking",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "position strip with equal tick marks but NO numerals painted (exact numbers are an HTML/SVG insert)",
+            "car empty at 0 behind the gate",
+            "no cards in the slots"
+          ],
+          "painted_text": [],
+          "overlay_text": [
+            {
+              "text": "+2 +1 0 −1 −2 −3 −4 −5 −6 −7 −8 (vertical, equal intervals; 0 = street level, −8 = store)",
+              "on": "an exact numbered-strip insert (HTML/SVG) beside the painted strip, Vihaan's fingertip aligned to −8"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top",
+              "w": 0.92,
+              "h": 0.28
+            },
+            {
+              "for": "bubble",
+              "where": "middle-left near Vihaan",
+              "w": 0.55,
+              "h": 0.12
+            },
+            {
+              "for": "caption",
+              "where": "bottom",
+              "w": 0.7,
+              "h": 0.1
+            }
+          ],
+          "captions": [
+            "Beside the shaft, a numbered strip shows the lift’s position. Street level is marked 0. Positive numbers are above it. Negative numbers are below. The store is at −8.",
+            "Vihaan follows the strip with his finger."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Vihaan",
+              "text": "Eight marks below the street.",
+              "where": "middle-left",
+              "tail_to": "Vihaan's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P004-3",
+          "beat": "CH01 02A B",
+          "box": [
+            24,
+            378,
+            392,
+            246
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P004-2",
+            "focus": [
+              0.68,
+              0.3
+            ],
+            "z": 2.0,
+            "note": "Tara's face, open free hand and the strip's 0 level; compose P004-2 so this crop works"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "centre-right",
+              "action": "answers; free hand open towards the 0 landing",
+              "gaze": "Vihaan's finger / 0 mark",
+              "expression": "calm, wise",
+              "holding": "staff"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-left",
+              "w": 0.3,
+              "h": 0.18
+            },
+            {
+              "for": "bubble",
+              "where": "left, below the first",
+              "w": 0.5,
+              "h": 0.24
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Tara",
+              "text": "Yes.",
+              "where": "upper-left",
+              "tail_to": "Tara's mouth"
+            },
+            {
+              "speaker": "Tara",
+              "text": "The numbers tell us where the lift is compared with this landing.",
+              "where": "left",
+              "tail_to": "Tara's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P004-4",
+          "beat": "CH01 02A C",
+          "box": [
+            424,
+            378,
+            416,
+            246
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P004-4",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "the same strip-side camera as P004-2, wider, landscape: controller shelf and gate jamb on the same side as before"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "centre-right, three-quarter front",
+              "action": "faces the others and opens her free left hand towards the unselected cards on the shelf, lamp steady in her right",
+              "gaze": "the others",
+              "expression": "determined, asking",
+              "holding": "lamp (right)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "left",
+              "action": "lowers his pointing hand, listens",
+              "gaze": "Ahana",
+              "expression": "thinking",
+              "holding": "-"
+            },
+            {
+              "name": "Navya",
+              "position": "left midground",
+              "action": "listens",
+              "gaze": "Ahana",
+              "expression": "thinking",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "background right",
+              "action": "listens, staff upright",
+              "gaze": "Ahana",
+              "expression": "calm, wise",
+              "holding": "staff"
+            },
+            {
+              "name": "Tez",
+              "position": "low, on the paving behind their feet",
+              "action": "sits",
+              "gaze": "the cards",
+              "expression": "keen",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "cards loose on the shelf, faces not readable; slots empty; no solved route arrow"
+          ],
+          "painted_text": [],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-left",
+              "w": 0.46,
+              "h": 0.24
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "How can we choose movements that will reach the store?",
+              "where": "upper-left",
+              "tail_to": "Ahana's mouth"
+            }
+          ]
+        }
+      ],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 004 (LESSONS 2026-11-25). Dialogue-heavy page: every caption and balloon sits ON the art (no gutter boxes), gutters 6-10 pt; keep boxes off faces; reading order = manuscript order. Both P004-1 caption paragraphs belong to the one establishing visual. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: P003 Tara turned up the fixed lamp beside the lift (lit); the helper and supply cart are still below at −8 (not visible); car at 0; do not show −5/−3 in slots, the hidden −2 card, the lower wheels or a route arrow. Next page P005 opens the teaching on numbers below zero."
+    },
+    {
       "page": "P005",
       "pattern": "free composition (art-directed); nearest grid T1",
       "theme": "stage-cinema",
@@ -110,6 +808,268 @@
         "varies": "cinema stage + deco-frame + lightstring; P039 is a jali stage with a jali-band and a nameplate",
         "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (M01-D01, S03-B01)."
       }
+    },
+    {
+      "page": "P033",
+      "category": "story-maths",
+      "pattern": "free composition; nearest grid M3 (teaching column + story column)",
+      "theme": "story+maths page, manual V09 type + B1 border family (timing-bench materials: cream marble bench, brass rail and catches, blue lacquer)",
+      "title": "",
+      "purpose": "story+maths: two LCM teaching blocks (why a product is a common multiple; Now you try LCM of 4, 6 and 9), then the story: Vihaan and Navya write the beat lists and find 12 on both.",
+      "beats": [
+        "T1.2A Think about the product",
+        "T1.2A Now you try",
+        "CH01 05D A",
+        "CH01 05D B",
+        "CH01 05D C"
+      ],
+      "panels": [
+        {
+          "id": "P033-3",
+          "beat": "CH01 05D A",
+          "box": [
+            440,
+            24,
+            400,
+            170
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P033-4",
+            "focus": [
+              0.5,
+              0.78
+            ],
+            "z": 2.2,
+            "note": "the cream working strip on the bench with Vihaan's and Navya's writing hands; the exact lists are an overlay"
+          },
+          "characters": [
+            {
+              "name": "Vihaan",
+              "position": "hand only, left",
+              "action": "finishing the blue list",
+              "gaze": "-",
+              "expression": "-",
+              "holding": "blue pencil"
+            },
+            {
+              "name": "Navya",
+              "position": "hand only, right",
+              "action": "finishing the gold list",
+              "gaze": "-",
+              "expression": "-",
+              "holding": "gold pencil"
+            }
+          ],
+          "overlay_text": [
+            {
+              "text": "blue row: 4, 8, 12 / gold row: 6, 12 — placed by beat position so both 12s sit in one column",
+              "on": "the blank cream working strip (HTML/SVG)"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top-left over the bench",
+              "w": 0.56,
+              "h": 0.3
+            }
+          ],
+          "captions": [
+            "Vihaan writes the blue opening beats: 4, 8, 12. Navya writes the gold ones: 6, 12."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P033-4",
+          "beat": "CH01 05D B",
+          "box": [
+            440,
+            202,
+            400,
+            262
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P033-4",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S03-B01",
+            "plate": "BagroundGenTask/out/plates/S03-B01.png",
+            "camera": "the plate's front three-quarter view, pulled back half a step and slightly lower, so the children stand in the aisle along the near lip of the bench; bench, rail, carved bird at its start mark, blue and gold catches (down, lamps off), wall beat strip, start-card slot and counter exactly as in the plate"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "centre-right, in front of the bench; head and shoulders just in front of the two catches so one close crop holds her face and both catches",
+              "action": "places her finger beside the 12s on the working strip; other hand keeps the strip steady",
+              "gaze": "the strip, then the record",
+              "expression": "discovery, quiet certainty",
+              "holding": "gold pencil"
+            },
+            {
+              "name": "Vihaan",
+              "position": "left of Navya",
+              "action": "watches the shared entries",
+              "gaze": "the strip",
+              "expression": "interested",
+              "holding": "blue pencil"
+            },
+            {
+              "name": "Ahana",
+              "position": "behind/left, standing",
+              "action": "holds the brass lamp over the strip to light the writing",
+              "gaze": "the strip",
+              "expression": "intent",
+              "holding": "lamp (right)"
+            },
+            {
+              "name": "Tara",
+              "position": "right, at the counter end of the bench",
+              "action": "waits at the counter, staff upright",
+              "gaze": "the children",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "on the paving by the bench, low left",
+              "action": "waits",
+              "gaze": "the bird",
+              "expression": "curious",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "start card still reads 6 (the plate's own inscription; the wrong start card has not moved)",
+            "bird upright at its starting mark; catches down; catch lamps off; counter blank",
+            "a plain cream working strip (paper slip) lies on the bench lip in front of the card slot with two ruled rows (blue, gold) and NO digits painted",
+            "wall beat strip keeps the plate's printed 1-16",
+            "helper and its cart out of frame"
+          ],
+          "painted_text": [
+            "6 (start card, plate inscription)",
+            "1-16 on the wall beat strip (plate inscription)"
+          ],
+          "overlay_text": [
+            {
+              "text": "blue: 4, 8, 12 / gold: 6, 12 (same overlay as P033-3, small)",
+              "on": "the working strip"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-right over the wall above the counter",
+              "w": 0.36,
+              "h": 0.16
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Navya",
+              "text": "Twelve is on both lists.",
+              "where": "upper-right",
+              "tail_to": "Navya's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P033-5",
+          "beat": "CH01 05D C",
+          "box": [
+            440,
+            472,
+            400,
+            152
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P033-4",
+            "focus": [
+              0.62,
+              0.4
+            ],
+            "z": 2.0,
+            "note": "Navya's face with both catches beside her; accepted deviation: her pointing pose carries over from P033-4 (no new image)"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "centre",
+              "action": "raises her gaze to the group",
+              "gaze": "the group",
+              "expression": "explaining",
+              "holding": "-"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "left",
+              "w": 0.46,
+              "h": 0.32
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Navya",
+              "text": "That is the first time they open together.",
+              "where": "left",
+              "tail_to": "Navya's mouth"
+            }
+          ]
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.2A",
+          "heading": "Think about the product",
+          "questions": [
+            "Why is the product of two positive integers always a common multiple of those integers?"
+          ],
+          "text": [
+            "Check your thinking",
+            "Take 4 and 6. Their product is 4 × 6 = 24. Since 24 ÷ 4 = 6 and 24 ÷ 6 = 4, it is a multiple of both. The same reasoning works for any two positive integers: divide their product by one factor and you get the other factor, with no remainder.",
+            "That product need not be the least common multiple. For 4 and 6, 12 is already a common multiple, and 12 is smaller than 24."
+          ],
+          "equations": [
+            "4 × 6 = 24",
+            "24 ÷ 4 = 6",
+            "24 ÷ 6 = 4"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.2A",
+          "heading": "Now you try",
+          "questions": [
+            "Find the LCM of 4, 6 and 9."
+          ],
+          "text": [
+            "Check your method",
+            "Multiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36",
+            "Multiples of 6: 6, 12, 18, 24, 30, 36",
+            "Multiples of 9: 9, 18, 27, 36",
+            "The first number in all three lists is 36, so LCM(4, 6, 9) = 36."
+          ],
+          "equations": [
+            "Multiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36",
+            "Multiples of 6: 6, 12, 18, 24, 30, 36",
+            "Multiples of 9: 9, 18, 27, 36",
+            "LCM(4, 6, 9) = 36"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 033 (LESSONS 2026-11-25). Reading order: teaching block 1 (question before its 'Check your thinking'), teaching block 2 ('Now you try' question before 'Check your method'), then story panels P033-3, -4, -5. Teaching text sits on calm light paper (no busy background); story panels carry their balloons on the art. The beat-list overlay must align both 12s in one column (Navya's finger). Do not change the cycles to twelve. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: P032 is the 1.2 Multiples teaching opener; P034 next: they set the start card to 12, Tara starts the counter, both catches rise at beat 12, bird bows, Tez bows back. Here the start card is still 6, the bird stationary, catches down, counter blank. Helper nearby but out of frame (no character sheet)."
     },
     {
       "page": "P039",
@@ -394,7 +1354,45 @@
       ],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 043. Location context: T1.2B sits inside the Projector-Kit Bench story (P035–P045, S04); border borrows S04-D01 (overhead sample kit: cream bench top, card stock, brass kit-box corners) and must differ from P039's S04-B01 royal-blue band. Diagram-led: the V07 partition grid is the hero (largest element, ~45–55% of the reading width); the V06 figure is smaller and sits with the question. Question card → figure V06 → Check your method → figure V07, in that reading order; nothing from the answer (4 cm, grid, 16, 7, 112) may appear before 'Check your method'. 'Factors of 28: …' is a list, not an equation. Both figures exact SVG; the rectangles share the 16:7 proportion. Print every line exactly; no added text except the figure labels and a not-to-scale notice required by V06."
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 043. Location context: T1.2B sits inside the Projector-Kit Bench story (P035–P045, S04); border borrows S04-D01 (overhead sample kit: cream bench top, card stock, brass kit-box corners) and must differ from P039's S04-B01 royal-blue band. Diagram-led: the V07 partition grid is the hero (largest element, ~45–55% of the reading width); the V06 figure is smaller and sits with the question. Question card → figure V06 → Check your method → figure V07, in that reading order; nothing from the answer (4 cm, grid, 16, 7, 112) may appear before 'Check your method'. 'Factors of 28: …' is a list, not an equation. Both figures exact SVG; the rectangles share the 16:7 proportion. Print every line exactly; no added text except the figure labels and a not-to-scale notice required by V06.",
+      "art": {
+        "category_model": "diagram-led: the figure is the page; text wraps it",
+        "idea": "The Projector-Kit bench seen from above: the cardboard is a sheet laid on a cutting mat, and the page is the mat. Question figure V06 is the plain sheet; V07 is the same sheet cut into squares. The border is the kit bench's own edge.",
+        "scene": {
+          "plate": "S04-D01",
+          "grade": "none; no full-bleed scene. Paper #F7F1E3 field. Border strips are zoom crops of S04-D01 (cream veined marble bench top, brass corner caps and padded navy lining of the open kit box)",
+          "mirror": false,
+          "blank": [
+            "all painted lenses/rings in the open box if a crop includes them"
+          ],
+          "crop": "border only: 26 pt marble band top and bottom (cream marble, warm lamp sheen), 14 pt navy velvet lining strip on the left and right edges with a 0.8 pt brass pinstripe; brass kit-box corner cap at the four corners (reuse S04-B01 cap cut-out or draw SVG brass L-brackets). Differs from P039 (royal-blue lacquer): this page is cream marble + navy velvet, light overall"
+        },
+        "layout": "Reading order: (1) title row 'Cutting the largest squares' with number 6 as a brass disc; (2) question card (full width, top, #FBF7EE, brass hairline) with V06 small at its right (about 22% of width); (3) a 0.5 pt brass divider; (4) 'Check your method' working left column (about 38% width, factor list as prose, three equations as teal-tracked ledger lines) with the HERO V07 at right, about 52% of reading width and the tallest element. Answer area is visibly the lower half so the question stays first.",
+        "panes": {
+          "title": "flat paper, Source Sans 3 Semibold 19",
+          "question": "qcard (as P039) on #FBF7EE",
+          "working": "ablock on #EFE6D2 with brass top rule",
+          "figure V06": "sits inside the question card on paper",
+          "figure V07": "sits on a navy velvet 'cutting mat' rounded 3 pt panel so the gold grid reads like a drafting mat",
+          "label": "CHAPTER 01 - NUMBERS - PG 043 in tracked caps 10 pt, brass, centred on the bottom marble band"
+        },
+        "hero": "V07: exact SVG rectangle 64 x 28 cm cut into 16 columns and 7 rows (112 equal squares, 16:7 proportion, every cell visible), pale gold grid lines on navy mat; one cell filled terracotta-tinted and tagged 4 cm; bracket '16 columns' above, '7 rows' at the right; teal for the HCF side (4 cm), terracotta for the counts.",
+        "illustrate": {
+          "V06 (question)": "one plain cardboard-tan rectangle, labelled 64 cm (length) and 28 cm (width), with a small brass-stamped 'not to scale' notice. No grid, no 4 cm, no squares, no 16/7/112 anywhere before 'Check your method'.",
+          "V07 (answer)": "as hero; the caption 'Counting rows and columns' under it; 'there are 7 rows of 16 squares' sentence beside it."
+        },
+        "cast": "Vihaan (C-VIHAAN-LEAN-01) leans on the marble bench lip at the bottom-left of the page, about 120 pt tall, cut off by the bottom band, looking at the figure. Entrance: LEANS ON THE BORDER (the bottom marble band is his counter); P-LEDGE-LONG-01 under his elbow; scenery fades into paper. Silent.",
+        "colour": "cream marble and brass against navy velvet; teal = HCF/side 4, terracotta = second role (counts); the navy mat is the only dark block and it holds only the figure.",
+        "delights": [
+          "Brass registration crosshair ticks (no numbers) at the four corners of the navy mat, like a draftsman's cutting mat",
+          "A single sliver of lamp glow on the marble band from the left, moving the eye toward the figure",
+          "A thin pencil line and a brass ruler edge lying along the V06 sheet, wordless, no ticks that can be counted"
+        ],
+        "folio": "moon waxes to 43/108 (about 40% lit), top-right, plus the page label",
+        "varies": "vs P039: cream marble + navy velvet instead of blue lacquer; figure-dominant two-zone layout instead of a ledger of nine packs; companion leans on the bottom band instead of a jharokha. vs P005: no scene.",
+        "needs_new_art": false,
+        "fonts": "V09 type only (Source Sans 3 / Source Serif 4, 14/18 body, 16-19 subheads); no display fonts, no Caveat; text on flat #F7F1E3"
+      }
     },
     {
       "page": "P064",
@@ -479,7 +1477,45 @@
       ],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 064. Section opener: '1.4 Squares and Square Roots' is the page title (V09 chapter-section heading). Location context: T1.4 follows P063 at the Square Mirror Recess (S06, Navya asked for equal sides); border borrows S06-D01 materials (mirror frame, staged tiles, blue wall, brass) but must NOT show a completed 9 × 9 mirror or any countable tile grid near the figure (story state: tiles still crooked/staged). 'Squares of whole numbers…' list is prose, not an equation. The question in paragraph 1 ('How many tiles fill the square?') is answered immediately by the manuscript ('5 × 5 = 25') — keep that order. 'cm²', '5²', 'x²' use real superscripts. The tile figure is the only figure; prose dominates (~255 words) in two calm columns or one column + figure."
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 064. Section opener: '1.4 Squares and Square Roots' is the page title (V09 chapter-section heading). Location context: T1.4 follows P063 at the Square Mirror Recess (S06, Navya asked for equal sides); border borrows S06-D01 materials (mirror frame, staged tiles, blue wall, brass) but must NOT show a completed 9 × 9 mirror or any countable tile grid near the figure (story state: tiles still crooked/staged). 'Squares of whole numbers…' list is prose, not an equation. The question in paragraph 1 ('How many tiles fill the square?') is answered immediately by the manuscript ('5 × 5 = 25') — keep that order. 'cm²', '5²', 'x²' use real superscripts. The tile figure is the only figure; prose dominates (~255 words) in two calm columns or one column + figure.",
+      "art": {
+        "category_model": "concept: one big idea, two calm columns, one exact figure, prose broken by large notation plaques",
+        "idea": "The Square Mirror Recess: a mirror frame is a picture of 'equal sides'. The page is a mirror-frame: a brass picture frame drawn around the reading area with the blue wall behind it.",
+        "scene": {
+          "plate": "S06-D01",
+          "grade": "none; paper field #F7F1E3 inside the frame",
+          "mirror": false,
+          "blank": [
+            "the empty navy mirror panel keeps no reflection; no figures or tiles in any crop"
+          ],
+          "crop": "border only: (a) a mitred brass frame 12 pt wide (zoom crop of the recess frame, warm highlight on the top and left edges, shadow on the bottom and right) surrounding the whole reading field; (b) outside it a 22 pt blue wall band with the banner moon-and-star medallion at top-left and bottom-right (cut-outs); (c) at the left edge the brass wall lantern/sconce cut out, cropped by the trim, with a soft warm glow spilling onto the paper (radial gradient, 70 pt); (d) an ivy sprig from the plate over the top-right frame corner. No crooked tiles, no countable grid"
+        },
+        "layout": "Reading order: title '1.4 Squares and Square Roots' as a large Source Serif 4 heading with a brass underline; opening paragraph then the question 'How many tiles fill the square?' (the question sits in a qcard) and immediately '5 x 5 = 25' in a teal-tracked line; figure V08 in the right column beside it; below, two columns of prose: squaring notation, then perfect squares, then area units, then the calculator note. Large brass plaque (#FBF7EE, 0.8 pt brass rule) carries '5^2 = 5 x 5 = 25' and '7^2 = 7 x 7 = 49' side by side. Calculator note sits in an ablock tinted #EFE6D2 with a brass top rule.",
+        "panes": {
+          "title": "flat paper, serif heading 19-24",
+          "opening+question": "qcard",
+          "key equations": "brass-ruled plaque (the 'plaque/slate' role)",
+          "prose": "flat paper, two columns, 14/18",
+          "calculator note": "ablock",
+          "label": "CHAPTER 01 - NUMBERS - PG 064 tracked caps, set on the lower frame rail, centred"
+        },
+        "hero": "The V08 tile square: exact SVG 5 x 5 grid, every cell square, about 200 pt wide, warm stone tile fill with gold grout lines and a slight diagonal sheen across it; right-hand column, top.",
+        "illustrate": {
+          "V08": "exactly 25 cells (5 rows of 5). Outer sides labelled 5 cm on two adjacent sides; the area labelled 25 cm2 (real superscript); one cell filled teal at an edge, with a leader to 'one tile = 1 cm2'. Caption 'Five rows of five'. No countable decoration around it.",
+          "notation": "5 squared shown as 5 with a raised 2 on the plaque; the '5 x 2 = 10' misreading stays in prose only"
+        },
+        "cast": "Navya (C-NAVYA-LEAN-01) steps in from the right, standing beside the frame at the bottom-right, about 140 pt tall, with her satchel, her shoulder overlapping the frame so the border gets broken by her. Entrance: STEPS THROUGH A GAP in the right frame rail; arched lane behind her fades into the paper. Looks at the tile square. Silent.",
+        "colour": "blue wall and brass frame against warm lantern glow; tracked value teal (cell and side), second role terracotta (the misreading 5 x 2).",
+        "delights": [
+          "The sconce light spills warm onto the paper and lights the left of the heading",
+          "The tile figure's cells carry a gentle diagonal mirror-sheen, so the 'mirror recess' feels reflective",
+          "An ivy sprig overlaps one frame corner and the top rail, as in the plate"
+        ],
+        "folio": "moon 64/108 (about 59% lit), top-right inside the frame corner, plus label",
+        "varies": "vs P043 (marble/navy, figure-centred): brass picture-frame border with blue wall, prose-led two columns, lantern glow, companion steps in from the right. vs P039: not a lacquer band; the border is a frame around the field, with a lantern not a bracket.",
+        "needs_new_art": false,
+        "fonts": "V09 type only (Source Sans 3 / Source Serif 4, 14/18 body, 16-19 subheads); no display fonts, no Caveat; text on flat #F7F1E3"
+      }
     },
     {
       "page": "P076",
@@ -636,7 +1672,46 @@
           "optional": "if no new art is wanted, use library C-VIHAAN-LEAN-02 ($0)"
         }
       ],
-      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 076. Location context: T1.5 Cube Plinth (S07); border borrows S07-B01 (indigo canopy posts, blue wall, brass plinth trim, pale paving) — story state: towers uneven, five lights dark, moonline unlit, no completed lantern. Reading order: Example 16 question → Let’s work it through (a)(b)(c) → Now you try question → Check your method → Vihaan's aside last. Every ∛ must render with a radical whose bar spans ONLY its radicand (∛64 × 5: the bar covers 64 only; the manuscript says so). Inline equations in (a) and (b) prose (∛8 = 2, 2³ = 8, ∛125 = 5, 5³ = 125) are tagged data-math inline. Highlight the three results (10, −120, −7) as the key results of the worked example; the Now you try answers sit in a separable Check your method block after the question."
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 076. Location context: T1.5 Cube Plinth (S07); border borrows S07-B01 (indigo canopy posts, blue wall, brass plinth trim, pale paving) — story state: towers uneven, five lights dark, moonline unlit, no completed lantern. Reading order: Example 16 question → Let’s work it through (a)(b)(c) → Now you try question → Check your method → Vihaan's aside last. Every ∛ must render with a radical whose bar spans ONLY its radicand (∛64 × 5: the bar covers 64 only; the manuscript says so). Inline equations in (a) and (b) prose (∛8 = 2, 2³ = 8, ∛125 = 5, 5³ = 125) are tagged data-math inline. Highlight the three results (10, −120, −7) as the key results of the worked example; the Now you try answers sit in a separable Check your method block after the question.",
+      "art": {
+        "category_model": "worked-example: question first, then steps as stacked ledger rows, key results on brass tags, then the learner's turn and the aside last",
+        "idea": "The Cube Plinth: the cube is built from the three jobs of the page: a cube root takes a cube apart, a cube builds one up. Each of (a)(b)(c) is a pair of brass rails, root (teal) and cube (terracotta), ending in a result tag.",
+        "scene": {
+          "plate": "S07-B01",
+          "grade": "none behind text; paper #F7F1E3 field. Border from zoom crops of S07-B01: left and right edges are the two indigo canopy posts (vertical, 20 pt, brass collar bands) with a 6 pt blue wall strip; the bottom band is pale paving (26 pt, cool grey-cream) with the silver moonline channel (UNLIT, no light) running along it and ending in the brass joint cover plate at the lower right",
+          "mirror": false,
+          "blank": [
+            "the five-light board labels (LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE) must not appear: do not crop the board; no cube tower crop"
+          ],
+          "crop": "border strips only; the brass down-pull handle from the right of the plate is cut out and placed against the right post at mid-height, at rest, about 70 pt tall"
+        },
+        "layout": "Reading order: 'Example 16' title and question qcard (a, b, c); 'Let's work it through' as three stacked ledger rows (a), (b), (c), each row = sentence of prose with the equation set on one line beneath; the result of each (10, -120, -7) sits on a brass key-result tag at the row's right end (the only place that colour fills); one-line note 'The root bar covers 64 only. The x 5 stays outside it.' under (c). Divider. 'Now you try' qcard with (a)(b)(c) on one line; the 'Check your method' answers in a visibly separate lighter-tone ablock (fold-flap look, #EFE6D2) below it with three equations. Last: Vihaan's matte balloon aside bottom-right.",
+        "panes": {
+          "question": "qcard",
+          "worked steps": "ledger rows on flat paper with a 0.5 pt brass divider between rows",
+          "key results": "brass key-result tag (the plaque role)",
+          "now you try": "qcard",
+          "check your method": "ablock",
+          "aside": "matte light balloon #FFFDF6, 0.8 pt dark rule, tail to Vihaan's mouth; text exactly: The cubes at the back are still on the team.",
+          "label": "CHAPTER 01 - NUMBERS - PG 076 tracked caps on the moonline band"
+        },
+        "hero": "The three-row worked ledger itself, with a root radical drawn exactly (bar spans only the radicand: in cube root of 64 times 5 the bar ends after 64) and key results on brass tags. The maths is the picture; Vihaan is the art accent.",
+        "illustrate": {
+          "worked rows": "cube root and radicand in teal tracked colour; the cube power (2^3, 5^3, 3^3) in terracotta second role; operators in text colour; a thin arrow from the root bar to its radicand in (c) showing the scope",
+          "tags": "10, -120 and -7 on brass tags in the worked example only; Now you try results stay inside the Check your method block"
+        },
+        "cast": "Vihaan: use library C-VIHAAN-LEAN-02 (fallback) first; it is a $0 pose and he stands on the paving band at the bottom right, about 150 pt tall, next to the brass handle, pointing across the page to the worked ledger. Only commission V-VIHAAN-P076 if the lean pose does not point left; I judge it acceptable, so needs_new_art is false. Entrance: STANDS ON THE PAVING BAND and points (an aside), unlike P043's lean and P064's step-in.",
+        "colour": "indigo posts and pale paving (cool) with brass tags (warm); teal = root, terracotta = cube.",
+        "delights": [
+          "The moonline channel runs the whole bottom border and ends at the brass joint cover by Vihaan's feet, unlit",
+          "The brass down-pull handle rests against the right post, unpulled",
+          "A subtle brass collar glint travels down each post"
+        ],
+        "folio": "moon 76/108 (about 70% lit), top-right plus the label",
+        "varies": "vs P064 (frame around field, steps in from right): vertical posts + paving band, stands and points. vs P077: warm brass tags and lighter paper; P077 is the cold paving page with no tags.",
+        "needs_new_art": false,
+        "fonts": "V09 type only (Source Sans 3 / Source Serif 4, 14/18 body, 16-19 subheads); no display fonts, no Caveat; text on flat #F7F1E3"
+      }
     },
     {
       "page": "P077",
@@ -830,7 +1905,42 @@
       ],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 077. Location context: T1.5 Cube Plinth (S07); border borrows S07-D03 (low moonline: pale paving, dark silver moonline channel — UNLIT — brass joint cover, blue wall) and must differ from P076's S07-B01 band; no lit readiness lights, no completed cube/lantern. Densest page of the set (~358 words, 16 answer lines): four question cards (1–4), each question line printed before its separable 'Check your method' block; the reader must be able to cover the answers (answer blocks visually distinct, e.g. a lighter tone or fold-flap, but fully legible). Questions print WITHOUT answers. Equation lists in 'equations' are the pure expressions; the 'because …' halves of set 2 are tagged as separate inline data-math spans. 'In (d) …' and 'In (b) …' notes belong to sets 3 and 4 respectively, after their answers. Keep 14/18 pt; if it cannot fit, use 13/17 as a recorded exception rather than dropping lines. Companion optional (silent Ahana) — drop it before shrinking type."
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 077. Location context: T1.5 Cube Plinth (S07); border borrows S07-D03 (low moonline: pale paving, dark silver moonline channel — UNLIT — brass joint cover, blue wall) and must differ from P076's S07-B01 band; no lit readiness lights, no completed cube/lantern. Densest page of the set (~358 words, 16 answer lines): four question cards (1–4), each question line printed before its separable 'Check your method' block; the reader must be able to cover the answers (answer blocks visually distinct, e.g. a lighter tone or fold-flap, but fully legible). Questions print WITHOUT answers. Equation lists in 'equations' are the pure expressions; the 'because …' halves of set 2 are tagged as separate inline data-math spans. 'In (d) …' and 'In (b) …' notes belong to sets 3 and 4 respectively, after their answers. Keep 14/18 pt; if it cannot fit, use 13/17 as a recorded exception rather than dropping lines. Companion optional (silent Ahana) — drop it before shrinking type.",
+      "art": {
+        "category_model": "practice-set: four numbered question cards in a clear grid, answers in separate flaps, art kept to the border so the page stays dense but calm",
+        "idea": "The low moonline: the page is a stretch of pale paving at night, with the unlit moonline channel running through it as a rule. It is a quiet problem set, kept cool; the answers are warm flaps that can be covered.",
+        "scene": {
+          "plate": "S07-D03",
+          "grade": "cool moonlit tint on border strips only; paper field #F7F1E3 inside",
+          "mirror": false,
+          "blank": [
+            "do not crop the five-light board or the glowing cube at the top of the plate; use the lower paving and moonline only"
+          ],
+          "crop": "border: (a) 24 pt pale paving flagstone band at the bottom with the silver moonline channel cut in as a straight line, plus the brass joint cover plate at the lower left (page label sits on it); (b) a 12 pt blue wall strip at the top and left/right, with a slim brass trim; (c) the moonline channel continues as a 1 pt silver inner rule round the whole field (the 'border derived from a material' rule, UNLIT, no light spilling). Cooler than P076: more silver, no warm tags"
+        },
+        "layout": "Reading order: 'Practice 1E' title with the intro sentence (one line saying 4^3 vs cube root of 64). Then a 2 x 2 grid: card 1 (cubes), card 2 (cube roots), card 3 (mixed), card 4 (mixed) left-to-right, top-to-bottom. In each card: brass numeral disc (1-4) at the top-left and the question line as a qcard; below it its 'Check your method' as an ablock tinted #EFE6D2 with a dashed 0.5 pt brass 'fold' rule on top so the reader can cover it. Notes 'In (d), multiply...' and 'In (b), both roots...' print at the bottom of cards 3 and 4. Type 14/18, may drop to 13/17 as a recorded exception.",
+        "panes": {
+          "intro": "flat paper",
+          "question": "qcard in every card",
+          "answers": "ablock, separable and legible",
+          "label": "CHAPTER 01 - NUMBERS - PG 077 tracked caps on the brass joint cover plate"
+        },
+        "hero": "The grid of four numbered question cards: the page's identity is rhythm, with the silver moonline rule connecting them. No large illustration, by design.",
+        "illustrate": {
+          "maths": "cube root radicals drawn with the bar only over the radicand, powers as real superscripts; teal for roots, terracotta for cubes/squares (second role) consistently across all sixteen lines; questions print WITHOUT answers; the 'because ... ' halves in set 2 as separate inline tagged spans"
+        },
+        "cast": "Ahana (C-AHANA-LEAN-01) is OPTIONAL: include only if a 70 pt margin is left, as a small figure leaning on the right post at the paving band, about 100 pt tall, holding her blank sketchbook; if the page is dense, drop her before shrinking the type. Entrance: leans on the border post.",
+        "colour": "cool silver, pale paving and blue wall against warm cream answer flaps; teal and terracotta for roots and powers.",
+        "delights": [
+          "The moonline as a silver inner rule that goes dark at each card's bottom-right corner, where a flap folds",
+          "Brass joint cover plate holds the page label",
+          "The paving band has hairline cracks shaped like a faint star (no countable items)"
+        ],
+        "folio": "moon 77/108 (about 71% lit), top-right plus the label",
+        "varies": "vs P076: no tags, no companion by default, cool paving; vs P043: four equal cards instead of one dominant figure.",
+        "needs_new_art": false,
+        "fonts": "V09 type only (Source Sans 3 / Source Serif 4, 14/18 body, 16-19 subheads); no display fonts, no Caveat; text on flat #F7F1E3"
+      }
     },
     {
       "page": "P107",
