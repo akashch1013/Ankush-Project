@@ -198,6 +198,18 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
 .mt { color: var(--m-teal); font-weight: 700; }   /* tracked quantity */
 .mr { color: var(--m-terra); font-weight: 700; }  /* second role */
 
+/* ------------------------------------------------------------------ page mark (user rule 2026-11-26)
+   Chapter label + page number at ONE fixed place on every page (bottom-right). Never move it per page; only
+   recolour with --pm-ink / --pm-ring / --pm-coin. Markup:
+   <div class="pagemark"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 043</span><span class="pm-no">43</span></div>
+   Keep x 560–820 pt, y 624–648 pt clear of panels, captions and ornaments. */
+.page .pagemark { position: absolute; right: 48pt; bottom: 5pt; height: 16pt; display: flex; align-items: center; gap: 7pt;
+  z-index: 60; white-space: nowrap; font: 600 9pt/16pt "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--pm-ink, #e0b65e); text-shadow: var(--pm-shadow, 0 1pt 2pt rgba(0,0,0,.55)); }
+.page .pagemark .pm-no { display: inline-flex; align-items: center; justify-content: center; box-sizing: border-box;
+  min-width: 16pt; height: 16pt; padding: 0 3pt; border-radius: 8pt; border: 1.1pt solid var(--pm-ring, #c9973f);
+  background: var(--pm-coin, rgba(0,0,0,.18)); font: 700 8pt/1 "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: 0; }
+
 /* ChandRush creative kit A4 "Step Inside" (2026-11-22). Governs the look; ART-DIRECTION.md explains when to use what.
    The page IS the location: a crisp location plate fills the sheet, and the reading sits on panes of glass cut from
    that same picture. Characters stand in the scene. Maths is drawn as light and brass on top of the world.
@@ -305,24 +317,21 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
 
 </style>
 <div class="page ledger act" id="page" data-chapter="CH01" data-page="P002">
+<div class="pagemark" style="--pm-ink:#f6dca0;--pm-ring:#d6a64e;--pm-coin:rgba(12,25,51,.7)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 002</span><span class="pm-no">2</span></div>
 
 <svg class="rail" viewBox="0 0 864 648" aria-hidden="true">
   <defs><linearGradient id="br" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".5" stop-color="#d6a64e"/><stop offset="1" stop-color="#8f5a22"/></linearGradient></defs>
   <g fill="none" stroke="#d6a64e" stroke-width=".9" stroke-linecap="round">
-    <path d="M44 12 H820 M852 44 V604 M44 636 H150 M480 636 H820 M12 44 V604"/>
+    <path d="M44 12 H820 M852 44 V604 M44 636 H540 M12 44 V604"/>
     <path d="M12 44 Q12 12 44 12 M820 12 Q852 12 852 44 M852 604 Q852 636 820 636 M44 636 Q12 636 12 604" opacity=".9"/>
-    <path d="M44 17.5 H820 M846.5 44 V604 M44 630.5 H150 M480 630.5 H820 M17.5 44 V604" stroke-opacity=".28" stroke-width=".5"/>
+    <path d="M44 17.5 H820 M846.5 44 V604 M44 630.5 H540 M17.5 44 V604" stroke-opacity=".28" stroke-width=".5"/>
   </g>
   <!-- brass corner caps -->
   <g id="cap"><path d="M0 0 H38 V5 H17 Q7 5 5 15 V38 H0 Z" fill="#b3722f" stroke="#f6dca0" stroke-width=".7"/><path d="M5.5 5.5 H20" stroke="#fff0c4" stroke-width=".6" opacity=".7"/><circle cx="10" cy="10" r="2.3" fill="#f6dca0"/></g>
   <use href="#cap" transform="translate(864 0) scale(-1 1)"/>
   <use href="#cap" transform="translate(0 648) scale(1 -1)"/>
   <use href="#cap" transform="translate(864 648) scale(-1 -1)"/>
-    <!-- brass coin folio: moon 2/108 -->
-  <g transform="translate(432 636)"><circle r="9.5" fill="#8f5a22"/><circle r="8.4" fill="#0c1933" stroke="#f6dca0" stroke-width=".8"/><path d="M0 -6 A6 6 0 0 1 0 6 A5.9 6 0 0 0 0 -6 Z" fill="#e9f1fc"/></g>
 </svg>
-<div class="lab">CHAPTER 01 - NUMBERS - PG 002</div>
-<div class="fol">02</div>
 
 <div class="pn" style="left:24pt; top:24pt; width:816pt; height:262pt">
   <img src="assets/img/P002-1.jpg" alt="" style="object-position:50% 58%">

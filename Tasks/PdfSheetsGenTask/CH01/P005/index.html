@@ -7,32 +7,175 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* P005: Sarah's temperatures (tracked) in moonlight, Sam's in lamp gold */
-  .page .glass .mt { color: #cfe0fa; } .page .glass .mr { color: #f7c684; }
-  .page .glass.frost .mt { color: #1f4f9a; } .page .glass.frost .mr { color: #a3561c; }
-  .glass.frost::before { background: linear-gradient(180deg, rgba(236,244,254,.80), rgba(214,229,247,.86)); }
-  .tag12, .tagm12 { position: absolute; width: 66pt; height: 28pt; border-radius: 4pt; text-align: center;
-    font: 800 19pt/28pt "Big Shoulders Display", sans-serif; letter-spacing: .03em; box-shadow: 0 6pt 14pt rgba(2,5,14,.55); }
-  .tag12  { background: #2a1a0e; color: #f7c684; border: 1pt solid #d6a64e; }
-  .tagm12 { background: #e6f0fc; color: #1f4f9a; border: 1pt solid #ffffff; }
-  .two { display: grid; grid-template-columns: 262pt 268pt; column-gap: 18pt; }
+  /* P005 "Two Towns, One Line": lesson opener on cream. Grid 36 pt margins, 12 x 49.5 pt columns, 18 pt gutters, 18 pt baseline. */
+  .page.towns { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; }
+  .towns .blk { position: absolute; }
+  .towns p { margin: 0 0 9pt; font-size: 14pt; line-height: 18pt; color: #1d2433; orphans: 2; widows: 2; }
+  .towns .mt { color: #1F6F6B; font-weight: 700; }
+  .towns .mr { color: #B5603A; font-weight: 700; }
+  .nw { white-space: nowrap; }
+  i.pl { font-style: normal; }
+  .rh { font-family: "Source Sans 3", sans-serif; font-weight: 600; font-size: 10pt; line-height: 12pt; letter-spacing: 1.6pt;
+        font-variant-caps: all-small-caps; color: #7a5a2e; white-space: nowrap; }
+  .sh { font-family: "Source Sans 3", sans-serif; font-weight: 600; color: #121a33; font-size: 18pt; line-height: 22pt;
+        margin: 0 0 5pt; display: flex; align-items: center; white-space: nowrap; }
+  .sh::after { content: ""; display: block; flex: 1; height: 0; border-top: .6pt solid #b3722f; margin-left: 10pt; opacity: .8; }
+  .cap.welcome { position: static; display: block; width: auto; background: #FFFDF6; border: .6pt solid #b3722f; padding: 6pt 9pt 7pt; box-sizing: border-box; margin: 0 0 18pt;
+         font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt; color: #1d2433;
+         box-shadow: 0 1.5pt 4pt rgba(91, 74, 46, .20); break-inside: avoid; }
+  .flow { column-count: 2; column-gap: 18pt; column-fill: auto; }
+  .pause { background: #E6EDF1; border-left: 2pt solid #5f8fa0; padding: 8pt 10pt 9pt; box-sizing: border-box; break-inside: avoid;
+           margin-top: 14pt; }
+  .pause p { margin: 0; }
+  .pause b { font-weight: 600; color: #1d3f4f; }
+  .qhead { break-inside: avoid; margin-top: 14pt; }
+  .ans { background: #EFE6D2; padding: 10pt 12pt 12pt; box-sizing: border-box; border-top: 1.1pt solid #b3722f;
+         box-shadow: inset 0 .6pt 0 #f3d58f; display: flex; flex-direction: column; }
+  .ans p { margin: 0 0 6pt; }
+  .ans .sh { margin-bottom: 8pt; }
+  .eq { font-family: "Source Sans 3", sans-serif; font-size: 30pt; line-height: 36pt; font-weight: 600; color: #1d2433;
+        white-space: nowrap; margin: 10pt 0 8pt; }
+  .eq .op { font-weight: 400; color: #1d2433; }
+  .plq { position: absolute; width: 76pt; height: 30pt; display: flex; align-items: center; justify-content: center;
+         font-family: "Source Sans 3", sans-serif; font-weight: 700; font-size: 17pt; line-height: 20pt; letter-spacing: .2pt; z-index: 6; }
+  .plq.cold { color: #F3F8FA; }
+  .plq.warm { color: #FFF6E6; }
+  .fol { font-family: "Source Sans 3", sans-serif; font-weight: 600; font-size: 11pt; line-height: 13pt; color: #1d2433; letter-spacing: .4pt; }
+  .hero { position: absolute; left: 36pt; top: 36pt; width: 792pt; height: 174pt; overflow: hidden;
+          box-shadow: 0 2pt 7pt rgba(40, 30, 15, .28); z-index: 1; }
+  .hero img { display: block; width: 100%; height: 100%; }
+  .hero::after { content: ""; position: absolute; inset: 0; border: 1pt solid #b3722f; box-shadow: inset 0 0 0 1.6pt rgba(12, 25, 51, .55), inset 0 0 26pt rgba(8, 16, 34, .35); }
+  .ahana { position: absolute; display: block; z-index: 3; filter: drop-shadow(0 1.5pt 3pt rgba(8, 16, 34, .45)); }
+  .nl { display: block; overflow: visible; margin: 4pt 0 14pt; }
 </style>
 </head>
 <body>
-<div class="page a4" id="page" data-chapter="CH01" data-page="P005">
-<div class="pagemark" style="--pm-ink:#e9f1fc;--pm-ring:#cfe0fa;--pm-coin:rgba(12,25,51,.6)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 005</span><span class="pm-no">5</span></div>
-<div class="scene"><img src="assets/img/SCENE.jpg" alt=""><i class="shade-top"></i><i class="vignette"></i><i class="shade-bottom"></i></div>
-<i class="bloom moon" style="left:398pt; top:78pt; width:140pt; height:140pt"></i>
-<i class="bloom" style="left:672pt; top:150pt; width:150pt; height:150pt"></i>
-<h1 class="marquee" style="left:26pt; top:22pt">Numbers <span class="ice">below zero</span></h1>
-<div class="glass frost" style="left:26pt; top:88pt; width:308pt; height:384pt; --x:26pt; --y:88pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><i class="rime tl"></i><p class="voice">Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe.</p><div class="rule-brass"></div><p>Why is <span class="mt">−12°C</span> colder than <span class="mr">12°C</span>? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.</p><p>We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number.</p></div>
-<div class="glass lift" style="left:548pt; top:88pt; width:290pt; height:132pt; --x:548pt; --y:88pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><p style="margin:0">Sam’s town is at <span class="mr">12°C</span>. Sarah’s town is at <span class="mt">−12°C</span>. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?</p></div>
-<div class="glass " style="left:548pt; top:232pt; width:290pt; height:112pt; --x:548pt; --y:232pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><p style="margin:0"><span class="cue run">Pause and think.</span> Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?</p></div>
-<svg class="abs" style="left:340pt; top:176pt; width:200pt; height:300pt; overflow:visible" viewBox="0 0 200 300" aria-hidden="true"><rect x="86" y="20.0" width="30" height="244.0" rx="15" fill="#0b1530" fill-opacity=".55" stroke="#d6a64e" stroke-width="1.4"/><rect x="92" y="30.0" width="18" height="112.0" rx="6" fill="#f7c684" fill-opacity=".55"/><rect x="92" y="142" width="18" height="112.0" rx="6" fill="#bcd8fb" fill-opacity=".6"/><rect x="89" y="22.0" width="5" height="240.0" rx="2.5" fill="#ffffff" fill-opacity=".22"/><line x1="72" y1="250.0" x2="84" y2="250.0" stroke="#d7e7fb" stroke-width="1.3"/><line x1="118" y1="250.0" x2="130" y2="250.0" stroke="#d7e7fb" stroke-width="1.3"/><line x1="77" y1="242.8" x2="84" y2="242.8" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="242.8" x2="125" y2="242.8" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="235.6" x2="84" y2="235.6" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="235.6" x2="125" y2="235.6" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="228.4" x2="84" y2="228.4" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="228.4" x2="125" y2="228.4" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="221.2" x2="84" y2="221.2" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="221.2" x2="125" y2="221.2" stroke="#d7e7fb" stroke-width="0.8"/><line x1="72" y1="214.0" x2="84" y2="214.0" stroke="#d7e7fb" stroke-width="1.3"/><line x1="118" y1="214.0" x2="130" y2="214.0" stroke="#d7e7fb" stroke-width="1.3"/><line x1="77" y1="206.8" x2="84" y2="206.8" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="206.8" x2="125" y2="206.8" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="199.6" x2="84" y2="199.6" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="199.6" x2="125" y2="199.6" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="192.4" x2="84" y2="192.4" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="192.4" x2="125" y2="192.4" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="185.2" x2="84" y2="185.2" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="185.2" x2="125" y2="185.2" stroke="#d7e7fb" stroke-width="0.8"/><line x1="72" y1="178.0" x2="84" y2="178.0" stroke="#d7e7fb" stroke-width="1.3"/><line x1="118" y1="178.0" x2="130" y2="178.0" stroke="#d7e7fb" stroke-width="1.3"/><line x1="77" y1="170.8" x2="84" y2="170.8" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="170.8" x2="125" y2="170.8" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="163.6" x2="84" y2="163.6" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="163.6" x2="125" y2="163.6" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="156.4" x2="84" y2="156.4" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="156.4" x2="125" y2="156.4" stroke="#d7e7fb" stroke-width="0.8"/><line x1="77" y1="149.2" x2="84" y2="149.2" stroke="#d7e7fb" stroke-width="0.8"/><line x1="118" y1="149.2" x2="125" y2="149.2" stroke="#d7e7fb" stroke-width="0.8"/><line x1="72" y1="142.0" x2="84" y2="142.0" stroke="#ffffff" stroke-width="1.3"/><line x1="118" y1="142.0" x2="130" y2="142.0" stroke="#ffffff" stroke-width="1.3"/><line x1="77" y1="134.8" x2="84" y2="134.8" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="134.8" x2="125" y2="134.8" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="127.6" x2="84" y2="127.6" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="127.6" x2="125" y2="127.6" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="120.4" x2="84" y2="120.4" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="120.4" x2="125" y2="120.4" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="113.2" x2="84" y2="113.2" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="113.2" x2="125" y2="113.2" stroke="#f6dca0" stroke-width="0.8"/><line x1="72" y1="106.0" x2="84" y2="106.0" stroke="#f6dca0" stroke-width="1.3"/><line x1="118" y1="106.0" x2="130" y2="106.0" stroke="#f6dca0" stroke-width="1.3"/><line x1="77" y1="98.8" x2="84" y2="98.8" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="98.8" x2="125" y2="98.8" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="91.6" x2="84" y2="91.6" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="91.6" x2="125" y2="91.6" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="84.4" x2="84" y2="84.4" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="84.4" x2="125" y2="84.4" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="77.2" x2="84" y2="77.2" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="77.2" x2="125" y2="77.2" stroke="#f6dca0" stroke-width="0.8"/><line x1="72" y1="70.0" x2="84" y2="70.0" stroke="#f6dca0" stroke-width="1.3"/><line x1="118" y1="70.0" x2="130" y2="70.0" stroke="#f6dca0" stroke-width="1.3"/><line x1="77" y1="62.8" x2="84" y2="62.8" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="62.8" x2="125" y2="62.8" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="55.6" x2="84" y2="55.6" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="55.6" x2="125" y2="55.6" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="48.4" x2="84" y2="48.4" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="48.4" x2="125" y2="48.4" stroke="#f6dca0" stroke-width="0.8"/><line x1="77" y1="41.2" x2="84" y2="41.2" stroke="#f6dca0" stroke-width="0.8"/><line x1="118" y1="41.2" x2="125" y2="41.2" stroke="#f6dca0" stroke-width="0.8"/><line x1="72" y1="34.0" x2="84" y2="34.0" stroke="#f6dca0" stroke-width="1.3"/><line x1="118" y1="34.0" x2="130" y2="34.0" stroke="#f6dca0" stroke-width="1.3"/><rect x="82" y="12.0" width="38" height="12" rx="3" fill="#b8862f" stroke="#f6dca0" stroke-width=".8"/><rect x="82" y="260.0" width="38" height="12" rx="3" fill="#b8862f" stroke="#f6dca0" stroke-width=".8"/><rect x="95" y="4.0" width="12" height="9" rx="2" fill="#8a5a20"/><line x1="55" y1="142" x2="147" y2="142" stroke="#ffffff" stroke-width="1.6"/><text x="153" y="148" font-family="Big Shoulders Display" font-weight="800" font-size="18" fill="#ffffff">0</text><circle cx="101" cy="55.6" r="5.5" fill="#f7c684" stroke="#ffffff" stroke-width="1.2"/><circle cx="101" cy="228.4" r="5.5" fill="#d7e7fb" stroke="#ffffff" stroke-width="1.2"/><line x1="131" y1="55.6" x2="141" y2="55.6" stroke="#f6dca0" stroke-width="1.2"/><line x1="61" y1="228.4" x2="71" y2="228.4" stroke="#d7e7fb" stroke-width="1.2"/></svg>
-<div class="tag12" style="left:481pt; top:217.6pt">12°C</div>
-<div class="tagm12" style="left:335pt; top:390.4pt">−12°C</div>
-<div class="actor" style="left:604pt; top:356pt; width:256pt"><img src="assets/img/AHANA.png" alt=""></div>
-<div class="glass lift" style="left:26pt; top:484pt; width:590pt; height:144pt; --x:26pt; --y:484pt"><img class="under" src="assets/img/GLASS.jpg" alt=""><div class="two"><div><div class="cue">Check your thinking</div><p>12°C is 12 degrees above zero; <span class="mt">−12°C</span> is 12 degrees below zero. Sam’s town is warmer. From <span class="mt">−12°C</span>, a rise of 10°C takes Sarah’s town to <span class="mt">−2°C</span>:</p><div class="eq" data-math="−12 + 10 = −2"><span class="mt">−12</span> + 10 = <span class="mt">−2</span></div></div><div><svg style="display:block; width:268pt; height:70pt; overflow:visible" viewBox="0 0 268 70" aria-hidden="true"><line x1="8.0" y1="44" x2="264.79999999999995" y2="44" stroke="#f6dca0" stroke-width="1.4"/><line x1="14.0" y1="39" x2="14.0" y2="49" stroke="#f6dca0" stroke-width="1.3"/><line x1="24.2" y1="41" x2="24.2" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="34.4" y1="41" x2="34.4" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="44.6" y1="41" x2="44.6" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="54.8" y1="41" x2="54.8" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="65.0" y1="41" x2="65.0" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="75.2" y1="41" x2="75.2" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="85.4" y1="41" x2="85.4" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="95.6" y1="41" x2="95.6" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="105.8" y1="41" x2="105.8" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="116.0" y1="39" x2="116.0" y2="49" stroke="#f6dca0" stroke-width="1.3"/><line x1="126.2" y1="41" x2="126.2" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="136.4" y1="39" x2="136.4" y2="49" stroke="#ffffff" stroke-width="1.3"/><line x1="146.6" y1="41" x2="146.6" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="156.8" y1="41" x2="156.8" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="167.0" y1="41" x2="167.0" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="177.2" y1="41" x2="177.2" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="187.4" y1="41" x2="187.4" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="197.6" y1="41" x2="197.6" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="207.8" y1="41" x2="207.8" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="218.0" y1="41" x2="218.0" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="228.2" y1="41" x2="228.2" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="238.4" y1="41" x2="238.4" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="248.6" y1="41" x2="248.6" y2="47" stroke="#f6dca0" stroke-width="0.7"/><line x1="258.8" y1="39" x2="258.8" y2="49" stroke="#f6dca0" stroke-width="1.3"/><path d="M14.0 37 C 26.0 6, 104.0 6, 116.0 35" fill="none" stroke="#cfe0fa" stroke-width="1.6"/><path d="M111.0 29 L116.0 36 L119.0 28" fill="none" stroke="#cfe0fa" stroke-width="1.6"/><text x="65.0" y="13" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#cfe0fa">+10</text><circle cx="14.0" cy="44" r="5" fill="#0b1530" stroke="#cfe0fa" stroke-width="1.8"/><circle cx="116.0" cy="44" r="5" fill="#cfe0fa"/><circle cx="258.8" cy="44" r="5" fill="#f7c684"/><text x="14.0" y="66" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="12.5" fill="#cfe0fa">−12</text><text x="116.0" y="66" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="12.5" fill="#cfe0fa">−2</text><text x="136.4" y="66" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="12.5" fill="#ffffff">0</text><text x="258.8" y="66" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="12.5" fill="#f7c684">12</text></svg><p style="margin-top:6pt"><span class="mt">−2°C</span> is still colder than Sam’s <span class="mr">12°C</span>. Sarah’s town has warmed up, but it has not caught up with Sam’s.</p></div></div></div>
+<div class="page towns" id="page" data-chapter="CH01" data-page="P005">
+<div class="pagemark" style="--pm-ink:#5b3d17; --pm-ring:#b3722f; --pm-coin:#FFFDF6; --pm-shadow:none"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 005</span><span class="pm-no">5</span></div>
+
+<!-- ========== frame: a brass hairline 14 pt inside the trim, broken at the folio; quiet corner rivets ========== -->
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt; z-index:0" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <radialGradient id="fMoon" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fff6da"/><stop offset=".6" stop-color="#f1d79a"/><stop offset="1" stop-color="#c99a4c"/></radialGradient>
+  </defs>
+  <path d="M556 634 H14 V14 H850 V634 H826" fill="none" stroke="#b3722f" stroke-width=".75"/>
+  <path d="M556 631.6 H16.4 V16.4 H847.6 V631.6 H826" fill="none" stroke="#b3722f" stroke-width=".3" stroke-opacity=".55"/>
+  <g fill="#b3722f"><circle cx="14" cy="14" r="2.1"/><circle cx="850" cy="14" r="2.1"/><circle cx="14" cy="634" r="2.1"/><circle cx="850" cy="634" r="2.1"/></g>
+  <g fill="#f3d58f"><circle cx="13.4" cy="13.4" r=".7"/><circle cx="849.4" cy="13.4" r=".7"/><circle cx="13.4" cy="633.4" r=".7"/><circle cx="849.4" cy="633.4" r=".7"/></g>
+</svg>
+
+
+<!-- running head (chapter level, from pages.json book + chapter_label) -->
+
+
+<!-- ========== HERO: two towns, one skyline (M01-D04, cold left / warm right, graded in PIL) ========== -->
+<div class="hero"><img src="assets/img/HERO.jpg" alt=""></div>
+
+<!-- Ahana stands on the zero line, between the two towns; her head breaks the band's top edge -->
+<img class="ahana" src="assets/img/AHANA.png" alt="" style="left:332pt; top:22pt; width:177pt; height:200pt">
+
+<!-- ========== the brass thermometer rail, -15..15 (24 pt per degree, 0 at x=432) ========== -->
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt; z-index:4" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="gTube" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".95"/><stop offset=".22" stop-color="#eef3f8"/>
+      <stop offset=".55" stop-color="#d4dde7"/><stop offset="1" stop-color="#9aabbf"/></linearGradient>
+    <linearGradient id="gTemp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a6c6f5" stop-opacity=".55"/><stop offset=".46" stop-color="#cfe0fa" stop-opacity=".25"/>
+      <stop offset=".54" stop-color="#f7c684" stop-opacity=".25"/><stop offset="1" stop-color="#f7c684" stop-opacity=".6"/></linearGradient>
+    <linearGradient id="gBrassV" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3d58f"/><stop offset=".35" stop-color="#d6a64e"/><stop offset=".7" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <radialGradient id="gBulb" cx=".36" cy=".34" r=".72">
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".3" stop-color="#dfe9f4"/><stop offset=".78" stop-color="#9fb3cc"/><stop offset="1" stop-color="#5d7290"/></radialGradient>
+    <linearGradient id="gTeal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f8a85"/><stop offset=".55" stop-color="#1F6F6B"/><stop offset="1" stop-color="#134846"/></linearGradient>
+    <linearGradient id="gTerra" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cf7a50"/><stop offset=".55" stop-color="#B5603A"/><stop offset="1" stop-color="#7f3d1f"/></linearGradient>
+    <linearGradient id="gRime" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".7"/><stop offset=".6" stop-color="#ffffff" stop-opacity=".25"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <filter id="fs" x="-20%" y="-60%" width="140%" height="220%"><feGaussianBlur stdDeviation="1.6"/></filter>
+  </defs>
+
+  <!-- cream bed under the rail (keeps the labels on paper), and the rail's soft shadow -->
+  <rect x="36" y="222" width="792" height="34" fill="#F7F1E3"/>
+  <rect x="58" y="210" width="754" height="14" rx="7" fill="#3b2a12" fill-opacity=".28" filter="url(#fs)"/>
+
+  <!-- glass tube with a cold-to-warm tint, brass end caps, the bulb at the cold end -->
+  <rect x="64" y="206.5" width="736" height="15" rx="7.5" fill="url(#gTube)" stroke="#6b7a8c" stroke-width=".6"/>
+  <rect x="64" y="206.5" width="736" height="15" rx="7.5" fill="url(#gTemp)"/>
+  <path d="M72 210 H792" stroke="#ffffff" stroke-width="1.4" stroke-opacity=".9" stroke-linecap="round"/>
+  <!-- frost: a pale rime film on the cold half of the glass, fading out at 0 -->
+  <rect x="64" y="206.5" width="368" height="15" rx="7.5" fill="url(#gRime)"/>
+  <!-- left: bulb + collar -->
+  <rect x="50" y="204.5" width="12" height="19" rx="2" fill="url(#gBrassV)" stroke="#5a3510" stroke-width=".5"/>
+  <circle cx="38" cy="214" r="12" fill="url(#gBulb)" stroke="#5d7290" stroke-width=".6"/>
+  <ellipse cx="34" cy="209.5" rx="3.4" ry="2.2" fill="#ffffff" fill-opacity=".9"/>
+  <!-- right: collar + finial -->
+  <rect x="802" y="204.5" width="12" height="19" rx="2" fill="url(#gBrassV)" stroke="#5a3510" stroke-width=".5"/>
+  <path d="M814 209 L823 211.5 V216.5 L814 219 Z" fill="#b3722f" stroke="#5a3510" stroke-width=".5"/>
+  <circle cx="825.5" cy="214" r="3" fill="#d6a64e" stroke="#5a3510" stroke-width=".5"/>
+
+  <!-- engraved scale under the tube: every 1, longer every 5 -->
+  <g><path d="M72 223 V233" stroke="#2a2418" stroke-width="1"/><path d="M96 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M120 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M144 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M168 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M192 223 V233" stroke="#2a2418" stroke-width="1"/><path d="M216 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M240 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M264 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M288 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M312 223 V233" stroke="#2a2418" stroke-width="1"/><path d="M336 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M360 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M384 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M408 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M432 223 V233" stroke="#2a2418" stroke-width="1"/><path d="M456 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M480 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M504 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M528 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M552 223 V233" stroke="#2a2418" stroke-width="1"/><path d="M576 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M600 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M624 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M648 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M672 223 V233" stroke="#2a2418" stroke-width="1"/><path d="M696 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M720 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M744 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M768 223 V228" stroke="#2a2418" stroke-width="0.55"/><path d="M792 223 V233" stroke="#2a2418" stroke-width="1"/></g>
+  <g font-family="Source Sans 3" font-size="14" fill="#1d2433"><text x="72" y="248" text-anchor="middle" font-weight="600">−15</text><text x="192" y="248" text-anchor="middle" font-weight="600">−10</text><text x="312" y="248" text-anchor="middle" font-weight="600">−5</text><text x="432" y="248" text-anchor="middle" font-weight="700">0</text><text x="552" y="248" text-anchor="middle" font-weight="600">5</text><text x="672" y="248" text-anchor="middle" font-weight="600">10</text><text x="792" y="248" text-anchor="middle" font-weight="600">15</text></g>
+  <!-- zero: a silver moonline mark where the two towns meet -->
+  <path d="M432 206.5 V221.5" stroke="#7f93ad" stroke-width="1.2"/>
+  <path d="M431.4 206.5 V221.5" stroke="#ffffff" stroke-width=".4"/>
+
+  <!-- marker posts and plaques: -12 (Sarah, teal) and 12 (Sam, terracotta) -->
+  <g>
+    <path d="M144 206 V184" stroke="#b3722f" stroke-width="2"/>
+    <path d="M143.4 206 V184" stroke="#f3d58f" stroke-width=".5"/>
+    <rect x="138" y="204.5" width="12" height="19" rx="2" fill="#1F6F6B" stroke="#0f3f3c" stroke-width=".6"/>
+    <path d="M144 204.5 V223.5" stroke="#F3F8FA" stroke-width="1"/>
+    <rect x="106" y="151.5" width="76" height="32" rx="3" fill="#0c1933" fill-opacity=".35" filter="url(#fs)"/>
+    <rect x="106" y="150" width="76" height="32" rx="3" fill="url(#gTeal)" stroke="#d6a64e" stroke-width="1.6"/>
+    <rect x="108.5" y="152.5" width="71" height="27" rx="2" fill="none" stroke="#cfe0fa" stroke-width=".5" stroke-opacity=".7"/>
+  </g>
+  <g>
+    <path d="M720 206 V184" stroke="#b3722f" stroke-width="2"/>
+    <path d="M719.4 206 V184" stroke="#f3d58f" stroke-width=".5"/>
+    <rect x="714" y="204.5" width="12" height="19" rx="2" fill="#B5603A" stroke="#6e3216" stroke-width=".6"/>
+    <path d="M720 204.5 V223.5" stroke="#FFF6E6" stroke-width="1"/>
+    <rect x="682" y="151.5" width="76" height="32" rx="3" fill="#0c1933" fill-opacity=".35" filter="url(#fs)"/>
+    <rect x="682" y="150" width="76" height="32" rx="3" fill="url(#gTerra)" stroke="#d6a64e" stroke-width="1.6"/>
+    <rect x="684.5" y="152.5" width="71" height="27" rx="2" fill="none" stroke="#f7c684" stroke-width=".5" stroke-opacity=".7"/>
+  </g>
+</svg>
+<div class="plq cold" style="left:106pt; top:151pt">−12°C</div>
+<div class="plq warm" style="left:682pt; top:151pt">12°C</div>
+
+<!-- ========== reading: columns 1-2 flow (welcome, intro, question, pause) ========== -->
+<div class="blk flow" style="left:36pt; top:270pt; width:522.0pt; height:342pt">
+  <div class="cap welcome">Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe.</div>
+  <p>Why is <i class="pl" data-math="−12 < 12"><b class="mt nw">−12°C</b> colder than <b class="mr nw">12°C</b></i>? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.</p>
+  <p style="margin:0">We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number.</p>
+  <div class="qhead">
+    <div class="sh">Numbers below zero</div>
+    <p style="margin:0">Sam’s town is at <b class="mr nw">12°C</b>. Sarah’s town is at <b class="mt nw">−12°C</b>. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?</p>
+  </div>
+  <div class="pause"><p><b>Pause and think.</b> Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?</p></div>
+</div>
+
+<!-- ========== column 3: Check your thinking (answer paper) ========== -->
+<div class="blk ans" style="left:576.0pt; top:270pt; width:252.0pt; height:326pt">
+  <div class="sh">Check your thinking</div>
+  <p><b class="mr nw">12°C</b> is 12 degrees above zero; <b class="mt nw">−12°C</b> is 12 degrees below zero. Sam’s town is warmer. From <b class="mt nw">−12°C</b>, a rise of 10°C takes Sarah’s town to <b class="mt nw">−2°C</b>:</p>
+  <div class="eq" data-math="−12 + 10 = −2"><span class="mt">−12</span> <span class="op">+</span> 10 <span class="op">=</span> <span class="mt">−2</span></div>
+  <svg class="nl" data-math="−12 + 10 = −2" width="228pt" height="62pt" viewBox="0 0 228 62" aria-hidden="true">
+    <defs><marker id="ah" viewBox="0 0 8 8" refX="6.5" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#1F6F6B"/></marker></defs>
+    <path d="M1 40 H227" stroke="#1d2433" stroke-width=".9"/>
+    <path d="M6 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M15 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M24 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M33 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M42 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M51 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M60 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M69 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M78 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M87 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M96 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M105 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M114 33 V47" stroke="#1d2433" stroke-width="1"/><path d="M123 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M132 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M141 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M150 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M159 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M168 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M177 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M186 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M195 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M204 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M213 35 V45" stroke="#1d2433" stroke-width="0.55"/><path d="M222 35 V45" stroke="#1d2433" stroke-width="0.55"/>
+    <path d="M6 33 C20 9 82 9 95 32" fill="none" stroke="#1F6F6B" stroke-width="1.3" marker-end="url(#ah)"/>
+    <text x="51.0" y="13" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="14" fill="#1F6F6B">+10</text>
+    <circle cx="6" cy="40" r="3.6" fill="#EFE6D2" stroke="#1F6F6B" stroke-width="1.4"/>
+    <circle cx="96" cy="40" r="3.8" fill="#1F6F6B"/>
+    <circle cx="222" cy="40" r="3.8" fill="#B5603A"/>
+    <g font-family="Source Sans 3" font-size="14" fill="#1d2433"><text x="6" y="60" text-anchor="middle">−12</text><text x="96" y="60" text-anchor="middle">−2</text><text x="115" y="60" text-anchor="middle">0</text><text x="222" y="60" text-anchor="middle">12</text></g>
+  </svg>
+  <p style="margin:0"><i class="pl" data-math="−2 < 12"><b class="mt nw">−2°C</b> is still colder than Sam’s <b class="mr nw">12°C</b></i>. Sarah’s town has warmed up, but it has not caught up with Sam’s.</p>
+</div>
+
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */

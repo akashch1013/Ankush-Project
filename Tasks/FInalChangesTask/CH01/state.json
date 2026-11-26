@@ -177,7 +177,7 @@
    "note": ""
   },
   "P001-1": {
-   "status": "queued",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -197,20 +197,42 @@
      ],
      "instruction": null,
      "usd": 0.0553
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-relight-ahana",
+     "at": "2026-11-26T13:48:59",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "0748064be0fb",
+     "refs": [
+      "item:P001-1",
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": "RELIGHT to moonlit only. Switch OFF every fixed lamp: every wall sconce, hanging and arch lantern, stall or booth lantern and lantern box, string light, and distant canopy or tent light: their glass and bulbs are dark, unlit, with no glow, no halo, no light pool and no warm reflections on the paving, walls or stalls. Light the whole scene with cool silver-blue full-moon light only (soft silver rim edges on roofs, canopies, cart, brass and wet paving), keeping the deep blue night readable and not black. The ONLY warm light left is Ahana's portable brass work lamp in her hand, with its small warm pool on the paving and on the handle tip. Change nothing else: same framing, characters, poses, expressions, costumes (match their sheets; Tara calm and wise), Tez, the cart with its single sloping handle, and every object's shape and position. The plate reference is for layout only: ignore its lit lamps.",
+     "usd": 0.0487
     }
    ],
-   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok",
    "qc": [
     {
      "at": "2026-11-26T04:20:23",
      "verdict": "pass",
      "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    },
+    {
+     "at": "2026-11-26T13:49:22",
+     "verdict": "pass",
+     "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok"
     }
-   ],
-   "prev_status": "fixq"
+   ]
   },
   "P002-1": {
-   "status": "queued",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -227,20 +249,40 @@
      ],
      "instruction": null,
      "usd": 0.0372
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-relight-ahana",
+     "at": "2026-11-26T13:48:59",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "fd9f4e315afa",
+     "refs": [
+      "item:P002-1",
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": "RELIGHT to moonlit only. Switch OFF every fixed lamp: every wall sconce, hanging and arch lantern, stall or booth lantern and lantern box, string light, and distant canopy or tent light: their glass and bulbs are dark, unlit, with no glow, no halo, no light pool and no warm reflections on the paving, walls or stalls. Light the whole scene with cool silver-blue full-moon light only (soft silver rim edges on roofs, canopies, cart, brass and wet paving), keeping the deep blue night readable and not black. The ONLY warm light left is Ahana's portable brass work lamp , which is off-frame upper-left: keep only a small soft warm spill from there on Tez and the handle tip, nothing more. Change nothing else: same framing, characters, poses, expressions, costumes (match their sheets; Tara calm and wise), Tez, the cart with its single sloping handle, and every object's shape and position. The plate reference is for layout only: ignore its lit lamps.",
+     "usd": 0.0366
     }
    ],
-   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok",
    "qc": [
     {
      "at": "2026-11-26T04:20:23",
      "verdict": "pass",
      "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    },
+    {
+     "at": "2026-11-26T13:49:22",
+     "verdict": "pass",
+     "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok"
     }
-   ],
-   "prev_status": "fixq"
+   ]
   },
   "P002-2": {
-   "status": "queued",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -260,20 +302,42 @@
      ],
      "instruction": null,
      "usd": 0.0551
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-relight-ahana",
+     "at": "2026-11-26T13:48:59",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "9d2a788110cf",
+     "refs": [
+      "item:P002-2",
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": "RELIGHT to moonlit only. Switch OFF every fixed lamp: every wall sconce, hanging and arch lantern, stall or booth lantern and lantern box, string light, and distant canopy or tent light: their glass and bulbs are dark, unlit, with no glow, no halo, no light pool and no warm reflections on the paving, walls or stalls. Light the whole scene with cool silver-blue full-moon light only (soft silver rim edges on roofs, canopies, cart, brass and wet paving), keeping the deep blue night readable and not black. The ONLY warm light left is Ahana's portable brass work lamp raised in her right hand, with its small warm pool around her and Tez. Change nothing else: same framing, characters, poses, expressions, costumes (match their sheets; Tara calm and wise), Tez, the cart with its single sloping handle, and every object's shape and position. The plate reference is for layout only: ignore its lit lamps.",
+     "usd": 0.0487
     }
    ],
-   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok",
    "qc": [
     {
      "at": "2026-11-26T04:20:23",
      "verdict": "pass",
      "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    },
+    {
+     "at": "2026-11-26T13:49:22",
+     "verdict": "pass",
+     "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok"
     }
-   ],
-   "prev_status": "fixq"
+   ]
   },
   "P002-3": {
-   "status": "queued",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -290,17 +354,38 @@
      ],
      "instruction": null,
      "usd": 0.0427
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-relight-ahana",
+     "at": "2026-11-26T13:48:59",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "69fb5bf2e23e",
+     "refs": [
+      "item:P002-3",
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": "RELIGHT to moonlit only. Switch OFF every fixed lamp: every wall sconce, hanging and arch lantern, stall or booth lantern and lantern box, string light, and distant canopy or tent light: their glass and bulbs are dark, unlit, with no glow, no halo, no light pool and no warm reflections on the paving, walls or stalls. Light the whole scene with cool silver-blue full-moon light only (soft silver rim edges on roofs, canopies, cart, brass and wet paving), keeping the deep blue night readable and not black. The ONLY warm light left is Ahana's portable brass work lamp hanging from her right hand, with its small warm pool on the paving at her feet. Change nothing else: same framing, characters, poses, expressions, costumes (match their sheets; Tara calm and wise), Tez, the cart with its single sloping handle, and every object's shape and position. The plate reference is for layout only: ignore its lit lamps.",
+     "usd": 0.0465
     }
    ],
-   "note": "contact-sheet QC only: handle looks more horizontal in close crop; accepted",
+   "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok",
    "qc": [
     {
      "at": "2026-11-26T04:20:24",
      "verdict": "pass",
      "note": "contact-sheet QC only: handle looks more horizontal in close crop; accepted"
+    },
+    {
+     "at": "2026-11-26T13:49:22",
+     "verdict": "pass",
+     "note": "relit moonlit only; all fixed lamps dark; only Ahana's lamp warm (P002-1 faint spill); framing, cast, cart unchanged; 1:1 faces/lamp ok"
     }
-   ],
-   "prev_status": "fixq"
+   ]
   },
   "P004-1": {
    "status": "approved",
@@ -430,10 +515,32 @@
    ]
   },
   "V-AHANA-P005": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-relight-ahana",
+     "at": "2026-11-26T13:48:59",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "6b2681a0ef4e",
+     "refs": [
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "FInalChangesTask/library/C-AHANA-LEAN-01.png"
+     ],
+     "instruction": null,
+     "usd": 0.0334
+    }
+   ],
+   "note": "sharp 1024x1536, true alpha, per sheet, blank sketchbook, 2 hands",
+   "qc": [
+    {
+     "at": "2026-11-26T13:49:23",
+     "verdict": "pass",
+     "note": "sharp 1024x1536, true alpha, per sheet, blank sketchbook, 2 hands"
+    }
+   ]
   }
  },
  "fix_queue": {}
