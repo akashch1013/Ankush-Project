@@ -1,757 +1,1304 @@
 {
- "chapter": "CH01",
- "book": "ChandRush: The Midnight Mela",
- "chapter_label": "Chapter 1 · Numbers",
- "sources": {
-  "manuscript": "Reference/Chap1 Corrected/CH01-PANELIZED-MANUSCRIPT-V06.docx",
-  "register": "Reference/Chap1 Corrected/CH01-LOCATION-IMAGE-REGISTER-V10.docx",
-  "plates": "BagroundGenTask/out/plates/"
- },
- "pages": [
-  {
-   "page": "P005",
-   "pattern": "free composition (art-directed); nearest grid T1",
-   "theme": "stage-cinema",
-   "title": "Numbers below zero",
-   "purpose": "teaching: Teaching block T1.1A opening: friendly narrator welcome + chapter intro, then 'Numbers below zero' (Sam 12°C vs Sarah −12°C) with Pause and think and Check your thinking",
-   "beats": [
-    "Teaching block T1.1A panel 01 (caption bridge + intro)",
-    "Teaching block T1.1A panel 02 (Numbers below zero)"
-   ],
-   "panels": [
-    {
-     "id": "P005-1",
-     "beat": "caption bridge: friendly teacher narrator",
-     "box": "builder decides (top-left welcome scroll)",
-     "art": {
-      "kind": "none"
-     },
-     "captions": [
-      "Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe."
-     ],
-     "bubbles": []
-    },
-    {
-     "id": "P005-2",
-     "beat": "silent companion",
-     "box": "builder decides",
-     "art": {
-      "kind": "reuse",
-      "item": "C-AHANA-LEAN-01",
-      "src": "FInalChangesTask/library/C-AHANA-LEAN-01.png",
-      "style": "transparent cut-out, .pop stepping out over the edge of the intro sheet; silent (no aside on this page)"
-     },
-     "captions": [],
-     "bubbles": []
-    }
-   ],
-   "teaching": [
-    {
-     "block": "T1.1A",
-     "heading": "",
-     "questions": [],
-     "text": [
-      "Why is −12°C colder than 12°C? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.",
-      "We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number."
-     ],
-     "equations": [],
-     "answers_on_page": false
-    },
-    {
-     "block": "T1.1A",
-     "heading": "Numbers below zero",
-     "questions": [
-      "Sam’s town is at 12°C. Sarah’s town is at −12°C. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?",
-      "Pause and think. Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?"
-     ],
-     "text": [
-      "Check your thinking",
-      "12°C is 12 degrees above zero; −12°C is 12 degrees below zero. Sam’s town is warmer. From −12°C, a rise of 10°C takes Sarah’s town to −2°C:",
-      "−12 + 10 = −2",
-      "−2°C is still colder than Sam’s 12°C. Sarah’s town has warmed up, but it has not caught up with Sam’s."
-     ],
-     "equations": [
-      "−12 + 10 = −2"
-     ],
-     "answers_on_page": true
-    }
-   ],
-   "asides": [],
-   "spot_art": [
-    {
-     "item": "C-AHANA-LEAN-01",
-     "kind": "cut-out",
-     "desc": "Ahana leaning on a blue stone pillar, sketchbook and pencil held to her chest (library, free)"
-    }
-   ],
-   "notes": "Reading order: welcome caption → intro paragraphs → 'Numbers below zero' → Sam/Sarah question → Pause and think → Check your thinking (answer, equation, closing line). The two question blocks come before the answer flap. Question figure (thermometer diorama) shows ONLY 12°C and −12°C; the −2°C result and the +10 rise appear only inside/after the Check your thinking flap. 'Why is −12°C colder than 12°C?' is part of intro1 (a rhetorical question): print it as prose. Only equation: −12 + 10 = −2 (data-math). No added words: figure labels may only be 12°C, −12°C, 0 (and −2°C, 10 inside the answer flap).",
-   "art": {
-    "idea": "Mission briefing: two cities, one precision gauge. The chapter's first lesson opens as the crew's wax-sealed briefing letter; Sam's warm city and Sarah's frozen city are read off one brass precision thermometer, like an instrument in an engineer's lab.",
-    "stage": "stage-cinema (moonlight top-right, ember haze bottom-left) + .skyline low behind the folio",
-    "ornament": ".deco-frame around the page + .lightstring (warm bokeh) along the top edge (replaces the marigold garland)",
-    "hero": "the precision gauge (keep the verified geometry: −15…15 at 7.6 pt/°C, 0 line, 12 and −12 tabs at their exact ticks): glass tube with brass collar fittings and fine engraved ticks; readout tags '12°C' / '−12°C' as small brass-edged plates with thin leader lines; on the warm side a sleek lamp-gold-lit CITY SKYLINE (Lantern Street style) silhouette (towers, lit windows, heat shimmer lines above); on the cold side an moonlit blue-white frozen city silhouette (snow-capped rooftops, frost, fine snow particles). No cute houses, no chai cup, no coat, no cartoon snowflakes.",
-    "objects": {
-     "caption": ".letter + .mounts + .wax (the briefing letter)",
-     "intro": ".sheet (ivory, brass inner line)",
-     "section title": ".h-title: 'Numbers' brass + .alt 'below zero' ice",
-     "question": ".ticket (VIP pass) with .stub ico i-thermo",
-     "pause": ".ticket.teal with .stub ico i-moon",
-     "answers": ".flap with .seal (ico i-eye ink), .label.royal 'Check your thinking', answer prose, .eq, then the number line as an illuminated rail"
-    },
-    "illustrate": "(1) the gauge (question data only: 12, −12, 0), painterly brass-and-glass on a royal lacquer panel. (2) inside the flap: the exact −12…12 number line as a brass rail with lamp-gold and moonlight markers: hollow royal ring at −12, solid royal at −2, copper at 12, a royal arc '+10'.",
-    "companion": "Ahana cut-out .pop over the intro sheet's lower-right corner (keep). Silent.",
-    "colour": "A3 plate family: royal night + brass; lamp gold = warm (Sam, 12), moonlight #a6c6f5 = cold (Sarah, −12); royal .mt (#1f4f9a) tracks Sarah's temperature in the answer; copper .mr for Sam's 12.",
-    "delights": [
-     "heat-shimmer strokes rising over the warm skyline",
-     "frost crystals creeping up the cold half of the gauge's backboard",
-     "a brass drafting pencil (not a cartoon pencil) lying across the letter and sheet: 'Keep a pencil nearby'"
-    ],
-    "folio": "moonclock --t 0.047 bottom-left",
-    "varies": "cinema stage + deco-frame + lightstring; P039 is a jali stage with a jali-band and a nameplate",
-    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (M01-D01, S03-B01)."
-   }
+  "chapter": "CH01",
+  "book": "ChandRush: The Midnight Mela",
+  "chapter_label": "Chapter 1 · Numbers",
+  "sources": {
+    "manuscript": "Reference/Chap1 Corrected/CH01-PANELIZED-MANUSCRIPT-V06.docx",
+    "register": "Reference/Chap1 Corrected/CH01-LOCATION-IMAGE-REGISTER-V10.docx",
+    "plates": "BagroundGenTask/out/plates/"
   },
-  {
-   "page": "P039",
-   "pattern": "free composition (art-directed); nearest grid T3",
-   "theme": "stage-jali",
-   "purpose": "teaching: Teaching block T1.2B, Example 11 (HCF word problem, worked) then Now you try with Check your method; Tez companion inset Q04 at the completed boundary",
-   "beats": [
-    "Teaching block T1.2B Example 11",
-    "Teaching block T1.2B Now you try",
-    "Companion inset Q04"
-   ],
-   "panels": [
+  "pages": [
     {
-     "id": "P039-3",
-     "beat": "Companion inset Q04",
-     "box": "builder decides; bottom-right, jharokha ~130 × 170 pt",
-     "art": {
-      "kind": "reuse",
-      "item": "V-TEZ-P039",
-      "src": "FInalChangesTask/CH01/out/V-TEZ-P039.png",
-      "style": "Tez in a .jharokha (carved window) at the bottom-right by the stall counter; the art keeps its own bench/kit-box background inside the arch; .sill under it"
-     },
-     "background": {
-      "record": "S04-B01",
-      "plate": "BagroundGenTask/out/plates/S04-B01.png",
-      "camera": "closer and lower, on the bench top beside the open padded kit box"
-     },
-     "characters": [
-      {
-       "name": "Tez",
-       "position": "centre of the square, sitting on the pale bench top beside the open empty padded kit box",
-       "action": "sits on four-pawed haunches, head tilted towards the reader",
-       "gaze": "the reader",
-       "expression": "playful, pleased",
-       "holding": "nothing (no tool, no food)"
+      "page": "P005",
+      "pattern": "free composition (art-directed); nearest grid T1",
+      "theme": "stage-cinema",
+      "title": "Numbers below zero",
+      "purpose": "teaching: Teaching block T1.1A opening: friendly narrator welcome + chapter intro, then 'Numbers below zero' (Sam 12°C vs Sarah −12°C) with Pause and think and Check your thinking",
+      "beats": [
+        "Teaching block T1.1A panel 01 (caption bridge + intro)",
+        "Teaching block T1.1A panel 02 (Numbers below zero)"
+      ],
+      "panels": [
+        {
+          "id": "P005-1",
+          "beat": "caption bridge: friendly teacher narrator",
+          "box": "builder decides (top-left welcome scroll)",
+          "art": {
+            "kind": "none"
+          },
+          "captions": [
+            "Before we choose the lift’s movements, let’s get to know the numbers on its strip. You’re part of the crew too, and you can take your time. The clock belongs to the adventure. You can pause, reread or come back tomorrow without making ChandRush less safe."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P005-2",
+          "beat": "silent companion",
+          "box": "builder decides",
+          "art": {
+            "kind": "reuse",
+            "item": "C-AHANA-LEAN-01",
+            "src": "FInalChangesTask/library/C-AHANA-LEAN-01.png",
+            "style": "transparent cut-out, .pop stepping out over the edge of the intro sheet; silent (no aside on this page)"
+          },
+          "captions": [],
+          "bubbles": []
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.1A",
+          "heading": "",
+          "questions": [],
+          "text": [
+            "Why is −12°C colder than 12°C? We’ll start with numbers below zero, then explore equal groups, quick division checks, squares and cubes. Each idea will help you choose a calculation and understand why it works.",
+            "We’ll work through this chapter together. Keep a pencil nearby: when you reach a Try or Practice question, cover the working underneath and have a go. Then uncover it and compare the steps, not only the final number."
+          ],
+          "equations": [],
+          "answers_on_page": false
+        },
+        {
+          "block": "T1.1A",
+          "heading": "Numbers below zero",
+          "questions": [
+            "Sam’s town is at 12°C. Sarah’s town is at −12°C. Both temperatures contain 12, but Sarah will certainly want the warmer coat! What difference does that little minus sign make?",
+            "Pause and think. Why might Sam feel comfortable while Sarah feels very cold? If Sarah’s temperature rises by 10°C, will her town be as warm as Sam’s?"
+          ],
+          "text": [
+            "Check your thinking",
+            "12°C is 12 degrees above zero; −12°C is 12 degrees below zero. Sam’s town is warmer. From −12°C, a rise of 10°C takes Sarah’s town to −2°C:",
+            "−12 + 10 = −2",
+            "−2°C is still colder than Sam’s 12°C. Sarah’s town has warmed up, but it has not caught up with Sam’s."
+          ],
+          "equations": [
+            "−12 + 10 = −2"
+          ],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [],
+      "spot_art": [
+        {
+          "item": "C-AHANA-LEAN-01",
+          "kind": "cut-out",
+          "desc": "Ahana leaning on a blue stone pillar, sketchbook and pencil held to her chest (library, free)"
+        }
+      ],
+      "notes": "Reading order: welcome caption → intro paragraphs → 'Numbers below zero' → Sam/Sarah question → Pause and think → Check your thinking (answer, equation, closing line). The two question blocks come before the answer flap. Question figure (thermometer diorama) shows ONLY 12°C and −12°C; the −2°C result and the +10 rise appear only inside/after the Check your thinking flap. 'Why is −12°C colder than 12°C?' is part of intro1 (a rhetorical question): print it as prose. Only equation: −12 + 10 = −2 (data-math). No added words: figure labels may only be 12°C, −12°C, 0 (and −2°C, 10 inside the answer flap).",
+      "art": {
+        "idea": "Mission briefing: two cities, one precision gauge. The chapter's first lesson opens as the crew's wax-sealed briefing letter; Sam's warm city and Sarah's frozen city are read off one brass precision thermometer, like an instrument in an engineer's lab.",
+        "stage": "stage-cinema (moonlight top-right, ember haze bottom-left) + .skyline low behind the folio",
+        "ornament": ".deco-frame around the page + .lightstring (warm bokeh) along the top edge (replaces the marigold garland)",
+        "hero": "the precision gauge (keep the verified geometry: −15…15 at 7.6 pt/°C, 0 line, 12 and −12 tabs at their exact ticks): glass tube with brass collar fittings and fine engraved ticks; readout tags '12°C' / '−12°C' as small brass-edged plates with thin leader lines; on the warm side a sleek lamp-gold-lit CITY SKYLINE (Lantern Street style) silhouette (towers, lit windows, heat shimmer lines above); on the cold side an moonlit blue-white frozen city silhouette (snow-capped rooftops, frost, fine snow particles). No cute houses, no chai cup, no coat, no cartoon snowflakes.",
+        "objects": {
+          "caption": ".letter + .mounts + .wax (the briefing letter)",
+          "intro": ".sheet (ivory, brass inner line)",
+          "section title": ".h-title: 'Numbers' brass + .alt 'below zero' ice",
+          "question": ".ticket (VIP pass) with .stub ico i-thermo",
+          "pause": ".ticket.teal with .stub ico i-moon",
+          "answers": ".flap with .seal (ico i-eye ink), .label.royal 'Check your thinking', answer prose, .eq, then the number line as an illuminated rail"
+        },
+        "illustrate": "(1) the gauge (question data only: 12, −12, 0), painterly brass-and-glass on a royal lacquer panel. (2) inside the flap: the exact −12…12 number line as a brass rail with lamp-gold and moonlight markers: hollow royal ring at −12, solid royal at −2, copper at 12, a royal arc '+10'.",
+        "companion": "Ahana cut-out .pop over the intro sheet's lower-right corner (keep). Silent.",
+        "colour": "A3 plate family: royal night + brass; lamp gold = warm (Sam, 12), moonlight #a6c6f5 = cold (Sarah, −12); royal .mt (#1f4f9a) tracks Sarah's temperature in the answer; copper .mr for Sam's 12.",
+        "delights": [
+          "heat-shimmer strokes rising over the warm skyline",
+          "frost crystals creeping up the cold half of the gauge's backboard",
+          "a brass drafting pencil (not a cartoon pencil) lying across the letter and sheet: 'Keep a pencil nearby'"
+        ],
+        "folio": "moonclock --t 0.047 bottom-left",
+        "varies": "cinema stage + deco-frame + lightstring; P039 is a jali stage with a jali-band and a nameplate",
+        "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (M01-D01, S03-B01)."
       }
-     ],
-     "props_state": [
-      "one open padded kit box beside him: completely empty",
-      "the two stock boxes behind stay unsolved (lenses and rings inside, uncountable)",
-      "the sample board is blank: no three-lens/five-ring sample"
-     ],
-     "painted_text": [],
-     "reserve": [
-      {
-       "for": "bubble",
-       "where": "upper area",
-       "w": 0.9,
-       "h": 0.22
+    },
+    {
+      "page": "P039",
+      "pattern": "free composition (art-directed); nearest grid T3",
+      "theme": "stage-jali",
+      "purpose": "teaching: Teaching block T1.2B, Example 11 (HCF word problem, worked) then Now you try with Check your method; Tez companion inset Q04 at the completed boundary",
+      "beats": [
+        "Teaching block T1.2B Example 11",
+        "Teaching block T1.2B Now you try",
+        "Companion inset Q04"
+      ],
+      "panels": [
+        {
+          "id": "P039-3",
+          "beat": "Companion inset Q04",
+          "box": "builder decides; bottom-right, jharokha ~130 × 170 pt",
+          "art": {
+            "kind": "reuse",
+            "item": "V-TEZ-P039",
+            "src": "FInalChangesTask/CH01/out/V-TEZ-P039.png",
+            "style": "Tez in a .jharokha (carved window) at the bottom-right by the stall counter; the art keeps its own bench/kit-box background inside the arch; .sill under it"
+          },
+          "background": {
+            "record": "S04-B01",
+            "plate": "BagroundGenTask/out/plates/S04-B01.png",
+            "camera": "closer and lower, on the bench top beside the open padded kit box"
+          },
+          "characters": [
+            {
+              "name": "Tez",
+              "position": "centre of the square, sitting on the pale bench top beside the open empty padded kit box",
+              "action": "sits on four-pawed haunches, head tilted towards the reader",
+              "gaze": "the reader",
+              "expression": "playful, pleased",
+              "holding": "nothing (no tool, no food)"
+            }
+          ],
+          "props_state": [
+            "one open padded kit box beside him: completely empty",
+            "the two stock boxes behind stay unsolved (lenses and rings inside, uncountable)",
+            "the sample board is blank: no three-lens/five-ring sample"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper area",
+              "w": 0.9,
+              "h": 0.22
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Tez",
+              "text": "I like “nothing left over”. Especially at dinner.",
+              "where": "above Tez",
+              "tail_to": "Tez's mouth",
+              "role": "companion remark to the reader: .say.aside (Kalam 15/19), warm-cream tint, curved tail ending just before Tez’s mouth"
+            }
+          ]
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.2B",
+          "heading": "Example 11",
+          "questions": [
+            "Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack."
+          ],
+          "text": [
+            "Let’s work it through",
+            "Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.",
+            "171 = 1 × 171 = 3 × 57 = 9 × 19",
+            "27 = 1 × 27 = 3 × 9",
+            "63 = 1 × 63 = 3 × 21 = 7 × 9",
+            "The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:",
+            "Pencils per pack: 171 ÷ 9 = 19",
+            "Erasers per pack: 27 ÷ 9 = 3",
+            "Pens per pack: 63 ÷ 9 = 7",
+            "Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: 9 × 19 = 171."
+          ],
+          "equations": [
+            "171 = 1 × 171 = 3 × 57 = 9 × 19",
+            "27 = 1 × 27 = 3 × 9",
+            "63 = 1 × 63 = 3 × 21 = 7 × 9",
+            "171 ÷ 9 = 19",
+            "27 ÷ 9 = 3",
+            "63 ÷ 9 = 7",
+            "9 × 19 = 171"
+          ],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.2B",
+          "heading": "Now you try",
+          "questions": [
+            "Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag."
+          ],
+          "text": [
+            "Check your method",
+            "Factors of 28: 1, 2, 4, 7, 14, 28.",
+            "Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.",
+            "The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:",
+            "28 ÷ 7 = 4 candies per bag",
+            "49 ÷ 7 = 7 stickers per bag",
+            "35 ÷ 7 = 5 magnets per bag"
+          ],
+          "equations": [
+            "28 ÷ 7 = 4",
+            "49 ÷ 7 = 7",
+            "35 ÷ 7 = 5"
+          ],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [],
+      "spot_art": [
+        {
+          "item": "V-TEZ-P039",
+          "kind": "vignette",
+          "desc": "Tez sitting on haunches beside the empty padded kit box on the Lantern Street projector-kit bench (S04-B01), head tilted to the reader"
+        }
+      ],
+      "notes": "Question before working: each question in its own card, its working after it; Check your method is a separable block read after the Now you try question. Print every line of src/P039.txt in order, including the three factor equations (171 = …, 27 = …, 63 = …) that the previous build omitted. Factor lists in Check your method are lists, not equations. No added text or diagrams.\ndesign (V09): reader goal = follow one complete HCF word problem, then attempt a twin. Hardest fit = Example 11 (question + 6 equation lines + 3 prose blocks) at 14/18 pt. Chosen rough: Example 11 across the top two-thirds (question card, then 'Let's work it through' in two columns: reasons + factor equations | sharing equations + conclusion, = signs aligned); bottom band: Now you try question → Check your method block → Tez grounded at bottom-right on the bench with the empty kit box, aside after the completed unit. Challenger rejected: Tez in a full-height right column (old build) — steals ~270 pt width and forces the Example into cramped columns. Gutter: midnight indigo #122A45 sliver (blue timber wall of the bench). Edge motif: brass corner cap of the padded kit box → one brass corner joint (0.9 pt) where the reader enters Example 11, short return at the end of Check your method. Colour key: deep teal traces the HCF (9 in Example 11, 7 in Check your method) through factor lines and divisions; operators and = in dark ink.\nB1 (2026-11-23): rebuild from art B1 above (V06 manuscript; P039 printable text unchanged from the earlier source). Previous A3 build kept at P039-A3-v1/ and Output/CH01/CH01-P039-A3-v1.pdf.",
+      "art": {
+        "version": "B1 'Ledger Plate' (2026-11-23, user brief: pure-maths page = calm light reading field + plate-derived border)",
+        "idea": "The page is one cream marble bench-top ledger framed by the projector-kit bench of S04-B01: the royal-blue lacquered timber wall becomes the page border, its brass kit-box corner caps lock the corners, and the banners' gold moon + star becomes the medallion. Inside: no scenery, only calm paper and the maths.",
+        "field": "Whole reading area is a flat light paper field #F7F1E3 (warm cream, matte, no texture, no backdrop image, no glass, no dark panels). Units are separated by white space and thin brass rules, plus a slightly lighter/darker tint card (#FBF7EE question card, #EFE6D2 answer block) — never a busy or dark background behind text.",
+        "border": {
+          "band": "Outer frame 16-18 pt of royal-blue lacquer (#234d95 graded to navy #122A45 at the outer edge, subtle vertical plank seams every ~60 pt as 0.5 pt darker lines), with an inner gold pinstripe 0.8 pt #c9a24a set 4 pt inside the band, then the cream field. Gutter colour shows only as this sliver (V09 §2).",
+          "corners": "Brass kit-box corner caps (SVG, painterly: gradient #f3d58f -> #b3722f -> #6e4318, a highlight edge and one rivet each) at all four corners, L-shaped, ~42 pt arms. Strongest accent where the reader enters (top-left: cap + a lantern-bracket arm, the plate's brass wall rail with its curled bracket end, running along the top margin ~240 pt, 1 pt) and where they finish (bottom-right: cap + short return). Top-right and bottom-left caps smaller/plain.",
+          "medallion": "Top-centre on the band: the banner emblem from the plate (gold disc inside a thin gold ring arc, small 4-point star below), ~26 pt, painterly gold. It breaks the pinstripe.",
+          "folio": "Bottom-centre on the band in cream Source Sans 3 Semibold 11 pt: 'ChandRush · Chapter 01 · 39' style running line is NOT in manuscript; print only the folio number 39 with the small moonclock disc (as in old build) — keep it quiet.",
+          "rules": "All rules 0.5-1.1 pt brass #b3722f. Break the pinstripe near the medallion and near Tez. Nothing decorative near the evidence may look countable (no tick/tile rows next to equations)."
+        },
+        "type": "Manual V09 exactly: teaching prose Source Sans 3 Regular 14/18 pt, ink #1d2433; subheads ('Example 11', 'Let’s work it through', 'Now you try', 'Check your method') Source Sans 3 Semibold 17-19 pt ('Example 11' 19 pt, others 16-17 pt) in navy #122A45 with a short brass rule; display equations 20-22 pt Source Sans 3 (Semibold numbers) aligned on '=' via grid; Tez's aside Source Serif 4 Regular 14/18 pt. No Big Shoulders, no Caveat on this page. Outer clearance >= 24 pt from the inner pinstripe.",
+        "maths_colour": "Deep teal #1F6F6B tracks the HCF: every 9 in Example 11, every 7 in Check your method (as divisor). Terracotta #B5603A only for the second role: the per-pack/per-bag results (19, 3, 7 / 4, 7, 5) in the sharing lines. Operators, = and other numbers dark ink. Must read in greyscale.",
+        "layout": "Top: 'Example 11' subhead then the question card (full width minus margins, pale card #FBF7EE with 0.8 pt brass rule and a small brass corner joint top-left). Middle: 'Let’s work it through' in two columns with a hairline brass divider: left = reason prose + 3 factor equations (= aligned) + 'The common factors…'; right = the 3 sharing equations as label | expression grid + closing paragraph with the check 9 × 19 = 171. Bottom band (separated by a 0.8 pt brass rule with a centred small moon dot): 'Now you try' card (left, distinct entrance: brass top-left cap) -> 'Check your method' block (centre, tinted #EFE6D2, read after) -> Tez bottom-right.",
+        "companion": "Tez from V-TEZ-P039.jpg, ~150 x 150 pt, sitting on the marble bench with the empty kit box, bottom-right inside the frame. Mask the vignette with an irregular soft fade (CSS mask-image radial/blob gradients) so its outside dissolves into the exact paper #F7F1E3 — no oval, no white/blue halo left. Bench edge contact kept. Aside bubble 'I like “nothing left over”. Especially at dinner.' above him: warm ivory #FFFDF6, 0.8 pt ink outline, short tail ending just before his mouth.",
+        "drop": "No backdrop scene, no glass panels, no pencil/eraser/pen pictograms, no 9-box rack, no 7 pouches (they are counted decoration near evidence and add busyness). The art is the frame + Tez.",
+        "delights": [
+          "the brass lantern-bracket arm along the top margin, borrowed from the bench's wall rail",
+          "the banner moon + star medallion at top-centre",
+          "Tez's empty kit box: nothing left over"
+        ],
+        "varies": "vs P005 (dark cinema stage): this page is light paper with a lacquer frame — the 'quiet worksheet' register of the family.",
+        "style": "Frame materials painterly (gradients + highlight) like the plate; the field flat and calm."
+      },
+      "art_a3_v1": {
+        "idea": "The gift-pack stock room, logged in a mission file. Salim's problem hangs as a cargo tag from an etched brass 'Example 11' nameplate; the working is in the crew's field notebook; the answer, 9 identical packages, sits in a brass-and-glass display rack lit like a museum case; Josephine's twin problem is a VIP pass; its method sits under a sealed answer panel; Tez watches from a carved jharokha.",
+        "stage": "stage-planks (alias stage-jali): the royal-blue lacquered stall wall of S04-B01",
+        "ornament": ".trim-band (banner moon + star) across the top; brass corner caps (.hud) on the display rack",
+        "hero": "the display rack: royal lacquer and brass shelving, lamp-lit, holding EXACTLY 9 identical kit boxes drawn like the plate's own (royal-blue lacquered boxes with brass corner caps and a cream band), brass corner caps locked onto it",
+        "objects": {
+          "title": ".nameplate 'Example 11' (top-left)",
+          "question": ".tag (cargo tag) for Salim's question, brass-wire/twine line from its eyelet to the nameplate",
+          "working": ".ledger field notebook (+ .bookmark) with .label + ico i-pencil ink 'Let’s work it through'; keep the two-column = alignment and royal-blue 9s",
+          "now you try": ".ticket (VIP pass) with .stub ico i-ticket, heading as .label.ember 'Now you try'",
+          "answers": ".flap with .seal (ico i-key ink), .label.royal 'Check your method', the factor lists, HCF prose, ÷ 7 lines, then EXACTLY 7 identical goodie bags drawn as deep-blue or maroon velvet pouches with gold cords, painterly",
+          "aside": ".say.aside (Caveat) above Tez's window"
+        },
+        "illustrate": "9 packages in the rack (after Salim's question); 7 pouches inside the flap after the ÷ 7 lines. Exact counts, no numbers on them.",
+        "companion": "Tez in the .jharokha bottom-right (keep), aside bubble tail to his mouth. Remove the paw trail.",
+        "colour": "A3 plate family: royal planks + brass; lamp-gold glow on the rack; copper/maroon accent on 'Now you try'; royal .mt (#1f4f9a) tracks the HCF (9, then 7).",
+        "delights": [
+          "brass corner caps lock onto the rack of 9 boxes: answer found",
+          "a pool of warm lamp light falls across the rack",
+          "Tez's kit box stays empty: nothing left over"
+        ],
+        "folio": "moonclock --t 0.364 bottom-centre",
+        "varies": "jali stage + jali-band + nameplate, vs P005's cinema stage + deco-frame + lightstring",
+        "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (S04-B01, S03-B01)."
       }
-     ],
-     "captions": [],
-     "bubbles": [
-      {
-       "speaker": "Tez",
-       "text": "I like “nothing left over”. Especially at dinner.",
-       "where": "above Tez",
-       "tail_to": "Tez's mouth",
-       "role": "companion remark to the reader: .say.aside (Kalam 15/19), warm-cream tint, curved tail ending just before Tez’s mouth"
+    },
+    {
+      "page": "P043",
+      "category": "diagram-led",
+      "pattern": "free composition; nearest grid T6 diagrams (hint only)",
+      "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+      "title": "6 Cutting the largest squares",
+      "purpose": "teaching (diagram-led): a word problem whose two exact SVG figures carry the page — the uncut cardboard (question figure, no solution) and the 16 × 7 partition (answer figure); HCF(64, 28) = 4.",
+      "beats": [
+        "T1.2B 6 Cutting the largest squares (question)",
+        "T1.2B 6 Check your method (answer)"
+      ],
+      "panels": [
+        {
+          "id": "P043-1",
+          "beat": "T1.2B 6 question",
+          "box": "builder decides (question zone first in reading order)",
+          "art": {
+            "kind": "none",
+            "note": "teaching area: question card + SVG figure V06"
+          }
+        },
+        {
+          "id": "P043-2",
+          "beat": "T1.2B 6 Check your method",
+          "box": "builder decides (after the question)",
+          "art": {
+            "kind": "none",
+            "note": "teaching area: working + SVG figure V07 (the hero)"
+          }
+        },
+        {
+          "id": "P043-3",
+          "beat": "silent companion",
+          "box": "builder decides; small, clear of both figures",
+          "art": {
+            "kind": "reuse",
+            "item": "C-VIHAAN-LEAN-01",
+            "src": "FInalChangesTask/library/C-VIHAAN-LEAN-01.png",
+            "style": "silent; may lean on FInalChangesTask/library/P-LEDGE-LONG-01.png; scenery fades irregularly into the paper"
+          },
+          "background": {
+            "record": "S04-D01",
+            "plate": "BagroundGenTask/out/plates/S04-D01.png",
+            "camera": "border materials only"
+          },
+          "characters": [
+            {
+              "name": "Vihaan",
+              "position": "edge of the page, small",
+              "action": "leans, relaxed",
+              "gaze": "the answer figure or the reader",
+              "expression": "relaxed smile",
+              "holding": "nothing new"
+            }
+          ],
+          "captions": [],
+          "bubbles": []
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.2B",
+          "heading": "6 Cutting the largest squares",
+          "text": [],
+          "questions": [
+            "A rectangular piece of cardboard is 64 cm long and 28 cm wide. Cut it into equal squares with no cardboard left over. What is the greatest possible side length of each square? How many squares will there be? Explain your answer."
+          ],
+          "equations": [],
+          "diagrams": [
+            {
+              "type": "svg-rectangle",
+              "caption": "Cardboard before cutting",
+              "spec": "Production note V06. One rectangle, length 64 cm and width 28 cm (labels '64 cm' on the long side, '28 cm' on the short side), with a clear not-to-scale notice. Do NOT draw a solution grid or label the square side (this is the question figure: no answer leak). Plain cardboard surface, no countable decoration."
+            }
+          ],
+          "answers_on_page": false
+        },
+        {
+          "block": "T1.2B",
+          "heading": "Check your method",
+          "text": [
+            "Check your method",
+            "The side of a square must fit exactly along both 64 cm and 28 cm. We need the greatest common factor:",
+            "Factors of 28: 1, 2, 4, 7, 14, 28. Of these, 1, 2 and 4 also divide 64. So HCF(64, 28) = 4: each square has side 4 cm.",
+            "Now count squares in each direction:",
+            "Along the length: 64 ÷ 4 = 16",
+            "Along the width: 28 ÷ 4 = 7",
+            "Total: 16 × 7 = 112 squares",
+            "The picture shows why we multiply 16 × 7: there are 7 rows of 16 squares."
+          ],
+          "questions": [],
+          "equations": [
+            "HCF(64, 28) = 4",
+            "64 ÷ 4 = 16",
+            "28 ÷ 4 = 7",
+            "16 × 7 = 112"
+          ],
+          "diagrams": [
+            {
+              "type": "svg-grid",
+              "caption": "Counting rows and columns",
+              "spec": "Production note V07. The 64 cm by 28 cm rectangle partitioned into exactly 16 columns and 7 rows of equal squares (all 112 cells visible, every cell square, overall proportions 16 to 7). Label a single square side '4 cm', the 16 columns ('16') and the 7 rows ('7'). Place it after/below the question in reading order."
+            }
+          ],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 043. Location context: T1.2B sits inside the Projector-Kit Bench story (P035–P045, S04); border borrows S04-D01 (overhead sample kit: cream bench top, card stock, brass kit-box corners) and must differ from P039's S04-B01 royal-blue band. Diagram-led: the V07 partition grid is the hero (largest element, ~45–55% of the reading width); the V06 figure is smaller and sits with the question. Question card → figure V06 → Check your method → figure V07, in that reading order; nothing from the answer (4 cm, grid, 16, 7, 112) may appear before 'Check your method'. 'Factors of 28: …' is a list, not an equation. Both figures exact SVG; the rectangles share the 16:7 proportion. Print every line exactly; no added text except the figure labels and a not-to-scale notice required by V06."
+    },
+    {
+      "page": "P064",
+      "category": "concept",
+      "pattern": "free composition; nearest grid T2 split / T1 vignette (hint only)",
+      "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+      "title": "1.4 Squares and Square Roots",
+      "purpose": "teaching (concept / explainer): section opener that builds the idea of squaring from a 5 × 5 tile square — prose-led, one exact tile figure, notation, perfect squares, area units, calculator note.",
+      "beats": [
+        "T1.4 1.4 Squares and Square Roots"
+      ],
+      "panels": [
+        {
+          "id": "P064-1",
+          "beat": "T1.4 section opener",
+          "box": "builder decides",
+          "art": {
+            "kind": "none",
+            "note": "teaching area: prose + equations + SVG figure V08"
+          }
+        },
+        {
+          "id": "P064-2",
+          "beat": "silent companion",
+          "box": "builder decides; small, away from the tile figure",
+          "art": {
+            "kind": "reuse",
+            "item": "C-NAVYA-LEAN-01",
+            "src": "FInalChangesTask/library/C-NAVYA-LEAN-01.png",
+            "style": "silent; arched lane behind fades irregularly into the paper"
+          },
+          "background": {
+            "record": "S06-D01",
+            "plate": "BagroundGenTask/out/plates/S06-D01.png",
+            "camera": "border materials only"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "page edge, small",
+              "action": "stands with satchel",
+              "gaze": "the tile square",
+              "expression": "thoughtful",
+              "holding": "satchel"
+            }
+          ],
+          "captions": [],
+          "bubbles": []
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.4",
+          "heading": "1.4 Squares and Square Roots",
+          "text": [
+            "A square can help us understand two useful calculations: finding its total area and finding a side from that area. Let’s begin by arranging small square tiles into a bigger square. Put 5 tiles in every row and make 5 rows. How many tiles fill the square?",
+            "5 × 5 = 25",
+            "You can count the 25 little tiles, or multiply 5 × 5. Multiplying a number by itself is called squaring. We write 5² and read it as “five squared”. The small raised 2 says that there are two factors of 5:",
+            "5² = 5 × 5 = 25",
+            "7² = 7 × 7 = 49",
+            "5² does not mean 5 × 2. That would give 10, and would fill only two rows of our five-row square.",
+            "Squares of whole numbers are called perfect squares. Squaring 1 to 10 gives 1, 4, 9, 16, 25, 36, 49, 64, 81 and 100. Zero also fits: 0² = 0. The square of a positive number is positive.",
+            "The area of our 5 cm square is 25 cm². Here cm² means square centimetres: how many 1 cm by 1 cm squares cover the surface. It measures area, not a side length.",
+            "On a calculator: use the x² key to square a number. For 7², your calculation should show 7² and give 49. On many calculators you enter 7 and then press x²; the precise key order depends on the model. Check the displayed expression before accepting the answer."
+          ],
+          "questions": [],
+          "equations": [
+            "5 × 5 = 25",
+            "5² = 5 × 5 = 25",
+            "7² = 7 × 7 = 49",
+            "0² = 0"
+          ],
+          "diagrams": [
+            {
+              "type": "svg-tile-square",
+              "caption": "Five rows of five",
+              "spec": "Production note V08. A square divided into exactly 5 rows and 5 columns; each small tile represents 1 cm by 1 cm. Label two adjacent outer sides '5 cm' and the total area '25 cm²'. Identify one small tile as '1 cm²'. Keep every cell square; no countable decoration. Place it right after the opening paragraph / '5 × 5 = 25'."
+            }
+          ],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 064. Section opener: '1.4 Squares and Square Roots' is the page title (V09 chapter-section heading). Location context: T1.4 follows P063 at the Square Mirror Recess (S06, Navya asked for equal sides); border borrows S06-D01 materials (mirror frame, staged tiles, blue wall, brass) but must NOT show a completed 9 × 9 mirror or any countable tile grid near the figure (story state: tiles still crooked/staged). 'Squares of whole numbers…' list is prose, not an equation. The question in paragraph 1 ('How many tiles fill the square?') is answered immediately by the manuscript ('5 × 5 = 25') — keep that order. 'cm²', '5²', 'x²' use real superscripts. The tile figure is the only figure; prose dominates (~255 words) in two calm columns or one column + figure."
+    },
+    {
+      "page": "P076",
+      "category": "worked-example",
+      "pattern": "free composition; nearest grid T3 worked example (hint only)",
+      "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+      "title": "Example 16",
+      "purpose": "teaching (worked example): Example 16 question → three worked evaluations (root vs cube, order of operations, root bar scope) → Now you try → Check your method; Vihaan's aside closes the page.",
+      "beats": [
+        "T1.5 Example 16",
+        "T1.5 Now you try",
+        "Companion inset Q08"
+      ],
+      "panels": [
+        {
+          "id": "P076-1",
+          "beat": "T1.5 Example 16",
+          "box": "builder decides (first in reading order)",
+          "art": {
+            "kind": "none",
+            "note": "teaching area"
+          }
+        },
+        {
+          "id": "P076-2",
+          "beat": "T1.5 Now you try",
+          "box": "builder decides (after Example 16)",
+          "art": {
+            "kind": "none",
+            "note": "teaching area"
+          }
+        },
+        {
+          "id": "P076-3",
+          "beat": "Companion inset Q08",
+          "box": "builder decides; last in reading order, bottom-right or right edge",
+          "art": {
+            "kind": "new",
+            "item": "V-VIHAAN-P076",
+            "fallback": {
+              "kind": "reuse",
+              "src": "FInalChangesTask/library/C-VIHAAN-LEAN-02.png"
+            }
+          },
+          "background": {
+            "record": "S07-B01",
+            "plate": "BagroundGenTask/out/plates/S07-B01.png",
+            "camera": "tight inset at the physical-right cube bay: one indigo canopy post and the plinth edge; unsolved towers cropped out"
+          },
+          "characters": [
+            {
+              "name": "Vihaan",
+              "position": "centre of the inset, waist-up or three-quarter",
+              "action": "points with one finger towards the teaching layer plan (off-inset, towards the worked example); other hand rests at his side",
+              "gaze": "where he points / the reader",
+              "expression": "mild smile",
+              "holding": "nothing"
+            }
+          ],
+          "props_state": [
+            "indigo canopy post and plinth edge only",
+            "no completed story lantern",
+            "unsolved towers cropped out",
+            "moonline unlit"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper area",
+              "w": 0.8,
+              "h": 0.25
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Vihaan",
+              "text": "The cubes at the back are still on the team.",
+              "where": "upper area of the inset",
+              "tail_to": "Vihaan's mouth"
+            }
+          ]
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.5",
+          "heading": "Example 16",
+          "questions": [
+            "Evaluate (a) ∛8 + 2³, (b) ∛125 − 5³ and (c) ∛64 × 5 − 3³."
+          ],
+          "text": [
+            "Let’s work it through",
+            "(a) The root and the cube are different instructions. ∛8 = 2, while 2³ = 8:",
+            "∛8 + 2³ = 2 + 8 = 10",
+            "(b) Here ∛125 = 5, while 5³ = 125. Subtracting the bigger amount gives a negative answer:",
+            "∛125 − 5³ = 5 − 125 = −120",
+            "(c) Find the root and the cube first. Then multiply before subtracting:",
+            "∛64 × 5 − 3³ = 4 × 5 − 27 = 20 − 27 = −7",
+            "The root bar covers 64 only. The × 5 stays outside it."
+          ],
+          "equations": [
+            "∛8 = 2",
+            "2³ = 8",
+            "∛8 + 2³ = 2 + 8 = 10",
+            "∛125 = 5",
+            "5³ = 125",
+            "∛125 − 5³ = 5 − 125 = −120",
+            "∛64 × 5 − 3³ = 4 × 5 − 27 = 20 − 27 = −7"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.5",
+          "heading": "Now you try",
+          "questions": [
+            "Evaluate (a) ∛64 × 5, (b) ∛216 × 3 − 5³ and (c) 5 × ∛343."
+          ],
+          "text": [
+            "Check your method",
+            "(a) ∛64 × 5 = 4 × 5 = 20",
+            "(b) ∛216 × 3 − 5³ = 6 × 3 − 125 = 18 − 125 = −107",
+            "(c) 5 × ∛343 = 5 × 7 = 35"
+          ],
+          "equations": [
+            "∛64 × 5 = 4 × 5 = 20",
+            "∛216 × 3 − 5³ = 6 × 3 − 125 = 18 − 125 = −107",
+            "5 × ∛343 = 5 × 7 = 35"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [
+        {
+          "speaker": "Vihaan",
+          "text": "The cubes at the back are still on the team.",
+          "art": "spot:V-VIHAAN-P076 (fallback library:C-VIHAAN-LEAN-02)"
+        }
+      ],
+      "spot_art": [
+        {
+          "item": "V-VIHAAN-P076",
+          "kind": "vignette",
+          "desc": "Vihaan (exactly as on VIHAAN CHARACTER SHEET) at the physical-right cube bay of the Cube Plinth (plate S07-B01 as Image 1, raw): one indigo canopy post and the plinth edge, unsolved towers cropped out, no completed lantern; he points with one finger out of frame (screen-left, towards the worked example), other hand at his side, mild smile; calm upper area kept empty for the bubble; letter-free; soft scenery edges so it can fade into paper.",
+          "refs": [
+            "BagroundGenTask/out/plates/S07-B01.png",
+            "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+          ],
+          "size": "1024x1024",
+          "quality": "high",
+          "optional": "if no new art is wanted, use library C-VIHAAN-LEAN-02 ($0)"
+        }
+      ],
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 076. Location context: T1.5 Cube Plinth (S07); border borrows S07-B01 (indigo canopy posts, blue wall, brass plinth trim, pale paving) — story state: towers uneven, five lights dark, moonline unlit, no completed lantern. Reading order: Example 16 question → Let’s work it through (a)(b)(c) → Now you try question → Check your method → Vihaan's aside last. Every ∛ must render with a radical whose bar spans ONLY its radicand (∛64 × 5: the bar covers 64 only; the manuscript says so). Inline equations in (a) and (b) prose (∛8 = 2, 2³ = 8, ∛125 = 5, 5³ = 125) are tagged data-math inline. Highlight the three results (10, −120, −7) as the key results of the worked example; the Now you try answers sit in a separable Check your method block after the question."
+    },
+    {
+      "page": "P077",
+      "category": "practice-set",
+      "pattern": "free composition; nearest grid T5 exercise set / T4 (hint only)",
+      "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+      "title": "Practice 1E",
+      "purpose": "teaching (practice set): Practice 1E — four question sets of four parts (cubes, cube roots, mixed expressions), each followed by its separable Check your method; 16 answer equations.",
+      "beats": [
+        "T1.5 Practice 1E 1",
+        "T1.5 Practice 1E 2",
+        "T1.5 Practice 1E 3",
+        "T1.5 Practice 1E 4"
+      ],
+      "panels": [
+        {
+          "id": "P077-1",
+          "beat": "Practice 1E 1 Evaluate",
+          "box": "builder decides",
+          "art": {
+            "kind": "none",
+            "note": "question set 1 + Check your method"
+          }
+        },
+        {
+          "id": "P077-2",
+          "beat": "Practice 1E 2 Evaluate",
+          "box": "builder decides",
+          "art": {
+            "kind": "none",
+            "note": "question set 2 + Check your method"
+          }
+        },
+        {
+          "id": "P077-3",
+          "beat": "Practice 1E 3 Evaluate",
+          "box": "builder decides",
+          "art": {
+            "kind": "none",
+            "note": "question set 3 + Check your method"
+          }
+        },
+        {
+          "id": "P077-4",
+          "beat": "Practice 1E 4 Evaluate",
+          "box": "builder decides",
+          "art": {
+            "kind": "none",
+            "note": "question set 4 + Check your method"
+          }
+        },
+        {
+          "id": "P077-5",
+          "beat": "silent companion",
+          "box": "builder decides; small, at a page edge, clear of every question",
+          "art": {
+            "kind": "reuse",
+            "item": "C-AHANA-LEAN-01",
+            "src": "FInalChangesTask/library/C-AHANA-LEAN-01.png",
+            "style": "silent; blank sketchbook held to her chest; or omit if the page is too dense"
+          },
+          "background": {
+            "record": "S07-D03",
+            "plate": "BagroundGenTask/out/plates/S07-D03.png",
+            "camera": "border materials only"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "page edge, small",
+              "action": "leans on a blue stone pillar",
+              "gaze": "the questions",
+              "expression": "focused",
+              "holding": "blank sketchbook"
+            }
+          ],
+          "captions": [],
+          "bubbles": []
+        }
+      ],
+      "teaching": [
+        {
+          "block": "T1.5",
+          "heading": "Practice 1E",
+          "text": [
+            "Here the questions mix squares, cubes and their roots. Look closely at the signs before you start: 4³ asks for a cube, while ∛64 asks for a cube root."
+          ],
+          "questions": [],
+          "equations": [],
+          "diagrams": [],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.5",
+          "heading": "1 Evaluate",
+          "questions": [
+            "(a) 8³ (b) 12³ (c) 4³ (d) 5³"
+          ],
+          "text": [
+            "Check your method",
+            "(a) 8³ = 8 × 8 × 8 = 64 × 8 = 512",
+            "(b) 12³ = 12 × 12 × 12 = 144 × 12 = 1728",
+            "(c) 4³ = 4 × 4 × 4 = 16 × 4 = 64",
+            "(d) 5³ = 5 × 5 × 5 = 25 × 5 = 125"
+          ],
+          "equations": [
+            "8³ = 8 × 8 × 8 = 64 × 8 = 512",
+            "12³ = 12 × 12 × 12 = 144 × 12 = 1728",
+            "4³ = 4 × 4 × 4 = 16 × 4 = 64",
+            "5³ = 5 × 5 × 5 = 25 × 5 = 125"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.5",
+          "heading": "2 Evaluate",
+          "questions": [
+            "(a) ∛343 (b) ∛27 (c) ∛64 (d) ∛729"
+          ],
+          "text": [
+            "Check your method",
+            "(a) ∛343 = 7 because 7 × 7 × 7 = 343",
+            "(b) ∛27 = 3 because 3 × 3 × 3 = 27",
+            "(c) ∛64 = 4 because 4 × 4 × 4 = 64",
+            "(d) ∛729 = 9 because 9 × 9 × 9 = 729"
+          ],
+          "equations": [
+            "∛343 = 7",
+            "7 × 7 × 7 = 343",
+            "∛27 = 3",
+            "3 × 3 × 3 = 27",
+            "∛64 = 4",
+            "4 × 4 × 4 = 64",
+            "∛729 = 9",
+            "9 × 9 × 9 = 729"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.5",
+          "heading": "3 Evaluate",
+          "questions": [
+            "(a) 8² + ∛27 (b) ∛729 − √25",
+            "(c) ∛125 − ∛8 + 3³ (d) 2² + 4³ × ∛8"
+          ],
+          "text": [
+            "Check your method",
+            "(a) 8² + ∛27 = 64 + 3 = 67",
+            "(b) ∛729 − √25 = 9 − 5 = 4",
+            "(c) ∛125 − ∛8 + 3³ = 5 − 2 + 27 = 3 + 27 = 30",
+            "(d) 2² + 4³ × ∛8 = 4 + 64 × 2 = 4 + 128 = 132",
+            "In (d), multiply 64 × 2 first; then add the waiting 4."
+          ],
+          "equations": [
+            "8² + ∛27 = 64 + 3 = 67",
+            "∛729 − √25 = 9 − 5 = 4",
+            "∛125 − ∛8 + 3³ = 5 − 2 + 27 = 3 + 27 = 30",
+            "2² + 4³ × ∛8 = 4 + 64 × 2 = 4 + 128 = 132"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        },
+        {
+          "block": "T1.5",
+          "heading": "4 Evaluate",
+          "questions": [
+            "(a) 7³ − ∛8 (b) √64 − ∛64",
+            "(c) 2² × 4³ − ∛512 (d) 2³ − ∛343 − ∛27"
+          ],
+          "text": [
+            "Check your method",
+            "(a) 7³ − ∛8 = 343 − 2 = 341",
+            "(b) √64 − ∛64 = 8 − 4 = 4",
+            "(c) 2² × 4³ − ∛512 = 4 × 64 − 8 = 256 − 8 = 248",
+            "(d) 2³ − ∛343 − ∛27 = 8 − 7 − 3 = 1 − 3 = −2",
+            "In (b), both roots contain 64, but their instructions differ: 8 × 8 = 64, whereas 4 × 4 × 4 = 64."
+          ],
+          "equations": [
+            "7³ − ∛8 = 343 − 2 = 341",
+            "√64 − ∛64 = 8 − 4 = 4",
+            "2² × 4³ − ∛512 = 4 × 64 − 8 = 256 − 8 = 248",
+            "2³ − ∛343 − ∛27 = 8 − 7 − 3 = 1 − 3 = −2",
+            "8 × 8 = 64",
+            "4 × 4 × 4 = 64"
+          ],
+          "diagrams": [],
+          "answers_on_page": true
+        }
+      ],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label: CHAPTER 01 - NUMBERS - PG 077. Location context: T1.5 Cube Plinth (S07); border borrows S07-D03 (low moonline: pale paving, dark silver moonline channel — UNLIT — brass joint cover, blue wall) and must differ from P076's S07-B01 band; no lit readiness lights, no completed cube/lantern. Densest page of the set (~358 words, 16 answer lines): four question cards (1–4), each question line printed before its separable 'Check your method' block; the reader must be able to cover the answers (answer blocks visually distinct, e.g. a lighter tone or fold-flap, but fully legible). Questions print WITHOUT answers. Equation lists in 'equations' are the pure expressions; the 'because …' halves of set 2 are tagged as separate inline data-math spans. 'In (d) …' and 'In (b) …' notes belong to sets 3 and 4 respectively, after their answers. Keep 14/18 pt; if it cannot fit, use 13/17 as a recorded exception rather than dropping lines. Companion optional (silent Ahana) — drop it before shrinking type."
+    },
+    {
+      "page": "P107",
+      "pattern": "free composition; nearest grid S5 (hero + reaction over a 3-beat strip)",
+      "theme": "story page, manual V09 + B1 border family (Food Street materials)",
+      "title": "",
+      "purpose": "story: Scene CH01 11E–11F, the chapter finale. The shutters rise on Food Street (a cart blocks the entrance, bowls fallen, an oversized dosa); Tez worries about dinner; Tara takes the evidence sleeve from Ahana, says “Come.”, then sets the boundary: nobody touches the serving controls.",
+      "beats": [
+        "CH01 11E A",
+        "CH01 11E B",
+        "CH01 11F A",
+        "CH01 11F B",
+        "CH01 11F C"
+      ],
+      "panels": [
+        {
+          "id": "P107-1",
+          "beat": "CH01 11E A",
+          "box": [
+            24,
+            24,
+            550,
+            330
+          ],
+          "shape": "one-sided arch: the top-left corner is a large elliptical curve (rx≈170 pt, ry≈130 pt), the raised doorway's left jamb entering from the outer edge; other corners square",
+          "art": {
+            "kind": "new",
+            "item": "P107-1",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "M03-D01",
+            "plate": "BagroundGenTask/out/plates/M03-D01.png",
+            "camera": "pulled back a few steps from the plate's camera onto the Lantern Street paving, same direction and height, so the group stands in the near foreground with the whole raised-shutter doorway and the obstructed Food Street threshold beyond"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "near foreground, screen-left edge, three-quarter back view, cropped at mid-thigh by the frame, tallest figure",
+              "action": "stands still beside the children, assessing the threshold; staff upright in her right hand",
+              "gaze": "into Food Street",
+              "expression": "grave, alert",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Ahana",
+              "position": "near foreground, left of centre, three-quarter back view, cropped at the hips",
+              "action": "stands looking in; brass work lamp held a little forward in her right hand, its warm light spilling ahead onto the paving; the paper evidence sleeve held flat in her left hand at her side",
+              "gaze": "the fallen bowls and the cart",
+              "expression": "dismayed",
+              "holding": "brass work lamp (right hand), paper evidence sleeve (left hand); navy backpack on her back"
+            },
+            {
+              "name": "Vihaan",
+              "position": "near foreground, right of centre, three-quarter back view, cropped at the hips",
+              "action": "stands looking in, one hand rising to the back of his neck",
+              "gaze": "the oversized dosa",
+              "expression": "aghast",
+              "holding": "nothing"
+            },
+            {
+              "name": "Navya",
+              "position": "near foreground, screen-right third, three-quarter back view with her profile visible, cropped at the hips",
+              "action": "stands looking in, arms folded, studying the scene",
+              "gaze": "the cart blocking the entrance",
+              "expression": "analytical",
+              "holding": "nothing"
+            }
+          ],
+          "extras": "Small, inside Food Street behind the LEFT cooking counter only: the food helper (a honey-coloured carved wooden figure with visible grain, painted eyes, round brass joints, broad wooden feet, saffron apron and ivory cap) and its two smaller wooden assistants (saffron waistbands), looking down at their work area with concern. No humans inside Food Street. The broad blue-waistcoated helper and its supply cart are behind the camera (not shown).",
+          "props_state": [
+            "Food Street shutters fully raised (rolled up inside the top of the doorway)",
+            "one crooked timber cart blocks the entrance (as in the plate)",
+            "one intact brass bowl tipped on its side, rim touching the lower-left outer edge of the nearest cart wheel; other fallen bowls nearby (as in the plate)",
+            "one oversized cooked dosa overhanging a plate far too small for it on the left counter (as in the plate)",
+            "sixteen-cup trolley with all cups empty, central two-tray table with empty trays (as in the plate)",
+            "nothing cleared, nothing repaired"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper area just right of the arch curve, from ~22% to ~70% of the width",
+              "w": 0.48,
+              "h": 0.3
+            }
+          ],
+          "captions": [
+            "Power reaches the shutters. They rise, revealing Food Street. Bowls have fallen. A cart blocks the entrance. A dosa hangs over a plate far too small to hold it."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P107-2",
+          "beat": "CH01 11E B",
+          "box": [
+            584,
+            24,
+            256,
+            330
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P107-2",
+            "size": "1024x1536"
+          },
+          "background": {
+            "record": "M03-D01",
+            "plate": "BagroundGenTask/out/plates/M03-D01.png",
+            "camera": "closer and low, at Tez's eye height on the threshold paving, looking into Food Street at a slight angle so the nearest cart wheel and the tipped bowl show beyond him at screen-right midground"
+          },
+          "characters": [
+            {
+              "name": "Tez",
+              "position": "lower half, centre-left, foreground, three-quarter view so his face is visible, head ≈ 22% of the frame height",
+              "action": "stands on four paws at the threshold, ears drooping flat to the sides, mouth open as he speaks, tail low",
+              "gaze": "the fallen bowls and the dosa ahead (screen-right)",
+              "expression": "worried, crestfallen",
+              "holding": "nothing; a few of his stripes are faded pale grey"
+            },
+            {
+              "name": "Ahana",
+              "position": "midground behind Tez, screen-left, visible from the waist up, smaller",
+              "action": "reacts, lowering the lamp a little in her right hand, evidence sleeve in her left",
+              "gaze": "Tez",
+              "expression": "sympathetic concern",
+              "holding": "brass work lamp (right), paper evidence sleeve (left)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "midground, centre-right behind Tez, smaller",
+              "action": "winces at the mess",
+              "gaze": "the cart",
+              "expression": "pained grimace",
+              "holding": "nothing"
+            },
+            {
+              "name": "Navya",
+              "position": "midground, screen-right, smaller, partly behind Vihaan",
+              "action": "reacts, hand at her chin",
+              "gaze": "the bowls",
+              "expression": "thoughtful dismay",
+              "holding": "nothing"
+            },
+            {
+              "name": "Tara",
+              "position": "background, upper-right midground, smallest of the group",
+              "action": "stands with staff in her right hand, assessing the threshold",
+              "gaze": "the serving area",
+              "expression": "grave, assessing",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "same cart, tipped bowl, fallen bowls and oversized dosa as P107-1; nothing cleared"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top-left",
+              "w": 0.62,
+              "h": 0.12
+            },
+            {
+              "for": "bubble",
+              "where": "upper area below the caption, above Tez's head, from the left edge",
+              "w": 0.8,
+              "h": 0.2
+            }
+          ],
+          "captions": [
+            "Tez’s ears drop."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Tez",
+              "text": "Please tell me he hasn’t ruined dinner.",
+              "where": "upper-left/centre, above Tez",
+              "tail_to": "Tez's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P107-3",
+          "beat": "CH01 11F A",
+          "box": [
+            24,
+            364,
+            260,
+            248
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P107-3",
+            "size": "1536x1024",
+            "crop_note": "the panel shows the centre-right of the image around the handover (object-position ≈ 62% 40%)"
+          },
+          "background": {
+            "record": "M03-D01",
+            "plate": "BagroundGenTask/out/plates/M03-D01.png",
+            "camera": "medium shot at the threshold from slightly behind Tara's right shoulder (Lantern Street side), looking towards Food Street: the crooked cart and the left cooking counter with the oversized dosa are visible beyond Tara's shoulder and behind the children"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "screen-right third, near midground, three-quarter view facing screen-left, waist-up to knees, tallest",
+              "action": "takes the paper evidence sleeve from Ahana with her LEFT hand; her RIGHT hand holds the staff upright",
+              "gaze": "the sleeve",
+              "expression": "serious, responsible",
+              "holding": "staff (right hand), evidence sleeve arriving in her left hand"
+            },
+            {
+              "name": "Ahana",
+              "position": "centre-left, midground, three-quarter view facing screen-right towards Tara",
+              "action": "releases the paper evidence sleeve into Tara's left hand with her own LEFT hand; keeps the brass work lamp in her RIGHT hand",
+              "gaze": "Tara",
+              "expression": "earnest, trusting",
+              "holding": "brass work lamp (right hand); sleeve leaving her left hand"
+            },
+            {
+              "name": "Tez",
+              "position": "at Ahana's feet, screen-left of centre, small",
+              "action": "stands close beside Ahana's legs, looking up at Tara",
+              "gaze": "Tara",
+              "expression": "subdued",
+              "holding": "nothing; faded pale-grey stripes"
+            },
+            {
+              "name": "Navya",
+              "position": "screen-left third, slightly behind Ahana",
+              "action": "listens, hands at her sides",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "nothing"
+            },
+            {
+              "name": "Vihaan",
+              "position": "screen-left edge, slightly behind Navya",
+              "action": "listens",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "nothing"
+            }
+          ],
+          "props_state": [
+            "evidence custody changes here only: the sleeve passes from Ahana's left hand to Tara's left hand",
+            "cart still obstructs the entrance; bowls remain fallen; dosa still overhangs its plate",
+            "Ahana's sketchbook and pencil stay packed in her navy backpack",
+            "the broad helper and its cart are out of frame"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top-left",
+              "w": 0.4,
+              "h": 0.18
+            },
+            {
+              "for": "bubble",
+              "where": "upper-centre to upper-right above Tara's head (used by P107-4 and P107-5, same camera)",
+              "w": 0.42,
+              "h": 0.24
+            }
+          ],
+          "captions": [
+            "Tara takes the evidence sleeve from Ahana."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P107-4",
+          "beat": "CH01 11F B",
+          "box": [
+            294,
+            364,
+            180,
+            248
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P107-4",
+            "size": "1536x1024",
+            "continuity": "item:P107-3 (same camera, background, foot positions, props)",
+            "crop_note": "the narrow panel shows Tara (object-position on Tara, ≈ 78% 35%)"
+          },
+          "background": {
+            "record": "M03-D01",
+            "plate": "BagroundGenTask/out/plates/M03-D01.png",
+            "camera": "identical to P107-3"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "identical position to P107-3",
+              "action": "keeps the sleeve securely in her LEFT hand, staff in her RIGHT; inclines her head towards the Food Street lane as she speaks the short invitation",
+              "gaze": "towards the lane (into Food Street)",
+              "expression": "calm, decisive",
+              "holding": "staff (right hand), evidence sleeve (left hand)"
+            },
+            {
+              "name": "Ahana",
+              "position": "identical position to P107-3, hands now: lamp in right, left hand empty",
+              "action": "listens",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "brass work lamp (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "identical position",
+              "action": "looks up at Tara",
+              "gaze": "Tara",
+              "expression": "subdued",
+              "holding": "nothing"
+            },
+            {
+              "name": "Navya",
+              "position": "identical position",
+              "action": "listens",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "nothing"
+            },
+            {
+              "name": "Vihaan",
+              "position": "identical position",
+              "action": "listens",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "nothing"
+            }
+          ],
+          "props_state": [
+            "the children remain on the near side of the obstructing cart",
+            "cart, bowls and dosa unchanged"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "above Tara's head",
+              "w": 0.25,
+              "h": 0.18
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Tara",
+              "text": "Come.",
+              "where": "above Tara's head",
+              "tail_to": "Tara's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P107-5",
+          "beat": "CH01 11F C",
+          "box": [
+            484,
+            364,
+            356,
+            248
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P107-5",
+            "size": "1536x1024",
+            "continuity": "item:P107-3 (same camera, background, foot positions, props)"
+          },
+          "background": {
+            "record": "M03-D01",
+            "plate": "BagroundGenTask/out/plates/M03-D01.png",
+            "camera": "identical to P107-3"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "identical position to P107-3",
+              "action": "turns her gaze from the route to the three children, chin slightly lowered, brows firm; her LEFT forearm draws the sleeve safely against her body; her RIGHT hand keeps the staff planted. She does not point.",
+              "gaze": "the three children",
+              "expression": "firm, protective",
+              "holding": "staff planted (right hand), evidence sleeve held against her body (left forearm)"
+            },
+            {
+              "name": "Ahana",
+              "position": "identical position",
+              "action": "listens, lamp in right hand",
+              "gaze": "Tara",
+              "expression": "solemn",
+              "holding": "brass work lamp (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "identical position",
+              "action": "looks up at Tara, ears still low",
+              "gaze": "Tara",
+              "expression": "subdued",
+              "holding": "nothing"
+            },
+            {
+              "name": "Navya",
+              "position": "identical position",
+              "action": "listens, nods",
+              "gaze": "Tara",
+              "expression": "serious",
+              "holding": "nothing"
+            },
+            {
+              "name": "Vihaan",
+              "position": "identical position",
+              "action": "listens, hands stilled",
+              "gaze": "Tara",
+              "expression": "serious",
+              "holding": "nothing"
+            }
+          ],
+          "props_state": [
+            "nobody touches the serving controls; the cart is not moved; nothing repaired (Chapter 02 starts with clearing the cart)"
+          ],
+          "painted_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-centre to upper-right above Tara's head",
+              "w": 0.5,
+              "h": 0.26
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Tara",
+              "text": "I’ll tell you what I know. But first, nobody touches those serving controls.",
+              "where": "upper area, near Tara",
+              "tail_to": "Tara's mouth"
+            }
+          ]
+        }
+      ],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Chapter 01 finale (last story page). Show only the threshold reveal and the existing obstruction: no recipe correction, no drink calculation, no Chapter 02 action (nobody clears the cart or touches the serving controls). No human cooks; the Gate crowd is not shown. Evidence custody changes from Ahana to Tara only in P107-3. Tez's faded stripes persist. Speaker names, production notes and 'she says' never print. No lettering in any image.\ndesign (V09): reader goal = feel the reveal, then the hand-over of responsibility. Hardest fit = P107-1's caption (5 sentences) and P107-5's two-sentence balloon. Chosen: hero reveal panel with a one-sided arch (threshold/reveal → manual p14 'arch entering from one side') beside Tez's tall reaction panel; below, a 3-beat strip from one camera (handover → 'Come.' → the boundary) whose narrow middle panel speeds the beat and whose wide last panel lets the chapter's last line land. Challenger rejected: 5 equal panels (loses the reveal's scale). Gutter: peacock teal #245857 (change of place: Food Street's teal canopies). Edge motif: Food Street canopy seam + brass post bracket (manual p15 'Canopy seam' + 'Lantern bracket'); entry accent top-left, finish bottom-right with a small hanging brass lantern.",
+      "art": {
+        "version": "S1 story (2026-11-23): manual V09 type/colour + the approved B1 page-border family, re-materialed for Food Street",
+        "idea": "Curtain up on Food Street. The last page of Chapter 01 is staged like a theatre reveal: the arched hero panel is the raised doorway itself, the page wears Food Street's colours (peacock-teal lacquer from its canopies, saffron and brass canopy seam), and the strip below slows into three quiet beats as Tara takes charge.",
+        "field": "Peacock teal #245857 page and gutters (10 pt), graded a little darker toward the trim (#183f3e). Everything you read sits on light, matte, near-white shapes: captions on warm paper #F7F1E3 tailless boxes, speech on warm ivory #FFFDF6 balloons. No dark text boxes, no glass, no busy texture behind any words.",
+        "border": {
+          "pinstripe": "0.8 pt saffron-brass #c9a24a hairline 12 pt inside the trim all round, broken at the entry ornament, at the folio and at the finish lantern.",
+          "entry": "Top-left: a brass post-bracket corner joint (L arms ≈ 46 pt, painterly brass gradient #f3d58f→#b3722f→#6e4318, one rivet) from which a canopy-seam line runs along the top margin for ≈ 300 pt: two parallel scalloped curves (1 pt saffron #e0913a over 0.6 pt brass), 5–6 shallow scallops, ending in a small curled brass terminal. Thin line art only: no filled flags, no stripes, no bunting.",
+          "finish": "Bottom-right: matching smaller bracket joint with a short return; from it hangs a small painterly brass lantern (Food Street's hanging lanterns) with a soft warm glow on the teal: the chapter's last light.",
+          "other_corners": "top-right and bottom-left: tiny plain brass corner ticks only.",
+          "folio": "bottom-centre on the band: moon-phase disc at 107/108 (almost full) + '107' in Source Sans 3 Semibold 11 pt, cream #F7F1E3.",
+          "panel_frames": "each panel: 1 pt brass #b3722f keyline + 0.5 pt inner dark line; P107-1 follows its arch with the keyline; a faint warm inner glow where Lantern Street light enters (P107-1 lower edge)."
+        },
+        "type": "Manual V09: captions = Source Serif 4 Regular 14/18 pt in pale matte tailless boxes (padding 5 pt, 0.6 pt brass hairline), ink #1d2433; speech = Source Sans 3 Semibold 14/18 pt in warm ivory balloons, 0.8 pt continuous ink outline, short tail ending in clear space before the speaker's mouth; one balloon family (P107-4 'Come.' = compact oval; P107-5 = wider, flatter 'measured explanation' shape; P107-2 Tez = compact oval). No Caveat, no display fonts, no title.",
+        "colour": "Warm gold (restored Lantern Street, behind the group) meets saffron + teal (Food Street ahead). Gutter teal is the Food Street colour; brass/saffron ornaments; captions warm paper.",
+        "delights": [
+          "the hero panel's arched corner is the raised doorway itself",
+          "the canopy-seam line along the top margin, borrowed from Food Street's saffron and teal canopies",
+          "a small brass lantern hangs at the finish corner, the chapter's last light"
+        ],
+        "varies": "vs P039 (B1: royal-blue lacquer frame, light paper field, teaching) and P005: story page, teal gutters, arch hero panel, Food Street materials.",
+        "style": "Panels painterly semi-realistic like the plates; the frame painterly brass on teal lacquer; reading shapes calm and light."
       }
-     ]
     }
-   ],
-   "teaching": [
-    {
-     "block": "T1.2B",
-     "heading": "Example 11",
-     "questions": [
-      "Salim wants to pack 171 pencils, 27 erasers and 63 pens into gift packs. Every pack must contain the same number of pencils, the same number of erasers and the same number of pens, with nothing left over. Find the greatest number of packs and the number of each item in one pack."
-     ],
-     "text": [
-      "Let’s work it through",
-      "Each kind of item must be shared equally, with none left over. So the number of packs must divide 171, 27 and 63 exactly. We want as many packs as possible: that means finding their HCF.",
-      "171 = 1 × 171 = 3 × 57 = 9 × 19",
-      "27 = 1 × 27 = 3 × 9",
-      "63 = 1 × 63 = 3 × 21 = 7 × 9",
-      "The common factors are 1, 3 and 9. The greatest is 9, so Salim can make 9 packs. Now share each kind of item among those 9 packs:",
-      "Pencils per pack: 171 ÷ 9 = 19",
-      "Erasers per pack: 27 ÷ 9 = 3",
-      "Pens per pack: 63 ÷ 9 = 7",
-      "Each pack contains 19 pencils, 3 erasers and 7 pens. Every pack has that same mixture; the numbers 19, 3 and 7 do not have to match each other. Check the pencils, for example: 9 × 19 = 171."
-     ],
-     "equations": [
-      "171 = 1 × 171 = 3 × 57 = 9 × 19",
-      "27 = 1 × 27 = 3 × 9",
-      "63 = 1 × 63 = 3 × 21 = 7 × 9",
-      "171 ÷ 9 = 19",
-      "27 ÷ 9 = 3",
-      "63 ÷ 9 = 7",
-      "9 × 19 = 171"
-     ],
-     "answers_on_page": true
-    },
-    {
-     "block": "T1.2B",
-     "heading": "Now you try",
-     "questions": [
-      "Josephine has 28 candies, 49 stickers and 35 magnets. She wants identical goodie bags with nothing left over. Find the greatest number of bags and how many of each item go in one bag."
-     ],
-     "text": [
-      "Check your method",
-      "Factors of 28: 1, 2, 4, 7, 14, 28.",
-      "Factors of 49: 1, 7, 49. Factors of 35: 1, 5, 7, 35.",
-      "The common factors are 1 and 7, so the HCF is 7. She can make 7 bags:",
-      "28 ÷ 7 = 4 candies per bag",
-      "49 ÷ 7 = 7 stickers per bag",
-      "35 ÷ 7 = 5 magnets per bag"
-     ],
-     "equations": [
-      "28 ÷ 7 = 4",
-      "49 ÷ 7 = 7",
-      "35 ÷ 7 = 5"
-     ],
-     "answers_on_page": true
-    }
-   ],
-   "asides": [],
-   "spot_art": [
-    {
-     "item": "V-TEZ-P039",
-     "kind": "vignette",
-     "desc": "Tez sitting on haunches beside the empty padded kit box on the Lantern Street projector-kit bench (S04-B01), head tilted to the reader"
-    }
-   ],
-   "notes": "Question before working: each question in its own card, its working after it; Check your method is a separable block read after the Now you try question. Print every line of src/P039.txt in order, including the three factor equations (171 = …, 27 = …, 63 = …) that the previous build omitted. Factor lists in Check your method are lists, not equations. No added text or diagrams.\ndesign (V09): reader goal = follow one complete HCF word problem, then attempt a twin. Hardest fit = Example 11 (question + 6 equation lines + 3 prose blocks) at 14/18 pt. Chosen rough: Example 11 across the top two-thirds (question card, then 'Let's work it through' in two columns: reasons + factor equations | sharing equations + conclusion, = signs aligned); bottom band: Now you try question → Check your method block → Tez grounded at bottom-right on the bench with the empty kit box, aside after the completed unit. Challenger rejected: Tez in a full-height right column (old build) — steals ~270 pt width and forces the Example into cramped columns. Gutter: midnight indigo #122A45 sliver (blue timber wall of the bench). Edge motif: brass corner cap of the padded kit box → one brass corner joint (0.9 pt) where the reader enters Example 11, short return at the end of Check your method. Colour key: deep teal traces the HCF (9 in Example 11, 7 in Check your method) through factor lines and divisions; operators and = in dark ink.\nB1 (2026-11-23): rebuild from art B1 above (V06 manuscript; P039 printable text unchanged from the earlier source). Previous A3 build kept at P039-A3-v1/ and Output/CH01/CH01-P039-A3-v1.pdf.",
-   "art": {
-    "version": "B1 'Ledger Plate' (2026-11-23, user brief: pure-maths page = calm light reading field + plate-derived border)",
-    "idea": "The page is one cream marble bench-top ledger framed by the projector-kit bench of S04-B01: the royal-blue lacquered timber wall becomes the page border, its brass kit-box corner caps lock the corners, and the banners' gold moon + star becomes the medallion. Inside: no scenery, only calm paper and the maths.",
-    "field": "Whole reading area is a flat light paper field #F7F1E3 (warm cream, matte, no texture, no backdrop image, no glass, no dark panels). Units are separated by white space and thin brass rules, plus a slightly lighter/darker tint card (#FBF7EE question card, #EFE6D2 answer block) — never a busy or dark background behind text.",
-    "border": {
-     "band": "Outer frame 16-18 pt of royal-blue lacquer (#234d95 graded to navy #122A45 at the outer edge, subtle vertical plank seams every ~60 pt as 0.5 pt darker lines), with an inner gold pinstripe 0.8 pt #c9a24a set 4 pt inside the band, then the cream field. Gutter colour shows only as this sliver (V09 §2).",
-     "corners": "Brass kit-box corner caps (SVG, painterly: gradient #f3d58f -> #b3722f -> #6e4318, a highlight edge and one rivet each) at all four corners, L-shaped, ~42 pt arms. Strongest accent where the reader enters (top-left: cap + a lantern-bracket arm, the plate's brass wall rail with its curled bracket end, running along the top margin ~240 pt, 1 pt) and where they finish (bottom-right: cap + short return). Top-right and bottom-left caps smaller/plain.",
-     "medallion": "Top-centre on the band: the banner emblem from the plate (gold disc inside a thin gold ring arc, small 4-point star below), ~26 pt, painterly gold. It breaks the pinstripe.",
-     "folio": "Bottom-centre on the band in cream Source Sans 3 Semibold 11 pt: 'ChandRush · Chapter 01 · 39' style running line is NOT in manuscript; print only the folio number 39 with the small moonclock disc (as in old build) — keep it quiet.",
-     "rules": "All rules 0.5-1.1 pt brass #b3722f. Break the pinstripe near the medallion and near Tez. Nothing decorative near the evidence may look countable (no tick/tile rows next to equations)."
-    },
-    "type": "Manual V09 exactly: teaching prose Source Sans 3 Regular 14/18 pt, ink #1d2433; subheads ('Example 11', 'Let’s work it through', 'Now you try', 'Check your method') Source Sans 3 Semibold 17-19 pt ('Example 11' 19 pt, others 16-17 pt) in navy #122A45 with a short brass rule; display equations 20-22 pt Source Sans 3 (Semibold numbers) aligned on '=' via grid; Tez's aside Source Serif 4 Regular 14/18 pt. No Big Shoulders, no Caveat on this page. Outer clearance >= 24 pt from the inner pinstripe.",
-    "maths_colour": "Deep teal #1F6F6B tracks the HCF: every 9 in Example 11, every 7 in Check your method (as divisor). Terracotta #B5603A only for the second role: the per-pack/per-bag results (19, 3, 7 / 4, 7, 5) in the sharing lines. Operators, = and other numbers dark ink. Must read in greyscale.",
-    "layout": "Top: 'Example 11' subhead then the question card (full width minus margins, pale card #FBF7EE with 0.8 pt brass rule and a small brass corner joint top-left). Middle: 'Let’s work it through' in two columns with a hairline brass divider: left = reason prose + 3 factor equations (= aligned) + 'The common factors…'; right = the 3 sharing equations as label | expression grid + closing paragraph with the check 9 × 19 = 171. Bottom band (separated by a 0.8 pt brass rule with a centred small moon dot): 'Now you try' card (left, distinct entrance: brass top-left cap) -> 'Check your method' block (centre, tinted #EFE6D2, read after) -> Tez bottom-right.",
-    "companion": "Tez from V-TEZ-P039.jpg, ~150 x 150 pt, sitting on the marble bench with the empty kit box, bottom-right inside the frame. Mask the vignette with an irregular soft fade (CSS mask-image radial/blob gradients) so its outside dissolves into the exact paper #F7F1E3 — no oval, no white/blue halo left. Bench edge contact kept. Aside bubble 'I like “nothing left over”. Especially at dinner.' above him: warm ivory #FFFDF6, 0.8 pt ink outline, short tail ending just before his mouth.",
-    "drop": "No backdrop scene, no glass panels, no pencil/eraser/pen pictograms, no 9-box rack, no 7 pouches (they are counted decoration near evidence and add busyness). The art is the frame + Tez.",
-    "delights": [
-     "the brass lantern-bracket arm along the top margin, borrowed from the bench's wall rail",
-     "the banner moon + star medallion at top-centre",
-     "Tez's empty kit box: nothing left over"
-    ],
-    "varies": "vs P005 (dark cinema stage): this page is light paper with a lacquer frame — the 'quiet worksheet' register of the family.",
-    "style": "Frame materials painterly (gradients + highlight) like the plate; the field flat and calm."
-   },
-   "art_a3_v1": {
-    "idea": "The gift-pack stock room, logged in a mission file. Salim's problem hangs as a cargo tag from an etched brass 'Example 11' nameplate; the working is in the crew's field notebook; the answer, 9 identical packages, sits in a brass-and-glass display rack lit like a museum case; Josephine's twin problem is a VIP pass; its method sits under a sealed answer panel; Tez watches from a carved jharokha.",
-    "stage": "stage-planks (alias stage-jali): the royal-blue lacquered stall wall of S04-B01",
-    "ornament": ".trim-band (banner moon + star) across the top; brass corner caps (.hud) on the display rack",
-    "hero": "the display rack: royal lacquer and brass shelving, lamp-lit, holding EXACTLY 9 identical kit boxes drawn like the plate's own (royal-blue lacquered boxes with brass corner caps and a cream band), brass corner caps locked onto it",
-    "objects": {
-     "title": ".nameplate 'Example 11' (top-left)",
-     "question": ".tag (cargo tag) for Salim's question, brass-wire/twine line from its eyelet to the nameplate",
-     "working": ".ledger field notebook (+ .bookmark) with .label + ico i-pencil ink 'Let’s work it through'; keep the two-column = alignment and royal-blue 9s",
-     "now you try": ".ticket (VIP pass) with .stub ico i-ticket, heading as .label.ember 'Now you try'",
-     "answers": ".flap with .seal (ico i-key ink), .label.royal 'Check your method', the factor lists, HCF prose, ÷ 7 lines, then EXACTLY 7 identical goodie bags drawn as deep-blue or maroon velvet pouches with gold cords, painterly",
-     "aside": ".say.aside (Caveat) above Tez's window"
-    },
-    "illustrate": "9 packages in the rack (after Salim's question); 7 pouches inside the flap after the ÷ 7 lines. Exact counts, no numbers on them.",
-    "companion": "Tez in the .jharokha bottom-right (keep), aside bubble tail to his mouth. Remove the paw trail.",
-    "colour": "A3 plate family: royal planks + brass; lamp-gold glow on the rack; copper/maroon accent on 'Now you try'; royal .mt (#1f4f9a) tracks the HCF (9, then 7).",
-    "delights": [
-     "brass corner caps lock onto the rack of 9 boxes: answer found",
-     "a pool of warm lamp light falls across the rack",
-     "Tez's kit box stays empty: nothing left over"
-    ],
-    "folio": "moonclock --t 0.364 bottom-centre",
-    "varies": "jali stage + jali-band + nameplate, vs P005's cinema stage + deco-frame + lightstring",
-    "style": "A3 'Lantern Street': same palette, materials and painterly light as the location plates (S04-B01, S03-B01)."
-   }
-  },
-  {
-   "page": "P107",
-   "pattern": "free composition; nearest grid S5 (hero + reaction over a 3-beat strip)",
-   "theme": "story page, manual V09 + B1 border family (Food Street materials)",
-   "title": "",
-   "purpose": "story: Scene CH01 11E–11F, the chapter finale. The shutters rise on Food Street (a cart blocks the entrance, bowls fallen, an oversized dosa); Tez worries about dinner; Tara takes the evidence sleeve from Ahana, says “Come.”, then sets the boundary: nobody touches the serving controls.",
-   "beats": [
-    "CH01 11E A",
-    "CH01 11E B",
-    "CH01 11F A",
-    "CH01 11F B",
-    "CH01 11F C"
-   ],
-   "panels": [
-    {
-     "id": "P107-1",
-     "beat": "CH01 11E A",
-     "box": [
-      24,
-      24,
-      550,
-      330
-     ],
-     "shape": "one-sided arch: the top-left corner is a large elliptical curve (rx≈170 pt, ry≈130 pt), the raised doorway's left jamb entering from the outer edge; other corners square",
-     "art": {
-      "kind": "new",
-      "item": "P107-1",
-      "size": "1536x1024"
-     },
-     "background": {
-      "record": "M03-D01",
-      "plate": "BagroundGenTask/out/plates/M03-D01.png",
-      "camera": "pulled back a few steps from the plate's camera onto the Lantern Street paving, same direction and height, so the group stands in the near foreground with the whole raised-shutter doorway and the obstructed Food Street threshold beyond"
-     },
-     "characters": [
-      {
-       "name": "Tara",
-       "position": "near foreground, screen-left edge, three-quarter back view, cropped at mid-thigh by the frame, tallest figure",
-       "action": "stands still beside the children, assessing the threshold; staff upright in her right hand",
-       "gaze": "into Food Street",
-       "expression": "grave, alert",
-       "holding": "staff (right hand)"
-      },
-      {
-       "name": "Ahana",
-       "position": "near foreground, left of centre, three-quarter back view, cropped at the hips",
-       "action": "stands looking in; brass work lamp held a little forward in her right hand, its warm light spilling ahead onto the paving; the paper evidence sleeve held flat in her left hand at her side",
-       "gaze": "the fallen bowls and the cart",
-       "expression": "dismayed",
-       "holding": "brass work lamp (right hand), paper evidence sleeve (left hand); navy backpack on her back"
-      },
-      {
-       "name": "Vihaan",
-       "position": "near foreground, right of centre, three-quarter back view, cropped at the hips",
-       "action": "stands looking in, one hand rising to the back of his neck",
-       "gaze": "the oversized dosa",
-       "expression": "aghast",
-       "holding": "nothing"
-      },
-      {
-       "name": "Navya",
-       "position": "near foreground, screen-right third, three-quarter back view with her profile visible, cropped at the hips",
-       "action": "stands looking in, arms folded, studying the scene",
-       "gaze": "the cart blocking the entrance",
-       "expression": "analytical",
-       "holding": "nothing"
-      }
-     ],
-     "extras": "Small, inside Food Street behind the LEFT cooking counter only: the food helper (a honey-coloured carved wooden figure with visible grain, painted eyes, round brass joints, broad wooden feet, saffron apron and ivory cap) and its two smaller wooden assistants (saffron waistbands), looking down at their work area with concern. No humans inside Food Street. The broad blue-waistcoated helper and its supply cart are behind the camera (not shown).",
-     "props_state": [
-      "Food Street shutters fully raised (rolled up inside the top of the doorway)",
-      "one crooked timber cart blocks the entrance (as in the plate)",
-      "one intact brass bowl tipped on its side, rim touching the lower-left outer edge of the nearest cart wheel; other fallen bowls nearby (as in the plate)",
-      "one oversized cooked dosa overhanging a plate far too small for it on the left counter (as in the plate)",
-      "sixteen-cup trolley with all cups empty, central two-tray table with empty trays (as in the plate)",
-      "nothing cleared, nothing repaired"
-     ],
-     "painted_text": [],
-     "reserve": [
-      {
-       "for": "caption",
-       "where": "upper area just right of the arch curve, from ~22% to ~70% of the width",
-       "w": 0.48,
-       "h": 0.3
-      }
-     ],
-     "captions": [
-      "Power reaches the shutters. They rise, revealing Food Street. Bowls have fallen. A cart blocks the entrance. A dosa hangs over a plate far too small to hold it."
-     ],
-     "bubbles": []
-    },
-    {
-     "id": "P107-2",
-     "beat": "CH01 11E B",
-     "box": [
-      584,
-      24,
-      256,
-      330
-     ],
-     "art": {
-      "kind": "new",
-      "item": "P107-2",
-      "size": "1024x1536"
-     },
-     "background": {
-      "record": "M03-D01",
-      "plate": "BagroundGenTask/out/plates/M03-D01.png",
-      "camera": "closer and low, at Tez's eye height on the threshold paving, looking into Food Street at a slight angle so the nearest cart wheel and the tipped bowl show beyond him at screen-right midground"
-     },
-     "characters": [
-      {
-       "name": "Tez",
-       "position": "lower half, centre-left, foreground, three-quarter view so his face is visible, head ≈ 22% of the frame height",
-       "action": "stands on four paws at the threshold, ears drooping flat to the sides, mouth open as he speaks, tail low",
-       "gaze": "the fallen bowls and the dosa ahead (screen-right)",
-       "expression": "worried, crestfallen",
-       "holding": "nothing; a few of his stripes are faded pale grey"
-      },
-      {
-       "name": "Ahana",
-       "position": "midground behind Tez, screen-left, visible from the waist up, smaller",
-       "action": "reacts, lowering the lamp a little in her right hand, evidence sleeve in her left",
-       "gaze": "Tez",
-       "expression": "sympathetic concern",
-       "holding": "brass work lamp (right), paper evidence sleeve (left)"
-      },
-      {
-       "name": "Vihaan",
-       "position": "midground, centre-right behind Tez, smaller",
-       "action": "winces at the mess",
-       "gaze": "the cart",
-       "expression": "pained grimace",
-       "holding": "nothing"
-      },
-      {
-       "name": "Navya",
-       "position": "midground, screen-right, smaller, partly behind Vihaan",
-       "action": "reacts, hand at her chin",
-       "gaze": "the bowls",
-       "expression": "thoughtful dismay",
-       "holding": "nothing"
-      },
-      {
-       "name": "Tara",
-       "position": "background, upper-right midground, smallest of the group",
-       "action": "stands with staff in her right hand, assessing the threshold",
-       "gaze": "the serving area",
-       "expression": "grave, assessing",
-       "holding": "staff (right hand)"
-      }
-     ],
-     "props_state": [
-      "same cart, tipped bowl, fallen bowls and oversized dosa as P107-1; nothing cleared"
-     ],
-     "painted_text": [],
-     "reserve": [
-      {
-       "for": "caption",
-       "where": "top-left",
-       "w": 0.62,
-       "h": 0.12
-      },
-      {
-       "for": "bubble",
-       "where": "upper area below the caption, above Tez's head, from the left edge",
-       "w": 0.8,
-       "h": 0.2
-      }
-     ],
-     "captions": [
-      "Tez’s ears drop."
-     ],
-     "bubbles": [
-      {
-       "speaker": "Tez",
-       "text": "Please tell me he hasn’t ruined dinner.",
-       "where": "upper-left/centre, above Tez",
-       "tail_to": "Tez's mouth"
-      }
-     ]
-    },
-    {
-     "id": "P107-3",
-     "beat": "CH01 11F A",
-     "box": [
-      24,
-      364,
-      260,
-      248
-     ],
-     "art": {
-      "kind": "new",
-      "item": "P107-3",
-      "size": "1536x1024",
-      "crop_note": "the panel shows the centre-right of the image around the handover (object-position ≈ 62% 40%)"
-     },
-     "background": {
-      "record": "M03-D01",
-      "plate": "BagroundGenTask/out/plates/M03-D01.png",
-      "camera": "medium shot at the threshold from slightly behind Tara's right shoulder (Lantern Street side), looking towards Food Street: the crooked cart and the left cooking counter with the oversized dosa are visible beyond Tara's shoulder and behind the children"
-     },
-     "characters": [
-      {
-       "name": "Tara",
-       "position": "screen-right third, near midground, three-quarter view facing screen-left, waist-up to knees, tallest",
-       "action": "takes the paper evidence sleeve from Ahana with her LEFT hand; her RIGHT hand holds the staff upright",
-       "gaze": "the sleeve",
-       "expression": "serious, responsible",
-       "holding": "staff (right hand), evidence sleeve arriving in her left hand"
-      },
-      {
-       "name": "Ahana",
-       "position": "centre-left, midground, three-quarter view facing screen-right towards Tara",
-       "action": "releases the paper evidence sleeve into Tara's left hand with her own LEFT hand; keeps the brass work lamp in her RIGHT hand",
-       "gaze": "Tara",
-       "expression": "earnest, trusting",
-       "holding": "brass work lamp (right hand); sleeve leaving her left hand"
-      },
-      {
-       "name": "Tez",
-       "position": "at Ahana's feet, screen-left of centre, small",
-       "action": "stands close beside Ahana's legs, looking up at Tara",
-       "gaze": "Tara",
-       "expression": "subdued",
-       "holding": "nothing; faded pale-grey stripes"
-      },
-      {
-       "name": "Navya",
-       "position": "screen-left third, slightly behind Ahana",
-       "action": "listens, hands at her sides",
-       "gaze": "Tara",
-       "expression": "attentive",
-       "holding": "nothing"
-      },
-      {
-       "name": "Vihaan",
-       "position": "screen-left edge, slightly behind Navya",
-       "action": "listens",
-       "gaze": "Tara",
-       "expression": "attentive",
-       "holding": "nothing"
-      }
-     ],
-     "props_state": [
-      "evidence custody changes here only: the sleeve passes from Ahana's left hand to Tara's left hand",
-      "cart still obstructs the entrance; bowls remain fallen; dosa still overhangs its plate",
-      "Ahana's sketchbook and pencil stay packed in her navy backpack",
-      "the broad helper and its cart are out of frame"
-     ],
-     "painted_text": [],
-     "reserve": [
-      {
-       "for": "caption",
-       "where": "top-left",
-       "w": 0.4,
-       "h": 0.18
-      },
-      {
-       "for": "bubble",
-       "where": "upper-centre to upper-right above Tara's head (used by P107-4 and P107-5, same camera)",
-       "w": 0.42,
-       "h": 0.24
-      }
-     ],
-     "captions": [
-      "Tara takes the evidence sleeve from Ahana."
-     ],
-     "bubbles": []
-    },
-    {
-     "id": "P107-4",
-     "beat": "CH01 11F B",
-     "box": [
-      294,
-      364,
-      180,
-      248
-     ],
-     "art": {
-      "kind": "new",
-      "item": "P107-4",
-      "size": "1536x1024",
-      "continuity": "item:P107-3 (same camera, background, foot positions, props)",
-      "crop_note": "the narrow panel shows Tara (object-position on Tara, ≈ 78% 35%)"
-     },
-     "background": {
-      "record": "M03-D01",
-      "plate": "BagroundGenTask/out/plates/M03-D01.png",
-      "camera": "identical to P107-3"
-     },
-     "characters": [
-      {
-       "name": "Tara",
-       "position": "identical position to P107-3",
-       "action": "keeps the sleeve securely in her LEFT hand, staff in her RIGHT; inclines her head towards the Food Street lane as she speaks the short invitation",
-       "gaze": "towards the lane (into Food Street)",
-       "expression": "calm, decisive",
-       "holding": "staff (right hand), evidence sleeve (left hand)"
-      },
-      {
-       "name": "Ahana",
-       "position": "identical position to P107-3, hands now: lamp in right, left hand empty",
-       "action": "listens",
-       "gaze": "Tara",
-       "expression": "attentive",
-       "holding": "brass work lamp (right hand)"
-      },
-      {
-       "name": "Tez",
-       "position": "identical position",
-       "action": "looks up at Tara",
-       "gaze": "Tara",
-       "expression": "subdued",
-       "holding": "nothing"
-      },
-      {
-       "name": "Navya",
-       "position": "identical position",
-       "action": "listens",
-       "gaze": "Tara",
-       "expression": "attentive",
-       "holding": "nothing"
-      },
-      {
-       "name": "Vihaan",
-       "position": "identical position",
-       "action": "listens",
-       "gaze": "Tara",
-       "expression": "attentive",
-       "holding": "nothing"
-      }
-     ],
-     "props_state": [
-      "the children remain on the near side of the obstructing cart",
-      "cart, bowls and dosa unchanged"
-     ],
-     "painted_text": [],
-     "reserve": [
-      {
-       "for": "bubble",
-       "where": "above Tara's head",
-       "w": 0.25,
-       "h": 0.18
-      }
-     ],
-     "captions": [],
-     "bubbles": [
-      {
-       "speaker": "Tara",
-       "text": "Come.",
-       "where": "above Tara's head",
-       "tail_to": "Tara's mouth"
-      }
-     ]
-    },
-    {
-     "id": "P107-5",
-     "beat": "CH01 11F C",
-     "box": [
-      484,
-      364,
-      356,
-      248
-     ],
-     "art": {
-      "kind": "new",
-      "item": "P107-5",
-      "size": "1536x1024",
-      "continuity": "item:P107-3 (same camera, background, foot positions, props)"
-     },
-     "background": {
-      "record": "M03-D01",
-      "plate": "BagroundGenTask/out/plates/M03-D01.png",
-      "camera": "identical to P107-3"
-     },
-     "characters": [
-      {
-       "name": "Tara",
-       "position": "identical position to P107-3",
-       "action": "turns her gaze from the route to the three children, chin slightly lowered, brows firm; her LEFT forearm draws the sleeve safely against her body; her RIGHT hand keeps the staff planted. She does not point.",
-       "gaze": "the three children",
-       "expression": "firm, protective",
-       "holding": "staff planted (right hand), evidence sleeve held against her body (left forearm)"
-      },
-      {
-       "name": "Ahana",
-       "position": "identical position",
-       "action": "listens, lamp in right hand",
-       "gaze": "Tara",
-       "expression": "solemn",
-       "holding": "brass work lamp (right hand)"
-      },
-      {
-       "name": "Tez",
-       "position": "identical position",
-       "action": "looks up at Tara, ears still low",
-       "gaze": "Tara",
-       "expression": "subdued",
-       "holding": "nothing"
-      },
-      {
-       "name": "Navya",
-       "position": "identical position",
-       "action": "listens, nods",
-       "gaze": "Tara",
-       "expression": "serious",
-       "holding": "nothing"
-      },
-      {
-       "name": "Vihaan",
-       "position": "identical position",
-       "action": "listens, hands stilled",
-       "gaze": "Tara",
-       "expression": "serious",
-       "holding": "nothing"
-      }
-     ],
-     "props_state": [
-      "nobody touches the serving controls; the cart is not moved; nothing repaired (Chapter 02 starts with clearing the cart)"
-     ],
-     "painted_text": [],
-     "reserve": [
-      {
-       "for": "bubble",
-       "where": "upper-centre to upper-right above Tara's head",
-       "w": 0.5,
-       "h": 0.26
-      }
-     ],
-     "captions": [],
-     "bubbles": [
-      {
-       "speaker": "Tara",
-       "text": "I’ll tell you what I know. But first, nobody touches those serving controls.",
-       "where": "upper area, near Tara",
-       "tail_to": "Tara's mouth"
-      }
-     ]
-    }
-   ],
-   "teaching": [],
-   "asides": [],
-   "spot_art": [],
-   "notes": "Chapter 01 finale (last story page). Show only the threshold reveal and the existing obstruction: no recipe correction, no drink calculation, no Chapter 02 action (nobody clears the cart or touches the serving controls). No human cooks; the Gate crowd is not shown. Evidence custody changes from Ahana to Tara only in P107-3. Tez's faded stripes persist. Speaker names, production notes and 'she says' never print. No lettering in any image.\ndesign (V09): reader goal = feel the reveal, then the hand-over of responsibility. Hardest fit = P107-1's caption (5 sentences) and P107-5's two-sentence balloon. Chosen: hero reveal panel with a one-sided arch (threshold/reveal → manual p14 'arch entering from one side') beside Tez's tall reaction panel; below, a 3-beat strip from one camera (handover → 'Come.' → the boundary) whose narrow middle panel speeds the beat and whose wide last panel lets the chapter's last line land. Challenger rejected: 5 equal panels (loses the reveal's scale). Gutter: peacock teal #245857 (change of place: Food Street's teal canopies). Edge motif: Food Street canopy seam + brass post bracket (manual p15 'Canopy seam' + 'Lantern bracket'); entry accent top-left, finish bottom-right with a small hanging brass lantern.",
-   "art": {
-    "version": "S1 story (2026-11-23): manual V09 type/colour + the approved B1 page-border family, re-materialed for Food Street",
-    "idea": "Curtain up on Food Street. The last page of Chapter 01 is staged like a theatre reveal: the arched hero panel is the raised doorway itself, the page wears Food Street's colours (peacock-teal lacquer from its canopies, saffron and brass canopy seam), and the strip below slows into three quiet beats as Tara takes charge.",
-    "field": "Peacock teal #245857 page and gutters (10 pt), graded a little darker toward the trim (#183f3e). Everything you read sits on light, matte, near-white shapes: captions on warm paper #F7F1E3 tailless boxes, speech on warm ivory #FFFDF6 balloons. No dark text boxes, no glass, no busy texture behind any words.",
-    "border": {
-     "pinstripe": "0.8 pt saffron-brass #c9a24a hairline 12 pt inside the trim all round, broken at the entry ornament, at the folio and at the finish lantern.",
-     "entry": "Top-left: a brass post-bracket corner joint (L arms ≈ 46 pt, painterly brass gradient #f3d58f→#b3722f→#6e4318, one rivet) from which a canopy-seam line runs along the top margin for ≈ 300 pt: two parallel scalloped curves (1 pt saffron #e0913a over 0.6 pt brass), 5–6 shallow scallops, ending in a small curled brass terminal. Thin line art only: no filled flags, no stripes, no bunting.",
-     "finish": "Bottom-right: matching smaller bracket joint with a short return; from it hangs a small painterly brass lantern (Food Street's hanging lanterns) with a soft warm glow on the teal: the chapter's last light.",
-     "other_corners": "top-right and bottom-left: tiny plain brass corner ticks only.",
-     "folio": "bottom-centre on the band: moon-phase disc at 107/108 (almost full) + '107' in Source Sans 3 Semibold 11 pt, cream #F7F1E3.",
-     "panel_frames": "each panel: 1 pt brass #b3722f keyline + 0.5 pt inner dark line; P107-1 follows its arch with the keyline; a faint warm inner glow where Lantern Street light enters (P107-1 lower edge)."
-    },
-    "type": "Manual V09: captions = Source Serif 4 Regular 14/18 pt in pale matte tailless boxes (padding 5 pt, 0.6 pt brass hairline), ink #1d2433; speech = Source Sans 3 Semibold 14/18 pt in warm ivory balloons, 0.8 pt continuous ink outline, short tail ending in clear space before the speaker's mouth; one balloon family (P107-4 'Come.' = compact oval; P107-5 = wider, flatter 'measured explanation' shape; P107-2 Tez = compact oval). No Caveat, no display fonts, no title.",
-    "colour": "Warm gold (restored Lantern Street, behind the group) meets saffron + teal (Food Street ahead). Gutter teal is the Food Street colour; brass/saffron ornaments; captions warm paper.",
-    "delights": [
-     "the hero panel's arched corner is the raised doorway itself",
-     "the canopy-seam line along the top margin, borrowed from Food Street's saffron and teal canopies",
-     "a small brass lantern hangs at the finish corner, the chapter's last light"
-    ],
-    "varies": "vs P039 (B1: royal-blue lacquer frame, light paper field, teaching) and P005: story page, teal gutters, arch hero panel, Food Street materials.",
-    "style": "Panels painterly semi-realistic like the plates; the frame painterly brass on teal lacquer; reading shapes calm and light."
-   }
-  }
- ]
+  ]
 }
