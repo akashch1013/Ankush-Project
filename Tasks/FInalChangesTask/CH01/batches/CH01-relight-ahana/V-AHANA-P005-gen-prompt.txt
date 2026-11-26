@@ -1,0 +1,10 @@
+Use case: ChandRush CH01 character vignette V-AHANA-P005 (a large companion figure on a comic page, so it must be sharp, clean-edged and detailed at full resolution).
+Asset: one portrait 2:3 character vignette illustration of Ahana, no lettering of any kind.
+Input images:
+- Image 1: character sheet of Ahana. Use ONLY for identity: face, curly dark hair, skin tone, body proportions, outfit and colours (teal jacket, coral-orange tee, charcoal cargo pants, navy backpack with brass buckles). Ignore the sheet's layout, turnarounds, background, labels and all text.
+- Image 2: pose and idea reference only (a soft, low-resolution earlier version): same pose, same idea. Do not copy its blur or blockiness; redraw everything crisply.
+Character and pose: Ahana alone, three-quarter view from the waist up, leaning her left shoulder and forearm on the brass-capped top of a short blue stone pillar at the left (royal-blue lacquered stone, thin gold pinstripe, brass cap), head tilted slightly, a warm closed-mouth smile, looking at the viewer. She hugs a blank cream spiral-bound sketchbook to her chest with both arms, a small pencil in her hand; the sketchbook cover is plain cream with only a tiny teal leaf mark, no words, no letters. Navy backpack straps visible over her shoulders. Plain coral tee with no printed words. Exactly 2 hands, 5 fingers each, natural.
+Light: soft cool moonlight with gentle silver rim light; the finish of the ChandRush character sheets: premium semi-realistic painterly 2.5D graphic-novel illustration, crisp clean edges, fine hair detail.
+Composition: figure and pillar fully inside the central 80% of the frame, the pillar cut only by the bottom edge, head not touching the top.
+Background: one perfectly flat solid pure magenta (#FF00FF) background filling everything else, no gradient, no shadow on it, no floor, no texture, so it can be cut out cleanly. No magenta anywhere on the figure.
+Do not show: any speech bubble, caption, title, label, text, letters, numbers, watermark or signature; extra characters; extra hands; extra objects.
