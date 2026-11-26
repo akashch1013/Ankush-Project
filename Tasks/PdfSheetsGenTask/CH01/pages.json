@@ -106,7 +106,34 @@
       "teaching": [],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 001 (LESSONS 2026-11-25). Title prints before the caption in reading order. Wonder limited by darkness: keep the street deep, the lamp pool small and warm. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: this exact cart/handle geometry is reused by P002 (Tez walks into the same handle) and P003 (cart stays parked behind their approach). Equipment details too distant to reveal solutions. Lower-store helper not visible."
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 001 (LESSONS 2026-11-25). Title prints before the caption in reading order. Wonder limited by darkness: keep the street deep, the lamp pool small and warm. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: this exact cart/handle geometry is reused by P002 (Tez walks into the same handle) and P003 (cart stays parked behind their approach). Equipment details too distant to reveal solutions. Lower-store helper not visible.",
+      "art": {
+        "idea": "CATEGORY MODEL: opener = a threshold. The page is the Entry Court arch: the reader steps through it into the dark street with the crew. One big image, one title, one caption, nothing else; the emptiness of the unlit street is the drama.",
+        "structure": "Deep indigo-to-midnight page, radial gradation (lighter plum-indigo #1d2a5c behind the arch, #0a1126 at the corners, a faint warm bloom low-centre where the lamp pool sits). Hero panel P001-1 [48,104,768,512] is cut as a gate arch: slightly pointed top, springing at ~1/3 height, edge = thin brass pinstripe 1.1pt inside a royal-blue lacquer voussoir band ~10pt wide, brass keystone at the apex carrying the gold moon-and-star medallion from the banners. Title sits ABOVE the arch in the dark spandrel zone (y 24-96), centred; narrator caption sits INSIDE the arch panel at the bottom on the lit paving.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/M01-D01.png",
+          "grade": "story grade: night, cool indigo, only the lamp pool warm gold; main arches stay dark; keep painted objects as they are (parked cart + sloping handle left untouched for P002 continuity); no mirror",
+          "mirror": false,
+          "blank": [],
+          "crop": "none beyond the arch mask; the arch mask cuts the top corners only"
+        },
+        "panes": {
+          "title": "no glass: 'The Street That Would Not Light' in Big Shoulders-style poster caps is NOT allowed (manual V09 fonts only): use Source Sans 3 Semibold/Serif 4 display caps ~40pt, warm brass #f6dca0 with a soft lamp glow, tracked +4%, centred over the arch. Reading order: title first, then caption.",
+          "caption": "light matte caption box (cream #F7F1E3 at 94%, ink #121a33, Source Serif 4 14/18) bottom-left inside the arch on the paving/reflection, ~300x70pt, 1pt brass hairline, clear of faces and of the lamp pool's brightest centre; the tail-less box is anchored to the arch's lower-left corner",
+          "bubbles": "none on this page"
+        },
+        "hero": "The arch-framed street: five silhouettes on pale reflective paving, lamp pool the only warm light, lane stretching away into dark arches.",
+        "border": "B1 family, Lantern Street materials: thin brass pinstripe at 20pt from trim with brass corner caps (quarter-moon cut), a royal-blue lacquer rail only on the bottom edge, and a dark unlit brass lantern hanging from a bracket on the top-right corner (it lights up at the chapter's end: story-tied). Gate effect = the arch itself plus a faint arch-shaped light bloom (radial gradient) behind it on the page.",
+        "cast": "Ahana, Tez, Vihaan, Navya, Tara exactly as in the planned art: seen from behind/three-quarters, entering FROM the arch edge toward the dark lane (the whole group walks into the page). Tez is the small figure on the cart-handle line, paving still between him and the wood.",
+        "colour": "cool indigo/midnight against one warm gold lamp pool: the only warmth on the page is the lamp, the title brass and the folio coin.",
+        "delights": [
+          "the lamp pool reflects on the wet-looking pale paving, a soft gold streak that runs down toward the reader through the arch's base",
+          "the brass lantern in the top-right of the border hangs dark: a promise for the end of the chapter",
+          "a thin star dust of tiny gold specks only inside the arch's spandrel gradient, very faint (no countable stars)"
+        ],
+        "folio": "brass-coin folio bottom-right with moon at the phase 1/108 (a sliver); label `CHAPTER 01 - NUMBERS - PG 001` in small tracked caps, brass on the lower border rail, left of the folio coin",
+        "varies": "only page with an arch-cut hero, centred title and deep radial indigo; no balloons. Differs from P002 (full-width strips, royal blue lacquer, no title)."
+      }
     },
     {
       "page": "P002",
@@ -349,7 +376,35 @@
       "teaching": [],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 002 (LESSONS 2026-11-25). Balloons and captions sit on the art; gutters 6-10 pt (LESSONS 2026-11-25). In 002.02 Ahana's bubble reads first, then Tez's; tails to mouths without covering eyes. No comic injury. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: the SAME cart and handle as P001 (M01-D01), camera always on the open-lane side; next page P003 the group turns to the lift on the left wall, cart stays parked behind them."
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 002 (LESSONS 2026-11-25). Balloons and captions sit on the art; gutters 6-10 pt (LESSONS 2026-11-25). In 002.02 Ahana's bubble reads first, then Tez's; tails to mouths without covering eyes. No comic injury. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: the SAME cart and handle as P001 (M01-D01), camera always on the open-lane side; next page P003 the group turns to the lift on the left wall, cart stays parked behind them.",
+      "art": {
+        "idea": "CATEGORY MODEL: action-story = a fast comic beat read in one sweep: bump, check, joke. A wide cinematic strip sets the gag, two panels below pay it off. The lamp is the clock: its pool grows as Ahana lifts it, and its light spills across the gutter.",
+        "structure": "Grid as planned: P002-1 wide strip [24,24,816,262]; below it P002-2 [24,294,470,330] and P002-3 [502,294,338,330]; gutters 8pt, panel corners square with a 1pt brass hairline, 2pt lacquer-blue inner rule. Page ground: midnight royal blue (#0c1933 to #173a74 gradation, lighter near the top-right) with a faint gold pinstripe at 12pt from trim and brass corner caps; no extra frame box so the panels own the page. Reading order: 1 caption, 2 Ahana, 2 Tez, caption, 3 Ahana.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/M01-D01.png",
+          "grade": "night street; lamp-warm pool around Tez and the handle tip, cool indigo elsewhere; from panel 1 to 3 the warm pool widens a little (lamp raised)",
+          "mirror": false,
+          "blank": [],
+          "crop": "as the plan (panel 1 wide strip, action in the middle 60%)"
+        },
+        "panes": {
+          "P002-1 caption": "light matte caption box upper-right over the dark wall above the cart body, ~230x44pt, Source Serif 4 14/18 ink on cream",
+          "P002-2 caption": "light matte box lower strip of the panel over the paving, clear of faces",
+          "P002-2 bubbles": "white speech balloons ON the art: Ahana's 'Are you all right?' upper-left over the dark wall, Tez's 'I knew that was there.' mid-left, stacked so Ahana's reads first; tails point to mouths, never over eyes",
+          "P002-3 bubble": "white balloon 'I was asking the cart.' upper-left over the dark stone, tail to Ahana's mouth"
+        },
+        "hero": "Tez with his forehead against the cart handle, lamp light on his navy scarf and moon clasp: the comic instant at cub-eye height.",
+        "border": "gold pinstripe + brass corner caps in royal-blue lacquer family; the cart's brass hub-lamp bracket detail is NOT copied; a small unlit lantern hangs from the top-left bracket arm (kept small, different corner from P001).",
+        "cast": "Tez enters from the left edge in profile (panel 1); Ahana enters from the left as only a shoe/shin (panel 1), steps fully in for panel 2 with the lamp raised; Vihaan, Navya and Tara appear behind the lamp light. Different entrance from P001's group-from-behind walk.",
+        "colour": "royal blue and midnight with warm lamp gold only on the characters' side of the action; cool moon-blue on the far arches.",
+        "delights": [
+          "the lamp light spills over the gutter: a soft gold bloom from panel 2 crosses into the strip above (CSS radial, 10pt)",
+          "Tez's moon clasp catches one tiny sparkle in panel 2 (wordless)",
+          "panel 3 is the quietest: the same cart, a little darker, the lamp now held higher so the handle shadow is a long diagonal"
+        ],
+        "folio": "brass-coin folio, moon 2/108; label `CHAPTER 01 - NUMBERS - PG 002` in small tracked caps, brass on the lower border rail, left of the folio coin",
+        "varies": "opposite of P001: wide strip + two panels, balloons on art, no title, royal blue lacquer ground; cast steps in from the left rather than away from the camera."
+      }
     },
     {
       "page": "P004",
@@ -704,7 +759,38 @@
       "teaching": [],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 004 (LESSONS 2026-11-25). Dialogue-heavy page: every caption and balloon sits ON the art (no gutter boxes), gutters 6-10 pt; keep boxes off faces; reading order = manuscript order. Both P004-1 caption paragraphs belong to the one establishing visual. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: P003 Tara turned up the fixed lamp beside the lift (lit); the helper and supply cart are still below at −8 (not visible); car at 0; do not show −5/−3 in slots, the hidden −2 card, the lower wheels or a route arrow. Next page P005 opens the teaching on numbers below zero."
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 004 (LESSONS 2026-11-25). Dialogue-heavy page: every caption and balloon sits ON the art (no gutter boxes), gutters 6-10 pt; keep boxes off faces; reading order = manuscript order. Both P004-1 caption paragraphs belong to the one establishing visual. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: P003 Tara turned up the fixed lamp beside the lift (lit); the helper and supply cart are still below at −8 (not visible); car at 0; do not show −5/−3 in slots, the hidden −2 card, the lower wheels or a route arrow. Next page P005 opens the teaching on numbers below zero.",
+      "art": {
+        "idea": "CATEGORY MODEL: dialogue-story = a conversation around an object. One establishing panel sets the room, a tall strip shows the object (numbered lift strip), then the speakers get close crops. The strip is drawn exactly as a brass insert so the maths reads before the lesson on P005.",
+        "structure": "Asymmetric grid as planned: P004-1 [24,24,524,346] establishing; P004-2 tall [556,24,284,346]; row below P004-3 [24,378,392,246] (Tara close) and P004-4 [424,378,416,246] (Ahana). Gutters 8pt. Page ground: deep aubergine-to-midnight (#1a1030 to #0d1a3a), warm ember bloom behind the controller (the wall lamp), brass vertical rib pattern (the safety-gate bars: 1pt brass lines every 14pt, 6% opacity) running along the left and right borders only. Reading order: P004-1 caption 1, caption 2, P004-2 caption, Vihaan balloon, caption 2, P004-3 Tara 'Yes.' then 'The numbers tell us...', P004-4 Ahana.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S01-B01.png",
+          "grade": "night, ember wall-lamp key (warm), cool moon fill; the gate bars stay as painted; red warning lamps stay on",
+          "mirror": false,
+          "blank": [],
+          "crop": "P004-1 pulled-back wide; P004-2 tall close of strip/controller; P004-3 zoom of P004-2 focus [0.68,0.3] z2.0"
+        },
+        "panes": {
+          "P004-1 captions": "two light matte caption boxes stacked upper-left over the gate's upper bars (~240x62 and ~210x50pt) with a 1pt brass hairline, second one slightly offset right; one narrow box upper-right over the wall/lamp for the second paragraph only if the plan places it so",
+          "P004-2": "narration caption box top of panel over the wall, white balloon 'Eight marks below the street.' middle-left tail to Vihaan's mouth, second caption 'Vihaan follows the strip with his finger.' in a small matte box at the bottom",
+          "P004-3": "white balloons upper-left on the dark gate wall: 'Yes.' above, 'The numbers tell us where the lift is compared with this landing.' below it, both on the art, tails to Tara's mouth, clear of her face",
+          "P004-4": "white balloon upper-left over the dark wall, tail to Ahana's mouth"
+        },
+        "hero": "The tall brass-strip panel: Vihaan's fingertip resting at -8 beside the exact numbered strip, the lift shaft glowing ember.",
+        "illustrate": {
+          "figure": "exact numbered strip insert (HTML/SVG) laid beside the painted strip on P004-2, brass frame, +2 +1 0 -1 -2 -3 -4 -5 -6 -7 -8 top to bottom, equal ticks, labels with a true minus sign; 0 = street level shown with a gold bar and 'street level' not printed (no invented words: only the numbers); positives in lamp gold, negatives in moonlight blue; Vihaan's fingertip aligned to -8; no arrow, no solved route, no -5/-3 in slots",
+          "placement": "right side of P004-2, 54pt wide, from y~70 to y~330 of the page; question view only, no answer content"
+        },
+        "cast": "Observers seen from behind in P004-1 (Navya at the card slots, Vihaan centre, Ahana with lamp, Tez sitting, Tara tallest at the right edge); then speakers cut in close: Vihaan in profile at the strip, Tara frontal calm face, Ahana looking up at the lamp. Entry: reader stands behind the crew like an observer, unlike P002's side-on action.",
+        "colour": "ember lamp and brass against aubergine night; gold for positive numbers, moonlight blue for negatives; red warning lamps stay small.",
+        "delights": [
+          "the two red warning lamps on the gate pulse as soft glow blooms (static, tiny)",
+          "the strip insert's 0 mark has a gold tick bar slightly longer than the others, catching the lamp",
+          "a faint brass rib pattern in the page border echoes the gate bars"
+        ],
+        "folio": "brass-coin folio, moon 4/108; label `CHAPTER 01 - NUMBERS - PG 004` in small tracked caps, brass on the lower border rail, left of the folio coin",
+        "varies": "establishing + tall detail + two close crops; aubergine ember ground with gate-rib border; the only one of the four with a drawn vertical strip."
+      }
     },
     {
       "page": "P005",
@@ -1069,7 +1155,39 @@
       ],
       "asides": [],
       "spot_art": [],
-      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 033 (LESSONS 2026-11-25). Reading order: teaching block 1 (question before its 'Check your thinking'), teaching block 2 ('Now you try' question before 'Check your method'), then story panels P033-3, -4, -5. Teaching text sits on calm light paper (no busy background); story panels carry their balloons on the art. The beat-list overlay must align both 12s in one column (Navya's finger). Do not change the cycles to twelve. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: P032 is the 1.2 Multiples teaching opener; P034 next: they set the start card to 12, Tara starts the counter, both catches rise at beat 12, bird bows, Tez bows back. Here the start card is still 6, the bird stationary, catches down, counter blank. Helper nearby but out of frame (no character sheet)."
+      "notes": "Page label on the border: CHAPTER 01 - NUMBERS - PG 033 (LESSONS 2026-11-25). Reading order: teaching block 1 (question before its 'Check your thinking'), teaching block 2 ('Now you try' question before 'Check your method'), then story panels P033-3, -4, -5. Teaching text sits on calm light paper (no busy background); story panels carry their balloons on the art. The beat-list overlay must align both 12s in one column (Navya's finger). Do not change the cycles to twelve. Same full-moon night. Main lantern arches dark, moonline unlit, fixed warm work lamps lit; Ahana carries the portable brass work lamp (right hand). Ahana, Navya and Vihaan are equally tall upright, crowns just below Tara's chest. All humans fair-skinned. Every character exactly as on their character sheet (attach each visible character's sheet); Tara always calm and wise, never animated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee; navy scarf with moon clasp; only the two shoulder stripes nearest the neck on each flank are pale grey, other markings blue. Continuity: P032 is the 1.2 Multiples teaching opener; P034 next: they set the start card to 12, Tara starts the counter, both catches rise at beat 12, bird bows, Tez bows back. Here the start card is still 6, the bird stationary, catches down, counter blank. Helper nearby but out of frame (no character sheet).",
+      "art": {
+        "idea": "CATEGORY MODEL: story-maths = two voices on one page. The left column is the lesson on calm cream cards (the bench's marble top), the right column is the story at the same bench: Vihaan and Navya write the very lists the lesson asks about. The page's colour code is the bench's catches: blue = 4, gold = 6.",
+        "structure": "Two columns, 10pt gutter. LEFT [24,24,406,600]: two cream cards (#F7F1E3, ink text, 14/18) with brass pinstripe top edge, brass corner studs, 12pt radius 0. Card A (24,24,406,~292): 'Think about the product' question (subhead 17pt Source Sans 3 Semibold teal) first, then 'Check your thinking' answer on a slightly darker cream inset below it, with 4 x 6 = 24 shown with a terracotta/second-role highlight on the 24. Card B (24,~326,406,~298): 'Now you try' question, then 'Check your method' answer: the three multiple lists, then the closing sentence. RIGHT story column [440,24,400,600] as planned: P033-3, P033-4, P033-5 stacked, gutters 8pt, panels sitting directly on the page ground. Page ground: deep warm walnut-navy (#1b1722 to #2a2030), a faint amber bench-lamp glow at the right column top; brass rail hairline separating the columns (the bench rail). Reading order: Card A question, Card A answer, Card B question, Card B answer, then P033-3 caption, P033-4 balloon, P033-5 balloon.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S03-B01.png",
+          "grade": "night, warm lamp, cool shadow; only used in the story panels as planned; maths cards sit on plain cream, no scenery behind text",
+          "mirror": false,
+          "blank": [],
+          "crop": "P033-3 zoom of P033-4 focus [0.5,0.78] z2.2; P033-5 zoom focus [0.62,0.4] z2.0"
+        },
+        "panes": {
+          "questions": "cream card with a brass top rule; question text is the first element of each card",
+          "answers": "slightly deeper cream inset (#EFE6D0) with a left brass rule, after the question inside the same card",
+          "captions": "P033-3 caption: light matte box top-left over the bench (~220x44pt)",
+          "bubbles": "white balloons on the art: P033-4 'Twelve is on both lists.' upper-right over the wall above the bench, tail to Navya's mouth, clear of faces; P033-5 'That is the first time they open together.' left on the dark wall, tail to Navya's mouth"
+        },
+        "hero": "The paired lists on the working strip in P033-3/P033-4 (blue row 4, 8, 12 over gold row 6, 12 with the 12s aligned) and Navya's finger at the shared twelve.",
+        "illustrate": {
+          "figure1": "Card B answer: drawn beat strip under the three written lists, an HTML/SVG axis 4 to 36 with equal ticks per beat; rows 4, 6, 9 with filled dots exactly at their multiples (4: 4,8,12,16,20,24,28,32,36; 6: 6,12,18,24,30,36; 9: 9,18,27,36); blue dots for 4, gold for 6, terracotta for 9; only the 36 column is highlighted by a thin gold vertical bar. The figure comes after the lists, and only in the answer inset, never next to the question.",
+          "figure2": "P033-3 overlay: blue row 4, 8, 12 and gold row 6, 12 on the blank cream strip, both 12s in one column, hand-written look not allowed (use Source Serif digits), text sizes ~16pt",
+          "figure3": "Card A answer: simple 4 x 6 = 24 with 24 / 4 = 6 and 24 / 6 = 4 as typeset lines, then the sentence about 12; no extra drawn items"
+        },
+        "cast": "Story column only: Vihaan and Navya at the bench writing, Ahana holding the lamp, Tara at the counter end, as in the plan; Navya's face and both catches are the page's close crop. The lesson column has no characters, so the divide between lesson and story is clear.",
+        "colour": "blue (4) against gold (6), terracotta (9): the catches' colours, used only where the numbers are; cream cards against walnut-navy ground.",
+        "delights": [
+          "the border rail between the columns has a small blue catch stud on top and a gold one on the bottom: the two catches from the bench",
+          "in P033-5 both catches glow lit, blue and gold, as planned art, with the gold lamp bloom reaching the card edge",
+          "the carved bird silhouette sits on the page ground's top-right corner as a tiny brass emblem (not near the maths)"
+        ],
+        "folio": "brass-coin folio, moon 33/108; label `CHAPTER 01 - NUMBERS - PG 033` in small tracked caps, brass on the lower border rail, left of the folio coin",
+        "varies": "only page with cream maths cards plus a story column; ground is warm walnut, not blue or aubergine."
+      }
     },
     {
       "page": "P039",
