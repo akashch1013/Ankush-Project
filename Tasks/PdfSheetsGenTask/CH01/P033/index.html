@@ -7,16 +7,110 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  /* story-maths: walnut-aubergine ground, brass pinstripe, cream lesson cards beside the bench story */
+  .page.ledger { background: radial-gradient(ellipse 60% 45% at 80% 0%, rgba(247,198,132,.16), rgba(247,198,132,0) 70%),
+      radial-gradient(ellipse 70% 60% at 10% 100%, rgba(120,60,50,.22), rgba(120,60,50,0) 70%),
+      linear-gradient(165deg, #1a1523 0%, #251b2b 50%, #2e2132 100%);
+      color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; overflow: hidden; }
+  .blk { position: absolute; }
+  .coin-n { position: absolute; left: -10pt; width: 20pt; top: 2pt; text-align: center; font: 700 9.5pt/13pt "Source Sans 3", sans-serif; color: #3a2208; }
+  .label { left: 120pt; width: 282pt; top: 623.5pt; text-align: right; font: 600 10pt/12pt "Source Sans 3", sans-serif; letter-spacing: .16em; color: #e0b65e; white-space: nowrap; }
+  .col { position: absolute; left: 24pt; top: 24pt; width: 406pt; height: 594pt; display: flex; flex-direction: column; gap: 10pt; }
+  .card { position: relative; background: #F7F1E3; border: .8pt solid #b3722f; border-top: 2.4pt solid #c9a24a; box-shadow: 0 2pt 8pt rgba(0,0,0,.45); padding: 10pt 13pt 0; }
+  .card.b { flex: 1 1 auto; display: flex; flex-direction: column; }
+  .card::before, .card::after { content: ""; position: absolute; width: 5pt; height: 5pt; border-radius: 50%; background: radial-gradient(circle at 35% 35%, #fff0c4, #c98f45 60%, #6e4318); bottom: 5pt; }
+  .card::before { left: 5pt; } .card::after { right: 5pt; }
+  .card p { margin: 0 0 6pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .sh { font-family: "Source Sans 3", sans-serif; font-weight: 600; color: #122A45; font-size: 17pt; line-height: 21pt; margin: 0 0 5pt; display: flex; align-items: center; white-space: nowrap; }
+  .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .sh.sm { font-size: 16pt; line-height: 20pt; margin-bottom: 4pt; }
+  .ans { background: #EFE6D0; border-left: 3pt solid #b3722f; margin: 6pt -13pt 0; padding: 8pt 13pt 6pt 14pt; }
+  .card.b .ans { flex: 1 1 auto; margin-bottom: 0; display: flex; flex-direction: column; padding-bottom: 8pt; }
+  .eqi { font-weight: 700; white-space: nowrap; color: #1d2433; }
+  .hr { color: #B5603A; font-weight: 700; }
+  .hl { font-weight: 700; background: linear-gradient(transparent 12%, rgba(247,198,132,.75) 12%, rgba(247,198,132,.75) 92%, transparent 92%); padding: 0 2pt; }
+  .c4 { color: #1f4f9a; font-weight: 700; } .c6 { color: #9b6410; font-weight: 700; } .c9 { color: #B5603A; font-weight: 700; }
+  .lst { margin: 0 0 3pt !important; white-space: nowrap; }
+  .fig { display: block; margin: auto 0 0; overflow: visible; }
+
+  .pn { position: absolute; overflow: hidden; border: .9pt solid #c9a24a; box-shadow: 0 2pt 8pt rgba(0,0,0,.55); background: #0c1933; }
+  .pn img { position: absolute; display: block; max-width: none; }
+  .pn svg.ov { position: absolute; }
+  .pn svg.bsh { position: absolute; filter: drop-shadow(0 1pt 3pt rgba(0,0,0,.55)); }
+  .bal { position: absolute; display: flex; align-items: center; justify-content: center; text-align: center; box-sizing: border-box; padding: 0 8pt;
+         font: 600 14pt/17pt "Source Sans 3", sans-serif; color: #1d2433; }
+  .cap { position: absolute; background: rgba(251,247,238,.95); border: .7pt solid #b3722f; padding: 6pt 9pt 5pt; font: 400 14pt/18pt "Source Sans 3", sans-serif; color: #1d2433; box-sizing: border-box; }
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P033">
 
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <radialGradient id="coin" cx=".38" cy=".32" r=".8"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".55" stop-color="#d9a55a"/><stop offset="1" stop-color="#8a5a22"/></radialGradient>
+  </defs>
+  <path d="M402 639 H9 V9 H855 V639 H462" fill="none" stroke="#c9a24a" stroke-width=".9"/>
+  <path d="M402 636 H12 V12 H852 V636 H462" fill="none" stroke="#c9a24a" stroke-opacity=".35" stroke-width=".5"/>
+  <g transform="translate(9 9)"><g transform="scale(.62)"><path d="M0 0 H48 V15 L41 22 H22 V41 L15 48 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/><path d="M2 2 H46 M2 2 V46" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/><circle cx="10" cy="10" r="3.1" fill="#7a4a18"/><circle cx="10" cy="10" r="2.2" fill="#d7a256"/><circle cx="9.2" cy="9.1" r=".9" fill="#fff0c4"/></g></g>
+  <g transform="translate(855 9) scale(-1 1)"><g transform="scale(.5)"><path d="M0 0 H34 V13 L28 19 H19 V28 L13 34 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/><circle cx="8.4" cy="8.4" r="2.4" fill="#7a4a18"/><circle cx="8.4" cy="8.4" r="1.6" fill="#d7a256"/></g></g>
+  <g transform="translate(9 639) scale(1 -1)"><g transform="scale(.5)"><path d="M0 0 H34 V13 L28 19 H19 V28 L13 34 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/><circle cx="8.4" cy="8.4" r="2.4" fill="#7a4a18"/><circle cx="8.4" cy="8.4" r="1.6" fill="#d7a256"/></g></g>
+  <g transform="translate(855 639) scale(-1 -1)"><g transform="scale(.62)"><path d="M0 0 H48 V15 L41 22 H22 V41 L15 48 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/><path d="M2 2 H46 M2 2 V46" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/><circle cx="10" cy="10" r="3.1" fill="#7a4a18"/><circle cx="10" cy="10" r="2.2" fill="#d7a256"/><circle cx="9.2" cy="9.1" r=".9" fill="#fff0c4"/></g></g>
+  <!-- carved bird emblem on the top rule -->
+    <g transform="translate(684 8.4) scale(1.3)" fill="url(#brass)" stroke="#5a3510" stroke-width=".4"><path d="M-9 1 C-9 -4 -4 -7 0 -6 C2 -9 5 -9 6 -7 L9 -6 L6 -5 C6 -1 2 2 -3 2 L-9 1 Z"/><path d="M-9 1 L-14 -1 L-11 3 Z"/></g>
+  <!-- folio coin -->
+  <circle cx="432" cy="631" r="10.5" fill="#1a1523" stroke="#c9a24a" stroke-width=".6"/>
+  <circle cx="432" cy="631" r="9" fill="url(#coin)" stroke="#5a3510" stroke-width=".5"/>
+  <circle cx="432" cy="631" r="7.2" fill="none" stroke="#5a3510" stroke-opacity=".5" stroke-width=".4"/>
+  <!-- bench rail between the columns: blue catch stud on top, gold at the foot -->
+  <path d="M435 24 V618" stroke="#b3722f" stroke-width="1"/><path d="M436 24 V618" stroke="#f3d58f" stroke-opacity=".45" stroke-width=".4"/>
+  <circle cx="435" cy="30" r="3.4" fill="#234d95" stroke="#d6a64e" stroke-width=".9"/><circle cx="434" cy="29" r="1" fill="#9cc0f2"/>
+  <circle cx="435" cy="612" r="3.4" fill="#f7c684" stroke="#8a5a22" stroke-width=".9"/><circle cx="434" cy="611" r="1" fill="#fff3cf"/>
+</svg>
+<div class="blk" style="left:432pt; top:622pt; width:0"><div class="coin-n">33</div></div>
+<div class="blk label">CHAPTER 01 - NUMBERS - PG 033</div>
+
+<div class="col">
+  <div class="card a">
+    <div class="sh">Think about the product</div>
+    <p>Why is the product of two positive integers always a common multiple of those integers?</p>
+    <div class="ans">
+      <div class="sh sm">Check your thinking</div>
+      <p>Take 4 and 6. Their product is <b class="eqi" data-math="4 × 6 = 24">4 × 6 = <b class="hr">24</b></b>. Since <b class="eqi" data-math="24 ÷ 4 = 6">24 ÷ 4 = 6</b> and <b class="eqi" data-math="24 ÷ 6 = 4">24 ÷ 6 = 4</b>, it is a multiple of both. The same reasoning works for any two positive integers: divide their product by one factor and you get the other factor, with no remainder.</p>
+      <p style="margin:0 0 6pt">That product need not be the least common multiple. For 4 and 6, 12 is already a common multiple, and 12 is smaller than 24.</p>
+    </div>
+  </div>
+  <div class="card b">
+    <div class="sh">Now you try</div>
+    <p>Find the LCM of 4, 6 and 9.</p>
+    <div class="ans">
+      <div class="sh sm">Check your method</div>
+      <p class="lst">Multiples of <b class="c4">4</b>: 4, 8, 12, 16, 20, 24, 28, 32, <b class="hl">36</b></p>
+      <p class="lst">Multiples of <b class="c6">6</b>: 6, 12, 18, 24, 30, <b class="hl">36</b></p>
+      <p class="lst">Multiples of <b class="c9">9</b>: 9, 18, 27, <b class="hl">36</b></p>
+      <p style="margin:3pt 0 0">The first number in all three lists is 36, so <b class="eqi" data-math="LCM(4, 6, 9) = 36">LCM(4, 6, 9) = <b class="hl">36</b></b>.</p>
+      <svg class="fig" style="width:380pt; height:140pt" viewBox="0 0 380 140" aria-hidden="true"><rect x="366.4" y="6" width="6.4" height="98" rx="3" fill="#f7c684" fill-opacity=".8" stroke="#b3722f" stroke-width=".7"/><path d="M24.0 22 H369.6" stroke="#b3722f" stroke-opacity=".55" stroke-width=".7"/><circle cx="9" cy="22" r="6" fill="#1f4f9a" stroke="#5a3510" stroke-width=".6"/><circle cx="62.4" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="100.8" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="139.2" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="177.6" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="216.0" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="254.4" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="292.8" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="331.2" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><circle cx="369.6" cy="22" r="4.3" fill="#1f4f9a" stroke="#2a1a08" stroke-width=".5"/><path d="M24.0 52 H369.6" stroke="#b3722f" stroke-opacity=".55" stroke-width=".7"/><circle cx="9" cy="52" r="6" fill="#c28a12" stroke="#5a3510" stroke-width=".6"/><circle cx="81.6" cy="52" r="4.3" fill="#c28a12" stroke="#2a1a08" stroke-width=".5"/><circle cx="139.2" cy="52" r="4.3" fill="#c28a12" stroke="#2a1a08" stroke-width=".5"/><circle cx="196.8" cy="52" r="4.3" fill="#c28a12" stroke="#2a1a08" stroke-width=".5"/><circle cx="254.4" cy="52" r="4.3" fill="#c28a12" stroke="#2a1a08" stroke-width=".5"/><circle cx="312.0" cy="52" r="4.3" fill="#c28a12" stroke="#2a1a08" stroke-width=".5"/><circle cx="369.6" cy="52" r="4.3" fill="#c28a12" stroke="#2a1a08" stroke-width=".5"/><path d="M24.0 82 H369.6" stroke="#b3722f" stroke-opacity=".55" stroke-width=".7"/><circle cx="9" cy="82" r="6" fill="#B5603A" stroke="#5a3510" stroke-width=".6"/><circle cx="110.4" cy="82" r="4.3" fill="#B5603A" stroke="#2a1a08" stroke-width=".5"/><circle cx="196.8" cy="82" r="4.3" fill="#B5603A" stroke="#2a1a08" stroke-width=".5"/><circle cx="283.2" cy="82" r="4.3" fill="#B5603A" stroke="#2a1a08" stroke-width=".5"/><circle cx="369.6" cy="82" r="4.3" fill="#B5603A" stroke="#2a1a08" stroke-width=".5"/><path d="M24.0 108 H369.6" stroke="#122A45" stroke-width="1"/><path d="M24.0 108 v6" stroke="#122A45" stroke-width=".8"/><path d="M33.6 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M43.2 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M52.8 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M62.4 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M72.0 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M81.6 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M91.2 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M100.8 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M110.4 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M120.0 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M129.6 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M139.2 108 v6" stroke="#122A45" stroke-width=".8"/><path d="M148.8 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M158.4 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M168.0 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M177.6 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M187.2 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M196.8 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M206.4 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M216.0 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M225.6 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M235.2 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M244.8 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M254.4 108 v6" stroke="#122A45" stroke-width=".8"/><path d="M264.0 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M273.6 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M283.2 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M292.8 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M302.4 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M312.0 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M321.6 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M331.2 108 v4" stroke="#122A45" stroke-width=".8"/><path d="M340.8 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M350.4 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M360.0 108 v2.4" stroke="#122A45" stroke-width=".8"/><path d="M369.6 108 v6" stroke="#122A45" stroke-width=".8"/><text x="139.2" y="126" text-anchor="middle" font-family="Source Sans 3,sans-serif" font-weight="600" font-size="11" fill="#122A45">12</text><text x="254.4" y="126" text-anchor="middle" font-family="Source Sans 3,sans-serif" font-weight="600" font-size="11" fill="#122A45">24</text><text x="369.6" y="126" text-anchor="middle" font-family="Source Sans 3,sans-serif" font-weight="600" font-size="11" fill="#122A45">36</text></svg>
+    </div>
+  </div>
+</div>
+
+<div class="pn" id="P033-3" style="left:440pt; top:24pt; width:400pt; height:180pt; ">
+  <img src="assets/img/P033-4.jpg" alt="" style="left:-423.50pt; top:-445.50pt; width:1689.60pt">
+  <svg class="ov" style="left:-423.50pt; top:-445.50pt; width:1689.60pt; height:1126.40pt" viewBox="0 0 1536 1024" aria-hidden="true"><path d="M428.5 444.5 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M428.5 468.5 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M445.0 448.3 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M445.0 472.3 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M461.5 452.2 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M461.5 476.2 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M478.0 456.0 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M478.0 480.0 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M494.5 459.9 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M494.5 483.9 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M511.0 463.7 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M511.0 487.7 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M527.5 467.6 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M527.5 491.6 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M544.0 471.4 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M544.0 495.4 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M560.5 475.3 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M560.5 499.3 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M577.0 479.1 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M577.0 503.1 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M593.5 483.0 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M593.5 507.0 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M610.0 486.8 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M610.0 510.8 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M593.0 459.9 L627.0 467.8 L627.0 518.8 L593.0 510.9 Z" fill="#f7c684" fill-opacity=".30" stroke="#b3722f" stroke-width="2" stroke-linejoin="round"/><text x="478.0" y="452.5" transform="rotate(13.13 478.0 452.5)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#1f4f9a">4</text><text x="544.0" y="467.9" transform="rotate(13.13 544.0 467.9)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#1f4f9a">8</text><text x="610.0" y="483.3" transform="rotate(13.13 610.0 483.3)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#1f4f9a">12</text><text x="511.0" y="484.2" transform="rotate(13.13 511.0 484.2)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#9b6410">6</text><text x="610.0" y="507.3" transform="rotate(13.13 610.0 507.3)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#9b6410">12</text></svg>
+  <div class="cap" style="left:8pt; bottom:6pt; width:384pt">Vihaan writes the blue opening beats: 4, 8, 12. Navya writes the gold ones: 6, 12.</div>
+</div>
+<div class="pn" id="P033-4" style="left:440pt; top:212pt; width:400pt; height:248pt; ">
+  <img src="assets/img/P033-4.jpg" alt="" style="left:0.00pt; top:-2.99pt; width:400.00pt">
+  <svg class="ov" style="left:0.00pt; top:-2.99pt; width:400.00pt; height:266.67pt" viewBox="0 0 1536 1024" aria-hidden="true"><path d="M428.5 444.5 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M428.5 468.5 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M445.0 448.3 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M445.0 472.3 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M461.5 452.2 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M461.5 476.2 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M478.0 456.0 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M478.0 480.0 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M494.5 459.9 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M494.5 483.9 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M511.0 463.7 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M511.0 487.7 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M527.5 467.6 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M527.5 491.6 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M544.0 471.4 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M544.0 495.4 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M560.5 475.3 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M560.5 499.3 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M577.0 479.1 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M577.0 503.1 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M593.5 483.0 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M593.5 507.0 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M610.0 486.8 v6" stroke="#1f4f9a" stroke-opacity=".5" stroke-width="1.3"/><path d="M610.0 510.8 v6" stroke="#9b6410" stroke-opacity=".5" stroke-width="1.3"/><path d="M593.0 459.9 L627.0 467.8 L627.0 518.8 L593.0 510.9 Z" fill="#f7c684" fill-opacity=".30" stroke="#b3722f" stroke-width="2" stroke-linejoin="round"/><text x="478.0" y="452.5" transform="rotate(13.13 478.0 452.5)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#1f4f9a">4</text><text x="544.0" y="467.9" transform="rotate(13.13 544.0 467.9)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#1f4f9a">8</text><text x="610.0" y="483.3" transform="rotate(13.13 610.0 483.3)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#1f4f9a">12</text><text x="511.0" y="484.2" transform="rotate(13.13 511.0 484.2)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#9b6410">6</text><text x="610.0" y="507.3" transform="rotate(13.13 610.0 507.3)" text-anchor="middle" font-family="Source Serif 4,serif" font-weight="700" font-size="19" fill="#9b6410">12</text><ellipse cx="1037" cy="250" rx="34" ry="34" fill="none" stroke="#f7c684" stroke-opacity=".75" stroke-width="3.2"/><ellipse cx="1037" cy="250" rx="42" ry="42" fill="none" stroke="#f7c684" stroke-opacity=".25" stroke-width="6"/></svg>
+  <svg class="bsh" style="left:0; top:0; width:400pt; height:260pt" viewBox="0 0 400 260" aria-hidden="true"><rect x="196" y="6" width="126" height="46" rx="16" fill="#fff"/><path d="M210 48 C210 75.7 208 77.8 206 95 C210 71.3 220 58 222 48 Z" fill="#fff"/></svg>
+  <div class="bal" style="left:196pt; top:6pt; width:126pt; height:46pt">Twelve is on<br>both lists.</div>
+</div>
+<div class="pn" id="P033-5" style="left:440pt; top:468pt; width:400pt; height:150pt; ">
+  <img src="assets/img/P033-4.jpg" alt="" style="left:-148.50pt; top:-85.50pt; width:691.20pt">
+  <svg class="ov" style="left:-148.50pt; top:-85.50pt; width:691.20pt; height:460.80pt" viewBox="0 0 1536 1024" aria-hidden="true"></svg>
+  <svg class="bsh" style="left:0; top:0; width:400pt; height:260pt" viewBox="0 0 400 260" aria-hidden="true"><rect x="8" y="5" width="150" height="52" rx="16" fill="#fff"/><path d="M112 53 C112 73.0 194 74.4 192 86 C196 70.0 128 63 130 53 Z" fill="#fff"/></svg>
+  <div class="bal" style="left:8pt; top:5pt; width:150pt; height:52pt">That is the first time they open together.</div>
+</div>
 
 </div>
 <script>
