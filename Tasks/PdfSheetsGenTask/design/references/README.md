@@ -39,7 +39,10 @@ Look families:
 - **Teaching categories:** the B1 "Ledger Plate" look (`ART-DIRECTION.md`, approved page CH01 P039). Cream reading field, border built from the plate's own materials, manual V09 fonts, sizes and maths colours.
 
 ## Shared musts (from LESSONS.md, 2026-11-25)
-- Label on the border: `CHAPTER 01 - NUMBERS - PG 001` (chapter number, topic and page change).
+- Page mark at ONE fixed place, bottom-right, on every page: `.pagemark` from `design/base.css` (label `CHAPTER 01 - NUMBERS - PG 001` + page-number coin). Never move it per page; only recolour it (2026-11-26).
+- A companion appears only with a manuscript quote (11 in V06). Otherwise the space goes to a maths illustration. When the text names a tool (calculator, ruler), draw it (2026-11-26).
+- No pixelation: every placed raster is sharp at 1:1 and at least 200 ppi as placed; library cut-outs only small.
+- CH01 Lantern Street before the repair is moonlit only; the only warm light is Ahana's portable lamp (and the lift lamp from P003).
 - Story balloons and captions sit on the art, never in gutters.
 - Never alter or invent background objects to fit the story. Stage the scene inside the plate as painted.
 - Read the page before and the page after before planning or building.
