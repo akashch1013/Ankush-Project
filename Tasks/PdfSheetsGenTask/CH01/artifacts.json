@@ -62,5 +62,13 @@
   "pdf": "Output/CH01/CH01-P077.pdf",
   "design": "category reference: practice-set (B1 Ledger Plate)",
   "version": "1795667504-355d"
+ },
+ "P043": {
+  "url": "https://claude.ai/artifact/1XrkqeKgvhFdACdLr1LpQC",
+  "file_path": "PdfSheetsGenTask/CH01/P043/artifact.html",
+  "math": "PASS 2026-11-26 (B1, manuscript V06; HCF re-check)",
+  "pdf": "Output/CH01/CH01-P043.pdf",
+  "design": "category reference: diagram-led (B1 Ledger Plate)",
+  "version": "1795667561-ccab"
  }
 }
