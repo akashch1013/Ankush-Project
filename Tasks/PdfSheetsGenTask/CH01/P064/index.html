@@ -7,20 +7,156 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  /* B1 "Ledger Plate": calm cream field, lacquer-and-brass border from S04-B01 */
+  .page.ledger { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif;
+                 font-size: 14pt; line-height: 18pt; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 6pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-family: "Source Sans 3", sans-serif; font-weight: 600; color: #122A45;
+                font-size: 17pt; line-height: 21pt; margin: 0 0 6pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .sh.big { font-size: 19pt; line-height: 23pt; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger .eq { font-size: 21pt; line-height: 27pt; font-weight: 600; color: #1d2433; white-space: nowrap; margin: 0; }
+  .ledger .eq .op { font-weight: 400; }
+
+  .qcard { background: #FBF7EE; border: .8pt solid #b3722f; padding: 9pt 14pt 7pt; }
+  .qcard p { margin: 0; }
+  .ablock { background: #EFE6D2; border-top: .8pt solid #b3722f; padding: 9pt 13pt 6pt; }
+
+  /* factor lines: lhs | = a | = b | = c, the = signs aligned in columns */
+  .fgrid { display: grid; grid-template-columns: auto auto auto auto; justify-content: start; column-gap: 7pt; margin: 2pt 0 4pt; }
+  .fgrid > div { display: contents; }
+  .fgrid span.c { font-size: 21pt; line-height: 28pt; font-weight: 600; white-space: nowrap; }
+  .fgrid span.c.l { text-align: right; }
+  /* sharing lines: label | expression */
+  .sgrid { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 12pt; row-gap: 2pt; align-items: baseline; margin: 0 0 8pt; }
+  .sgrid > div { display: contents; }
+  .sgrid .lbl { font-size: 14pt; color: #1d2433; }
+  /* bag lines: expression | words */
+  .bgrid { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 10pt; align-items: baseline; }
+  .bgrid > div { display: contents; }
+  .bgrid .eq { font-size: 20pt; line-height: 25pt; }
+  .bgrid .lbl { font-size: 14pt; }
+
+  .divider { position: absolute; width: 0; border-left: .5pt solid #b3722f; opacity: .7; }
+
+  .aside-b { position: absolute; background: #FFFDF6; border: .8pt solid #1d2433; border-radius: 50% / 46%;
+             padding: 9pt 16pt 10pt; font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt;
+             color: #1d2433; text-align: center; }
+  .aside-b svg.tl { position: absolute; overflow: visible; }
+
+  .tez { position: absolute; }
+  .tez img { display: block; width: 100%; }
+
+  .ledger .ttl { font-family:"Source Serif 4",serif; font-weight:600; font-size:29pt; line-height:34pt; color:#122A45; margin:0; white-space:nowrap; }
+  .ledger .eqt { font-size:22pt; line-height:28pt; font-weight:600; color:#1d2433; margin:6pt 0 8pt; white-space:nowrap; letter-spacing:.4pt; }
+  .ledger .eqt .op { font-weight:400; }
+  .plaque { position:absolute; background:#FBF7EE; border:.8pt solid #b3722f; display:flex; justify-content:space-around; align-items:center; padding:7pt 20pt; }
+  .plaque .eq { font-size:25pt; line-height:32pt; }
+  .plaque i { display:block; width:0; height:34pt; border-left:.6pt solid #b3722f; }
+  .ledger sup { font-size:.62em; line-height:0; }
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P064">
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".5" stop-color="#1b3d7c"/><stop offset="1" stop-color="#0f2447"/></linearGradient>
+    <linearGradient id="hi" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".5" stop-color="#d9a55a"/><stop offset="1" stop-color="#b3722f"/></linearGradient>
+    <linearGradient id="lo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b3722f"/><stop offset=".6" stop-color="#8a5a22"/><stop offset="1" stop-color="#5a3510"/></linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f7c684" stop-opacity=".62"/><stop offset=".45" stop-color="#f7c684" stop-opacity=".22"/><stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+    <radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.6"/></filter>
+  </defs>
+  <rect width="864" height="648" fill="url(#wall)"/>
+  <g stroke="#0a1730" stroke-width=".5" stroke-opacity=".85"><path d="M60 0V20 M120 0V20 M180 0V20 M240 0V20 M300 0V20 M360 0V20 M420 0V20 M480 0V20 M540 0V20 M600 0V20 M660 0V20 M720 0V20 M780 0V20 M60 628V648 M120 628V648 M180 628V648 M240 628V648 M300 628V648 M560 628V648 M620 628V648 M680 628V648 M740 628V648 M800 628V648 M0 90H20 M0 160H20 M0 230H20 M0 300H20 M0 370H20 M0 440H20 M0 510H20 M0 580H20 M844 90H864 M844 160H864 M844 230H864 M844 300H864 M844 370H864 M844 440H864 M844 510H864 M844 580H864"/></g>
+  <g fill="none" stroke="#0c1933" stroke-opacity=".35" stroke-width=".4"><path d="M0 5H864 M0 15H864" stroke-dasharray="70 9 120 6 44 12 160 5"/><path d="M5 0V648 M15 0V648" stroke-dasharray="64 11 140 6 50 9"/><path d="M849 0V648 M859 0V648" stroke-dasharray="110 8 46 13 90 6"/></g>
+  <path fill="none" stroke="#c9a24a" stroke-width=".7" d="M4 4H860V644H590 M274 644H4V4"/>
+  <!-- paper field + soft frame shadow -->
+  <rect x="32" y="32" width="800" height="584" fill="#F7F1E3"/>
+  <rect x="33.5" y="33.5" width="797" height="581" fill="none" stroke="#5b4a2e" stroke-opacity=".22" stroke-width="3" filter="url(#soft)"/>
+  <circle cx="34" cy="96" r="74" fill="url(#glow)"/>
+  <!-- mitred brass frame -->
+  <polygon points="20,20 844,20 832,32 32,32" fill="url(#hi)"/>
+  <polygon points="20,20 32,32 32,616 20,628" fill="url(#hi)"/>
+  <polygon points="20,628 32,616 832,616 844,628" fill="url(#lo)"/>
+  <polygon points="844,20 844,628 832,616 832,32" fill="url(#lo)"/>
+  <path d="M21 21H843 M21 21V627" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".8" fill="none"/>
+  <path d="M32 32L20 20 M832 32L844 20 M32 616L20 628 M832 616L844 628" stroke="#5a3510" stroke-width=".6"/>
+  <rect x="32" y="32" width="800" height="584" fill="none" stroke="#3d240b" stroke-width=".6"/>
+  <g><circle cx="26" cy="26" r="2.2" fill="#7a4a18"/><circle cx="838" cy="26" r="2.2" fill="#7a4a18"/><circle cx="26" cy="622" r="2.2" fill="#7a4a18"/><circle cx="838" cy="622" r="2.2" fill="#7a4a18"/>
+  <circle cx="25.4" cy="25.4" r=".8" fill="#fff0c4"/><circle cx="837.4" cy="25.4" r=".8" fill="#fff0c4"/><circle cx="25.4" cy="621.4" r=".8" fill="#fff0c4"/><circle cx="837.4" cy="621.4" r=".8" fill="#fff0c4"/></g>
+  <!-- moon and star medallions on the wall band -->
+  <g transform="translate(150 10)"><circle r="6.2" fill="url(#moonG)"/><circle cx="-2" cy="-2" r="1.8" fill="#fff3cf" fill-opacity=".5"/><path d="M14 0L15 -3 L16 0 L19 1 L16 2 L15 5 L14 2 L11 1Z" fill="#e8c06a" transform="translate(0 -1)"/></g>
+  <g transform="translate(714 638)"><circle r="6.2" fill="url(#moonG)"/><circle cx="-2" cy="-2" r="1.8" fill="#fff3cf" fill-opacity=".5"/><path d="M14 0L15 -3 L16 0 L19 1 L16 2 L15 5 L14 2 L11 1Z" fill="#e8c06a" transform="translate(0 -1)"/></g>
+  <!-- folio moon 64/108 -->
+  <circle cx="796" cy="50" r="6" fill="#0c1933" stroke="#c9a24a" stroke-width=".6"/>
+  <path d="M796 44 A6 6 0 0 1 796 56 A1.08 6 0 0 1 796 44 Z" fill="#f3e3b8"/>
+</svg>
+<div class="blk" style="left:806pt; top:43pt; font-family:'Source Sans 3',sans-serif; font-weight:700; font-size:12pt; line-height:14pt; color:#122A45">64</div>
+<div class="blk" style="left:0; width:864pt; top:632pt; text-align:center; font-family:'Source Sans 3',sans-serif; font-weight:600; font-size:10pt; line-height:12pt; letter-spacing:2.6pt; color:#F7F1E3">CHAPTER 01 - NUMBERS - PG 064</div>
+<img class="blk" src="assets/img/LANTERN.png" alt="" style="left:2pt; top:62pt; width:40pt">
+<img class="blk" src="assets/img/IVY.png" alt="" style="left:742pt; top:4pt; width:88pt">
 
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<div class="blk" style="left:56pt; top:40pt"><h1 class="ttl">1.4 Squares and Square Roots</h1>
+<svg style="display:block; margin-top:2pt" width="360pt" height="6pt" viewBox="0 0 360 6" aria-hidden="true"><path d="M0 1.5H360" stroke="#b3722f" stroke-width="1.1"/><path d="M0 4.5H230" stroke="#b3722f" stroke-width=".5"/></svg></div>
+
+<div class="blk" id="colL" style="left:56pt; top:94pt; width:384pt">
+  <div class="qcard" style="position:relative">
+    <svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
+    <p>A square can help us understand two useful calculations: finding its total area and finding a side from that area. Let’s begin by arranging small square tiles into a bigger square. Put 5 tiles in every row and make 5 rows. How many tiles fill the square?</p>
+  </div>
+  <div class="eqt" data-math="5 × 5 = 25">5 <span class="op">×</span> 5 <span class="op">=</span> <span class="mt">25</span></div>
+  <p>You can count the 25 little tiles, or multiply 5 × 5. Multiplying a number by itself is called squaring. We write 5² and read it as “five squared”. The small raised 2 says that there are two factors of 5:</p>
+</div>
+<svg class="blk" id="fig" style="left:472pt; top:80pt; width:236pt; height:238pt" viewBox="0 0 236 238" aria-hidden="false">
+  <defs>
+    <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cdb48c"/><stop offset=".5" stop-color="#b79a6f"/><stop offset="1" stop-color="#a0825a"/></linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".38" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff6d8" stop-opacity=".42"/><stop offset=".62" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="38" y="37" width="154" height="154" fill="#3d240b" fill-opacity=".22" filter="url(#soft)"/>
+  <rect x="34" y="32" width="154" height="154" fill="#b3722f"/>
+  <g stroke="#e3bf6c" stroke-width="1.3" fill="url(#stone)">
+    <rect x="36" y="34" width="30" height="30"/><rect x="66" y="34" width="30" height="30"/><rect x="96" y="34" width="30" height="30"/><rect x="126" y="34" width="30" height="30"/><rect x="156" y="34" width="30" height="30"/><rect x="36" y="64" width="30" height="30"/><rect x="66" y="64" width="30" height="30"/><rect x="96" y="64" width="30" height="30"/><rect x="126" y="64" width="30" height="30"/><rect x="156" y="64" width="30" height="30"/><rect x="36" y="94" width="30" height="30"/><rect x="66" y="94" width="30" height="30"/><rect x="96" y="94" width="30" height="30"/><rect x="126" y="94" width="30" height="30"/><rect x="156" y="94" width="30" height="30"/><rect x="36" y="124" width="30" height="30"/><rect x="66" y="124" width="30" height="30"/><rect x="96" y="124" width="30" height="30"/><rect x="126" y="124" width="30" height="30"/><rect x="156" y="124" width="30" height="30"/><rect x="36" y="154" width="30" height="30"/><rect x="66" y="154" width="30" height="30"/><rect x="96" y="154" width="30" height="30"/><rect x="126" y="154" width="30" height="30"/><rect x="156" y="154" width="30" height="30"/>
+  </g>
+  <rect x="36" y="34" width="150" height="150" fill="url(#sheen)"/>
+  <rect x="36" y="34" width="150" height="150" fill="none" stroke="#6e4318" stroke-width=".6"/>
+  <!-- dimension lines (brass) -->
+  <g stroke="#b3722f" stroke-width=".9" fill="none"><path d="M36 21 H186 M36 16 V26 M186 16 V26"/><path d="M23 34 V184 M18 34 H28 M18 184 H28"/></g>
+  <text x="111" y="14" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="14" fill="#1F6F6B">5 cm</text>
+  <text transform="translate(12 109) rotate(-90)" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="14" fill="#1F6F6B">5 cm</text>
+  <text x="111" y="213" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="18" fill="#122A45">25 cm²</text>
+  <!-- the one teal tile and its leader -->
+  <rect x="156" y="34" width="30" height="30" fill="#1F6F6B" stroke="#e3bf6c" stroke-width="1.3"/>
+  <rect x="156" y="34" width="30" height="30" fill="url(#sheen)"/>
+  <path d="M186 49 H197" stroke="#1F6F6B" stroke-width="1"/><circle cx="186" cy="49" r="1.7" fill="#fff6d8"/>
+  <text x="199" y="54" font-family="Source Sans 3" font-weight="700" font-size="14" fill="#1F6F6B">1 cm²</text>
+</svg>
+<div class="blk" style="left:472pt; top:312pt; width:170pt; font-family:'Source Serif 4',serif; font-style:italic; font-size:14pt; line-height:18pt; color:#122A45; text-align:center">Five rows of five</div>
+
+<div class="plaque" id="plq" style="left:56pt; top:352pt; width:712pt">
+  <svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
+  <div class="eq" data-math="5² = 5 × 5 = 25">5² <span class="op">=</span> 5 <span class="op">×</span> 5 <span class="op">=</span> <span class="mt">25</span></div>
+  <i></i>
+  <div class="eq" data-math="7² = 7 × 7 = 49">7² <span class="op">=</span> 7 <span class="op">×</span> 7 <span class="op">=</span> <span class="mt">49</span></div>
+</div>
+
+<div class="blk" id="colL2" style="left:56pt; top:428pt; width:384pt">
+  <p>5² does not mean <span class="mr">5 × 2</span>. That would give <span class="mr">10</span>, and would fill only two rows of our five-row square.</p>
+  <p>Squares of whole numbers are called perfect squares. Squaring 1 to 10 gives 1, 4, 9, 16, 25, 36, 49, 64, 81 and 100. Zero also fits: <span data-math="0² = 0">0² = 0</span>. The square of a positive number is positive.</p>
+  <p style="margin:0">The area of our 5 cm square is 25 cm². Here cm² means square centimetres: how many 1 cm by 1 cm squares cover the surface. It measures area, not a side length.</p>
+</div>
+
+<div class="blk ablock" id="calc" style="left:470pt; top:428pt; width:338pt">
+  <p style="margin:0">On a calculator: use the x² key to square a number. For 7², your calculation should show 7² and give 49. On many calculators you enter 7 and then press x²; the precise key order depends on the model. Check the displayed expression before accepting the answer.</p>
+</div>
+
+<img class="blk" src="assets/img/NAVYA.png" alt="" style="left:690pt; top:150pt; width:164pt">
 
 </div>
 <script>
-  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
   (function () {
     var p = document.getElementById("page");
     function fit() {
