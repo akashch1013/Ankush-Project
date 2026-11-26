@@ -70,5 +70,21 @@
   "pdf": "Output/CH01/CH01-P043.pdf",
   "design": "category reference: diagram-led (B1 Ledger Plate)",
   "version": "1795667561-ccab"
+ },
+ "P004": {
+  "url": "https://claude.ai/artifact/U8DAo2iEJ2h2unbKN87p7D",
+  "file_path": "PdfSheetsGenTask/CH01/P004/artifact.html",
+  "math": "PASS 2026-11-26 (no equations; captions 0, −8 checked)",
+  "pdf": "Output/CH01/CH01-P004.pdf",
+  "design": "category reference: dialogue-story (P107 story family)",
+  "version": "1795667685-547c"
+ },
+ "P033": {
+  "url": "https://claude.ai/artifact/581VtwqSoyyX2bfFfjZAEn",
+  "file_path": "PdfSheetsGenTask/CH01/P033/artifact.html",
+  "math": "PASS 2026-11-26 (LCM, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P033.pdf",
+  "design": "category reference: story-maths (P107 story family + B1 panes)",
+  "version": "1795667686-06d1"
  }
 }
