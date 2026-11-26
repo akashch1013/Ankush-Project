@@ -24,7 +24,8 @@
   .ledger .eq { font-size: 21pt; line-height: 27pt; font-weight: 600; color: #1d2433; white-space: nowrap; margin: 0; }
   .ledger .eq .op { font-weight: 400; }
 
-  .qcard { background: #FBF7EE; border: .8pt solid #b3722f; padding: 9pt 14pt 7pt; }
+  .qcard { background: #4a1230; border: 1.2pt solid #c9a24a; box-shadow: inset 0 0 0 1.5pt #7a2450; padding: 6pt; }
+  .qcard .in { background:#FBF7EE; padding:6pt 11pt 4pt; }
   .qcard p { margin: 0; }
   .ablock { background: #EFE6D2; border-top: .8pt solid #b3722f; padding: 9pt 13pt 6pt; }
 
@@ -54,9 +55,9 @@
   .tez img { display: block; width: 100%; }
 
   .ledger .ttl { font-family:"Source Serif 4",serif; font-weight:600; font-size:29pt; line-height:34pt; color:#122A45; margin:0; white-space:nowrap; }
-  .ledger .eqt { font-size:22pt; line-height:28pt; font-weight:600; color:#1d2433; margin:6pt 0 8pt; white-space:nowrap; letter-spacing:.4pt; }
+  .ledger .eqt { font-size:22pt; line-height:28pt; font-weight:600; color:#1d2433; margin:6pt 0 4pt; white-space:nowrap; letter-spacing:.4pt; }
   .ledger .eqt .op { font-weight:400; }
-  .plaque { position:absolute; background:#FBF7EE; border:.8pt solid #b3722f; display:flex; justify-content:space-around; align-items:center; padding:7pt 20pt; }
+  .plaque { position:absolute; background:#FBF7EE; border-bottom:2.2pt solid #c9a24a; border-top:.8pt solid #b3722f; clip-path:polygon(0 0,100% 0,calc(100% - 16pt) 50%,100% 100%,0 100%,16pt 50%); display:flex; justify-content:space-around; align-items:center; padding:7pt 36pt; }
   .plaque .eq { font-size:25pt; line-height:32pt; }
   .plaque i { display:block; width:0; height:34pt; border-left:.6pt solid #b3722f; }
   .ledger sup { font-size:.62em; line-height:0; }
@@ -82,15 +83,15 @@
   <rect x="33.5" y="33.5" width="797" height="581" fill="none" stroke="#5b4a2e" stroke-opacity=".22" stroke-width="3" filter="url(#soft)"/>
   <circle cx="34" cy="96" r="74" fill="url(#glow)"/>
   <!-- mitred brass frame -->
-  <polygon points="20,20 844,20 832,32 32,32" fill="url(#hi)"/>
-  <polygon points="20,20 32,32 32,616 20,628" fill="url(#hi)"/>
-  <polygon points="20,628 32,616 832,616 844,628" fill="url(#lo)"/>
-  <polygon points="844,20 844,628 832,616 832,32" fill="url(#lo)"/>
-  <path d="M21 21H843 M21 21V627" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".8" fill="none"/>
-  <path d="M32 32L20 20 M832 32L844 20 M32 616L20 628 M832 616L844 628" stroke="#5a3510" stroke-width=".6"/>
+  <polygon points="14,14 850,14 832,32 32,32" fill="url(#hi)"/>
+  <polygon points="14,14 32,32 32,616 14,634" fill="url(#hi)"/>
+  <polygon points="14,634 32,616 832,616 850,634" fill="url(#lo)"/>
+  <polygon points="850,14 850,634 832,616 832,32" fill="url(#lo)"/>
+  <path d="M15 15H849 M15 15V633" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".8" fill="none"/>
+  <path d="M32 32L14 14 M832 32L850 14 M32 616L14 634 M832 616L850 634" stroke="#5a3510" stroke-width=".6"/>
   <rect x="32" y="32" width="800" height="584" fill="none" stroke="#3d240b" stroke-width=".6"/>
-  <g><circle cx="26" cy="26" r="2.2" fill="#7a4a18"/><circle cx="838" cy="26" r="2.2" fill="#7a4a18"/><circle cx="26" cy="622" r="2.2" fill="#7a4a18"/><circle cx="838" cy="622" r="2.2" fill="#7a4a18"/>
-  <circle cx="25.4" cy="25.4" r=".8" fill="#fff0c4"/><circle cx="837.4" cy="25.4" r=".8" fill="#fff0c4"/><circle cx="25.4" cy="621.4" r=".8" fill="#fff0c4"/><circle cx="837.4" cy="621.4" r=".8" fill="#fff0c4"/></g>
+  <g><rect x="11" y="11" width="22" height="22" fill="#d9a55a" stroke="#5a3510" stroke-width=".8"/><rect x="14" y="14" width="16" height="16" fill="none" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".6"/><rect x="831" y="11" width="22" height="22" fill="#d9a55a" stroke="#5a3510" stroke-width=".8"/><rect x="834" y="14" width="16" height="16" fill="none" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".6"/><rect x="11" y="615" width="22" height="22" fill="#d9a55a" stroke="#5a3510" stroke-width=".8"/><rect x="14" y="618" width="16" height="16" fill="none" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".6"/><rect x="831" y="615" width="22" height="22" fill="#d9a55a" stroke="#5a3510" stroke-width=".8"/><rect x="834" y="618" width="16" height="16" fill="none" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".6"/></g><g><circle cx="22" cy="22" r="2.2" fill="#7a4a18"/><circle cx="842" cy="22" r="2.2" fill="#7a4a18"/><circle cx="22" cy="626" r="2.2" fill="#7a4a18"/><circle cx="842" cy="626" r="2.2" fill="#7a4a18"/>
+  <circle cx="21.4" cy="21.4" r=".8" fill="#fff0c4"/><circle cx="841.4" cy="21.4" r=".8" fill="#fff0c4"/><circle cx="21.4" cy="625.4" r=".8" fill="#fff0c4"/><circle cx="841.4" cy="625.4" r=".8" fill="#fff0c4"/></g>
   <!-- moon and star medallions on the wall band -->
   <g transform="translate(150 10)"><circle r="6.2" fill="url(#moonG)"/><circle cx="-2" cy="-2" r="1.8" fill="#fff3cf" fill-opacity=".5"/><path d="M14 0L15 -3 L16 0 L19 1 L16 2 L15 5 L14 2 L11 1Z" fill="#e8c06a" transform="translate(0 -1)"/></g>
   <g transform="translate(714 638)"><circle r="6.2" fill="url(#moonG)"/><circle cx="-2" cy="-2" r="1.8" fill="#fff3cf" fill-opacity=".5"/><path d="M14 0L15 -3 L16 0 L19 1 L16 2 L15 5 L14 2 L11 1Z" fill="#e8c06a" transform="translate(0 -1)"/></g>
@@ -101,17 +102,18 @@
 <div class="blk" style="left:806pt; top:43pt; font-family:'Source Sans 3',sans-serif; font-weight:700; font-size:12pt; line-height:14pt; color:#122A45">64</div>
 <div class="blk" style="left:0; width:864pt; top:632pt; text-align:center; font-family:'Source Sans 3',sans-serif; font-weight:600; font-size:10pt; line-height:12pt; letter-spacing:2.6pt; color:#F7F1E3">CHAPTER 01 - NUMBERS - PG 064</div>
 <img class="blk" src="assets/img/LANTERN.png" alt="" style="left:2pt; top:62pt; width:40pt">
-<img class="blk" src="assets/img/IVY.png" alt="" style="left:630pt; top:2pt; width:84pt">
+<img class="blk" src="assets/img/LANTERN.png" alt="" style="left:822pt; top:560pt; width:38pt; transform:scaleX(-1)">
 
 <div class="blk" style="left:56pt; top:40pt"><h1 class="ttl">1.4 Squares and Square Roots</h1>
 <svg style="display:block; margin-top:2pt" width="360pt" height="6pt" viewBox="0 0 360 6" aria-hidden="true"><path d="M0 1.5H360" stroke="#b3722f" stroke-width="1.1"/><path d="M0 4.5H230" stroke="#b3722f" stroke-width=".5"/></svg></div>
 
 <div class="blk" id="colL" style="left:56pt; top:94pt; width:384pt">
   <div class="qcard" style="position:relative">
-    <svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
-    <p>A square can help us understand two useful calculations: finding its total area and finding a side from that area. Let’s begin by arranging small square tiles into a bigger square. Put 5 tiles in every row and make 5 rows. How many tiles fill the square?</p>
-  </div>
+    
+    <div class="in"><p>A square can help us understand two useful calculations: finding its total area and finding a side from that area. Let’s begin by arranging small square tiles into a bigger square. Put 5 tiles in every row and make 5 rows. How many tiles fill the square?</p>
+  </div></div>
   <div class="eqt" data-math="5 × 5 = 25">5 <span class="op">×</span> 5 <span class="op">=</span> <span class="mt">25</span></div>
+  <svg style="display:block;margin:-2pt 0 8pt" width="384pt" height="8pt" viewBox="0 0 384 8" aria-hidden="true"><path d="M0 4H184 M200 4H384" stroke="#c9a24a" stroke-width="2"/><path d="M192 0L197 4L192 8L187 4Z" fill="#c9a24a" stroke="#5a3510" stroke-width=".5"/></svg>
   <p>You can count the 25 little tiles, or multiply 5 × 5. Multiplying a number by itself is called squaring. We write 5² and read it as “five squared”. The small raised 2 says that there are two factors of 5:</p>
 </div>
 <svg class="blk" id="fig" style="left:472pt; top:80pt; width:236pt; height:238pt" viewBox="0 0 236 238" aria-hidden="false">
@@ -140,7 +142,6 @@
 <div class="blk" style="left:472pt; top:312pt; width:170pt; font-family:'Source Serif 4',serif; font-style:italic; font-size:14pt; line-height:18pt; color:#122A45; text-align:center">Five rows of five</div>
 
 <div class="plaque" id="plq" style="left:56pt; top:340pt; width:752pt">
-  <svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
   <div class="eq" data-math="5² = 5 × 5 = 25">5² <span class="op">=</span> 5 <span class="op">×</span> 5 <span class="op">=</span> <span class="mt">25</span></div>
   <i></i>
   <div class="eq" data-math="7² = 7 × 7 = 49">7² <span class="op">=</span> 7 <span class="op">×</span> 7 <span class="op">=</span> <span class="mt">49</span></div>
@@ -152,7 +153,7 @@
   <p style="margin:0">The area of our 5 cm square is 25 cm². Here cm² means square centimetres: how many 1 cm by 1 cm squares cover the surface. It measures area, not a side length.</p>
 </div>
 
-<div class="blk ablock" id="calc" style="left:470pt; top:424pt; width:338pt">
+<div class="blk ablock" id="calc" style="border-left:5pt solid #b3722f; left:470pt; top:424pt; width:338pt">
   <p style="margin:0">On a calculator: use the x² key to square a number. For 7², your calculation should show 7² and give 49. On many calculators you enter 7 and then press x²; the precise key order depends on the model. Check the displayed expression before accepting the answer.</p>
 </div>
 
