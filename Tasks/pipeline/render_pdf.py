@@ -58,9 +58,23 @@ def free_port():
     return port
 
 
+def chrome_print(html, pdf):
+    """Fallback when Firefox is not installed (e.g. cloud containers): headless Chrome/Chromium print."""
+    exe = next((shutil.which(x) for x in ("google-chrome", "chromium", "chromium-browser") if shutil.which(x)), None)
+    if not exe:
+        sys.exit("Neither firefox nor google-chrome/chromium is installed")
+    subprocess.run([exe, "--headless", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",
+                    "--virtual-time-budget=8000", "--run-all-compositor-stages-before-draw",
+                    f"--print-to-pdf={pdf}", "file://" + html],
+                   stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, timeout=180, check=False)
+
+
 def render(html, pdf, png=None, dpi=110):
     html, pdf = os.path.abspath(html), os.path.abspath(pdf)
     os.makedirs(os.path.dirname(pdf), exist_ok=True)
+    if not shutil.which("firefox"):
+        chrome_print(html, pdf)
+        return finish(pdf, png, dpi)
     port = free_port()
     prof = tempfile.mkdtemp(prefix="cr-ff-", dir=os.environ.get("CR_TMP") or None)
     with open(os.path.join(prof, "user.js"), "w") as fh:
@@ -103,7 +117,10 @@ def render(html, pdf, png=None, dpi=110):
         except subprocess.TimeoutExpired:
             proc.kill()
         shutil.rmtree(prof, ignore_errors=True)
+    finish(pdf, png, dpi)
 
+
+def finish(pdf, png, dpi):
     info = subprocess.run(["pdfinfo", pdf], capture_output=True, text=True).stdout
     pages = next((l.split()[-1] for l in info.splitlines() if l.startswith("Pages:")), "?")
     size = next((l.split(":", 1)[1].strip() for l in info.splitlines() if l.startswith("Page size:")), "?")

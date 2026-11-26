@@ -1,0 +1,21 @@
+Use case: ChandRush CH01 comic panel P033-4, visual beat CH01 05D B: Navya places her finger beside the 12 on the working strip and spots the shared entry.
+Asset: one landscape 3:2 graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved background plate S03-B01. Keep its architecture, materials, light and every object exactly as painted, same position and shape. The plate's front three-quarter view, pulled back half a step and slightly lower, so the children stand in the aisle along the near lip of the bench. Bench, rail, carved bird at its start mark, blue and gold catches (down, lamps off), wall beat strip, start-card slot and counter exactly as in Image 1.
+- Image 2: character sheet of Navya. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+- Image 3: character sheet of Vihaan. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+- Image 4: character sheet of Ahana. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+- Image 5: character sheet of Tara. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+- Image 6: character sheet of Tez. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+Characters and action:
+1. Navya: centre-right in front of the bench, head and shoulders just in front of the two catches; places her finger beside a mark on the cream working strip, other hand steadies it; gold pencil in hand; discovery, quiet certainty.
+2. Vihaan: left of Navya; blue pencil; watches the strip; interested.
+3. Ahana: behind/left, standing; brass lamp in right hand held over the strip; intent.
+4. Tara: right, at the counter end of the bench; staff upright in right hand; calm, wise.
+5. Tez (tiger cub): on the paving by the bench, low left, looking at the bird; curious.
+Props and states at this moment (exact): Start card still reads 6 and the wall beat strip keeps its printed 1-16 (both exactly as in the plate). Bird upright at its starting mark; catches down; lamps off; counter blank. A plain cream paper working strip lies on the bench lip with two empty ruled rows (one blue, one gold), NO digits on it.
+Physical inscriptions: only those already in the plate; nothing else.
+Reserved empty areas for lettering (calm, low-detail, no face, hand or key prop inside): upper-right over the wall above the counter about 36% x 16%.
+Composition: nearest faces fully visible, not cut by the frame edge (except where stated); essential action within the central 80%.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's lamps and moonlight. Tara is always a calm, wise old lady, never animated.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or painted text/numbers other than those listed; extra characters; extra or moved objects; any change to the background objects.
