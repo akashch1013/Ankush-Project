@@ -7,17 +7,136 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  /* B1 "Ledger Plate": calm cream field, lacquer-and-brass border from S04-B01 */
+  .page.ledger { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif;
+                 font-size: 14pt; line-height: 18pt; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 6pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-family: "Source Sans 3", sans-serif; font-weight: 600; color: #122A45;
+                font-size: 17pt; line-height: 21pt; margin: 0 0 6pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .sh.big { font-size: 19pt; line-height: 23pt; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger .eq { font-size: 21pt; line-height: 27pt; font-weight: 600; color: #1d2433; white-space: nowrap; margin: 0; }
+  .ledger .eq .op { font-weight: 400; }
+
+  .qcard { background: #FBF7EE; border: .8pt solid #b3722f; padding: 9pt 14pt 7pt; }
+  .qcard p { margin: 0; }
+  .ablock { background: #EFE6D2; border-top: .8pt solid #b3722f; padding: 9pt 13pt 6pt; }
+
+  /* factor lines: lhs | = a | = b | = c, the = signs aligned in columns */
+  .fgrid { display: grid; grid-template-columns: auto auto auto auto; justify-content: start; column-gap: 7pt; margin: 2pt 0 4pt; }
+  .fgrid > div { display: contents; }
+  .fgrid span.c { font-size: 21pt; line-height: 28pt; font-weight: 600; white-space: nowrap; }
+  .fgrid span.c.l { text-align: right; }
+  /* sharing lines: label | expression */
+  .sgrid { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 12pt; row-gap: 2pt; align-items: baseline; margin: 0 0 8pt; }
+  .sgrid > div { display: contents; }
+  .sgrid .lbl { font-size: 14pt; color: #1d2433; }
+  /* bag lines: expression | words */
+  .bgrid { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 10pt; align-items: baseline; }
+  .bgrid > div { display: contents; }
+  .bgrid .eq { font-size: 20pt; line-height: 25pt; }
+  .bgrid .lbl { font-size: 14pt; }
+
+  .divider { position: absolute; width: 0; border-left: .5pt solid #b3722f; opacity: .7; }
+
+  .aside-b { position: absolute; background: #FFFDF6; border: .8pt solid #1d2433; border-radius: 50% / 46%;
+             padding: 9pt 16pt 10pt; font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt;
+             color: #1d2433; text-align: center; }
+  .aside-b svg.tl { position: absolute; overflow: visible; }
+
+  .tez { position: absolute; }
+  .tez img { display: block; width: 100%; }
+
+  .rb { color:#1F6F6B; font-weight:700; border-top: 1.4pt solid #1F6F6B; padding: 0 1pt; margin-left: 0; }
+  .rd { color:#1F6F6B; font-weight:700; }
+  .row { position:absolute; left:48pt; width:776pt; }
+  .row p { margin:0 0 2pt; width:560pt; }
+  .tag { position:absolute; left:660pt; width:150pt; height:44pt; }
+  .tag span { position:absolute; left:34pt; top:0; line-height:44pt; font-size:25pt; font-weight:700; color:#2b1706; font-family:"Source Sans 3",sans-serif; }
+  .lbl2 { position:absolute; left:0; width:864pt; text-align:center; top:625pt; font-weight:600; font-size:8.5pt; letter-spacing:2.6pt; color:#2a3550; line-height:10pt; }
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P076">
+<svg class="blk" style="left:0;top:0;width:864pt;height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<defs>
+<linearGradient id="post" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".5" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="postR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".5" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="pave" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e4e3dc"/><stop offset="1" stop-color="#c9cbc8"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+<linearGradient id="glint" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff0c4" stop-opacity="0"/><stop offset=".5" stop-color="#fff0c4" stop-opacity=".5"/><stop offset="1" stop-color="#fff0c4" stop-opacity="0"/></linearGradient>
+<radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+</defs>
+<!-- blue wall strips -->
+<rect x="20" y="0" width="6" height="622" fill="#233f78"/><rect x="838" y="0" width="6" height="622" fill="#233f78"/>
+<g stroke="#0c1933" stroke-width=".4" stroke-opacity=".7"><path d="M20 70H26M20 140H26M20 210H26M20 280H26M20 350H26M20 420H26M20 490H26M20 560H26M838 70H844M838 140H844M838 210H844M838 280H844M838 350H844M838 420H844M838 490H844M838 560H844"/></g>
+<!-- posts -->
+<rect x="0" y="0" width="20" height="622" fill="url(#post)"/><rect x="844" y="0" width="20" height="622" fill="url(#postR)"/>
+<g stroke="#0c1933" stroke-width=".5"><path d="M0 0V622M20 0V622M844 0V622M864 0V622" /></g>
+<rect x="3" y="0" width="1.4" height="622" fill="url(#glint)"/><rect x="859" y="0" width="1.4" height="622" fill="url(#glint)"/>
+<!-- brass collars -->
+<g fill="url(#brass)" stroke="#5a3510" stroke-width=".5">
+<rect x="-1" y="0" width="22" height="14"/><rect x="-1" y="150" width="22" height="7"/><rect x="-1" y="300" width="22" height="7"/><rect x="-1" y="450" width="22" height="7"/><rect x="-1" y="604" width="22" height="18"/>
+<rect x="843" y="0" width="22" height="14"/><rect x="843" y="150" width="22" height="7"/><rect x="843" y="300" width="22" height="7"/><rect x="843" y="450" width="22" height="7"/><rect x="843" y="604" width="22" height="18"/>
+</g>
+<g fill="#fff0c4" fill-opacity=".7"><rect x="0" y="1.5" width="20" height=".8"/><rect x="0" y="151" width="20" height=".8"/><rect x="0" y="301" width="20" height=".8"/><rect x="0" y="451" width="20" height=".8"/><rect x="844" y="1.5" width="20" height=".8"/><rect x="844" y="151" width="20" height=".8"/><rect x="844" y="301" width="20" height=".8"/><rect x="844" y="451" width="20" height=".8"/></g>
+<!-- top canopy beam -->
+<rect x="0" y="0" width="864" height="12" fill="url(#post)" transform="rotate(0)"/><rect x="0" y="12" width="864" height="1.4" fill="#b3722f"/>
+<g fill="none" stroke="#c9a24a" stroke-width=".6"><path d="M30 8 H402 M462 8 H834"/></g>
+<path d="M411 0 H453 V30 L432 40 L411 30 Z" fill="#122A45" stroke="#c9a24a" stroke-width=".6"/>
+<circle cx="432" cy="15" r="6.6" fill="url(#moonG)"/><path d="M432 24 L433 27.4 L436.4 28.4 L433 29.4 L432 32.8 L431 29.4 L427.6 28.4 L431 27.4 Z" fill="#e8c06a"/>
+<!-- paving band -->
+<rect x="0" y="622" width="864" height="26" fill="url(#pave)"/>
+<path d="M0 622H864" stroke="#b3722f" stroke-width="1.2"/>
+<g stroke="#8d9097" stroke-width=".4" stroke-opacity=".7"><path d="M90 622V632M180 622V632M270 622V632M360 622V632M520 622V632M610 622V632M700 622V632M790 622V632"/></g>
+<!-- moonline channel, unlit -->
+<rect x="30" y="639" width="780" height="3.4" rx="1.6" fill="#8e96a3" stroke="#6b7280" stroke-width=".4"/><rect x="30" y="640" width="780" height=".9" fill="#c6ccd6"/>
+<!-- brass joint cover plate -->
+<rect x="808" y="634" width="30" height="13" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+<circle cx="813" cy="640.5" r="1.3" fill="#7a4a18"/><circle cx="833" cy="640.5" r="1.3" fill="#7a4a18"/>
+<!-- folio moon 76/108 ~70% lit -->
+<circle cx="600" cy="640.5" r="5" fill="#0c1933" stroke="#c9a24a" stroke-width=".5"/><path d="M600 635.5 A5 5 0 0 1 600 645.5 A3 5 0 0 0 600 635.5 Z" fill="#f3e3b8"/>
+<!-- brass down-pull handle at rest against right post -->
+<g transform="translate(0 0)"><path d="M844 300 H830 C822 300 820 306 820 312 V350 C820 356 822 362 830 362 H844" fill="none" stroke="#b3722f" stroke-width="3" stroke-linecap="round"/><path d="M830 301.5 C823.5 301.5 822 306 822 312 V350" fill="none" stroke="#f3d58f" stroke-width=".8" stroke-opacity=".8"/><rect x="838" y="296" width="8" height="70" rx="2" fill="url(#brass)" stroke="#5a3510" stroke-width=".5" opacity="0"/></g>
+</svg>
+<div class="lbl2">CHAPTER 01 - NUMBERS - PG 076</div>
 
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<div class="blk" style="left:48pt; top:28pt; width:500pt"><div class="sh big">Example 16</div></div>
+<div class="blk qcard" style="left:48pt; top:58pt; width:760pt"><p>Evaluate (a) <b class="rd">∛</b><b class="rb">8</b> + 2³, (b) <b class="rd">∛</b><b class="rb">125</b> − 5³ and (c) <b class="rd">∛</b><b class="rb">64</b> × 5 − 3³.</p></div>
+<div class="blk" style="left:48pt; top:112pt; width:500pt"><div class="sh">Let’s work it through</div></div>
 
+<div class="row" style="top:142pt"><p>(a) The root and the cube are different instructions. <b data-math="∛8 = 2" style="font-weight:400"><b class="rd">∛</b><b class="rb">8</b> = 2</b>, while <b data-math="2^3 = 8" style="font-weight:400"><b class="mr">2<sup style="font-size:.6em;line-height:0">3</sup></b> = 8</b>:</p>
+<div class="eq" data-math="∛8 + 2³ = 2 + 8 = 10"><b class="rd">∛</b><b class="rb">8</b> + <b class="mr">2<sup style="font-size:.6em;line-height:0">3</sup></b> = <b class="rd">2</b> + <b class="mr">8</b> = 10</div></div>
+<svg class="tag" style="top:154pt" viewBox="0 0 150 44" aria-hidden="true"><path d="M14 2 H146 V42 H14 L2 22 Z" fill="#d9a55a" stroke="#6e4318" stroke-width=".8"/><path d="M16 5 H143 V39 H16 L6 22 Z" fill="none" stroke="#fff0c4" stroke-width=".6" stroke-opacity=".8"/><circle cx="14" cy="22" r="3" fill="#F7F1E3" stroke="#6e4318" stroke-width=".6"/></svg><div class="blk" style="left:660pt; top:154pt; width:150pt; height:44pt"><span style="position:absolute;left:34pt;top:0;line-height:44pt;font-size:25pt;font-weight:700;color:#2b1706">10</span></div>
+<i class="divider" style="left:48pt;top:213pt;width:776pt;height:0;border-left:0;border-top:.5pt solid #b3722f"></i>
+<div class="row" style="top:220pt"><p>(b) Here <b data-math="∛125 = 5" style="font-weight:400"><b class="rd">∛</b><b class="rb">125</b> = 5</b>, while <b data-math="5^3 = 125" style="font-weight:400"><b class="mr">5<sup style="font-size:.6em;line-height:0">3</sup></b> = 125</b>. Subtracting the bigger amount gives a negative answer:</p>
+<div class="eq" data-math="∛125 − 5³ = 5 − 125 = −120"><b class="rd">∛</b><b class="rb">125</b> − <b class="mr">5<sup style="font-size:.6em;line-height:0">3</sup></b> = <b class="rd">5</b> − <b class="mr">125</b> = −120</div></div>
+<svg class="tag" style="top:232pt" viewBox="0 0 150 44" aria-hidden="true"><path d="M14 2 H146 V42 H14 L2 22 Z" fill="#d9a55a" stroke="#6e4318" stroke-width=".8"/><path d="M16 5 H143 V39 H16 L6 22 Z" fill="none" stroke="#fff0c4" stroke-width=".6" stroke-opacity=".8"/><circle cx="14" cy="22" r="3" fill="#F7F1E3" stroke="#6e4318" stroke-width=".6"/></svg><div class="blk" style="left:660pt; top:232pt; width:150pt; height:44pt"><span style="position:absolute;left:34pt;top:0;line-height:44pt;font-size:25pt;font-weight:700;color:#2b1706">−120</span></div>
+<i class="divider" style="left:48pt;top:291pt;width:776pt;height:0;border-left:0;border-top:.5pt solid #b3722f"></i>
+<div class="row" style="top:298pt"><p>(c) Find the root and the cube first. Then multiply before subtracting:</p>
+<div class="eq" data-math="∛64 × 5 − 3³ = 4 × 5 − 27 = 20 − 27 = −7"><b class="rd">∛</b><b class="rb">64</b> × 5 − <b class="mr">3<sup style="font-size:.6em;line-height:0">3</sup></b> = <b class="rd">4</b> × 5 − <b class="mr">27</b> = 20 − 27 = −7</div>
+<p style="margin-top:3pt; width:700pt">The root bar covers 64 only. The × 5 stays outside it.</p></div>
+<svg class="tag" style="top:294pt" viewBox="0 0 150 44" aria-hidden="true"><path d="M14 2 H146 V42 H14 L2 22 Z" fill="#d9a55a" stroke="#6e4318" stroke-width=".8"/><path d="M16 5 H143 V39 H16 L6 22 Z" fill="none" stroke="#fff0c4" stroke-width=".6" stroke-opacity=".8"/><circle cx="14" cy="22" r="3" fill="#F7F1E3" stroke="#6e4318" stroke-width=".6"/></svg><div class="blk" style="left:660pt; top:294pt; width:150pt; height:44pt"><span style="position:absolute;left:34pt;top:0;line-height:44pt;font-size:25pt;font-weight:700;color:#2b1706">−7</span></div>
+
+<svg class="blk" style="left:48pt; top:384pt; width:776pt; height:10pt" viewBox="0 0 776 10" aria-hidden="true"><path d="M0 5 H376 M400 5 H776" stroke="#b3722f" stroke-width=".8"/><circle cx="388" cy="5" r="3.6" fill="url(#moonG)" stroke="#a8702c" stroke-width=".4"/><circle cx="388" cy="5" r="6.2" fill="none" stroke="#c9a24a" stroke-width=".5"/></svg>
+
+<div class="blk qcard" style="left:48pt; top:406pt; width:620pt">
+<svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
+<div class="sh" style="margin-bottom:3pt">Now you try</div>
+<p>Evaluate (a) <b class="rd">∛</b><b class="rb">64</b> × 5, (b) <b class="rd">∛</b><b class="rb">216</b> × 3 − 5³ and (c) 5 × <b class="rd">∛</b><b class="rb">343</b>.</p></div>
+
+<div class="blk ablock" style="left:48pt; top:482pt; width:620pt">
+<div class="sh" style="margin-bottom:4pt">Check your method</div>
+<div class="eq" style="font-size:19pt;line-height:26pt" data-math="∛64 × 5 = 4 × 5 = 20">(a) <b class="rd">∛</b><b class="rb">64</b> × 5 = <b class="rd">4</b> × 5 = 20</div>
+<div class="eq" style="font-size:19pt;line-height:26pt" data-math="∛216 × 3 − 5³ = 6 × 3 − 125 = 18 − 125 = −107">(b) <b class="rd">∛</b><b class="rb">216</b> × 3 − <b class="mr">5<sup style="font-size:.6em;line-height:0">3</sup></b> = <b class="rd">6</b> × 3 − <b class="mr">125</b> = 18 − 125 = −107</div>
+<div class="eq" style="font-size:19pt;line-height:26pt" data-math="5 × ∛343 = 5 × 7 = 35">(c) 5 × <b class="rd">∛</b><b class="rb">343</b> = 5 × <b class="rd">7</b> = 35</div>
+</div>
+
+<div class="tez" style="left:690pt; top:468pt; width:136pt"><img src="assets/img/VIHAAN.png" alt=""></div>
+<div class="aside-b" style="left:684pt; top:398pt; width:150pt; padding:7pt 12pt 8pt">The cubes at the back are still on the team.<svg class="tl" style="left:56pt; bottom:-15pt; width:14pt; height:16pt" viewBox="0 0 14 14" aria-hidden="true"><path d="M1 0 C4 5 4.5 9 5 14 C7.5 9 10 5 12 0" fill="#FFFDF6" stroke="#1d2433" stroke-width=".8"/><path d="M1.6 -.2 H11.4" stroke="#FFFDF6" stroke-width="1.6"/></svg></div>
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
