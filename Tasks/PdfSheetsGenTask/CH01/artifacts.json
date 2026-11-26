@@ -22,5 +22,45 @@
   "pdf": "Output/CH01/CH01-P039-A3-v1.pdf",
   "design": "A3",
   "version": "1795354286-7922"
+ },
+ "P001": {
+  "url": "https://claude.ai/artifact/42dYAVfdgvs8JsoP6YTifS",
+  "file_path": "PdfSheetsGenTask/CH01/P001/artifact.html",
+  "math": "no maths",
+  "pdf": "Output/CH01/CH01-P001.pdf",
+  "design": "category reference: opener (P107 story family)",
+  "version": "1795667487-33bc"
+ },
+ "P002": {
+  "url": "https://claude.ai/artifact/GKcpnNyRV6FG7jWbbwS5LC",
+  "file_path": "PdfSheetsGenTask/CH01/P002/artifact.html",
+  "math": "no maths",
+  "pdf": "Output/CH01/CH01-P002.pdf",
+  "design": "category reference: action-story (P107 story family)",
+  "version": "1795667488-6228"
+ },
+ "P064": {
+  "url": "https://claude.ai/artifact/5Q4ZYb29xvicpnnRhe871s",
+  "file_path": "PdfSheetsGenTask/CH01/P064/artifact.html",
+  "math": "PASS 2026-11-25 (B1, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P064.pdf",
+  "design": "category reference: concept (B1 Ledger Plate)",
+  "version": "1795667501-97e2"
+ },
+ "P076": {
+  "url": "https://claude.ai/artifact/D6Gc1394iNUYPwpiWzEoG8",
+  "file_path": "PdfSheetsGenTask/CH01/P076/artifact.html",
+  "math": "PASS 2026-11-25 (B1, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P076.pdf",
+  "design": "category reference: worked-example (B1 Ledger Plate)",
+  "version": "1795667503-8b9a"
+ },
+ "P077": {
+  "url": "https://claude.ai/artifact/33JNo9FmXf7yTEW7VqUocN",
+  "file_path": "PdfSheetsGenTask/CH01/P077/artifact.html",
+  "math": "PASS 2026-11-25 (B1, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P077.pdf",
+  "design": "category reference: practice-set (B1 Ledger Plate)",
+  "version": "1795667504-355d"
  }
 }
