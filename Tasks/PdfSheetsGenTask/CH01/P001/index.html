@@ -7,16 +7,111 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  /* opener: deep peacock-teal page, gate arch around the hero, brass pinstripe + lacquer rail (Lantern Street materials) */
+  .page.ledger { background: #06191f; color: #121a33; }
+  .page .abs { position: absolute; }
+  .ttl { position: absolute; left: 0; top: 24pt; width: 864pt; text-align: center; margin: 0;
+         font-family: "Source Serif 4", serif; font-weight: 600; font-size: 31pt; line-height: 40pt;
+         letter-spacing: .09em; text-transform: uppercase; color: #f6dca0;
+         text-shadow: 0 0 14pt rgba(247,198,132,.45), 0 1pt 2pt rgba(0,0,0,.7); }
+  .cap { position: absolute; left: 96pt; width: 672pt; bottom: 76pt; box-sizing: border-box;
+         background: rgba(247,241,227,.95); border: 1pt solid #b3722f; padding: 7pt 16pt 7pt;
+         font-family: "Source Serif 4", serif; font-size: 14pt; line-height: 18pt; color: #121a33;
+         box-shadow: 0 0 0 2.2pt rgba(10,24,40,.55), 0 4pt 10pt rgba(0,0,0,.5); }
+  .cap p { margin: 0; }
+  .lab { position: absolute; left: 0; width: 864pt; top: 606pt; text-align: center;
+         font-family: "Source Sans 3", sans-serif; font-weight: 600; font-size: 10pt; line-height: 14pt;
+         letter-spacing: .26em; color: #f6dca0; }
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P001">
 
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<svg class="abs" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <radialGradient id="pg" cx="432" cy="330" r="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a5a60"/><stop offset=".38" stop-color="#0f3a42"/><stop offset=".75" stop-color="#082a31"/><stop offset="1" stop-color="#041419"/></radialGradient>
+    <radialGradient id="bloom" cx="432" cy="330" r="400" gradientUnits="userSpaceOnUse" gradientTransform="translate(432 330) scale(1 .9) translate(-432 -330)">
+      <stop offset="0" stop-color="#7fd0c6" stop-opacity=".30"/><stop offset=".6" stop-color="#3a9a9a" stop-opacity=".10"/><stop offset="1" stop-color="#3a9a9a" stop-opacity="0"/></radialGradient>
+    <radialGradient id="warm" cx="300" cy="590" r="260" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f7c684" stop-opacity=".22"/><stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <linearGradient id="vou" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a58a3"/><stop offset=".5" stop-color="#1e4589"/><stop offset="1" stop-color="#122A45"/></linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a58a3"/><stop offset=".5" stop-color="#1b3d7c"/><stop offset="1" stop-color="#0d1f3d"/></linearGradient>
+    <linearGradient id="key" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".6" stop-color="#c98f45"/><stop offset="1" stop-color="#8a5a22"/></linearGradient>
+    <radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+    <radialGradient id="coin" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#f3d58f"/><stop offset=".6" stop-color="#c98f45"/><stop offset="1" stop-color="#7a4a18"/></radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="arch"><path d="M72 584V234A360 130 0 0 1 792 234V584Z"/></clipPath>
+  </defs>
+  <rect width="864" height="648" fill="url(#pg)"/>
+  <rect width="864" height="648" fill="url(#bloom)"/>
+  <rect width="864" height="648" fill="url(#warm)"/>
+  <g><circle cx="104" cy="128" r="0.5" fill="#f6dca0" opacity="0.25"/><circle cx="150" cy="96" r="0.8" fill="#f6dca0" opacity="0.35"/><circle cx="228" cy="118" r="1.1" fill="#f6dca0" opacity="0.45"/><circle cx="300" cy="84" r="0.5" fill="#f6dca0" opacity="0.55"/><circle cx="566" cy="90" r="0.8" fill="#f6dca0" opacity="0.25"/><circle cx="640" cy="112" r="1.1" fill="#f6dca0" opacity="0.35"/><circle cx="716" cy="100" r="0.5" fill="#f6dca0" opacity="0.45"/><circle cx="766" cy="138" r="0.8" fill="#f6dca0" opacity="0.55"/><circle cx="86" cy="190" r="1.1" fill="#f6dca0" opacity="0.25"/><circle cx="120" cy="214" r="0.5" fill="#f6dca0" opacity="0.35"/><circle cx="770" cy="210" r="0.8" fill="#f6dca0" opacity="0.45"/><circle cx="752" cy="180" r="1.1" fill="#f6dca0" opacity="0.55"/><circle cx="90" cy="330" r="0.5" fill="#f6dca0" opacity="0.25"/><circle cx="780" cy="300" r="0.8" fill="#f6dca0" opacity="0.35"/><circle cx="100" cy="470" r="1.1" fill="#f6dca0" opacity="0.45"/><circle cx="776" cy="520" r="0.5" fill="#f6dca0" opacity="0.55"/><circle cx="86" cy="560" r="0.8" fill="#f6dca0" opacity="0.25"/><circle cx="790" cy="566" r="1.1" fill="#f6dca0" opacity="0.35"/><circle cx="60" cy="120" r="0.5" fill="#f6dca0" opacity="0.45"/></g>
+
+  <!-- brass pinstripe 20 pt from the trim -->
+  <rect x="20" y="20" width="824" height="608" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+  <rect x="23.4" y="23.4" width="817.2" height="601.2" fill="none" stroke="#d9a55a" stroke-opacity=".45" stroke-width=".4"/>
+
+  <!-- the gate: shadow, lacquer voussoir band, hero art, inner shade, brass edge -->
+  <path d="M60 584V234A372 142 0 0 1 804 234V584Z" fill="#000" opacity=".55" filter="url(#soft)" transform="translate(0 5)"/>
+  <path d="M60 584V234A372 142 0 0 1 804 234V584Z" fill="url(#vou)" stroke="#0c1933" stroke-width=".8"/>
+  <path d="M779.7 200.4L791.3 197.2M743.8 169.0L754.2 163.0M686.6 142.1L695.0 133.6M612.0 121.4L618.0 111.0M525.2 108.4L528.3 96.8M432.0 104.0L432.0 92.0M338.8 108.4L335.7 96.8M252.0 121.4L246.0 111.0M177.4 142.1L169.0 133.6M120.2 169.0L109.8 163.0M84.3 200.4L72.7 197.2M72 264H60 M792 264H804M72 304H60 M792 304H804M72 344H60 M792 344H804M72 384H60 M792 384H804M72 424H60 M792 424H804M72 464H60 M792 464H804M72 504H60 M792 504H804M72 544H60 M792 544H804" stroke="#0a1730" stroke-width=".7" stroke-opacity=".85" fill="none"/>
+  <path d="M60 584V234A372 142 0 0 1 804 234V584Z" fill="none" stroke="#5f8bd6" stroke-opacity=".5" stroke-width=".6" transform="translate(0 .8)"/>
+  <image href="assets/img/P001-1.jpg" x="72" y="104" width="720" height="480" preserveAspectRatio="none" clip-path="url(#arch)"/>
+  <path d="M72 584V234A360 130 0 0 1 792 234V584Z" fill="none" stroke="#02060e" stroke-opacity=".55" stroke-width="9" clip-path="url(#arch)" filter="url(#soft)"/>
+  <path d="M72 584V234A360 130 0 0 1 792 234V584Z" fill="none" stroke="#d9a55a" stroke-width="1.1"/>
+  <path d="M60 584V234A372 142 0 0 1 804 234V584Z" fill="none" stroke="#c9a24a" stroke-width=".7"/>
+  <!-- plinths where the arch meets the ground -->
+  <rect x="54" y="574" width="24" height="14" fill="url(#brass)" stroke="#4a2c0c" stroke-width=".5"/>
+  <rect x="786" y="574" width="24" height="14" fill="url(#brass)" stroke="#4a2c0c" stroke-width=".5"/>
+
+  <!-- keystone with the moon-and-star medallion -->
+  <path d="M411 79H453L449 118H415Z" fill="url(#key)" stroke="#4a2c0c" stroke-width=".7"/>
+  <path d="M413.4 81.4H450.6" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".7"/>
+  <circle cx="432" cy="95" r="8.6" fill="#122A45" stroke="#6e4318" stroke-width=".6"/>
+  <path d="M432 87.4A7.6 7.6 0 1 0 439.4 97A5.8 5.8 0 1 1 432 87.4Z" fill="url(#moonG)"/>
+  <path d="M432 105.4L432.9 108.6L436.1 109.5L432.9 110.4L432 113.6L431.1 110.4L427.9 109.5L431.1 108.6Z" fill="#f3d58f"/>
+
+  <!-- bottom lacquer rail with the page label -->
+  <rect x="50" y="601" width="700" height="26" rx="2" fill="url(#rail)" stroke="#0c1933" stroke-width=".7"/>
+  <rect x="50.6" y="601.6" width="698.8" height="24.8" rx="2" fill="none" stroke="#5f8bd6" stroke-opacity=".5" stroke-width=".5"/>
+  <path d="M54 604.5H746M54 623.5H746" stroke="#c9a24a" stroke-width=".6"/>
+  <g fill="#d7a256"><circle cx="58" cy="614" r="1.5"/><circle cx="742" cy="614" r="1.5"/></g>
+
+  <!-- brass-coin folio: the moon at 1/108, a sliver -->
+  <circle cx="790" cy="614" r="17" fill="#3d240b" opacity=".5" filter="url(#soft)" transform="translate(1 2)"/>
+  <circle cx="790" cy="614" r="16" fill="url(#coin)" stroke="#4a2c0c" stroke-width=".7"/>
+  <circle cx="790" cy="614" r="13" fill="#0c1933" stroke="#f3d58f" stroke-width=".7"/>
+  <path d="M794.5 603.4A11 11 0 1 0 794.5 624.6A8.6 8.6 0 0 1 794.5 603.4Z" fill="#cfe0fa" transform="translate(-9 0) scale(1) translate(0 0)" opacity="0"/>
+  <path d="M790 604A10 10 0 0 1 790 624A7 10 0 0 0 790 604Z" fill="#f6dca0"/>
+
+  <!-- corner caps (quarter-moon cut) -->
+  <g transform="translate(0 0) scale(1 1)"><path d="M0 0H46V9A37 37 0 0 1 9 46H0Z" fill="url(#brass)" stroke="#4a2c0c" stroke-width=".6"/><path d="M2 2H44M2 2V44" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".7" fill="none"/><circle cx="11" cy="11" r="3" fill="#7a4a18"/><circle cx="11" cy="11" r="2.1" fill="#d7a256"/><circle cx="10.3" cy="10.2" r=".8" fill="#fff0c4"/></g>
+  <g transform="translate(0 648) scale(1 -1)"><path d="M0 0H46V9A37 37 0 0 1 9 46H0Z" fill="url(#brass)" stroke="#4a2c0c" stroke-width=".6"/><path d="M2 2H44M2 2V44" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".7" fill="none"/><circle cx="11" cy="11" r="3" fill="#7a4a18"/><circle cx="11" cy="11" r="2.1" fill="#d7a256"/><circle cx="10.3" cy="10.2" r=".8" fill="#fff0c4"/></g>
+  <g transform="translate(864 648) scale(-1 -1)"><path d="M0 0H46V9A37 37 0 0 1 9 46H0Z" fill="url(#brass)" stroke="#4a2c0c" stroke-width=".6"/><path d="M2 2H44M2 2V44" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".7" fill="none"/><circle cx="11" cy="11" r="3" fill="#7a4a18"/><circle cx="11" cy="11" r="2.1" fill="#d7a256"/><circle cx="10.3" cy="10.2" r=".8" fill="#fff0c4"/></g>
+  <!-- top-right cap + lantern bracket -->
+  <g transform="translate(864 0) scale(-1 1)"><path d="M0 0H46V9A37 37 0 0 1 9 46H0Z" fill="url(#brass)" stroke="#4a2c0c" stroke-width=".6"/><path d="M2 2H44M2 2V44" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".7" fill="none"/><circle cx="11" cy="11" r="3" fill="#7a4a18"/><circle cx="11" cy="11" r="2.1" fill="#d7a256"/><circle cx="10.3" cy="10.2" r=".8" fill="#fff0c4"/></g>
+  <g fill="none" stroke="#b3722f" stroke-linecap="round">
+    <path d="M818 27.6H826" stroke-width="1.2"/>
+    <path d="M818 27.6C811 27.6 808.6 32.4 811.4 34.8" stroke-width="1"/>
+    <path d="M818 29.2H846" stroke="#f3d58f" stroke-width=".5" stroke-opacity=".7"/>
+  </g>
+  <rect x="826" y="24" width="4" height="8" rx="1.4" fill="#b3722f" stroke="#6e4318" stroke-width=".4"/>
+  <!-- unlit hanging lantern (lights at the chapter end) -->
+  <path d="M820.5 28V40" stroke="#8a5a22" stroke-width=".8"/>
+  <path d="M812 52C812.4 44.6 816 40 820.5 40C825 40 828.6 44.6 829 52Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+  <rect x="813" y="52" width="15" height="19" fill="#0e2a33" stroke="#8a5a22" stroke-width=".9"/>
+  <path d="M813 52V71M828 52V71M820.5 52V71" stroke="#b3722f" stroke-width=".6"/>
+  <path d="M815 54V69" stroke="#7fd0c6" stroke-opacity=".35" stroke-width="1"/>
+  <path d="M811 71H830L827.6 76H813.4Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+  <circle cx="820.5" cy="78" r="1.6" fill="#b3722f"/>
+</svg>
+
+<h1 class="ttl">The Street That Would Not Light</h1>
+
+<div class="cap"><p>The work lamp lights only a small circle of Lantern Street. Tall arches stretch across the lane, but their lanterns are dark. On either side stand blue-painted stalls with closed shutters.</p></div>
+
+<div class="lab">CHAPTER 01 - NUMBERS - PG 001</div>
 
 </div>
 <script>
