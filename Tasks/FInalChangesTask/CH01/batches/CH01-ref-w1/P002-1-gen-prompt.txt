@@ -1,0 +1,15 @@
+Use case: ChandRush CH01 comic panel P002-1, visual beat CH01 01B A: Tez walks into the parked cart's handle and stops, forehead touching it.
+Asset: one landscape 3:2 graphic-novel panel illustration, no lettering of any kind.
+Input images:
+- Image 1: approved background plate M01-D01. Keep its architecture, materials, light and every object exactly as painted, same position and shape. Same cart, same spot as in Image 1, camera dropped to cub-eye height on the open-lane side, facing the left stall wall: the cart is side-on against the wall, its existing sloping handle goes down to screen-left towards the entrance, cart body screen-right; lift wall and one dark arch behind. Do NOT add, move or reshape any object; the handle is the plate's own handle. Keep the action in the middle 60% of the height.
+- Image 2: character sheet of Tez. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+- Image 3: character sheet of Ahana. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnarounds, background, labels and text.
+Characters and action:
+1. Tez (tiger cub): left of centre, side-on, facing screen-right; his lowered forehead touches the rising wooden shaft just above its ground-level grip (no injury); eyes shut for a beat, dignity dented.
+2. Ahana: at the screen-left edge only her near shin and shoe visible, one step behind Tez's flank, mid-step; lamp light falls from above-left.
+Props and states at this moment (exact): Parked cart and handle exactly as in Image 1. Warm lamp pool around Tez and the handle tip. Main arches dark.
+Physical inscriptions: only those already in the plate; nothing else.
+Reserved empty areas for lettering (calm, low-detail, no face, hand or key prop inside): upper-right over the dark wall above the cart body, about 30% wide x 22% high.
+Composition: nearest faces fully visible, not cut by the frame edge (except where stated); essential action within the central 80%.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's lamps and moonlight. Tara is always a calm, wise old lady, never animated.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or painted text/numbers other than those listed; extra characters; extra or moved objects; any change to the background objects.
