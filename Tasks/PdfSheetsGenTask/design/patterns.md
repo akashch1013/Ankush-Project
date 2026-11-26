@@ -4,6 +4,8 @@
 
 > **Design Manual V09 governs (2026-11-22).** Read `manual-v09.md` first. Use the layouts below as starting grids only; where they disagree with V09 (type sizes, captions/bubbles 14/18 pt, gutter colours, edges, companions, maths colour), V09 wins.
 
+> **Category references (2026-11-26).** Before choosing a grid, open the page category's model in `references/` (see its README). These are structure guides, not templates: vary the grid, ground, border and hero position between pages of the same category.
+
 The sheet is 864 × 648 pt (12 × 9 in, landscape). Coordinates are in pt: `left, top, width, height`. `samples/*.jpg` are renders of the approved pages. **Open the sample named for a pattern before building a page with it**, and copy its proportions, spacing and hierarchy. Snippets for each pattern are in `components.html`.
 
 Choose the pattern from the page's content (master's `pages.json` → `pattern`). Vary patterns and themes between neighbouring pages; don't use the same pattern 3 times in a row.

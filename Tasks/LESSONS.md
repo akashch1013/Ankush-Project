@@ -13,6 +13,7 @@ Master: after feedback (raw words to FEEDBACK.md) add a dated rule under the sec
 - 2026-11-24 · Token budget. Caps: page-builder ≤ 4 renders/page; ≤ 2 maths-fix rounds; ≤ 1 review-fix round; at a cap, stop and report what's left for the user. Read an image only when you must judge it. Prefer one contact sheet over many images. After a render, read `preview.png` once; crop only to check a specific issue. Never re-read an image already in your context.
 
 ## master, chapter-setup · Stage 0 (planning)
+- 2026-11-26 · **Set `category` on every planned page** (opener, action-story, dialogue-story, story-maths, concept, worked-example, practice-set, diagram-led; definitions in `PdfSheetsGenTask/design/references/README.md`). Briefs and builds start from that category's reference page; vary from the last two pages of the same category.
 - 2026-11-23 · CH01 source is **manuscript V06** (`Reference/Chap1 Corrected/CH01-PANELIZED-MANUSCRIPT-V06.docx`); `src/` and `manuscript.txt` were regenerated from it.
 
 ## master, chapter-setup, page-builder, math-checker · Maths

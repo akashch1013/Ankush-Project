@@ -177,52 +177,253 @@
    "note": ""
   },
   "P001-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "21d1056fb0bb",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0553
+    }
+   ],
+   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:23",
+     "verdict": "pass",
+     "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    }
+   ]
   },
   "P002-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "15811483e2c4",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0372
+    }
+   ],
+   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:23",
+     "verdict": "pass",
+     "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    }
+   ]
   },
   "P002-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "b1140cbeca59",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0551
+    }
+   ],
+   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:23",
+     "verdict": "pass",
+     "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    }
+   ]
   },
   "P002-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "271c5dc7fc5c",
+     "refs": [
+      "BagroundGenTask/out/plates/M01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0427
+    }
+   ],
+   "note": "contact-sheet QC only: handle looks more horizontal in close crop; accepted",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:24",
+     "verdict": "pass",
+     "note": "contact-sheet QC only: handle looks more horizontal in close crop; accepted"
+    }
+   ]
   },
   "P004-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "14eb52593a56",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0551
+    }
+   ],
+   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:23",
+     "verdict": "pass",
+     "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    }
+   ]
   },
   "P004-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "fadac9b5f259",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.049
+    }
+   ],
+   "note": "contact-sheet QC only: Vihaan's finger is near controller buttons/lower strip, not clearly on the strip; Tara faces camera; accepted",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:24",
+     "verdict": "pass",
+     "note": "contact-sheet QC only: Vihaan's finger is near controller buttons/lower strip, not clearly on the strip; Tara faces camera; accepted"
+    }
+   ]
   },
   "P004-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "32234b756721",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0549
+    }
+   ],
+   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:23",
+     "verdict": "pass",
+     "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    }
+   ]
   },
   "P033-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-ref-w1",
+     "at": "2026-11-26T04:20:12",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "30591207305c",
+     "refs": [
+      "BagroundGenTask/out/plates/S03-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0552
+    }
+   ],
+   "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering",
+   "qc": [
+    {
+     "at": "2026-11-26T04:20:24",
+     "verdict": "pass",
+     "note": "contact-sheet QC: plate objects, cast, sheets, reserves ok; no lettering"
+    }
+   ]
   }
  },
  "fix_queue": {}
