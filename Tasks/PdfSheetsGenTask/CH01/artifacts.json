@@ -13,7 +13,8 @@
   "math": "PASS 2026-11-23 (B1, manuscript V06)",
   "pdf": "Output/CH01/CH01-P039.pdf",
   "design": "B1 Ledger Plate",
-  "version": "1795436748-a40d"
+  "version": "1795698002-ffb9",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  },
  "P039-A3-v1": {
   "url": "https://claude.ai/artifact/RANxAwg86Cz84unNnTdgce",
@@ -53,7 +54,8 @@
   "math": "PASS 2026-11-25 (B1, manuscript V06)",
   "pdf": "Output/CH01/CH01-P076.pdf",
   "design": "category reference: worked-example (B1 Ledger Plate)",
-  "version": "1795667503-8b9a"
+  "version": "1795697979-140f",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  },
  "P077": {
   "url": "https://claude.ai/artifact/33JNo9FmXf7yTEW7VqUocN",
@@ -61,7 +63,8 @@
   "math": "PASS 2026-11-25 (B1, manuscript V06)",
   "pdf": "Output/CH01/CH01-P077.pdf",
   "design": "category reference: practice-set (B1 Ledger Plate)",
-  "version": "1795667504-355d"
+  "version": "1795697981-6b71",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  },
  "P043": {
   "url": "https://claude.ai/artifact/1XrkqeKgvhFdACdLr1LpQC",
@@ -77,7 +80,8 @@
   "math": "PASS 2026-11-26 (no equations; captions 0, −8 checked)",
   "pdf": "Output/CH01/CH01-P004.pdf",
   "design": "category reference: dialogue-story (P107 story family)",
-  "version": "1795667685-547c"
+  "version": "1795697975-b19f",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  },
  "P033": {
   "url": "https://claude.ai/artifact/581VtwqSoyyX2bfFfjZAEn",
@@ -85,6 +89,7 @@
   "math": "PASS 2026-11-26 (LCM, manuscript V06)",
   "pdf": "Output/CH01/CH01-P033.pdf",
   "design": "category reference: story-maths (P107 story family + B1 panes)",
-  "version": "1795667686-06d1"
+  "version": "1795697977-db34",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  }
 }
