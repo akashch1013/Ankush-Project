@@ -43,10 +43,11 @@
  "P064": {
   "url": "https://claude.ai/artifact/5Q4ZYb29xvicpnnRhe871s",
   "file_path": "PdfSheetsGenTask/CH01/P064/artifact.html",
-  "math": "PASS 2026-11-25 (B1, manuscript V06)",
+  "math": "PASS 2026-11-26 (calculator 7² = 49)",
   "pdf": "Output/CH01/CH01-P064.pdf",
   "design": "category reference: concept (B1 Ledger Plate)",
-  "version": "1795667501-97e2"
+  "version": "1795698072-e7e1",
+  "note": "2026-11-26 v2: page mark; companion removed (no manuscript quote); x² calculator"
  },
  "P076": {
   "url": "https://claude.ai/artifact/D6Gc1394iNUYPwpiWzEoG8",
@@ -69,10 +70,11 @@
  "P043": {
   "url": "https://claude.ai/artifact/1XrkqeKgvhFdACdLr1LpQC",
   "file_path": "PdfSheetsGenTask/CH01/P043/artifact.html",
-  "math": "PASS 2026-11-26 (B1, manuscript V06; HCF re-check)",
+  "math": "PASS 2026-11-26 (factor strip; tags fixed after math-checker)",
   "pdf": "Output/CH01/CH01-P043.pdf",
   "design": "category reference: diagram-led (B1 Ledger Plate)",
-  "version": "1795667561-ccab"
+  "version": "1795698070-a31b",
+  "note": "2026-11-26 v2: page mark; Vihaan removed (no manuscript quote); factor strip for 28"
  },
  "P004": {
   "url": "https://claude.ai/artifact/U8DAo2iEJ2h2unbKN87p7D",

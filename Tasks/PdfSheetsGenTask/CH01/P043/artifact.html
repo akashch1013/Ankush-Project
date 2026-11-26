@@ -197,6 +197,34 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
 .runline { position: absolute; font: 600 10.5pt/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; }
 .mt { color: var(--m-teal); font-weight: 700; }   /* tracked quantity */
 .mr { color: var(--m-terra); font-weight: 700; }  /* second role */
+.frac > span:first-child { border-bottom: 1pt solid currentColor; padding: 0 2pt; }
+/* exact text laid over a blank card/board painted in the art; tune --rx/--ry/--rz to match the card's perspective */
+.ontext { position: absolute; color: #1e2533; font: 700 16pt/1.15 var(--sans); text-align: center;
+  transform: perspective(600pt) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) rotateZ(var(--rz, 0deg)); }
+
+/* ------------------------------------------------------------------ Design Manual V09 additions (see manual-v09.md) */
+.page { --g-indigo: #122A45; --g-teal: #245857; --g-aubergine: #46364F; --g-slate: #384961;
+        --paper-warm: #F7F1E3; --paper-cool: #E9EEF0; --m-teal: #1F6F6B; --m-terra: #B5603A; }
+.cap { line-height: var(--lead); padding: 5pt 7pt; }
+.bubble { line-height: var(--lead); }
+.aside:not(.say) { font-family: var(--serif) !important; font-weight: 400 !important; }   /* V09 detached remark; kit .say.aside uses Kalam */
+/* PDF text layer: ligatures (ft, fi) drop letters when text is copied or searched from the PDF */
+.page, .page * { font-variant-ligatures: none !important; }
+.runline { position: absolute; font: 600 10.5pt/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; }
+.mt { color: var(--m-teal); font-weight: 700; }   /* tracked quantity */
+.mr { color: var(--m-terra); font-weight: 700; }  /* second role */
+
+/* ------------------------------------------------------------------ page mark (user rule 2026-11-26)
+   Chapter label + page number at ONE fixed place on every page (bottom-right). Never move it per page; only
+   recolour with --pm-ink / --pm-ring / --pm-coin. Markup:
+   <div class="pagemark"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 043</span><span class="pm-no">43</span></div>
+   Keep x 560–820 pt, y 624–648 pt clear of panels, captions and ornaments. */
+.page .pagemark { position: absolute; right: 48pt; bottom: 5pt; height: 16pt; display: flex; align-items: center; gap: 7pt;
+  z-index: 60; white-space: nowrap; font: 600 9pt/16pt "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--pm-ink, #e0b65e); text-shadow: var(--pm-shadow, 0 1pt 2pt rgba(0,0,0,.55)); }
+.page .pagemark .pm-no { display: inline-flex; align-items: center; justify-content: center; box-sizing: border-box;
+  min-width: 16pt; height: 16pt; padding: 0 3pt; border-radius: 8pt; border: 1.1pt solid var(--pm-ring, #c9973f);
+  background: var(--pm-coin, rgba(0,0,0,.18)); font: 700 8pt/1 "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: 0; }
 
 /* ChandRush creative kit A4 "Step Inside" (2026-11-22). Governs the look; ART-DIRECTION.md explains when to use what.
    The page IS the location: a crisp location plate fills the sheet, and the reading sits on panes of glass cut from
@@ -345,13 +373,7 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
  <use href="#cap" transform="translate(864 0) scale(-1 1)"/>
  <use href="#cap" transform="translate(0 648) scale(1 -1)"/>
  <use href="#cap" transform="translate(864 648) scale(-1 -1)"/>
- <!-- folio moon: 43/108, about 40 percent lit, waxing -->
- <circle cx="807" cy="13" r="7.2" fill="#14224a" stroke="#8a5a22" stroke-width=".7"/>
- <path d="M807 5.8 A7.2 7.2 0 0 1 807 20.2 A1.44 7.2 0 0 0 807 5.8 Z" fill="#fbe7b4"/>
 </svg>
-<div class="blk" style="left:742pt;top:6pt;width:50pt;text-align:right;font-weight:700;font-size:12pt;line-height:14pt;color:#3d2a10">43</div>
-<div class="blk" style="left:322pt;top:626.5pt;width:220pt;height:18pt;background:#F3E6C4;border:.6pt solid #8a5a22;border-radius:9pt"></div>
-<div class="blk" style="left:232pt;top:629.5pt;width:400pt;text-align:center;font-weight:700;font-size:10pt;line-height:12pt;letter-spacing:2.2pt;color:#3d2410;white-space:nowrap">CHAPTER 01 - NUMBERS - PG 043</div>
 
 <svg class="blk" style="left:40pt;top:33pt;width:26pt;height:26pt" viewBox="0 0 26 26" aria-hidden="true"><circle cx="13" cy="13" r="12.4" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/><circle cx="13" cy="13" r="9.6" fill="none" stroke="#fff0c4" stroke-width=".5" stroke-opacity=".8"/></svg>
 <div class="blk" style="left:40pt;top:33pt;width:26pt;height:26pt;text-align:center;font-weight:700;font-size:16pt;line-height:26pt;color:#3d2410">6</div>
@@ -408,7 +430,21 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
 </svg>
 <svg class="blk" style="left:400pt;top:496pt;width:424pt;height:16pt" viewBox="0 0 424 16"><text x="212.0" y="12" text-anchor="middle" font-family="Source Serif 4" font-style="italic" font-size="12.5" fill="#3a3326">Counting rows and columns</text></svg>
 <p class="blk" style="left:400pt;top:516pt;width:424pt;text-align:center;margin:0">The picture shows why we multiply <span class="mr">16</span> × <span class="mr">7</span>: there are <span class="mr">7</span> rows of <span class="mr">16</span> squares.</p>
-<div class="blk" style="left:44pt;top:500pt;width:132pt"><div style="position:absolute;left:-4%;right:-4%;bottom:-4pt;height:12pt;border-radius:50%;background:radial-gradient(ellipse at center,rgba(40,28,10,.55) 0,rgba(40,28,10,.25) 50%,transparent 72%)"></div><img src="assets/img/VIHAAN.png" alt="" style="display:block;width:100%;position:relative;z-index:1"></div><svg class="blk" style="left:420pt;top:552pt;width:400pt;height:68pt" viewBox="0 0 400 68" aria-hidden="true">
+<svg class="blk" style="left:40pt;top:512pt;width:314pt;height:100pt" viewBox="0 0 314 100" aria-hidden="false">
+ <rect x="0" y="0" width="314" height="100" rx="3" fill="url(#mat)" stroke="#c9a24a" stroke-width=".9"/>
+ <path d="M5 11 H17 M11 5 V17 M297 11 H309 M303 5 V17" stroke="#e0b25e" stroke-width=".9"/>
+ <g><path d="M16 26 H298" stroke="#e0b25e" stroke-width=".6" stroke-opacity=".5"/></g>
+ <g font-family="Source Sans 3" font-weight="700" text-anchor="middle">
+ <g><circle cx="40" cy="50" r="17" fill="#14224a" stroke="#7fd6cf" stroke-width="2.2"/><circle cx="40" cy="50" r="21" fill="none" stroke="#7fd6cf" stroke-opacity=".35" stroke-width="1"/><text x="40" y="57" font-size="19" fill="#8fe3db">1</text></g>
+ <g><circle cx="92" cy="50" r="17" fill="#14224a" stroke="#7fd6cf" stroke-width="2.2"/><circle cx="92" cy="50" r="21" fill="none" stroke="#7fd6cf" stroke-opacity=".35" stroke-width="1"/><text x="92" y="57" font-size="19" fill="#8fe3db">2</text></g>
+ <g><circle cx="144" cy="50" r="17" fill="#14224a" stroke="#7fd6cf" stroke-width="2.2"/><circle cx="144" cy="50" r="21" fill="none" stroke="#7fd6cf" stroke-opacity=".35" stroke-width="1"/><text x="144" y="57" font-size="19" fill="#8fe3db">4</text></g>
+ <circle cx="196" cy="50" r="17" fill="#14224a" stroke="#c9a24a" stroke-opacity=".5" stroke-width="1.2" stroke-dasharray="3 3"/><text x="196" y="57" font-size="19" fill="#c9a24a" fill-opacity=".6">7</text>
+ <circle cx="238" cy="50" r="17" fill="#14224a" stroke="#c9a24a" stroke-opacity=".5" stroke-width="1.2" stroke-dasharray="3 3"/><text x="238" y="56" font-size="17" fill="#c9a24a" fill-opacity=".6">14</text>
+ <circle cx="282" cy="50" r="17" fill="#14224a" stroke="#c9a24a" stroke-opacity=".5" stroke-width="1.2" stroke-dasharray="3 3"/><text x="282" y="56" font-size="17" fill="#c9a24a" fill-opacity=".6">28</text></g>
+ <g stroke="#7fd6cf" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M33 84 L39 90 L49 78"/><path d="M85 84 L91 90 L101 78"/><path d="M137 84 L143 90 L153 78"/></g>
+ <g stroke="#c9a24a" stroke-opacity=".5" stroke-width="1.4" stroke-linecap="round"><path d="M190 80 L202 90 M202 80 L190 90"/><path d="M232 80 L244 90 M244 80 L232 90"/><path d="M276 80 L288 90 M288 80 L276 90"/></g>
+</svg>
+<svg class="blk" style="left:420pt;top:552pt;width:400pt;height:68pt" viewBox="0 0 400 68" aria-hidden="true">
   <defs><linearGradient id="rul" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#8a5a22"/></linearGradient><radialGradient id="shd" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3a2a10" stop-opacity=".5"/><stop offset="1" stop-color="#3a2a10" stop-opacity="0"/></radialGradient></defs>
   <g transform="rotate(-9 200 40)">
    <ellipse cx="190" cy="38" rx="190" ry="9" fill="url(#shd)"/>
@@ -423,6 +459,7 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
    <path d="M364 16 H388" stroke="#fff" stroke-opacity=".6" stroke-width=".8"/>
   </g>
 </svg>
+<div class="pagemark" style="--pm-ink:#fff0c4;--pm-ring:#e0b25e;--pm-coin:rgba(20,34,74,.75)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 043</span><span class="pm-no">43</span></div>
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
