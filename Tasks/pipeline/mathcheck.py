@@ -10,6 +10,7 @@ The page builder tags every printed mathematical statement with data-math, writt
   <div data-math="3 + 4 − 6 = 7 − 6 = 1">...</div>                chains: every side must be equal
   <span data-math="(−4) × (−1) > 0">...</span>                    < > ≤ ≥ ≠ = are supported
   <span data-math="2^3 = 8">2³ = 8</span>                         powers: ^ or ² ³ (superscripts)
+  <span data-math="HCF(64, 28) = 4">  <span data-math="LCM(4, 6, 9) = 36">   HCF / GCD / LCM of whole numbers
   <span data-math="3/4 + 1/4 = 1">...</span>                      fractions are exact (no float error)
   <span data-math="25% × 80 = 20">...</span>                      % means /100
   <span data-math="√49 = 7">  <span data-math="∛27 = 3">  √(16 + 9) = 5   roots are exact for perfect powers
@@ -96,6 +97,17 @@ def value(node, env):
         return OPS[type(node.op)](l, r)
     if isinstance(node, ast.Call) and isinstance(node.func, ast.Name) and node.func.id in ROOTS and len(node.args) == 1:
         return root(value(node.args[0], env), ROOTS[node.func.id])
+    if isinstance(node, ast.Call) and isinstance(node.func, ast.Name) and node.func.id.upper() in ("HCF", "GCD", "LCM") \
+            and len(node.args) >= 2:                                   # HCF(64, 28) = 4, LCM(4, 6, 9) = 36
+        args = [value(a, env) for a in node.args]
+        if any(a.denominator != 1 or a <= 0 for a in args):
+            raise ValueError("HCF/LCM need positive whole numbers")
+        import math
+        ints = [int(a) for a in args]
+        out = ints[0]
+        for b in ints[1:]:
+            out = math.gcd(out, b) if node.func.id.upper() != "LCM" else out * b // math.gcd(out, b)
+        return Fraction(out)
     if isinstance(node, ast.UnaryOp) and type(node.op) in OPS:
         return OPS[type(node.op)](value(node.operand, env))
     raise ValueError(f"unsupported syntax: {ast.dump(node)[:60]}")
