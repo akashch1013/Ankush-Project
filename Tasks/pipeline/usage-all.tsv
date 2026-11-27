@@ -27,3 +27,16 @@ time	project	item	kind	via	text_in	image_in	output	est_usd
 2026-11-23T22:55:37	chandrush-ch02-panels	P010-3	gen	batch:CH02-run2-w1	556	3756	1204	0.0345
 2026-11-23T23:06:21	chandrush-ch02-panels	P006-4	fix	batch:CH02-run2-fix	170	768	1204	0.0216
 2026-11-23T23:06:21	chandrush-ch02-panels	P009-2	fix	batch:CH02-run2-fix	186	768	1204	0.0216
+2026-11-26T04:20:12	chandrush-ch01-panels	P001-1	gen	batch:CH01-ref-w1	920	8112	1372	0.0553
+2026-11-26T04:20:12	chandrush-ch01-panels	P002-1	gen	batch:CH01-ref-w1	642	3756	1372	0.0372
+2026-11-26T04:20:12	chandrush-ch01-panels	P002-2	gen	batch:CH01-ref-w1	843	8112	1372	0.0551
+2026-11-26T04:20:12	chandrush-ch01-panels	P002-3	gen	batch:CH01-ref-w1	531	3756	1756	0.0427
+2026-11-26T04:20:12	chandrush-ch01-panels	P004-1	gen	batch:CH01-ref-w1	834	8112	1372	0.0551
+2026-11-26T04:20:12	chandrush-ch01-panels	P004-2	gen	batch:CH01-ref-w1	727	6660	1372	0.0490
+2026-11-26T04:20:12	chandrush-ch01-panels	P004-4	gen	batch:CH01-ref-w1	760	8112	1372	0.0549
+2026-11-26T04:20:12	chandrush-ch01-panels	P033-4	gen	batch:CH01-ref-w1	886	8112	1372	0.0552
+2026-11-26T13:48:59	chandrush-ch01-panels	P001-1	fix	batch:CH01-relight-ahana	439	6744	1372	0.0487
+2026-11-26T13:48:59	chandrush-ch01-panels	P002-1	fix	batch:CH01-relight-ahana	395	3756	1372	0.0366
+2026-11-26T13:48:59	chandrush-ch01-panels	P002-2	fix	batch:CH01-relight-ahana	438	6744	1372	0.0487
+2026-11-26T13:48:59	chandrush-ch01-panels	P002-3	fix	batch:CH01-relight-ahana	412	4780	1756	0.0465
+2026-11-26T13:48:59	chandrush-ch01-panels	V-AHANA-P005	gen	batch:CH01-relight-ahana	499	2901	1372	0.0334

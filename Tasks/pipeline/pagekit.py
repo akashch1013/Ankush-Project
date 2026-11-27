@@ -244,10 +244,16 @@ def cmd_artifact(a):
     with open(dst, "w", encoding="utf-8") as fh:
         fh.write(out)
     files, total = {}, os.path.getsize(dst)
-    for ref in sorted(set(re.findall(r'src="(assets/img/[^"]+)"', body))):
+    # every local image the page uses: <img src> and SVG <image href>/xlink:href (must exist), plus CSS url(...)
+    # (shared kit CSS names images a page may not use: include those only if the page has the file)
+    need = set(re.findall(r'(?:src|href|xlink:href)="(assets/img/[^"]+)"', body))
+    css_refs = set(re.findall(r'url\(["\']?(assets/img/[^"\')]+)', out))
+    for ref in sorted(need | css_refs):
         full = os.path.join(page_dir, ref)
         if not os.path.exists(full):
-            sys.exit(f"missing {ref}")
+            if ref in need:
+                sys.exit(f"missing {ref}")
+            continue
         total += os.path.getsize(full)
         files[ref] = os.path.relpath(full, os.getcwd())
     if os.path.getsize(dst) > 16 * 2**20:

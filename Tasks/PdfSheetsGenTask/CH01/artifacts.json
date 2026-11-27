@@ -2,10 +2,11 @@
  "P005": {
   "url": "https://claude.ai/artifact/58DKypPxPLNDExB9NwQrYM",
   "file_path": "PdfSheetsGenTask/CH01/P005/artifact.html",
-  "math": "PASS 2026-11-22 (A3 restyle)",
+  "math": "PASS 2026-11-25 (Two Towns redesign; maths unchanged 2026-11-26, mathcheck 4/4)",
   "pdf": "Output/CH01/CH01-P005.pdf",
-  "design": "A3",
-  "version": "1795354277-d57c"
+  "design": "book-design: Two Towns, One Line (from branch art-direction-a1)",
+  "version": "1795701386-201e",
+  "note": "2026-11-26: sharp new Ahana (V-AHANA-P005, 362 ppi as placed), page mark bottom-right; client-seen version kept in Output/CH01/previous-2026-11-26/CH01-P005-v1.pdf"
  },
  "P039": {
   "url": "https://claude.ai/artifact/QM4hGuQD9NC6sALB2bZmCA",
@@ -13,7 +14,8 @@
   "math": "PASS 2026-11-23 (B1, manuscript V06)",
   "pdf": "Output/CH01/CH01-P039.pdf",
   "design": "B1 Ledger Plate",
-  "version": "1795436748-a40d"
+  "version": "1795698002-ffb9",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  },
  "P039-A3-v1": {
   "url": "https://claude.ai/artifact/RANxAwg86Cz84unNnTdgce",
@@ -22,5 +24,77 @@
   "pdf": "Output/CH01/CH01-P039-A3-v1.pdf",
   "design": "A3",
   "version": "1795354286-7922"
+ },
+ "P001": {
+  "url": "https://claude.ai/artifact/42dYAVfdgvs8JsoP6YTifS",
+  "file_path": "PdfSheetsGenTask/CH01/P001/artifact.html",
+  "math": "no maths",
+  "pdf": "Output/CH01/CH01-P001.pdf",
+  "design": "category reference: opener (P107 story family)",
+  "version": "1795701105-c579",
+  "note": "2026-11-26 v2: moonlit only (all fixed lamps off), page mark; art image now uploaded (svg href)"
+ },
+ "P002": {
+  "url": "https://claude.ai/artifact/GKcpnNyRV6FG7jWbbwS5LC",
+  "file_path": "PdfSheetsGenTask/CH01/P002/artifact.html",
+  "math": "no maths",
+  "pdf": "Output/CH01/CH01-P002.pdf",
+  "design": "category reference: action-story (P107 story family)",
+  "version": "1795701108-d564",
+  "note": "2026-11-26 v2: moonlit only to match P001, page mark"
+ },
+ "P064": {
+  "url": "https://claude.ai/artifact/5Q4ZYb29xvicpnnRhe871s",
+  "file_path": "PdfSheetsGenTask/CH01/P064/artifact.html",
+  "math": "PASS 2026-11-26 (calculator 7² = 49)",
+  "pdf": "Output/CH01/CH01-P064.pdf",
+  "design": "category reference: concept (B1 Ledger Plate)",
+  "version": "1795698072-e7e1",
+  "note": "2026-11-26 v2: page mark; companion removed (no manuscript quote); x² calculator"
+ },
+ "P076": {
+  "url": "https://claude.ai/artifact/D6Gc1394iNUYPwpiWzEoG8",
+  "file_path": "PdfSheetsGenTask/CH01/P076/artifact.html",
+  "math": "PASS 2026-11-25 (B1, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P076.pdf",
+  "design": "category reference: worked-example (B1 Ledger Plate)",
+  "version": "1795697979-140f",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
+ },
+ "P077": {
+  "url": "https://claude.ai/artifact/33JNo9FmXf7yTEW7VqUocN",
+  "file_path": "PdfSheetsGenTask/CH01/P077/artifact.html",
+  "math": "PASS 2026-11-25 (B1, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P077.pdf",
+  "design": "category reference: practice-set (B1 Ledger Plate)",
+  "version": "1795697981-6b71",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
+ },
+ "P043": {
+  "url": "https://claude.ai/artifact/1XrkqeKgvhFdACdLr1LpQC",
+  "file_path": "PdfSheetsGenTask/CH01/P043/artifact.html",
+  "math": "PASS 2026-11-26 (factor strip; tags fixed after math-checker)",
+  "pdf": "Output/CH01/CH01-P043.pdf",
+  "design": "category reference: diagram-led (B1 Ledger Plate)",
+  "version": "1795701110-d3ab",
+  "note": "2026-11-26 v2: page mark; Vihaan removed (no manuscript quote); factor strip for 28; v3: marble texture image now uploaded"
+ },
+ "P004": {
+  "url": "https://claude.ai/artifact/U8DAo2iEJ2h2unbKN87p7D",
+  "file_path": "PdfSheetsGenTask/CH01/P004/artifact.html",
+  "math": "PASS 2026-11-26 (no equations; captions 0, −8 checked)",
+  "pdf": "Output/CH01/CH01-P004.pdf",
+  "design": "category reference: dialogue-story (P107 story family)",
+  "version": "1795697975-b19f",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
+ },
+ "P033": {
+  "url": "https://claude.ai/artifact/581VtwqSoyyX2bfFfjZAEn",
+  "file_path": "PdfSheetsGenTask/CH01/P033/artifact.html",
+  "math": "PASS 2026-11-26 (LCM, manuscript V06)",
+  "pdf": "Output/CH01/CH01-P033.pdf",
+  "design": "category reference: story-maths (P107 story family + B1 panes)",
+  "version": "1795697977-db34",
+  "note": "2026-11-26 v2: fixed page mark bottom-right"
  }
 }

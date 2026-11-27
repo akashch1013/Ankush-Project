@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P004</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  .page { background:#140d26; }
+  .blk { position:absolute; }
+  .ground { position:absolute; inset:0; background:
+     radial-gradient(ellipse 46% 40% at 40% 38%, rgba(226,128,52,.42), rgba(214,120,48,0) 70%),
+     radial-gradient(ellipse 60% 50% at 88% 94%, rgba(88,52,140,.35), rgba(88,52,140,0) 70%),
+     linear-gradient(162deg,#43185a 0%,#2a1244 40%,#161a45 78%,#0c1a3b 100%); }
+  .ribs { position:absolute; top:0; width:24pt; height:648pt;
+     background: repeating-linear-gradient(90deg, rgba(214,166,78,.0) 0 3.4pt, rgba(226,182,92,.55) 3.4pt 4.2pt),
+                 linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0) 30%, rgba(0,0,0,0) 70%, rgba(0,0,0,.3)); }
+  .panel { position:absolute; overflow:hidden; background:#0c1a3b; border-radius:1.5pt;
+     outline:1.1pt solid #c9a24a; outline-offset:0; box-shadow:0 0 0 2.6pt rgba(26,12,40,.8), 0 3pt 9pt 2pt rgba(0,0,0,.55); }
+  .panel img.art { position:absolute; display:block; max-width:none; }
+  .panel::after { content:""; position:absolute; inset:0; box-shadow: inset 0 0 14pt rgba(8,6,24,.45); pointer-events:none; }
+  .cap { position:absolute; z-index:5; box-sizing:border-box; background:rgba(247,239,220,.95); color:#1d1630;
+     border:.8pt solid #b3722f; border-radius:3pt; padding:5pt 11pt 5pt;
+     font:500 14pt/18pt "Source Sans 3",sans-serif; box-shadow:0 2pt 7pt rgba(8,4,20,.5), inset 0 0 0 1.6pt rgba(247,239,220,.95), inset 0 0 0 2.2pt rgba(179,114,47,.45); }
+  .cap p { margin:0; font:inherit; }
+  .cap p + p { margin-top:3pt; padding-top:3pt; border-top:.6pt solid rgba(179,114,47,.55); }
+  .bub { position:absolute; z-index:6; box-sizing:border-box; background:#fffdf6; color:#1a1030;
+     border:.8pt solid #2a1a3a; border-radius:14pt; padding:0 10pt; display:flex; align-items:center; justify-content:center; text-align:center;
+     font-family:"Source Sans 3",sans-serif; font-weight:600; line-height:19pt; box-shadow:0 2pt 6pt rgba(5,3,16,.45); }
+  svg.tl { position:absolute; z-index:7; overflow:visible; }
+  .glow { position:absolute; border-radius:50%; mix-blend-mode:screen; pointer-events:none; }
+  .label { position:absolute; left:120pt; width:292pt; top:630pt; text-align:right; font:700 9pt/12pt "Source Sans 3",sans-serif;
+     letter-spacing:.2em; color:#f6dca0; text-transform:uppercase; white-space:nowrap; }
+</style>
+</head>
+<body>
+<div class="page a4" id="page" data-chapter="CH01" data-page="P004">
+<div class="pagemark" style="--pm-ink:#f3d58f;--pm-ring:#d9a55a;--pm-coin:rgba(12,25,51,.6)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 004</span><span class="pm-no">4</span></div>
+<div class="ground"></div>
+<div class="ribs" style="left:0"></div><div class="ribs" style="left:840pt"></div>
+
+<svg class="blk" style="left:0;top:0;width:864pt;height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <linearGradient id="brassR" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".3" stop-color="#b3722f"/><stop offset=".6" stop-color="#d9a55a"/><stop offset="1" stop-color="#f3d58f"/></linearGradient>
+    <radialGradient id="coin" cx=".38" cy=".32" r=".8"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".55" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+  </defs>
+  <!-- brass pinstripe, broken for the label and the folio coin -->
+  <path fill="none" stroke="#c9a24a" stroke-width=".9" d="M540 636 H12 V12 H852 V625"/>
+  <path fill="none" stroke="#c9a24a" stroke-opacity=".45" stroke-width=".4" d="M540 639.5 H8 V8 H856 V625"/>
+  <!-- corner caps -->
+  <g><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+     <path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/>
+     <circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/><circle cx="8.8" cy="8.7" r=".8" fill="#fff0c4"/></g>
+  <g transform="translate(864 0) scale(-1 1)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="url(#brassR)" stroke="#5a3510" stroke-width=".6"/>
+     <circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/></g>
+  <g transform="translate(0 648) scale(1 -1)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="url(#brassR)" stroke="#5a3510" stroke-width=".6"/>
+     <circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/></g>
+  <g transform="translate(864 648) scale(-1 -1)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+     <path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".7"/>
+     <circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/><circle cx="8.8" cy="8.7" r=".8" fill="#fff0c4"/></g>
+  <!-- gate-rib studs on the side rails (echo the safety-gate bars) -->
+  <g fill="#c98f45" fill-opacity=".7">
+    <circle cx="6" cy="120" r="1.2"/><circle cx="6" cy="324" r="1.2"/><circle cx="6" cy="528" r="1.2"/>
+    <circle cx="858" cy="120" r="1.2"/><circle cx="858" cy="324" r="1.2"/><circle cx="858" cy="528" r="1.2"/>
+  </g>
+</svg>
+
+<div class="panel" style="left:24pt;top:24pt;width:524pt;height:368pt"><img class="art" src="assets/img/P004-1.jpg" alt="" style="left:-14pt;top:0;width:552pt;height:368pt"><i class="glow" style="left:272pt;top:204pt;width:34pt;height:22pt;background:radial-gradient(closest-side,rgba(255,60,40,.75),rgba(255,60,40,0))"></i><div class="cap" style="left:8pt;top:5pt;width:290pt"><p>A small lift car stands behind a brass safety gate at street level. Next to it is a control box with a row of slots. Numbered cards fit into those slots. Each card tells the lift how far to move and in which direction.</p></div><div class="cap" style="left:294pt;top:5pt;width:162pt"><p>The children can now see their first job. They must send the empty car down to the helper, let it load the supplies and bring it back.</p></div></div>
+<div class="panel" style="left:556pt;top:24pt;width:284pt;height:368pt"><img class="art" src="assets/img/P004-2.jpg" alt="" style="left:-45pt;top:0;width:369pt;height:554pt"><i class="glow" style="left:36pt;top:164pt;width:30pt;height:12pt;background:radial-gradient(closest-side,rgba(255,214,120,.95),rgba(255,200,90,0))"></i><i class="glow" style="left:32pt;top:266pt;width:26pt;height:26pt;background:radial-gradient(closest-side,rgba(167,200,255,.85),rgba(167,200,255,0))"></i><i class="glow" style="left:38pt;top:294pt;width:40pt;height:20pt;background:radial-gradient(closest-side,rgba(255,60,40,.7),rgba(255,60,40,0))"></i><div class="cap" style="left:6pt;top:6pt;width:272pt"><p>Beside the shaft, a numbered strip shows the lift’s position. Street level is marked 0. Positive numbers are above it. Negative numbers are below. The store is at −8.</p></div><div class="bub" style="left:98pt;top:244pt;width:132pt;height:72pt;font-size:16pt">Eight marks below the street.</div><svg class="tl" viewBox="0 0 1 1" style="left:0;top:0;width:1pt;height:1pt" aria-hidden="true"><path d="M118.5 243.3 Q111.1 228 96.0 215.0 Q104.0 230 105.5 248.7 Z" fill="#fffdf6"/><path d="M118.5 243.3 Q111.1 228 96.0 215.0 Q104.0 230 105.5 248.7" fill="none" stroke="#2a1a3a" stroke-opacity=".75" stroke-width=".8" stroke-linejoin="round"/></svg><div class="cap" style="left:6pt;top:332pt;width:272pt"><p>Vihaan follows the strip with his finger.</p></div></div>
+<div class="panel" style="left:24pt;top:400pt;width:392pt;height:224pt"><img class="art" src="assets/img/P004-3.jpg" alt="" style="left:0;top:0;width:392pt;height:224pt"><div class="bub" style="left:96pt;top:8pt;width:58pt;height:34pt;font-size:17pt">Yes.</div><svg class="tl" viewBox="0 0 1 1" style="left:0;top:0;width:1pt;height:1pt" aria-hidden="true"><path d="M140.3 40.0 Q165 60 201.0 90.0 Q172 56 151.7 32.0 Z" fill="#fffdf6"/><path d="M140.3 40.0 Q165 60 201.0 90.0 Q172 56 151.7 32.0" fill="none" stroke="#2a1a3a" stroke-opacity=".75" stroke-width=".8" stroke-linejoin="round"/></svg><div class="bub" style="left:8pt;top:52pt;width:142pt;height:102pt;font-size:15pt">The numbers tell us where the lift is compared with this landing.</div><svg class="tl" viewBox="0 0 1 1" style="left:0;top:0;width:1pt;height:1pt" aria-hidden="true"><path d="M147.2 112.8 Q172 108 200.0 96.0 Q174 98 148.8 98.2 Z" fill="#fffdf6"/><path d="M147.2 112.8 Q172 108 200.0 96.0 Q174 98 148.8 98.2" fill="none" stroke="#2a1a3a" stroke-opacity=".75" stroke-width=".8" stroke-linejoin="round"/></svg></div>
+<div class="panel" style="left:424pt;top:400pt;width:416pt;height:224pt"><img class="art" src="assets/img/P004-4.jpg" alt="" style="left:0;top:-8pt;width:416pt;height:277pt"><div class="bub" style="left:8pt;top:5pt;width:236pt;height:48pt;font-size:15pt">How can we choose movements that will reach the store?</div><svg class="tl" viewBox="0 0 1 1" style="left:0;top:0;width:1pt;height:1pt" aria-hidden="true"><path d="M220.8 50.7 Q234.9 65.9 257.0 80.0 Q240.6 60.7 231.2 41.3 Z" fill="#fffdf6"/><path d="M220.8 50.7 Q234.9 65.9 257.0 80.0 Q240.6 60.7 231.2 41.3" fill="none" stroke="#2a1a3a" stroke-opacity=".75" stroke-width=".8" stroke-linejoin="round"/></svg></div>
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>
