@@ -1416,6 +1416,42 @@
      "note": "identity vs sheet, full figure, 5 fingers, keyed alpha clean on cream/navy"
     }
    ]
+  },
+  "P031-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P031-2": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P034-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P034-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P035-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P035-3": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
   }
  },
  "fix_queue": {}
