@@ -745,7 +745,7 @@
    ]
   },
   "P013-2": {
-   "status": "queued",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -763,10 +763,30 @@
      ],
      "instruction": null,
      "usd": 0.0437
+    },
+    {
+     "n": 2,
+     "kind": "fix",
+     "via": "batch:CH01-P013-2-fix",
+     "at": "2026-11-28T05:19:42",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "54082c106cb6",
+     "refs": [
+      "item:P013-2"
+     ],
+     "instruction": "Move the car with the helper and cart lower down the shaft so the car floor is clearly lower than it is now, level with the position strip's -5 mark; keep everything else (crew, Tara's finger on HOLD, lighting, framing, ribs) exactly as is; no lettering.",
+     "usd": 0.0272
     }
    ],
-   "note": "",
-   "prev_status": "fixq"
+   "note": "after 1 fix: car lower than P013-1, Tara left fingertip on HOLD, calm; car floor reads about -5/-6 against the strip (perspective)",
+   "qc": [
+    {
+     "at": "2026-11-28T05:19:52",
+     "verdict": "pass",
+     "note": "after 1 fix: car lower than P013-1, Tara left fingertip on HOLD, calm; car floor reads about -5/-6 against the strip (perspective)"
+    }
+   ]
   },
   "P013-3": {
    "status": "approved",
