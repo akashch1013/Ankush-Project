@@ -22,15 +22,16 @@
   .ledger .voice { font-family: "Source Serif 4", serif; font-style: italic; }
   .pagemark svg { display: none; }
 
-  .page.ledger { background: #EEF1F4; }
+  .page.ledger { background: linear-gradient(180deg,#DDE6F2,#EEF1F4 38%); }
   .tk { position: absolute; box-sizing: border-box; height: 36pt; display: flex; align-items: center; padding: 0 8pt;
         background: linear-gradient(180deg, #FCFCFA, #E6EAEE); border: .8pt solid #b3722f; border-radius: 1.5pt;
         box-shadow: 0 1.6pt 0 #8d96a6, 0 3pt 3pt rgba(12,25,51,.25); }
   .tk .q { font-size: 17pt; line-height: 22pt; font-weight: 600; white-space: nowrap; }
-  .board { position: absolute; box-sizing: border-box; background: #F6F8FA; border: .8pt solid #122A45;
+  .board { position: absolute; box-sizing: border-box; background: #F6F8FA; border: 1.6pt solid #234d95; box-shadow: inset 0 0 0 1.5pt #F6F8FA, inset 0 0 0 2.1pt #c9a24a, 0 2pt 4pt rgba(12,25,51,.3);
            background-image: linear-gradient(135deg, rgba(255,255,255,.7), rgba(215,222,230,.35)); }
-  .board .sh { position: absolute; left: 12pt; top: 6pt; margin: 0; }
-  .ablock { position: absolute; background: #F1EEE4; border-top: .8pt solid #b3722f; border-left: 3pt solid #122A45; box-sizing: border-box; padding: 7pt 12pt 4pt; }
+  .board .sh { position: absolute; left: 12pt; top: 3pt; margin: 0; background:#122A45; color:#F7E7B8; padding:1pt 9pt; }
+  .board .sh::after { display:none; }
+  .ablock { position: absolute; background: #F1EEE4; border-top: .8pt solid #b3722f; border-left: 3pt solid #234d95; background-image: linear-gradient(90deg, rgba(35,77,149,.10), rgba(35,77,149,0) 45%); box-sizing: border-box; padding: 7pt 12pt 4pt; }
   .ablock .sh { margin-bottom: 3pt; }
   .ablock .eq { font-size: 16pt; line-height: 21pt; font-weight: 600; }
   .ablock p { margin: 0 0 3pt; }
