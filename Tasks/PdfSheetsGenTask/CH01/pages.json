@@ -1563,6 +1563,1319 @@
       }
     },
     {
+      "page": "P011",
+      "category": "dialogue-story",
+      "pattern": "free composition: wide over-the-shoulder establishing strip top-left, three narrow beat crops beneath, and a full-height portrait shaft panel on the right that drops the eye down to −5",
+      "theme": "story page, manual V09 type + story border family (lift-bay materials: brass gate ribs, blue lacquer, warm wall lamp)",
+      "title": "",
+      "purpose": "story: Navya picks the −5 and −3 cards, Ahana totals them to minus eight (level with the store), Tara checks the shaft, the first card takes the empty car to −5.",
+      "beats": [
+        "CH01 02B A",
+        "CH01 02B B",
+        "CH01 02B C",
+        "CH01 02B D",
+        "CH01 02C A"
+      ],
+      "panels": [
+        {
+          "id": "P011-1",
+          "beat": "CH01 02B A",
+          "box": [
+            24,
+            24,
+            568,
+            290
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P011-1",
+            "size": "1536x1024",
+            "crop": "landscape, keep the shelf/cards in the middle band; Ahana at right must survive the P011-2 zoom"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "medium over Navya's shoulder towards the controller shelf, from the safe paving, closer than the plate: brass gate (with the empty car flush at 0 behind its ribs) on the left, controller fixed against the gate's right jamb under the lit wall lamp, the shaft and 0 landing kept beside the shelf; same wall plane, nothing added"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "right foreground, seen over her shoulder (back three-quarter, cropped at shoulder)",
+              "action": "has spread the movement cards flat on the controller shelf and separated two; fingertips frozen beside the two chosen cards laid in order",
+              "gaze": "the two chosen cards",
+              "expression": "focused",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "screen-right of the controller, three-quarter front, beside Navya",
+              "action": "holds the lamp to the right of the cards; left index finger resting beside the two cards (so the P011-2 crop reads)",
+              "gaze": "the two cards",
+              "expression": "growing confidence",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "centre midground, between Navya and the gate",
+              "action": "leans in to read the two values",
+              "gaze": "the two chosen cards",
+              "expression": "concentrating",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "left, just right of the gate's centre, tallest",
+              "action": "stands upright beside the guard, staff upright",
+              "gaze": "the selection",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "far left, well back on the paving (small, may be cropped)",
+              "action": "waits, sitting",
+              "gaze": "the children",
+              "expression": "alert",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "single EMPTY car flush at 0 behind the closed brass gate",
+            "two chosen cards flat on the shelf, in order left to right (−5 then −3), separated from the rest",
+            "all other cards unselected, faces down/blank; card slots empty",
+            "last-change window blank; lower cover closed; both red warning lamps on",
+            "no hidden card visible"
+          ],
+          "painted_text": [
+            "strip numerals, START, HOLD, CANCEL LAST CHANGE (plate's own only)"
+          ],
+          "overlay_text": [
+            {
+              "text": "−5",
+              "on": "left chosen blank cream card on the shelf"
+            },
+            {
+              "text": "−3",
+              "on": "right chosen blank cream card on the shelf"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left over the gate's top bars and arch",
+              "w": 0.46,
+              "h": 0.3
+            }
+          ],
+          "captions": [
+            "Navya spreads the movement cards on the control box. She finds −5 and −3. Together, they will take the car from 0 down five marks, then down three more."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P011-2",
+          "beat": "CH01 02B B",
+          "box": [
+            24,
+            322,
+            184,
+            298
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P011-1",
+            "focus": [
+              0.76,
+              0.48
+            ],
+            "z": 2.3,
+            "note": "Ahana's face, her left index finger beside the two cards, lamp in her right; nobody inserts a card"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "centre",
+              "action": "says the total, left index finger beside the two cards",
+              "gaze": "the two cards",
+              "expression": "growing confidence",
+              "holding": "brass lamp (right hand)"
+            }
+          ],
+          "props_state": [
+            "cards still flat on the shelf, none inserted"
+          ],
+          "overlay_text": [
+            {
+              "text": "−5",
+              "on": "the left chosen card if it falls inside the crop"
+            },
+            {
+              "text": "−3",
+              "on": "the right chosen card if it falls inside the crop"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "top",
+              "w": 0.7,
+              "h": 0.18
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "Minus eight.",
+              "where": "top",
+              "tail_to": "Ahana's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P011-3",
+          "beat": "CH01 02B C",
+          "box": [
+            216,
+            322,
+            184,
+            298
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P011-3",
+            "size": "1536x1024",
+            "crop": "focus [0.76, 0.46], z 2.3: the same framing as the P011-2 crop (same camera, feet in place); the full image also holds Tara at the gate for the P011-4 zoom"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "IDENTICAL camera to P011-1 (over Navya's shoulder towards the shelf, gate left, controller on its right jamb under the lit wall lamp); all feet in the same places as P011-1"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "same spot as P011-1",
+              "action": "only her free hand changes: left palm open towards the −8 mark at the foot of the controller's position strip",
+              "gaze": "Navya",
+              "expression": "small assured smile",
+              "holding": "brass lamp (right hand, steady)"
+            },
+            {
+              "name": "Navya",
+              "position": "same spot, over-shoulder",
+              "action": "waits at the selected cards, hands still",
+              "gaze": "Ahana",
+              "expression": "attentive",
+              "holding": "-"
+            },
+            {
+              "name": "Vihaan",
+              "position": "same spot",
+              "action": "follows Ahana's palm to the strip",
+              "gaze": "the strip",
+              "expression": "working it out",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "same spot as P011-1, at the gate",
+              "action": "turns her head to look through the guard ribs down the shaft; left hand rests on the outside of the barrier, staff upright",
+              "gaze": "down the shaft through the guard",
+              "expression": "calm, wise, careful",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "well back on the paving",
+              "action": "waits",
+              "gaze": "the gate",
+              "expression": "alert",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "the two selected cards stay flat on the shelf",
+            "car empty at 0; gate closed; nothing has moved"
+          ],
+          "painted_text": [
+            "strip numerals (plate's own; −8 must be where her palm points)"
+          ],
+          "overlay_text": [
+            {
+              "text": "−5",
+              "on": "left chosen blank card"
+            },
+            {
+              "text": "−3",
+              "on": "right chosen blank card"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "top",
+              "w": 0.85,
+              "h": 0.24
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "That brings it level with the store.",
+              "where": "top",
+              "tail_to": "Ahana's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P011-4",
+          "beat": "CH01 02B D",
+          "box": [
+            408,
+            322,
+            184,
+            298
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P011-3",
+            "focus": [
+              0.22,
+              0.42
+            ],
+            "z": 2.2,
+            "note": "Tara looking through the guard, left hand outside the barrier, staff in right; Navya's hand at the cards may show at the crop edge"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "centre",
+              "action": "checks that the shaft is clear through the guard",
+              "gaze": "down the shaft",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "car not yet moved"
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "bottom",
+              "w": 0.88,
+              "h": 0.2
+            }
+          ],
+          "captions": [
+            "Tara checks that the shaft is clear."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P011-5",
+          "beat": "CH01 02C A",
+          "box": [
+            600,
+            24,
+            240,
+            596
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P011-5",
+            "size": "1024x1536",
+            "crop": "tall portrait: the guard at the top, the car at −5 mid-frame, the −8 landing with cart and helper at the bottom"
+          },
+          "background": {
+            "record": "S01-D01",
+            "plate": "BagroundGenTask/out/plates/S01-D01.png",
+            "camera": "the plate's steep oblique downward view from the street side behind the closed upper gate, reframed tall: brass guard ribs crossing the near edge, the controller's strip at the right edge (the street controls stay on the right jamb at camera level; START just entering frame at upper right), the fixed wall lamp at the near edge, the single car stopped at −5, the far-side −8 landing beyond"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "upper-right edge, only her hand and forearm",
+              "action": "hand withdrawn just above START after inserting the first card",
+              "gaze": "-",
+              "expression": "-",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "upper-left near edge, shoulder and profile behind the guard ribs",
+              "action": "observes the car through the guard",
+              "gaze": "the car at −5",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "helper",
+              "position": "bottom, on the −8 lower landing beside its cart, outside the closed lower gate",
+              "action": "waits below the car",
+              "gaze": "up the shaft",
+              "expression": "patient",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "ONE EMPTY car stopped at −5 (no box or cart on it; no second car at its old position)",
+            "loaded supply cart wholly on the −8 landing, lower gate closed",
+            "lower store's fixed lamp lights the −8 marking (it is the store lamp, a manuscript anchor)",
+            "the −3 card still unused"
+          ],
+          "painted_text": [
+            "position-strip numerals 0 … −8 (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper third over the guard ribs",
+              "w": 0.86,
+              "h": 0.22
+            }
+          ],
+          "captions": [
+            "Navya puts in the first card and starts the lift. The car stops at −5."
+          ],
+          "bubbles": []
+        }
+      ],
+      "equations": [],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label CHAPTER 01 - NUMBERS - PG 011. Follows the complete T1.1A block (P005–P010). The sum is only a proposed route on panels 1–4: no movement, no route arrow, no printed equation (Ahana's 'Minus eight.' is spoken). P011-1 and P011-3 are one camera painted twice (feet in place); P011-2/P011-4 are free crops of them. If an explanatory route diagram is ever added to P011-5 it must sit apart from the physical shaft (manuscript). Same full-moon night. Lantern Street lamps all dark (wall sconces, hanging and arch lanterns, distant canopy/stall lights, the far-left sconce in S01-B01 and the hanging lanterns down the lane): switch them off in the prompt, change nothing else. Only warm lights: the lift's single wall lamp above the controller (lit since P003) and Ahana's portable brass lamp (always in her RIGHT hand). Cool moonlight edges roofs and canopy gaps; moonline unlit. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised; staff in her RIGHT hand unless stated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey; he waits well back on the paving. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb (manuscript P003); keep it identical in every panel and reuse the first accepted helper panel as its look reference. Lift bay geometry is the plate's: brass street gate fills the left of the bay, the blue-and-brass controller is fixed immediately against its right jamb under the wall lamp, gate edge, jamb and casing on one wall plane; only the shaft and the single car behind the gate. No freestanding console, aisle or second lift/car. Strip numerals (+2 … 0 … −8), START, HOLD, CANCEL LAST CHANGE, wheel values and the maintenance plate are the plates' own inscriptions: never repaint or invent others. Card faces are blank painted cards; their values are HTML overlay_text. Balloons and captions sit ON the art (never in gutters), gutters 8 pt, boxes off faces, reading order = manuscript order. Page mark area x 560–820, y 624–648 kept clear (all panels end at y 620). Continuity: P010 ends the teaching; P012 shows the second card bringing the car to −8 at the lower store. Master decisions 2026-11-28: the lower store's own lamp at −8 may be lit (store landing, not Lantern Street); the lamp inside the lift car is OFF; Lantern Street fixed lamps OFF except the lift's single wall lamp (turned up on P003); the helper has no sheet: paint it per the description and reuse the first accepted helper panel as its look reference for later panels.",
+      "art": {
+        "idea": "A route proposed, not yet taken. Four small stills hold the choice of two cards and the check of the shaft, then one tall shaft-shaped still (the tall panel IS the lift shaft) shows the first card taking the empty car to the -5 stop. The warm pool of the store lamp at the bottom of the tall panel is the hook that carries on to P012.",
+        "structure": "Grid exactly as planned: P011-1 wide [24,24,568,290]; row of three small [24,322,184,298], [216,322,184,298], [408,322,184,298]; tall P011-5 [600,24,240,596]. Gutters 8 pt, square corners, 1 pt brass hairline. Ground: deep bottle-green to black (#0b2418 top-left to #050d0b bottom-right), with a very faint brass-green verdigris sheen low-right under the tall panel. Border motif (new, not gate ribs, not arch): a frieze of small brass CARD-SLOT notches (rounded rectangles 10x3 pt, spacing 14 pt, 40% opacity) along the top and bottom page edges at 10 pt from the trim, with hex-rivet brass corner caps. Nothing printed in the frieze, no numerals. Break the bottom frieze behind .pagemark (x560-820, y624-648 stays clear).",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S01-B01.png (P011-1, P011-3, free crops P011-2, P011-4) and S01-D01.png (P011-5)",
+          "grade": "night; Lantern Street fixed lamps OFF (only the lift's wall lamp and Ahana's right-hand brass lamp are warm); cool moonlight on edges. Panels 1-4: ember key from the wall lamp on the controller and the cream cards, cool moon fill, slightly teal-green cast in the shadows to sit on the green ground. P011-5: steep cold down-shaft view, near edge brass ribs in cool moon rim, but the -8 landing at the foot lit by the store's own warm lamp (the one deliberately warm patch, the page's colour hook).",
+          "mirror": false,
+          "blank": [],
+          "crop": "P011-1 and P011-3 same camera (feet in place). P011-2 = zoom crop of P011-1 around Ahana/lamp hand ~[0.62,0.45] z2.2; P011-4 = zoom crop of P011-3 around Tara at the gate ~[0.28,0.4] z2.2. P011-5 tall crop of S01-D01 right two thirds."
+        },
+        "panes": {
+          "P011-1": "first caption (Navya spreads the cards...) light matte box upper-left over the dark wall above the gate, ~250x66 pt, 1 pt brass hairline, off faces and off the cards",
+          "P011-2": "white balloon 'Minus eight.' upper area over the dark wall, tail to Ahana's mouth",
+          "P011-3": "white balloon 'That brings it level with the store.' upper area, tail to Ahana (same speaker place as P011-1)",
+          "P011-4": "caption 'Tara checks that the shaft is clear.' light matte strip at the bottom over the paving",
+          "P011-5": "final caption (Navya puts in the first card...) light matte box at the top of the tall panel over the dark guard ribs, ~210x84 pt",
+          "reading order": "1 caption, 2 balloon, 3 balloon, 4 caption, 5 caption"
+        },
+        "hero": "P011-1: the over-the-shoulder shot with the two cream cards lying lamp-lit on the shelf, Ahana's lamp hand and finger beside them, the gate and the empty car behind. Second beat: the tall shaft still, one empty car stopped at the -5 stop, the warm store landing glowing far below.",
+        "illustrate": "No equation, no route arrow. The only numbers: -5 and -3 on the two blank cream cards (HTML overlay on the blank painted cards) and those already on the plate's own strip. Nothing countable placed beside them.",
+        "cast": "Navya in back three-quarter over-shoulder at the right edge (entry: seen from behind, cropped at the shoulder). Ahana three-quarter front beside her with the lamp in her RIGHT hand, left index finger beside the cards. Vihaan leaning in midground. Tara tall and calm at the gate, staff upright. Tez small, far left, sitting. Calm Tara in every panel. In P011-5 only Navya's hand and forearm and Tara's shoulder at the near guard edge; the helper is a small wooden figure on the lower landing beside its cart (helper per P012 look note).",
+        "colour": "Warm against cold: ember wall lamp and cream cards on forest green and moon-blue shadow; the one far warm patch is the store lamp at the foot of the tall panel. Brass #b3722f, lamp gold #f7c684, cream #F7F1E3 cards; ground green #0b2418.",
+        "panel_notes": {
+          "P011-1/3": "identical camera, only Ahana's free hand and Tara's head turn differ; cards identical position",
+          "P011-2/4": "crops, grade a touch warmer on faces from the lamp",
+          "P011-5": "one empty car at -5, no cart on it, no second car; loaded cart wholly on the -8 landing, lower gate closed; store lamp lit on the -8 mark"
+        },
+        "delights": [
+          "P011-5: the guard ribs cross the near edge so the page's own tall panel reads as the shaft; a hair of warm store-lamp light climbs the shaft wall from the bottom, the only warm patch in the cold column.",
+          "The card-slot frieze on the border: one notch in the top frieze, at the position above P011-5, is glowing amber (the slot the first card went into). Wordless.",
+          "In P011-3 the brass lamp's reflection slides along the two cream cards, and in P011-4 Tara's staff foot catches a single moon glint on the paving."
+        ],
+        "folio": ".pagemark standard bottom-right, ring brass, coin dark green on brass, ink cream.",
+        "varies": "vs P004 (aubergine, vertical gate ribs, 1+tall+2): bottle-green ground, horizontal slot frieze, 1 wide + 3 small + 1 tall; cast enters over-the-shoulder, not facing camera."
+      }
+    },
+    {
+      "page": "P012",
+      "category": "action-story",
+      "pattern": "free composition: one full-height portrait panel (the car arriving down at the store) beside two stacked landscape panels (loading, then ready)",
+      "theme": "story page, story border family re-materialed for the lower store: blue timber, brass gate ribs, warm store lamp",
+      "title": "",
+      "purpose": "story: the second card brings the car to −8; the helper slides the lower gate open, wheels the supply cart aboard, fastens it, shuts the gate and raises a thumb; Ahana calls down from the street.",
+      "beats": [
+        "CH01 02D A",
+        "CH01 02D B",
+        "CH01 02E A"
+      ],
+      "panels": [
+        {
+          "id": "P012-1",
+          "beat": "CH01 02D A",
+          "box": [
+            24,
+            24,
+            300,
+            596
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P012-1",
+            "size": "1024x1536",
+            "crop": "tall: lamp and −8 plate in the upper half, cart and helper on the landing below"
+          },
+          "background": {
+            "record": "S02-B01",
+            "plate": "BagroundGenTask/out/plates/S02-B01.png",
+            "camera": "the plate's lower-landing three-quarter view towards the shaft, reframed tall; lower gate CLOSED as in the plate, store lamp and −8 plate as anchors; the single EMPTY car now stands flush at −8 behind the closed lower gate (car as painted in S02-D01); nothing else added"
+          },
+          "characters": [
+            {
+              "name": "helper",
+              "position": "right of the cart on the landing (the plate's helper waiting area)",
+              "action": "waits outside the closed gate, one hand on the cart",
+              "gaze": "the arrived car",
+              "expression": "ready",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "single EMPTY car flush at −8 behind the closed lower gate",
+            "loaded supply cart wholly on the timber landing, wheels on timber, lamp-picture box lid on top",
+            "no child at this landing; upper street out of frame"
+          ],
+          "painted_text": [
+            "−8 (the plate's own floor plate)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top, over the dark upper timber",
+              "w": 0.9,
+              "h": 0.14
+            }
+          ],
+          "captions": [
+            "The next card brings it to −8."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P012-2",
+          "beat": "CH01 02D B",
+          "box": [
+            332,
+            24,
+            508,
+            294
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P012-2",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S02-D01",
+            "plate": "BagroundGenTask/out/plates/S02-D01.png",
+            "camera": "same lower-landing camera and store-lamp anchor as P012-1 (plate framing): lower gate slid fully open, car flush at −8, level threshold between landing and car"
+          },
+          "characters": [
+            {
+              "name": "helper",
+              "position": "behind the cart on the landing",
+              "action": "leans forward, both carved hands on the cart's rear handle, pushing; still on the landing",
+              "gaze": "into the car",
+              "expression": "determined",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "lower gate slid open",
+            "cart's FRONT wheels just over the level threshold, rear wheels still on the landing",
+            "car stays at −8; the lift does not move while loading",
+            "one cart, one helper"
+          ],
+          "painted_text": [
+            "−8 (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left over the dark wall",
+              "w": 0.46,
+              "h": 0.22
+            }
+          ],
+          "captions": [
+            "The helper slides open the lower gate and wheels its supply cart aboard."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P012-3",
+          "beat": "CH01 02E A",
+          "box": [
+            332,
+            326,
+            508,
+            294
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P012-3",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S02-B01",
+            "plate": "BagroundGenTask/out/plates/S02-B01.png",
+            "camera": "medium from the lower landing towards the loaded car, same direction as P012-1/2: lower gate CLOSED, −8 plate and store lamp visible; the landing in front now empty"
+          },
+          "characters": [
+            {
+              "name": "helper",
+              "position": "wholly inside the car, beside the fastened cart, seen through the closed gate ribs",
+              "action": "raises one wooden thumb towards the street above",
+              "gaze": "upwards",
+              "expression": "cheerful, ready",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "car at −8 with the cart inside, wheel restraints fastened",
+            "lower gate shut",
+            "landing empty",
+            "only the helper and cart in the car"
+          ],
+          "painted_text": [
+            "−8 (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left",
+              "w": 0.48,
+              "h": 0.24
+            },
+            {
+              "for": "bubble",
+              "where": "upper-right at the top edge",
+              "w": 0.4,
+              "h": 0.18
+            }
+          ],
+          "captions": [
+            "It steps in beside the cart, fastens the wheels and closes the gate. Then it raises a wooden thumb."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "Now we bring you back.",
+              "where": "upper-right",
+              "tail_to": "off-frame: tail exits the top edge towards the street landing (no Ahana drawn)"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label CHAPTER 01 - NUMBERS - PG 012. The children and Tara stay at street level, off-frame, on the whole page. The lower store's own fixed warm lamp is lit (manuscript anchor: 'Use the store lamp'); it is not a Lantern Street lamp. Upper street guard stays closed (not shown). Keep cart and helper fully supported. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised; staff in her RIGHT hand unless stated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey; he waits well back on the paving. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb (manuscript P003); keep it identical in every panel and reuse the first accepted helper panel as its look reference. Balloons and captions sit ON the art (never in gutters), gutters 8 pt, boxes off faces, reading order = manuscript order. Page mark area x 560–820, y 624–648 kept clear (all panels end at y 620). Continuity: P011 car went 0 → −5 → (−3 card) → −8; P013 opens with the loaded car risen to −3. Master decisions 2026-11-28: the lower store's own lamp at −8 may be lit (store landing, not Lantern Street); the lamp inside the lift car is OFF; Lantern Street fixed lamps OFF except the lift's single wall lamp (turned up on P003); the helper has no sheet: paint it per the description and reuse the first accepted helper panel as its look reference for later panels.",
+      "art": {
+        "idea": "The store's own lamp makes this page warm. A wordless-feeling load-in: the helper at the lower landing waits, opens the gate and wheels the supply cart aboard, then raises its wooden thumb. The page reads like three cuts from one slow camera, with the street entirely off-frame above.",
+        "structure": "Grid as planned: tall P012-1 [24,24,300,596]; P012-2 wide [332,24,508,294]; P012-3 wide [332,326,508,294]; gutters 8 pt. Ground: deep warm umber-brown to near-black (#2a1608 to #0d0704) with a soft amber bloom behind the right panels. Border motif (new): a timber plank border like the landing's beams: dark plank band 7 pt wide with a 0.8 pt brass edge line, iron strap bands crossing the corners (brass-dark #8a5a26 with 3 rivets each), and a small coil of rope as the top-left corner decoration (taken as a simple painted rope loop, from the rope hanging at the left of S02-B01; build it as SVG strokes, not a pasted raster). No numerals. Keep .pagemark zone clear.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S02-B01.png (P012-1, P012-3 sources) and S02-D01.png (P012-2)",
+          "grade": "warm: the store landing lit by its fixed wall lamp (allowed: store lamp at -8, not a Lantern Street lamp); gold on timber and cart, deep blue-black in the shaft. The lamp inside the lift car stays OFF. Keep the plate as painted; do not add objects.",
+          "mirror": false,
+          "blank": [
+            "leave painted -8 plate untouched (plate's own inscription); no other text to blank"
+          ],
+          "crop": "P012-1 tall crop of S02-B01 left-centre keeping the cart, the lamp edge and the closed gate behind (empty car flush at -8). P012-2 S02-D01 wide framing, gate slid open. P012-3 medium of the loaded car through the closed gate ribs."
+        },
+        "panes": {
+          "P012-1": "caption 'The next card brings it to -8.' light matte box upper-left over the dark timber wall, ~190x52 pt",
+          "P012-2": "caption 'The helper slides open the lower gate and wheels its supply cart aboard.' light matte box upper-right over the dark shaft wall, off the helper and the cart, ~250x58 pt",
+          "P012-3": "caption 'It steps in beside the cart, fastens the wheels and closes the gate. Then it raises a wooden thumb.' light matte box lower-left over the landing paving; white balloon 'Now we bring you back.' near the top edge with the tail pointing UP out of frame (Ahana calls down from the street; she is not drawn)",
+          "reading order": "1 caption, 2 caption, 3 caption, 3 balloon"
+        },
+        "hero": "P012-2: the loaded supply cart's front wheels just crossing the level threshold into the open car, the helper's carved hands on the rear handle, lamp glow on the wood.",
+        "illustrate": "Shows level threshold between landing and car (floor flush at -8). No numbers beyond the plate's -8 marking.",
+        "cast": "The helper only, no children and no Tara. Entry: from the right waiting beside the cart (P012-1), pushing from behind the cart (P012-2), inside the car behind the closed ribs with one raised wooden thumb (P012-3). Helper per master decision: broad carved wooden figure, blue waistcoat, painted eyes, visible grain, brass joints, separate wooden thumb. Paint the first accepted helper panel (P012-1) and use it as look reference for P012-2/3 and later pages.",
+        "colour": "Warm against cold: store-lamp amber and timber against the blue shaft beyond the gate. Umber #2a1608, amber #f7c684, blue-black #0c1933. Lantern Street's cold blue is only a thin band at the very top of the tall panel if visible.",
+        "panel_notes": {
+          "P012-1": "gate closed, single EMPTY car flush at -8, loaded cart on landing, lamp-picture box lid on top",
+          "P012-2": "front wheels over threshold, rear wheels on landing, car not moving",
+          "P012-3": "lower gate shut, landing now empty, cart restraints fastened"
+        },
+        "delights": [
+          "The store lamp's glow carries over the gutters: the same amber falloff is baked into the page ground behind panels 2 and 3 so the three stills feel lit by one lamp.",
+          "P012-2: a few dust motes hang in the lamp beam above the cart, and the cart wheels leave two faint wheel tracks across the planks.",
+          "P012-3: a single glint on the helper's wooden thumb as it rises, the only highlight in the car."
+        ],
+        "folio": ".pagemark standard, ring brass, coin dark umber on brass.",
+        "varies": "vs P011 (green, 1+3+tall) and P013 (blue-black): umber ground, plank/iron border, one tall + two wide; the only cast is the helper, all warm."
+      }
+    },
+    {
+      "page": "P013",
+      "category": "action-story",
+      "pattern": "free composition: two equal shaft-view panels side by side (same camera: car at −3, then dropped to −5) over a wide close strip of the card slot",
+      "theme": "story page, lift-bay border family (brass gate ribs, blue lacquer)",
+      "title": "",
+      "purpose": "story: the loaded car rises to −3, then unexpectedly drops two marks to −5; Tara presses HOLD; Navya finds a hidden −2 card in the slot.",
+      "beats": [
+        "CH01 03A A",
+        "CH01 03B A",
+        "CH01 03C A"
+      ],
+      "panels": [
+        {
+          "id": "P013-1",
+          "beat": "CH01 03A A",
+          "box": [
+            24,
+            24,
+            404,
+            330
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P013-1",
+            "size": "1536x1024",
+            "crop": "keep the car and helper near the centre; P017-3 reuses this image as a crop on the car"
+          },
+          "background": {
+            "record": "S01-D01",
+            "plate": "BagroundGenTask/out/plates/S01-D01.png",
+            "camera": "the plate's street-side downward view through the closed guard, shifted a little right so the controller (strip, then START/HOLD as in S01-D02) stands at the right edge at camera level; the car is moved up to the −3 mark"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "right edge, beside the controller",
+              "action": "watches the position strip",
+              "gaze": "the strip",
+              "expression": "focused",
+              "holding": "-"
+            },
+            {
+              "name": "Vihaan",
+              "position": "right-centre near edge, behind the guard",
+              "action": "follows the strip upward from the car to 0",
+              "gaze": "the strip / the three marks to 0",
+              "expression": "counting",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "right edge, within reach of HOLD",
+              "action": "stands ready by HOLD",
+              "gaze": "the car",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Ahana",
+              "position": "edge of frame or implied by warm light only",
+              "action": "keeps the lamp towards the controls",
+              "gaze": "the controls",
+              "expression": "intent",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "helper",
+              "position": "inside the car, beside the secured cart",
+              "action": "stands steady",
+              "gaze": "up the shaft",
+              "expression": "calm",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "ONE loaded car stopped at −3, cart restrained, lower gate closed",
+            "the −8 landing below now empty",
+            "no hidden card shown",
+            "Tez back on the paving, out of frame"
+          ],
+          "painted_text": [
+            "strip numerals (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top, over the guard ribs",
+              "w": 0.9,
+              "h": 0.24
+            }
+          ],
+          "captions": [
+            "The first upward card takes the car from −8 to −3. It needs only three more marks to reach the street."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P013-2",
+          "beat": "CH01 03B A",
+          "box": [
+            436,
+            24,
+            404,
+            330
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P013-2",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S01-D01",
+            "plate": "BagroundGenTask/out/plates/S01-D01.png",
+            "camera": "IDENTICAL shaft direction to P013-1, with the controller edge closer at right so HOLD and Tara's hand read; the car now at −5 (the plate's own car position)"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "right near edge, hand on the controller",
+              "action": "left fingertip pressing HOLD",
+              "gaze": "the car",
+              "expression": "calm, wise, firm",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Navya",
+              "position": "right-centre behind the guard",
+              "action": "turns sharply towards the shaft",
+              "gaze": "the car",
+              "expression": "alarmed but controlled",
+              "holding": "-"
+            },
+            {
+              "name": "Vihaan",
+              "position": "centre near edge",
+              "action": "turns sharply towards the shaft",
+              "gaze": "the car",
+              "expression": "startled",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "edge or warm light only",
+              "action": "steadies the lamp",
+              "gaze": "the shaft",
+              "expression": "tense",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "helper",
+              "position": "inside the car",
+              "action": "grips its fastened cart",
+              "gaze": "up at the children",
+              "expression": "worried",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "car stopped (not falling) at −5, two marks below the P013-1 position",
+            "cart restraints and lower gate still closed and secure, nothing spilling",
+            "last-change window now −2 (outside this crop)"
+          ],
+          "painted_text": [
+            "strip numerals (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top",
+              "w": 0.9,
+              "h": 0.2
+            },
+            {
+              "for": "caption",
+              "where": "bottom-left",
+              "w": 0.6,
+              "h": 0.2
+            }
+          ],
+          "captions": [
+            "But the controller clicks again. Instead of coming up, the lift drops two marks to −5.",
+            "Tara presses HOLD. The car stops. The helper grips its cart and looks up at them."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P013-3",
+          "beat": "CH01 03C A",
+          "box": [
+            24,
+            362,
+            816,
+            258
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P013-3",
+            "size": "1536x1024",
+            "crop": "wide strip through the middle: slot and card left of centre, Navya's face right"
+          },
+          "background": {
+            "record": "S01-D02",
+            "plate": "BagroundGenTask/out/plates/S01-D02.png",
+            "camera": "the plate's close three-quarter view of the controller: card rail with the exposed thin −2 card, last-change window −2, HOLD engaged, warm lamp reflection, one brass guard bar at left; lower cover closed"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "right of the slot, face beside it",
+              "action": "has opened the slot, fingers near the exposed −2 card without removing it",
+              "gaze": "Tara",
+              "expression": "brows tightened",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "just behind Navya, upper right",
+              "action": "monitors HOLD",
+              "gaze": "the slot",
+              "expression": "calm, wise, watchful",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Ahana",
+              "position": "lower-right edge (hand and lamp)",
+              "action": "lights the slot",
+              "gaze": "the card",
+              "expression": "intent",
+              "holding": "brass lamp (right hand)"
+            }
+          ],
+          "props_state": [
+            "one extra thin card visible in the slot behind the return instruction (plate's −2)",
+            "window reads −2 (plate's own)",
+            "car held at −5 (off-crop)",
+            "lower catch cover closed; red lamps on"
+          ],
+          "painted_text": [
+            "−2 on the card and in the window, strip numerals, START, HOLD, CANCEL LAST CHANGE (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left",
+              "w": 0.42,
+              "h": 0.4
+            },
+            {
+              "for": "bubble",
+              "where": "upper-right beside Navya's face",
+              "w": 0.26,
+              "h": 0.2
+            }
+          ],
+          "captions": [
+            "Navya opens the card slot and finds a thin card hidden behind the return instruction. It reads −2. The machine has obeyed the extra card."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Navya",
+              "text": "That wasn’t in our plan.",
+              "where": "upper-right",
+              "tail_to": "Navya's mouth"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label CHAPTER 01 - NUMBERS - PG 013. P013-1 and P013-2 are the same camera (read as before/after); one stopped car position per still. Keep −5 (position) and −2 (recorded change) visually separate: the position is the strip, the change is the window/card. Show the hidden card only on P013-3. Tez's ears angle back if he is in frame (he is back on the paving). Same full-moon night. Lantern Street lamps all dark (wall sconces, hanging and arch lanterns, distant canopy/stall lights, the far-left sconce in S01-B01 and the hanging lanterns down the lane): switch them off in the prompt, change nothing else. Only warm lights: the lift's single wall lamp above the controller (lit since P003) and Ahana's portable brass lamp (always in her RIGHT hand). Cool moonlight edges roofs and canopy gaps; moonline unlit. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised; staff in her RIGHT hand unless stated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey; he waits well back on the paving. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb (manuscript P003); keep it identical in every panel and reuse the first accepted helper panel as its look reference. Lift bay geometry is the plate's: brass street gate fills the left of the bay, the blue-and-brass controller is fixed immediately against its right jamb under the wall lamp, gate edge, jamb and casing on one wall plane; only the shaft and the single car behind the gate. No freestanding console, aisle or second lift/car. Strip numerals (+2 … 0 … −8), START, HOLD, CANCEL LAST CHANGE, wheel values and the maintenance plate are the plates' own inscriptions: never repaint or invent others. Card faces are blank painted cards; their values are HTML overlay_text. Balloons and captions sit ON the art (never in gutters), gutters 8 pt, boxes off faces, reading order = manuscript order. Page mark area x 560–820, y 624–648 kept clear (all panels end at y 620). Continuity: P012 car at −8 loaded; P014 the car is held at −5 with HOLD latched. Master decisions 2026-11-28: the lower store's own lamp at −8 may be lit (store landing, not Lantern Street); the lamp inside the lift car is OFF; Lantern Street fixed lamps OFF except the lift's single wall lamp (turned up on P003); the helper has no sheet: paint it per the description and reuse the first accepted helper panel as its look reference for later panels.",
+      "art": {
+        "idea": "Before and after, then the reveal. Two stills from the same camera show the car at -3 then, without warning, at -5; Tara's finger lands on HOLD; a wide strip below shows the controller's card slot with the thin hidden card. The page cools, then the red warning lamps wake.",
+        "structure": "Grid as planned: P013-1 [24,24,404,330] and P013-2 [436,24,404,330] top (same camera, read as before/after); P013-3 wide [24,362,816,258] below. Gutters 8 pt. Ground: blue-black storm (#060b1c to #131a38) with a faint red wash climbing from the bottom edge (the warning lamps) at 12 percent. Border motif (new): a thin brass chain line, one link every 12 pt (SVG ellipses, 0.8 pt stroke), running along the top and bottom edges, with brass corner caps; the top-right cap carries a small red lamp jewel (dim in the build, 30 percent). Keep .pagemark zone clear.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S01-D01.png (P013-1, P013-2) and S01-D02.png (P013-3)",
+          "grade": "night. Lantern Street fixed lamps OFF (only the lift's wall lamp and Ahana's right-hand brass lamp are warm); cool moonlight on edges. P013-1 neutral calm cool grade, car at -3. P013-2 same grade but the red warning lamp bleed starts on the right edge and the highlights go slightly cooler (alarm). P013-3 warm ember wall lamp on the card slot, red lamps glowing below, cool shadow.",
+          "mirror": false,
+          "blank": [],
+          "crop": "P013-1 and P013-2 identical crop of S01-D01 shifted right so the strip is at the right edge; the car in P013-1 is higher up the shaft (at -3), in P013-2 at the plate's own -5 position. P013-3 wide crop of S01-D02 centred on the card rail and window."
+        },
+        "panes": {
+          "P013-1": "caption (first upward card...) light matte box bottom-left over the dark brass ribs, ~210x70 pt",
+          "P013-2": "captions 'But the controller clicks again...' and 'Tara presses HOLD...' as two stacked light matte boxes, upper-left over the dark shaft, ~230x56 pt each, separated by the 8 pt rule, clear of Tara's hand",
+          "P013-3": "caption (Navya opens the card slot...) light matte box upper-left over the blue wall, white balloon 'That wasn't in our plan.' upper-right over the wall, tail to Navya's mouth; hidden card -2 and window -2 are painted by the plate",
+          "reading order": "1 caption, 2 caption, 2 caption, 3 caption, 3 balloon"
+        },
+        "hero": "P013-3: the wide strip with the thin hidden card half-out of the rail, the window showing -2 and the lamp reflecting on the brass. Close second: the pair P013-1/P013-2 (the car's two positions).",
+        "illustrate": "Keep position and change separate: the strip (position -3 then -5) lives in the shaft stills, the -2 lives in the window/card in P013-3 only. No equation and no arrow.",
+        "cast": "Edge-of-frame crew: Navya and Vihaan at the right edge looking sharply towards the shaft (P013-2), Tara's hand and sleeve on HOLD at the right, Ahana only as lamp light and her lamp hand, the helper steady inside the car holding the cart. In P013-3 Navya's face beside the slot, Tara behind, Ahana's hand and lamp at the lower right. Tara stays calm, no startled pose. Entry: hands first, faces last.",
+        "colour": "Cold blue-black against the red warning lamps; the lamp-gold wall lamp is the only warm key. Red #c62828 used in small areas only (lamps, border jewel).",
+        "panel_notes": {
+          "P013-1/2": "identical camera; only the car and the colour temperature change",
+          "P013-3": "lower cover closed; both red lamps on; HOLD engaged (latched)"
+        },
+        "delights": [
+          "The border's red jewel in the top-right cap is lit only on this page (the build may brighten it to 80 percent), a slow wordless alarm.",
+          "The gutter between P013-1 and P013-2 carries one brass pointer pip at the car's old height on the left edge of P013-2, as if the strip had drawn it.",
+          "P013-3: the red lamps cast a faint red rim on the card's thin edge."
+        ],
+        "folio": ".pagemark standard, ring brass, coin ink on gold.",
+        "varies": "vs P012 (warm umber) and P014 (pewter): cold blue-black with red accent, chain border, 2 over 1 wide; cast as edge-of-frame hands."
+      }
+    },
+    {
+      "page": "P014",
+      "category": "dialogue-story",
+      "pattern": "free composition: tall left panel at the controller, a wide panel top-right, two crops below it (differs from P004's establishing-left grid)",
+      "theme": "story page, lift-bay border family (brass, blue lacquer)",
+      "title": "",
+      "purpose": "story: Vihaan reaches for a +2 card, Ahana spots CANCEL LAST CHANGE, Tara asks where undoing the −2 will take the car, Vihaan asks which way it moves (opens T1.1B on P015).",
+      "beats": [
+        "CH01 03D A",
+        "CH01 03D B",
+        "CH01 03D C",
+        "CH01 03D D"
+      ],
+      "panels": [
+        {
+          "id": "P014-1",
+          "beat": "CH01 03D A",
+          "box": [
+            24,
+            24,
+            330,
+            596
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P014-1",
+            "size": "1024x1536"
+          },
+          "background": {
+            "record": "S01-D02",
+            "plate": "BagroundGenTask/out/plates/S01-D02.png",
+            "camera": "medium close at the controller, reframed tall: CANCEL LAST CHANGE framed clearly with its label uncovered, the −2 window, the shelf; gate jamb and one guard bar at left; blue wall on the right for the cast"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "right foreground, three-quarter front",
+              "action": "points her free left index finger at CANCEL LAST CHANGE (not touching), asks the group",
+              "gaze": "the group",
+              "expression": "eager, thoughtful",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "left-centre foreground",
+              "action": "reaches towards the loose +2 card on the shelf, does not insert it",
+              "gaze": "the +2 card",
+              "expression": "decided",
+              "holding": "-"
+            },
+            {
+              "name": "Navya",
+              "position": "midground right, behind Ahana",
+              "action": "keeps both hands clear of the controls",
+              "gaze": "the button",
+              "expression": "cautious",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "back, upper right, tallest",
+              "action": "listens, staff upright",
+              "gaze": "Ahana",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "HOLD latched; window −2; hidden −2 card still in its slot",
+            "one loose card on the shelf (+2), not inserted",
+            "car held at −5 (off-crop)",
+            "no +2 movement, no −3 result shown"
+          ],
+          "painted_text": [
+            "−2 (plate's window and card), START, HOLD, CANCEL LAST CHANGE, strip numerals (plate's own)"
+          ],
+          "overlay_text": [
+            {
+              "text": "+2",
+              "on": "the loose blank card on the shelf near Vihaan's hand"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top",
+              "w": 0.92,
+              "h": 0.18
+            },
+            {
+              "for": "bubble",
+              "where": "lower-left over the dark casing/wall, away from the button label",
+              "w": 0.7,
+              "h": 0.14
+            }
+          ],
+          "captions": [
+            "Vihaan reaches for a +2 card. Ahana notices a button beside the record window: CANCEL LAST CHANGE."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Ahana",
+              "text": "Can we undo the wrong instruction instead?",
+              "where": "lower-left",
+              "tail_to": "Ahana's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P014-2",
+          "beat": "CH01 03D B",
+          "box": [
+            362,
+            24,
+            478,
+            294
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P014-2",
+            "size": "1536x1024",
+            "crop": "landscape; P014-3 (Vihaan) and P017-1 (window + Tara's hand + Navya) are crops of this image"
+          },
+          "background": {
+            "record": "S01-D02",
+            "plate": "BagroundGenTask/out/plates/S01-D02.png",
+            "camera": "the same controller-side camera and character places as P014-1, wider landscape: window −2 and HOLD at centre-left, the shelf below"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "right of the controller, centre-right",
+              "action": "points her free left finger at the −2 last-change window; looks at the children and speaks",
+              "gaze": "the children",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Ahana",
+              "position": "right foreground",
+              "action": "has lowered her pointing hand; lamp held fixed",
+              "gaze": "Tara",
+              "expression": "listening",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "left foreground",
+              "action": "has withdrawn his reaching hand from the +2 card, palm turned slightly up",
+              "gaze": "the −2 window",
+              "expression": "thoughtful",
+              "holding": "-"
+            },
+            {
+              "name": "Navya",
+              "position": "centre, beside the controller",
+              "action": "hands clear, studies the record",
+              "gaze": "the −2 window",
+              "expression": "focused",
+              "holding": "-"
+            },
+            {
+              "name": "Tez",
+              "position": "low, behind them on the paving",
+              "action": "sits",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "no button pressed; HOLD latched",
+            "+2 card stays on the shelf",
+            "window −2"
+          ],
+          "painted_text": [
+            "−2 window, HOLD, CANCEL LAST CHANGE (plate's own)"
+          ],
+          "overlay_text": [
+            {
+              "text": "+2",
+              "on": "the loose blank card on the shelf"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left",
+              "w": 0.4,
+              "h": 0.18
+            },
+            {
+              "for": "bubble",
+              "where": "upper-right above Tara",
+              "w": 0.48,
+              "h": 0.28
+            }
+          ],
+          "captions": [
+            "Tara points to the window, which still shows −2."
+          ],
+          "bubbles": [
+            {
+              "speaker": "Tara",
+              "text": "That button reverses the last movement. First tell me where it will take the car.",
+              "where": "upper-right",
+              "tail_to": "Tara's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P014-3",
+          "beat": "CH01 03D C",
+          "box": [
+            362,
+            326,
+            190,
+            294
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P014-2",
+            "focus": [
+              0.2,
+              0.52
+            ],
+            "z": 2.3,
+            "note": "Vihaan, hand withdrawn, palm slightly up, looking at the −2 window; card stays on the shelf"
+          },
+          "characters": [
+            {
+              "name": "Vihaan",
+              "position": "centre",
+              "action": "says the first short line",
+              "gaze": "the −2 window",
+              "expression": "thoughtful",
+              "holding": "-"
+            }
+          ],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "top",
+              "w": 0.85,
+              "h": 0.22
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Vihaan",
+              "text": "We need to undo that last drop.",
+              "where": "top",
+              "tail_to": "Vihaan's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P014-4",
+          "beat": "CH01 03D D",
+          "box": [
+            560,
+            326,
+            280,
+            294
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P014-4",
+            "size": "1024x1024"
+          },
+          "background": {
+            "record": "S01-D02",
+            "plate": "BagroundGenTask/out/plates/S01-D02.png",
+            "camera": "same controller-side camera and character places as P014-2 (feet in place), a two-shot of Vihaan and Tara"
+          },
+          "characters": [
+            {
+              "name": "Vihaan",
+              "position": "left, same place",
+              "action": "gaze moved from the window to Tara; open palm raised a little, hand clear of the controls",
+              "gaze": "Tara",
+              "expression": "eyebrows lifted, asking",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "right, same place",
+              "action": "listens, no pointing; staff upright",
+              "gaze": "Vihaan",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "HOLD latched; window −2; no destination indicated"
+          ],
+          "painted_text": [],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "top-left",
+              "w": 0.6,
+              "h": 0.2
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Vihaan",
+              "text": "Which way will the car move?",
+              "where": "top-left",
+              "tail_to": "Vihaan's mouth"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label CHAPTER 01 - NUMBERS - PG 014. Vihaan's last question opens T1.1B (P015): no answer, arrow or −3 anywhere on the page. Tara addresses the children and never points out the solved destination. Same full-moon night. Lantern Street lamps all dark (wall sconces, hanging and arch lanterns, distant canopy/stall lights, the far-left sconce in S01-B01 and the hanging lanterns down the lane): switch them off in the prompt, change nothing else. Only warm lights: the lift's single wall lamp above the controller (lit since P003) and Ahana's portable brass lamp (always in her RIGHT hand). Cool moonlight edges roofs and canopy gaps; moonline unlit. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised; staff in her RIGHT hand unless stated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey; he waits well back on the paving. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb (manuscript P003); keep it identical in every panel and reuse the first accepted helper panel as its look reference. Lift bay geometry is the plate's: brass street gate fills the left of the bay, the blue-and-brass controller is fixed immediately against its right jamb under the wall lamp, gate edge, jamb and casing on one wall plane; only the shaft and the single car behind the gate. No freestanding console, aisle or second lift/car. Strip numerals (+2 … 0 … −8), START, HOLD, CANCEL LAST CHANGE, wheel values and the maintenance plate are the plates' own inscriptions: never repaint or invent others. Card faces are blank painted cards; their values are HTML overlay_text. Balloons and captions sit ON the art (never in gutters), gutters 8 pt, boxes off faces, reading order = manuscript order. Page mark area x 560–820, y 624–648 kept clear (all panels end at y 620). Continuity: P013 car held at −5, hidden −2 card exposed in the slot; P015–P016 teach subtracting a negative; P017 resumes at the controller. Master decisions 2026-11-28: the lower store's own lamp at −8 may be lit (store landing, not Lantern Street); the lamp inside the lift car is OFF; Lantern Street fixed lamps OFF except the lift's single wall lamp (turned up on P003); the helper has no sheet: paint it per the description and reuse the first accepted helper panel as its look reference for later panels.",
+      "art": {
+        "idea": "A conversation at the controller where nobody touches anything. Four panels of close pressure: the CANCEL LAST CHANGE button, Tara's raised finger at the -2 window, and Vihaan's question that opens the next lesson. The page ends on an unanswered question, with the +2 card lying unused.",
+        "structure": "Grid as planned: tall P014-1 [24,24,330,596]; wide P014-2 [362,24,478,294]; small P014-3 [362,326,190,294]; P014-4 [560,326,280,294]. Gutters 8 pt. Ground: cool pewter slate (#1b2733 to #0a0f18), a thin silver-brass tone (#9a8a6a) rather than gold, to read as a quieter, thinking page. Border motif (new): the CANCEL button's round bezel: concentric brass ring 14 pt (two rings 0.8 and 0.5 pt) as corner caps, joined by a hairline with small hinge pins every 90 pt. Keep .pagemark zone clear.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S01-D02.png",
+          "grade": "night. Lantern Street fixed lamps OFF (only the lift's wall lamp and Ahana's right-hand brass lamp are warm); cool moonlight on edges. Cool slate shadows, warm wall lamp key on the controller face, brass catching silver. Slightly lower contrast than P013 (calmer).",
+          "mirror": false,
+          "blank": [],
+          "crop": "P014-1 tall reframe of S01-D02 on CANCEL LAST CHANGE with the blue wall on the right for the cast. P014-2 wide crop of the same plate (window -2 and HOLD left, shelf below). P014-4 a tighter two-shot crop of P014-2 (feet in place). P014-3 is a face crop of P014-2's Vihaan region ~z2.4."
+        },
+        "panes": {
+          "P014-1": "caption (Vihaan reaches... CANCEL LAST CHANGE.) light matte box top-left over the dark gate bar, ~230x60 pt; white balloon 'Can we undo the wrong instruction instead?' upper-right over the blue wall, tail to Ahana",
+          "P014-2": "caption 'Tara points to the window...' matte box upper-left over the wall; white balloon 'That button reverses the last movement. First tell me where it will take the car.' mid-right over the blue wall, tail to Tara",
+          "P014-3": "white balloon 'We need to undo that last drop.' over the calm top of the crop, tail to Vihaan",
+          "P014-4": "white balloon 'Which way will the car move?' top, tail to Vihaan",
+          "reading order": "1 caption, 1 balloon, 2 caption, 2 balloon, 3 balloon, 4 balloon"
+        },
+        "hero": "P014-1: CANCEL LAST CHANGE in the tall frame, Ahana's pointing finger just short of it and Vihaan's open hand hovering over the +2 card on the shelf.",
+        "illustrate": "No arrows, no answer, no -3 anywhere. The +2 card is a blank cream card with HTML overlay +2 on the shelf; window shows -2 (plate).",
+        "cast": "Face-led close crops (the other pages use backs/hands): Ahana right foreground three-quarter front pointing, Vihaan left foreground reaching then withdrawing, Navya mid-ground hands clear, Tara tall back right, calm, staff upright, pointing to the window with her free left finger. Tez low behind the children, sitting.",
+        "colour": "Tracked against second: the cool silver/slate page with one warm element, the lamp-lit CANCEL bezel and window. Pewter #1b2733, silver brass #9a8a6a, ember #f7c684.",
+        "panel_notes": {
+          "P014-1": "HOLD latched, hidden card still in slot, car off-crop",
+          "P014-4": "no destination indicated; neither points"
+        },
+        "delights": [
+          "The CANCEL bezel ring is echoed by the border corner caps: the button's circular amber glint is the page's lone warm dot.",
+          "P014-3: Vihaan's breath makes no cartoon cloud; instead his lamp-lit cheek edge shows a faint reflection of the window.",
+          "The +2 card has a worn corner, one clean cut chamfer, as if it were used before."
+        ],
+        "folio": ".pagemark standard, ring silver-brass, coin slate.",
+        "varies": "vs P013 (blue-black, chain, 2 over 1): pewter, bezel border, tall + wide + 2 small; faces and talk instead of hands."
+      }
+    },
+    {
       "page": "P015",
       "category": "concept",
       "pattern": "free composition (hint only)",
@@ -1587,9 +2900,7 @@
         {
           "block": "T1.1",
           "heading": "",
-          "text": [
-            "## Teaching block T1.1B"
-          ],
+          "text": [],
           "equations": [],
           "diagrams": [],
           "questions": [],
@@ -1850,6 +3161,710 @@
       }
     },
     {
+      "page": "P017",
+      "category": "action-story",
+      "pattern": "free composition: a three-beat strip across the top (prediction, press, result) and below it a silent close beside a large result panel at 0",
+      "theme": "story page, lift-bay border family",
+      "title": "",
+      "purpose": "story: undoing −2 moves the car up two to −3; Navya removes the hidden card, uses +3 to bring the helper to 0; the floor is level, but the gate will not open.",
+      "beats": [
+        "CH01 03E A",
+        "CH01 03E B",
+        "CH01 03E C",
+        "CH01 03F A",
+        "CH01 03G A"
+      ],
+      "panels": [
+        {
+          "id": "P017-1",
+          "beat": "CH01 03E A",
+          "box": [
+            24,
+            24,
+            270,
+            250
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P014-2",
+            "focus": [
+              0.5,
+              0.42
+            ],
+            "z": 1.8,
+            "note": "free re-crop of P014-2: the −2 window, HOLD with Tara's left hand right beside it, Navya studying the record; no control used yet"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "centre",
+              "action": "studies the record",
+              "gaze": "the −2 window",
+              "expression": "focused",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "right",
+              "action": "hand poised by HOLD/window",
+              "gaze": "the window",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "window −2; HOLD latched; car held at −5 (off-crop)"
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top",
+              "w": 0.92,
+              "h": 0.32
+            }
+          ],
+          "captions": [
+            "The last movement was down two. Undoing it will take the car up two, back from −5 to −3."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P017-2",
+          "beat": "CH01 03E B",
+          "box": [
+            302,
+            24,
+            270,
+            250
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P017-2",
+            "size": "1024x1024"
+          },
+          "background": {
+            "record": "S01-D02",
+            "plate": "BagroundGenTask/out/plates/S01-D02.png",
+            "camera": "close on the controller (plate framing): −2 window readable, HOLD released, CANCEL LAST CHANGE under Navya's finger"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "lower right, hand only plus shoulder",
+              "action": "presses CANCEL LAST CHANGE",
+              "gaze": "the button",
+              "expression": "focused",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "left hand at upper left",
+              "action": "left hand now clear of HOLD after releasing it",
+              "gaze": "-",
+              "expression": "calm",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "edge, lamp only",
+              "action": "lights their hands",
+              "gaze": "the hands",
+              "expression": "intent",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "edge, profile",
+              "action": "watches",
+              "gaze": "the button",
+              "expression": "focused",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "only one corrective command",
+            "−2 still readable in the window",
+            "hidden −2 card still in its slot",
+            "Vihaan's +2 card NOT inserted"
+          ],
+          "painted_text": [
+            "−2 window, HOLD, CANCEL LAST CHANGE (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "bottom",
+              "w": 0.92,
+              "h": 0.22
+            }
+          ],
+          "captions": [
+            "Tara releases HOLD for the correction. Navya presses the button."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P017-3",
+          "beat": "CH01 03E C",
+          "box": [
+            580,
+            24,
+            260,
+            250
+          ],
+          "art": {
+            "kind": "zoom",
+            "of": "P013-1",
+            "focus": [
+              0.45,
+              0.6
+            ],
+            "z": 1.9,
+            "note": "free re-crop of P013-1 (car at −3, helper and fastened cart inside, guard bars in the near edge, strip in frame); exclude the children if possible"
+          },
+          "characters": [
+            {
+              "name": "helper",
+              "position": "inside the car",
+              "action": "stands beside the fastened cart",
+              "gaze": "up the shaft",
+              "expression": "relieved",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "car stopped at −3 (same state as P013-1)"
+          ],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "top",
+              "w": 0.88,
+              "h": 0.18
+            }
+          ],
+          "captions": [
+            "The car rises to the position they expected."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P017-4",
+          "beat": "CH01 03F A",
+          "box": [
+            24,
+            282,
+            270,
+            338
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P017-4",
+            "size": "1024x1536"
+          },
+          "background": {
+            "record": "S01-D02",
+            "plate": "BagroundGenTask/out/plates/S01-D02.png",
+            "camera": "silent close-up of the card slot and controller shelf (plate's REMOVED CARD REST patch on the shelf, separate from the slots)"
+          },
+          "characters": [
+            {
+              "name": "Navya",
+              "position": "hands only, centre",
+              "action": "one hand holds the removed thin card just above a separate patch of shelf; the other checks the next slot without activating it",
+              "gaze": "the slot",
+              "expression": "-",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "edge, lamp",
+              "action": "lights the hands",
+              "gaze": "-",
+              "expression": "-",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Tara",
+              "position": "soft in the background behind the guard edge",
+              "action": "supervises",
+              "gaze": "Navya's hands",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            }
+          ],
+          "props_state": [
+            "the −2 card is now OUT of the rail (slot empty), held above the shelf",
+            "car held at −3",
+            "+3 card ready"
+          ],
+          "painted_text": [],
+          "overlay_text": [
+            {
+              "text": "−2",
+              "on": "the blank thin card in Navya's hand"
+            }
+          ],
+          "reserve": [],
+          "captions": [],
+          "bubbles": []
+        },
+        {
+          "id": "P017-5",
+          "beat": "CH01 03G A",
+          "box": [
+            302,
+            282,
+            538,
+            338
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P017-5",
+            "size": "1536x1024"
+          },
+          "background": {
+            "record": "S01-D05",
+            "plate": "BagroundGenTask/out/plates/S01-D05.png",
+            "camera": "the plate's low street-side three-quarter view across the paving: car floor flush with the paving at 0 (the 0 tick is the main anchor), closed gate, loaded cart inside, controller and its 0 mark at right"
+          },
+          "characters": [
+            {
+              "name": "Ahana",
+              "position": "left foreground, outside the closed gate",
+              "action": "crouches, comparing the car floor with the paving; lamp held clear of the opening",
+              "gaze": "the threshold",
+              "expression": "checking, satisfied",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Navya",
+              "position": "right, at the controller",
+              "action": "stands after using the +3 card",
+              "gaze": "the gate",
+              "expression": "puzzled",
+              "holding": "-"
+            },
+            {
+              "name": "Vihaan",
+              "position": "beside Navya",
+              "action": "stands",
+              "gaze": "the gate",
+              "expression": "puzzled",
+              "holding": "-"
+            },
+            {
+              "name": "Tara",
+              "position": "behind them, right",
+              "action": "supervises, staff upright",
+              "gaze": "the gate",
+              "expression": "calm, wise",
+              "holding": "staff (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "behind Ahana on the paving",
+              "action": "waits",
+              "gaze": "the gate",
+              "expression": "curious",
+              "holding": "-"
+            },
+            {
+              "name": "helper",
+              "position": "inside the car beside the secured cart, behind the gate ribs",
+              "action": "waits",
+              "gaze": "the gate latch",
+              "expression": "expectant",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "car at 0, floor flush with the street",
+            "safety gate STILL SHUT; no supplies have left the car",
+            "removed −2 card lies apart on the controller shelf (face too small to read; blank)",
+            "lower cover closed, both red warning lamps on"
+          ],
+          "painted_text": [
+            "0 tick and strip numerals (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper-left over the gate arch",
+              "w": 0.44,
+              "h": 0.3
+            },
+            {
+              "for": "caption",
+              "where": "upper-right over the dark lane (lanterns off)",
+              "w": 0.34,
+              "h": 0.22
+            },
+            {
+              "for": "caption",
+              "where": "lower-right over the paving",
+              "w": 0.36,
+              "h": 0.12
+            }
+          ],
+          "captions": [
+            "Navya removes the hidden card, checks the next slot and uses +3 to bring the helper to 0.",
+            "Ahana crouches beside the gate. The car floor is level with the paving.",
+            "The gate, however, will not open."
+          ],
+          "bubbles": []
+        }
+      ],
+      "equations": [],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label CHAPTER 01 - NUMBERS - PG 017. Separate stills for button action and result; the prediction caption is printed once (P017-1) and not repeated. P017-4 is silent: its narration is printed only on P017-5 (03G). The gate fault is a new problem, not another lift move. P017-1 and P017-3 are free cross-page crops (P014-2, P013-1): if the master prefers same-page sources only, they become small new images. Same full-moon night. Lantern Street lamps all dark (wall sconces, hanging and arch lanterns, distant canopy/stall lights, the far-left sconce in S01-B01 and the hanging lanterns down the lane): switch them off in the prompt, change nothing else. Only warm lights: the lift's single wall lamp above the controller (lit since P003) and Ahana's portable brass lamp (always in her RIGHT hand). Cool moonlight edges roofs and canopy gaps; moonline unlit. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised; staff in her RIGHT hand unless stated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey; he waits well back on the paving. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb (manuscript P003); keep it identical in every panel and reuse the first accepted helper panel as its look reference. Lift bay geometry is the plate's: brass street gate fills the left of the bay, the blue-and-brass controller is fixed immediately against its right jamb under the wall lamp, gate edge, jamb and casing on one wall plane; only the shaft and the single car behind the gate. No freestanding console, aisle or second lift/car. Strip numerals (+2 … 0 … −8), START, HOLD, CANCEL LAST CHANGE, wheel values and the maintenance plate are the plates' own inscriptions: never repaint or invent others. Card faces are blank painted cards; their values are HTML overlay_text. Balloons and captions sit ON the art (never in gutters), gutters 8 pt, boxes off faces, reading order = manuscript order. Page mark area x 560–820, y 624–648 kept clear (all panels end at y 620). Continuity: P014 car held at −5, HOLD latched, hidden card in slot; P018 the lower catch panel is opened with the car at 0. Master decisions 2026-11-28: the lower store's own lamp at −8 may be lit (store landing, not Lantern Street); the lamp inside the lift car is OFF; Lantern Street fixed lamps OFF except the lift's single wall lamp (turned up on P003); the helper has no sheet: paint it per the description and reuse the first accepted helper panel as its look reference for later panels.",
+      "art": {
+        "idea": "Undoing a drop brings the lift up, step by step: the Cancel press, the car rising, the hidden card out, the helper at 0, level with the paving. The gate still will not open: the page ends on a quiet tension.",
+        "structure": "Grid as planned: top row P017-1 [24,24,270,250], P017-2 [302,24,270,250], P017-3 [580,24,260,250]; bottom P017-4 [24,282,270,338], P017-5 [302,282,538,338]. Gutters 8 pt. Ground: deep sapphire to ink (#0a1f4d top to #040a1c bottom) with a moonlight silver lift at the top-right corner. Border motif (new): a level flagstone course, the pale paving line in S01-D05: a thin cream-stone band (4 pt, #cfc6b0 at 35 percent) along the bottom edge with a small tick at the page centre, and a matching band along the top; brass corner caps. No numerals. Keep .pagemark zone clear.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S01-D02.png (P017-2, P017-4) and S01-D05.png (P017-5); P017-1 = crop of P014-2's art, P017-3 = crop of P013-1's art (if accepted by master; else new small images)",
+          "grade": "night. Lantern Street fixed lamps OFF (only the lift's wall lamp and Ahana's right-hand brass lamp are warm); cool moonlight on edges. This page brightens as it goes: P017-1 cool and subdued, P017-2/P017-4 lamp key, P017-5 the lightest with moon on the paving and the lamp on the car floor.",
+          "mirror": false,
+          "blank": [],
+          "crop": "as listed in the plan"
+        },
+        "panes": {
+          "P017-1": "prediction caption (The last movement was down two...) light matte box lower-left over the dark wall, ~240x70 pt, printed once",
+          "P017-2": "caption 'Tara releases HOLD for the correction. Navya presses the button.' light matte box top over the blue wall",
+          "P017-3": "caption 'The car rises to the position they expected.' matte box at the bottom of the crop over the dark ribs",
+          "P017-4": "silent: no text",
+          "P017-5": "two caption boxes: 'Navya removes the hidden card, checks the next slot and uses +3 to bring the helper to 0.' top-left over the dark wall, 'Ahana crouches beside the gate. The car floor is level with the paving.' mid-left over the paving, and 'The gate, however, will not open.' last, bottom-right over the paving, slightly larger",
+          "reading order": "1,2,3,4 (silent),5 caption, 5 caption, 5 caption"
+        },
+        "hero": "P017-5: Ahana crouched low at the closed gate comparing the car floor with the paving, the loaded cart inside, the 0 tick under the gate.",
+        "illustrate": "Floor flush with paving at 0 as painted (0 tick is the anchor). No equation; the -2 card in P017-4 is a blank card with HTML overlay -2.",
+        "cast": "Low crouch entry (the other pages stand): Ahana crouches at the foreground gate in P017-5, Navya and Vihaan stand at the controller, Tara behind, Tez behind Ahana, helper behind the ribs. In the small panels, Navya's hands and shoulder only; Tara's left hand at upper left; Ahana only as lamp light.",
+        "colour": "Tracked against second: moon-silver and cool sapphire throughout, with a single gold line that grows in each still (the lamp pool rises along the page). Sapphire #0a1f4d, silver #a6c6f5, gold #f7c684.",
+        "panel_notes": {
+          "P017-2": "only one corrective press; -2 still in window",
+          "P017-4": "hidden -2 card out of the rail, held over the REMOVED CARD REST patch; +3 card ready",
+          "P017-5": "safety gate shut, supplies not unloaded, lower cover closed, both red lamps on"
+        },
+        "delights": [
+          "The border's paving course is a perfectly level line across the page, a quiet nod to the flush floor in P017-5.",
+          "P017-4: the removed thin card catches one thin gold edge light, the lamp's reflection on the REMOVED CARD REST patch.",
+          "P017-5: the closed gate's lock glints, the only brass highlight that does not reflect the lamp, a wordless hint."
+        ],
+        "folio": ".pagemark standard, ring brass, coin sapphire.",
+        "varies": "vs P014 (pewter, 1 tall 2 small) and P018: sapphire, flagstone border, three over two; cast enters from a crouch."
+      }
+    },
+    {
+      "page": "P018",
+      "category": "dialogue-story",
+      "pattern": "free composition: full-height portrait close of the opened catch panel on the left (the object), two stacked medium panels of Tara on the right",
+      "theme": "story page, lift-bay border family; the open brass catch compartment is the page's object",
+      "title": "",
+      "purpose": "story: two red warnings; Tara opens the panel: four catch wheels at +2, 0, −1, +3 and a plate TOTAL CORRECTION −8; FOUR EQUAL SETTINGS; she separates catches from floors and asks what equal setting gives −8 (leads to T1.1C on P019).",
+      "beats": [
+        "CH01 04A A",
+        "CH01 04A B",
+        "CH01 04A C"
+      ],
+      "panels": [
+        {
+          "id": "P018-1",
+          "beat": "CH01 04A A",
+          "box": [
+            24,
+            24,
+            500,
+            596
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P018-1",
+            "size": "1024x1536",
+            "crop": "tall: wall lamp at the top, red lamps and wheels mid-frame, plate and open cover below, a strip of gate and level paving at left"
+          },
+          "background": {
+            "record": "S01-D03",
+            "plate": "BagroundGenTask/out/plates/S01-D03.png",
+            "camera": "the plate's close three-quarter view of the opened lower compartment, reframed tall upward to include the lit wall lamp; blue bay post and brass gate edge at left with a strip of the shut gate and level paving behind"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "right edge: left hand and sleeve in frame",
+              "action": "left hand supports the open cover",
+              "gaze": "the wheels",
+              "expression": "calm",
+              "holding": "staff rests against the blue wall beside the fixed lamp (not in hand)"
+            },
+            {
+              "name": "Navya",
+              "position": "lower-right corner, back of head and shoulder only, NOT covering any wheel or the plate",
+              "action": "crouches in front of the wheels without turning them",
+              "gaze": "the wheels",
+              "expression": "-",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "exactly four wheels reading, left to right, +2, 0, −1, +3 (plate's own)",
+            "exactly two red warning lamps glowing",
+            "fixed plate TOTAL CORRECTION −8 / FOUR EQUAL SETTINGS (plate's own)",
+            "single loaded car at 0 behind the shut gate",
+            "top movement rail idle",
+            "no −2 settings, no open gate"
+          ],
+          "painted_text": [
+            "+2",
+            "0",
+            "−1",
+            "+3",
+            "TOTAL CORRECTION −8 / FOUR EQUAL SETTINGS (plate's existing inscription; if garbled, overlay it exactly on the blank brass plate)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "caption",
+              "where": "upper part, over the blue wall beside the lamp (red lamps clear)",
+              "w": 0.9,
+              "h": 0.16
+            },
+            {
+              "for": "caption",
+              "where": "lower part, over the paving below the cover (wheels and plate clear)",
+              "w": 0.92,
+              "h": 0.28
+            }
+          ],
+          "captions": [
+            "Two red warning lights shine on the control box. Tara keeps the lift stopped and opens the little panel below them.",
+            "Inside are four numbered setting wheels for the safety gate’s catches. Each catch needs the same small correction before it can release. A fixed maintenance plate says TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. The wheels have been left at +2, 0, −1 and +3."
+          ],
+          "bubbles": []
+        },
+        {
+          "id": "P018-2",
+          "beat": "CH01 04A B",
+          "box": [
+            532,
+            24,
+            308,
+            294
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P018-2",
+            "size": "1024x1024"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "street-side medium of the controller and the gate's right jamb (plate geometry), the lower cover opened exactly as in S01-D03; the staff leans on the blue wall beside the lit wall lamp; loaded car at 0 behind the shut gate"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "right of the open panel, three-quarter front",
+              "action": "left hand steadies the cover; free right index finger indicates the catch wheels",
+              "gaze": "Vihaan",
+              "expression": "calm, wise",
+              "holding": "nothing (staff against the wall)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "left foreground, cropped",
+              "action": "studies the wheel row",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "-"
+            },
+            {
+              "name": "Navya",
+              "position": "low foreground",
+              "action": "crouches in front of the wheels, hands off",
+              "gaze": "the wheels",
+              "expression": "thinking",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "edge",
+              "action": "lights the panel",
+              "gaze": "the panel",
+              "expression": "intent",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "helper",
+              "position": "behind the gate ribs, in the car",
+              "action": "waits with the cart",
+              "gaze": "-",
+              "expression": "patient",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "wheels +2, 0, −1, +3 (unsolved)",
+            "both red lamps on",
+            "everyone on the street side; gate shut"
+          ],
+          "painted_text": [
+            "+2",
+            "0",
+            "−1",
+            "+3 (plate's own, may be tiny)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper-left over the gate's upper bars",
+              "w": 0.56,
+              "h": 0.24
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Tara",
+              "text": "These numbers adjust the catches, not the lift’s floor.",
+              "where": "upper-left",
+              "tail_to": "Tara's mouth"
+            }
+          ]
+        },
+        {
+          "id": "P018-3",
+          "beat": "CH01 04A C",
+          "box": [
+            532,
+            326,
+            308,
+            294
+          ],
+          "art": {
+            "kind": "new",
+            "item": "P018-3",
+            "size": "1024x1024"
+          },
+          "background": {
+            "record": "S01-B01",
+            "plate": "BagroundGenTask/out/plates/S01-B01.png",
+            "camera": "IDENTICAL camera to P018-2; staff, feet and body positions fixed"
+          },
+          "characters": [
+            {
+              "name": "Tara",
+              "position": "same place",
+              "action": "right hand now a small open sweep across all four wheels; left hand keeps the cover steady",
+              "gaze": "the group",
+              "expression": "calm, wise, inviting",
+              "holding": "nothing (staff against the wall)"
+            },
+            {
+              "name": "Vihaan",
+              "position": "same place",
+              "action": "listens",
+              "gaze": "Tara",
+              "expression": "thinking",
+              "holding": "-"
+            },
+            {
+              "name": "Navya",
+              "position": "same place, crouched",
+              "action": "listens",
+              "gaze": "the wheels",
+              "expression": "thinking",
+              "holding": "-"
+            },
+            {
+              "name": "Ahana",
+              "position": "same place",
+              "action": "lights the panel",
+              "gaze": "Tara",
+              "expression": "thinking",
+              "holding": "brass lamp (right hand)"
+            },
+            {
+              "name": "Tez",
+              "position": "behind the children on the paving",
+              "action": "sits",
+              "gaze": "Tara",
+              "expression": "attentive",
+              "holding": "-"
+            }
+          ],
+          "props_state": [
+            "unsolved settings +2, 0, −1, +3 only; −2 never shown",
+            "car stays at 0, gate shut"
+          ],
+          "painted_text": [
+            "+2",
+            "0",
+            "−1",
+            "+3 (plate's own)"
+          ],
+          "overlay_text": [],
+          "reserve": [
+            {
+              "for": "bubble",
+              "where": "upper half, over wall and gate bars, off Tara's face",
+              "w": 0.78,
+              "h": 0.36
+            }
+          ],
+          "captions": [],
+          "bubbles": [
+            {
+              "speaker": "Tara",
+              "text": "The car stays here. What equal setting belongs on each wheel so that all four give a total of minus eight?",
+              "where": "upper",
+              "tail_to": "Tara's mouth"
+            }
+          ]
+        }
+      ],
+      "equations": [],
+      "teaching": [],
+      "asides": [],
+      "spot_art": [],
+      "notes": "Page label CHAPTER 01 - NUMBERS - PG 018. Opens Sequence 04. Correction units are not floor levels: never place the wheel values near the position strip as if they were floors. Do NOT reveal −2 settings (S01-D04) or an open gate before T1.1C (P019). Tara's staff stays against the wall in all three panels while she uses both hands. The question ends the page; no answer on it. Same full-moon night. Lantern Street lamps all dark (wall sconces, hanging and arch lanterns, distant canopy/stall lights, the far-left sconce in S01-B01 and the hanging lanterns down the lane): switch them off in the prompt, change nothing else. Only warm lights: the lift's single wall lamp above the controller (lit since P003) and Ahana's portable brass lamp (always in her RIGHT hand). Cool moonlight edges roofs and canopy gaps; moonline unlit. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised; staff in her RIGHT hand unless stated. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey; he waits well back on the paving. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb (manuscript P003); keep it identical in every panel and reuse the first accepted helper panel as its look reference. Lift bay geometry is the plate's: brass street gate fills the left of the bay, the blue-and-brass controller is fixed immediately against its right jamb under the wall lamp, gate edge, jamb and casing on one wall plane; only the shaft and the single car behind the gate. No freestanding console, aisle or second lift/car. Strip numerals (+2 … 0 … −8), START, HOLD, CANCEL LAST CHANGE, wheel values and the maintenance plate are the plates' own inscriptions: never repaint or invent others. Card faces are blank painted cards; their values are HTML overlay_text. Balloons and captions sit ON the art (never in gutters), gutters 8 pt, boxes off faces, reading order = manuscript order. Page mark area x 560–820, y 624–648 kept clear (all panels end at y 620). Continuity: P017 car at 0, gate shut, removed −2 card on the shelf; P019 teaches T1.1C. Master decisions 2026-11-28: the lower store's own lamp at −8 may be lit (store landing, not Lantern Street); the lamp inside the lift car is OFF; Lantern Street fixed lamps OFF except the lift's single wall lamp (turned up on P003); the helper has no sheet: paint it per the description and reuse the first accepted helper panel as its look reference for later panels.",
+      "art": {
+        "idea": "The maintenance plate. Two red lamps, the opened panel, four catch wheels, and a question. The page is an engraved brass plate: Tara's hands open the panel, separate catches from floors, and ask what equal setting gives -8.",
+        "structure": "Grid as planned: large P018-1 [24,24,500,596]; P018-2 [532,24,308,294]; P018-3 [532,326,308,294]. Gutters 8 pt. Ground: warm graphite-bronze (#1c1610 to #0a0a0c), faint red bloom at the top-left (the red lamps). Border motif (new): an engraved brass maintenance plate: 1 pt brass double line, four slotted-head screws in the corners (the corner caps), fine hairline engraving every 30 pt, no letters. Keep .pagemark zone clear.",
+        "scene": {
+          "plate": "BagroundGenTask/out/plates/S01-D03.png (P018-1) and S01-B01.png (P018-2, P018-3, one camera, medium of the controller and opened panel)",
+          "grade": "night. Lantern Street fixed lamps OFF (only the lift's wall lamp and Ahana's right-hand brass lamp are warm); cool moonlight on edges. Warm brass key on the plate, the two red lamps at the top as the only red, cool blue wall elsewhere. Do not reveal -2 settings or an open gate.",
+          "mirror": false,
+          "blank": [],
+          "crop": "P018-1 tall reframe of S01-D03 upward to include the lit wall lamp; the plate text (TOTAL CORRECTION -8, FOUR EQUAL SETTINGS) and wheels +2, 0, -1, +3 are the plate's own, do not change. P018-2/3 medium crop of S01-B01 with the lower cover opened as in S01-D03."
+        },
+        "panes": {
+          "P018-1": "caption 1 (Two red warning lights...) light matte box top-left over the dark gate bars; caption 2 (Inside are four numbered setting wheels...) light matte box lower-left over the paving, ~260x128 pt, clear of the plate and the wheels",
+          "P018-2": "white balloon 'These numbers adjust the catches, not the lift's floor.' upper area over the dark wall, tail to Tara",
+          "P018-3": "white balloon 'The car stays here. What equal setting belongs on each wheel so that all four give a total of minus eight?' upper area over the wall, tail to Tara; this is the last thing on the page",
+          "reading order": "1 caption, 1 caption, 2 balloon, 3 balloon"
+        },
+        "hero": "P018-1: the opened panel, four brass wheels and the TOTAL CORRECTION plate, lit by the two red lamps and the warm wall lamp.",
+        "illustrate": "Do not place the wheel values near the position strip; the wheels are plate-painted, not redrawn. No answer, no -2 settings, no open gate.",
+        "cast": "Hands first (Tara's left hand and sleeve, Navya's back of head at lower right) in P018-1; then Tara three-quarter, right index finger indicating the wheels, then a small open sweep of her right hand (P018-3). Staff leans against the wall. Vihaan and Navya low and cropped, Ahana lights the panel, helper in the car behind ribs, Tez behind the children. Tara calm throughout.",
+        "colour": "Warm brass and red against a cold blue wall: graphite #1c1610, brass #b3722f, warning red #c62828 (lamps only).",
+        "panel_notes": {
+          "P018-2/3": "identical camera and feet; only Tara's right hand changes"
+        },
+        "delights": [
+          "The red lamps' glow bleeds up into the page ground at the top-left, from the painted lamps into the border.",
+          "The engraved plate border's four screw slots are not all the same angle, small quirks of hand work.",
+          "P018-3: Tara's sweep leaves a thin motion line in the brass reflection only, not a drawn arrow."
+        ],
+        "folio": ".pagemark standard, ring brass, coin graphite.",
+        "varies": "vs P017 (sapphire, 3 over 2): graphite-bronze, engraved plate border, one big + two stacked; hands-first cast."
+      }
+    },
+    {
       "page": "P019",
       "category": "concept",
       "pattern": "free composition (hint only)",
@@ -1874,9 +3889,7 @@
         {
           "block": "T1.1",
           "heading": "",
-          "text": [
-            "## Teaching block T1.1C"
-          ],
+          "text": [],
           "equations": [],
           "diagrams": [],
           "questions": [],

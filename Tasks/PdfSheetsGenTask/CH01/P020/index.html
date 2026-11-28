@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P020</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+
+  .page.ledger { background:#F7F1E3; color:#1d2433; font-family:"Source Sans 3",sans-serif; font-size:14pt; line-height:18pt; }
+  .ledger .blk { position:absolute; }
+  .ledger p { margin:0 0 6pt; font-size:14pt; line-height:18pt; color:#1d2433; }
+  .ledger .sh { font-weight:600; color:#122A45; font-size:17pt; line-height:21pt; margin:0 0 6pt; display:flex; align-items:center; white-space:nowrap; }
+  .ledger .sh::after { content:""; display:block; width:30pt; border-top:.9pt solid #b3722f; margin-left:9pt; }
+  .ledger .sh.big { font-size:19pt; line-height:23pt; }
+  .ledger .mt { color:#1F6F6B; font-weight:700; }
+  .ledger .mr { color:#B5603A; font-weight:700; }
+  .ledger .eq { font-size:20pt; line-height:26pt; font-weight:600; color:#1d2433; white-space:nowrap; margin:0; }
+  .qcard { background:#FBF7EE; border:.8pt solid #b3722f; padding:9pt 14pt 7pt; }
+  .qcard p { margin:0; }
+  .ablock { background:#EFE6D2; border-top:.8pt solid #b3722f; padding:12pt 13pt 6pt; }
+  .step { position:absolute; height:28pt; width:230pt; box-sizing:border-box; display:flex; align-items:center; justify-content:center;
+          font-size:19pt; font-weight:600; white-space:nowrap; border-radius:3pt; }
+  .step.up { background:#FBF7EE; border:.8pt solid #b3722f; border-bottom:2.4pt solid #b3722f; color:#1d2433; box-shadow:3pt 3pt 0 rgba(12,25,51,.18); }
+  .step.dn { background:#1c4284; border:.8pt solid #c9a24a; border-bottom:2.4pt solid #8a5a22; color:#fbe9dc; }
+  .step .v { color:#1F6F6B; }
+  .slot { display:inline-block; width:25pt; height:22pt; line-height:22pt; text-align:center; background:#0a1530; border:.8pt solid #5f8bd6;
+          box-shadow:inset 0 2pt 3pt rgba(0,0,0,.7); color:#f6b48c; font-size:17pt; font-weight:400; margin-left:3pt; border-radius:2pt; }
+  .fh { position:absolute; font-weight:600; font-size:17pt; line-height:21pt; color:#122A45; }
+
+  .page.ledger { background:#F7F1E3; color:#1d2433; font-family:"Source Sans 3",sans-serif; font-size:14pt; line-height:18pt; }
+  .ledger .blk { position:absolute; }
+  .ledger p { margin:0 0 6pt; font-size:14pt; line-height:18pt; color:#1d2433; }
+  .ledger .sh { font-weight:600; color:#122A45; font-size:17pt; line-height:21pt; margin:0 0 6pt; display:flex; align-items:center; white-space:nowrap; }
+  .ledger .sh::after { content:""; display:block; width:30pt; border-top:.9pt solid #b3722f; margin-left:9pt; }
+  .ledger .sh.big { font-size:19pt; line-height:23pt; }
+  .ledger .mt { color:#1F6F6B; font-weight:700; }
+  .ledger .mr { color:#B5603A; font-weight:700; }
+  .ledger .eq { font-size:20pt; line-height:26pt; font-weight:600; color:#1d2433; white-space:nowrap; margin:0; }
+  .qcard { background:#FBF7EE; border:.8pt solid #b3722f; padding:9pt 14pt 7pt; }
+  .qcard p { margin:0; }
+  .ablock { background:#EFE6D2; border-top:.8pt solid #b3722f; padding:12pt 13pt 6pt; }
+  .step { position:absolute; height:28pt; width:230pt; box-sizing:border-box; display:flex; align-items:center; justify-content:center;
+          font-size:19pt; font-weight:600; white-space:nowrap; border-radius:3pt; }
+  .step.up { background:#FBF7EE; border:.8pt solid #b3722f; border-bottom:2.4pt solid #b3722f; color:#1d2433; box-shadow:3pt 3pt 0 rgba(12,25,51,.18); }
+  .step.dn { background:#1c4284; border:.8pt solid #c9a24a; border-bottom:2.4pt solid #8a5a22; color:#fbe9dc; }
+  .step .v { color:#1F6F6B; }
+  .slot { display:inline-block; width:25pt; height:22pt; line-height:22pt; text-align:center; background:#0a1530; border:.8pt solid #5f8bd6;
+          box-shadow:inset 0 2pt 3pt rgba(0,0,0,.7); color:#f6b48c; font-size:17pt; font-weight:400; margin-left:3pt; border-radius:2pt; }
+  .fh { position:absolute; font-weight:600; font-size:17pt; line-height:21pt; color:#122A45; }
+</style>
+</head>
+<body>
+<div class="page ledger" id="page" data-chapter="CH01" data-page="P020">
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<defs>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+<linearGradient id="gL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset="1" stop-color="#244c93"/></linearGradient>
+<linearGradient id="gR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset="1" stop-color="#244c93"/></linearGradient>
+<linearGradient id="wet" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8ea6cc"/><stop offset=".5" stop-color="#4d628d"/><stop offset="1" stop-color="#1c2a4a"/></linearGradient>
+<linearGradient id="gT" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a9bad8"/><stop offset="1" stop-color="#e5ecf8"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="864" height="7" fill="url(#gT)"/><path d="M0 7 H864" stroke="#c9a24a" stroke-width=".8"/>
+<rect x="0" y="0" width="14" height="648" fill="url(#gL)"/><rect x="850" y="0" width="14" height="648" fill="url(#gR)"/>
+<g stroke="#e6bd66" stroke-width=".9" stroke-opacity=".9"><path d="M3 7 V626"/><path d="M7 7 V626"/><path d="M11 7 V626"/><path d="M853 7 V626"/><path d="M857 7 V626"/><path d="M861 7 V626"/></g>
+<g fill="url(#brass)" stroke="#5a3510" stroke-width=".4"><rect x="0" y="80" width="14" height="7"/><rect x="850" y="80" width="14" height="7"/><rect x="0" y="200" width="14" height="7"/><rect x="850" y="200" width="14" height="7"/><rect x="0" y="320" width="14" height="7"/><rect x="850" y="320" width="14" height="7"/><rect x="0" y="440" width="14" height="7"/><rect x="850" y="440" width="14" height="7"/><rect x="0" y="560" width="14" height="7"/><rect x="850" y="560" width="14" height="7"/></g>
+<rect x="0" y="626" width="864" height="22" fill="url(#wet)"/>
+<g stroke="#0f1b36" stroke-opacity=".55" stroke-width=".5"><path d="M0 637 H864"/><path d="M60 626V637 M170 626V637 M280 626V637 M390 626V637 M500 626V637 M610 626V637 M720 626V637 M115 637V648 M225 637V648 M335 637V648 M445 637V648 M555 637V648 M665 637V648 M775 637V648"/></g>
+<g stroke="#e8efff" stroke-opacity=".55" stroke-width=".7" stroke-linecap="round"><path d="M70 631 H110 M240 633 H300 M420 630 H455 M780 632 H830"/><path d="M130 641 H170 M320 643 H380 M470 640 H520"/></g>
+<path d="M14 626 H850" stroke="#c9a24a" stroke-width=".9"/>
+<path d="M0 0 H46 V10 L40 16 H16 V40 L10 46 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/><circle cx="8" cy="8" r="2.4" fill="#7a4a18"/><circle cx="8" cy="8" r="1.6" fill="#d7a256"/>
+<g transform="translate(864 0) scale(-1 1)"><path d="M0 0 H30 V10 L24 16 H16 V24 L10 30 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/></g>
+<path d="M0 648 V610 H10 L16 616 V626 H20 V648 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+<g transform="translate(864 648) scale(-1 -1)"><path d="M0 0 H34 V12 L28 18 H18 V26 L12 32 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/></g>
+</svg>
+<div class="blk" style="left:44pt; top:34pt; width:780pt"><div class="sh big">Follow the multiplication patterns</div></div>
+<div class="blk" style="left:44pt; top:62pt; width:780pt"><p style="margin:0">Look at these two patterns. What changes in each column? Fill the blanks, then explain to a partner why a positive number multiplied by a negative number gives a negative answer, whichever order the two factors are written in.</p></div>
+<div class="fh" style="left:44pt; top:121pt"><span class="mt" style="font-size:17pt">First factor stays 3</span></div>
+<div class="fh" style="left:452pt; top:121pt"><span class="mr" style="font-size:17pt">Second factor stays 3</span></div>
+<svg class="blk" style="left:44pt; top:262pt; width:776pt; height:76pt" viewBox="0 0 776 76" aria-hidden="true"><defs><linearGradient id="wt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#17306a"/><stop offset=".6" stop-color="#0c1933"/><stop offset="1" stop-color="#08111f"/></linearGradient>
+<linearGradient id="bs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".5" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient></defs><rect x="0" y="5" width="776" height="71" rx="3" fill="url(#wt)"/><g stroke="#8fb0e8" stroke-opacity=".16" stroke-width="1" fill="none"><path d="M100 70 L130 8 M126 70 L156 8 M152 70 L182 8"/></g><g stroke="#8fb0e8" stroke-opacity=".16" stroke-width="1" fill="none"><path d="M508 70 L538 8 M534 70 L564 8 M560 70 L590 8"/></g><g stroke="#a9c2f0" stroke-opacity=".28" stroke-width=".8" stroke-linecap="round"><path d="M12 22 H60 M300 62 H360 M640 20 H720 M470 68 H540 M20 64 H90 M330 18 H380 M700 60 H760"/></g><rect x="0" y="2" width="776" height="4" fill="url(#bs)"/><path d="M0 3 H776" stroke="#fff0c4" stroke-opacity=".7" stroke-width=".5"/><circle cx="10" cy="4" r="1.5" fill="#7a4a18"/><circle cx="70" cy="4" r="1.5" fill="#7a4a18"/><circle cx="130" cy="4" r="1.5" fill="#7a4a18"/><circle cx="190" cy="4" r="1.5" fill="#7a4a18"/><circle cx="250" cy="4" r="1.5" fill="#7a4a18"/><circle cx="310" cy="4" r="1.5" fill="#7a4a18"/><circle cx="370" cy="4" r="1.5" fill="#7a4a18"/><circle cx="430" cy="4" r="1.5" fill="#7a4a18"/><circle cx="490" cy="4" r="1.5" fill="#7a4a18"/><circle cx="550" cy="4" r="1.5" fill="#7a4a18"/><circle cx="610" cy="4" r="1.5" fill="#7a4a18"/><circle cx="670" cy="4" r="1.5" fill="#7a4a18"/><circle cx="730" cy="4" r="1.5" fill="#7a4a18"/></svg><svg class="blk" style="left:422pt; top:246pt; width:20pt; height:88pt" viewBox="0 0 20 88" aria-hidden="true"><rect x="3" y="0" width="8" height="86" rx="1" fill="#c98f45" stroke="#5a3510" stroke-width=".5"/><rect x="3" y="0" width="2.4" height="86" fill="#f3d58f" opacity=".8"/><path d="M11 4 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 7 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 10 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 13 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 16 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 19 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 22 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 25 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 28 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 31 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 34 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 37 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 40 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 43 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 46 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 49 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 52 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 55 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 58 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 61 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 64 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 67 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 70 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 73 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 76 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 79 h3" stroke="#3d240b" stroke-width=".6"/><path d="M11 82 h5" stroke="#3d240b" stroke-width=".6"/><path d="M11 85 h3" stroke="#3d240b" stroke-width=".6"/></svg>
+<div class="step up" style="left:44pt; top:148pt"><b data-math="3 × 3 = 9">3 × 3 = <span class="v">9</span></b></div>
+<div class="step up" style="left:70pt; top:178pt"><b data-math="3 × 2 = 6">3 × 2 = <span class="v">6</span></b></div>
+<div class="step up" style="left:96pt; top:208pt"><b data-math="3 × 1 = 3">3 × 1 = <span class="v">3</span></b></div>
+<div class="step up" style="left:122pt; top:238pt"><b data-math="3 × 0 = 0">3 × 0 = <span class="v">0</span></b></div>
+<div class="step dn" style="left:148pt; top:269pt">3 × (−1) = <span class="slot">□</span></div>
+<div class="step dn" style="left:174pt; top:299pt">3 × (−2) = <span class="slot">□</span></div>
+<div class="step up" style="left:452pt; top:148pt"><b data-math="3 × 3 = 9">3 × 3 = <span class="v">9</span></b></div>
+<div class="step up" style="left:478pt; top:178pt"><b data-math="2 × 3 = 6">2 × 3 = <span class="v">6</span></b></div>
+<div class="step up" style="left:504pt; top:208pt"><b data-math="1 × 3 = 3">1 × 3 = <span class="v">3</span></b></div>
+<div class="step up" style="left:530pt; top:238pt"><b data-math="0 × 3 = 0">0 × 3 = <span class="v">0</span></b></div>
+<div class="step dn" style="left:556pt; top:269pt">(−1) × 3 = <span class="slot">□</span></div>
+<div class="step dn" style="left:582pt; top:299pt">(−2) × 3 = <span class="slot">□</span></div>
+
+<div class="blk ablock" style="left:40pt; top:342pt; width:784pt"><svg class="blk" style="left:0; top:-3pt; width:784pt; height:8pt" viewBox="0 0 784 8" aria-hidden="true"><rect x="0" y="1" width="784" height="4" fill="#b3722f" stroke="#6e4318" stroke-width=".4"/><path d="M0 2 H784" stroke="#f3d58f" stroke-width=".6"/><rect x="60" y="0" width="44" height="7" rx="2.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><circle cx="66" cy="3.5" r="1.2" fill="#6e4318"/><circle cx="98" cy="3.5" r="1.2" fill="#6e4318"/><rect x="370" y="0" width="44" height="7" rx="2.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><circle cx="376" cy="3.5" r="1.2" fill="#6e4318"/><circle cx="408" cy="3.5" r="1.2" fill="#6e4318"/><rect x="680" y="0" width="44" height="7" rx="2.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><circle cx="686" cy="3.5" r="1.2" fill="#6e4318"/><circle cx="718" cy="3.5" r="1.2" fill="#6e4318"/><path d="M380 1.4 H398" stroke="#ffffff" stroke-width="1.2" stroke-linecap="round"/></svg>
+<div class="sh">Check your method</div>
+<p style="margin-bottom:4pt">Each column goes 9, 6, 3, 0, then −3, −6: the product drops by 3 in each row.</p>
+<div style="display:flex; gap:44pt; margin:0 0 4pt"><p class="eq"><b data-math="3 × (−1) = −3">3 × (−1) = <span class="mr">−3</span></b>;&nbsp;&nbsp; <b data-math="3 × (−2) = −6">3 × (−2) = <span class="mr">−6</span></b></p>
+<p class="eq"><b data-math="(−1) × 3 = −3">(−1) × 3 = <span class="mr">−3</span></b>;&nbsp;&nbsp; <b data-math="(−2) × 3 = −6">(−2) × 3 = <span class="mr">−6</span></b></p></div>
+<p style="margin:0">Both columns reach −6: <b data-math="3 × (−2) = −6">3 × (−2) = −6</b> and <b data-math="(−2) × 3 = −6">(−2) × 3 = −6</b>. You could tell your partner, “Changing the order of the factors keeps the product the same. With one positive factor and one negative factor, the product is negative.”</p>
+</div>
+<div class="blk qcard" style="left:44pt; top:490pt; width:392pt; height:114pt; box-sizing:border-box">
+<svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
+<div class="sh">Complete the sign rules</div>
+<p style="margin-bottom:2pt">Use the patterns to fill both blanks:</p>
+<p class="eq" style="font-size:19pt; line-height:25pt">(positive) × (negative) = ______</p>
+<p class="eq" style="font-size:19pt; line-height:25pt">(negative) × (positive) = ______</p>
+</div>
+<div class="blk ablock" style="left:448pt; top:490pt; width:376pt; height:114pt; box-sizing:border-box">
+<svg class="blk" style="left:0; top:-3pt; width:376pt; height:8pt" viewBox="0 0 356 8" preserveAspectRatio="none" aria-hidden="true"><rect x="0" y="1" width="356" height="4" fill="#b3722f" stroke="#6e4318" stroke-width=".4"/><path d="M0 2 H356" stroke="#f3d58f" stroke-width=".6"/><rect x="40" y="0" width="40" height="7" rx="2.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><rect x="290" y="0" width="40" height="7" rx="2.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><path d="M296 1.4 H314" stroke="#fff" stroke-width="1.2" stroke-linecap="round"/></svg>
+<div class="sh">Check your thinking</div>
+<p style="margin:0">Write negative in both blanks: <b style="white-space:nowrap" data-math="3 × (−2) = −6">3 × (−2) = −6</b> and <b style="white-space:nowrap" data-math="(−2) × 3 = −6">(−2) × 3 = −6</b>.</p>
+</div>
+<div class="pagemark" style="--pm-ink:#eef3ff; --pm-ring:#c9a24a; --pm-coin:rgba(12,25,51,.8)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 020</span><span class="pm-no">20</span></div>
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>
