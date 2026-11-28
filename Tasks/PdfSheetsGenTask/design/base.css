@@ -199,7 +199,7 @@ table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
 /* ------------------------------------------------------------------ page mark (user rule 2026-11-26)
    Chapter label + page number at ONE fixed place on every page (bottom-right). Never move it per page; only
    recolour with --pm-ink / --pm-ring / --pm-coin. Markup:
-   <div class="pagemark"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 043</span><span class="pm-no">43</span></div>
+   <div class="pagemark"><span class="pm-no">43</span></div>  (2026-11-28: page number only; no chapter label)
    Keep x 560–820 pt, y 624–648 pt clear of panels, captions and ornaments. */
 .page .pagemark { position: absolute; right: 48pt; bottom: 5pt; height: 16pt; display: flex; align-items: center; gap: 7pt;
   z-index: 60; white-space: nowrap; font: 600 9pt/16pt "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: .16em;
