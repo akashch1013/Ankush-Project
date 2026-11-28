@@ -7,17 +7,39 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  .blk { position:absolute; }
+  .ground { position:absolute; inset:0; background:radial-gradient(ellipse 38% 30% at 96% 2%,rgba(166,198,245,.34),rgba(166,198,245,0) 70%),linear-gradient(180deg,#0a1f4d 0%,#071536 50%,#040a1c 100%); }
+  .panel { position:absolute; overflow:hidden; background:#0c1428; border-radius:1.5pt;
+     outline:1.1pt solid #c9a24a; outline-offset:0; box-shadow:0 0 0 2.6pt rgba(6,8,14,.8), 0 3pt 9pt 2pt rgba(0,0,0,.55); }
+  .panel img.art { position:absolute; display:block; max-width:none; }
+  .panel::after { content:""; position:absolute; inset:0; box-shadow: inset 0 0 14pt rgba(4,6,16,.4); pointer-events:none; }
+  .cap { position:absolute; z-index:5; box-sizing:border-box; background:rgba(247,239,220,.95); color:#1d1630;
+     border:.8pt solid #b3722f; border-radius:3pt; padding:5pt 11pt 5pt;
+     font:500 14pt/18pt "Source Sans 3",sans-serif; box-shadow:0 2pt 7pt rgba(4,6,16,.5), inset 0 0 0 1.6pt rgba(247,239,220,.95), inset 0 0 0 2.2pt rgba(179,114,47,.45); }
+  .cap p { margin:0; font:inherit; }
+  .bub { position:absolute; z-index:6; box-sizing:border-box; background:#fffdf6; color:#1a1030;
+     border:.8pt solid #2a1a3a; border-radius:14pt; padding:0 10pt; display:flex; align-items:center; justify-content:center; text-align:center;
+     font-family:"Source Sans 3",sans-serif; font-weight:600; box-shadow:0 2pt 6pt rgba(5,3,16,.45); }
+  svg.tl { position:absolute; z-index:7; overflow:visible; }
+  .cardv { position:absolute; z-index:4; font-family:"Source Serif 4",serif; font-weight:700; color:#2b2118; line-height:1; white-space:nowrap; opacity:.92; }
+  .cardv.sm { font-weight:700; }
+
 </style>
 </head>
 <body>
 <div class="page a4" id="page" data-chapter="CH01" data-page="P017">
-
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
-
+<div class="pagemark" style="--pm-ink:#f3d58f;--pm-ring:#d9a55a;--pm-coin:rgba(10,31,77,.75)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 017</span><span class="pm-no">17</span></div>
+<div class="ground"></div>
+<svg class="blk" style="left:0;top:0;width:864pt;height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<rect x="28.0" y="9" width="52.7" height="4" rx=".6" fill="rgb(207,198,176)" fill-opacity="0.34"/><rect x="82.0" y="9" width="49.7" height="4" rx=".6" fill="rgb(209,198,173)" fill-opacity="0.36"/><rect x="133.0" y="9" width="61.7" height="4" rx=".6" fill="rgb(212,198,170)" fill-opacity="0.38"/><rect x="196.0" y="9" width="45.7" height="4" rx=".6" fill="rgb(215,198,166)" fill-opacity="0.41"/><rect x="243.0" y="9" width="47.7" height="4" rx=".6" fill="rgb(217,198,164)" fill-opacity="0.43"/><rect x="292.0" y="9" width="45.7" height="4" rx=".6" fill="rgb(220,198,161)" fill-opacity="0.45"/><rect x="339.0" y="9" width="41.7" height="4" rx=".6" fill="rgb(222,198,159)" fill-opacity="0.47"/><rect x="382.0" y="9" width="60.7" height="4" rx=".6" fill="rgb(224,198,156)" fill-opacity="0.49"/><rect x="444.0" y="9" width="58.7" height="4" rx=".6" fill="rgb(227,198,153)" fill-opacity="0.52"/><rect x="504.0" y="9" width="58.7" height="4" rx=".6" fill="rgb(230,198,150)" fill-opacity="0.54"/><rect x="564.0" y="9" width="53.7" height="4" rx=".6" fill="rgb(233,198,146)" fill-opacity="0.57"/><rect x="619.0" y="9" width="57.7" height="4" rx=".6" fill="rgb(236,198,143)" fill-opacity="0.59"/><rect x="678.0" y="9" width="44.7" height="4" rx=".6" fill="rgb(239,198,140)" fill-opacity="0.61"/><rect x="724.0" y="9" width="39.7" height="4" rx=".6" fill="rgb(241,198,138)" fill-opacity="0.63"/><rect x="765.0" y="9" width="36.7" height="4" rx=".6" fill="rgb(243,198,135)" fill-opacity="0.65"/><rect x="803.0" y="9" width="31.7" height="4" rx=".6" fill="rgb(245,198,133)" fill-opacity="0.67"/><rect x="28.0" y="631" width="48.7" height="4" rx=".6" fill="rgb(207,198,176)" fill-opacity="0.34"/><rect x="78.0" y="631" width="62.7" height="4" rx=".6" fill="rgb(207,198,174)" fill-opacity="0.35"/><rect x="142.0" y="631" width="59.7" height="4" rx=".6" fill="rgb(209,198,173)" fill-opacity="0.36"/><rect x="203.0" y="631" width="49.7" height="4" rx=".6" fill="rgb(210,198,172)" fill-opacity="0.37"/><rect x="254.0" y="631" width="44.7" height="4" rx=".6" fill="rgb(211,198,171)" fill-opacity="0.38"/><rect x="300.0" y="631" width="63.7" height="4" rx=".6" fill="rgb(212,198,170)" fill-opacity="0.39"/><rect x="365.0" y="631" width="52.7" height="4" rx=".6" fill="rgb(213,198,168)" fill-opacity="0.40"/><rect x="419.0" y="631" width="61.7" height="4" rx=".6" fill="rgb(214,198,167)" fill-opacity="0.41"/><rect x="482.0" y="631" width="46.7" height="4" rx=".6" fill="rgb(215,198,166)" fill-opacity="0.42"/><rect x="530.0" y="631" width="13.7" height="4" rx=".6" fill="rgb(216,198,165)" fill-opacity="0.42"/>
+<path d="M432 3 V9 M432 635 V641" stroke="#cfc6b0" stroke-opacity=".6" stroke-width="1"/>
+<path d="M432 7 l-3 -4 h6 z" fill="#cfc6b0" fill-opacity=".6"/>
+<g transform="scale(.9)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="#c98f45" stroke="#5a3510" stroke-width=".6"/><path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/><circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/></g><g transform="translate(864 0) scale(-.9 .9)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="#c98f45" stroke="#5a3510" stroke-width=".6"/><path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/><circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/></g><g transform="translate(0 648) scale(.9 -.9)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="#c98f45" stroke="#5a3510" stroke-width=".6"/><path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/><circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/></g><g transform="translate(864 648) scale(-.9 -.9)"><path d="M0 0 H46 V14 L39 21 H21 V39 L14 46 H0 Z" fill="#c98f45" stroke="#5a3510" stroke-width=".6"/><path d="M2 2 H44 M2 2 V44" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/><circle cx="9.5" cy="9.5" r="3" fill="#7a4a18"/><circle cx="9.5" cy="9.5" r="2.1" fill="#d7a256"/></g></svg>
+<div class="panel" style="left:24pt;top:24pt;width:270pt;height:250pt"><img class="art" src="assets/img/P017-1.jpg" alt="" style="left:0pt;top:0pt;width:270pt;height:250pt"><div class="cap" style="left:4pt;top:181pt;width:262pt;font-size:14pt;line-height:18pt"><p>The last movement was down two. Undoing it will take the car up two, back from −5 to −3.</p></div><span class="cardv sm" style="left:80pt;top:155pt;font-size:7.5pt;transform:translate(-50%,-50%) skewX(30deg) rotate(-3deg)">+2</span></div>
+<div class="panel" style="left:302pt;top:24pt;width:270pt;height:250pt"><img class="art" src="assets/img/P017-2.jpg" alt="" style="left:0pt;top:-8pt;width:270pt;height:270pt"><div class="cap" style="left:10pt;top:198pt;width:250pt;font-size:14pt;line-height:18pt"><p>Tara releases HOLD for the correction. Navya presses the button.</p></div></div>
+<div class="panel" style="left:580pt;top:24pt;width:260pt;height:250pt"><img class="art" src="assets/img/P017-3.jpg" alt="" style="left:0pt;top:0pt;width:260pt;height:250pt"><div class="cap" style="left:6pt;top:180pt;width:154pt;font-size:14pt;line-height:18pt"><p>The car rises to the position they expected.</p></div></div>
+<div class="panel" style="left:24pt;top:282pt;width:270pt;height:338pt"><img class="art" src="assets/img/P017-4.jpg" alt="" style="left:0pt;top:-22pt;width:270pt;height:405pt"><span class="cardv " style="left:138pt;top:161pt;font-size:19pt;transform:translate(-50%,-50%) rotate(-4deg)">−2</span></div>
+<div class="panel" style="left:302pt;top:282pt;width:538pt;height:338pt"><img class="art" src="assets/img/P017-5.jpg" alt="" style="left:0pt;top:-10pt;width:538pt;height:359pt"><div class="cap" style="left:6pt;top:6pt;width:245pt;font-size:14pt;line-height:18pt"><p>Navya removes the hidden card, checks the next slot and uses +3 to bring the helper to 0.</p></div><div class="cap" style="left:338pt;top:30pt;width:194pt;font-size:14pt;line-height:18pt"><p>Ahana crouches beside the gate. The car floor is level with the paving.</p></div><div class="cap" style="left:270pt;top:303pt;width:262pt;font-size:15pt;line-height:19pt"><p>The gate, however, will not open.</p></div></div>
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */

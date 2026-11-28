@@ -7,17 +7,38 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  .blk { position:absolute; }
+  .ground { position:absolute; inset:0; background:radial-gradient(ellipse 55% 45% at 3% 2%,rgba(198,40,40,.45),rgba(198,40,40,0) 70%),radial-gradient(ellipse 30% 20% at 50% 1%,rgba(198,40,40,.14),rgba(198,40,40,0) 70%),linear-gradient(172deg,#1c1610 0%,#14100c 55%,#0a0a0c 100%); }
+  .panel { position:absolute; overflow:hidden; background:#0c1428; border-radius:1.5pt;
+     outline:1.1pt solid #b3722f; outline-offset:0; box-shadow:0 0 0 2.6pt rgba(6,8,14,.8), 0 3pt 9pt 2pt rgba(0,0,0,.55); }
+  .panel img.art { position:absolute; display:block; max-width:none; }
+  .panel::after { content:""; position:absolute; inset:0; box-shadow: inset 0 0 14pt rgba(4,6,16,.4); pointer-events:none; }
+  .cap { position:absolute; z-index:5; box-sizing:border-box; background:rgba(247,239,220,.95); color:#1d1630;
+     border:.8pt solid #b3722f; border-radius:3pt; padding:5pt 11pt 5pt;
+     font:500 14pt/18pt "Source Sans 3",sans-serif; box-shadow:0 2pt 7pt rgba(4,6,16,.5), inset 0 0 0 1.6pt rgba(247,239,220,.95), inset 0 0 0 2.2pt rgba(179,114,47,.45); }
+  .cap p { margin:0; font:inherit; }
+  .bub { position:absolute; z-index:6; box-sizing:border-box; background:#fffdf6; color:#1a1030;
+     border:.8pt solid #2a1a3a; border-radius:14pt; padding:0 10pt; display:flex; align-items:center; justify-content:center; text-align:center;
+     font-family:"Source Sans 3",sans-serif; font-weight:600; box-shadow:0 2pt 6pt rgba(5,3,16,.45); }
+  svg.tl { position:absolute; z-index:7; overflow:visible; }
+  .cardv { position:absolute; z-index:4; font-family:"Source Serif 4",serif; font-weight:700; color:#2b2118; line-height:1; white-space:nowrap; opacity:.92; }
+  .cardv.sm { font-weight:700; }
+
 </style>
 </head>
 <body>
 <div class="page a4" id="page" data-chapter="CH01" data-page="P018">
-
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
-
+<div class="pagemark" style="--pm-ink:#f1cf86;--pm-ring:#b3722f;--pm-coin:rgba(28,22,16,.85)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 018</span><span class="pm-no">18</span></div>
+<div class="ground"></div>
+<svg class="blk" style="left:0;top:0;width:864pt;height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<path fill="none" stroke="#b3722f" stroke-width="1" d="M540 641.5 H6.5 V6.5 H857.5 V641.5 H840"/>
+<path fill="none" stroke="#c98f45" stroke-opacity=".7" stroke-width=".5" d="M540 637 H11 V11 H853 V637 H840"/>
+<path fill="none" stroke="#b3722f" stroke-opacity=".6" stroke-width=".4" d="M44 6.5 V11 M74 6.5 V11 M104 6.5 V11 M134 6.5 V11 M164 6.5 V11 M194 6.5 V11 M224 6.5 V11 M254 6.5 V11 M284 6.5 V11 M314 6.5 V11 M344 6.5 V11 M374 6.5 V11 M404 6.5 V11 M434 6.5 V11 M464 6.5 V11 M494 6.5 V11 M524 6.5 V11 M554 6.5 V11 M584 6.5 V11 M614 6.5 V11 M644 6.5 V11 M674 6.5 V11 M704 6.5 V11 M734 6.5 V11 M764 6.5 V11 M794 6.5 V11 M824 6.5 V11 M44 637 V641.5 M74 637 V641.5 M104 637 V641.5 M134 637 V641.5 M164 637 V641.5 M194 637 V641.5 M224 637 V641.5 M254 637 V641.5 M284 637 V641.5 M314 637 V641.5 M344 637 V641.5 M374 637 V641.5 M404 637 V641.5 M434 637 V641.5 M464 637 V641.5 M494 637 V641.5 M524 637 V641.5 M6.5 44 H11 M853 44 H857.5 M6.5 74 H11 M853 74 H857.5 M6.5 104 H11 M853 104 H857.5 M6.5 134 H11 M853 134 H857.5 M6.5 164 H11 M853 164 H857.5 M6.5 194 H11 M853 194 H857.5 M6.5 224 H11 M853 224 H857.5 M6.5 254 H11 M853 254 H857.5 M6.5 284 H11 M853 284 H857.5 M6.5 314 H11 M853 314 H857.5 M6.5 344 H11 M853 344 H857.5 M6.5 374 H11 M853 374 H857.5 M6.5 404 H11 M853 404 H857.5 M6.5 434 H11 M853 434 H857.5 M6.5 464 H11 M853 464 H857.5 M6.5 494 H11 M853 494 H857.5 M6.5 524 H11 M853 524 H857.5 M6.5 554 H11 M853 554 H857.5 M6.5 584 H11 M853 584 H857.5 M6.5 614 H11 M853 614 H857.5 "/>
+<circle cx="15" cy="15" r="8.2" fill="#b3722f" stroke="#5a3510" stroke-width=".7"/><circle cx="15" cy="15" r="6.4" fill="#c98f45"/><path d="M9.8 15 H20.2" stroke="#3a2210" stroke-width="1.5" transform="rotate(20 15 15)"/><path d="M11 12.4 Q15 10 19 12" stroke="#fff0c4" stroke-opacity=".7" fill="none" stroke-width=".7"/><circle cx="849" cy="15" r="8.2" fill="#b3722f" stroke="#5a3510" stroke-width=".7"/><circle cx="849" cy="15" r="6.4" fill="#c98f45"/><path d="M843.8 15 H854.2" stroke="#3a2210" stroke-width="1.5" transform="rotate(-35 849 15)"/><path d="M845 12.4 Q849 10 853 12" stroke="#fff0c4" stroke-opacity=".7" fill="none" stroke-width=".7"/><circle cx="15" cy="633" r="8.2" fill="#b3722f" stroke="#5a3510" stroke-width=".7"/><circle cx="15" cy="633" r="6.4" fill="#c98f45"/><path d="M9.8 633 H20.2" stroke="#3a2210" stroke-width="1.5" transform="rotate(70 15 633)"/><path d="M11 630.4 Q15 628 19 630" stroke="#fff0c4" stroke-opacity=".7" fill="none" stroke-width=".7"/><circle cx="849" cy="633" r="8.2" fill="#b3722f" stroke="#5a3510" stroke-width=".7"/><circle cx="849" cy="633" r="6.4" fill="#c98f45"/><path d="M843.8 633 H854.2" stroke="#3a2210" stroke-width="1.5" transform="rotate(5 849 633)"/><path d="M845 630.4 Q849 628 853 630" stroke="#fff0c4" stroke-opacity=".7" fill="none" stroke-width=".7"/>
+</svg>
+<div class="panel" style="left:24pt;top:24pt;width:500pt;height:596pt"><img class="art" src="assets/img/P018-1.jpg" alt="" style="left:0pt;top:-40pt;width:500pt;height:750pt"><div class="cap" style="left:6pt;top:6pt;width:300pt;font-size:14pt;line-height:18pt"><p>Two red warning lights shine on the control box. Tara keeps the lift stopped and opens the little panel below them.</p></div><div class="cap" style="left:6pt;top:481pt;width:360pt;font-size:14pt;line-height:18pt"><p>Inside are four numbered setting wheels for the safety gate’s catches. Each catch needs the same small correction before it can release. A fixed maintenance plate says TOTAL CORRECTION −8; FOUR EQUAL SETTINGS. The wheels have been left at +2, 0, −1 and +3.</p></div></div>
+<div class="panel" style="left:532pt;top:24pt;width:308pt;height:294pt"><img class="art" src="assets/img/P018-2.jpg" alt="" style="left:0pt;top:-7pt;width:308pt;height:308pt"><div class="bub" style="left:6pt;top:10pt;width:160pt;height:67pt;font-size:15pt;line-height:19pt">These numbers adjust the catches, not the lift’s floor.</div><svg class="tl" viewBox="0 0 1 1" style="left:0;top:0;width:1pt;height:1pt" aria-hidden="true"><path d="M164.5 51.5 Q185.9 74.7 209.0 84.0 Q185.9 80.6 164.5 64.5 Z" fill="#fffdf6"/><path d="M164.5 51.5 Q185.9 74.7 209.0 84.0 Q185.9 80.6 164.5 64.5" fill="none" stroke="#2a1a3a" stroke-opacity=".75" stroke-width=".8" stroke-linejoin="round"/></svg></div>
+<div class="panel" style="left:532pt;top:326pt;width:308pt;height:294pt"><img class="art" src="assets/img/P018-3.jpg" alt="" style="left:0pt;top:-7pt;width:308pt;height:308pt"><div class="bub" style="left:8pt;top:4pt;width:196pt;height:94pt;font-size:14pt;line-height:18.5pt">The car stays here. What equal setting belongs on each wheel so that all four give a total of minus eight?</div><svg class="tl" viewBox="0 0 1 1" style="left:0;top:0;width:1pt;height:1pt" aria-hidden="true"><path d="M202.5 73.5 Q222.0 86.5 240.0 89.0 Q222.0 92.4 202.5 86.5 Z" fill="#fffdf6"/><path d="M202.5 73.5 Q222.0 86.5 240.0 89.0 Q222.0 92.4 202.5 86.5" fill="none" stroke="#2a1a3a" stroke-opacity=".75" stroke-width=".8" stroke-linejoin="round"/></svg></div>
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
