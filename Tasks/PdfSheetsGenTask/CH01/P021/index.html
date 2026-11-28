@@ -7,17 +7,235 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  .page.ledger { background:#F7F1E3; color:#1d2433; font-family:"Source Sans 3",sans-serif; font-size:14pt; line-height:18pt; }
+  .ledger .blk { position:absolute; }
+  .ledger p { margin:0 0 6pt; font-size:14pt; line-height:18pt; color:#1d2433; }
+  .ledger .sh { font-weight:600; color:#122A45; font-size:17pt; line-height:21pt; margin:0 0 6pt; display:flex; align-items:center; white-space:nowrap; }
+  .ledger .sh::after { content:""; display:block; width:30pt; border-top:.9pt solid #b3722f; margin-left:9pt; }
+  .ledger .sh.big { font-size:19pt; line-height:23pt; }
+  .ledger .mt { color:#1F6F6B; font-weight:700; } .ledger .mr { color:#B5603A; font-weight:700; }
+  .ledger .eq, .ledger b.eq { color:#1d2433 !important; font-size:20pt; line-height:24pt; font-weight:600; white-space:nowrap; }
+  .ledger .eq .op { font-weight:400; }
+  .eqrow { display:flex; align-items:baseline; gap:9pt; margin:0; }
+  .eqrow .lbl { font-size:14pt; color:#8a5a22; font-weight:600; width:18pt; }
+  .qcard { background:#FBF7EE; border:.8pt solid #b3722f; padding:9pt 14pt 7pt; }
+  .qcard p { margin:0; }
+  .ablock { background:#EFE6D2; border-top:.8pt solid #b3722f; padding:9pt 13pt 6pt; }
+  .tag { position:absolute; font-weight:700; font-size:14pt; line-height:16pt; color:#8a5a22; }
+  .tl { position:absolute; width:92pt; text-align:center; font-weight:600; font-size:14pt; line-height:17pt; color:#1d2433; }
+  .tl span { white-space:nowrap; }
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P021">
-
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
-
+<svg class="blk" style="left:0;top:0;width:864pt;height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<defs>
+ <linearGradient id="pl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0c1933"/><stop offset=".6" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+ <linearGradient id="pr" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0c1933"/><stop offset=".6" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+ <linearGradient id="co" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".35" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+ <linearGradient id="nv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#122A45"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+ <radialGradient id="mg" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#eef3fb"/><stop offset=".6" stop-color="#c9d6ea"/><stop offset="1" stop-color="#8d9fbf"/></radialGradient>
+ <radialGradient id="gm" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+ <pattern id="jali" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M6 0 L12 6 L6 12 L0 6 Z" fill="none" stroke="#c9a24a" stroke-width=".5" stroke-opacity=".75"/><circle cx="6" cy="6" r=".9" fill="#c9a24a" fill-opacity=".7"/></pattern>
+ <filter id="sf"><feGaussianBlur stdDeviation="1.2"/></filter>
+</defs>
+<!-- navy lacquer pilasters with jali lattice and rivets (S06-B01) -->
+<rect x="0" y="0" width="26" height="648" fill="url(#pl)"/>
+<rect x="838" y="0" width="26" height="648" fill="url(#pr)"/>
+<rect x="5" y="22" width="16" height="598" fill="url(#jali)"/>
+<rect x="843" y="22" width="16" height="598" fill="url(#jali)"/>
+<path d="M26.5 0 V648 M837.5 0 V648" stroke="#c9a24a" stroke-width=".9"/>
+<path d="M3 0 V648 M861 0 V648" stroke="#c9a24a" stroke-width=".5" stroke-opacity=".6"/>
+<g fill="#d9a55a" stroke="#6e4318" stroke-width=".4">
+ <circle cx="13" cy="40" r="2.6"/><circle cx="851" cy="40" r="2.6"/><circle cx="13" cy="80" r="2.6"/><circle cx="851" cy="80" r="2.6"/><circle cx="13" cy="120" r="2.6"/><circle cx="851" cy="120" r="2.6"/><circle cx="13" cy="160" r="2.6"/><circle cx="851" cy="160" r="2.6"/><circle cx="13" cy="200" r="2.6"/><circle cx="851" cy="200" r="2.6"/><circle cx="13" cy="240" r="2.6"/><circle cx="851" cy="240" r="2.6"/><circle cx="13" cy="280" r="2.6"/><circle cx="851" cy="280" r="2.6"/><circle cx="13" cy="320" r="2.6"/><circle cx="851" cy="320" r="2.6"/><circle cx="13" cy="360" r="2.6"/><circle cx="851" cy="360" r="2.6"/><circle cx="13" cy="400" r="2.6"/><circle cx="851" cy="400" r="2.6"/><circle cx="13" cy="440" r="2.6"/><circle cx="851" cy="440" r="2.6"/><circle cx="13" cy="480" r="2.6"/><circle cx="851" cy="480" r="2.6"/><circle cx="13" cy="520" r="2.6"/><circle cx="851" cy="520" r="2.6"/><circle cx="13" cy="560" r="2.6"/><circle cx="851" cy="560" r="2.6"/><circle cx="13" cy="600" r="2.6"/><circle cx="851" cy="600" r="2.6"/>
+</g>
+<!-- brass cornice -->
+<rect x="0" y="0" width="864" height="19" fill="url(#co)"/>
+<path d="M0 19.5 H864" stroke="#5a3510" stroke-width=".8"/>
+<path d="M26 8 H826" stroke="#5a3510" stroke-width=".5" stroke-opacity=".5"/>
+<g fill="#7a4a18" opacity=".8"><circle cx="40" cy="5" r="1.4"/><circle cx="70" cy="5" r="1.4"/><circle cx="100" cy="5" r="1.4"/><circle cx="130" cy="5" r="1.4"/><circle cx="160" cy="5" r="1.4"/><circle cx="190" cy="5" r="1.4"/><circle cx="220" cy="5" r="1.4"/><circle cx="250" cy="5" r="1.4"/><circle cx="280" cy="5" r="1.4"/><circle cx="310" cy="5" r="1.4"/><circle cx="340" cy="5" r="1.4"/><circle cx="370" cy="5" r="1.4"/><circle cx="400" cy="5" r="1.4"/><circle cx="490" cy="5" r="1.4"/><circle cx="520" cy="5" r="1.4"/><circle cx="550" cy="5" r="1.4"/><circle cx="580" cy="5" r="1.4"/><circle cx="610" cy="5" r="1.4"/><circle cx="640" cy="5" r="1.4"/><circle cx="670" cy="5" r="1.4"/><circle cx="700" cy="5" r="1.4"/><circle cx="730" cy="5" r="1.4"/><circle cx="760" cy="5" r="1.4"/><circle cx="790" cy="5" r="1.4"/><circle cx="820" cy="5" r="1.4"/></g>
+<!-- hairline moonlight crack along the cornice -->
+<path d="M120 15 L150 11 L171 14 L205 9 L230 12" fill="none" stroke="#a6c6f5" stroke-width="1.6" stroke-opacity=".5" filter="url(#sf)"/>
+<path d="M120 15 L150 11 L171 14 L205 9 L230 12" fill="none" stroke="#e9f1ff" stroke-width=".5"/>
+<!-- silver moon medallion -->
+<circle cx="432" cy="14" r="19" fill="#122A45" stroke="#c9a24a" stroke-width="1.2"/>
+<circle cx="432" cy="14" r="15" fill="none" stroke="#c9a24a" stroke-width=".5"/>
+<circle cx="432" cy="14" r="10" fill="url(#gm)"/>
+<circle cx="428.5" cy="10.5" r="3" fill="#fff3cf" fill-opacity=".55"/>
+<path d="M432 31 L433.3 35.7 L438 37 L433.3 38.3 L432 43 L430.7 38.3 L426 37 L430.7 35.7 Z" fill="#e8c06a"/>
+<!-- bottom hairline brass; lacquer tab carries the fixed page mark -->
+<path d="M0 645.5 H864" stroke="#b3722f" stroke-width="1.2"/>
+<polygon points="550,648 558,621 822,621 830,648" fill="url(#nv)"/>
+<path d="M558.6 621.6 H821.4" stroke="#c9a24a" stroke-width=".8" fill="none"/>
+<path d="M26 636 H552 M830 636 H838" stroke="#c9a24a" stroke-width=".6" fill="none"/>
+</svg>
+<!-- Example 6 -->
+<div class="blk" style="left:42pt;top:30pt;width:380pt"><div class="sh big">Example 6</div></div>
+<div class="blk qcard" style="left:42pt;top:60pt;width:380pt"><p>Evaluate (a) −3 × 2 and (b) 2 × (−3).</p></div>
+<svg class="blk" style="left:42pt;top:118pt;width:380pt;height:70pt" viewBox="0 0 380 70" aria-hidden="true">
+ <path d="M0 35 H150 M230 35 H380" stroke="#b3722f" stroke-width=".8"/>
+ <g transform="translate(190 35)"><circle r="26" fill="none" stroke="#c9a24a" stroke-width=".6"/><circle r="20" fill="#122A45" stroke="#b3722f" stroke-width="1"/>
+ <path d="M-14 -14 L14 14 M14 -14 L-14 14 M0 -20 V20 M-20 0 H20" stroke="#c9a24a" stroke-width=".5"/><path d="M-9 -9 L0 -14 L9 -9 L14 0 L9 9 L0 14 L-9 9 L-14 0 Z" fill="none" stroke="#c9a24a" stroke-width=".6"/>
+ <circle r="7.5" fill="url(#mg)"/><circle cx="3.2" cy="-1" r="6.4" fill="#122A45"/></g>
+</svg>
+<!-- Let's work it through -->
+<div class="blk" style="left:452pt;top:30pt;width:372pt">
+ <div class="sh">Let’s work it through</div>
+ <p>In both calculations the signs are different. Multiply <b data-math="3 × 2 = 6" style="white-space:nowrap">3 × 2 = <span class="mt">6</span></b> and give the product a minus sign:</p>
+ <div class="eqrow"><span class="lbl">(a)</span> <b class="eq" data-math="−3 × 2 = −(3 × 2) = −6">−3 <span class="op">×</span> 2 <span class="op">=</span> −(3 <span class="op">×</span> 2) <span class="op">=</span> <span class="mr">−6</span></b></div>
+ <div class="eqrow"><span class="lbl">(b)</span> <b class="eq" data-math="2 × (−3) = −(2 × 3) = −6">2 <span class="op">×</span> (−3) <span class="op">=</span> −(2 <span class="op">×</span> 3) <span class="op">=</span> <span class="mr">−6</span></b></div>
+</div>
+<i style="position:absolute;left:436pt;top:34pt;height:146pt;border-left:.5pt solid #b3722f;opacity:.7"></i>
+<svg class="blk" style="left:42pt;top:192pt;width:782pt;height:10pt" viewBox="0 0 782 10" aria-hidden="true"><path d="M0 5 H378 M404 5 H782" stroke="#b3722f" stroke-width=".8"/><circle cx="391" cy="5" r="3.6" fill="url(#mg)" stroke="#8d9fbf" stroke-width=".4"/><circle cx="391" cy="5" r="6.2" fill="none" stroke="#c9a24a" stroke-width=".5"/></svg>
+<!-- Now you try -->
+<div class="blk qcard" style="left:42pt;top:208pt;width:380pt">
+ <div class="sh">Now you try</div>
+ <p>Evaluate (a) −4 × 5 and (b) 3 × (−7).</p>
+</div>
+<div class="blk ablock" style="left:452pt;top:208pt;width:372pt">
+ <div class="sh">Check your method</div>
+ <div class="eqrow"><span class="lbl">(a)</span> <b class="eq" data-math="−4 × 5 = −(4 × 5) = −20">−4 <span class="op">×</span> 5 <span class="op">=</span> −(4 <span class="op">×</span> 5) <span class="op">=</span> <span class="mr">−20</span></b></div>
+ <div class="eqrow"><span class="lbl">(b)</span> <b class="eq" data-math="3 × (−7) = −(3 × 7) = −21">3 <span class="op">×</span> (−7) <span class="op">=</span> −(3 <span class="op">×</span> 7) <span class="op">=</span> <span class="mr">−21</span></b></div>
+</div>
+<!-- extension -->
+<div class="blk" style="left:42pt;top:338pt;width:782pt"><p style="margin:0">One useful extension. What if both factors are negative? Start with a pattern we can already calculate:</p></div>
+<svg class="blk" style="left:42pt;top:356pt;width:480pt;height:232pt" viewBox="0 0 480 232" aria-hidden="true">
+ <rect x="2" y="213" width="476" height="16" rx="2" fill="#122A45" stroke="#c9a24a" stroke-width=".8"/>
+ <path d="M4 215 H476" stroke="#5f8bd6" stroke-opacity=".6" stroke-width=".6"/>
+ <path d="M2 106 H478" stroke="#b3722f" stroke-width=".7" stroke-dasharray="3 3"/>
+ <rect x="31" y="8" width="34" height="196" rx="6" fill="#dfeaf3" fill-opacity=".55"/>
+<rect x="33" y="190" width="30" height="12" fill="#b5603a"/>
+<path d="M33 190 H63" stroke="#fff6d8" stroke-width="1.4"/>
+<rect x="31" y="8" width="34" height="196" rx="6" fill="none" stroke="#6b7f93" stroke-width="1"/>
+<rect x="35" y="14" width="3.4" height="182" rx="1.7" fill="#fff" fill-opacity=".55"/>
+<path d="M65 190 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 176 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 162 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 148 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 134 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 120 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 106 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 92 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 78 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 64 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 50 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 36 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M65 22 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<rect x="28" y="0" width="40" height="10" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<rect x="28" y="202" width="40" height="11" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<path d="M30 2.4 H66" stroke="#f3d58f" stroke-width=".8"/>
+<rect x="26" y="103.8" width="44" height="4.4" rx="2" fill="#d9a55a" stroke="#6e4318" stroke-width=".6"/>
+<rect x="127" y="8" width="34" height="196" rx="6" fill="#dfeaf3" fill-opacity=".55"/>
+<rect x="129" y="148" width="30" height="54" fill="#b5603a"/>
+<path d="M129 148 H159" stroke="#fff6d8" stroke-width="1.4"/>
+<rect x="127" y="8" width="34" height="196" rx="6" fill="none" stroke="#6b7f93" stroke-width="1"/>
+<rect x="131" y="14" width="3.4" height="182" rx="1.7" fill="#fff" fill-opacity=".55"/>
+<path d="M161 190 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 176 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 162 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 148 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 134 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 120 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 106 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 92 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 78 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 64 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 50 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 36 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M161 22 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<rect x="124" y="0" width="40" height="10" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<rect x="124" y="202" width="40" height="11" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<path d="M126 2.4 H162" stroke="#f3d58f" stroke-width=".8"/>
+<rect x="122" y="103.8" width="44" height="4.4" rx="2" fill="#d9a55a" stroke="#6e4318" stroke-width=".6"/>
+<rect x="223" y="8" width="34" height="196" rx="6" fill="#dfeaf3" fill-opacity=".55"/>
+<rect x="225" y="106" width="30" height="96" fill="#b5603a"/>
+<path d="M225 106 H255" stroke="#fff6d8" stroke-width="1.4"/>
+<rect x="223" y="8" width="34" height="196" rx="6" fill="none" stroke="#6b7f93" stroke-width="1"/>
+<rect x="227" y="14" width="3.4" height="182" rx="1.7" fill="#fff" fill-opacity=".55"/>
+<path d="M257 190 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 176 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 162 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 148 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 134 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 120 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 106 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 92 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 78 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 64 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 50 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 36 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M257 22 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<rect x="220" y="0" width="40" height="10" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<rect x="220" y="202" width="40" height="11" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<path d="M222 2.4 H258" stroke="#f3d58f" stroke-width=".8"/>
+<rect x="218" y="103.8" width="44" height="4.4" rx="2" fill="#d9a55a" stroke="#6e4318" stroke-width=".6"/>
+<rect x="319" y="8" width="34" height="196" rx="6" fill="#dfeaf3" fill-opacity=".55"/>
+<rect x="321" y="64" width="30" height="42" fill="#2a8a84"/>
+<rect x="321" y="106" width="30" height="96" fill="#b5603a"/>
+<path d="M321 64 H351" stroke="#fff6d8" stroke-width="1.4"/>
+<rect x="319" y="8" width="34" height="196" rx="6" fill="none" stroke="#6b7f93" stroke-width="1"/>
+<rect x="323" y="14" width="3.4" height="182" rx="1.7" fill="#fff" fill-opacity=".55"/>
+<path d="M353 190 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 176 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 162 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 148 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 134 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 120 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 106 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 92 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 78 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 64 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 50 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 36 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M353 22 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<rect x="316" y="0" width="40" height="10" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<rect x="316" y="202" width="40" height="11" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<path d="M318 2.4 H354" stroke="#f3d58f" stroke-width=".8"/>
+<rect x="314" y="103.8" width="44" height="4.4" rx="2" fill="#d9a55a" stroke="#6e4318" stroke-width=".6"/>
+<rect x="415" y="8" width="34" height="196" rx="6" fill="#dfeaf3" fill-opacity=".55"/>
+<rect x="417" y="22" width="30" height="84" fill="#2a8a84"/>
+<rect x="417" y="106" width="30" height="96" fill="#b5603a"/>
+<path d="M417 22 H447" stroke="#fff6d8" stroke-width="1.4"/>
+<rect x="415" y="8" width="34" height="196" rx="6" fill="none" stroke="#6b7f93" stroke-width="1"/>
+<rect x="419" y="14" width="3.4" height="182" rx="1.7" fill="#fff" fill-opacity=".55"/>
+<path d="M449 190 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 176 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 162 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 148 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 134 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 120 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 106 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 92 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 78 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 64 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 50 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 36 h-4" stroke="#2a3a52" stroke-width=".6"/>
+<path d="M449 22 h-7" stroke="#2a3a52" stroke-width=".6"/>
+<rect x="412" y="0" width="40" height="10" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<rect x="412" y="202" width="40" height="11" rx="3" fill="#b3722f" stroke="#6e4318" stroke-width=".6"/>
+<path d="M414 2.4 H450" stroke="#f3d58f" stroke-width=".8"/>
+<rect x="410" y="103.8" width="44" height="4.4" rx="2" fill="#d9a55a" stroke="#6e4318" stroke-width=".6"/>
+<path d="M73 190 H77 V152 M74 157 L77 151 L80 157" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+<path d="M169 148 H173 V110 M170 115 L173 109 L176 115" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+<path d="M265 106 H269 V68 M266 73 L269 67 L272 73" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+<path d="M361 64 H365 V26 M362 31 L365 25 L368 31" fill="none" stroke="#b3722f" stroke-width="1.1"/>
+<circle cx="241" cy="36" r="5" fill="#fff" fill-opacity=".7"/><circle cx="243" cy="35" r="4.2" fill="#dfeaf3"/>
+ <g transform="translate(442 221)"><circle r="6.2" fill="#c98f45" stroke="#6e4318" stroke-width=".6"/><circle r="4.4" fill="#f4ecd6"/><path d="M0 1 V-3.6" stroke="#1d2433" stroke-width=".9"/><circle r=".9" fill="#1d2433"/></g>
+</svg>
+<div class="tl" style="left:44pt;top:588pt"><b data-math="(−3) × 2 = −6"><span>(−3) × 2</span> <span>= −6</span></b></div>
+<div class="tl" style="left:140pt;top:588pt"><b data-math="(−3) × 1 = −3"><span>(−3) × 1</span> <span>= −3</span></b></div>
+<div class="tl" style="left:236pt;top:588pt"><b data-math="(−3) × 0 = 0"><span>(−3) × 0</span> <span>= 0</span></b></div>
+<div class="tl" style="left:332pt;top:588pt"><b data-math="(−3) × (−1) = 3"><span>(−3) × (−1)</span> <span>= 3</span></b></div>
+<div class="tl" style="left:428pt;top:588pt"><b data-math="(−3) × (−2) = 6"><span>(−3) × (−2)</span> <span>= 6</span></b></div>
+<div class="tag" style="left:124pt;top:517.0pt">+3</div>
+<div class="tag" style="left:220pt;top:475.0pt">+3</div>
+<div class="tag" style="left:316pt;top:433.0pt">+3</div>
+<div class="tag" style="left:412pt;top:391.0pt">+3</div>
+<div class="blk" style="left:548pt;top:362pt;width:276pt">
+ <p>Read the answers down the column: −6, −3, 0, 3, 6. They rise by 3 each time. Keeping that pattern going past zero gives <b data-math="(−3) × (−2) = 6" style="white-space:nowrap">(−3) × (−2) = <span class="mt">6</span></b>: two negative factors give a positive product.</p>
+ <p style="margin:0">For two non-zero factors, same signs give a positive product; different signs give a negative product. Multiplying by zero gives zero. Keep this rule with multiplication: <b data-math="−3 + (−2) = −5" style="white-space:nowrap">−3 + (−2) is −5</b>, even though the two numbers being added have the same sign.</p>
+</div>
+<div class="pagemark" style="--pm-ink:#f3d58f; --pm-ring:#c9a24a; --pm-coin:rgba(12,25,51,.8)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 021</span><span class="pm-no">21</span></div>
 </div>
 <script>
   /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
