@@ -136,5 +136,21 @@
   "pdf": "Output/CH01/CH01-P010.pdf",
   "design": "worked-example: moonlit hop strips + calculator (−) key",
   "version": "1795833837-d3fe"
+ },
+ "P012": {
+  "url": "https://claude.ai/artifact/ASbxBtWusqzeRkC1SAVvcb",
+  "file_path": "PdfSheetsGenTask/CH01/P012/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P012.pdf",
+  "design": "action-story: store landing",
+  "version": "1795843992-5bbe"
+ },
+ "P015": {
+  "url": "https://claude.ai/artifact/SJTJr2fYdBUjhkfzmo2vjt",
+  "file_path": "PdfSheetsGenTask/CH01/P015/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P015.pdf",
+  "design": "concept: score-plaque penalty removed",
+  "version": "1795843993-4b7b"
  }
 }
