@@ -7,20 +7,147 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  .page.ledger { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 6pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-weight: 600; color: #122A45; font-size: 17pt; line-height: 21pt; margin: 0 0 6pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .sh.big { font-size: 19pt; line-height: 23pt; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger b[data-math] { font-weight: 600; white-space: nowrap; }
+  .qcard { background: #FBF7EE; border: .8pt solid #b3722f; padding: 9pt 14pt 7pt; position: relative; }
+  .qcard p { margin: 0; }
+  .ablock { background: #EFE6D2; border-top: .8pt solid #b3722f; padding: 11pt 13pt 6pt; position: relative; }
+  .ablock p:last-child { margin-bottom: 4pt; }
+  .al { font-size: 16.5pt; line-height: 25pt; white-space: nowrap; }
+  .al .bc { font-size: 14pt; font-weight: 400; color: #4a4332; }
+  .eqL { font-size: 20pt; line-height: 30pt; font-weight: 600; white-space: nowrap; }
+  .eqL .lab { font-size: 14pt; font-weight: 400; color: #4a4332; margin-right: 6pt; }
+  .aside-b { position: absolute; background: #FFFDF6; border: .8pt solid #1d2433; border-radius: 50% / 46%;
+             padding: 9pt 16pt 10pt; font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt;
+             color: #1d2433; text-align: center; }
+  .aside-b svg.tl { position: absolute; overflow: visible; }
+
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P024">
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+  <defs>
+    <linearGradient id="gT" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+    <linearGradient id="gB" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+    <linearGradient id="gL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+    <linearGradient id="gR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+    <linearGradient id="tab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#122A45"/><stop offset=".5" stop-color="#1e4589"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+    <radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.3"/></filter>
+  </defs>
+  <rect x="24" y="16" width="824" height="616" fill="none" stroke="#5b4a2e" stroke-opacity=".16" stroke-width="3" filter="url(#soft)"/>
+  <polygon points="0,0 864,0 848,16 24,16" fill="url(#gT)"/>
+  <polygon points="0,648 864,648 848,632 24,632" fill="url(#gB)"/>
+  <polygon points="0,0 24,16 24,632 0,648" fill="#0f2347"/>
+  <polygon points="864,0 848,16 848,632 864,648" fill="url(#gR)"/>
+  <path d="M6 20 V628" stroke="url(#brass)" stroke-width="2"/><path d="M5.4 20 V628" stroke="#fff0c4" stroke-width=".4" stroke-opacity=".7"/><path d="M11.5 20 V628" stroke="url(#brass)" stroke-width="2"/><path d="M10.9 20 V628" stroke="#fff0c4" stroke-width=".4" stroke-opacity=".7"/><path d="M17 20 V628" stroke="url(#brass)" stroke-width="2"/><path d="M16.4 20 V628" stroke="#fff0c4" stroke-width=".4" stroke-opacity=".7"/><rect x="1" y="130" width="21" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="5" cy="133.5" r="1.1" fill="#6e4318"/><circle cx="18" cy="133.5" r="1.1" fill="#6e4318"/><rect x="1" y="300" width="21" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="5" cy="303.5" r="1.1" fill="#6e4318"/><circle cx="18" cy="303.5" r="1.1" fill="#6e4318"/><rect x="1" y="470" width="21" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="5" cy="473.5" r="1.1" fill="#6e4318"/><circle cx="18" cy="473.5" r="1.1" fill="#6e4318"/>
+  <path d="M24 16 V632" stroke="#b3722f" stroke-width="1.2"/><path d="M25.2 16 V632" stroke="#f3d58f" stroke-width=".4" stroke-opacity=".6"/>
+  <g stroke="#0a1730" stroke-width=".5" stroke-opacity=".8">
+    <path d="M84 0V16 M144 0V16 M204 0V16 M264 0V16 M324 0V16 M384 0V16 M504 0V16 M564 0V16 M624 0V16 M684 0V16 M744 0V16 M804 0V16"/>
+    <path d="M84 632V648 M144 632V648 M204 632V648 M264 632V648 M324 632V648 M384 632V648 M504 632V648 M564 632V648 M624 632V648 M684 632V648 M744 632V648 M804 632V648"/>
+    <path d="M848 84H864 M848 144H864 M848 204H864 M848 264H864 M848 324H864 M848 384H864 M848 444H864 M848 504H864 M848 564H864"/>
+  </g>
+  <path d="M60 5.2 H804 M60 10.6 H804" stroke="#c98f45" stroke-width=".7" stroke-opacity=".8"/>
+  <path d="M60 5.2 H804" stroke="#f3d58f" stroke-width=".3"/>
+  <rect x="24" y="16" width="823.4" height="616" fill="none" stroke="#5f8bd6" stroke-opacity=".55" stroke-width=".6"/>
+  <rect x="24" y="16" width="824" height="616" fill="none" stroke="#0c1933" stroke-width=".6"/>
+  <polygon points="550,648 558,621 822,621 830,648" fill="url(#tab)"/>
+  <path d="M558.6 621.6 H821.4" stroke="#c9a24a" stroke-width=".8" fill="none"/>
+  <path d="M558 621 L550 648 M822 621 L830 648" stroke="#0c1933" stroke-width=".6" fill="none"/>
+  <path fill="none" stroke="#c9a24a" stroke-width=".8" d="M852 12 V12 M830 636 H852 V12 H300"/>
+  <g>
+    <path d="M1.6 1.6 H49 V16 L42 23 H23 V42 L16 49 H1.6 Z" fill="#3d240b" fill-opacity=".28" transform="translate(1.4 1.6)" filter="url(#soft)"/>
+    <path d="M0 0 H48 V15 L41 22 H22 V41 L15 48 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+    <path d="M47.4 1 V14.6 L40.6 21.4 H21.4 V40.6 L14.6 47.4" fill="none" stroke="#5a3510" stroke-width=".9" stroke-opacity=".7"/>
+    <path d="M2 2 H46 M2 2 V46" fill="none" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/>
+    <circle cx="10" cy="10" r="3.1" fill="#7a4a18"/><circle cx="10" cy="10" r="2.2" fill="#d7a256"/><circle cx="9.2" cy="9.1" r=".9" fill="#fff0c4"/>
+  </g>
+  <g transform="translate(0 648) scale(1 -1)"><path d="M0 0 H34 V13 L28 19 H19 V28 L13 34 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+    <circle cx="8.4" cy="8.4" r="2.4" fill="#7a4a18"/><circle cx="8.4" cy="8.4" r="1.6" fill="#d7a256"/></g>
+  <g transform="translate(864 0) scale(-1 1)"><path d="M0 0 H34 V13 L28 19 H19 V28 L13 34 H0 Z" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+    <circle cx="8.4" cy="8.4" r="2.4" fill="#7a4a18"/><circle cx="8.4" cy="8.4" r="1.6" fill="#d7a256"/></g>
+</svg>
 
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<div class="blk" style="left:44pt; top:30pt; width:306pt">
+  <div class="sh big">Example 7</div>
+  <div class="qcard" style="margin-top:2pt"><p>Evaluate (a) −45 ÷ 9 and (b) 56 ÷ (−7).</p></div>
+</div>
+<svg class="blk" id="plaque" style="left:44pt; top:104pt; width:306pt; height:220pt" viewBox="0 0 306 220" aria-label="sign matrix">
+  <defs><linearGradient id="pn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e4589"/><stop offset=".6" stop-color="#122A45"/><stop offset="1" stop-color="#0c1933"/></linearGradient>
+  <clipPath id="pc"><rect x="3" y="3" width="300" height="214" rx="12"/></clipPath></defs>
+  <rect x="3" y="3" width="300" height="214" rx="12" fill="url(#pn)" stroke="#b3722f" stroke-width="3"/>
+  <rect x="8" y="8" width="290" height="204" rx="8" fill="none" stroke="#f3d58f" stroke-opacity=".4" stroke-width=".6"/>
+  <g transform="translate(34 40)"><circle r="15" fill="#6e4318"/><circle cy="-.8" r="14" fill="#d9a55a" stroke="#f3d58f" stroke-width=".6"/><path d="M-7 0H7" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/><circle cy="-7.5" r="2.3" fill="#0c1933"/><circle cy="7.5" r="2.3" fill="#0c1933"/></g>
+  <circle cx="118" cy="40" r="15" fill="#6e4318"/><circle cx="118" cy="39.2" r="14" fill="#d9a55a" stroke="#f3d58f" stroke-width=".6"/><path d="M111.5 40 H124.5" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/><path d="M118 33.5 V46.5" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/><circle cx="232" cy="40" r="15" fill="#6e4318"/><circle cx="232" cy="39.2" r="14" fill="#d9a55a" stroke="#f3d58f" stroke-width=".6"/><path d="M225.5 40 H238.5" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="34" cy="100" r="15" fill="#6e4318"/><circle cx="34" cy="99.2" r="14" fill="#d9a55a" stroke="#f3d58f" stroke-width=".6"/><path d="M27.5 100 H40.5" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/><path d="M34 93.5 V106.5" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/><circle cx="34" cy="170" r="15" fill="#6e4318"/><circle cx="34" cy="169.2" r="14" fill="#d9a55a" stroke="#f3d58f" stroke-width=".6"/><path d="M27.5 170 H40.5" stroke="#0c1933" stroke-width="3" stroke-linecap="round"/>
+  <rect x="66" y="70" width="104" height="60" rx="5" fill="#F7F1E3" stroke="#b3722f" stroke-width="1.2"/><rect x="69" y="73" width="98" height="54" rx="3" fill="none" stroke="#1F6F6B" stroke-opacity=".5" stroke-width=".7"/><path d="M103.0 100.0 H133.0" stroke="#1F6F6B" stroke-width="6" stroke-linecap="round"/><path d="M118.0 85.0 V115.0" stroke="#1F6F6B" stroke-width="6" stroke-linecap="round"/><rect x="180" y="70" width="104" height="60" rx="5" fill="#F7F1E3" stroke="#b3722f" stroke-width="1.2"/><rect x="183" y="73" width="98" height="54" rx="3" fill="none" stroke="#B5603A" stroke-opacity=".5" stroke-width=".7"/><path d="M217.0 100.0 H247.0" stroke="#B5603A" stroke-width="6" stroke-linecap="round"/>
+  <rect x="66" y="140" width="104" height="60" rx="5" fill="#F7F1E3" stroke="#b3722f" stroke-width="1.2"/><rect x="69" y="143" width="98" height="54" rx="3" fill="none" stroke="#B5603A" stroke-opacity=".5" stroke-width=".7"/><path d="M103.0 170.0 H133.0" stroke="#B5603A" stroke-width="6" stroke-linecap="round"/><rect x="180" y="140" width="104" height="60" rx="5" fill="#F7F1E3" stroke="#b3722f" stroke-width="1.2"/><rect x="183" y="143" width="98" height="54" rx="3" fill="none" stroke="#1F6F6B" stroke-opacity=".5" stroke-width=".7"/><path d="M217.0 170.0 H247.0" stroke="#1F6F6B" stroke-width="6" stroke-linecap="round"/><path d="M232.0 155.0 V185.0" stroke="#1F6F6B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M60 62 H290 M58 134 H292" stroke="#b3722f" stroke-opacity=".0"/>
+  <g clip-path="url(#pc)"><polygon points="150,0 178,0 98,220 70,220" fill="#dbe8ff" fill-opacity=".14"/><polygon points="188,0 196,0 116,220 108,220" fill="#dbe8ff" fill-opacity=".10"/></g>
+</svg>
 
+<div class="blk" id="work" style="left:380pt; top:30pt; width:442pt">
+  <div class="sh">Let’s work it through</div>
+  <p style="margin-bottom:4pt">Divide the positive amounts, then use the signs:</p>
+  <div class="eqL" style="padding-left:0"><span class="lab">(a)</span><b data-math="−45 ÷ 9 = −(45 ÷ 9) = −5">−45 ÷ 9 = −(45 ÷ 9) = <span class="mr">−5</span></b></div>
+  <div style="height:0; border-top:.9pt solid #b3722f; width:330pt"></div>
+  <div class="eqL" style="padding-left:26pt"><span class="lab">(b)</span><b data-math="56 ÷ (−7) = −(56 ÷ 7) = −8">56 ÷ (−7) = −(56 ÷ 7) = <span class="mr">−8</span></b></div>
+  <div style="height:0; border-top:.9pt solid #b3722f; width:330pt; margin-left:26pt"></div>
+  <p style="margin:6pt 0 0">Check (b): <b data-math="(−8) × (−7) = 56">(−8) × (−7) = 56</b>. The quotient −8 fits.</p>
+</div>
+
+<div class="blk qcard" id="nyt" style="left:44pt; top:338pt; width:306pt">
+  <svg class="blk" style="left:-5pt; top:-5pt; width:20pt; height:20pt; overflow:visible" viewBox="0 0 20 20" aria-hidden="true"><path d="M1 18 V1 H18" fill="none" stroke="#b3722f" stroke-width="1.1"/><circle cx="1" cy="1" r="1.6" fill="#b3722f"/></svg>
+  <div class="sh">Now you try</div>
+  <p>Evaluate (a) 63 ÷ (−9) and (b) −75 ÷ 15.</p>
+</div>
+
+<div class="blk ablock" id="cym" style="left:380pt; top:196pt; width:442pt">
+  <div class="sh">Check your method</div>
+  <div class="eqL" style="line-height:28pt"><span class="lab">(a)</span><b data-math="63 ÷ (−9) = −(63 ÷ 9) = −7">63 ÷ (−9) = −(63 ÷ 9) = <span class="mr">−7</span></b></div>
+  <div class="eqL" style="line-height:28pt; margin-bottom:4pt"><span class="lab">(b)</span><b data-math="−75 ÷ 15 = −(75 ÷ 15) = −5">−75 ÷ 15 = −(75 ÷ 15) = <span class="mr">−5</span></b></div>
+  <p>One useful extension. For (−12) ÷ (−3), ask what multiplies −3 to give −12. Since <b data-math="4 × (−3) = −12">4 × (−3) = −12</b>, the quotient is positive 4.</p>
+  <p>For division of two non-zero numbers, same signs give a positive quotient; different signs give a negative quotient. Also, <b data-math="0 ÷ 3 = 0">0 ÷ 3 = 0</b> because <b data-math="0 × 3 = 0">0 × 3 = 0</b>. We cannot divide by zero: for instance, no number multiplied by 0 gives 6, so 6 ÷ 0 has no answer.</p>
+</div>
+<svg class="blk" id="gate" style="left:44pt; top:432pt; width:306pt; height:180pt" viewBox="0 0 306 180" aria-label="closed gate">
+  <defs><linearGradient id="gbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1933"/><stop offset="1" stop-color="#1b3d7c"/></linearGradient></defs>
+  <rect x="2" y="2" width="302" height="176" rx="8" fill="url(#gbg)" stroke="#b3722f" stroke-width="2.4"/>
+  <path d="M40 176 V70 C40 22 266 22 266 70 V176" fill="#091428" stroke="#b3722f" stroke-width="5"/>
+  <path d="M46 176 V70 C46 30 260 30 260 70 V176" fill="none" stroke="#f3d58f" stroke-opacity=".5" stroke-width=".7"/>
+  <path d="M62 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="62" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M80 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="80" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M98 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="98" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M116 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="116" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M134 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="134" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M152 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="152" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M170 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="170" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M188 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="188" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M206 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="206" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M224 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="224" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/><path d="M242 40 V176" stroke="url(#brass)" stroke-width="4"/><circle cx="242" cy="38" r="3" fill="#d9a55a" stroke="#6e4318" stroke-width=".5"/>
+  <rect x="48" y="86" width="210" height="8" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/>
+  <rect x="48" y="132" width="210" height="8" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/>
+  <path d="M153 22 V86" stroke="#b3722f" stroke-width="2"/>
+  <path d="M142 92 V76 C142 56 164 56 164 76 V92" fill="none" stroke="#c98f45" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M142 90 V76 C142 56 164 56 164 76" fill="none" stroke="#f3d58f" stroke-width="1" stroke-opacity=".7"/>
+  <rect x="130" y="90" width="46" height="40" rx="6" fill="#6e4318"/><rect x="130" y="88.5" width="46" height="40" rx="6" fill="url(#brass)" stroke="#5a3510" stroke-width=".8"/>
+  <path d="M135 93 H171" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/>
+  <circle cx="153" cy="104" r="5" fill="#0c1933"/><path d="M150.4 106 H155.6 L156.6 118 H149.4 Z" fill="#0c1933"/>
+  <circle cx="22" cy="24" r="7" fill="url(#moonG)"/><path d="M282 18 L283.2 22 L287 23 L283.2 24 L282 28 L280.8 24 L277 23 L280.8 22 Z" fill="#e8c06a"/>
+  <path d="M2 170 H304" stroke="#6e4318" stroke-width=".6" stroke-opacity=".6"/>
+</svg>
+
+<div class="aside-b" id="aside" style="left:430pt; top:478pt; width:238pt">Your answer tells you where you arrived. Your working shows you the way back.<svg class="tl" style="left:100%; top:46%; width:50pt; height:20pt; margin-left:-3pt" viewBox="0 0 50 20" aria-hidden="true"><path d="M0 2 C16 3 34 8 48 12 C32 13 14 16 0 16" fill="#FFFDF6" stroke="#1d2433" stroke-width=".8"/><path d="M0 2.6 V15.4" stroke="#FFFDF6" stroke-width="2"/></svg></div>
+<div class="blk" style="left:706pt; top:440pt; width:112pt; height:148pt; overflow:hidden"><img src="assets/img/TARA.png" alt="" style="display:block; width:112pt"></div>
+<svg class="blk" style="left:692pt; top:584pt; width:132pt; height:36pt" viewBox="0 0 132 36" aria-hidden="true">
+  <rect x="0" y="9" width="132" height="27" fill="#0f2347"/><path d="M0 9 H132" stroke="#b3722f" stroke-width=".6"/>
+  <rect x="0" y="0" width="132" height="9" rx="4.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".6"/>
+  <path d="M4 2.2 H128" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".8"/>
+  <g fill="url(#brass)" stroke="#5a3510" stroke-width=".5"><rect x="6" y="9" width="5" height="27"/><rect x="60" y="9" width="5" height="27"/><rect x="118" y="9" width="5" height="27"/></g>
+</svg>
+
+<div class="pagemark" style="--pm-ink:#f3d58f; --pm-ring:#c9a24a; --pm-coin:rgba(12,25,51,.8)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 024</span><span class="pm-no">24</span></div>
 </div>
 <script>
-  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
   (function () {
     var p = document.getElementById("page");
     function fit() {

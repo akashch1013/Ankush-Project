@@ -1088,6 +1088,66 @@
      "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
     }
    ]
+  },
+  "P028-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P028-2": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P028-3": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P028-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P029-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P029-3": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P029-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P030-1": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P030-2": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
+  },
+  "P030-4": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
   }
  },
  "fix_queue": {}
