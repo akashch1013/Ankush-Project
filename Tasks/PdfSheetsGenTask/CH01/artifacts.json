@@ -152,5 +152,29 @@
   "pdf": "Output/CH01/CH01-P015.pdf",
   "design": "concept: score-plaque penalty removed",
   "version": "1795843993-4b7b"
+ },
+ "P016": {
+  "url": "https://claude.ai/artifact/S7FhYFHB3E8kMGecSzdKXv",
+  "file_path": "PdfSheetsGenTask/CH01/P016/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P016.pdf",
+  "design": "worked-example: flip-tile rails",
+  "version": "1795844086-2314"
+ },
+ "P019": {
+  "url": "https://claude.ai/artifact/3zpK6oFXja8k6UbXVsKDqy",
+  "file_path": "PdfSheetsGenTask/CH01/P019/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P019.pdf",
+  "design": "concept: lantern racks",
+  "version": "1795844087-fa69"
+ },
+ "P020": {
+  "url": "https://claude.ai/artifact/Dh3ZCWUQBQpanGVrpaJhXA",
+  "file_path": "PdfSheetsGenTask/CH01/P020/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P020.pdf",
+  "design": "practice-set: pattern staircases",
+  "version": "1795844088-e9f4"
  }
 }
