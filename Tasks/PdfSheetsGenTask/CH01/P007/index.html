@@ -7,20 +7,303 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  .page.ledger { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 5pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-weight: 600; color: #122A45; font-size: 17pt; line-height: 21pt; margin: 0 0 4pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .ttl { font-weight: 700; color: #122A45; font-size: 25pt; line-height: 30pt; white-space: nowrap; margin: 0; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger .mb { color: #2F5FAE; font-weight: 700; }
+  .ledger .eq { color:#1d2433; font-size: 21pt; line-height: 24pt; font-weight: 600; white-space: nowrap; }
+  .ledger .eq .op { font-weight: 400; }
+  .ledger .voice { font-family: "Source Serif 4", serif; font-style: italic; }
+  .qcard { background: #FBF7EE; border: .8pt solid #b3722f; padding: 8pt 13pt 5pt; }
+  .qcard p:last-child, .ablock p:last-child { margin-bottom: 0; }
+  .ablock { background: #EFE6D2; border-top: .8pt solid #b3722f; padding: 8pt 13pt 6pt; }
+  .figcard { background: #EFE6D2; border: .8pt solid #b3722f; }
+  .figcard svg { display:block; }
+  .fcap { font-family: "Source Serif 4", serif; font-style: italic; font-size: 14pt; line-height: 18pt; text-align:center; margin:0; }
+  .eqrow { display:flex; gap:26pt; align-items:baseline; }
+
 </style>
 </head>
 <body>
 <div class="page ledger" id="page" data-chapter="CH01" data-page="P007">
 
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true"><defs>
+<linearGradient id="gT" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="gB" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="gL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="gR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+<linearGradient id="brassR" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".3" stop-color="#b3722f"/><stop offset=".6" stop-color="#d9a55a"/><stop offset="1" stop-color="#f3d58f"/></linearGradient>
+<linearGradient id="brassV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".35" stop-color="#e3b569"/><stop offset=".6" stop-color="#b3722f"/><stop offset="1" stop-color="#5a3510"/></linearGradient>
+<linearGradient id="tab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#122A45"/><stop offset=".5" stop-color="#1e4589"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b66a8"/><stop offset=".5" stop-color="#16305c"/><stop offset="1" stop-color="#0c1933"/></linearGradient>
+<radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.3"/></filter>
+</defs>
+<rect x="0" y="0" width="864" height="648" fill="#F7F1E3"/>
+<rect x="0" y="0" width="26" height="648" fill="url(#gL)"/><rect x="838" y="0" width="26" height="648" fill="url(#gR)"/>
+<g><rect x="5" y="0" width="3.2" height="648" fill="url(#brassV)"/><path d="M5.7 0 V648" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".5"/><rect x="12.5" y="0" width="3.2" height="648" fill="url(#brassV)"/><path d="M13.2 0 V648" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".5"/><rect x="20" y="0" width="3.2" height="648" fill="url(#brassV)"/><path d="M20.7 0 V648" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".5"/><rect x="1" y="96" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="4" cy="99.5" r="1" fill="#fff0c4"/><circle cx="22" cy="99.5" r="1" fill="#fff0c4"/><rect x="1" y="222" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="4" cy="225.5" r="1" fill="#fff0c4"/><circle cx="22" cy="225.5" r="1" fill="#fff0c4"/><rect x="1" y="348" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="4" cy="351.5" r="1" fill="#fff0c4"/><circle cx="22" cy="351.5" r="1" fill="#fff0c4"/><rect x="1" y="474" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="4" cy="477.5" r="1" fill="#fff0c4"/><circle cx="22" cy="477.5" r="1" fill="#fff0c4"/><rect x="1" y="600" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="4" cy="603.5" r="1" fill="#fff0c4"/><circle cx="22" cy="603.5" r="1" fill="#fff0c4"/><rect x="843" y="0" width="3.2" height="648" fill="url(#brassV)"/><path d="M843.7 0 V648" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".5"/><rect x="850.5" y="0" width="3.2" height="648" fill="url(#brassV)"/><path d="M851.2 0 V648" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".5"/><rect x="858" y="0" width="3.2" height="648" fill="url(#brassV)"/><path d="M858.7 0 V648" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".5"/><rect x="839" y="96" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="842" cy="99.5" r="1" fill="#fff0c4"/><circle cx="860" cy="99.5" r="1" fill="#fff0c4"/><rect x="839" y="222" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="842" cy="225.5" r="1" fill="#fff0c4"/><circle cx="860" cy="225.5" r="1" fill="#fff0c4"/><rect x="839" y="348" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="842" cy="351.5" r="1" fill="#fff0c4"/><circle cx="860" cy="351.5" r="1" fill="#fff0c4"/><rect x="839" y="474" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="842" cy="477.5" r="1" fill="#fff0c4"/><circle cx="860" cy="477.5" r="1" fill="#fff0c4"/><rect x="839" y="600" width="24" height="7" rx="1.5" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><circle cx="842" cy="603.5" r="1" fill="#fff0c4"/><circle cx="860" cy="603.5" r="1" fill="#fff0c4"/></g>
+<rect x="0" y="0" width="864" height="12" fill="url(#gT)"/><path d="M0 11.4 H864" stroke="#c9a24a" stroke-width=".9"/><path d="M0 5.5 H864" stroke="#0c1933" stroke-opacity=".4" stroke-width=".4" stroke-dasharray="70 9 120 6 44 12 160 5"/>
+<rect x="26" y="12" width="812" height="636" fill="none" stroke="#0c1933" stroke-width=".6"/>
+<!-- paving: pale moonlit stone with seams and a wet sheen -->
+<rect x="0" y="624" width="864" height="24" fill="#cfc6b3"/>
+<g stroke="#8c8068" stroke-width=".6" stroke-opacity=".7"><path d="M0 636 H864"/><path d="M30 624 V636"/><path d="M116 624 V636"/><path d="M202 624 V636"/><path d="M288 624 V636"/><path d="M374 624 V636"/><path d="M460 624 V636"/><path d="M546 624 V636"/><path d="M632 624 V636"/><path d="M718 624 V636"/><path d="M804 624 V636"/><path d="M73 636 V648"/><path d="M159 636 V648"/><path d="M245 636 V648"/><path d="M331 636 V648"/><path d="M417 636 V648"/><path d="M503 636 V648"/><path d="M589 636 V648"/><path d="M675 636 V648"/><path d="M761 636 V648"/><path d="M847 636 V648"/></g>
+<path d="M26 624 H838" stroke="#0c1933" stroke-width=".8"/>
+<rect x="26" y="625" width="812" height="3" fill="#fff" fill-opacity=".35"/>
+<polygon points="550,648 558,621 822,621 830,648" fill="url(#tab)"/><path d="M558.6 621.6 H821.4" stroke="#c9a24a" stroke-width=".8" fill="none"/><path d="M558 621 L550 648 M822 621 L830 648" stroke="#0c1933" stroke-width=".6" fill="none"/>
+<rect x="0" y="624" width="26" height="24" fill="url(#gL)"/><rect x="838" y="624" width="26" height="24" fill="url(#gR)"/>
+
+</svg>
+<div class="blk" style="left:40pt; top:16pt"><h1 class="ttl" style="font-size:24pt">Adding and subtracting on a number line</h1></div>
+
+<div class="blk" id="z1l" style="left:40pt; top:54pt; width:440pt">
+ <p>For <span class="mt">6</span> + <span class="mt">9</span>, start at 6. Adding positive 9 means moving nine equal intervals to the right. You reach 15. For 6 − 9, start at 6 again, but subtracting positive 9 means moving nine intervals to the left. You reach −3.</p>
+ <div class="eqrow" style="margin:3pt 0 5pt"><span class="eq" data-math="6 + 9 = 15" style="white-space:nowrap">6 <span class="op">+</span> 9 <span class="op">=</span> <span class="mr">15</span></span><span class="eq" data-math="6 − 9 = −3" style="white-space:nowrap">6 <span class="op">−</span> 9 <span class="op">=</span> <span class="mr">−3</span></span></div>
+ <p style="margin:0; border-left:2pt solid #b3722f; padding-left:9pt">Count the spaces between ticks when you move. Counting the starting tick as the first step would give you an extra step you never took!</p>
+</div>
+<div class="blk" id="z1r" style="left:488pt; top:54pt; width:340pt"><div class="figcard" style="padding:0 0 4pt"><svg width="340pt" height="116pt" viewBox="0 0 340 116" aria-hidden="true"><path d="M11 36 H333" stroke="#8a5a22" stroke-width="2.6" stroke-linecap="round"/><path d="M11 35 H333" stroke="#f3d58f" stroke-width=".6" stroke-opacity=".8"/>
+<path d="M19 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="19" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">−3</text>
+<path d="M36 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="36" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">−2</text>
+<path d="M53 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="53" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">−1</text>
+<path d="M70 27 V45" stroke="#b3722f" stroke-width="2"/>
+<text x="70" y="56" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="10.5" fill="#1d2433">0</text>
+<path d="M87 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="87" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">1</text>
+<path d="M104 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="104" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">2</text>
+<path d="M121 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="121" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">3</text>
+<path d="M138 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="138" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">4</text>
+<path d="M155 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="155" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">5</text>
+<path d="M172 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="172" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">6</text>
+<path d="M189 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="189" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">7</text>
+<path d="M206 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="206" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">8</text>
+<path d="M223 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="223" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">9</text>
+<path d="M240 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="240" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">10</text>
+<path d="M257 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="257" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">11</text>
+<path d="M274 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="274" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">12</text>
+<path d="M291 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="291" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">13</text>
+<path d="M308 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="308" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">14</text>
+<path d="M325 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="325" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">15</text>
+<circle cx="70" cy="36" r="3.4" fill="#d7a256" stroke="#6e4318" stroke-width=".6"/><circle cx="69.1" cy="35.1" r=".9" fill="#fff0c4"/>
+<path d="M11 86 H333" stroke="#8a5a22" stroke-width="2.6" stroke-linecap="round"/><path d="M11 85 H333" stroke="#f3d58f" stroke-width=".6" stroke-opacity=".8"/>
+<path d="M19 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="19" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">−3</text>
+<path d="M36 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="36" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">−2</text>
+<path d="M53 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="53" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">−1</text>
+<path d="M70 77 V95" stroke="#b3722f" stroke-width="2"/>
+<text x="70" y="73" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="10.5" fill="#1d2433">0</text>
+<path d="M87 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="87" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">1</text>
+<path d="M104 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="104" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">2</text>
+<path d="M121 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="121" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">3</text>
+<path d="M138 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="138" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">4</text>
+<path d="M155 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="155" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">5</text>
+<path d="M172 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="172" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">6</text>
+<path d="M189 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="189" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">7</text>
+<path d="M206 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="206" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">8</text>
+<path d="M223 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="223" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">9</text>
+<path d="M240 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="240" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">10</text>
+<path d="M257 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="257" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">11</text>
+<path d="M274 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="274" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">12</text>
+<path d="M291 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="291" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">13</text>
+<path d="M308 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="308" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">14</text>
+<path d="M325 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="325" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="10.5" fill="#1d2433">15</text>
+<circle cx="70" cy="86" r="3.4" fill="#d7a256" stroke="#6e4318" stroke-width=".6"/><circle cx="69.1" cy="85.1" r=".9" fill="#fff0c4"/><path d="M172 36 A8.5 8.5 0 0 1 189 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.47" stroke-linecap="round"/>
+<path d="M189 36 A8.5 8.5 0 0 1 206 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.53" stroke-linecap="round"/>
+<path d="M206 36 A8.5 8.5 0 0 1 223 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.60" stroke-linecap="round"/>
+<path d="M223 36 A8.5 8.5 0 0 1 240 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.67" stroke-linecap="round"/>
+<path d="M240 36 A8.5 8.5 0 0 1 257 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.73" stroke-linecap="round"/>
+<path d="M257 36 A8.5 8.5 0 0 1 274 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.80" stroke-linecap="round"/>
+<path d="M274 36 A8.5 8.5 0 0 1 291 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.87" stroke-linecap="round"/>
+<path d="M291 36 A8.5 8.5 0 0 1 308 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.93" stroke-linecap="round"/>
+<path d="M308 36 A8.5 8.5 0 0 1 325 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="1.00" stroke-linecap="round"/>
+<path d="M325 35.5 l-3.6 -6.5 h7.2 Z" fill="#B5603A"/>
+<circle cx="325" cy="36" r="6" fill="none" stroke="#B5603A" stroke-width="1.3"/>
+<text x="248.5" y="21" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#B5603A">+9</text><path d="M172 86 A8.5 8.5 0 0 1 155 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.47" stroke-linecap="round"/>
+<path d="M155 86 A8.5 8.5 0 0 1 138 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.53" stroke-linecap="round"/>
+<path d="M138 86 A8.5 8.5 0 0 1 121 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.60" stroke-linecap="round"/>
+<path d="M121 86 A8.5 8.5 0 0 1 104 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.67" stroke-linecap="round"/>
+<path d="M104 86 A8.5 8.5 0 0 1 87 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.73" stroke-linecap="round"/>
+<path d="M87 86 A8.5 8.5 0 0 1 70 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.80" stroke-linecap="round"/>
+<path d="M70 86 A8.5 8.5 0 0 1 53 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.87" stroke-linecap="round"/>
+<path d="M53 86 A8.5 8.5 0 0 1 36 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.93" stroke-linecap="round"/>
+<path d="M36 86 A8.5 8.5 0 0 1 19 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="1.00" stroke-linecap="round"/>
+<path d="M19 86.5 l-3.6 6.5 h7.2 Z" fill="#2F5FAE"/>
+<circle cx="19" cy="86" r="6" fill="none" stroke="#2F5FAE" stroke-width="1.3"/>
+<text x="95.5" y="111" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#2F5FAE">−9</text><g><rect x="165" y="30.5" width="14" height="11" rx="2.4" fill="#e0b25e" stroke="#6e4318" stroke-width=".8"/><rect x="167.7" y="33" width="8.6" height="4.4" rx="1" fill="#16305c"/><path d="M165 39.4 H179" stroke="#6e4318" stroke-width=".6"/><circle cx="169" cy="32.2" r=".8" fill="#fff0c4"/></g><g><rect x="165" y="80.5" width="14" height="11" rx="2.4" fill="#e0b25e" stroke="#6e4318" stroke-width=".8"/><rect x="167.7" y="83" width="8.6" height="4.4" rx="1" fill="#16305c"/><path d="M165 89.4 H179" stroke="#6e4318" stroke-width=".6"/><circle cx="169" cy="82.2" r=".8" fill="#fff0c4"/></g></svg><p class="fcap" style="font-size:14pt">Start at 6 in both calculations</p></div></div>
+
+<div class="blk qcard" id="ex" style="left:40pt; top:236pt; width:440pt; box-sizing:border-box">
+ <div class="sh">Example 1</div>
+ <p>Evaluate without a calculator. You may use a calculator afterwards to check.</p>
+ <p>(a) −7 + 3  (b) −7 − 9</p>
+</div>
+<div class="blk ablock" id="wk" style="left:40pt; top:368pt; width:440pt; box-sizing:border-box">
+ <div class="sh">Let’s work it through</div>
+ <p style="margin-bottom:0">(a) Start at −7. Adding 3 takes us three intervals right: −7 → −6 → −5 → −4.</p>
+ <div style="margin:0 0 3pt 14pt"><span class="eq" data-math="−7 + 3 = −4" style="white-space:nowrap">−7 <span class="op">+</span> 3 <span class="op">=</span> <span class="mr">−4</span></span></div>
+ <p style="margin-bottom:0">(b) Start at −7 again. Subtracting 9 takes us nine intervals left, farther below zero. We are already 7 intervals below zero, and go another 9: <b data-math="7 + 9 = 16" style="font-weight:inherit;white-space:nowrap">7 + 9 = 16</b> intervals below zero.</p>
+ <div style="margin:0 0 3pt 14pt"><span class="eq" data-math="−7 − 9 = −16" style="white-space:nowrap">−7 <span class="op">−</span> 9 <span class="op">=</span> <span class="mr">−16</span></span></div>
+ <p>Check the second answer by undoing the move: <b data-math="−16 + 9 = −7" style="font-weight:inherit;white-space:nowrap">−16 + 9 = −7</b>. We are back at the starting number.</p>
+</div>
+
+<div class="blk" id="z2r" style="left:488pt; top:200pt; width:340pt"><div class="figcard" style="padding:0 0 4pt"><svg width="340pt" height="116pt" viewBox="0 0 340 116" aria-hidden="true"><path d="M26 36 H314" stroke="#8a5a22" stroke-width="2.6" stroke-linecap="round"/><path d="M26 35 H314" stroke="#f3d58f" stroke-width=".6" stroke-opacity=".8"/>
+<path d="M34 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="34" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−16</text>
+<path d="M51 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="51" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−15</text>
+<path d="M68 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="68" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−14</text>
+<path d="M85 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="85" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−13</text>
+<path d="M102 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="102" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−12</text>
+<path d="M119 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="119" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−11</text>
+<path d="M136 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="136" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−10</text>
+<path d="M153 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="153" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−9</text>
+<path d="M170 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="170" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−8</text>
+<path d="M187 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="187" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−7</text>
+<path d="M204 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="204" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−6</text>
+<path d="M221 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="221" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−5</text>
+<path d="M238 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="238" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−4</text>
+<path d="M255 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="255" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−3</text>
+<path d="M272 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="272" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−2</text>
+<path d="M289 32 V40" stroke="#5a3a14" stroke-width="1"/>
+<text x="289" y="51" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−1</text>
+<path d="M306 27 V45" stroke="#b3722f" stroke-width="2"/>
+<text x="306" y="56" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="9.5" fill="#1d2433">0</text>
+<circle cx="306" cy="36" r="3.4" fill="#d7a256" stroke="#6e4318" stroke-width=".6"/><circle cx="305.1" cy="35.1" r=".9" fill="#fff0c4"/>
+<path d="M26 86 H314" stroke="#8a5a22" stroke-width="2.6" stroke-linecap="round"/><path d="M26 85 H314" stroke="#f3d58f" stroke-width=".6" stroke-opacity=".8"/>
+<path d="M34 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="34" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−16</text>
+<path d="M51 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="51" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−15</text>
+<path d="M68 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="68" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−14</text>
+<path d="M85 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="85" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−13</text>
+<path d="M102 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="102" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−12</text>
+<path d="M119 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="119" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−11</text>
+<path d="M136 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="136" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−10</text>
+<path d="M153 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="153" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−9</text>
+<path d="M170 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="170" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−8</text>
+<path d="M187 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="187" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−7</text>
+<path d="M204 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="204" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−6</text>
+<path d="M221 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="221" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−5</text>
+<path d="M238 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="238" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−4</text>
+<path d="M255 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="255" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−3</text>
+<path d="M272 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="272" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−2</text>
+<path d="M289 82 V90" stroke="#5a3a14" stroke-width="1"/>
+<text x="289" y="78" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="9.5" fill="#1d2433">−1</text>
+<path d="M306 77 V95" stroke="#b3722f" stroke-width="2"/>
+<text x="306" y="73" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="9.5" fill="#1d2433">0</text>
+<circle cx="306" cy="86" r="3.4" fill="#d7a256" stroke="#6e4318" stroke-width=".6"/><circle cx="305.1" cy="85.1" r=".9" fill="#fff0c4"/><path d="M187 36 A8.5 8.5 0 0 1 204 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.60" stroke-linecap="round"/>
+<path d="M204 36 A8.5 8.5 0 0 1 221 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="0.80" stroke-linecap="round"/>
+<path d="M221 36 A8.5 8.5 0 0 1 238 36" fill="none" stroke="#B5603A" stroke-width="2" stroke-opacity="1.00" stroke-linecap="round"/>
+<path d="M238 35.5 l-3.6 -6.5 h7.2 Z" fill="#B5603A"/>
+<circle cx="238" cy="36" r="6" fill="none" stroke="#B5603A" stroke-width="1.3"/>
+<text x="212.5" y="21" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#B5603A">+3</text><path d="M187 86 A8.5 8.5 0 0 1 170 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.47" stroke-linecap="round"/>
+<path d="M170 86 A8.5 8.5 0 0 1 153 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.53" stroke-linecap="round"/>
+<path d="M153 86 A8.5 8.5 0 0 1 136 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.60" stroke-linecap="round"/>
+<path d="M136 86 A8.5 8.5 0 0 1 119 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.67" stroke-linecap="round"/>
+<path d="M119 86 A8.5 8.5 0 0 1 102 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.73" stroke-linecap="round"/>
+<path d="M102 86 A8.5 8.5 0 0 1 85 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.80" stroke-linecap="round"/>
+<path d="M85 86 A8.5 8.5 0 0 1 68 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.87" stroke-linecap="round"/>
+<path d="M68 86 A8.5 8.5 0 0 1 51 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="0.93" stroke-linecap="round"/>
+<path d="M51 86 A8.5 8.5 0 0 1 34 86" fill="none" stroke="#2F5FAE" stroke-width="2" stroke-opacity="1.00" stroke-linecap="round"/>
+<path d="M34 86.5 l-3.6 6.5 h7.2 Z" fill="#2F5FAE"/>
+<circle cx="34" cy="86" r="6" fill="none" stroke="#2F5FAE" stroke-width="1.3"/>
+<text x="110.5" y="111" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#2F5FAE">−9</text><g><rect x="180" y="30.5" width="14" height="11" rx="2.4" fill="#e0b25e" stroke="#6e4318" stroke-width=".8"/><rect x="182.7" y="33" width="8.6" height="4.4" rx="1" fill="#16305c"/><path d="M180 39.4 H194" stroke="#6e4318" stroke-width=".6"/><circle cx="184" cy="32.2" r=".8" fill="#fff0c4"/></g><g><rect x="180" y="80.5" width="14" height="11" rx="2.4" fill="#e0b25e" stroke="#6e4318" stroke-width=".8"/><rect x="182.7" y="83" width="8.6" height="4.4" rx="1" fill="#16305c"/><path d="M180 89.4 H194" stroke="#6e4318" stroke-width=".6"/><circle cx="184" cy="82.2" r=".8" fill="#fff0c4"/></g></svg><p class="fcap" style="font-size:14pt">Starting below zero</p></div></div>
+<div class="blk qcard" id="nyt" style="left:488pt; top:348pt; width:340pt; box-sizing:border-box">
+ <div class="sh">Now you try</div>
+ <p>Evaluate without a calculator: (a) −2 + 3 and (b) −2 − 3. You may use a calculator afterwards to check.</p>
+ <svg width="314pt" height="52pt" viewBox="0 0 314 52" aria-hidden="true"><path d="M44 32 H300" stroke="#8a5a22" stroke-width="2.6" stroke-linecap="round"/><path d="M44 31 H300" stroke="#f3d58f" stroke-width=".6" stroke-opacity=".8"/>
+<path d="M52 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="52" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">−5</text>
+<path d="M82 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="82" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">−4</text>
+<path d="M112 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="112" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">−3</text>
+<path d="M142 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="142" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">−2</text>
+<path d="M172 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="172" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">−1</text>
+<path d="M202 23 V41" stroke="#b3722f" stroke-width="2"/>
+<text x="202" y="52" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="11" fill="#1d2433">0</text>
+<path d="M232 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="232" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">1</text>
+<path d="M262 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="262" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">2</text>
+<path d="M292 28 V36" stroke="#5a3a14" stroke-width="1"/>
+<text x="292" y="47" text-anchor="middle" font-family="Source Sans 3" font-weight="600" font-size="11" fill="#1d2433">3</text>
+<circle cx="202" cy="32" r="3.4" fill="#d7a256" stroke="#6e4318" stroke-width=".6"/><circle cx="201.1" cy="31.1" r=".9" fill="#fff0c4"/><g><rect x="135" y="26.5" width="14" height="11" rx="2.4" fill="#e0b25e" stroke="#6e4318" stroke-width=".8"/><rect x="137.7" y="29" width="8.6" height="4.4" rx="1" fill="#16305c"/><path d="M135 35.4 H149" stroke="#6e4318" stroke-width=".6"/><circle cx="139" cy="28.2" r=".8" fill="#fff0c4"/></g></svg>
+</div>
+<div class="blk ablock" id="cym" style="left:488pt; top:494pt; width:340pt; box-sizing:border-box">
+ <div class="sh">Check your method</div>
+ <p style="margin-bottom:2pt">(a) −2 → −1 → 0 → 1, so <b data-math="−2 + 3 = 1" style="font-weight:inherit;white-space:nowrap">−2 + 3 = 1</b>.</p>
+ <p>(b) Moving three intervals left from −2 gives −3, −4, −5, so <b data-math="−2 − 3 = −5" style="font-weight:inherit;white-space:nowrap">−2 − 3 = −5</b>.</p>
+</div>
+<div class="pagemark" style="--pm-ink:#f3d58f; --pm-ring:#c9a24a; --pm-coin:rgba(12,25,51,.8)"><span class="pm-label">CHAPTER 01 - NUMBERS - PG 007</span><span class="pm-no">7</span></div>
 
 </div>
 <script>
-  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
   (function () {
     var p = document.getElementById("page");
     function fit() {
