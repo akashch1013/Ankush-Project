@@ -7,16 +7,39 @@
 <link rel="stylesheet" href="assets/base.css">
 <link rel="stylesheet" href="assets/kit.css">
 <style>
-  /* page-specific placement and theme overrides only; reusable styles belong in design/base.css */
+  .page.act { overflow:hidden; }
+  .act .pn { position:absolute; overflow:hidden; border:1pt solid #d6a64e; box-sizing:border-box; background:#0a1226; box-shadow:0 2pt 8pt rgba(0,0,0,.55); }
+  .act .pn img { position:absolute; display:block; }
+  .act .pn img.cv { inset:0; width:100%; height:100%; object-fit:cover; }
+  .act .pn::after { content:""; position:absolute; inset:0; border:1.6pt solid var(--edge); pointer-events:none; }
+  .act .pcap { position:absolute; background:#f7f1e3; color:#1d2433; font:400 14pt/18pt "Source Serif 4", Georgia, serif;
+     padding:5pt 10pt 6pt; border-radius:3pt; border:.7pt solid #b3722f; border-top:1.2pt solid #b3722f; box-shadow:0 2pt 6pt rgba(2,5,14,.55); box-sizing:border-box; }
+  .act .bb { position:absolute; background:#fff; color:#18202e; font:600 14pt/18pt "Source Sans 3", sans-serif; text-align:center;
+     border-radius:16pt; box-sizing:border-box; padding:0 9pt; display:flex; align-items:center; justify-content:center; box-shadow:0 3pt 8pt rgba(2,5,14,.5); }
+  .act .bb.reg { font-weight:400; }
+  .act .bb svg.tl { position:absolute; left:0; top:0; width:1pt; height:1pt; overflow:visible; }
+  .act .bb svg.tl path { fill:#fff; }
+  .act .rail { position:absolute; left:0; top:0; width:864pt; height:648pt; }
+
+  .page.act { background:radial-gradient(ellipse 80% 70% at 22% 8%, #1d4686 0%, #12295a 48%, #0a1630 100%); }
 </style>
 </head>
 <body>
-<div class="page act" id="page" data-chapter="CH01" data-page="P028">
-
-  <!-- Build the page from its art-direction brief (pages.json "art"), ART-DIRECTION.md and the kit
-       (kit.css; snippets in design/kit-gallery-1.html and kit-gallery-2.html). patterns.md grids are optional starting points.
-       Place blocks with class="abs" and inline left/top/width/height in pt (sheet = 864 x 648 pt).
-       Every printed equation carries data-math="..." (see pipeline/mathcheck.py). -->
+<div class="page ledger act" id="page" data-chapter="CH01" data-page="P028">
+<div class="pagemark" style="--pm-ink:#f6dca0;--pm-ring:#d6a64e;--pm-coin:rgba(12,25,51,.7)"><span class="pm-no">28</span></div>
+<svg class="rail" viewBox="0 0 864 648" aria-hidden="true"><defs><linearGradient id="br" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".5" stop-color="#d6a64e"/><stop offset="1" stop-color="#8f5a22"/></linearGradient></defs><g fill="none" stroke="#d6a64e" stroke-width=".9" stroke-linecap="round">
+ <path d="M44 12 H820 M852 44 V604 M44 636 H780 M12 44 V604"/>
+ <path d="M12 44 Q12 12 44 12 M820 12 Q852 12 852 44 M852 604 Q852 636 820 636 M44 636 Q12 636 12 604"/>
+ <path d="M44 17.5 H820 M846.5 44 V604 M44 630.5 H780 M17.5 44 V604" stroke-opacity=".28" stroke-width=".5"/></g><g id="cap"><path d="M0 0 H38 V5 H17 Q7 5 5 15 V38 H0 Z" fill="#b3722f" stroke="#f6dca0" stroke-width=".7"/><path d="M5.5 5.5 H20" stroke="#fff0c4" stroke-width=".6" opacity=".7"/><circle cx="10" cy="10" r="2.3" fill="#f6dca0"/></g><use href="#cap" transform="translate(864 0) scale(-1 1)"/><use href="#cap" transform="translate(0 648) scale(1 -1)"/><use href="#cap" transform="translate(864 648) scale(-1 -1)"/><g fill="none" stroke="#d6a64e" stroke-width=".5" stroke-opacity=".5"><path d="M60 6 L66 12 L60 18 L54 12 Z M80 6 L86 12 L80 18 L74 12 Z M784 6 L790 12 L784 18 L778 12 Z M804 6 L810 12 L804 18 L798 12 Z"/></g>
+<!-- brass lift lamp bracket, top centre -->
+<path d="M418 12 H446" stroke="#d6a64e" stroke-width="1.4"/><path d="M432 12 V4" stroke="#b3722f" stroke-width="1.2"/>
+<path d="M426 12 Q432 4 438 12" fill="#3a2a10" stroke="#d6a64e" stroke-width=".6"/>
+<!-- five lamp studs bottom: first lit -->
+<circle cx="96" cy="636" r="6" fill="#f7c684" fill-opacity=".25"/><circle cx="96" cy="636" r="3.2" fill="#ffd98a" stroke="#f6dca0" stroke-width=".6"/><circle cx="116" cy="636" r="3.2" fill="#1b2a4a" stroke="#d6a64e" stroke-width=".8"/><circle cx="115.1" cy="635.1" r=".8" fill="#6f86b8"/><circle cx="136" cy="636" r="3.2" fill="#1b2a4a" stroke="#d6a64e" stroke-width=".8"/><circle cx="135.1" cy="635.1" r=".8" fill="#6f86b8"/><circle cx="156" cy="636" r="3.2" fill="#1b2a4a" stroke="#d6a64e" stroke-width=".8"/><circle cx="155.1" cy="635.1" r=".8" fill="#6f86b8"/><circle cx="176" cy="636" r="3.2" fill="#1b2a4a" stroke="#d6a64e" stroke-width=".8"/><circle cx="175.1" cy="635.1" r=".8" fill="#6f86b8"/></svg>
+<div class="pn" style="left:24pt;top:24pt;width:380pt;height:276pt;--edge:rgba(35,77,149,.95)"><img class="cv" src="assets/img/P028-1.jpg" alt="" style="object-position:50% 50%"><div class="bb" style="left:6pt;top:6pt;width:124pt;height:48pt">All four need to change.<svg class="tl" viewBox="0 0 1 1"><path d="M95 47 Q103 65.0 135 82 Q107 62.0 113 47 Z"/></svg></div><div class="pcap" style="left:50pt;bottom:8pt;width:322pt">Navya checks the instruction. Dividing −8 into four equal settings gives −2 for each one. Vihaan checks by multiplying −2 by 4. The result is −8, so the total agrees.</div></div>
+<div class="pn" style="left:436pt;top:24pt;width:404pt;height:300pt;--edge:rgba(35,77,149,.95)"><img class="cv" src="assets/img/P028-2.jpg" alt="" style="object-position:50% 50%"><div class="pcap" style="left:8pt;bottom:8pt;width:214pt">Tara holds the panel while Navya sets each wheel to −2.</div></div>
+<div class="pn" style="left:24pt;top:332pt;width:552pt;height:288pt;--edge:rgba(35,77,149,.95)"><img class="cv" src="assets/img/P028-3.jpg" alt="" style="object-position:50% 50%"><div class="pcap" style="left:190pt;top:6pt;width:272pt">Both warning lights go out. The safety gate opens, and the helper wheels its supplies onto the street.</div></div>
+<div class="pn" style="left:584pt;top:332pt;width:256pt;height:288pt;--edge:rgba(35,77,149,.95)"><img class="cv" src="assets/img/P028-4.jpg" alt="" style="object-position:50% 50%"><div class="pcap" style="left:8pt;bottom:8pt;width:240pt">At the far end of the lane, one of five small lights comes on. Its label says LIFT.</div></div>
 
 </div>
 <script>
