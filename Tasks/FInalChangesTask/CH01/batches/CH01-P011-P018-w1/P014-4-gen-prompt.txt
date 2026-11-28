@@ -1,0 +1,16 @@
+Use case: ChandRush CH01 comic panel P014-4: two-shot: Vihaan asks Tara which way the car will move.
+Asset: one square graphic-novel panel illustration, no lettering of any kind. The page crops with object-fit cover, keep the essential action inside the central 80%.
+Input images:
+- Image 1: approved raw background plate S01-D02. Keep its architecture, materials, colours and every object exactly as painted, same positions and shapes. Use the plate's close view of the controller (position strip, last-change window with -2, START, HOLD and CANCEL LAST CHANGE buttons with their plate labels, shelf, red lamps), gate jamb and one guard bar at left, the blue wall to the right. Same controller-side camera and feet as P014-2, a tighter two-shot of Vihaan (left) and Tara (right).
+- Image 2: character sheet of Vihaan. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Tara. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Vihaan: left, gaze on Tara, eyebrows lifted, asking; one open palm raised a little, hand clear of the controls.
+2. Tara: right, listening, no pointing; staff upright in her right hand; calm, wise.
+Props and states at this moment (exact): HOLD latched; the window reads -2 as painted; no destination indicated; no card being inserted
+Physical inscriptions (render exactly, nothing else): the plate's own labels exactly as painted, nothing else
+Lighting (exact): night, full moon, cool moonlight rim on edges. EVERY fixed Lantern Street lamp is switched OFF and dark with unlit glass: the wall sconce at the far left, all hanging and arch lanterns, stall lanterns and distant canopy lights (paint them unlit; change nothing else about them). The ONLY warm lights are the lift's single wall lamp beside the controller (lit, amber) and Ahana's portable brass lamp in her right hand. The small lamp hanging inside the lift car is OFF (dark).
+Reserved empty areas for lettering (keep calm, low detail, no face, hand or key prop inside): top-left about 60% wide x 20% high (heads stay below it).
+Composition: two faces fully visible in the middle band; the plate's controller softly behind them.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's lamps and moonlight. Tara is always a calm, wise old lady, never animated or cartoon-surprised. All human characters have fair skin. Hands have exactly five fingers.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or lettering of any kind except the plate's own inscriptions listed above; extra characters; extra, moved or invented background objects; any lit street lantern; the lamp inside the car lit; any other character; pointing.
