@@ -59,3 +59,13 @@ time	project	item	kind	via	text_in	image_in	output	est_usd
 2026-11-28T03:30:57	chandrush-ch01-panels	P018-2	gen	batch:CH01-P011-P018-w1	1100	6660	1756	0.0557
 2026-11-28T03:30:57	chandrush-ch01-panels	P018-3	gen	batch:CH01-P011-P018-w1	1026	6660	1756	0.0555
 2026-11-28T05:19:42	chandrush-ch01-panels	P013-2	fix	batch:CH01-P013-2-fix	189	1536	1372	0.0272
+2026-11-28T05:38:49	chandrush-ch01-panels	P028-1	gen	batch:CH01-P028-P030-w1	1435	6148	1372	0.0488
+2026-11-28T05:38:49	chandrush-ch01-panels	P028-2	gen	batch:CH01-P028-P030-w1	1036	5124	1372	0.0437
+2026-11-28T05:38:49	chandrush-ch01-panels	P028-3	gen	batch:CH01-P028-P030-w1	1337	6744	1372	0.0509
+2026-11-28T05:38:49	chandrush-ch01-panels	P028-4	gen	batch:CH01-P028-P030-w1	550	768	1756	0.0308
+2026-11-28T05:38:49	chandrush-ch01-panels	P029-1	gen	batch:CH01-P028-P030-w1	1264	6660	1372	0.0504
+2026-11-28T05:38:49	chandrush-ch01-panels	P029-3	gen	batch:CH01-P028-P030-w1	948	6660	1372	0.0496
+2026-11-28T05:38:49	chandrush-ch01-panels	P029-4	gen	batch:CH01-P028-P030-w1	1237	6744	1372	0.0506
+2026-11-28T05:38:49	chandrush-ch01-panels	P030-1	gen	batch:CH01-P028-P030-w1	1246	6660	1372	0.0503
+2026-11-28T05:38:49	chandrush-ch01-panels	P030-2	gen	batch:CH01-P028-P030-w1	613	768	1756	0.0309
+2026-11-28T05:38:49	chandrush-ch01-panels	P030-4	gen	batch:CH01-P028-P030-w1	1073	6660	1372	0.0499

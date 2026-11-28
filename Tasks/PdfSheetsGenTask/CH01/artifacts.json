@@ -176,5 +176,45 @@
   "pdf": "Output/CH01/CH01-P020.pdf",
   "design": "practice-set: pattern staircases",
   "version": "1795844088-e9f4"
+ },
+ "P011": {
+  "url": "https://claude.ai/artifact/CnUXhNnVZ95zsH22ZfuYCg",
+  "file_path": "PdfSheetsGenTask/CH01/P011/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P011.pdf",
+  "design": "dialogue-story: card choice",
+  "version": "1795844324-b7ac"
+ },
+ "P013": {
+  "url": "https://claude.ai/artifact/SvUBdEMsV2oHJrbWFH4sds",
+  "file_path": "PdfSheetsGenTask/CH01/P013/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P013.pdf",
+  "design": "action-story: rise, drop, hidden card",
+  "version": "1795844326-aa15"
+ },
+ "P014": {
+  "url": "https://claude.ai/artifact/WpgYsyvEBirV5grhouxgbm",
+  "file_path": "PdfSheetsGenTask/CH01/P014/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P014.pdf",
+  "design": "dialogue-story: cancel button",
+  "version": "1795844327-23c6"
+ },
+ "P017": {
+  "url": "https://claude.ai/artifact/EPZkqKZWfhapiwS5LgGGpn",
+  "file_path": "PdfSheetsGenTask/CH01/P017/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P017.pdf",
+  "design": "action-story: undo to 0",
+  "version": "1795844329-35e8"
+ },
+ "P018": {
+  "url": "https://claude.ai/artifact/R46ZxHPa3oieUnfwBEPepB",
+  "file_path": "PdfSheetsGenTask/CH01/P018/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P018.pdf",
+  "design": "dialogue-story: four wheels",
+  "version": "1795844330-c0e6"
  }
 }

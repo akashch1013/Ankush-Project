@@ -1090,64 +1090,235 @@
    ]
   },
   "P028-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "27ec94f42bc8",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "FInalChangesTask/CH01/out/P018-3.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0488
+    }
+   ],
+   "note": ""
   },
   "P028-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "bfc6f4a4bad0",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D04.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0437
+    }
+   ],
+   "note": ""
   },
   "P028-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "b03218ac04b6",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D05.png",
+      "FInalChangesTask/CH01/out/P017-5.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0509
+    }
+   ],
+   "note": ""
   },
   "P028-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "2e5723ee6a0e",
+     "refs": [
+      "BagroundGenTask/out/plates/S07-D02.png"
+     ],
+     "instruction": null,
+     "usd": 0.0308
+    }
+   ],
+   "note": ""
   },
   "P029-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "2e4e9b15218f",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0504
+    }
+   ],
+   "note": ""
   },
   "P029-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "3c58e82a41e7",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0496
+    }
+   ],
+   "note": ""
   },
   "P029-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "70efc474a0a0",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "FInalChangesTask/CH01/out/P017-5.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0506
+    }
+   ],
+   "note": ""
   },
   "P030-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "a7c611343b41",
+     "refs": [
+      "BagroundGenTask/out/plates/S03-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0503
+    }
+   ],
+   "note": ""
   },
   "P030-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "50747f169826",
+     "refs": [
+      "BagroundGenTask/out/plates/S03-B01.png"
+     ],
+     "instruction": null,
+     "usd": 0.0309
+    }
+   ],
+   "note": ""
   },
   "P030-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P028-P030-w1",
+     "at": "2026-11-28T05:38:49",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "e8aebf88f501",
+     "refs": [
+      "BagroundGenTask/out/plates/S03-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TEZ CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0499
+    }
+   ],
+   "note": ""
   }
  },
  "fix_queue": {}
