@@ -1391,7 +1391,7 @@
    ]
   },
   "V-TARA-P024": {
-   "status": "review",
+   "status": "approved",
    "attempts": [
     {
      "n": 1,
@@ -1408,7 +1408,14 @@
      "usd": 0.0275
     }
    ],
-   "note": ""
+   "note": "identity vs sheet, full figure, 5 fingers, keyed alpha clean on cream/navy",
+   "qc": [
+    {
+     "at": "2026-11-28T05:50:16",
+     "verdict": "pass",
+     "note": "identity vs sheet, full figure, 5 fingers, keyed alpha clean on cream/navy"
+    }
+   ]
   }
  },
  "fix_queue": {}

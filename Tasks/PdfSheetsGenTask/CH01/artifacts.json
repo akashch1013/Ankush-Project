@@ -247,7 +247,8 @@
   "math": "PASS 2026-11-28",
   "pdf": "Output/CH01/CH01-P024.pdf",
   "design": "worked-example: sign matrix + Tara Q02",
-  "version": "1795844650-352b"
+  "version": "1795845605-a068",
+  "note": "2026-11-28: clean Tara vignette V-TARA-P024 (user: cut-out not proper)"
  },
  "P025": {
   "url": "https://claude.ai/artifact/3nzkvGknzGEapF4LTqsj77",
@@ -296,5 +297,14 @@
   "pdf": "Output/CH01/CH01-P030.pdf",
   "design": "action-story: two catches hold the bird",
   "version": "1795844990-b971"
+ },
+ "P003": {
+  "url": "https://claude.ai/artifact/8E8NEiAWrDUFZr9BfELyY9",
+  "file_path": "PdfSheetsGenTask/CH01/P003/artifact.html",
+  "math": "PASS 2026-11-25 (s2 panels 3-4; strip +2..-8)",
+  "pdf": "Output/CH01/CH01-P003.pdf",
+  "design": "lift shaft: aubergine→amber, brass gate border (from art-direction-a1, client-approved)",
+  "version": "1795845643-d96c",
+  "note": "2026-11-28: page number only"
  }
 }
