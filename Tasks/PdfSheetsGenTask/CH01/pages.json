@@ -6237,6 +6237,93 @@
    }
   },
   {
+   "page": "P032",
+   "category": "concept",
+   "pattern": "free composition (hint only)",
+   "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+   "title": "1.2 Multiples and Factors",
+   "purpose": "teaching (T1.2A opener): factors, multiples and equal groups (see src headings).",
+   "beats": [
+    "P032"
+   ],
+   "panels": [
+    {
+     "id": "P032-1",
+     "beat": "T1.1A",
+     "box": "builder decides",
+     "art": {
+      "kind": "none",
+      "note": "teaching page: text, equations, exact SVG figures"
+     }
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.1",
+     "heading": "",
+     "text": [],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "1.2 Multiples and Factors",
+     "text": [
+      "When will two repeating events happen together? How can we split a collection into equal groups with nothing left over? Multiples and factors will help us answer those questions. Let’s start by counting in threes.",
+      "We get 3, 6, 9, 12, … . Each number comes from multiplying 3 by a positive whole number:",
+      "1 × 3 = 3;   2 × 3 = 6;   3 × 3 = 9;   4 × 3 = 12",
+      "These are multiples of 3.",
+      "Look along these two lists. The bold numbers turn up in both:",
+      "Multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, …",
+      "Multiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, …",
+      "12, 24 and 36 appear in both lists, so they are common multiples of 3 and 4. The smallest positive one is 12. We call it the least common multiple, or LCM.",
+      "We start at the first positive match. Zero is a multiple too—0 × 3 = 0 and 0 × 4 = 0—but it is not our LCM."
+     ],
+     "equations": [
+      "1 × 3 = 3",
+      "2 × 3 = 6",
+      "3 × 3 = 9",
+      "4 × 3 = 12"
+     ],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Example 8",
+     "text": [
+      "Find the LCM of 2, 3 and 5."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Let’s work it through",
+     "text": [
+      "We need the first positive number in all three lists. Let’s count in twos, threes and fives, without skipping a number:",
+      "Multiples of 2: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30",
+      "Multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30",
+      "Multiples of 5: 5, 10, 15, 20, 25, 30",
+      "For example, 6 appears in the 2-list and 3-list, but not the 5-list. We need a match in all three. The first is 30, so LCM(2, 3, 5) = 30. That notation means “the LCM of 2, 3 and 5”.",
+      "Check: 30 ÷ 2 = 15, 30 ÷ 3 = 10 and 30 ÷ 5 = 6. All divide exactly."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1C teaching pages (P021–P027) sit before the Lantern Street story resumes at P028; the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: only P024 (Tara, Q02) and P027 (Vihaan, Q03) have manuscript quotes. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct."
+  },
+  {
    "page": "P033",
    "category": "story-maths",
    "pattern": "free composition; nearest grid M3 (teaching column + story column)",
