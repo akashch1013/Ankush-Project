@@ -216,5 +216,61 @@
   "pdf": "Output/CH01/CH01-P018.pdf",
   "design": "dialogue-story: four wheels",
   "version": "1795844330-c0e6"
+ },
+ "P021": {
+  "url": "https://claude.ai/artifact/M6Xm2vfDu11PcuZVEABM4S",
+  "file_path": "PdfSheetsGenTask/CH01/P021/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P021.pdf",
+  "design": "worked-example: level tubes",
+  "version": "1795844646-0be2"
+ },
+ "P022": {
+  "url": "https://claude.ai/artifact/Mdd9dgzu7aTRqb95EiapiZ",
+  "file_path": "PdfSheetsGenTask/CH01/P022/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P022.pdf",
+  "design": "concept: pipe loops",
+  "version": "1795844647-47f8"
+ },
+ "P023": {
+  "url": "https://claude.ai/artifact/Woi91Wpm34RU8vXM4EsnPm",
+  "file_path": "PdfSheetsGenTask/CH01/P023/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P023.pdf",
+  "design": "diagram-led: calculator investigation",
+  "version": "1795844649-47e3"
+ },
+ "P024": {
+  "url": "https://claude.ai/artifact/YYK8QYXJ4KFmo6CB5KFAVM",
+  "file_path": "PdfSheetsGenTask/CH01/P024/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P024.pdf",
+  "design": "worked-example: sign matrix + Tara Q02",
+  "version": "1795844650-352b"
+ },
+ "P025": {
+  "url": "https://claude.ai/artifact/3nzkvGknzGEapF4LTqsj77",
+  "file_path": "PdfSheetsGenTask/CH01/P025/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P025.pdf",
+  "design": "practice-set: ruler",
+  "version": "1795844652-9695"
+ },
+ "P026": {
+  "url": "https://claude.ai/artifact/1J4f3JfPNVdDZUghZwAja6",
+  "file_path": "PdfSheetsGenTask/CH01/P026/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P026.pdf",
+  "design": "practice-set: bracket caskets",
+  "version": "1795844654-394a"
+ },
+ "P027": {
+  "url": "https://claude.ai/artifact/9hC9MEZWCH81JgDMHjCx8x",
+  "file_path": "PdfSheetsGenTask/CH01/P027/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P027.pdf",
+  "design": "word problems: balance + Vihaan Q03",
+  "version": "1795844655-801b"
  }
 }
