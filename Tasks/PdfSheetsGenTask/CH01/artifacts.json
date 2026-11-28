@@ -96,5 +96,45 @@
   "design": "category reference: story-maths (P107 story family + B1 panes)",
   "version": "1795697977-db34",
   "note": "2026-11-26 v2: fixed page mark bottom-right"
+ },
+ "P006": {
+  "url": "https://claude.ai/artifact/Ef9URbxoAtFvqj1BiW1jxk",
+  "file_path": "PdfSheetsGenTask/CH01/P006/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P006.pdf",
+  "design": "concept: lift buttons + −10…10 line",
+  "version": "1795833671-4359"
+ },
+ "P007": {
+  "url": "https://claude.ai/artifact/PbQagA4tS8hKZ2ed93xSNC",
+  "file_path": "PdfSheetsGenTask/CH01/P007/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P007.pdf",
+  "design": "diagram-led: lift-shaft gauges",
+  "version": "1795833835-f3ab"
+ },
+ "P008": {
+  "url": "https://claude.ai/artifact/NkvTXJaQ4Xzgnv88RL3AUC",
+  "file_path": "PdfSheetsGenTask/CH01/P008/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P008.pdf",
+  "design": "worked-example: drum-window counter + Vihaan Q01",
+  "version": "1795833537-d740"
+ },
+ "P009": {
+  "url": "https://claude.ai/artifact/BCgo6yG3ctmFYiD1fp6vjB",
+  "file_path": "PdfSheetsGenTask/CH01/P009/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P009.pdf",
+  "design": "diagram-led: twin pattern ledgers",
+  "version": "1795833836-8250"
+ },
+ "P010": {
+  "url": "https://claude.ai/artifact/GR3hyMcuFLdUAPqXmePfnY",
+  "file_path": "PdfSheetsGenTask/CH01/P010/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P010.pdf",
+  "design": "worked-example: moonlit hop strips + calculator (−) key",
+  "version": "1795833837-d3fe"
  }
 }
