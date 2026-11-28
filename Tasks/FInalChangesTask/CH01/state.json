@@ -1389,6 +1389,12 @@
      "note": "contact sheet QC: identities, counts, lamp states, no lettering; zoom on Tara, P030 catches"
     }
    ]
+  },
+  "V-TARA-P024": {
+   "status": "queued",
+   "attempts": [],
+   "note": "",
+   "prev_status": "todo"
   }
  },
  "fix_queue": {}

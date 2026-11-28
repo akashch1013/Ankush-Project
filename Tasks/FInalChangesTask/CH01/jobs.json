@@ -478,6 +478,14 @@
    ],
    "size": "1536x1024",
    "quality": "high"
+  },
+  "V-TARA-P024": {
+   "prompt": "prompts/V-TARA-P024.md",
+   "refs": [
+    "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+   ],
+   "size": "1024x1536",
+   "quality": "high"
   }
  }
 }
