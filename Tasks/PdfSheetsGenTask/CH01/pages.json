@@ -6237,6 +6237,306 @@
    }
   },
   {
+   "page": "P031",
+   "category": "dialogue-story",
+   "pattern": "free composition: one tall portrait column at left (Tara presenting the strip, full height) + right column of a wide speaker panel over its zoom; the uninterrupted vertical gutter makes the reading order 1 (left) then 2, 3 (right, top to bottom)",
+   "theme": "story page, timing-bench border family (cream marble lip, brass rail, blue lacquer)",
+   "title": "",
+   "purpose": "story: Tara shows the timing strip (blue catch every 4 beats, gold every 6, start card wrongly at 6); Ahana states that both catches must be up; Vihaan asks when the two patterns first meet. Leads straight into T1.2A on P032.",
+   "beats": [
+    "CH01 05C A",
+    "CH01 05C B",
+    "CH01 05C C"
+   ],
+   "panels": [
+    {
+     "id": "P031-1",
+     "beat": "CH01 05C A",
+     "box": [
+      24,
+      24,
+      300,
+      596
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P031-1",
+      "size": "1024x1536"
+     },
+     "background": {
+      "record": "S03-B01",
+      "plate": "BagroundGenTask/out/plates/S03-B01.png",
+      "camera": "portrait close of Tara from the aisle at the device's right side: Tara large in the right half, half-turned to the wall beat strip behind the bench; the strip, the bird at its start mark, blue catch and gold catch (both down), the start card and the cream bench lip receding to the left of her; low enough that Tez's back and the paving show at the bottom"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "right half, standing in the aisle beside the bench lip near the counter",
+       "action": "presents the beat strip with her open free LEFT hand",
+       "gaze": "the strip",
+       "expression": "calm, wise, gently instructive",
+       "holding": "staff upright (right hand)"
+      },
+      {
+       "name": "Navya",
+       "position": "lower-left foreground at the bench lip (head, shoulders, hands)",
+       "action": "reads the 6-beat pattern, hands resting flat on a blank cream sheet on the lip",
+       "gaze": "the strip",
+       "expression": "focused",
+       "holding": "blank cream sheet (both hands resting on it)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "left edge, behind Navya (head and shoulders)",
+       "action": "reads the 4-beat pattern",
+       "gaze": "the strip",
+       "expression": "curious",
+       "holding": "-"
+      },
+      {
+       "name": "Ahana",
+       "position": "left edge, partly cropped",
+       "action": "holds the lamp up so the strip is readable",
+       "gaze": "the strip",
+       "expression": "intent",
+       "holding": "brass lamp (right hand)"
+      },
+      {
+       "name": "Tez",
+       "position": "bottom, on the paving at the bench foot",
+       "action": "sits beside the bench",
+       "gaze": "the bird",
+       "expression": "attentive",
+       "holding": "-"
+      }
+     ],
+     "props_state": [
+      "one carved bird upright on one platform at its start mark",
+      "both catches down at rest; blue and gold catch lamps OFF",
+      "start card reads 6 (plate's own card)",
+      "counter idle, blank display",
+      "cycle plates blue 4 / gold 6 (plate's own)",
+      "wall beat strip unfilled: only the plate's printed 1-16, nothing highlighted",
+      "blank cream sheet on the lip in front of the card slot (no writing)",
+      "bench task lamp OFF; Ahana's lamp is the warm key",
+      "helper and its cart just out of frame left, beside the bench"
+     ],
+     "painted_text": [
+      "6 (start card, plate inscription)",
+      "4 / 6 (cycle plates, plate inscription)",
+      "1-16 on the beat strip (plate inscription)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top, over the dark blue wall and banner above Tara's head (strip, bird and faces clear)",
+       "w": 0.92,
+       "h": 0.22
+      }
+     ],
+     "captions": [
+      "Tara shows the children the timing strip. The blue catch opens every four beats. The gold one opens every six. A card tells the bird to start moving at beat six, when only one catch is clear."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P031-2",
+     "beat": "CH01 05C B",
+     "box": [
+      332,
+      24,
+      508,
+      300
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P031-2",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S03-B01",
+      "plate": "BagroundGenTask/out/plates/S03-B01.png",
+      "camera": "the plate's front three-quarter view, pulled back half a step and slightly lower; the whole bird rail, both catches, card slot, counter and beat strip as painted; children in the aisle along the near lip; attach P031-1 as the continuity reference"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "left-centre, in front of the two catches",
+       "action": "points with her free LEFT hand at the gap between the blue and the gold catch and speaks",
+       "gaze": "the catches, then the group",
+       "expression": "certain, thoughtful",
+       "holding": "brass lamp held steady (right hand)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "right-centre, beside the right half of the wall strip",
+       "action": "listens; his index finger hovers beside the timing rows without touching any number (never at 12); his gaze turns from the strip towards the group",
+       "gaze": "from the strip to Ahana and the group",
+       "expression": "thinking",
+       "holding": "-"
+      },
+      {
+       "name": "Navya",
+       "position": "centre-right, at the lip",
+       "action": "listens",
+       "gaze": "Ahana",
+       "expression": "attentive",
+       "holding": "both hands resting on the blank cream sheet"
+      },
+      {
+       "name": "Tara",
+       "position": "far right, beside the counter",
+       "action": "has lowered her showing hand slightly; listens",
+       "gaze": "Ahana",
+       "expression": "calm, wise",
+       "holding": "staff upright (right hand)"
+      },
+      {
+       "name": "Tez",
+       "position": "lower-left foreground on the paving",
+       "action": "sits beside the bench",
+       "gaze": "Ahana",
+       "expression": "curious",
+       "holding": "-"
+      }
+     ],
+     "props_state": [
+      "nothing moves: bird at its start mark, both catches down, catch lamps OFF",
+      "start card 6; counter blank",
+      "beat strip unfilled, nothing highlighted",
+      "blank sheet still blank",
+      "bench task lamp OFF; Ahana's lamp warm",
+      "helper and cart just out of frame left",
+      "feet and Tez on the paving"
+     ],
+     "painted_text": [
+      "6 (start card, plate inscription)",
+      "4 / 6 (cycle plates, plate inscription)",
+      "1-16 on the beat strip (plate inscription)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left, over the blue wall above Ahana (strip's left end may be partly covered; faces clear)",
+       "w": 0.36,
+       "h": 0.22
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "Both catches need to be up when it starts.",
+       "where": "upper-left",
+       "tail_to": "Ahana's mouth"
+      }
+     ]
+    },
+    {
+     "id": "P031-3",
+     "beat": "CH01 05C C",
+     "box": [
+      332,
+      332,
+      508,
+      288
+     ],
+     "art": {
+      "kind": "zoom",
+      "of": "P031-2",
+      "focus": [
+       0.7,
+       0.42
+      ],
+      "z": 1.4,
+      "note": "Vihaan's face and hovering finger beside the timing rows, Navya beside him; Ahana's pointing arm cropped out at the left edge. Accepted deviation: Vihaan's pose and gaze carry over from P031-2 (painted there already turning to the group), so no new image"
+     },
+     "characters": [
+      {
+       "name": "Vihaan",
+       "position": "centre",
+       "action": "finger hovering beside the timing rows, no beat written",
+       "gaze": "from the strip to the group",
+       "expression": "puzzled, keen",
+       "holding": "-"
+      },
+      {
+       "name": "Navya",
+       "position": "right",
+       "action": "holds her place",
+       "gaze": "Vihaan",
+       "expression": "attentive",
+       "holding": "blank sheet"
+      }
+     ],
+     "props_state": [
+      "strip unfilled, no solved beat",
+      "catches down; start card 6 if in crop"
+     ],
+     "reserve": [
+      {
+       "for": "bubble",
+       "where": "upper-left, over the blue wall and strip edge (Vihaan's face clear)",
+       "w": 0.4,
+       "h": 0.26
+      }
+     ],
+     "captions": [],
+     "bubbles": [
+      {
+       "speaker": "Vihaan",
+       "text": "When do the two opening patterns first meet?",
+       "where": "upper-left",
+       "tail_to": "Vihaan's mouth"
+      }
+     ]
+    }
+   ],
+   "equations": [],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Scene CH01 05C (heading non-printing). Continuity from P030: both catches back at rest, start card 6, bird at its start mark; the blank cream sheet under Navya's hands is the same working strip on which the lists are written on P033. No 12 is shown or highlighted anywhere (plate strip's printed 1-16 only); Vihaan's finger never touches a number. The cycles stay 4 and 6. Reading order is set by the full-height vertical gutter at x 324-332: left column (P031-1), then the right column top to bottom; keep the horizontal gutter in the right column only. Raster: P031-1 1024x1536 at 300x596 pt is 185-245 ppi; P031-2 crop 1536x907 at 508 pt is about 218 ppi; P031-3 zoom z 1.4 is about 155 ppi (story zoom, accepted range). Category dialogue-story: varies from P029 (last dialogue-story) by using a tall portrait column instead of a row grid. Same full-moon night. Lantern Street fixed lamps all OFF (wall sconces, hanging and arch lanterns, distant canopy/stall lights) and the bench task lamp above the bench OFF (plates paint it lit: switch it off in the prompt, change nothing else). Only warm light: Ahana's portable brass lamp (right hand), plus the small blue/gold catch lamps exactly as the state requires. Cool moonlight rims roofs and edges; main arches dark; moonline metallic, unlit. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised. Ahana's portable brass lamp is always in her RIGHT hand. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb; when in frame attach the accepted helper panel P017-5 (or P030-1) as its look reference. Helper stays out of frame on this page (beside the bench, cart at left). Balloons and captions sit ON the art (never in gutters), boxes off faces, reading order = manuscript order. Gutters 8 pt; all panels inside x 24-840, y 24-620 (page-mark zone x 560-820, y 624-648 clear). Never alter or add plate objects; stage inside the plate as painted. Plate inscriptions stay as painted; any other number is HTML overlay on a blank surface. No lettering painted into new art.",
+   "art": {
+    "idea": "Tara lays the problem out like a conductor: two counting patterns, one wrong start. A tall hero portrait of Tara beside the beat strip, then two quick answers from Ahana and Vihaan: the question the next page answers.",
+    "structure": "Grid as planned: tall P031-1 [24,24,300,596]; right column P031-2 [332,24,508,300] over P031-3 [332,332,508,288]. Gutters 8 pt, square corners, 1 pt brass hairline. Ground: deep bottle-green ink (#0c2a22 top to #050f0d bottom) with one thin warm amber lift along the bottom edge; a 5 pt pale marble band (#e8dfcb at 40 percent) along the left edge of P031-1 only, with brass corner caps and one small blue and one small gold stud at its foot (decorative, never counted). Keep .pagemark clear.",
+    "scene": {
+     "plate": "BagroundGenTask/out/plates/S03-B01.png (P031-1, P031-2 new panel art on it; P031-3 is a free zoom of P031-2)",
+     "grade": "night; Lantern Street fixed lamps OFF (sconces, bench and street task lamps, arch and hanging lanterns, distant canopy lights). The bench task lamp above the timing bench is OFF (the plate shows it lit: switch it off, change nothing else). Ahana's right-hand brass lamp is the key light. Cool moon rim on roofs and edges. Never alter plate objects. Both catch lamps OFF, both catches down, start card as painted (6). Wall and lacquer stay deep blue; the bottle-green ground lives only in gutters and border, so the blue wall pops against it.",
+     "mirror": false,
+     "blank": [
+      "no 12 anywhere; the plate's printed 1-16 strip stays as painted and nothing is highlighted",
+      "counter display blank"
+     ],
+     "crop": "P031-1 portrait, Tara large in right half, strip behind her receding left; P031-2 wide crop of the aisle; P031-3 z 1.4 on Vihaan and Navya. No timing drums, one bird, one platform."
+    },
+    "panes": {
+     "P031-1": "caption 'Tara shows the children the timing strip...' light matte box (cream #F7F1E3, ink text) at top over the dark blue wall above Tara's head, faces and strip clear",
+     "P031-2": "white balloon 'Both catches need to be up when it starts.' upper-left over the wall, tail to Ahana's mouth",
+     "P031-3": "white balloon 'When do the two opening patterns first meet?' upper-left, tail to Vihaan's mouth",
+     "reading order": "1 caption, 2 balloon, 3 balloon"
+    },
+    "hero": "P031-1: Tara, staff in her right hand, open left hand presenting the beat strip, with the blue and gold catches both down behind her.",
+    "illustrate": "All maths is the plate's own device: blue interval 4, gold interval 6, start card 6, strip unfilled. No printed answer, no highlight, Vihaan's finger never touches a number.",
+    "cast": "Tall-column entry: Tara standing full-height and calm in the aisle (a presenter's pose), Navya and Vihaan low at the lip in the foreground with Ahana's lamp raised at the left edge; then P031-2 Ahana pointing at the gap between the catches, Tez seated on the paving. Different from P030: people first, device behind.",
+    "colour": "Cool bottle-green ground and deep blue wall against one amber lamp pool on the strip; blue (4) and gold (6) catch colours as the only accents. Ground #0c2a22, blue #3b6fd8, gold #f7c684, marble #e8dfcb.",
+    "panel_notes": {
+     "P031-1": "grade: cool moonlit night, Ahana's lamp warm on the strip and Tara's raised hand, both catch lamps unlit, bird at start mark, Tara calm and unhurried, low-key rim light on her staff",
+     "P031-2": "grade: medium-wide, same night, gold-warm pool on the bench front and Ahana's pointing hand, both catches down and unlit, strip unfilled, Tez on paving lower left",
+     "P031-3": "zoom of P031-2: Vihaan's thoughtful face lit by the lamp edge, Navya beside him, no number touched"
+    },
+    "delights": [
+     "The border's blue and gold studs sit in the same left-right order as the catches.",
+     "Navya's blank cream sheet under her hands is the very strip the next pages fill.",
+     "One thin moon-rim line runs the length of Tara's staff, matching the brass rail."
+    ],
+    "folio": ".pagemark standard, ring brass, coin bottle-green.",
+    "varies": "vs P030 (indigo-violet, wide+tall) and P029 (petrol): bottle-green ground, one tall portrait column left, people-first entry, marble band on the side not the bottom."
+   }
+  },
+  {
    "page": "P032",
    "category": "concept",
    "pattern": "free composition (hint only)",
@@ -6321,7 +6621,41 @@
    ],
    "asides": [],
    "spot_art": [],
-   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1C teaching pages (P021–P027) sit before the Lantern Street story resumes at P028; the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: only P024 (Tara, Q02) and P027 (Vihaan, Q03) have manuscript quotes. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct."
+   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1C teaching pages (P021–P027) sit before the Lantern Street story resumes at P028; the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: only P024 (Tara, Q02) and P027 (Vihaan, Q03) have manuscript quotes. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct.",
+   "art": {
+    "idea": "Two punched brass tapes run side by side through a reader, one with a hole at every multiple of 3, one at every multiple of 4. Where holes line up, a gold pin drops through: the first such stop is 12. It is the bench's timing from P031 turned into a lesson, and a picture of 'common multiples'.",
+    "structure": "B1 calm cream (#F7F1E3) ground. No glass over scene. Border (plate material from S03-B01, the timing bench): a 14 pt frame built as a pale marble band (#e8dfcb) with an inner brass rail line (#d6a64e, 1.2 pt) and a blue-lacquer inner edge (#234d95, 2 pt); brass corner caps; a row of tiny round brass studs along the top rail only, irregular (decorative, never beside the hero; 6 pt spacing different from the hero's 21 pt slots). Heading '1.2 Multiples and Factors' in the type of manual V09, with one tracked-caps cue. Text on calm cream; example question on .glass.marble-equivalent light card with brass hairline; worked steps on a slightly darker cream inset; Example 8 and its lists keep the V09 maths colours. Hero band sits between the two-lists paragraph and the LCM paragraph, full text width.",
+    "scene": {
+     "plate": "none (teaching page); border texture may be a small crop of S03-B01 marble and brass rail used at 30 percent in the band",
+     "grade": "n/a",
+     "mirror": false,
+     "blank": [],
+     "crop": "n/a"
+    },
+    "panes": {
+     "opener": "cream pane with the two questions and 'Let's start by counting in threes'",
+     "multiples of 3": "equation line '1 x 3 = 3; ...' on cream",
+     "two lists": "cream, bold shared numbers 12, 24, 36",
+     "hero band": "after the two lists and before the common-multiples sentence",
+     "Example 8": "light marble question card first, then 'Let's work it through' on the darker cream inset below it",
+     "answer": "Check line last",
+     "reading order": "opener, threes, lists, hero, LCM sentence and zero note, Example 8 question, worked steps, check"
+    },
+    "hero": "Twin punched tapes: two horizontal brass-edged tapes (ink-black tape with punched holes) running through a small brass reader, drawn painterly in exact SVG.",
+    "illustrate": "Exact SVG, band 756 pt wide (36 slots at 21 pt), one slot per whole number 1 to 36, a thin brass tick at every slot and a label every 6 slots only (6, 12, 18, 24, 30, 36) in tracked small caps. Top tape (label 'MULTIPLES OF 3' taken from the text, V09 teal) has holes exactly at 3,6,9,...,36 (12 holes). Bottom tape ('MULTIPLES OF 4', terracotta) has holes exactly at 4,8,...,36 (9 holes). Shared holes at 12, 24 and 36 are joined by a gold pin (#f5c86a) with a soft glow dropping through both tapes; the pin at 12 is larger and carries the small label 'LCM' (the manuscript term). No other highlight, no zero hole drawn (zero is outside the band). Holes are painterly bevelled circles, tapes slightly curled at both ends.",
+    "cast": "No cast (teaching page without a manuscript quote).",
+    "colour": "Cream, brass and blue lacquer; teal for threes, terracotta for fours (V09 pair), gold only for the shared pins. Tape ink #141b30, teal #1f7a78, terracotta #a3561c, gold #f5c86a, brass #d6a64e.",
+    "panel_notes": {
+     "P032-1": "no panel art; SVG hero only"
+    },
+    "delights": [
+     "The tapes' left ends curl off the page edge as if the strip keeps running, matching the '...' in the lists.",
+     "The gold pin throws a faint warm shadow on the cream under the band; nothing else on the page glows.",
+     "The marble border's blue inner edge is slightly darker at the corner nearest the hero, like lacquer catching a lamp."
+    ],
+    "folio": ".pagemark standard, ring brass, coin blue lacquer.",
+    "varies": "vs P027 balance, P025 ruler, P023 calculator, P022 pipes, P021 tubes, P019 racks: a horizontal paired punched-tape reader (two tracks with a coincidence pin), blue-lacquer and marble border rather than navy and brass plate."
+   }
   },
   {
    "page": "P033",
@@ -6615,6 +6949,717 @@
     ],
     "folio": "brass-coin folio, moon 33/108; label `CHAPTER 01 - NUMBERS - PG 033` in small tracked caps, brass on the lower border rail, left of the folio coin",
     "varies": "only page with cream maths cards plus a story column; ground is warm walnut, not blue or aubergine."
+   }
+  },
+  {
+   "page": "P034",
+   "category": "action-story",
+   "pattern": "free composition: medium set-up panel at top-left beside a stacked pair of identical device frames (beat 12 / end stop), then a wide low Tez panel beside a small readiness-board insert",
+   "theme": "story page, timing-bench border family (cream marble lip, brass rail, blue and gold catch studs)",
+   "title": "",
+   "purpose": "story: the start card is set to 12 and Tara starts the counter; at beat 12 both catches rise, the platform slides to its end stop and the bird bows; Tez bows back; RHYTHM lights beside LIFT on the cube-end board.",
+   "beats": [
+    "CH01 05D D",
+    "CH01 05E A",
+    "CH01 05E B",
+    "CH01 05E C",
+    "CH01 05E D"
+   ],
+   "panels": [
+    {
+     "id": "P034-1",
+     "beat": "CH01 05D D",
+     "box": [
+      24,
+      24,
+      410,
+      348
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P034-1",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S03-D01",
+      "plate": "BagroundGenTask/out/plates/S03-D01.png",
+      "camera": "the plate's three-quarter view pulled back to a medium and slightly lower so the cast stands in the aisle along the near lip; start-card slot, counter, rail and both catches as painted; crop to the left two-thirds in the layout (box aspect 1.18). State changes from the plate: both catches DOWN, both catch lamps OFF, counter display blank (run just starting); the start card keeps the plate's own 12. Attach P033-4 as the cast/continuity reference"
+     },
+     "characters": [
+      {
+       "name": "Navya",
+       "position": "left-centre at the lip by the card slot",
+       "action": "has just set the start card in its slot; her hand lifts away from it",
+       "gaze": "the card",
+       "expression": "quietly satisfied",
+       "holding": "-"
+      },
+      {
+       "name": "Vihaan",
+       "position": "left, beside Navya",
+       "action": "watches the card go in",
+       "gaze": "the card",
+       "expression": "eager",
+       "holding": "blue pencil"
+      },
+      {
+       "name": "Ahana",
+       "position": "behind Navya and Vihaan",
+       "action": "lights the card slot and counter",
+       "gaze": "the counter",
+       "expression": "intent",
+       "holding": "brass lamp (right hand)"
+      },
+      {
+       "name": "Tara",
+       "position": "right, at the counter on the bench lip",
+       "action": "presses the counter's start with her free LEFT hand (frozen at the press)",
+       "gaze": "the bird",
+       "expression": "calm, wise",
+       "holding": "staff upright (right hand)"
+      },
+      {
+       "name": "Tez",
+       "position": "lower-left on the paving by the bench",
+       "action": "waits, looking up",
+       "gaze": "the bird",
+       "expression": "expectant",
+       "holding": "-"
+      }
+     ],
+     "props_state": [
+      "start card now 12 (plate S03-D01's own card)",
+      "bird upright at its original start mark",
+      "both catches DOWN; blue and gold catch lamps OFF",
+      "counter display blank, just started",
+      "cycle plates still blue 4 / gold 6",
+      "the cream working strip from P033 lies on the lip beyond the card slot, writing side not readable here",
+      "bench task lamp OFF; Ahana's lamp warm",
+      "helper and cart nearby, out of frame"
+     ],
+     "painted_text": [
+      "12 (start card, plate inscription of S03-D01)",
+      "4 / 6 (cycle plates, plate inscription)",
+      "1-16 on the beat strip (plate inscription)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left, over the blue wall and banner left of the beat strip (card, counter, bird and faces clear)",
+       "w": 0.5,
+       "h": 0.27
+      }
+     ],
+     "captions": [
+      "They set the start card to twelve. The bird is still at its mark. Tara starts the counter."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P034-2",
+     "beat": "CH01 05E A",
+     "box": [
+      442,
+      24,
+      398,
+      170
+     ],
+     "art": {
+      "kind": "plate",
+      "image": "BagroundGenTask/out/plates/S03-D01.png",
+      "focus": [
+       0.5,
+       0.62
+      ],
+      "z": 1.0,
+      "note": "free: the raw plate is exactly this state (counter 12, card 12, both catches raised, both catch lamps on, bird at the start mark). Cover-crop the full width, rows about 258-695 px, so the lit bench task lamp at the top is OUT of frame and the beat strip sits just above the top edge; about 185 ppi"
+     },
+     "background": {
+      "record": "S03-D01",
+      "plate": "BagroundGenTask/out/plates/S03-D01.png",
+      "camera": "same as plate, cropped as noted"
+     },
+     "characters": [],
+     "props_state": [
+      "both catches raised together; blue and gold catch lamps on",
+      "platform and bird still at the start mark, just ready to leave",
+      "counter 12, start card 12 (plate's own)",
+      "one bird, one platform"
+     ],
+     "painted_text": [
+      "12 (counter and start card, plate inscription)",
+      "4 / 6 (cycle plates, plate inscription)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "lower-right, over the cream bench front right of the counter (bird, catches and both 12s clear)",
+       "w": 0.38,
+       "h": 0.32
+      }
+     ],
+     "captions": [
+      "At beat twelve, both catches rise."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P034-3",
+     "beat": "CH01 05E B",
+     "box": [
+      442,
+      202,
+      398,
+      170
+     ],
+     "art": {
+      "kind": "plate",
+      "image": "BagroundGenTask/out/plates/S03-D02.png",
+      "focus": [
+       0.5,
+       0.62
+      ],
+      "z": 1.0,
+      "note": "free: the raw plate S03-D02 has the same camera as S03-D01 with the platform at the end stop and the bird bowed; use the identical crop to P034-2 so the pair reads as one frame in two states; no motion duplicate at the start"
+     },
+     "background": {
+      "record": "S03-D02",
+      "plate": "BagroundGenTask/out/plates/S03-D02.png",
+      "camera": "same as plate, identical crop to P034-2"
+     },
+     "characters": [],
+     "props_state": [
+      "platform stopped forward at the end stop; bird bowed at its neck hinge",
+      "start position empty",
+      "both catches still raised, catch lamps on",
+      "counter 12, start card 12 (plate's own)"
+     ],
+     "painted_text": [
+      "12 (counter and start card, plate inscription)",
+      "4 / 6 (cycle plates, plate inscription)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "lower-left, over the cream bench front below the card slot and left of the counter (end stop and bird clear)",
+       "w": 0.46,
+       "h": 0.4
+      }
+     ],
+     "captions": [
+      "The bird’s little platform slides forward and stops. The bird bows."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P034-4",
+     "beat": "CH01 05E C",
+     "box": [
+      24,
+      380,
+      560,
+      240
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P034-4",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S03-D02",
+      "plate": "BagroundGenTask/out/plates/S03-D02.png",
+      "camera": "low medium from the paving at the near lip, wide (box aspect 2.33): the stopped bird at the end stop on the right, the card slot with the plate's 12 at left; bench lip across the frame; attach P034-1 or P033-4 as the cast continuity reference"
+     },
+     "characters": [
+      {
+       "name": "Tez",
+       "position": "centre-left foreground on the paving",
+       "action": "bows back towards the stopped bird: forelegs flexed, front paws grounded, head lowered",
+       "gaze": "the bird",
+       "expression": "solemn, polite",
+       "holding": "-"
+      },
+      {
+       "name": "Ahana",
+       "position": "left, behind Tez",
+       "action": "smiles at Tez",
+       "gaze": "Tez",
+       "expression": "delighted",
+       "holding": "brass lamp (right hand)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "centre, at the lip",
+       "action": "watches the successful stop",
+       "gaze": "the bird",
+       "expression": "pleased",
+       "holding": "-"
+      },
+      {
+       "name": "Navya",
+       "position": "centre-right, at the lip",
+       "action": "watches the successful stop",
+       "gaze": "the bird",
+       "expression": "pleased",
+       "holding": "-"
+      },
+      {
+       "name": "Tara",
+       "position": "right, at the counter",
+       "action": "stays at the counter",
+       "gaze": "the children and Tez",
+       "expression": "calm, wise, a faint smile",
+       "holding": "staff upright (right hand)"
+      }
+     ],
+     "props_state": [
+      "platform at its end stop, bird bowed",
+      "start card 12 and counter 12 (plate's own)",
+      "both catches raised, catch lamps on",
+      "bench task lamp OFF; Ahana's lamp warm",
+      "helper waits beside its cart, out of frame",
+      "whole street still unlit"
+     ],
+     "painted_text": [
+      "12 (start card and counter, plate inscription)",
+      "4 / 6 (cycle plates, plate inscription)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left, over the blue wall above Ahana (faces clear)",
+       "w": 0.22,
+       "h": 0.16
+      }
+     ],
+     "captions": [
+      "Tez bows back."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P034-5",
+     "beat": "CH01 05E D",
+     "box": [
+      592,
+      380,
+      248,
+      240
+     ],
+     "art": {
+      "kind": "reuse",
+      "image": "FInalChangesTask/CH01/out/P028-4.png",
+      "focus": [
+       0.5,
+       0.48
+      ],
+      "z": 1.1,
+      "overlay": "HTML/CSS lit-glass glow on the RHYTHM indicator (second from top) matching LIFT's white glow; the other three stay dark",
+      "fallback": {
+       "kind": "new",
+       "item": "P034-5",
+       "size": "1024x1024",
+       "note": "only if the overlay looks pasted: one Batch edit of P028-4 lighting RHYTHM white, changing nothing else"
+      }
+     },
+     "background": {
+      "record": "S07-D02",
+      "plate": "BagroundGenTask/out/plates/S07-D02.png",
+      "camera": "P028-4's framing: the five-light panel with a narrow rim of blue wall, the raised handle at right"
+     },
+     "characters": [],
+     "props_state": [
+      "LIFT and RHYTHM white; SUPPLIES, MIRROR and CUBE dark",
+      "handle raised at its start position",
+      "lamp above the handle OFF; arches dark; moonline unlit",
+      "no people (the group is at the timing bench elsewhere along the lane)"
+     ],
+     "painted_text": [
+      "LIFT, RHYTHM, SUPPLIES, MIRROR, CUBE (board labels, existing art inscriptions)"
+     ],
+     "overlay_text": [],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "bottom, over the paving below the board (labels and lights clear)",
+       "w": 0.9,
+       "h": 0.22
+      }
+     ],
+     "captions": [
+      "RHYTHM lights up beside LIFT."
+     ],
+     "bubbles": []
+    }
+   ],
+   "equations": [],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Scenes CH01 05D D and CH01 05E (headings non-printing). Continuity: P033 ended with card still 6, bird stationary, catches down, Navya at the strip; here the card is 12 (manuscript reveals it in P034-1's caption) and catches stay down until P034-2. The cycles stay 4 and 6 (cycle plates unchanged); never show a cycle of twelve. One bird, one platform; motion only by separate stills. P034-2 and P034-3 are the free raw plates S03-D01 and S03-D02 with one identical crop that excludes the plate's lit bench task lamp; their warm marble reads as Ahana's lamp just off frame (as in P030-2). P034-5 reuses P028-4 (LIFT white) with a CSS glow on RHYTHM; fallback is one small Batch edit. New images on this page: 2 (P034-1, P034-4). Reading order: P034-1, then the stacked pair P034-2 over P034-3, then P034-4, P034-5. Raster: P034-1 crop 1208x1024 at 410 pt about 212 ppi; plate crops 1024 px at 398 pt about 185 ppi; P034-4 crop 1536x658 at 560 pt about 197 ppi; P034-5 about 250 ppi. Category action-story: vary from P030 (wide+tall over small+wide, indigo-violet, marble-lip border): different grid (stacked twin strip), different ground and border. Same full-moon night. Lantern Street fixed lamps all OFF (wall sconces, hanging and arch lanterns, distant canopy/stall lights) and the bench task lamp above the bench OFF (plates paint it lit: switch it off in the prompt, change nothing else). Only warm light: Ahana's portable brass lamp (right hand), plus the small blue/gold catch lamps exactly as the state requires. Cool moonlight rims roofs and edges; main arches dark; moonline metallic, unlit. Catch lamps: off in P034-1, on from P034-2. Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised. Ahana's portable brass lamp is always in her RIGHT hand. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb; when in frame attach the accepted helper panel P017-5 (or P030-1) as its look reference. Balloons and captions sit ON the art (never in gutters), boxes off faces, reading order = manuscript order. Gutters 8 pt; all panels inside x 24-840, y 24-620 (page-mark zone x 560-820, y 624-648 clear). Never alter or add plate objects; stage inside the plate as painted. Plate inscriptions stay as painted; any other number is HTML overlay on a blank surface. No lettering painted into new art.",
+   "art": {
+    "idea": "The payoff. A start card is set, a hand presses the counter, and at the twelfth beat both catches rise together so the bird glides to its stop and bows; Tez bows back, and a second light wakes on the cube-end board. Stillness, then one clean motion in two stacked frames.",
+    "structure": "Grid as planned: P034-1 [24,24,410,348] left; stacked pair P034-2 [442,24,398,170] over P034-3 [442,202,398,170]; below, P034-4 [24,380,560,240] beside small P034-5 [592,380,248,240]. Gutters 8 pt, square corners, 1 pt brass hairline. Ground: near-black ink (#07080f top to #030308 bottom) so every lit element glows, with a thin brass-gold lift along the bottom edge. Border motif: a 5 pt brass rail along the top edge of the pair P034-2/P034-3 only, with two small studs, one blue one gold, joined by a hairline (they have met). Keep .pagemark clear.",
+    "scene": {
+     "plate": "BagroundGenTask/out/plates/S03-D01.png (P034-1, P034-4 new on it), S03-D01 and S03-D02 raw crops (P034-2, P034-3), P028-4 reuse (P034-5)",
+     "grade": "night; Lantern Street fixed lamps OFF (sconces, bench and street task lamps, arch and hanging lanterns, distant canopy lights). The bench task lamp above the timing bench is OFF (the plate shows it lit: switch it off, change nothing else). Ahana's right-hand brass lamp is the key light. Cool moon rim on roofs and edges. Never alter plate objects. P034-1 and P034-4: both catches as the state requires (down in -1; raised in -4), catch lamps unlit in -1, lit in -2/-3/-4. P034-2 and P034-3 use the same crop that excludes the plate's lit bench lamp; their warm marble reads as Ahana's lamp off frame. P034-5: cold night paving, LIFT and RHYTHM white, other lights dark, arches dark.",
+     "mirror": false,
+     "blank": [
+      "no cycle of twelve; cycles stay 4 and 6",
+      "P034-1 counter blank; 12 appears only on the plate's own card and counter as the manuscript reveals"
+     ],
+     "crop": "P034-1 left two-thirds, aisle low; P034-2 and P034-3 identical crop, tight on bird, platform and catches; P034-4 wide low with Tez large; P034-5 board with RHYTHM glow."
+    },
+    "panes": {
+     "P034-1": "caption 'They set the start card to twelve...' light matte box upper-left over the blue wall, card, counter, bird and faces clear",
+     "P034-2": "caption 'At beat twelve, both catches rise.' lower-right over the cream bench front",
+     "P034-3": "caption 'The bird's little platform slides forward and stops. The bird bows.' lower-left over the bench front",
+     "P034-4": "caption 'Tez bows back.' small matte box upper-left over the wall above Ahana",
+     "P034-5": "caption 'RHYTHM lights up beside LIFT.' bottom over the paving, labels clear",
+     "reading order": "1 caption, 2 caption, 3 caption, 4 caption, 5 caption"
+    },
+    "hero": "P034-3: the white carved bird bowed at its end stop between two raised glowing catches, blue and gold.",
+    "illustrate": "State comes from the plates exactly: card 12 and counter 12 as painted, both catches raised in -2/-3, platform at the end stop in -3, cycle plates 4 and 6 unchanged. No drums, no second bird, no motion lines.",
+    "cast": "Mixed: Tara frozen at the counter press, Navya's hand lifting from the card in -1; then device-only stills; then a low Tez entry in -4, forelegs flexed in a bow, face to the bird, the group small behind him; -5 empty street, no people. Different from P033 (hands only) and P035 (aisle line-up).",
+    "colour": "Warm against cold: near-black ground, cool blue wall, then two gold-white lamps and a brass lift. Gold #f7c684 and blue #3b6fd8 in the catch lamps, board whites #e8f1ff.",
+    "panel_notes": {
+     "P034-1": "grade: dim moonlit, Ahana's lamp as only warm key on card slot and counter, both catches down, both catch lamps off, counter display blank, bird at start, Tara's finger at the press, eyes on the bird",
+     "P034-2": "grade: tight, both catch lamps on, warm blue and gold glows on marble, bird still at start mark",
+     "P034-3": "grade: same crop, platform at end stop, bird bowed, catch lamps on, the only brightest spot of the page",
+     "P034-4": "grade: low camera, wall dark, warm lamp edge on Tez's fur and the stopped bird, Ahana smiling behind him, Vihaan and Navya at the lip",
+     "P034-5": "grade: cool night, LIFT and RHYTHM glowing white, three other lights dark, handle at start position"
+    },
+    "delights": [
+     "P034-2 and P034-3 share one crop so the bird's shadow and the rail line up exactly between them.",
+     "The border studs, blue and gold, are joined by a hairline: the two patterns have met.",
+     "In -4 the bird's beak and Tez's nose catch the same warm highlight."
+    ],
+    "folio": ".pagemark standard, ring brass, coin ink-black.",
+    "varies": "vs P030 (indigo-violet, device-first) and P033 (walnut, text columns): near-black stage with gold payoff, stacked identical pair at right, Tez-low wide panel and an empty-street insert."
+   }
+  },
+  {
+   "page": "P035",
+   "category": "dialogue-story",
+   "pattern": "free composition: left column of an establishing medium over its zoom, right full-height portrait panel; the full-height vertical gutter sets the order 1, 2 (left, top to bottom), then 3 (right)",
+   "theme": "story page, projector-kit bench border family (indigo-and-brass stock-box straps, blue glass disc and brass ring studs)",
+   "title": "",
+   "purpose": "story: opens Sequence 06 at the centre of the same bench; the helper opens the lens and ring stocks; Tara asks for as many identical crews as possible using every piece; Ahana sets an empty kit box between the stocks and asks the question (greatest number of identical kits, and what goes in each).",
+   "beats": [
+    "CH01 06A A",
+    "CH01 06A B",
+    "CH01 06A C"
+   ],
+   "panels": [
+    {
+     "id": "P035-1",
+     "beat": "CH01 06A A",
+     "box": [
+      24,
+      24,
+      540,
+      330
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P035-1",
+      "size": "1536x1024"
+     },
+     "background": {
+      "record": "S04-B01",
+      "plate": "BagroundGenTask/out/plates/S04-B01.png",
+      "camera": "the plate's medium front three-quarter view, pulled back half a step and slightly lower so the cast stands in the aisle along the near lip; both open stock boxes, blank sample board (front-left), the plate's open empty padded kit box (front-right), the short test rail above and the timing bird at the left edge exactly as painted"
+     },
+     "characters": [
+      {
+       "name": "helper",
+       "position": "far left, at the lens box end of the bench, in the aisle",
+       "action": "has just swung open the two stock-box lids, one wooden hand still on the lens-box lid",
+       "gaze": "the stocks",
+       "expression": "patient",
+       "holding": "lens-box lid"
+      },
+      {
+       "name": "Vihaan",
+       "position": "left-centre, at the lip",
+       "action": "studies the two stock labels",
+       "gaze": "the labels",
+       "expression": "analytical",
+       "holding": "-"
+      },
+      {
+       "name": "Ahana",
+       "position": "centre, at the lip",
+       "action": "raises the lamp to light the 45-lens and 75-ring labels",
+       "gaze": "the labels",
+       "expression": "intent",
+       "holding": "brass lamp (right hand); a second empty padded kit box (left hand, at her side)"
+      },
+      {
+       "name": "Tara",
+       "position": "centre-right, beside the ring box",
+       "action": "both free hands open towards the two stocks as she explains",
+       "gaze": "the children",
+       "expression": "calm, wise",
+       "holding": "nothing: staff leaned securely against the blue wall beside her"
+      },
+      {
+       "name": "Navya",
+       "position": "right, at the lip",
+       "action": "waits to record",
+       "gaze": "the stocks",
+       "expression": "attentive",
+       "holding": "blank packing sheet"
+      },
+      {
+       "name": "Tez",
+       "position": "lower right, on the paving under the clear edge of the bench, outside the work area",
+       "action": "waits",
+       "gaze": "the group",
+       "expression": "curious",
+       "holding": "-"
+      }
+     ],
+     "props_state": [
+      "both stock boxes open, supplies inside; front plates read 45 BLUE GLASS LENSES and 75 BRASS RINGS (plate inscriptions)",
+      "sample board blank; the plate's padded kit box open and empty",
+      "test rail empty: no projector head",
+      "no finished sample, no 3-and-5 recipe, no prepared kits, items not scattered",
+      "timing bird at the left edge bowed at its end stop (as plate)",
+      "bench task lamp OFF (plate paints it lit); Ahana's lamp is the warm key on the labels",
+      "LIFT and RHYTHM white on the far board (not in frame)"
+     ],
+     "painted_text": [
+      "45 BLUE GLASS LENSES (stock-box plate, plate inscription)",
+      "75 BRASS RINGS (stock-box plate, plate inscription)"
+     ],
+     "overlay_text": [
+      {
+       "text": "45 BLUE GLASS LENSES / 75 BRASS RINGS",
+       "on": "the two stock-box front plates, ONLY if the panel art garbles the painted labels: paint them blank and set the exact words in HTML"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-right, over the blue wall beside the dark task lamp (labels, test rail and faces clear)",
+       "w": 0.42,
+       "h": 0.38
+      }
+     ],
+     "captions": [
+      "The helper opens two boxes. One holds blue glass lenses, the other brass rings. The crews need both to build the projector heads for the arches. Tara wants each crew to have an identical kit."
+     ],
+     "bubbles": []
+    },
+    {
+     "id": "P035-2",
+     "beat": "CH01 06A B",
+     "box": [
+      24,
+      362,
+      540,
+      258
+     ],
+     "art": {
+      "kind": "zoom",
+      "of": "P035-1",
+      "focus": [
+       0.56,
+       0.42
+      ],
+      "z": 1.4,
+      "note": "Tara with both stock boxes and their labels; her open hands towards the stocks carry over from P035-1 (accepted deviation: the palm turning to the crews is not repainted). About 146 ppi (story zoom, accepted range)"
+     },
+     "characters": [
+      {
+       "name": "Tara",
+       "position": "centre-right",
+       "action": "indicates both stocks with open hands as she speaks",
+       "gaze": "the children",
+       "expression": "calm, wise",
+       "holding": "staff leaned against the wall"
+      },
+      {
+       "name": "Ahana",
+       "position": "left edge, partly in crop",
+       "action": "keeps the lamp on the labels",
+       "gaze": "the labels",
+       "expression": "attentive",
+       "holding": "brass lamp (right hand)"
+      }
+     ],
+     "props_state": [
+      "boxes retain all stock; no solved kit counts",
+      "labels 45 BLUE GLASS LENSES and 75 BRASS RINGS readable"
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "upper-left, over the blue wall above the lens box (labels and faces clear)",
+       "w": 0.44,
+       "h": 0.42
+      },
+      {
+       "for": "bubble",
+       "where": "upper-right, over the wall above Tara (her face clear)",
+       "w": 0.32,
+       "h": 0.26
+      }
+     ],
+     "captions": [
+      "There are 45 blue lenses and 75 brass rings. They must use every piece and give every crew the same number of lenses and the same number of rings."
+     ],
+     "bubbles": [
+      {
+       "speaker": "Tara",
+       "text": "We want as many crews working at once as possible.",
+       "where": "upper-right",
+       "tail_to": "Tara's mouth"
+      }
+     ]
+    },
+    {
+     "id": "P035-3",
+     "beat": "CH01 06A C",
+     "box": [
+      572,
+      24,
+      268,
+      596
+     ],
+     "art": {
+      "kind": "new",
+      "item": "P035-3",
+      "size": "1024x1536"
+     },
+     "background": {
+      "record": "S04-B01",
+      "plate": "BagroundGenTask/out/plates/S04-B01.png",
+      "camera": "portrait, closer and slightly high from the aisle at the bench centre: the empty padded kit box Ahana places on the near edge between the two stock boxes in the lower middle, the two open stock boxes behind it with their front plates readable, blue wall above; Ahana large at right; attach P035-1 as the continuity reference"
+     },
+     "characters": [
+      {
+       "name": "Ahana",
+       "position": "right, foreground at the lip",
+       "action": "has set the empty padded kit box between the two stocks with her LEFT hand; frozen with her left palm beside the box as she turns to address the group",
+       "gaze": "the group",
+       "expression": "earnest, questioning",
+       "holding": "brass lamp held clear (right hand)"
+      },
+      {
+       "name": "Vihaan",
+       "position": "left, behind the lip",
+       "action": "looks at the empty box",
+       "gaze": "the empty box",
+       "expression": "thinking",
+       "holding": "-"
+      },
+      {
+       "name": "Navya",
+       "position": "left, beside Vihaan",
+       "action": "looks at the empty box",
+       "gaze": "the empty box",
+       "expression": "thinking",
+       "holding": "blank packing sheet"
+      },
+      {
+       "name": "Tara",
+       "position": "upper-left edge, partly cropped",
+       "action": "has lowered her hands",
+       "gaze": "Ahana",
+       "expression": "calm, wise",
+       "holding": "staff leaned against the wall"
+      }
+     ],
+     "props_state": [
+      "Ahana's empty padded kit box on the near edge between the two stocks (an extra box: the plate's own open kit box stays where painted, front-right, if in frame)",
+      "stock boxes open, contents inside; labels as plate",
+      "sample board blank; test rail empty",
+      "no finished head, no recipe, no kit counts",
+      "bench task lamp OFF; Ahana's lamp warm"
+     ],
+     "painted_text": [
+      "45 BLUE GLASS LENSES (stock-box plate, plate inscription)",
+      "75 BRASS RINGS (stock-box plate, plate inscription)"
+     ],
+     "overlay_text": [
+      {
+       "text": "45 BLUE GLASS LENSES / 75 BRASS RINGS",
+       "on": "the stock-box front plates, ONLY if the panel art garbles the painted labels"
+      }
+     ],
+     "reserve": [
+      {
+       "for": "caption",
+       "where": "top, over the blue wall (faces and labels clear)",
+       "w": 0.9,
+       "h": 0.14
+      },
+      {
+       "for": "bubble",
+       "where": "upper, below the caption, over the wall left of Ahana's head",
+       "w": 0.9,
+       "h": 0.22
+      }
+     ],
+     "captions": [
+      "Ahana places an empty padded kit box between the stocks."
+     ],
+     "bubbles": [
+      {
+       "speaker": "Ahana",
+       "text": "What is the greatest number of identical kits we can make, with nothing left over? And what goes into each one?",
+       "where": "upper, below the caption",
+       "tail_to": "Ahana's mouth"
+      }
+     ]
+    }
+   ],
+   "equations": [],
+   "teaching": [],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Opens Sequence 06 and Scene CH01 06A (headings and location notes non-printing); a new section of the SAME right-wall bench, not a new workshop. Continuity: P034 left the bird bowed at its end stop with card 12 (S04-B01 shows it so at the left edge) and LIFT + RHYTHM white. Must not show before T1.2B (P036): a completed projector head, a 3-lens/5-ring recipe, fifteen kits, or any kit count; the stated question is the greatest number of identical kits. Do not scatter all 120 items. The numbers 45 and 75 print in the caption; in the art they exist only as the plate's own stock-box inscriptions. Tara's staff is leaned securely against the wall on this page (manuscript), so both her hands are free. Ahana's kit box is a second padded box she brings (manuscript: kit boxes available, plural); the plate's own open kit box is never moved. Reading order by the full-height vertical gutter at x 564-572: P035-1, P035-2 (left column), then P035-3 (right). New images: 2 (P035-1, P035-3); P035-2 is a free zoom. Raster: P035-1 crop 1536x939 at 540 pt about 205 ppi; P035-2 zoom about 146 ppi; P035-3 1024x1536 at 268x596 pt about 185-275 ppi. Category dialogue-story: varies from P031 (tall portrait at LEFT) by putting the portrait at the right as the closing question, and from P029. Same full-moon night. Lantern Street fixed lamps all OFF (wall sconces, hanging and arch lanterns, distant canopy/stall lights) and the bench task lamp above the bench OFF (plates paint it lit: switch it off in the prompt, change nothing else). Only warm light: Ahana's portable brass lamp (right hand), plus the small blue/gold catch lamps exactly as the state requires. Cool moonlight rims roofs and edges; main arches dark; moonline metallic, unlit. Catch lamps not in frame (timing bird only at the left edge). Every character exactly as on their character sheet (attach each visible character's sheet). Ahana, Navya and Vihaan equally tall upright, crowns just below Tara's chest; all humans fair-skinned. Tara always calm and wise, never animated or cartoon-surprised. Ahana's portable brass lamp is always in her RIGHT hand. Tez per TEZ CHARACTER SHEET.png: substantial four-pawed cub, crown just below a standing child's knee, navy scarf with moon clasp, only the two shoulder stripes nearest the neck pale grey. The helper has NO character sheet: broad carved wooden figure in a blue waistcoat, painted eyes, visible wood grain, brass joints, a separate wooden thumb; when in frame attach the accepted helper panel P017-5 (or P030-1) as its look reference. Balloons and captions sit ON the art (never in gutters), boxes off faces, reading order = manuscript order. Gutters 8 pt; all panels inside x 24-840, y 24-620 (page-mark zone x 560-820, y 624-648 clear). Never alter or add plate objects; stage inside the plate as painted. Plate inscriptions stay as painted; any other number is HTML overlay on a blank surface. No lettering painted into new art.",
+   "art": {
+    "idea": "A new job at the same bench: two open stock boxes of glass and brass, an empty padded kit box between them, and Ahana asking the question the next lesson answers. A packed stock-room, not a bench of numbers.",
+    "structure": "Grid as planned: left column P035-1 [24,24,540,330] over P035-2 [24,362,540,258]; right tall P035-3 [572,24,268,596]. Gutters 8 pt, square corners, 1 pt brass hairline. Ground: deep garnet-oxblood ink (#2b0e16 top to #0b0508 bottom) with a faint warm brass bloom at the lower left. Border motif: indigo stock-box straps, a 6 pt indigo (#1b2a6b) band with a 1 pt brass edge across the bottom of the left column and up the left of P035-3, a small blue glass disc stud and a brass ring stud at the strap end (decorative, never counted). Keep .pagemark clear.",
+    "scene": {
+     "plate": "BagroundGenTask/out/plates/S04-B01.png (P035-1, P035-3 new on it; P035-2 is a free zoom of P035-1)",
+     "grade": "night; Lantern Street fixed lamps OFF (sconces, bench and street task lamps, arch and hanging lanterns, distant canopy lights). The bench task lamp above the timing bench is OFF (the plate shows it lit: switch it off, change nothing else). Ahana's right-hand brass lamp is the key light. Cool moon rim on roofs and edges. Never alter plate objects. Task lamp above the kit bench OFF too. The blue wall stays deep; the garnet ground lives in the gutters and border only.",
+     "mirror": false,
+     "blank": [
+      "no kit counts, no finished head, no recipe; sample board blank",
+      "labels 45 BLUE GLASS LENSES and 75 BRASS RINGS stay as the plate's own paint, readable"
+     ],
+     "crop": "P035-1 medium pulled back half a step and lower; P035-2 zoom z 1.5 on Tara and the stocks; P035-3 portrait closer and slightly high on the empty kit box between the two stocks."
+    },
+    "panes": {
+     "P035-1": "caption 'The helper opens two boxes...' light matte box upper-right over the blue wall beside the dark lamp, labels and faces clear",
+     "P035-2": "caption 'There are 45 blue lenses and 75 brass rings...' light matte box upper-left over the wall; white balloon 'We want as many crews working at once as possible.' upper-right, tail to Tara's mouth",
+     "P035-3": "caption 'Ahana places an empty padded kit box between the stocks.' small matte box at top over the wall; white balloon 'What is the greatest number of identical kits we can make, with nothing left over? And what goes into each one?' below it, tail to Ahana's mouth",
+     "reading order": "1 caption, 2 caption, 2 balloon, 3 caption, 3 balloon"
+    },
+    "hero": "P035-3: Ahana, lamp held clear, with the empty padded kit box on the bench edge and the two stock boxes glowing behind.",
+    "illustrate": "Only plate paint: stock labels 45 and 75, open boxes, empty padded kit box, blank sample board. No numerals added, no packs counted, nothing solved.",
+    "cast": "Group at an open shelf-room: the helper's wooden hand on the lens lid far left, Vihaan and Ahana at the lip reading the labels, Tara beside the ring box with open hands, Navya right with the blank sheet, Tez low and out of the way; then Ahana large in a tall close-up. Different from P034's Tez-low bow: this entry is the helper opening the boxes.",
+    "colour": "Glass blue against brass: garnet ground, deep blue wall, lens-blue and brass-ring gold glowing in the boxes, Ahana's lamp the single warm key. Garnet #2b0e16, indigo #1b2a6b, lens blue #5b8de8, brass #d6a64e.",
+    "panel_notes": {
+     "P035-1": "grade: dim, Ahana's lamp as key light on the two labels, boxes open and contents catching light, blue lenses cool, brass rings warm, helper calm and patient, Tara's hands open, staff against the wall",
+     "P035-2": "zoom of P035-1: labels readable, warm pool on Tara's hands and the stock-box front plates",
+     "P035-3": "grade: closer and slightly high, empty padded kit box between the two stock boxes, Ahana's warm lamp on her face and the box, Vihaan and Navya looking at the empty box in the soft background"
+    },
+    "delights": [
+     "The border's blue disc and brass ring studs sit in the same left-right order as the stock boxes.",
+     "A single lens in the open box catches the lamp and throws one small blue star on the blue wall.",
+     "The empty padded box is the only dark space in the warm frame, so the eye lands there."
+    ],
+    "folio": ".pagemark standard, ring brass, coin indigo.",
+    "varies": "vs P034 (near-black ground, stacked pair) and P033/P030: garnet ground, indigo strap border, wide+zoom left over a tall portrait right, helper-opens-boxes entry."
    }
   },
   {
