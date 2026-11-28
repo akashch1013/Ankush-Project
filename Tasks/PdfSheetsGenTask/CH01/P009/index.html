@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P009</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  /* B1 "Ledger Plate": calm cream field, lacquer-and-brass border from S04-B01 */
+  .page.ledger { background: #F7F1E3; color: #1d2433; font-family: "Source Sans 3", sans-serif;
+                 font-size: 14pt; line-height: 18pt; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 6pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-family: "Source Sans 3", sans-serif; font-weight: 600; color: #122A45;
+                font-size: 17pt; line-height: 21pt; margin: 0 0 6pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .sh.big { font-size: 19pt; line-height: 23pt; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger .eq { font-size: 21pt; line-height: 27pt; font-weight: 600; color: #1d2433; white-space: nowrap; margin: 0; }
+  .ledger .eq .op { font-weight: 400; }
+
+  .qcard { background: #FBF7EE; border: .8pt solid #b3722f; padding: 9pt 14pt 7pt; }
+  .qcard p { margin: 0; }
+  .ablock { background: #EFE6D2; border-top: .8pt solid #b3722f; padding: 9pt 13pt 6pt; }
+
+  /* factor lines: lhs | = a | = b | = c, the = signs aligned in columns */
+  .fgrid { display: grid; grid-template-columns: auto auto auto auto; justify-content: start; column-gap: 7pt; margin: 2pt 0 4pt; }
+  .fgrid > div { display: contents; }
+  .fgrid span.c { font-size: 21pt; line-height: 28pt; font-weight: 600; white-space: nowrap; }
+  .fgrid span.c.l { text-align: right; }
+  /* sharing lines: label | expression */
+  .sgrid { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 12pt; row-gap: 2pt; align-items: baseline; margin: 0 0 8pt; }
+  .sgrid > div { display: contents; }
+  .sgrid .lbl { font-size: 14pt; color: #1d2433; }
+  /* bag lines: expression | words */
+  .bgrid { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 10pt; align-items: baseline; }
+  .bgrid > div { display: contents; }
+  .bgrid .eq { font-size: 20pt; line-height: 25pt; }
+  .bgrid .lbl { font-size: 14pt; }
+
+  .divider { position: absolute; width: 0; border-left: .5pt solid #b3722f; opacity: .7; }
+
+  .aside-b { position: absolute; background: #FFFDF6; border: .8pt solid #1d2433; border-radius: 50% / 46%;
+             padding: 9pt 16pt 10pt; font-family: "Source Serif 4", serif; font-weight: 400; font-size: 14pt; line-height: 18pt;
+             color: #1d2433; text-align: center; }
+  .aside-b svg.tl { position: absolute; overflow: visible; }
+
+  
+
+  .ledger .add { color:#B5603A; font-weight:700; }
+  .ledger .sub { color:#245A9E; font-weight:700; }
+  .ledger .mr { color:#8F5E0C; }
+  .ledger .res { color:#8F5E0C; font-weight:700; }
+  .ledger .gr { display:grid; grid-template-columns:auto auto; justify-content:start; column-gap:10pt; align-items:baseline; }
+  .ledger .gr > div { display:contents; }
+  .ledger .gr .lb { font-size:14pt; font-weight:600; }
+</style>
+</head>
+<body>
+<div class="page ledger" id="page" data-chapter="CH01" data-page="P009">
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<defs>
+<linearGradient id="gT" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="gB" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="gL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="gR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset=".55" stop-color="#1b3d7c"/><stop offset="1" stop-color="#2a58a3"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".45" stop-color="#c98f45"/><stop offset=".75" stop-color="#b3722f"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+<linearGradient id="brassH" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58f"/><stop offset=".4" stop-color="#c98f45"/><stop offset=".8" stop-color="#9a5f22"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+<linearGradient id="brassV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".35" stop-color="#e2b46a"/><stop offset=".55" stop-color="#f3d58f"/><stop offset="1" stop-color="#8a5622"/></linearGradient>
+<linearGradient id="tab" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#122A45"/><stop offset=".5" stop-color="#1e4589"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#f7c684" stop-opacity=".6"/><stop offset=".5" stop-color="#f7c684" stop-opacity=".2"/><stop offset="1" stop-color="#f7c684" stop-opacity="0"/></radialGradient>
+<radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+<filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.3"/></filter>
+</defs>
+<rect x="0" y="0" width="864" height="26" fill="url(#brassH)" stroke="#5a3510" stroke-width=".6"/><path d="M0 2.5H864" stroke="#fff0c4" stroke-width=".8" stroke-opacity=".7"/><rect x="0" y="26" width="864" height="4" fill="#122A45"/><path d="M0 30.5H864" stroke="#f3d58f" stroke-width=".8"/><rect x="150" y="5" width="26" height="14" rx="3" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><path d="M150 12H176" stroke="#5a3510" stroke-width=".6"/><rect x="300" y="5" width="26" height="14" rx="3" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><path d="M300 12H326" stroke="#5a3510" stroke-width=".6"/><rect x="450" y="5" width="26" height="14" rx="3" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><path d="M450 12H476" stroke="#5a3510" stroke-width=".6"/><rect x="600" y="5" width="26" height="14" rx="3" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><path d="M600 12H626" stroke="#5a3510" stroke-width=".6"/><rect x="750" y="5" width="26" height="14" rx="3" fill="url(#brass)" stroke="#5a3510" stroke-width=".5"/><path d="M750 12H776" stroke="#5a3510" stroke-width=".6"/><circle cx="30" cy="12" r="2.6" fill="#6e4318"/><circle cx="30" cy="12" r="1.7" fill="#f3d58f"/><circle cx="90" cy="12" r="2.6" fill="#6e4318"/><circle cx="90" cy="12" r="1.7" fill="#f3d58f"/><circle cx="150" cy="12" r="2.6" fill="#6e4318"/><circle cx="150" cy="12" r="1.7" fill="#f3d58f"/><circle cx="210" cy="12" r="2.6" fill="#6e4318"/><circle cx="210" cy="12" r="1.7" fill="#f3d58f"/><circle cx="270" cy="12" r="2.6" fill="#6e4318"/><circle cx="270" cy="12" r="1.7" fill="#f3d58f"/><circle cx="330" cy="12" r="2.6" fill="#6e4318"/><circle cx="330" cy="12" r="1.7" fill="#f3d58f"/><circle cx="390" cy="12" r="2.6" fill="#6e4318"/><circle cx="390" cy="12" r="1.7" fill="#f3d58f"/><circle cx="450" cy="12" r="2.6" fill="#6e4318"/><circle cx="450" cy="12" r="1.7" fill="#f3d58f"/><circle cx="510" cy="12" r="2.6" fill="#6e4318"/><circle cx="510" cy="12" r="1.7" fill="#f3d58f"/><circle cx="570" cy="12" r="2.6" fill="#6e4318"/><circle cx="570" cy="12" r="1.7" fill="#f3d58f"/><circle cx="630" cy="12" r="2.6" fill="#6e4318"/><circle cx="630" cy="12" r="1.7" fill="#f3d58f"/><circle cx="690" cy="12" r="2.6" fill="#6e4318"/><circle cx="690" cy="12" r="1.7" fill="#f3d58f"/><circle cx="750" cy="12" r="2.6" fill="#6e4318"/><circle cx="750" cy="12" r="1.7" fill="#f3d58f"/><circle cx="810" cy="12" r="2.6" fill="#6e4318"/><circle cx="810" cy="12" r="1.7" fill="#f3d58f"/>
+<path d="M590 30 Q690 50 810 28" fill="none" stroke="#5a3510" stroke-width=".8"/><circle cx="600" cy="34" r="3" fill="#2b3552" stroke="#8a5622" stroke-width=".5"/><circle cx="640" cy="38" r="3" fill="#2b3552" stroke="#8a5622" stroke-width=".5"/><circle cx="680" cy="40" r="3" fill="#2b3552" stroke="#8a5622" stroke-width=".5"/><circle cx="720" cy="38" r="3" fill="#2b3552" stroke="#8a5622" stroke-width=".5"/><circle cx="760" cy="34" r="3" fill="#2b3552" stroke="#8a5622" stroke-width=".5"/><circle cx="800" cy="30" r="3" fill="#2b3552" stroke="#8a5622" stroke-width=".5"/>
+<rect x="3" y="30" width="4" height="602" fill="url(#brassV)" stroke="#5a3510" stroke-width=".4"/><rect x="857" y="30" width="4" height="602" fill="url(#brassV)" stroke="#5a3510" stroke-width=".4"/>
+<polygon points="0,648 864,648 864,632 0,632" fill="url(#gB)"/><path d="M0 632.5H864" stroke="#c9a24a" stroke-width=".8"/>
+<polygon points="790,648 794,621 822,621 826,648" fill="url(#tab)"/><path d="M794.6 621.6 H821.4" stroke="#c9a24a" stroke-width=".8" fill="none"/>
+</svg>
+
+<style>
+ .ledg { background:#FBF3DC; border:2.4pt solid #c98f45; box-shadow:0 0 0 1.6pt #5a3510, 1.5pt 2.5pt 4pt rgba(60,40,10,.35); }
+ .ledg .lh { height:28pt; line-height:28pt; text-align:center; font-weight:700; font-size:15pt; color:#FFF6DC; letter-spacing:.2pt; border-bottom:1pt solid #5a3510; }
+ .ledg.ad .lh { background:#B5603A; } .ledg.su .lh { background:#245A9E; }
+ .ledg .lr { height:28pt; display:flex; align-items:center; padding:0 14pt; border-bottom:.7pt solid #b3722f; background:linear-gradient(#FFF9E8,#F3E7C8); }
+ .ledg .lr:last-child { border-bottom:0; }
+ .ledg .lr .eq { font-size:20pt; line-height:24pt; }
+ .ledg .lr .lab { font-size:14pt; font-weight:600; margin-right:8pt; color:#122A45; }
+ .rec { display:inline-block; width:28pt; height:21pt; vertical-align:-3pt; background:radial-gradient(#2a58a3,#0b1630 80%); border:1.8pt solid #e2b46a; border-radius:4pt; box-shadow:0 0 7pt 1.5pt rgba(247,198,132,.75), inset 0 0 6pt rgba(0,0,0,.6); color:#f3d58f; font-size:13pt; line-height:18pt; text-align:center; font-weight:400; }
+ .tg { margin:0 1.5pt; background:#F1DCA8; border-radius:3pt; padding:0 4pt; }
+ .slip { background:#122A45; border:2pt solid #c98f45; box-shadow:0 0 0 1.2pt #5a3510, 0 3pt 5pt rgba(12,25,51,.4); }
+ .ledger .slip p { color:#FBF3DC; }
+</style>
+<div class="blk" style="left:40pt; top:32pt; width:784pt"><div class="sh big">What happens when the next number is negative</div></div>
+<div class="blk qcard" style="left:40pt; top:68pt; width:232pt; height:156pt"><p>These two patterns will help us find out. In each column, the number after the operation sign goes down by 1 each time. Look at what happens to the answer, then fill the four blanks.</p></div>
+<svg class="blk" style="left:44pt; top:236pt; width:228pt; height:66pt" viewBox="0 0 228 66" aria-hidden="true"><rect x="1" y="1" width="226" height="64" rx="6" fill="url(#brassH)" stroke="#5a3510" stroke-width=".8"/><rect x="6" y="6" width="216" height="54" rx="4" fill="#102248" stroke="#3a2a10" stroke-width=".6"/><circle cx="60" cy="33" r="19" fill="#f7c684" opacity=".45"/><circle cx="60" cy="33" r="14" fill="#2a1216" stroke="url(#brass)" stroke-width="3"/><circle cx="60" cy="33" r="10.5" fill="#c8301f"/><circle cx="57" cy="29" r="2.6" fill="#ffd9c8" opacity=".7"/><path d="M60 26 L66 38 H54 Z" fill="#fff0c4" stroke="#5a1a10" stroke-width=".5"/><circle cx="168" cy="33" r="19" fill="#f7c684" opacity=".12"/><circle cx="168" cy="33" r="14" fill="#2a1216" stroke="url(#brass)" stroke-width="3"/><circle cx="168" cy="33" r="10.5" fill="#c8301f"/><circle cx="165" cy="29" r="2.6" fill="#ffd9c8" opacity=".7"/><path d="M168 40 L174 28 H162 Z" fill="#fff0c4" stroke="#5a1a10" stroke-width=".5"/><rect x="92" y="22" width="44" height="22" rx="3" fill="#0b1630" stroke="#c9a24a" stroke-width=".8"/><circle cx="102" cy="33" r="3" fill="#f7c684"/><circle cx="114" cy="33" r="3" fill="#6e4318"/><circle cx="126" cy="33" r="3" fill="#6e4318"/></svg>
+<div class="blk ledg ad" style="left:292pt; top:68pt; width:250pt"><div class="lh">Addition pattern</div><div class="lr" data-math="7 + 3 = 10"><span class="eq">7 + 3 = 10</span></div><div class="lr" data-math="7 + 2 = 9"><span class="eq">7 + 2 = 9</span></div><div class="lr" data-math="7 + 1 = 8"><span class="eq">7 + 1 = 8</span></div><div class="lr" data-math="7 + 0 = 7"><span class="eq">7 + 0 = 7</span></div><div class="lr bl"><span class="lab">Line 1:</span><span class="eq">7 + (−1) = <span class="rec">□</span></span></div><div class="lr bl"><span class="lab">Line 2:</span><span class="eq">7 + (−2) = <span class="rec">□</span></span></div></div>
+<div class="blk ledg su" style="left:574pt; top:68pt; width:250pt"><div class="lh">Subtraction pattern</div><div class="lr" data-math="7 − 3 = 4"><span class="eq">7 − 3 = 4</span></div><div class="lr" data-math="7 − 2 = 5"><span class="eq">7 − 2 = 5</span></div><div class="lr" data-math="7 − 1 = 6"><span class="eq">7 − 1 = 6</span></div><div class="lr" data-math="7 − 0 = 7"><span class="eq">7 − 0 = 7</span></div><div class="lr bl"><span class="lab">Line 3:</span><span class="eq">7 − (−1) = <span class="rec">□</span></span></div><div class="lr bl"><span class="lab">Line 4:</span><span class="eq">7 − (−2) = <span class="rec">□</span></span></div></div>
+<svg class="blk" style="left:542pt; top:68pt; width:32pt; height:200pt" viewBox="0 0 32 200" preserveAspectRatio="none" aria-hidden="true"><rect x="12" y="0" width="8" height="200" fill="url(#brassV)" stroke="#5a3510" stroke-width=".5"/><rect x="14.2" y="2" width="1.6" height="196" fill="#fff0c4" opacity=".85"/>
+<path d="M16 50 V126" stroke="#5a3510" stroke-width="2.4"/><path d="M8 118 L16 132 L24 118 Z" fill="#5a3510"/><path d="M16 52 V124" stroke="#f3d58f" stroke-width="1"/><path d="M10.5 120 L16 129 L21.5 120 Z" fill="#f3d58f"/>
+<rect x="9" y="6" width="14" height="6" rx="1.5" fill="url(#brassH)" stroke="#5a3510" stroke-width=".5"/><rect x="9" y="186" width="14" height="6" rx="1.5" fill="url(#brassH)" stroke="#5a3510" stroke-width=".5"/></svg>
+
+<svg class="blk" style="left:357pt; top:270pt; width:120pt; height:55pt" viewBox="0 0 140 64" aria-hidden="true"><rect x="2" y="59" width="136" height="2.4" fill="#b3722f"/><rect x="2" y="61.4" width="136" height="1.6" fill="#5b4a2e" opacity=".35"/><rect x="10" y="8.5" width="16" height="52.0" fill="#5b4a2e" opacity=".22"/><rect x="8" y="7.0" width="16" height="52.0" fill="#B5603A" stroke="#0c1933" stroke-width=".5"/><rect x="8" y="7.0" width="16" height="3" fill="#fff" opacity=".28"/><rect x="31" y="13.699999999999996" width="16" height="46.800000000000004" fill="#5b4a2e" opacity=".22"/><rect x="29" y="12.199999999999996" width="16" height="46.800000000000004" fill="#B5603A" stroke="#0c1933" stroke-width=".5"/><rect x="29" y="12.199999999999996" width="16" height="3" fill="#fff" opacity=".28"/><rect x="52" y="18.9" width="16" height="41.6" fill="#5b4a2e" opacity=".22"/><rect x="50" y="17.4" width="16" height="41.6" fill="#B5603A" stroke="#0c1933" stroke-width=".5"/><rect x="50" y="17.4" width="16" height="3" fill="#fff" opacity=".28"/><rect x="73" y="24.1" width="16" height="36.4" fill="#5b4a2e" opacity=".22"/><rect x="71" y="22.6" width="16" height="36.4" fill="#B5603A" stroke="#0c1933" stroke-width=".5"/><rect x="71" y="22.6" width="16" height="3" fill="#fff" opacity=".28"/><rect x="94" y="29.299999999999997" width="16" height="31.200000000000003" fill="#5b4a2e" opacity=".22"/><rect x="92" y="27.799999999999997" width="16" height="31.200000000000003" fill="#B5603A" stroke="#0c1933" stroke-width=".5"/><rect x="92" y="27.799999999999997" width="16" height="3" fill="#fff" opacity=".28"/><rect x="115" y="34.5" width="16" height="26.0" fill="#5b4a2e" opacity=".22"/><rect x="113" y="33.0" width="16" height="26.0" fill="#B5603A" stroke="#0c1933" stroke-width=".5"/><rect x="113" y="33.0" width="16" height="3" fill="#fff" opacity=".28"/></svg>
+<svg class="blk" style="left:639pt; top:270pt; width:120pt; height:55pt" viewBox="0 0 140 64" aria-hidden="true"><rect x="2" y="59" width="136" height="2.4" fill="#b3722f"/><rect x="2" y="61.4" width="136" height="1.6" fill="#5b4a2e" opacity=".35"/><rect x="10" y="39.7" width="16" height="20.8" fill="#5b4a2e" opacity=".22"/><rect x="8" y="38.2" width="16" height="20.8" fill="#245A9E" stroke="#0c1933" stroke-width=".5"/><rect x="8" y="38.2" width="16" height="3" fill="#fff" opacity=".28"/><rect x="31" y="34.5" width="16" height="26.0" fill="#5b4a2e" opacity=".22"/><rect x="29" y="33.0" width="16" height="26.0" fill="#245A9E" stroke="#0c1933" stroke-width=".5"/><rect x="29" y="33.0" width="16" height="3" fill="#fff" opacity=".28"/><rect x="52" y="29.299999999999997" width="16" height="31.200000000000003" fill="#5b4a2e" opacity=".22"/><rect x="50" y="27.799999999999997" width="16" height="31.200000000000003" fill="#245A9E" stroke="#0c1933" stroke-width=".5"/><rect x="50" y="27.799999999999997" width="16" height="3" fill="#fff" opacity=".28"/><rect x="73" y="24.1" width="16" height="36.4" fill="#5b4a2e" opacity=".22"/><rect x="71" y="22.6" width="16" height="36.4" fill="#245A9E" stroke="#0c1933" stroke-width=".5"/><rect x="71" y="22.6" width="16" height="3" fill="#fff" opacity=".28"/><rect x="94" y="18.9" width="16" height="41.6" fill="#5b4a2e" opacity=".22"/><rect x="92" y="17.4" width="16" height="41.6" fill="#245A9E" stroke="#0c1933" stroke-width=".5"/><rect x="92" y="17.4" width="16" height="3" fill="#fff" opacity=".28"/><rect x="115" y="13.699999999999996" width="16" height="46.800000000000004" fill="#5b4a2e" opacity=".22"/><rect x="113" y="12.199999999999996" width="16" height="46.800000000000004" fill="#245A9E" stroke="#0c1933" stroke-width=".5"/><rect x="113" y="12.199999999999996" width="16" height="3" fill="#fff" opacity=".28"/></svg>
+<!-- Check your method -->
+<div class="blk ablock" style="left:40pt; top:330pt; width:784pt; height:280pt">
+<div class="sh">Check your method</div>
+
+<div style="display:grid; grid-template-columns:372pt 372pt; column-gap:24pt">
+ <div style="position:relative">
+  <p style="margin-bottom:4pt">The addition answers go 10, 9, 8, 7, 6, 5. We add one less each time, so the total is one less. Lines 1 and 2 are:</p>
+  <div style="position:relative">
+   <div data-math="7 + (−1) = 6 = 7 − 1" style="height:27pt"><span class="eq">7 <span class="add">+</span> (−1) = <span class="res">6</span> = 7 <span class="sub">−</span> 1</span></div>
+   <div data-math="7 + (−2) = 5 = 7 − 2" style="height:27pt"><span class="eq">7 <span class="add">+</span> (−2) = <span class="res">5</span> = 7 <span class="sub">−</span> 2</span></div>
+  </div>
+ </div>
+ <div style="position:relative">
+  <p style="margin-bottom:4pt">The subtraction answers go 4, 5, 6, 7, 8, 9. We subtract one less each time, so one more remains. Lines 3 and 4 are:</p>
+  <div style="position:relative">
+   <div data-math="7 − (−1) = 8 = 7 + 1" style="height:27pt"><span class="eq">7 <span class="sub">−</span> (−1) = <span class="res">8</span> = 7 <span class="add">+</span> 1</span></div>
+   <div data-math="7 − (−2) = 9 = 7 + 2" style="height:27pt"><span class="eq">7 <span class="sub">−</span> (−2) = <span class="res">9</span> = 7 <span class="add">+</span> 2</span></div>
+  </div>
+ </div>
+</div>
+<div class="slip" style="margin-top:10pt; padding:9pt 14pt 5pt; position:relative">
+ <p style="margin-bottom:4pt">Notice the two jobs of a minus sign in 7 <b class="tg sub">−</b> (<b class="tg add">−</b>2). The first <b class="tg sub">−</b> tells us to subtract. The second <b class="tg add">−</b> belongs to the number −2. Brackets keep that negative number together.</p>
+ <p>Adding −2 has the same effect as subtracting 2. Subtracting −2 has the same effect as adding 2. We’ll take those ideas one at a time.</p>
+</div>
+</div>
+
+<div class="pagemark" style="--pm-ink:#f3d58f; --pm-ring:#c9a24a; --pm-coin:rgba(12,25,51,.8)"><span class="pm-no">9</span></div>
+</div>
+<script>
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

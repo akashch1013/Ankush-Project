@@ -1,0 +1,87 @@
+/* ChandRush creative kit A4 "Step Inside" (2026-11-22). Governs the look; ART-DIRECTION.md explains when to use what.
+   The page IS the location: a crisp location plate fills the sheet, and the reading sits on panes of glass cut from
+   that same picture. Characters stand in the scene. Maths is drawn as light and brass on top of the world.
+   No paper cards, no ornament frames, no icons, no bunting. Archived A3 kit: design/archive-a3/. */
+
+@font-face { font-family: "Big Shoulders Display"; src: url("fonts/BigShouldersDisplay.ttf") format("truetype"); font-weight: 100 900; font-style: normal; }
+@font-face { font-family: "Caveat"; src: url("fonts/Caveat.ttf") format("truetype"); font-weight: 400 700; font-style: normal; }
+
+.page.a4 {
+  --display: "Big Shoulders Display", "Source Sans 3", sans-serif; --hand: "Caveat", cursive;
+  --night: #0a1428; --royal: #234d95; --brass: #d6a64e; --brass-hi: #f6dca0; --brass-lo: #8a5a20;
+  --lamp: #f7c684; --marble: #f3ebdc; --ice: #d7e7fb; --moon: #cfe0fa; --ink-d: #121a33;
+  --m-teal: #f5c86a; --m-terra: #a9c8f5;          /* maths colour job on dark glass: tracked = lamp gold, second = moonlight */
+  background: var(--night); color: #f3ecdc;
+}
+
+/* ------------------------------------------------------------ the world (full-bleed location art) */
+.scene { position: absolute; left: 0; top: 0; width: 864pt; height: 648pt; overflow: hidden; }
+.scene > img { position: absolute; left: 0; top: 0; width: 864pt; height: 648pt; max-width: none; }
+.scene .shade-top    { position: absolute; left: 0; top: 0; width: 864pt; height: 150pt; background: linear-gradient(180deg, rgba(5,10,24,.82), rgba(5,10,24,.38) 55%, rgba(5,10,24,0)); }
+.scene .shade-bottom { position: absolute; left: 0; bottom: 0; width: 864pt; height: 130pt; background: linear-gradient(0deg, rgba(5,10,24,.70), rgba(5,10,24,0)); }
+.scene .vignette { position: absolute; left: 0; top: 0; width: 864pt; height: 648pt; background: radial-gradient(ellipse 75% 70% at 50% 48%, rgba(4,8,20,0) 60%, rgba(4,8,20,.5) 100%); }
+.bloom { position: absolute; border-radius: 50%; background: radial-gradient(circle, rgba(255,214,150,.42), rgba(255,214,150,.12) 45%, rgba(255,214,150,0) 70%); pointer-events: none; }
+.bloom.moon { background: radial-gradient(circle, rgba(207,224,250,.38), rgba(207,224,250,.10) 45%, rgba(207,224,250,0) 70%); }
+
+/* ------------------------------------------------------------ glass panes (all reading sits on these)
+   <div class="glass" style="left:Lpt; top:Tpt; width:..; height:..; --x:Lpt; --y:Tpt">
+     <img class="under" src="assets/img/GLASS.jpg" alt=""> ...text... </div>
+   --x/--y MUST equal left/top so the blurred world lines up behind the glass. */
+.glass { position: absolute; isolation: isolate; overflow: hidden; border-radius: 5pt; padding: 13pt 16pt 11pt; color: #f3ecdc;
+  box-shadow: 0 14pt 30pt rgba(3,7,18,.55), 0 0 0 .7pt rgba(246,220,160,.30); }
+.glass > img.under { position: absolute; left: calc(-1 * var(--x)); top: calc(-1 * var(--y)); width: 864pt; height: 648pt; max-width: none; z-index: -2; }
+.glass::before { content: ""; position: absolute; left: 0; top: 0; right: 0; bottom: 0; z-index: -1;
+  background: linear-gradient(180deg, rgba(14,28,62,.80), rgba(7,14,32,.88)); }
+.glass::after { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 1.3pt;
+  background: linear-gradient(90deg, rgba(246,220,160,0), rgba(246,220,160,.95) 22%, rgba(246,220,160,.95) 78%, rgba(246,220,160,0)); }
+.glass.amber::before  { background: linear-gradient(180deg, rgba(58,36,18,.80), rgba(26,17,11,.88)); }        /* warm side of a scene */
+.glass.marble::before { background: linear-gradient(180deg, rgba(251,246,236,.93), rgba(240,231,214,.95)); }  /* questions */
+.glass.frost::before  { background: linear-gradient(180deg, rgba(236,244,254,.90), rgba(214,229,247,.93)); }  /* cold side */
+.glass.marble, .glass.frost { color: var(--ink-d); box-shadow: 0 14pt 30pt rgba(3,7,18,.5), 0 0 0 .7pt rgba(138,90,32,.35); }
+.glass.frost::after { background: linear-gradient(90deg, rgba(255,255,255,0), #ffffff 22%, #ffffff 78%, rgba(255,255,255,0)); }
+.glass.lift { box-shadow: 0 18pt 36pt rgba(3,7,18,.65), 0 0 0 .7pt rgba(246,220,160,.45); }
+/* rime creeping in from a corner of a frost pane (decor only) */
+.rime { position: absolute; width: 90pt; height: 70pt; z-index: -1; pointer-events: none; opacity: .9;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 90 70'%3E%3Cg fill='none' stroke='%23ffffff' stroke-width='.7' stroke-linecap='round'%3E%3Cpath d='M0 0 L38 26 M10 7 L8 18 M10 7 L21 6 M20 14 L17 25 M20 14 L32 12 M30 21 L29 31 M30 21 L41 20 M0 0 L22 44 M5 10 L14 12 M8 17 L2 22 M12 25 L21 25 M15 31 L8 37 M0 0 L60 10 M14 2 L19 9 M26 4 L28 12 M38 6 L41 13 M48 8 L52 14 M24 4 L28 -2 M40 7 L45 1'/%3E%3C/g%3E%3C/svg%3E") no-repeat; }
+.rime.tl { left: 0; top: 0; } .rime.br { right: 0; bottom: 0; transform: rotate(180deg); }
+
+/* ------------------------------------------------------------ type */
+.marquee { position: absolute; margin: 0; font-family: var(--display); font-weight: 800; font-size: 56pt; line-height: .9; letter-spacing: .01em;
+  text-transform: uppercase; color: var(--brass-hi); text-shadow: 0 0 16pt rgba(247,198,132,.50), 0 2pt 2pt rgba(0,0,0,.55); }
+.marquee .ice { color: var(--ice); text-shadow: 0 0 16pt rgba(186,218,255,.6), 0 2pt 2pt rgba(0,0,0,.55); }
+.cue { display: flex; align-items: center; gap: 7pt; margin: 0 0 6pt; font: 700 14pt/1.1 var(--display); letter-spacing: .12em; text-transform: uppercase; color: #f0c674; }
+.cue::before { content: ""; flex: 0 0 16pt; height: 1.3pt; background: currentColor; }
+.cue.run { display: inline; font-size: 14pt; margin: 0 4pt 0 0; }
+.cue.run::before { content: none; }
+.glass.marble .cue { color: #8a5a20; }
+.glass.frost .cue { color: #1f4f9a; }
+.voice { font: italic 400 14pt/18pt var(--serif); }
+.glass p { margin: 0 0 6pt; line-height: 18pt; }
+.glass .eq { color: inherit; font-size: 19pt; margin: 3pt 0 6pt; }
+.eqgrid { display: grid; grid-template-columns: max-content max-content; column-gap: 8pt; row-gap: 3pt; align-items: baseline; margin: 2pt 0 7pt; }
+.eqgrid .lbl { font: 400 14pt/18pt var(--sans); }
+.eqgrid .eq { margin: 0; }
+.glass.marble .mt, .glass.frost .mt { color: #1f4f9a; }
+.glass.marble .mr, .glass.frost .mr { color: #a3561c; }
+.warm { color: var(--lamp); } .cold { color: var(--moon); }
+.glass.frost .cold, .glass.marble .cold { color: #1f4f9a; } .glass.frost .warm, .glass.marble .warm { color: #a3561c; }
+.rule-brass { height: 1pt; margin: 8pt 0 9pt; background: linear-gradient(90deg, rgba(214,166,78,.9), rgba(214,166,78,0)); }
+.glass.frost .rule-brass { background: linear-gradient(90deg, rgba(31,79,154,.55), rgba(31,79,154,0)); }
+
+/* ------------------------------------------------------------ people and things in the world */
+.actor { position: absolute; }
+.actor img { display: block; width: 100%; height: auto; filter: drop-shadow(0 12pt 12pt rgba(2,5,14,.55)); }
+.actor .contact { position: absolute; left: 12%; right: 12%; bottom: -4pt; height: 14pt; border-radius: 50%; background: radial-gradient(ellipse, rgba(2,5,14,.55), rgba(2,5,14,0) 70%); }
+.prop { position: absolute; }
+.prop img { display: block; width: 100%; height: auto; filter: drop-shadow(0 6pt 6pt rgba(2,5,14,.55)); }
+
+/* ------------------------------------------------------------ speech (a character speaking to the reader) */
+.say { position: absolute; background: #fbf6ea; color: var(--ink-d); border-radius: 18pt; padding: 8pt 14pt 9pt;
+  font: 500 17pt/19pt var(--hand); box-shadow: 0 8pt 16pt rgba(2,5,14,.45); }
+.say svg.tail { position: absolute; width: 22pt; height: 24pt; left: var(--tx, 50%); bottom: -20pt; transform: translateX(-50%) rotate(var(--tr, 0deg)); overflow: visible; }
+.say svg.tail path { fill: #fbf6ea; }
+
+/* ------------------------------------------------------------ folio: the moon waxes as the chapter goes on */
+.folio { position: absolute; display: flex; align-items: center; gap: 6pt; font: 700 13pt/1 var(--display); letter-spacing: .1em;
+  color: var(--brass-hi); text-shadow: 0 1pt 3pt rgba(0,0,0,.7); }
+.folio svg { width: 20pt; height: 20pt; filter: drop-shadow(0 0 4pt rgba(207,224,250,.45)); }

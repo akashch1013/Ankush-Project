@@ -9,6 +9,7 @@ Transparent PNG cut-outs recovered on 2026-11-22 from the approved sample PDF `C
 | C-VIHAAN-LEAN-01.png / -02.png | Vihaan leaning on a ledge, relaxed smile | companion, aside speaker |
 | C-AHANA-LEAN-02.png | Ahana leaning on blue stone pillar, blank sketchbook, warm smile; sharp 1024x1536, transparent (replaces blurry LEAN-01 for large use) | companion, large figure (e.g. CH01 P005) |
 | C-NAVYA-LEAN-01.png | Navya with satchel, arched lane behind (feathered) | companion, aside speaker |
+| C-TARA-STAND-01.png | Tara full figure, 3/4 view facing screen-left, brass bell-staff upright in one hand, other hand open; sharp 1024x1536, transparent, keyed from magenta (no halo on cream or navy) | large companion/guide figure (CH01 P024) |
 | P-LEDGE-LONG-01.png | long blue-stone ledge with brass cap | a surface for a companion or a prop to sit on |
 | P-LEDGE-ARCH-01..03.png | ledge with arch and wall lamp, torn-paper fade | scenery entering the paper |
 

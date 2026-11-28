@@ -96,5 +96,215 @@
   "design": "category reference: story-maths (P107 story family + B1 panes)",
   "version": "1795697977-db34",
   "note": "2026-11-26 v2: fixed page mark bottom-right"
+ },
+ "P006": {
+  "url": "https://claude.ai/artifact/Ef9URbxoAtFvqj1BiW1jxk",
+  "file_path": "PdfSheetsGenTask/CH01/P006/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P006.pdf",
+  "design": "concept: lift buttons + −10…10 line",
+  "version": "1795833671-4359"
+ },
+ "P007": {
+  "url": "https://claude.ai/artifact/PbQagA4tS8hKZ2ed93xSNC",
+  "file_path": "PdfSheetsGenTask/CH01/P007/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P007.pdf",
+  "design": "diagram-led: lift-shaft gauges",
+  "version": "1795833835-f3ab"
+ },
+ "P008": {
+  "url": "https://claude.ai/artifact/NkvTXJaQ4Xzgnv88RL3AUC",
+  "file_path": "PdfSheetsGenTask/CH01/P008/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P008.pdf",
+  "design": "worked-example: drum-window counter + Vihaan Q01",
+  "version": "1795833537-d740"
+ },
+ "P009": {
+  "url": "https://claude.ai/artifact/BCgo6yG3ctmFYiD1fp6vjB",
+  "file_path": "PdfSheetsGenTask/CH01/P009/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P009.pdf",
+  "design": "diagram-led: twin pattern ledgers",
+  "version": "1795833836-8250"
+ },
+ "P010": {
+  "url": "https://claude.ai/artifact/GR3hyMcuFLdUAPqXmePfnY",
+  "file_path": "PdfSheetsGenTask/CH01/P010/artifact.html",
+  "math": "PASS 2026-11-28 (T1.1A)",
+  "pdf": "Output/CH01/CH01-P010.pdf",
+  "design": "worked-example: moonlit hop strips + calculator (−) key",
+  "version": "1795833837-d3fe"
+ },
+ "P012": {
+  "url": "https://claude.ai/artifact/ASbxBtWusqzeRkC1SAVvcb",
+  "file_path": "PdfSheetsGenTask/CH01/P012/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P012.pdf",
+  "design": "action-story: store landing",
+  "version": "1795843992-5bbe"
+ },
+ "P015": {
+  "url": "https://claude.ai/artifact/SJTJr2fYdBUjhkfzmo2vjt",
+  "file_path": "PdfSheetsGenTask/CH01/P015/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P015.pdf",
+  "design": "concept: score-plaque penalty removed",
+  "version": "1795843993-4b7b"
+ },
+ "P016": {
+  "url": "https://claude.ai/artifact/S7FhYFHB3E8kMGecSzdKXv",
+  "file_path": "PdfSheetsGenTask/CH01/P016/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P016.pdf",
+  "design": "worked-example: flip-tile rails",
+  "version": "1795844086-2314"
+ },
+ "P019": {
+  "url": "https://claude.ai/artifact/3zpK6oFXja8k6UbXVsKDqy",
+  "file_path": "PdfSheetsGenTask/CH01/P019/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P019.pdf",
+  "design": "concept: lantern racks",
+  "version": "1795844087-fa69"
+ },
+ "P020": {
+  "url": "https://claude.ai/artifact/Dh3ZCWUQBQpanGVrpaJhXA",
+  "file_path": "PdfSheetsGenTask/CH01/P020/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P020.pdf",
+  "design": "practice-set: pattern staircases",
+  "version": "1795844088-e9f4"
+ },
+ "P011": {
+  "url": "https://claude.ai/artifact/CnUXhNnVZ95zsH22ZfuYCg",
+  "file_path": "PdfSheetsGenTask/CH01/P011/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P011.pdf",
+  "design": "dialogue-story: card choice",
+  "version": "1795844324-b7ac"
+ },
+ "P013": {
+  "url": "https://claude.ai/artifact/SvUBdEMsV2oHJrbWFH4sds",
+  "file_path": "PdfSheetsGenTask/CH01/P013/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P013.pdf",
+  "design": "action-story: rise, drop, hidden card",
+  "version": "1795844326-aa15"
+ },
+ "P014": {
+  "url": "https://claude.ai/artifact/WpgYsyvEBirV5grhouxgbm",
+  "file_path": "PdfSheetsGenTask/CH01/P014/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P014.pdf",
+  "design": "dialogue-story: cancel button",
+  "version": "1795844327-23c6"
+ },
+ "P017": {
+  "url": "https://claude.ai/artifact/EPZkqKZWfhapiwS5LgGGpn",
+  "file_path": "PdfSheetsGenTask/CH01/P017/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P017.pdf",
+  "design": "action-story: undo to 0",
+  "version": "1795844329-35e8"
+ },
+ "P018": {
+  "url": "https://claude.ai/artifact/R46ZxHPa3oieUnfwBEPepB",
+  "file_path": "PdfSheetsGenTask/CH01/P018/artifact.html",
+  "math": "PASS 2026-11-28 (story numbers)",
+  "pdf": "Output/CH01/CH01-P018.pdf",
+  "design": "dialogue-story: four wheels",
+  "version": "1795844330-c0e6"
+ },
+ "P021": {
+  "url": "https://claude.ai/artifact/M6Xm2vfDu11PcuZVEABM4S",
+  "file_path": "PdfSheetsGenTask/CH01/P021/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P021.pdf",
+  "design": "worked-example: level tubes",
+  "version": "1795844646-0be2"
+ },
+ "P022": {
+  "url": "https://claude.ai/artifact/Mdd9dgzu7aTRqb95EiapiZ",
+  "file_path": "PdfSheetsGenTask/CH01/P022/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P022.pdf",
+  "design": "concept: pipe loops",
+  "version": "1795844647-47f8"
+ },
+ "P023": {
+  "url": "https://claude.ai/artifact/Woi91Wpm34RU8vXM4EsnPm",
+  "file_path": "PdfSheetsGenTask/CH01/P023/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P023.pdf",
+  "design": "diagram-led: calculator investigation",
+  "version": "1795844649-47e3"
+ },
+ "P024": {
+  "url": "https://claude.ai/artifact/YYK8QYXJ4KFmo6CB5KFAVM",
+  "file_path": "PdfSheetsGenTask/CH01/P024/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P024.pdf",
+  "design": "worked-example: sign matrix + Tara Q02",
+  "version": "1795845605-a068",
+  "note": "2026-11-28: clean Tara vignette V-TARA-P024 (user: cut-out not proper)"
+ },
+ "P025": {
+  "url": "https://claude.ai/artifact/3nzkvGknzGEapF4LTqsj77",
+  "file_path": "PdfSheetsGenTask/CH01/P025/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P025.pdf",
+  "design": "practice-set: ruler",
+  "version": "1795844652-9695"
+ },
+ "P026": {
+  "url": "https://claude.ai/artifact/1J4f3JfPNVdDZUghZwAja6",
+  "file_path": "PdfSheetsGenTask/CH01/P026/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P026.pdf",
+  "design": "practice-set: bracket caskets",
+  "version": "1795844654-394a"
+ },
+ "P027": {
+  "url": "https://claude.ai/artifact/9hC9MEZWCH81JgDMHjCx8x",
+  "file_path": "PdfSheetsGenTask/CH01/P027/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P027.pdf",
+  "design": "word problems: balance + Vihaan Q03",
+  "version": "1795844655-801b"
+ },
+ "P028": {
+  "url": "https://claude.ai/artifact/4p4CBfqvV3nZBY4YwQcqcU",
+  "file_path": "PdfSheetsGenTask/CH01/P028/artifact.html",
+  "math": "PASS 2026-11-28 (tags added)",
+  "pdf": "Output/CH01/CH01-P028.pdf",
+  "design": "action-story: wheels set, gate opens",
+  "version": "1795844987-104e"
+ },
+ "P029": {
+  "url": "https://claude.ai/artifact/GE9iJCts533SFEQ2GMib31",
+  "file_path": "PdfSheetsGenTask/CH01/P029/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P029.pdf",
+  "design": "dialogue-story: five lights",
+  "version": "1795844989-76b7"
+ },
+ "P030": {
+  "url": "https://claude.ai/artifact/QVP4AGzdWYGcgVyahg86Vz",
+  "file_path": "PdfSheetsGenTask/CH01/P030/artifact.html",
+  "math": "PASS 2026-11-28 (master: plate's 1–16 beat ruler is not the 'final 12 setting')",
+  "pdf": "Output/CH01/CH01-P030.pdf",
+  "design": "action-story: two catches hold the bird",
+  "version": "1795844990-b971"
+ },
+ "P003": {
+  "url": "https://claude.ai/artifact/8E8NEiAWrDUFZr9BfELyY9",
+  "file_path": "PdfSheetsGenTask/CH01/P003/artifact.html",
+  "math": "PASS 2026-11-25 (s2 panels 3-4; strip +2..-8)",
+  "pdf": "Output/CH01/CH01-P003.pdf",
+  "design": "lift shaft: aubergine→amber, brass gate border (from art-direction-a1, client-approved)",
+  "version": "1795845643-d96c",
+  "note": "2026-11-28: page number only"
  }
 }

@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P022</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+  .page.ledger { background:#F7F1E3; color:#1d2433; font-family:"Source Sans 3",sans-serif; font-size:14pt; line-height:18pt; }
+  .ledger .blk { position:absolute; }
+  .ledger p { margin:0 0 7pt; font-size:14pt; line-height:18pt; color:#1d2433; }
+  .ledger .sh { font-weight:600; color:#122A45; font-size:19pt; line-height:23pt; margin:0 0 6pt; display:flex; align-items:center; white-space:nowrap; }
+  .ledger .sh::after { content:""; display:block; width:30pt; border-top:.9pt solid #b3722f; margin-left:9pt; }
+  .ledger .sh.big { font-size:22pt; line-height:26pt; } .ledger .sh.big::after { width:60pt; border-top:1.8pt solid #b3722f; }
+  .ledger .sh.sm { font-size:17pt; line-height:21pt; }
+  .ledger .mt { color:#1F6F6B; font-weight:700; } .ledger .mr { color:#B5603A; font-weight:700; }
+  .m { font-weight:700; white-space:nowrap; color:#122A45; }
+  .plate { display:inline-block; font-weight:700; color:#5a3510; background:linear-gradient(#f3d58f,#c98f45); border:.7pt solid #6e4318; padding:0 6pt; border-radius:2pt; }
+  .qcard { background:#FBF7EE; border:.8pt solid #b3722f; padding:9pt 14pt 7pt; }
+  .qcard p { margin:0 0 8pt; } .qcard p:last-child { margin:0; }
+  .ablock { background:#EFE6D2; border-left:2.4pt solid #b3722f; border-top:.8pt solid #b3722f; padding:9pt 13pt 6pt; }
+  .ablock p { margin:0 0 6pt; } .ablock p:last-child { margin:0; }
+  .vt { position:absolute; font-weight:700; text-align:center; white-space:nowrap; }
+  .chit { position:absolute; width:62pt; text-align:center; font-weight:700; font-size:21pt; line-height:34pt; color:#1d2433; }
+  .vl { position:absolute; width:58pt; text-align:center; font-weight:700; font-size:17pt; line-height:20pt; color:#fff6d8; text-shadow:0 1pt 1pt rgba(0,0,0,.5); }
+  .ledger .tw { position:absolute; font-size:14pt; font-weight:600; color:#8a5a22; }
+</style>
+</head>
+<body>
+<div class="page ledger" id="page" data-chapter="CH01" data-page="P022">
+<svg class="blk" style="left:0;top:0;width:864pt;height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+<defs>
+ <linearGradient id="pl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0c1933"/><stop offset=".6" stop-color="#173670"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+ <linearGradient id="pr" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#0c1933"/><stop offset=".6" stop-color="#173670"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+ <linearGradient id="nv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#122A45"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+ <linearGradient id="cr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c1933"/><stop offset="1" stop-color="#1e4589"/></linearGradient>
+ <radialGradient id="mg" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#eef3fb"/><stop offset=".6" stop-color="#c9d6ea"/><stop offset="1" stop-color="#8d9fbf"/></radialGradient>
+ <radialGradient id="br" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#f3d58f"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#6e4318"/></radialGradient>
+ <filter id="sf"><feGaussianBlur stdDeviation="1.1"/></filter>
+</defs>
+<rect x="0" y="0" width="22" height="648" fill="url(#pl)"/>
+<rect x="842" y="0" width="22" height="648" fill="url(#pr)"/>
+<path d="M22.5 0 V648 M841.5 0 V648" stroke="#c9a24a" stroke-width=".9"/>
+<path d="M2.5 0 V648 M861.5 0 V648" stroke="#c9a24a" stroke-width=".5" stroke-opacity=".6"/>
+<path d="M11 60 L17 74 L11 88 L5 74 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 69 L12 73 L16 74 L12 75 L11 79 L10 75 L6 74 L10 73 Z" fill="#e8c06a"/><path d="M11 116 L17 130 L11 144 L5 130 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 125 L12 129 L16 130 L12 131 L11 135 L10 131 L6 130 L10 129 Z" fill="#e8c06a"/><path d="M11 172 L17 186 L11 200 L5 186 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 181 L12 185 L16 186 L12 187 L11 191 L10 187 L6 186 L10 185 Z" fill="#e8c06a"/><path d="M11 228 L17 242 L11 256 L5 242 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 237 L12 241 L16 242 L12 243 L11 247 L10 243 L6 242 L10 241 Z" fill="#e8c06a"/><path d="M11 284 L17 298 L11 312 L5 298 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 293 L12 297 L16 298 L12 299 L11 303 L10 299 L6 298 L10 297 Z" fill="#e8c06a"/><path d="M11 340 L17 354 L11 368 L5 354 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 349 L12 353 L16 354 L12 355 L11 359 L10 355 L6 354 L10 353 Z" fill="#e8c06a"/><path d="M11 396 L17 410 L11 424 L5 410 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 405 L12 409 L16 410 L12 411 L11 415 L10 411 L6 410 L10 409 Z" fill="#e8c06a"/><path d="M11 452 L17 466 L11 480 L5 466 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 461 L12 465 L16 466 L12 467 L11 471 L10 467 L6 466 L10 465 Z" fill="#e8c06a"/><path d="M11 508 L17 522 L11 536 L5 522 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 517 L12 521 L16 522 L12 523 L11 527 L10 523 L6 522 L10 521 Z" fill="#e8c06a"/><path d="M11 564 L17 578 L11 592 L5 578 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M11 573 L12 577 L16 578 L12 579 L11 583 L10 579 L6 578 L10 577 Z" fill="#e8c06a"/><path d="M853 60 L859 74 L853 88 L847 74 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 69 L854 73 L858 74 L854 75 L853 79 L852 75 L848 74 L852 73 Z" fill="#e8c06a"/><path d="M853 116 L859 130 L853 144 L847 130 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 125 L854 129 L858 130 L854 131 L853 135 L852 131 L848 130 L852 129 Z" fill="#e8c06a"/><path d="M853 172 L859 186 L853 200 L847 186 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 181 L854 185 L858 186 L854 187 L853 191 L852 187 L848 186 L852 185 Z" fill="#e8c06a"/><path d="M853 228 L859 242 L853 256 L847 242 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 237 L854 241 L858 242 L854 243 L853 247 L852 243 L848 242 L852 241 Z" fill="#e8c06a"/><path d="M853 284 L859 298 L853 312 L847 298 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 293 L854 297 L858 298 L854 299 L853 303 L852 299 L848 298 L852 297 Z" fill="#e8c06a"/><path d="M853 340 L859 354 L853 368 L847 354 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 349 L854 353 L858 354 L854 355 L853 359 L852 355 L848 354 L852 353 Z" fill="#e8c06a"/><path d="M853 396 L859 410 L853 424 L847 410 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 405 L854 409 L858 410 L854 411 L853 415 L852 411 L848 410 L852 409 Z" fill="#e8c06a"/><path d="M853 452 L859 466 L853 480 L847 466 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 461 L854 465 L858 466 L854 467 L853 471 L852 467 L848 466 L852 465 Z" fill="#e8c06a"/><path d="M853 508 L859 522 L853 536 L847 522 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 517 L854 521 L858 522 L854 523 L853 527 L852 523 L848 522 L852 521 Z" fill="#e8c06a"/><path d="M853 564 L859 578 L853 592 L847 578 Z" fill="none" stroke="#c9a24a" stroke-width=".5"/><path d="M853 573 L854 577 L858 578 L854 579 L853 583 L852 579 L848 578 L852 577 Z" fill="#e8c06a"/>
+<!-- top lintel with moon-gate crown -->
+<rect x="0" y="0" width="864" height="12" fill="url(#cr)"/>
+<path d="M0 12.5 H340 M524 12.5 H864" stroke="#c9a24a" stroke-width=".9"/>
+<path d="M340 12.5 C380 12.5 392 40 432 40 C472 40 484 12.5 524 12.5" fill="none" stroke="#c9a24a" stroke-width=".9"/>
+<path d="M340 0 H524 V12.5 C484 12.5 472 40 432 40 C392 40 380 12.5 340 12.5 Z" fill="url(#cr)" stroke="#0c1933" stroke-width=".6"/>
+<path d="M346 12.5 C384 12.5 396 34 432 34 C468 34 480 12.5 518 12.5" fill="none" stroke="#c9a24a" stroke-width=".5"/>
+<path d="M372 5 L372.8 7.2 L375 8 L372.8 8.8 L372 11 L371.2 8.8 L369 8 L371.2 7.2 Z" fill="#e8c06a"/><path d="M492 5 L492.8 7.2 L495 8 L492.8 8.8 L492 11 L491.2 8.8 L489 8 L491.2 7.2 Z" fill="#e8c06a"/>
+<!-- brass moon-compass medallion with a moon-gate keyhole -->
+<circle cx="432" cy="26" r="22" fill="url(#br)" stroke="#5a3510" stroke-width=".8"/>
+<circle cx="432" cy="26" r="17" fill="#122A45" stroke="#f3d58f" stroke-width=".7"/>
+<path d="M432 12 V40 M418 26 H446 M422 16 L442 36 M442 16 L422 36" stroke="#c9a24a" stroke-width=".4"/>
+<circle cx="432" cy="26" r="9" fill="url(#mg)"/><circle cx="435" cy="24.6" r="7.6" fill="#122A45"/>
+<circle cx="432" cy="26" r="2.2" fill="#0c1933" stroke="#c9a24a" stroke-width=".4"/><path d="M431 27 L430.6 31 H433.4 L433 27" fill="#0c1933"/>
+<!-- bottom paving hairline + tab for the page mark -->
+<path d="M0 645.5 H864" stroke="#cfc3a6" stroke-width="2"/><path d="M0 647.4 H864" stroke="#b3722f" stroke-width=".8"/>
+<polygon points="788,648 794,621 820,621 826,648" fill="url(#nv)"/>
+<path d="M794.6 621.6 H819.4" stroke="#c9a24a" stroke-width=".8" fill="none"/>
+</svg>
+<div class="blk" style="left:42pt;top:30pt;width:306pt">
+ <div class="sh big">Division</div>
+ <p>Division can be checked by multiplication. For example, <b class="m" data-math="6 ÷ 2 = 3">6 ÷ 2 = 3</b> because <b class="m" data-math="3 × 2 = 6">3 × 2 = 6</b>. Similarly, <b class="m" data-math="12 ÷ 3 = 4">12 ÷ 3 = 4</b> because <b class="m" data-math="4 × 3 = 12">4 × 3 = 12</b>. We say division and multiplication are inverse operations: one undoes the other.</p>
+ <p>The answer to a division is called the <b class="plate">quotient</b>. To find −6 ÷ 2, ask, “What number multiplied by 2 gives −6?”</p>
+</div>
+<div class="blk qcard" style="left:42pt;top:246pt;width:306pt">
+ <div class="sh sm">Find the missing numbers</div>
+ <p>(a) (−6) ÷ 2 = □ is the same as −6 = □ × 2. What does □ stand for?</p>
+ <p>(b) (−12) ÷ 4 = ○ is the same as −12 = ○ × 4. What does ○ stand for?</p>
+</div>
+<div class="blk ablock" style="left:42pt;top:420pt;width:306pt">
+ <div class="sh sm">Check your method</div>
+ <p>(a) <b class="m" data-math="(−3) × 2 = −6">(−3) × 2 = −6</b>, so □ = −3 and <b class="m" data-math="(−6) ÷ 2 = −3">(−6) ÷ 2 = −3</b>.</p>
+ <p>(b) <b class="m" data-math="(−3) × 4 = −12">(−3) × 4 = −12</b>, so ○ = −3 and <b class="m" data-math="(−12) ÷ 4 = −3">(−12) ÷ 4 = −3</b>.</p>
+</div>
+<i style="position:absolute;left:362pt;top:60pt;height:540pt;border-left:.5pt solid #b3722f;opacity:.7"></i>
+<svg class="blk" style="left:376pt;top:58pt;width:440pt;height:250pt" viewBox="0 0 440 250" aria-hidden="true">
+ <defs><linearGradient id="cua" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3946a"/><stop offset=".45" stop-color="#b5603a"/><stop offset="1" stop-color="#6e2f17"/></linearGradient>
+ <linearGradient id="tea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5fc0b8"/><stop offset=".45" stop-color="#1F6F6B"/><stop offset="1" stop-color="#0d3b3a"/></linearGradient>
+ <linearGradient id="cva" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e3946a"/><stop offset=".45" stop-color="#b5603a"/><stop offset="1" stop-color="#6e2f17"/></linearGradient>
+ <linearGradient id="tva" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5fc0b8"/><stop offset=".45" stop-color="#1F6F6B"/><stop offset="1" stop-color="#0d3b3a"/></linearGradient></defs>
+ <!-- pipes -->
+ <rect x="63" y="43" width="314" height="14" rx="4" fill="url(#cua)"/>
+ <rect x="63" y="183" width="314" height="14" rx="4" fill="url(#tea)"/>
+ <rect x="63" y="50" width="14" height="70.0" fill="url(#cva)"/>
+ <rect x="63" y="120.0" width="14" height="70.0" fill="url(#tva)"/>
+ <rect x="363" y="50" width="14" height="70.0" fill="url(#cva)"/>
+ <rect x="363" y="120.0" width="14" height="70.0" fill="url(#tva)"/>
+ <path d="M67 46 H373" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/>
+ <path d="M67 186 H373" stroke="#fff" stroke-opacity=".3" stroke-width="1.2"/>
+ <!-- brass collars -->
+ <rect x="120" y="41" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><rect x="300" y="41" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/>
+ <rect x="120" y="181" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><rect x="300" y="181" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/>
+ <!-- flow arrows -->
+ <path d="M150 30 H196 M188 25 L196 30 L188 35" fill="none" stroke="#b5603a" stroke-width="2" stroke-linecap="round"/>
+ <path d="M290 210 H244 M252 205 L244 210 L252 215" fill="none" stroke="#1F6F6B" stroke-width="2" stroke-linecap="round"/>
+ <!-- valve top (x2): gate valve body + stem + wheel -->
+ <rect x="206" y="38" width="56" height="24" rx="5" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <path d="M234 38 V24" stroke="#6e4318" stroke-width="3"/><ellipse cx="234" cy="22" rx="14" ry="3.6" fill="#c98f45" stroke="#6e4318" stroke-width=".6"/>
+ <!-- valve bottom (÷): wheel handle with small spare key -->
+ <rect x="170" y="178" width="56" height="24" rx="5" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <path d="M198 202 V216" stroke="#6e4318" stroke-width="3"/><circle cx="198" cy="220" r="13" fill="none" stroke="#c98f45" stroke-width="3.2"/>
+ <path d="M198 207 V233 M185 220 H211 M189 211 L207 229 M207 211 L189 229" stroke="#b3722f" stroke-width="1.4"/><circle cx="198" cy="220" r="3" fill="#6e4318"/>
+ <path d="M211 220 C218 220 220 228 218 234" fill="none" stroke="#8a5a22" stroke-width=".8"/>
+ <circle cx="218" cy="237" r="3" fill="none" stroke="#c98f45" stroke-width="1.4"/><path d="M218 240 V250 M218 245 h4 M218 249 h3" stroke="#c98f45" stroke-width="1.4"/>
+ <!-- condensation drop -->
+ <path d="M300 197 C297 205 296 209 300 211 C304 209 303 205 300 197 Z" fill="#cfd8e8" stroke="#8d9fbf" stroke-width=".5"/>
+ <!-- slotted plates at each end -->
+ <g><rect x="32" y="97.0" width="62" height="46" rx="4" fill="#122A45" stroke="#c9a24a" stroke-width="1.4"/>
+ <rect x="40" y="105.0" width="46" height="30" rx="2.5" fill="#0c1933" stroke="#5a3510" stroke-width="1"/><path d="M40 135.0 H86" stroke="#5f8bd6" stroke-opacity=".5" stroke-width=".8"/>
+ <circle cx="36" cy="101.0" r="1.5" fill="#d9a55a"/><circle cx="90" cy="101.0" r="1.5" fill="#d9a55a"/><circle cx="36" cy="139.0" r="1.5" fill="#d9a55a"/><circle cx="90" cy="139.0" r="1.5" fill="#d9a55a"/></g>
+ <g><rect x="346" y="97.0" width="62" height="46" rx="4" fill="#f3e6bf" stroke="#c9a24a" stroke-width="1.4"/>
+ <rect x="352" y="103.0" width="50" height="34" rx="2" fill="none" stroke="#b3722f" stroke-width=".6"/>
+ <circle cx="350" cy="101.0" r="1.5" fill="#b3722f"/><circle cx="404" cy="101.0" r="1.5" fill="#b3722f"/><circle cx="350" cy="139.0" r="1.5" fill="#b3722f"/><circle cx="404" cy="139.0" r="1.5" fill="#b3722f"/></g>
+</svg>
+<div class="vl" style="left:582pt;top:100pt;width:56pt;margin-left:0">× 2</div>
+<div class="vl" style="left:546pt;top:240pt;width:56pt">÷ 2</div>
+<div class="chit" style="left:722pt;top:161.0pt;width:62pt;height:34pt">−6</div>
+<svg class="blk" style="left:376pt;top:330pt;width:440pt;height:250pt" viewBox="0 0 440 250" aria-hidden="true">
+ <defs><linearGradient id="cub" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3946a"/><stop offset=".45" stop-color="#b5603a"/><stop offset="1" stop-color="#6e2f17"/></linearGradient>
+ <linearGradient id="teb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5fc0b8"/><stop offset=".45" stop-color="#1F6F6B"/><stop offset="1" stop-color="#0d3b3a"/></linearGradient>
+ <linearGradient id="cvb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e3946a"/><stop offset=".45" stop-color="#b5603a"/><stop offset="1" stop-color="#6e2f17"/></linearGradient>
+ <linearGradient id="tvb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5fc0b8"/><stop offset=".45" stop-color="#1F6F6B"/><stop offset="1" stop-color="#0d3b3a"/></linearGradient></defs>
+ <!-- pipes -->
+ <rect x="63" y="43" width="314" height="14" rx="4" fill="url(#cub)"/>
+ <rect x="63" y="183" width="314" height="14" rx="4" fill="url(#teb)"/>
+ <rect x="63" y="50" width="14" height="70.0" fill="url(#cvb)"/>
+ <rect x="63" y="120.0" width="14" height="70.0" fill="url(#tvb)"/>
+ <rect x="363" y="50" width="14" height="70.0" fill="url(#cvb)"/>
+ <rect x="363" y="120.0" width="14" height="70.0" fill="url(#tvb)"/>
+ <path d="M67 46 H373" stroke="#fff" stroke-opacity=".35" stroke-width="1.2"/>
+ <path d="M67 186 H373" stroke="#fff" stroke-opacity=".3" stroke-width="1.2"/>
+ <!-- brass collars -->
+ <rect x="120" y="41" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><rect x="300" y="41" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/>
+ <rect x="120" y="181" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/><rect x="300" y="181" width="5" height="18" rx="1.5" fill="#c98f45" stroke="#6e4318" stroke-width=".5"/>
+ <!-- flow arrows -->
+ <path d="M150 30 H196 M188 25 L196 30 L188 35" fill="none" stroke="#b5603a" stroke-width="2" stroke-linecap="round"/>
+ <path d="M290 210 H244 M252 205 L244 210 L252 215" fill="none" stroke="#1F6F6B" stroke-width="2" stroke-linecap="round"/>
+ <!-- valve top (x2): gate valve body + stem + wheel -->
+ <rect x="206" y="38" width="56" height="24" rx="5" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <path d="M234 38 V24" stroke="#6e4318" stroke-width="3"/><ellipse cx="234" cy="22" rx="14" ry="3.6" fill="#c98f45" stroke="#6e4318" stroke-width=".6"/>
+ <!-- valve bottom (÷): wheel handle with small spare key -->
+ <rect x="170" y="178" width="56" height="24" rx="5" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <path d="M198 202 V216" stroke="#6e4318" stroke-width="3"/><circle cx="198" cy="220" r="13" fill="none" stroke="#c98f45" stroke-width="3.2"/>
+ <path d="M198 207 V233 M185 220 H211 M189 211 L207 229 M207 211 L189 229" stroke="#b3722f" stroke-width="1.4"/><circle cx="198" cy="220" r="3" fill="#6e4318"/>
+ <path d="M211 220 C218 220 220 228 218 234" fill="none" stroke="#8a5a22" stroke-width=".8"/>
+ <circle cx="218" cy="237" r="3" fill="none" stroke="#c98f45" stroke-width="1.4"/><path d="M218 240 V250 M218 245 h4 M218 249 h3" stroke="#c98f45" stroke-width="1.4"/>
+ <!-- condensation drop -->
+ <path d="M300 197 C297 205 296 209 300 211 C304 209 303 205 300 197 Z" fill="#cfd8e8" stroke="#8d9fbf" stroke-width=".5"/>
+ <!-- slotted plates at each end -->
+ <g><rect x="32" y="97.0" width="62" height="46" rx="4" fill="#122A45" stroke="#c9a24a" stroke-width="1.4"/>
+ <rect x="40" y="105.0" width="46" height="30" rx="2.5" fill="#0c1933" stroke="#5a3510" stroke-width="1"/><path d="M40 135.0 H86" stroke="#5f8bd6" stroke-opacity=".5" stroke-width=".8"/>
+ <circle cx="36" cy="101.0" r="1.5" fill="#d9a55a"/><circle cx="90" cy="101.0" r="1.5" fill="#d9a55a"/><circle cx="36" cy="139.0" r="1.5" fill="#d9a55a"/><circle cx="90" cy="139.0" r="1.5" fill="#d9a55a"/></g>
+ <g><rect x="346" y="97.0" width="62" height="46" rx="4" fill="#f3e6bf" stroke="#c9a24a" stroke-width="1.4"/>
+ <rect x="352" y="103.0" width="50" height="34" rx="2" fill="none" stroke="#b3722f" stroke-width=".6"/>
+ <circle cx="350" cy="101.0" r="1.5" fill="#b3722f"/><circle cx="404" cy="101.0" r="1.5" fill="#b3722f"/><circle cx="350" cy="139.0" r="1.5" fill="#b3722f"/><circle cx="404" cy="139.0" r="1.5" fill="#b3722f"/></g>
+</svg>
+<div class="vl" style="left:582pt;top:372pt;width:56pt;margin-left:0">× 4</div>
+<div class="vl" style="left:546pt;top:512pt;width:56pt">÷ 4</div>
+<div class="chit" style="left:722pt;top:433.0pt;width:62pt;height:34pt">−12</div>
+<div class="tw" style="left:380pt;top:240pt"></div><div class="pagemark" style="--pm-ink:#f3d58f; --pm-ring:#c9a24a; --pm-coin:rgba(12,25,51,.8)"><span class="pm-no">22</span></div>
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

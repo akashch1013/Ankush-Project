@@ -1,0 +1,17 @@
+Use case: ChandRush CH01 comic panel P017-4: silent close-up: Navya holds the removed thin card above the shelf; the next slot is empty.
+Asset: one 2:3 portrait graphic-novel panel illustration, no lettering of any kind. The page crops with object-fit cover, keep the essential action inside the central 80%.
+Input images:
+- Image 1: approved raw background plate S01-D02. Keep its architecture, materials, colours and every object exactly as painted, same positions and shapes. Use the plate's close view of the controller. Close-up of the card slot and the controller shelf, framed tall.
+- Image 2: character sheet of Navya. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+- Image 3: character sheet of Tara. Use ONLY for identity: face, hair, skin tone (fair), body proportions, outfit and colours. Ignore the sheet's layout, turnaround poses, background, labels and any text.
+Characters and action:
+1. Navya: hands only, centre; one hand holds the removed thin card just above a separate patch of the shelf; her other hand checks the next slot without activating it.
+2. Ahana: at the edge, only the warm light and her brass lamp held in her RIGHT hand lighting the hands; no face.
+3. Tara: soft and out of focus in the background behind the guard edge, calm, wise, watching Navya's hands; staff upright.
+Props and states at this moment (exact): the removed thin card is a blank cream thin card with NO numerals and a thin brass rim, face turned to the camera, flat, held in Navya's fingers just above the shelf (its value is added later); the slot it came from is now EMPTY; exactly one more plain blank cream card rests apart on the shelf (the next card ready); car off-crop
+Physical inscriptions (render exactly, nothing else): the plate's own labels and strip numerals exactly as painted; both cards remain BLANK
+Lighting (exact): night, full moon, cool moonlight rim on edges. EVERY fixed Lantern Street lamp is switched OFF and dark with unlit glass: the wall sconce at the far left, all hanging and arch lanterns, stall lanterns and distant canopy lights (paint them unlit; change nothing else about them). The ONLY warm lights are the lift's single wall lamp beside the controller (lit, amber) and Ahana's portable brass lamp in her right hand. The small lamp hanging inside the lift car is OFF (dark).
+Reserved empty areas for lettering (keep calm, low detail, no face, hand or key prop inside): none needed.
+Composition: tall close-up; hands, the thin card and the empty slot in the middle; key action inside the central 80%.
+Style: match Image 1's finish exactly: premium semi-realistic painterly 2.5D graphic-novel illustration; characters drawn in the same finish as the ChandRush character sheets, grounded with crisp contact shadows, lit by the scene's lamps and moonlight. Tara is always a calm, wise old lady, never animated or cartoon-surprised. All human characters have fair skin. Hands have exactly five fingers.
+Do not show: any speech bubble, caption, title, label, arrow, watermark, signature or lettering of any kind except the plate's own inscriptions listed above; extra characters; extra, moved or invented background objects; any lit street lantern; the lamp inside the car lit; numbers on the thin card; a hand pressing a button; extra cards in the slots.

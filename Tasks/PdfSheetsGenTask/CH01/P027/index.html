@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P027</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+
+  .page.ledger { color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; overflow: hidden; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 4pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-weight: 600; color: #122A45; font-size: 17pt; line-height: 21pt; margin: 0 0 5pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger .eq { font-size: 18pt; line-height: 25pt; font-weight: 600; color: #1d2433; margin: 0; }
+  .ledger .lb { font-weight: 700; color: #1F6F6B; font-size: 14pt; margin-right: 5pt; }
+  .ledger .eqrow { margin: 0 0 1pt; display: block; }
+  .ledger .eqrow p { margin: 0; }
+  .ledger .voice { font-family: "Source Serif 4", serif; font-style: italic; }
+  .pagemark svg { display: none; }
+
+  .page.ledger { background-color: #F4EEDC;
+     background-image: linear-gradient(rgba(31,111,107,.10) .6pt, transparent .6pt), linear-gradient(90deg, rgba(31,111,107,.10) .6pt, transparent .6pt);
+     background-size: 17pt 17pt; }
+  .qcard { position: absolute; box-sizing: border-box; background: #FBF7EE; border: .8pt solid #b3722f; padding: 7pt 12pt 5pt;
+           box-shadow: 0 1.6pt 0 #b9a77f, 0 3pt 3pt rgba(60,40,10,.2); }
+  .qcard p { margin: 0 0 2pt; }
+  .ablock { position: absolute; background: #E4D6B0; border-left: 3pt solid #1F6F6B; border-top: 1.6pt solid #1F6F6B; border-bottom: .6pt solid #b3722f; box-sizing: border-box; padding: 7pt 13pt 4pt; }
+  .ablock .sh { margin-bottom: 3pt; }
+  .ablock .eq { font-size: 17pt; line-height: 23pt; font-weight: 600; white-space: nowrap; display: block; margin: 1pt 0 3pt; }
+  .ablock p { margin: 0 0 2pt; }
+  .tag { position: absolute; font-weight: 700; font-size: 14pt; line-height: 15pt; color: #2a1a06; text-align: center; white-space: nowrap; }
+  .aside-b { position: absolute; background: #FFFDF6; border: .8pt solid #1d2433; border-radius: 50% / 46%; padding: 8pt 18pt 9pt;
+             font-family: "Source Serif 4", serif; font-size: 14pt; line-height: 18pt; color: #1d2433; text-align: center; }
+  .aside-b svg.tl { position: absolute; overflow: visible; }
+
+</style>
+</head>
+<body>
+<div class="page ledger" id="page" data-chapter="CH01" data-page="P027">
+
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+ <defs>
+  <linearGradient id="cop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0b583"/><stop offset=".3" stop-color="#c8743c"/><stop offset=".7" stop-color="#9a4f24"/><stop offset="1" stop-color="#5e2d12"/></linearGradient>
+  <linearGradient id="pillar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+  <linearGradient id="nose" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#7c4c1a"/></linearGradient>
+  <linearGradient id="potg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5e2d12"/><stop offset=".35" stop-color="#e29a62"/><stop offset=".7" stop-color="#b3622c"/><stop offset="1" stop-color="#5e2d12"/></linearGradient>
+  <radialGradient id="rv" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff0c4"/><stop offset=".5" stop-color="#d7a256"/><stop offset="1" stop-color="#6e4318"/></radialGradient>
+  <radialGradient id="orng" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#f6b25a"/><stop offset=".6" stop-color="#d9772a"/><stop offset="1" stop-color="#8f3e12"/></radialGradient>
+ </defs>
+ <!-- left: pot-shelf rail (blue lacquer pillar, brass rail, copper pots) -->
+ <image href="assets/img/PILLAR.jpg" x="0" y="0" width="20" height="648" preserveAspectRatio="none"/>
+ <rect x="0" y="0" width="20" height="648" fill="#0d1f3d" fill-opacity=".3"/>
+ <path d="M20.5 0 V648" stroke="#c9a24a" stroke-width=".8"/>
+ <rect x="10" y="0" width="3.2" height="618" fill="url(#nose)" stroke="#5a3510" stroke-width=".3"/>
+ <g>
+  <path d="M5 80 H16 L15 92 H6 Z" fill="url(#potg)" stroke="#4a210c" stroke-width=".4"/><ellipse cx="10.5" cy="80" rx="5.5" ry="1.6" fill="#2a1306"/>
+  <path d="M5 170 H16 L15 182 H6 Z" fill="url(#potg)" stroke="#4a210c" stroke-width=".4"/><ellipse cx="10.5" cy="170" rx="5.5" ry="1.6" fill="#2a1306"/>
+  <path d="M4 290 H17 L15.5 304 H5.5 Z" fill="url(#potg)" stroke="#4a210c" stroke-width=".4"/><ellipse cx="10.5" cy="290" rx="6.5" ry="1.8" fill="#2a1306"/>
+  <!-- copper urn with a small moon reflection -->
+  <path d="M7 392 H14 L16 398 C20 406 19 424 15 434 L6 434 C2 424 1 406 5 398 Z" fill="url(#potg)" stroke="#4a210c" stroke-width=".4"/>
+  <rect x="8" y="388" width="5" height="4" fill="#c8743c" stroke="#4a210c" stroke-width=".3"/>
+  <circle cx="8.6" cy="410" r="2.2" fill="#dfeaff" fill-opacity=".85"/><circle cx="9.4" cy="409.4" r="1.6" fill="#a6c6f5"/>
+  <path d="M5 520 H16 L15 532 H6 Z" fill="url(#potg)" stroke="#4a210c" stroke-width=".4"/><ellipse cx="10.5" cy="520" rx="5.5" ry="1.6" fill="#2a1306"/>
+ </g>
+ <rect x="0" y="0" width="864" height="3.4" fill="#1F6F6B"/><rect x="860" y="0" width="4" height="648" fill="#1F6F6B"/>
+ <path d="M0 4 H864" stroke="#c9a24a" stroke-width=".5"/>
+ <!-- bottom: copper counter front with teal tile band and brass urn finial -->
+ <rect x="0" y="616" width="864" height="32" fill="url(#cop)"/>
+ <rect x="0" y="614.6" width="864" height="3.6" fill="url(#nose)" stroke="#5a3510" stroke-width=".4"/>
+ <g><rect x="0" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="16" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="32" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="48" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="64" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="80" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="96" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="112" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="128" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="144" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="160" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="176" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="192" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="208" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="224" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="240" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="256" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="272" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="288" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="304" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="320" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="336" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="352" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="368" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="384" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="400" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="416" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="432" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="448" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="464" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="480" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="496" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="512" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="528" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="544" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="560" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="576" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="592" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="608" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="624" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="640" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="656" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="672" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="688" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="704" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="720" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="736" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="752" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="768" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="784" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="800" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="816" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/><rect x="832" y="620" width="15" height="9" fill="#1F6F6B" stroke="#0e4a46" stroke-width=".4"/><rect x="848" y="620" width="15" height="9" fill="#2c8a84" stroke="#0e4a46" stroke-width=".4"/></g>
+ <path d="M0 631 H864" stroke="#4a210c" stroke-opacity=".5" stroke-width=".6"/>
+ <g stroke="#3a1a08" stroke-opacity=".35" stroke-width=".5"><path d="M110 631 V648 M330 631 V648 M550 631 V648 M770 631 V648"/></g>
+ <!-- brass urn finial on the counter lip, at left of the tiles -->
+ <path d="M38 614 V608 C38 604 40 602 43 602 C46 602 48 604 48 608 V614 Z" fill="url(#nose)" stroke="#5a3510" stroke-width=".4"/>
+ <circle cx="43" cy="599.6" r="2.6" fill="url(#nose)" stroke="#5a3510" stroke-width=".4"/>
+ <!-- a single orange rolls out of frame along the counter lip -->
+ <circle cx="858" cy="608" r="7.6" fill="url(#orng)" stroke="#6b2d0a" stroke-width=".4"/>
+ <path d="M858 600.6 q2 -3 4 -2" stroke="#2c6a43" stroke-width="1.1" fill="none"/>
+ <circle cx="855.4" cy="605.4" r="1.4" fill="#ffe2a8" fill-opacity=".7"/>
+ <path d="M820 611 q8 -2 24 0" stroke="#6b2d0a" stroke-opacity=".25" stroke-width="1" fill="none"/>
+</svg>
+<!-- Row 6 -->
+<div class="qcard" style="left:44pt; top:18pt; width:310pt; height:104pt"><div class="sh">6 Apples</div><p>Sarah has 7 apples. She gives 4 away and buys another 3. How many apples does she have?</p></div>
+<div class="ablock" style="left:362pt; top:18pt; width:460pt; height:104pt"><div class="sh">Check your method</div>
+ <p>Sarah starts with 7 apples. She gives away 4, leaving 3, then buys 3 more:</p>
+ <b class="eq" data-math="7 − 4 + 3 = 3 + 3 = 6">7 − 4 + 3 = 3 + 3 = 6</b>
+ <p>Sarah has 6 apples.</p></div>
+
+<!-- Row 7 -->
+<div class="qcard" style="left:44pt; top:130pt; width:310pt; height:100pt"><div class="sh">7 Paying for a meal</div><p>Sean has $10. He must pay $8 for a meal and $3 for a drink. How much more money does he need?</p></div>
+<div class="ablock" style="left:362pt; top:130pt; width:460pt; height:128pt"><div class="sh">Check your method</div>
+ <p>The total cost is <b data-math="8 + 3 = 11" style="font-weight:400">$8 + $3 = $11</b>. Compare that with his $10:</p>
+ <b class="eq" data-math="11 − 10 = 1">11 − 10 = 1</b>
+ <p>Sean needs $1 more. Alternatively, <b data-math="10 − 8 − 3 = −1" style="font-weight:400">10 − 8 − 3 = −1</b> shows a shortage of $1; the amount he needs is positive $1.</p></div>
+
+<svg class="blk" style="left:44pt; top:238pt; width:310pt; height:152pt" viewBox="0 0 310 152" aria-hidden="true">
+ <defs>
+  <linearGradient id="br" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".45" stop-color="#c98f45"/><stop offset="1" stop-color="#7c4c1a"/></linearGradient>
+  <linearGradient id="nv" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0a1730"/><stop offset=".5" stop-color="#234d95"/><stop offset="1" stop-color="#0a1730"/></linearGradient>
+  <linearGradient id="lea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a5a34"/><stop offset="1" stop-color="#4f2f18"/></linearGradient>
+  <linearGradient id="bill" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3dd9c"/><stop offset="1" stop-color="#d4b25e"/></linearGradient>
+  <radialGradient id="moonG" cx=".38" cy=".35" r=".7"><stop offset="0" stop-color="#fbe7b4"/><stop offset=".6" stop-color="#e0b25e"/><stop offset="1" stop-color="#a8702c"/></radialGradient>
+ </defs>
+ <!-- stand -->
+ <path d="M96 150 L110 134 H190 L204 150 Z" fill="url(#nv)" stroke="#0c1933" stroke-width=".7"/>
+ <path d="M96 150 H204" stroke="#c9a24a" stroke-width=".8"/>
+ <rect x="143" y="36" width="14" height="98" fill="url(#nv)" stroke="#0c1933" stroke-width=".6"/>
+ <path d="M146 40 V132" stroke="#7aa0e8" stroke-opacity=".5" stroke-width=".7"/>
+ <rect x="138" y="128" width="24" height="8" rx="2" fill="url(#br)" stroke="#5a3510" stroke-width=".5"/>
+ <!-- beam: tilted 7 degrees, right side down -->
+ <g transform="rotate(7 150 34)">
+  <rect x="42" y="31" width="216" height="6" rx="3" fill="url(#br)" stroke="#5a3510" stroke-width=".6"/>
+  <path d="M46 32.4 H254" stroke="#fff0c4" stroke-opacity=".8" stroke-width=".6"/>
+  <circle cx="44" cy="34" r="3.4" fill="url(#br)" stroke="#5a3510" stroke-width=".5"/><circle cx="256" cy="34" r="3.4" fill="url(#br)" stroke="#5a3510" stroke-width=".5"/>
+ </g>
+ <!-- pivot with the brass moon stamp -->
+ <circle cx="150" cy="34" r="9.5" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <circle cx="150" cy="34" r="6.6" fill="url(#moonG)" stroke="#8a5a22" stroke-width=".4"/>
+ <path d="M152.2 29.4 A5 5 0 1 0 152.2 38.6 A3.7 5 0 1 1 152.2 29.4 Z" fill="#7a4a18" fill-opacity=".85" transform="translate(-1 0)"/>
+ <!-- left pan: from beam end (45.8, 21.2) -->
+ <path d="M45.8 21.2 L12 84 M45.8 21.2 L80 84" stroke="#b3722f" stroke-width=".9" fill="none"/>
+ <path d="M10 84 H82 C80 94 66 98 46 98 C26 98 12 94 10 84 Z" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <path d="M12 85 H80" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".8"/>
+ <rect x="20" y="52" width="52" height="33" rx="6" fill="url(#lea)" stroke="#2a1608" stroke-width=".8"/>
+ <rect x="23.5" y="55.5" width="45" height="26" rx="4" fill="none" stroke="#e1b774" stroke-width=".7" stroke-dasharray="2.4 1.6"/>
+ <path d="M32 52 V47 H60 V52" fill="none" stroke="#c98f45" stroke-width="1.5"/>
+ <!-- right pan: from beam end (254.2, 46.8) -->
+ <path d="M254.2 46.8 L218 110 M254.2 46.8 L292 110" stroke="#b3722f" stroke-width=".9" fill="none"/>
+ <path d="M216 110 H294 C292 121 276 125 255 125 C234 125 218 121 216 110 Z" fill="url(#br)" stroke="#5a3510" stroke-width=".7"/>
+ <path d="M218 111 H292" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".8"/>
+ <g transform="rotate(-5 240 98)"><rect x="213" y="86" width="54" height="25" rx="2" fill="url(#bill)" stroke="#8a6a22" stroke-width=".7"/><rect x="216" y="89" width="48" height="19" fill="none" stroke="#8a6a22" stroke-width=".4"/></g>
+ <g transform="rotate(4 268 99)"><rect x="243" y="88" width="54" height="25" rx="2" fill="url(#bill)" stroke="#8a6a22" stroke-width=".7"/><rect x="246" y="91" width="48" height="19" fill="none" stroke="#8a6a22" stroke-width=".4"/></g>
+ <path d="M281 77.5 q4 -4 8 0" stroke="#a8702c" stroke-width=".5" fill="none"/>
+</svg>
+<div class="tag" style="left:68pt; top:298pt; width:44pt">$10</div>
+<div class="tag" style="left:260pt; top:331pt; width:34pt; transform:rotate(-5deg)">$8</div>
+<div class="tag" style="left:300pt; top:333pt; width:34pt; transform:rotate(4deg)">$3</div>
+
+
+<!-- Row 8 -->
+<div class="qcard" style="left:362pt; top:272pt; width:460pt; height:92pt"><div class="sh">8 Tell a story with numbers</div><p>Tell a story about buying and selling oranges for each expression.</p><p>(a) 16 + (−3) + 5  (b) 14 + 2 − 10</p></div>
+<div class="ablock" style="left:362pt; top:374pt; width:460pt; height:222pt"><div class="sh">Check your method</div>
+ <p>(a) One possible answer: “A seller has 16 oranges, sells 3, then buys 5 more. How many oranges remain?” Selling 3 is a change of −3:</p>
+ <b class="eq" data-math="16 + (−3) + 5 = 16 − 3 + 5 = 13 + 5 = 18">16 + (−3) + 5 = 16 − 3 + 5 = 13 + 5 = 18</b>
+ <p>(b) One possible answer: “A seller has 14 oranges, buys 2 more, then sells 10. How many oranges remain?”</p>
+ <b class="eq" data-math="14 + 2 − 10 = 16 − 10 = 6">14 + 2 − 10 = 16 − 10 = 6</b>
+ <p>Your story may be different. Check that the starting number, changes and order match the expression, and that every number counts oranges.</p></div>
+
+<!-- Vihaan on the pot shelf, lower left, with the companion quote -->
+<svg class="blk" style="left:44pt; top:600pt; width:150pt; height:14pt" viewBox="0 0 150 14" aria-hidden="true"><rect x="0" y="0" width="150" height="4.4" rx="1" fill="url(#nose)" stroke="#5a3510" stroke-width=".4"/><path d="M14 4.4 L6 10 M136 4.4 L144 10" stroke="#b3722f" stroke-width="1.2"/></svg>
+<div class="blk" style="left:56pt; top:460pt; width:128pt"><img src="assets/img/VIHAAN.png" alt="" style="display:block; width:100%"></div>
+<div class="aside-b" id="aside" style="left:192pt; top:432pt; width:164pt; padding:14pt 22pt 15pt">Two methods. Same answer. I enjoy that more than I expected.<svg class="tl" style="left:-30pt; top:58pt; width:32pt; height:16pt" viewBox="0 0 32 16" aria-hidden="true"><path d="M32 1 C24 3 12 7 0 14 C14 14 25 13 32 11" fill="#FFFDF6" stroke="#1d2433" stroke-width=".8"/><path d="M32 1.6 V10.4" stroke="#FFFDF6" stroke-width="1.6"/></svg></div>
+
+<div class="pagemark" style="--pm-ink:#f6dca0; --pm-ring:#e0b25e; --pm-coin:rgba(30,12,4,.75); --pm-shadow:0 1pt 2pt rgba(0,0,0,.6)"><span class="pm-no">27</span></div>
+
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>

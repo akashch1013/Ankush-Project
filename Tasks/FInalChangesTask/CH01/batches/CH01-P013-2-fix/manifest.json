@@ -1,0 +1,20 @@
+{
+ "name": "CH01-P013-2-fix",
+ "created": "2026-11-28T03:31:49",
+ "endpoint": "/v1/images/edits",
+ "jobs": [
+  {
+   "rid": "P013-2",
+   "kind": "fix",
+   "quality": "high",
+   "size": "1536x1024",
+   "prompt_sha": "54082c106cb6",
+   "refs": [
+    "item:P013-2"
+   ],
+   "instruction": "Move the car with the helper and cart lower down the shaft so the car floor is clearly lower than it is now, level with the position strip's -5 mark; keep everything else (crew, Tara's finger on HOLD, lighting, framing, ribs) exactly as is; no lettering.",
+   "custom_id": "P013-2~fix~2"
+  }
+ ],
+ "bytes": 709439
+}

@@ -1,0 +1,209 @@
+/* ChandRush page design system. One page = one 12 x 9 in sheet (864 x 648 pt), landscape, zero bleed.
+   Everything is measured in pt so the HTML, the artifact and the PDF agree exactly.
+   Theme = CSS variables on .page (pick a theme class or override the variables in the page's <style>).
+   Patterns and when to use each: patterns.md. Reference renders: samples/*.jpg. */
+
+@font-face { font-family: "Source Serif 4"; src: url("fonts/SourceSerif4.ttf") format("truetype"); font-weight: 200 900; font-style: normal; }
+@font-face { font-family: "Source Serif 4"; src: url("fonts/SourceSerif4-Italic.ttf") format("truetype"); font-weight: 200 900; font-style: italic; }
+@font-face { font-family: "Source Sans 3"; src: url("fonts/SourceSans3.ttf") format("truetype"); font-weight: 200 900; font-style: normal; }
+@font-face { font-family: "Source Sans 3"; src: url("fonts/SourceSans3-Italic.ttf") format("truetype"); font-weight: 200 900; font-style: italic; }
+
+@page { size: 12in 9in; margin: 0; }
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+@media screen {
+  /* the artifact shows only the page, centred and scaled to the window (scale set by the inline script) */
+  html, body { background: #2b2b2b; min-height: 100vh; }
+  body { overflow-x: hidden; }
+  .page { margin: 0 auto; }            /* the inline script sets CSS zoom so the sheet fits the window */
+}
+@media print { .page { zoom: 1 !important; } }
+
+/* ------------------------------------------------------------------ themes
+   --bg page colour, --ink body text, --head titles, --accent gold/brass lines and highlights,
+   --muted secondary text, --card / --card-ink boxes, --cap caption box, --line rules and frames,
+   --hi1 / --hi2 maths highlight colours (e.g. first/then steps, +/− jumps). */
+.page {
+  --bg: #13213d; --ink: #f2efe6; --head: #e3bf6a; --accent: #c9a35a; --muted: #b9c0cf;
+  --card: #0d1830; --card-ink: #eef1f6; --cap: #eef0f4; --cap-ink: #1b2433; --line: #c9a35a;
+  --hi1: #e3bf6a; --hi2: #7fc4e8; --bubble: #ffffff; --bubble-ink: #18202e;
+  --serif: "Source Serif 4", Georgia, serif; --sans: "Source Sans 3", "Lato", Arial, sans-serif;
+  --body: 14pt; --small: 12pt; --cap-size: 14pt; --bubble-size: 14pt; --lead: 18pt; --title: 26pt; --sub: 16pt; --eq: 20pt;
+}
+.theme-navy   { --bg: #13213d; --card: #0d1830; --head: #e3bf6a; }
+.theme-teal   { --bg: #17393a; --card: #0f2a2b; --head: #e6c47a; --hi2: #8fd3c7; }
+.theme-plum   { --bg: #2c2236; --card: #201829; --head: #e8c27a; --hi2: #c9b3f0; }
+.theme-slate  { --bg: #232a3a; --card: #1a2030; --head: #e0bd72; }
+.theme-ochre  { --bg: #c9b48a; --ink: #1d2433; --head: #1d2a4a; --muted: #4a4a4a; --line: #8b6a2e; }
+/* light paper themes for text-led pages */
+.theme-paper, .theme-sage, .theme-lilac, .theme-mist, .theme-blush {
+  --ink: #1e2533; --head: #1f2c47; --muted: #4b5468; --accent: #b08a3e; --line: #b08a3e;
+  --card: #173a3a; --card-ink: #f3f1ea; --cap: #fbf7ee; --cap-ink: #1e2533; --hi1: #a8781f; --hi2: #2e6f9e;
+}
+.theme-paper { --bg: #f3ecdd; }
+.theme-sage  { --bg: #e6ece2; }
+.theme-lilac { --bg: #ebe6f0; }
+.theme-mist  { --bg: #e5ecef; }
+.theme-blush { --bg: #f1e7e2; }
+
+/* ------------------------------------------------------------------ sheet */
+.page {
+  position: relative; width: 864pt; height: 648pt; overflow: hidden;
+  background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: var(--body); line-height: 1.32;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+.page p { margin: 0 0 6pt; }
+.abs { position: absolute; }           /* place blocks with inline left/top/width/height in pt */
+
+/* thin inset frame with small corner ornaments (story pages) */
+.frame { position: absolute; inset: 9pt; border: 0.8pt solid var(--line); pointer-events: none; opacity: .85; }
+.frame::before, .frame::after { content: ""; position: absolute; width: 22pt; height: 22pt; border: 1.6pt solid var(--line); }
+.frame::before { left: -5pt; top: -5pt; border-right: 0; border-bottom: 0; }
+.frame::after { right: -5pt; bottom: -5pt; border-left: 0; border-top: 0; }
+.frame.corners4 { box-shadow: inset 0 0 0 3pt transparent; }
+.frame .c3, .frame .c4 { position: absolute; width: 22pt; height: 22pt; border: 1.6pt solid var(--line); }
+.frame .c3 { right: -5pt; top: -5pt; border-left: 0; border-bottom: 0; }
+.frame .c4 { left: -5pt; bottom: -5pt; border-right: 0; border-top: 0; }
+
+/* running header for text-led and reference pages */
+.runhead { position: absolute; left: 36pt; right: 36pt; top: 16pt; height: 18pt; display: flex; justify-content: space-between;
+  font: 700 8.5pt/18pt var(--sans); letter-spacing: .03em; text-transform: uppercase; border-bottom: .8pt solid var(--line); color: var(--ink); }
+.runhead .mid { margin-left: auto; margin-right: 46pt; }
+.pno { position: absolute; right: 22pt; bottom: 12pt; font: 600 8pt var(--sans); color: var(--muted); }
+
+/* titles */
+.title { font: 600 var(--title)/1.12 var(--serif); color: var(--head); margin: 0; }
+.kicker { font: 700 11pt var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--accent); }
+.h-sub { font: 600 var(--sub)/1.2 var(--sans); color: var(--ink); margin: 0 0 6pt; }
+.rule { border: 0; border-top: .8pt solid var(--line); margin: 8pt 0; opacity: .8; }
+
+/* ------------------------------------------------------------------ panels (AI art) */
+.panel { position: absolute; overflow: hidden; border: 1.2pt solid var(--accent); background: #000; }
+.panel > img.art { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: var(--fx, 50%) var(--fy, 50%); }
+/* zoom a detail of the same art into a smaller panel (reuses one image, no extra API call):
+   <div class="panel" style="--z:2.2; --fx:30%; --fy:60%"> */
+.panel.zoom > img.art { transform: scale(var(--z, 2)); transform-origin: var(--fx, 50%) var(--fy, 50%); }
+
+/* narration caption (story text): pale rounded box, serif, sits inside a panel or on the page */
+.cap { position: absolute; background: var(--cap); color: var(--cap-ink); font: 400 var(--cap-size)/1.28 var(--serif);
+  padding: 5pt 8pt; border-radius: 5pt; box-shadow: 0 1pt 3pt rgba(0,0,0,.35); }
+.cap.plain { position: static; display: inline-block; }
+
+/* speech bubble: white, sans semibold, tail via --tx (tail x position) and a tail class */
+.bubble { position: absolute; background: var(--bubble); color: var(--bubble-ink); font: 600 var(--bubble-size)/1.25 var(--sans);
+  padding: 6pt 10pt; border-radius: 12pt; text-align: center; box-shadow: 0 1pt 3pt rgba(0,0,0,.35); border: .8pt solid #2a2f3a; }
+.bubble::after { content: ""; position: absolute; width: 14pt; height: 14pt; background: var(--bubble);
+  border: .8pt solid #2a2f3a; border-top: 0; border-left: 0; }
+.bubble.tail-b::after  { left: var(--tx, 50%); bottom: -7.5pt; transform: translateX(-50%) rotate(45deg) skew(12deg,12deg); }
+.bubble.tail-t::after  { left: var(--tx, 50%); top: -7.5pt;    transform: translateX(-50%) rotate(225deg) skew(12deg,12deg); }
+.bubble.tail-l::after  { top: var(--ty, 50%); left: -7.5pt;    transform: translateY(-50%) rotate(135deg) skew(12deg,12deg); }
+.bubble.tail-r::after  { top: var(--ty, 50%); right: -7.5pt;   transform: translateY(-50%) rotate(-45deg) skew(12deg,12deg); }
+.bubble.thought { border-radius: 40%; }
+
+/* dark translucent box on top of art for a maths overlay (e.g. a number line inside a panel) */
+.overlay { position: absolute; background: rgba(10,18,36,.86); color: #f2efe6; border-radius: 6pt; padding: 8pt 10pt;
+  border: .8pt solid rgba(201,163,90,.6); }
+
+/* ------------------------------------------------------------------ teaching */
+.teach { position: absolute; color: var(--ink); }
+.teach .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 26pt; }
+.eq { font: 600 var(--eq)/1.25 var(--sans); color: var(--ink); white-space: nowrap; margin: 4pt 0 8pt; }
+.eq.big { font-size: 26pt; }
+.eq.hl { color: var(--head); }
+.m { white-space: nowrap; }                       /* inline maths that must not break across lines */
+.hi1 { color: var(--hi1); } .hi2 { color: var(--hi2); }
+.strong { font-weight: 700; }
+.note { font-size: var(--small); color: var(--muted); }
+.blank { display: inline-block; min-width: 34pt; border-bottom: 1pt solid currentColor; height: 1em; vertical-align: -2pt; }
+.qbox { border: .8pt solid var(--line); border-radius: 6pt; padding: 8pt 10pt; }
+.answer { background: var(--cap); color: var(--cap-ink); border-radius: 6pt; padding: 6pt 10pt; display: inline-block; font-weight: 600; }
+
+/* numbered steps with a thin timeline */
+.steps { position: relative; padding-left: 16pt; border-left: 1.2pt solid var(--line); }
+.steps .step { position: relative; margin-bottom: 9pt; }
+.steps .step::before { content: ""; position: absolute; left: -20.5pt; top: 5pt; width: 7pt; height: 7pt; border-radius: 50%; background: var(--accent); }
+.steps .step b { display: block; }
+.numdot { display: inline-flex; width: 15pt; height: 15pt; border-radius: 50%; background: var(--card); color: var(--card-ink);
+  font: 700 9pt/15pt var(--sans); justify-content: center; margin-right: 6pt; }
+
+/* dark rounded card (reference tables, "calculate" bars) */
+.card { position: absolute; background: var(--card); color: var(--card-ink); border-radius: 10pt; padding: 10pt 14pt; }
+.bar { background: var(--card); color: var(--card-ink); border-radius: 6pt; padding: 8pt 14pt; display: flex; gap: 24pt; align-items: center; }
+table.tbl { border-collapse: collapse; width: 100%; font-size: var(--small); }
+table.tbl th { text-align: left; font-weight: 700; padding: 5pt 8pt; }
+table.tbl td { padding: 4pt 8pt; border-top: .6pt solid rgba(0,0,0,.12); }
+.card table.tbl td { background: #fbf8f0; color: #1e2533; }
+.card table.tbl tr:nth-child(even) td { background: #eef3ee; }
+.pill { display: inline-block; min-width: 24pt; text-align: center; border-radius: 10pt; background: #ead9b0; color: #1e2533; font-weight: 700; padding: 0 6pt; }
+
+/* maths tiles like [+4] [+4] [+4] -> 12 */
+.tiles { display: flex; gap: 6pt; align-items: center; }
+.tile { min-width: 46pt; padding: 5pt 8pt; border-radius: 8pt; text-align: center; font: 700 15pt var(--sans);
+  background: #f6e7b8; color: #1e2533; border: 1pt solid var(--accent); }
+.tile.neg { background: #dde8f6; }
+
+/* ------------------------------------------------------------------ spot art (vignettes, props) */
+/* a character or prop on a plain background, feathered into the page so no rectangle edge shows */
+.vignette { position: absolute; }
+.vignette > img { width: 100%; height: 100%; object-fit: contain;
+  -webkit-mask-image: radial-gradient(ellipse 50% 50% at 50% 50%, #000 58%, transparent 90%);
+          mask-image: radial-gradient(ellipse 50% 50% at 50% 50%, #000 58%, transparent 90%); }
+.vignette > img { clip-path: inset(2px); }   /* hides a 1px print artifact at the masked image's border */
+.vignette.cutout > img { -webkit-mask-image: none; mask-image: none; }   /* for art already on a transparent background */
+
+/* open book prop: book art behind two text pages */
+.book { position: absolute; }
+.book > img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: fill; }
+.book .leaf { position: absolute; color: #2a2118; font-size: 12.5pt; line-height: 1.35; }
+
+/* ------------------------------------------------------------------ border motifs (decorative page edges) */
+.edge { position: absolute; pointer-events: none; opacity: .9; }
+.edge.top, .edge.bottom { left: 0; right: 0; height: 12pt; }
+.edge.left, .edge.right { top: 0; bottom: 0; width: 12pt; }
+.edge.top { top: 6pt; } .edge.bottom { bottom: 6pt; } .edge.left { left: 8pt; } .edge.right { right: 8pt; }
+/* dashes (paper pages) */
+.edge.dash.top, .edge.dash.bottom { background: repeating-linear-gradient(90deg, var(--line) 0 10pt, transparent 10pt 22pt); height: 1.4pt; }
+.edge.dash.left, .edge.dash.right { background: repeating-linear-gradient(180deg, var(--line) 0 10pt, transparent 10pt 22pt); width: 1.4pt; }
+/* ticket stubs in two colours (stamp-like edge) */
+.edge.stub.top, .edge.stub.bottom { background: repeating-linear-gradient(90deg, #8f7b62 0 16pt, transparent 16pt 26pt, #9db6c9 26pt 42pt, transparent 42pt 52pt); height: 7pt; }
+.edge.stub.left, .edge.stub.right { background: repeating-linear-gradient(180deg, #8f7b62 0 16pt, transparent 16pt 26pt, #9db6c9 26pt 42pt, transparent 42pt 52pt); width: 7pt; }
+/* bunting triangles on the sides */
+.edge.bunting.left, .edge.bunting.right { width: 9pt;
+  background: repeating-linear-gradient(180deg, transparent 0 22pt, transparent 22pt 44pt),
+              conic-gradient(from 225deg at 0 50%, var(--line) 0 90deg, transparent 0) 0 0 / 9pt 44pt repeat-y; }
+/* small ticks/notches (dark story pages) */
+.edge.tick.left, .edge.tick.right { width: 4pt; background: repeating-linear-gradient(180deg, var(--line) 0 2pt, transparent 2pt 40pt); opacity: .6; }
+
+/* split page: a dark side band (e.g. bell + Tara on the right of a paper page) */
+.side-dark { position: absolute; top: 0; bottom: 0; background: #1b2848; }
+
+/* stacked fraction: <span class="frac"><span>3</span><span>4</span></span> */
+.frac { display: inline-flex; flex-direction: column; vertical-align: middle; text-align: center; font-size: .9em; line-height: 1.05; margin: 0 2pt; }
+.frac > span:first-child { border-bottom: 1pt solid currentColor; padding: 0 2pt; }
+/* exact text laid over a blank card/board painted in the art; tune --rx/--ry/--rz to match the card's perspective */
+.ontext { position: absolute; color: #1e2533; font: 700 16pt/1.15 var(--sans); text-align: center;
+  transform: perspective(600pt) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) rotateZ(var(--rz, 0deg)); }
+
+/* ------------------------------------------------------------------ Design Manual V09 additions (see manual-v09.md) */
+.page { --g-indigo: #122A45; --g-teal: #245857; --g-aubergine: #46364F; --g-slate: #384961;
+        --paper-warm: #F7F1E3; --paper-cool: #E9EEF0; --m-teal: #1F6F6B; --m-terra: #B5603A; }
+.cap { line-height: var(--lead); padding: 5pt 7pt; }
+.bubble { line-height: var(--lead); }
+.aside:not(.say) { font-family: var(--serif) !important; font-weight: 400 !important; }   /* V09 detached remark; kit .say.aside uses Kalam */
+/* PDF text layer: ligatures (ft, fi) drop letters when text is copied or searched from the PDF */
+.page, .page * { font-variant-ligatures: none !important; }
+.runline { position: absolute; font: 600 10.5pt/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; }
+.mt { color: var(--m-teal); font-weight: 700; }   /* tracked quantity */
+.mr { color: var(--m-terra); font-weight: 700; }  /* second role */
+
+/* ------------------------------------------------------------------ page mark (user rule 2026-11-26)
+   Chapter label + page number at ONE fixed place on every page (bottom-right). Never move it per page; only
+   recolour with --pm-ink / --pm-ring / --pm-coin. Markup:
+   <div class="pagemark"><span class="pm-no">43</span></div>  (2026-11-28: page number only; no chapter label)
+   Keep x 560–820 pt, y 624–648 pt clear of panels, captions and ornaments. */
+.page .pagemark { position: absolute; right: 48pt; bottom: 5pt; height: 16pt; display: flex; align-items: center; gap: 7pt;
+  z-index: 60; white-space: nowrap; font: 600 9pt/16pt "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--pm-ink, #e0b65e); text-shadow: var(--pm-shadow, 0 1pt 2pt rgba(0,0,0,.55)); }
+.page .pagemark .pm-no { display: inline-flex; align-items: center; justify-content: center; box-sizing: border-box;
+  min-width: 16pt; height: 16pt; padding: 0 3pt; border-radius: 8pt; border: 1.1pt solid var(--pm-ring, #c9973f);
+  background: var(--pm-coin, rgba(0,0,0,.18)); font: 700 8pt/1 "Source Sans 3", "Source Sans Pro", sans-serif; letter-spacing: 0; }

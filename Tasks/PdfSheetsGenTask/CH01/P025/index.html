@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>ChandRush CH01 P025</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/kit.css">
+<style>
+
+  .page.ledger { color: #1d2433; font-family: "Source Sans 3", sans-serif; font-size: 14pt; line-height: 18pt; overflow: hidden; }
+  .ledger .blk { position: absolute; }
+  .ledger p { margin: 0 0 4pt; font-size: 14pt; line-height: 18pt; color: #1d2433; }
+  .ledger .sh { font-weight: 600; color: #122A45; font-size: 17pt; line-height: 21pt; margin: 0 0 5pt; display: flex; align-items: center; white-space: nowrap; }
+  .ledger .sh::after { content: ""; display: block; width: 30pt; height: 0; border-top: .9pt solid #b3722f; margin-left: 9pt; }
+  .ledger .mt { color: #1F6F6B; font-weight: 700; }
+  .ledger .mr { color: #B5603A; font-weight: 700; }
+  .ledger .eq { font-size: 18pt; line-height: 25pt; font-weight: 600; color: #1d2433; margin: 0; }
+  .ledger .lb { font-weight: 700; color: #1F6F6B; font-size: 14pt; margin-right: 5pt; }
+  .ledger .eqrow { margin: 0 0 1pt; display: block; }
+  .ledger .eqrow p { margin: 0; }
+  .ledger .voice { font-family: "Source Serif 4", serif; font-style: italic; }
+  .pagemark svg { display: none; }
+
+  .page.ledger { background: #EEF0EC; }
+  .tk { position: absolute; box-sizing: border-box; width: 140pt; height: 40pt; display: flex; align-items: center; padding: 0 8pt;
+        background: linear-gradient(180deg, #FDFCF8, #E7EAE5); border: .8pt solid #b3722f; border-radius: 1.5pt;
+        box-shadow: 0 1.6pt 0 #8d96a6, 0 3pt 3pt rgba(12,25,51,.25); }
+  .tk .lb { margin-right: 6pt; }
+  .tk .q { font-size: 18pt; line-height: 22pt; font-weight: 600; white-space: nowrap; color: #1d2433; }
+  .board { position: absolute; box-sizing: border-box; background: #F7F8F4; border: .8pt solid #122A45;
+           background-image: linear-gradient(135deg, rgba(255,255,255,.7), rgba(215,222,220,.35)); }
+  .board .sh { position: absolute; left: 12pt; top: 7pt; margin: 0; }
+  .ablock { position: absolute; background: #F4EFE0; border-top: .8pt solid #b3722f; box-sizing: border-box; padding: 9pt 14pt 6pt; }
+  .ablock .eq { font-size: 18pt; line-height: 25pt; white-space: nowrap; }
+  .ablock .note { font-size: 14pt; line-height: 18pt; margin: 4pt 0 0; }
+
+</style>
+</head>
+<body>
+<div class="page ledger" id="page" data-chapter="CH01" data-page="P025">
+
+<svg class="blk" style="left:0; top:0; width:864pt; height:648pt" viewBox="0 0 864 648" aria-hidden="true">
+ <defs>
+  <linearGradient id="pipe" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6e4318"/><stop offset=".22" stop-color="#f3d58f"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+  <linearGradient id="pipeV" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6e4318"/><stop offset=".3" stop-color="#f3d58f"/><stop offset=".6" stop-color="#c98f45"/><stop offset="1" stop-color="#6e4318"/></linearGradient>
+  <linearGradient id="nose" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#7c4c1a"/></linearGradient>
+  <linearGradient id="navyS" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0d1f3d"/><stop offset="1" stop-color="#234d95"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="1.2"/></filter>
+ </defs>
+ <!-- navy lacquer hairlines at left and right -->
+ <rect x="0" y="0" width="7" height="648" fill="url(#navyS)"/>
+ <rect x="857" y="0" width="7" height="648" fill="#0d1f3d"/>
+ <path d="M7.5 0 V648" stroke="#c9a24a" stroke-width=".7"/><path d="M856.5 0 V648" stroke="#c9a24a" stroke-width=".7"/>
+ <!-- top: brass pipe rail with clamps and two blank sign cards -->
+ <path d="M0 22 H864" stroke="#3d240b" stroke-opacity=".25" stroke-width="4" filter="url(#soft)"/>
+ <rect x="0" y="8" width="864" height="11" fill="url(#pipe)"/>
+ <path d="M0 10.4 H864" stroke="#fff0c4" stroke-width=".7" stroke-opacity=".8"/>
+ <g fill="url(#nose)" stroke="#5a3510" stroke-width=".5">
+  <rect x="58" y="5" width="9" height="17" rx="1.6"/><rect x="298" y="5" width="9" height="17" rx="1.6"/>
+  <rect x="520" y="5" width="9" height="17" rx="1.6"/><rect x="800" y="5" width="9" height="17" rx="1.6"/>
+ </g>
+ <g>
+  <path d="M606 19 V26 M650 19 V26" stroke="#b3722f" stroke-width="1"/>
+  <rect x="592" y="26" width="28" height="19" rx="1.5" fill="#FBF7EE" stroke="#b3722f" stroke-width=".7"/>
+  <rect x="636" y="26" width="28" height="19" rx="1.5" fill="#FBF7EE" stroke="#b3722f" stroke-width=".7"/>
+  <circle cx="606" cy="28.5" r="1.2" fill="#6e4318"/><circle cx="650" cy="28.5" r="1.2" fill="#6e4318"/>
+ </g>
+ <!-- bottom: cream marble counter lip, brass nosing, brass pipe end -->
+ <image href="assets/img/MARBLE.jpg" x="0" y="612" width="864" height="36" preserveAspectRatio="none"/>
+ <rect x="0" y="612" width="864" height="36" fill="#cfd8e6" fill-opacity=".14"/>
+ <rect x="0" y="610" width="864" height="4.2" fill="url(#nose)" stroke="#5a3510" stroke-width=".4"/>
+ <rect x="0" y="614.2" width="864" height="2" fill="#0c1933" fill-opacity=".18"/>
+ <rect x="24" y="560" width="13" height="52" fill="url(#pipeV)" stroke="#5a3510" stroke-width=".5"/>
+ <rect x="20" y="604" width="21" height="8" rx="1.5" fill="url(#nose)" stroke="#5a3510" stroke-width=".5"/>
+ <rect x="22" y="556" width="17" height="6" rx="1.5" fill="url(#nose)" stroke="#5a3510" stroke-width=".5"/>
+ <circle cx="25.5" cy="608" r="1.2" fill="#fff0c4"/><circle cx="35.5" cy="608" r="1.2" fill="#fff0c4"/>
+ <!-- break the finish line behind the page mark -->
+ <rect x="552" y="618" width="272" height="25" rx="12.5" fill="#EEF0EC" fill-opacity=".72"/>
+</svg>
+
+<div class="blk" style="left:40pt; top:36pt; width:540pt; height:48pt">
+  <div style="font-weight:700; font-size:34pt; line-height:40pt; color:#122A45; letter-spacing:.01em">Practice 1A</div>
+</div>
+<div class="blk voice" style="left:268pt; top:42pt; width:350pt; font-size:14pt; line-height:18pt; color:#1d2433">Try each question before uncovering the working. Use the number line if a negative sign makes you hesitate.</div>
+
+<div class="board" style="left:40pt; top:94pt; width:456pt; height:126pt"><div class="sh">1 Evaluate</div><div class="tk" style="left:12pt; top:32pt"><span class="lb">(a)</span><span class="q">7 + (−3)</span></div><div class="tk" style="left:160pt; top:32pt"><span class="lb">(b)</span><span class="q">−2 + (−3)</span></div><div class="tk" style="left:308pt; top:32pt"><span class="lb">(c)</span><span class="q">17 − (−2)</span></div><div class="tk" style="left:12pt; top:80pt"><span class="lb">(d)</span><span class="q">−2 − (−5)</span></div><div class="tk" style="left:160pt; top:80pt"><span class="lb">(e)</span><span class="q">−5 − (−7)</span></div><div class="tk" style="left:308pt; top:80pt"><span class="lb">(f)</span><span class="q">0 − (−9)</span></div></div>
+<div class="board" style="left:510pt; top:94pt; width:314pt; height:126pt"><div class="sh">2 Evaluate</div><div class="tk" style="left:12pt; top:32pt"><span class="lb">(a)</span><span class="q">4 + 9 − 6</span></div><div class="tk" style="left:160pt; top:32pt"><span class="lb">(b)</span><span class="q">17 − 7 − 8</span></div><div class="tk" style="left:12pt; top:80pt"><span class="lb">(c)</span><span class="q">4 − 5 + 6 − 7</span></div><div class="tk" style="left:160pt; top:80pt"><span class="lb">(d)</span><span class="q">6 − 8 − 9 + 2</span></div></div>
+
+<!-- separated answer strip, brass-hinged -->
+<svg class="blk" style="left:40pt; top:228pt; width:784pt; height:12pt" viewBox="0 0 784 12" aria-hidden="true">
+ <rect x="0" y="4" width="784" height="3" fill="#b3722f" opacity=".85"/>
+ <g fill="url(#nose)" stroke="#5a3510" stroke-width=".5"><rect x="60" y="0" width="30" height="11" rx="2"/><rect x="377" y="0" width="30" height="11" rx="2"/><rect x="694" y="0" width="30" height="11" rx="2"/></g>
+ <g fill="#fff0c4"><circle cx="66" cy="5.5" r="1.3"/><circle cx="84" cy="5.5" r="1.3"/><circle cx="383" cy="5.5" r="1.3"/><circle cx="401" cy="5.5" r="1.3"/><circle cx="700" cy="5.5" r="1.3"/><circle cx="718" cy="5.5" r="1.3"/></g>
+</svg>
+<div class="ablock" style="left:40pt; top:240pt; width:384pt; height:232pt">
+  <div class="sh">Check your method</div>
+  <div class="eqrow"><span class="lb">(a)</span><b class="eq" data-math="7 + (−3) = 7 − 3 = 4">7 + (−3) = 7 − 3 = 4</b></div><div class="eqrow"><span class="lb">(b)</span><b class="eq" data-math="−2 + (−3) = −2 − 3 = −5">−2 + (−3) = −2 − 3 = −5</b></div><div class="eqrow"><span class="lb">(c)</span><b class="eq" data-math="17 − (−2) = 17 + 2 = 19">17 − (−2) = 17 + 2 = 19</b></div><div class="eqrow"><span class="lb">(d)</span><b class="eq" data-math="−2 − (−5) = −2 + 5 = 3">−2 − (−5) = −2 + 5 = 3</b></div><div class="eqrow"><span class="lb">(e)</span><b class="eq" data-math="−5 − (−7) = −5 + 7 = 2">−5 − (−7) = −5 + 7 = 2</b></div><div class="eqrow"><span class="lb">(f)</span><b class="eq" data-math="0 − (−9) = 0 + 9 = 9">0 − (−9) = 0 + 9 = 9</b></div>
+  <p class="note">In (d), only −(−5) changes to +5. The starting number stays −2.</p>
+</div>
+<div class="ablock" style="left:430pt; top:240pt; width:394pt; height:232pt">
+  <div class="sh">Check your method</div>
+  <p style="margin:0 0 3pt">Follow addition and subtraction from left to right:</p>
+  <div class="eqrow"><span class="lb">(a)</span><b class="eq" data-math="4 + 9 − 6 = 13 − 6 = 7">4 + 9 − 6 = 13 − 6 = 7</b></div><div class="eqrow"><span class="lb">(b)</span><b class="eq" data-math="17 − 7 − 8 = 10 − 8 = 2">17 − 7 − 8 = 10 − 8 = 2</b></div><div class="eqrow"><span class="lb">(c)</span><b class="eq" data-math="4 − 5 + 6 − 7 = −1 + 6 − 7 = 5 − 7 = −2">4 − 5 + 6 − 7 = −1 + 6 − 7 = 5 − 7 = −2</b></div><div class="eqrow"><span class="lb">(d)</span><b class="eq" data-math="6 − 8 − 9 + 2 = −2 − 9 + 2 = −11 + 2 = −9">6 − 8 − 9 + 2 = −2 − 9 + 2 = −11 + 2 = −9</b></div>
+</div>
+
+<svg class="blk" style="left:40pt; top:478pt; width:784pt; height:96pt" viewBox="0 0 784 96" aria-hidden="true">
+ <defs>
+  <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a58a3"/><stop offset=".25" stop-color="#1b3d7c"/><stop offset="1" stop-color="#0d1f3d"/></linearGradient>
+  <linearGradient id="rul" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".35" stop-color="#d9a55a"/><stop offset=".8" stop-color="#b3722f"/><stop offset="1" stop-color="#7c4c1a"/></linearGradient>
+  <linearGradient id="cur" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f8f89"/><stop offset=".5" stop-color="#58b9b0"/><stop offset="1" stop-color="#1F6F6B"/></linearGradient>
+  <linearGradient id="pen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6dca0"/><stop offset=".5" stop-color="#c98f45"/><stop offset="1" stop-color="#7a4a18"/></linearGradient>
+  <radialGradient id="rv" cx=".35" cy=".3" r=".8"><stop offset="0" stop-color="#fff0c4"/><stop offset=".5" stop-color="#d7a256"/><stop offset="1" stop-color="#6e4318"/></radialGradient>
+ </defs>
+ <!-- navy lacquer rail -->
+ <rect x="0" y="12" width="784" height="78" rx="3" fill="url(#rail)" stroke="#0c1933" stroke-width=".8"/>
+ <rect x="1" y="13" width="782" height="76" rx="2.5" fill="none" stroke="#5f8bd6" stroke-opacity=".5" stroke-width=".6"/>
+ <path d="M0 40 H784 M0 70 H784" stroke="#0a1730" stroke-opacity=".35" stroke-width=".4" stroke-dasharray="90 8 140 6 60 12"/>
+ <!-- rivets, with a faint moon catch on the upper-left of each -->
+ <g>
+ <g><circle cx="14" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="13" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="14" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="13" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="74" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="73" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="74" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="73" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="134" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="133" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="134" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="133" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="194" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="193" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="194" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="193" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="254" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="253" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="254" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="253" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="314" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="313" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="314" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="313" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="374" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="373" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="374" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="373" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="434" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="433" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="434" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="433" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="494" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="493" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="494" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="493" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="554" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="553" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="554" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="553" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="614" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="613" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="614" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="613" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="674" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="673" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="674" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="673" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="734" cy="21" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="733" cy="20" r=".9" fill="#dfeaff" fill-opacity=".9"/></g><g><circle cx="734" cy="81" r="3.2" fill="url(#rv)" stroke="#5a3510" stroke-width=".4"/><circle cx="733" cy="80" r=".9" fill="#dfeaff" fill-opacity=".9"/></g>
+ </g>
+ <!-- pencil groove along the rail -->
+ <rect x="130" y="73" width="430" height="9" rx="4.5" fill="#06101f" stroke="#0a1730" stroke-width=".5"/>
+ <g transform="translate(150 73.2)">
+   <rect x="22" y="0" width="150" height="8.6" rx="1.2" fill="url(#pen)" stroke="#5a3510" stroke-width=".4"/>
+   <path d="M22 2.8 H172 M22 5.8 H172" stroke="#fff0c4" stroke-opacity=".5" stroke-width=".4"/>
+   <path d="M0 4.3 L22 0 V8.6 Z" fill="#e9d3a4" stroke="#5a3510" stroke-width=".4"/>
+   <path d="M0 4.3 L7 2.6 V6 Z" fill="#1d2433"/>
+   <rect x="172" y="0" width="14" height="8.6" rx="2" fill="#122A45" stroke="#0c1933" stroke-width=".4"/>
+   <path d="M175 0 V8.6 M178 0 V8.6" stroke="#c9a24a" stroke-width=".6"/>
+ </g>
+ <!-- brass ruler: -10 to 10, one interval = 28 pt -->
+ <g transform="translate(98 26)">
+  <rect x="0" y="0" width="588" height="42" rx="2" fill="url(#rul)" stroke="#5a3510" stroke-width=".7"/>
+  <path d="M1 1.4 H587" stroke="#fff0c4" stroke-width=".9" stroke-opacity=".8"/>
+  <path d="M14 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M42 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M70 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M98 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M126 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M154 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M182 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M210 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M238 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M266 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M294 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M322 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M350 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M378 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M406 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M434 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M462 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M490 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M518 0 V17" stroke="#4a2c0c" stroke-width="1.1"/><path d="M546 0 V11" stroke="#4a2c0c" stroke-width="0.8"/><path d="M574 0 V17" stroke="#4a2c0c" stroke-width="1.1"/>
+  <text x="14" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#8a2e12">−10</text><text x="70" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#8a2e12">−8</text><text x="126" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#8a2e12">−6</text><text x="182" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#8a2e12">−4</text><text x="238" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#8a2e12">−2</text><text x="294" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#0e4a46">0</text><text x="350" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#122A45">2</text><text x="406" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#122A45">4</text><text x="462" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#122A45">6</text><text x="518" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#122A45">8</text><text x="574" y="36" text-anchor="middle" font-family="Source Sans 3" font-weight="700" font-size="13" fill="#122A45">10</text>
+  <!-- slide cursor at 0 -->
+  <g transform="translate(294 0)">
+   <rect x="-9" y="-6" width="18" height="54" rx="2.5" fill="url(#cur)" stroke="#0e4a46" stroke-width=".8" fill-opacity=".82"/>
+   <path d="M0 -6 V48" stroke="#fff" stroke-opacity=".9" stroke-width=".7"/>
+   <path d="M-8 -5 H8" stroke="#bfeee8" stroke-width=".7" stroke-opacity=".8"/>
+   <!-- navy flag with a moon notch -->
+   <path d="M0 -6 V-22" stroke="#6e4318" stroke-width="1.2"/>
+   <path d="M1 -22 H20 L16 -16.5 L20 -11 H1 Z" fill="#122A45" stroke="#c9a24a" stroke-width=".6"/>
+   <path d="M20 -22 A5.6 5.6 0 0 0 20 -11 A4.1 5.6 0 0 1 20 -22 Z" fill="#EEF0EC" transform="translate(-6.2 0)"/>
+   <circle cx="0" cy="-23" r="1.6" fill="#d7a256" stroke="#6e4318" stroke-width=".4"/>
+  </g>
+ </g>
+</svg>
+<div class="pagemark" style="--pm-ink:#122A45; --pm-ring:#b3722f; --pm-coin:rgba(247,241,227,.85); --pm-shadow:none"><span class="pm-no">25</span></div>
+
+</div>
+<script>
+  /* screen only: scale the 12x9 in sheet to fit the window; printing ignores this */
+  (function () {
+    var p = document.getElementById("page");
+    function fit() {
+      p.style.zoom = 1;
+      var s = Math.min(document.documentElement.clientWidth / p.offsetWidth, window.innerHeight / p.offsetHeight);
+      p.style.zoom = s;
+    }
+    if (window.matchMedia && !window.matchMedia("print").matches) { window.addEventListener("resize", fit); fit(); }
+  })();
+</script>
+</body>
+</html>
