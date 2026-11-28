@@ -272,5 +272,29 @@
   "pdf": "Output/CH01/CH01-P027.pdf",
   "design": "word problems: balance + Vihaan Q03",
   "version": "1795844655-801b"
+ },
+ "P028": {
+  "url": "https://claude.ai/artifact/4p4CBfqvV3nZBY4YwQcqcU",
+  "file_path": "PdfSheetsGenTask/CH01/P028/artifact.html",
+  "math": "PASS 2026-11-28 (tags added)",
+  "pdf": "Output/CH01/CH01-P028.pdf",
+  "design": "action-story: wheels set, gate opens",
+  "version": "1795844987-104e"
+ },
+ "P029": {
+  "url": "https://claude.ai/artifact/GE9iJCts533SFEQ2GMib31",
+  "file_path": "PdfSheetsGenTask/CH01/P029/artifact.html",
+  "math": "PASS 2026-11-28",
+  "pdf": "Output/CH01/CH01-P029.pdf",
+  "design": "dialogue-story: five lights",
+  "version": "1795844989-76b7"
+ },
+ "P030": {
+  "url": "https://claude.ai/artifact/QVP4AGzdWYGcgVyahg86Vz",
+  "file_path": "PdfSheetsGenTask/CH01/P030/artifact.html",
+  "math": "PASS 2026-11-28 (master: plate's 1–16 beat ruler is not the 'final 12 setting')",
+  "pdf": "Output/CH01/CH01-P030.pdf",
+  "design": "action-story: two catches hold the bird",
+  "version": "1795844990-b971"
  }
 }

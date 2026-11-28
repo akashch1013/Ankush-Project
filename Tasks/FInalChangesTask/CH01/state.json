@@ -1391,10 +1391,24 @@
    ]
   },
   "V-TARA-P024": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "review",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-vtara",
+     "at": "2026-11-28T05:49:54",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "1dd51ed532b8",
+     "refs": [
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0275
+    }
+   ],
+   "note": ""
   }
  },
  "fix_queue": {}
