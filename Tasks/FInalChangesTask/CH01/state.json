@@ -543,112 +543,531 @@
    ]
   },
   "P011-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "faf158616dfd",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0503
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P011-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "6a52ea753843",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0501
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P011-5": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "e10fdbfb88d2",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0379
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P012-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "5fbb9a88ed82",
+     "refs": [
+      "BagroundGenTask/out/plates/S02-B01.png"
+     ],
+     "instruction": null,
+     "usd": 0.0257
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P012-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "d63d19c25969",
+     "refs": [
+      "BagroundGenTask/out/plates/S02-D01.png"
+     ],
+     "instruction": null,
+     "usd": 0.0255
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P012-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "e6aa5a780cf9",
+     "refs": [
+      "BagroundGenTask/out/plates/S02-B01.png"
+     ],
+     "instruction": null,
+     "usd": 0.0256
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P013-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "76e3cb1515eb",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0436
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:47",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P013-2": {
    "status": "queued",
-   "attempts": [],
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "b0eda736661c",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0437
+    }
+   ],
    "note": "",
-   "prev_status": "todo"
+   "prev_status": "fixq"
   },
   "P013-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "d26fc5c56752",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D02.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0373
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P014-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "ded4fddeb533",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D02.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0498
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P014-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "45fd5001f023",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D02.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0498
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P014-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "f66490671699",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D02.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0429
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P017-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "c9827f28c94a",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D02.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0489
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P017-4": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "05b2a049b809",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D02.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0373
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P017-5": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1536x1024",
+     "prompt_sha": "817a7ed8f1f0",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D05.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0503
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P018-1": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1536",
+     "prompt_sha": "0634195e1687",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-D03.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0375
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P018-2": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "a355bf3a1767",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0557
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   },
   "P018-3": {
-   "status": "queued",
-   "attempts": [],
-   "note": "",
-   "prev_status": "todo"
+   "status": "approved",
+   "attempts": [
+    {
+     "n": 1,
+     "kind": "gen",
+     "via": "batch:CH01-P011-P018-w1",
+     "at": "2026-11-28T03:30:57",
+     "quality": "high",
+     "size": "1024x1024",
+     "prompt_sha": "9e03f19d0989",
+     "refs": [
+      "BagroundGenTask/out/plates/S01-B01.png",
+      "Charactors/CHANDRUSH CHARACTERS/TARA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/VIHAAN CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/NAVYA CHARACTER SHEET.png",
+      "Charactors/CHANDRUSH CHARACTERS/AHANA CHARACTER SHEET.png"
+     ],
+     "instruction": null,
+     "usd": 0.0555
+    }
+   ],
+   "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat",
+   "qc": [
+    {
+     "at": "2026-11-28T03:31:48",
+     "verdict": "pass",
+     "note": "contact-sheet + 1:1 crops (P018-1 wheels/plate, P011-5 car/helper, P011-1 cards, lanterns dark): identity, counts, plate objects, reserves ok; no lettering; helper wooden blue waistcoat"
+    }
+   ]
   }
  },
  "fix_queue": {}
