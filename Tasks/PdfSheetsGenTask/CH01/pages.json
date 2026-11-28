@@ -1563,6 +1563,420 @@
    }
   },
   {
+   "page": "P015",
+   "category": "concept",
+   "pattern": "free composition (hint only)",
+   "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+   "title": "Taking away a negative amount",
+   "purpose": "teaching (concept): bridge caption from the lift story (window shows −2), subtracting a negative as removing an applied penalty (diagram), Example 4 and Now you try.",
+   "beats": [
+    "P015"
+   ],
+   "panels": [
+    {
+     "id": "P015-1",
+     "beat": "T1.1A",
+     "box": "builder decides",
+     "art": {
+      "kind": "none",
+      "note": "teaching page: text, equations, exact SVG figures"
+     }
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.1",
+     "heading": "",
+     "text": [
+      "## Teaching block T1.1B"
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "",
+     "text": [
+      "The lift is at −5, but the change recorded in its window is −2. Undoing that recorded change is the job now. Let’s see how taking away a negative amount works."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Taking away a negative amount",
+     "text": [
+      "Suppose your displayed score is 4. A five-point penalty has already been taken from your score. Now that penalty is cancelled. The five points return, so your score becomes 9.",
+      "4 − (−5) = 4 + 5 = 9",
+      "Removing the −5 penalty gives the 5 points back. That is why subtracting a negative number has the same effect as adding its positive partner.",
+      "On a number line, subtracting −5 undoes a move of five intervals left. Undoing that move takes us five intervals right."
+     ],
+     "equations": [
+      "4 − (−5) = 4 + 5 = 9"
+     ],
+     "diagrams": [
+      {
+       "type": "svg",
+       "caption": "An applied penalty is removed",
+       "spec": "Production note V04. Show a before state with displayed score 4 and a record labelled −5 penalty already applied. Show an after state with that record cancelled and displayed score 9. Join the states with restore 5 points. Do not imply that cancelling an unapplied penalty adds points. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority."
+      }
+     ],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Example 4",
+     "text": [
+      "Evaluate (a) 0 − (−4), (b) 5 − (−2) and (c) −3 − (−5)."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [
+      "Evaluate (a) 0 − (−4), (b) 5 − (−2) and (c) −3 − (−5)."
+     ],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Let’s work it through",
+     "text": [
+      "(a) Subtracting −4 restores 4:",
+      "0 − (−4) = 0 + 4 = 4",
+      "(b) Subtracting −2 restores 2:",
+      "5 − (−2) = 5 + 2 = 7",
+      "(c) Start at −3 and move five intervals right. Three steps reach 0; two more reach 2.",
+      "−3 − (−5) = −3 + 5 = 2",
+      "We can check (c) by adding the removed number back: 2 + (−5) = −3. That rebuilds the starting value."
+     ],
+     "equations": [
+      "0 − (−4) = 0 + 4 = 4",
+      "5 − (−2) = 5 + 2 = 7",
+      "−3 − (−5) = −3 + 5 = 2"
+     ],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    },
+    {
+     "block": "T1.1",
+     "heading": "Now you try",
+     "text": [
+      "Evaluate (a) 0 − (−5), (b) 7 − (−8) and (c) −2 − (−1)."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [
+      "Evaluate (a) 0 − (−5), (b) 7 − (−8) and (c) −2 − (−1)."
+     ],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Check your method",
+     "text": [
+      "(a) 0 − (−5) = 0 + 5 = 5",
+      "(b) 7 − (−8) = 7 + 8 = 15",
+      "(c) −2 − (−1) = −2 + 1 = −1",
+      "The answer in (c) is still negative. Subtracting a negative makes the value greater; it does not promise a positive answer."
+     ],
+     "equations": [
+      "0 − (−5) = 0 + 5 = 5",
+      "7 − (−8) = 7 + 8 = 15",
+      "−2 − (−1) = −2 + 1 = −1"
+     ],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1B/T1.1C teaching pages sit between the Lantern Street lift-bay story pages (P011–P018); the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: these pages have no manuscript companion quote. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct."
+  },
+  {
+   "page": "P016",
+   "category": "worked-example",
+   "pattern": "free composition (hint only)",
+   "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+   "title": "Example 5",
+   "purpose": "teaching (worked example): mixed chains with subtracting negatives, Example 5 and Now you try with checks.",
+   "beats": [
+    "P016"
+   ],
+   "panels": [
+    {
+     "id": "P016-1",
+     "beat": "T1.1A",
+     "box": "builder decides",
+     "art": {
+      "kind": "none",
+      "note": "teaching page: text, equations, exact SVG figures"
+     }
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.1",
+     "heading": "Example 5",
+     "text": [
+      "Evaluate (a) 2 + (−3) − (−5), (b) 10 − (−7) + (−5) and (c) 6 + (−7) − (−1)."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [
+      "Evaluate (a) 2 + (−3) − (−5), (b) 10 − (−7) + (−5) and (c) 6 + (−7) − (−1)."
+     ],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Let’s work it through",
+     "text": [
+      "First replace each addition or subtraction of a negative with the change it means. Then work from left to right.",
+      "(a) Adding −3 becomes subtracting 3; subtracting −5 becomes adding 5:",
+      "2 + (−3) − (−5) = 2 − 3 + 5 = −1 + 5 = 4",
+      "(b) Here −(−7) becomes +7, and +(−5) becomes −5:",
+      "10 − (−7) + (−5) = 10 + 7 − 5 = 17 − 5 = 12",
+      "(c) Keep the starting 6 unchanged:",
+      "6 + (−7) − (−1) = 6 − 7 + 1 = −1 + 1 = 0"
+     ],
+     "equations": [
+      "2 + (−3) − (−5) = 2 − 3 + 5 = −1 + 5 = 4",
+      "10 − (−7) + (−5) = 10 + 7 − 5 = 17 − 5 = 12",
+      "6 + (−7) − (−1) = 6 − 7 + 1 = −1 + 1 = 0"
+     ],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    },
+    {
+     "block": "T1.1",
+     "heading": "Now you try",
+     "text": [
+      "Evaluate (a) −6 − (−7) + (−1), (b) 3 − (−2) + (−3) and (c) 4 + (−2) − (−5)."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [
+      "Evaluate (a) −6 − (−7) + (−1), (b) 3 − (−2) + (−3) and (c) 4 + (−2) − (−5)."
+     ],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Check your method",
+     "text": [
+      "(a) −6 − (−7) + (−1) = −6 + 7 − 1 = 1 − 1 = 0",
+      "(b) 3 − (−2) + (−3) = 3 + 2 − 3 = 5 − 3 = 2",
+      "(c) 4 + (−2) − (−5) = 4 − 2 + 5 = 2 + 5 = 7"
+     ],
+     "equations": [
+      "−6 − (−7) + (−1) = −6 + 7 − 1 = 1 − 1 = 0",
+      "3 − (−2) + (−3) = 3 + 2 − 3 = 5 − 3 = 2",
+      "4 + (−2) − (−5) = 4 − 2 + 5 = 2 + 5 = 7"
+     ],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1B/T1.1C teaching pages sit between the Lantern Street lift-bay story pages (P011–P018); the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: these pages have no manuscript companion quote. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct."
+  },
+  {
+   "page": "P019",
+   "category": "concept",
+   "pattern": "free composition (hint only)",
+   "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+   "title": "Multiplication",
+   "purpose": "teaching (concept, T1.1C opener): multiplication as equal groups, six lanterns in each arrangement (diagram).",
+   "beats": [
+    "P019"
+   ],
+   "panels": [
+    {
+     "id": "P019-1",
+     "beat": "T1.1A",
+     "box": "builder decides",
+     "art": {
+      "kind": "none",
+      "note": "teaching page: text, equations, exact SVG figures"
+     }
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.1",
+     "heading": "",
+     "text": [
+      "## Teaching block T1.1C"
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Multiplication",
+     "text": [
+      "Let’s count some small lanterns. On the left, 2 groups of 3 give 3 + 3 = 6 lanterns. On the right, 3 groups of 2 give 2 + 2 + 2 = 6. The groups change, but the total stays 6:",
+      "2 × 3 = 6;   3 × 2 = 6",
+      "The numbers we multiply are called factors; the answer is their product. We can also add the same negative change several times. For example, 3 × (−2) means three changes of −2:",
+      "3 × (−2) = (−2) + (−2) + (−2) = −6"
+     ],
+     "equations": [
+      "2 × 3 = 6",
+      "3 × 2 = 6",
+      "3 × (−2) = (−2) + (−2) + (−2) = −6"
+     ],
+     "diagrams": [
+      {
+       "type": "svg",
+       "caption": "Six lanterns in each arrangement",
+       "spec": "Production note V05. Left: two outlined rows containing exactly three small lanterns each. Right: three outlined columns containing exactly two lanterns each. Each side contains six lanterns, not twelve in one arrangement. Label 2 groups of 3 and 3 groups of 2, with the corresponding sums. Use simple whole lantern silhouettes as ChandRush counting objects, all the same size; handles and frames are parts of each lantern. Keep the outlines that show the groups; add no extra lanterns or countable decoration. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority."
+      }
+     ],
+     "questions": [],
+     "answers_on_page": false
+    }
+   ],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1B/T1.1C teaching pages sit between the Lantern Street lift-bay story pages (P011–P018); the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: these pages have no manuscript companion quote. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct."
+  },
+  {
+   "page": "P020",
+   "category": "practice-set",
+   "pattern": "free composition (hint only)",
+   "theme": "b1 (calm light paper #F7F1E3, decorated border)",
+   "title": "Follow the multiplication patterns",
+   "purpose": "teaching (practice/pattern set): follow the multiplication patterns, then complete the sign rules.",
+   "beats": [
+    "P020"
+   ],
+   "panels": [
+    {
+     "id": "P020-1",
+     "beat": "T1.1A",
+     "box": "builder decides",
+     "art": {
+      "kind": "none",
+      "note": "teaching page: text, equations, exact SVG figures"
+     }
+    }
+   ],
+   "teaching": [
+    {
+     "block": "T1.1",
+     "heading": "Follow the multiplication patterns",
+     "text": [
+      "Look at these two patterns. What changes in each column? Fill the blanks, then explain to a partner why a positive number multiplied by a negative number gives a negative answer, whichever order the two factors are written in."
+     ],
+     "equations": [
+      "3 × 3 = 9",
+      "3 × 3 = 9",
+      "3 × 2 = 6",
+      "2 × 3 = 6",
+      "3 × 1 = 3",
+      "1 × 3 = 3",
+      "3 × 0 = 0",
+      "0 × 3 = 0"
+     ],
+     "diagrams": [
+      {
+       "type": "table",
+       "rows": [
+        [
+         "First factor stays 3",
+         "Second factor stays 3"
+        ],
+        [
+         "3 × 3 = 9",
+         "3 × 3 = 9"
+        ],
+        [
+         "3 × 2 = 6",
+         "2 × 3 = 6"
+        ],
+        [
+         "3 × 1 = 3",
+         "1 × 3 = 3"
+        ],
+        [
+         "3 × 0 = 0",
+         "0 × 3 = 0"
+        ],
+        [
+         "3 × (−1) = □",
+         "(−1) × 3 = □"
+        ],
+        [
+         "3 × (−2) = □",
+         "(−2) × 3 = □"
+        ]
+       ],
+       "spec": "Production note T02. Keep both six-row patterns aligned. The four final products remain blank until the solution. Each column decreases by 3 per row; fixed and changing factors must match the stated headings. Use the current ChandRush colour and design style wherever it supports understanding. If that style would reduce clarity, retain the teaching colours, contrast and mathematical design required here. Mathematical accuracy and comprehension take priority."
+      }
+     ],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Check your method",
+     "text": [
+      "Each column goes 9, 6, 3, 0, then −3, −6: the product drops by 3 in each row.",
+      "3 × (−1) = −3;   3 × (−2) = −6",
+      "(−1) × 3 = −3;   (−2) × 3 = −6",
+      "Both columns reach −6: 3 × (−2) = −6 and (−2) × 3 = −6. You could tell your partner, “Changing the order of the factors keeps the product the same. With one positive factor and one negative factor, the product is negative.”"
+     ],
+     "equations": [
+      "3 × (−1) = −3",
+      "3 × (−2) = −6",
+      "(−1) × 3 = −3",
+      "(−2) × 3 = −6"
+     ],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    },
+    {
+     "block": "T1.1",
+     "heading": "Complete the sign rules",
+     "text": [
+      "Use the patterns to fill both blanks:",
+      "(positive) × (negative) = ______",
+      "(negative) × (positive) = ______"
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": false
+    },
+    {
+     "block": "T1.1",
+     "heading": "Check your thinking",
+     "text": [
+      "Write negative in both blanks: 3 × (−2) = −6 and (−2) × 3 = −6."
+     ],
+     "equations": [],
+     "diagrams": [],
+     "questions": [],
+     "answers_on_page": true
+    }
+   ],
+   "asides": [],
+   "spot_art": [],
+   "notes": "Page label via the fixed .pagemark (CHAPTER 01 - NUMBERS - PG 0xx, bottom-right; LESSONS 2026-11-26). T1.1B/T1.1C teaching pages sit between the Lantern Street lift-bay story pages (P011–P018); the border is built from S01-B01 / M01 plate materials (brass gate ribs, the numbered lift strip, blue lacquer, pale paving). Lantern Street is still unlit: any scenery shows moonlight, fixed lamps dark (LESSONS 2026-11-26). No silent companions: these pages have no manuscript companion quote. Number lines are exact SVG with uniform intervals; mathscan FAILs for these pages are parser artefacts (dropped leading minus), the manuscript maths is correct."
+  },
+  {
    "page": "P033",
    "category": "story-maths",
    "pattern": "free composition; nearest grid M3 (teaching column + story column)",
